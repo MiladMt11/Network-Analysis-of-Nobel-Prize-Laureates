@@ -33,7 +33,7 @@ You can explore yourself the network with the interactive visualization below an
 
 Something very interesting that can be combined with a network analysis, is the sentiment analysis of the nodes. We of course did that in our project too. In order to extract sentiment for the Nobel Laureates (nodes), we need a text that is related with them, that contains some sentiment. As the WikiPages that we used previously, are sentiment-neutrally created, we could not use them for sentiment analysis. 
 
-
+<div style="text-align: center;" markdown="1"> But what kind of text could possibly contain some sentiment for the Laureates? </div>
 
 <img src="\images\Question-Mark.png" alt="drawing" width="100"/>
 
