@@ -30,4 +30,4 @@ Last but not least we created the bar plot of the average sentiment per year for
 
 <img src="images/literature_years_sen2.png" alt="drawing" width="600"/>
 
-As we observe above, the sentiment in Literature Lectures between 1901 and 2020, changes between periods.
+As we observe above, the sentiment in Literature Lectures between 1901 and 2020, changes between periods. We can see that there is a clear reduction of sentiment as the years passed. We can also distinct three periods in that plot. From 1901-1940, the sentiment started rising and reached a peak around 1920 and remained relatively high the consecutive years. Then from 1940-1980, the scores started declining fast and reached the first negative scores. Finally, from 1980-2019 the sentiment started growing in the beginning but, declining again at the second half. We can somehow distinct different generations (or eras) by observing this plot.
