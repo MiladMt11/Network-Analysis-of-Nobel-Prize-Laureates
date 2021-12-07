@@ -14,13 +14,13 @@ Now, let's see some results!
 
 First of all let's see the histogram of the sentiment between Nobel Prize Laureates.
 
-<img src="/images/sent_hist.png" alt="drawing" width="800"/>
+<img src="images/sent_hist.png" alt="drawing" width="800"/>
 
 As we can see from the figure above the sentiments of the Laureates are concentrated around the value $0.1$. This means that the texts of their Nobel lectures are not much emotional, but are at least positive in most cases.
 
 We can also find  who have the most positively, or negatively emotional Lectures among the laureates. The results for this experiment are depicted in the figures below.
 
-<img src="/images/happiest_lau.png" alt="drawing" width="500"/> <img src="/images/saddest_lau.png" alt="drawing" width="500"/>
+<img src="images/happiest_lau.png" alt="drawing" width="500"/> <img src="images/saddest_lau.png" alt="drawing" width="500"/>
 
 As we can see, the most negative emotiolanlly Lectures, were given by organizations that received the Peace award, and not individuals. This pattern is very interesting, and we wonder why is that happening. The answer may be that these Organizations fight against something negative happening in the globe, and this is what they talk about in their lecture. 
 Something that also needs to be commented is themost positive Laureate *John B. Goodenough*, even though he is a chemist, and his lecture was mostly about figures and mathematical formulas, he holds the most positive score. This is because he refers to technologies that are going to have very positive results to the world.
@@ -28,6 +28,6 @@ Also, the most negative sentimented Laureate, is a *Élie Ducommun*, even though
 
 Last but not least we created the bar plot of the average sentiment per year for the different categories. The category that is mostly interesting totalk about is the sentiment of Laureates awarded the Literature Nobel Prize. In the figure below we can see why.
 
-<img src="/images/literature_years_sen2.png" alt="drawing" width="600"/>
+<img src="images/literature_years_sen2.png" alt="drawing" width="600"/>
 
 As we observe above, the sentiment in Literature Lectures between 1901 and 2020, changes between periods. We can see that there is a clear reduction of sentiment as the years passed. We can also distinct three periods in that plot. From 1901-1940, the sentiment started rising and reached a peak around 1920 and remained relatively high the consecutive years. Then from 1940-1980, the scores started declining fast and reached the first negative scores. Finally, from 1980-2019 the sentiment started growing in the beginning but, declining again at the second half. We can somehow distinct different generations (or eras) by observing this plot.
