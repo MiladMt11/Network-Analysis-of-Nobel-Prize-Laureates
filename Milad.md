@@ -34,4 +34,4 @@ This can be explained by the fact that laureates in the Physics category tend to
   <img src="/images/Max Connectivity Each Category.png">
 </p>
 
-##Word Clouds
+## Word Clouds
