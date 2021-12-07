@@ -22,6 +22,6 @@ The first plot below represents the average degree for each year. Based on the p
 Using the second plot, we attempted to represent the maximum degree over time. There is a noticeable difference in the maximum degree for each year before 1965 compared to years after 1965. The reason behind this might be that as we move forward in time, references (links) to laureates who won the award in the past increase. This may caused by the citations or references made by recent laureates to previous laureates work. consequently, the average degree in the years before 1965 is higher than in recent years.
 
 <p align="center">
-  <img src="/images/Average Connectivity Through Time.png">
+  <img src="/images/Max Connectivity Through Time.png">
 </p>
 
