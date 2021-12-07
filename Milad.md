@@ -29,3 +29,7 @@ Using the second plot, we attempted to represent the maximum degree over time. T
 We can also examine connectivity from another aspect by investigating the maximum degree of connection among the winners of each category.
 According to the following plot, clearly, the Physics category is the one with the highest connectivity.Why is this so?
 This can be explained by the fact that laureates in the Physics category tend to have more collaboration in their research fields and other scientific areas, also it may be possible that they have shared the prize with one or to other laureates. As well as that, It is possible to consider references and citations in this regard. On the other hand, the lowest maximum degree belongs to the literature category. As a result, literature laureates may not collaborate as much as other categories. Moreover, there is no significant relation between literarture laureates and laureates in other categories.
+
+<p align="center">
+  <img src="/images/Max Connectivity Each Category.png">
+</p>
