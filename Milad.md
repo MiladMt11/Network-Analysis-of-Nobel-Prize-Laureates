@@ -25,3 +25,7 @@ Using the second plot, we attempted to represent the maximum degree over time. T
   <img src="/images/Max Connectivity Through Time.png">
 </p>
 
+### Connectivity for Each Category
+We can also examine connectivity from another aspect by investigating the maximum degree of connection among the winners of each category.
+According to the following plot, clearly, the Physics category is the one with the highest connectivity.Why is this so?
+This can be explained by the fact that laureates in the Physics category tend to have more collaboration in their research fields, and it may be possible that they have shared the prize with one or to other laureates. It is also possible to consider references and citations in this regard.
