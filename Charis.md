@@ -26,8 +26,13 @@ As we can see, the most negative emotiolanlly Lectures, were given by organizati
 Something that also needs to be commented is themost positive Laureate *John B. Goodenough*, even though he is a chemist, and his lecture was mostly about figures and mathematical formulas, he holds the most positive score. This is because he refers to technologies that are going to have very positive results to the world.
 Also, the most negative sentimented Laureate, is a *Élie Ducommun*, even though he won the nobel Peace Prize, in his Lecture, he is talking about "The Futility of War Demonstrated by History", and that is the reason of the very negative score. 
 
-Last but not least we created the bar plot of the average sentiment per year for the different categories. The category that is mostly interesting totalk about is the sentiment of Laureates awarded the Literature Nobel Prize. In the figure below we can see why.
+Consecutively we created the bar plot of the average sentiment per year for the different categories. The category that is mostly interesting totalk about is the sentiment of Laureates awarded the Literature Nobel Prize. In the figure below we can see why.
 
 <img src="images/literature_years_sen2.png" alt="drawing" width="600"/>
 
 As we observe above, the sentiment in Literature Lectures between 1901 and 2020, changes between periods. We can see that there is a clear reduction of sentiment as the years passed. We can also distinct three periods in that plot. From 1901-1940, the sentiment started rising and reached a peak around 1920 and remained relatively high the consecutive years. Then from 1940-1980, the scores started declining fast and reached the first negative scores. Finally, from 1980-2019 the sentiment started growing in the beginning but, declining again at the second half. We can somehow distinct different generations (or eras) by observing this plot.
+
+Last but not least, after looking at the results above about the negative sentiments among Organization Lectures, we decided to find also how the sentiment is distributed between the genders. 
+<img src="images/sent_gender.png" alt="drawing" width="600"/>
+
+The figure above is a bar plot, that shows us an interesting result. We are presenting the mean score of sentiment in Peace and Literature categories, by gender. Even though some research [link](https://www.researchgate.net/publication/321405914_Gender_Bias_in_Sentiment_Analysis) shows that there is a bias in sentiment scores, and females tend to have higher sentiment scores, our plot show that this is not the case in our experiment.
