@@ -20,7 +20,7 @@ Moreover, four bigger nodes stand out: the biggest node of the network, which is
 
 You can explore yourself the network with the interactive visualization below and look at the different laureates and their attributes. 
 
-<iframe src="/images/bokeh.html"
+<iframe src="/https://fontaluc.github.io/Nobel/images/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
