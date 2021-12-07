@@ -23,7 +23,7 @@ You can explore yourself the network with the interactive visualization below an
 <iframe src="images/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="500"
+    height="800"
     scrolling="no"
     seamless="seamless"
     frameborder="0"> </iframe>
