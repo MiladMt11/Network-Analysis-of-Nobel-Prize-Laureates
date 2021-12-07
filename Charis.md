@@ -2,7 +2,7 @@
 
 Something very interesting that can be combined with a network analysis, is the sentiment analysis of the nodes. We of course did that in our project too. In order to extract sentiment for the Nobel Laureates (nodes), we need a text that is related with them, that contains some sentiment. As the WikiPages that we used previously, are sentiment-neutrally created, we could not use them for sentiment analysis. 
 
-But what kind of text could possibly contain some sentiment for the Laureates?<img align="right" src="/images/Question-Mark.png" alt="drawing" width="100"/>
+But what kind of text could possibly contain some sentiment for the Laureates?<img align="right" src="images/Question-Mark.png" alt="drawing" width="100"/>
 
 Yes you guessed correctly! The answer is their Nobel Prize Lectures. The Nobel Lectures, are the Lectures the Laureates give before or after receiving their prize. It is a text, that all (or most) Laureates have created, and also contain some sentiment. So this seems like a very good source of sentiment for our project.
 
