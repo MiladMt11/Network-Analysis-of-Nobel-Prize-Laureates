@@ -49,4 +49,8 @@ Below you can find the word clouds for each category.
 As it can be seen in the picture, words like "Particle", "Neutrino", "Gravitational", "Supernova" and etc. have appeared the most in the Physics category. This represents, most of the content of laureates Wikipedia pages is about the main concepts of physics like gravity, subatomic particles, astronomy and etc. It is interesting to note that the word "Protein" appeared in both Chemistry and Physiology or Medicine categories. As was expected, there is a lot of economy-related phrases shown in the Economics category word cloud. Words like "poem", "poetry", "screenplay" and "playwright" are the most frequent ones in the Literature category which refer to different contexts of literature. Most of the words appeard in the word cloud of Peace category are abberivations for peace related or political organizations.
 
 ### Communities Word Cloud
+According to the picture below, We found 15 communities in our network and added the name of top 5 laureates (degree wise!) in each community on top of the word clouds. Going further to the details, this is evident that some of the communities are representive of different fields of science like physics, chemistry and medicine. Also, some categories of Nobel Prize can be found in word clouds, such as community number 14 which represents economics and community number 5 which represents peace. Other communities, depict the words related to the field of work of laureates written on top of them.
 
+<p align="center">
+  <img src="/images/Community WordCloud.png">
+</p>
