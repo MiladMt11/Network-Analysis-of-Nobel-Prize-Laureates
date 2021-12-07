@@ -28,6 +28,6 @@ Also, the most negative sentimented Laureate, is a *Élie Ducommun*, even though
 
 Last but not least we created the bar plot of the average sentiment per year for the different categories. The category that is mostly interesting totalk about is the sentiment of Laureates awarded the Literature Nobel Prize. In the figure below we can see why.
 
-<img src="images/literature_years_sen.png" alt="drawing" width="600"/>
+<img src="images/literature_years_sen2.png" alt="drawing" width="600"/>
 
 As we observe above, the sentiment in Literature Lectures between 1901 and 2020, changes between periods.
