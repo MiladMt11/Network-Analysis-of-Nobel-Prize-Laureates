@@ -19,7 +19,7 @@ Prizes seem to form clusters. But whereas Economics, Peace and Literature form t
 Moreover, four bigger nodes stand out: the biggest node of the network, which is Albert Einstein in Physics, followed by the European Union in Peace, and two black nodes, Linus Pauling and Marie Curie, in the science cluster.
 
 You can explore yourself the network with the interactive visualization below and look at the different laureates and their attributes. 
-
+<div>
 <iframe src="/images/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -28,6 +28,7 @@ You can explore yourself the network with the interactive visualization below an
     seamless="seamless"
     frameborder="0">
 </iframe>
+</div>
 
 # SENTIMENT
 
