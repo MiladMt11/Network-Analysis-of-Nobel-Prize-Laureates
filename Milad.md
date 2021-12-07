@@ -11,3 +11,6 @@ First, let's take a look at who are the most influential laureates in our networ
 As it can be seen in the plot, almost all of the laureates shown in the plot, have won the award in one of the scientific categories. "United Nations" is also on the top ten list which is most likely because many laureates in the peace category are somehow related to this organization due to their activities, thus the number of connectios of this node is relatively high. Additionally, an organization such as United Nations could potentially have links to laureates in other categories as well.
 
 ### Connectivity Through Time
+In this part we 
+
+ The reason behind this might be that as we move forward in time, references to laureates who won the award in the past increase, consequently, the average degree in the years before 1965 is higher than in recent years.
