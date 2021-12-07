@@ -38,6 +38,8 @@ This can be explained by the fact that laureates in the Physics category tend to
 What words appeared the most in laureates pages?
 How does the word or words relate to the category in which the laureate was awarded?
 In this section we used word clouds to show the most frequent words in each of the prize categories as well as in each community (which we obtained by implementing [Louvain Method](https://en.wikipedia.org/wiki/Louvain_method)).
+
+### Category Word Cloud
 Below you can find the word clouds for each category.
 
 <p align="center">
