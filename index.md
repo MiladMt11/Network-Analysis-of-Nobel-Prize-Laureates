@@ -19,23 +19,21 @@ Prizes seem to form clusters. But whereas Economics, Peace and Literature form t
 Moreover, four bigger nodes stand out: the biggest node of the network, which is Albert Einstein in Physics, followed by the European Union in Peace, and two black nodes, Linus Pauling and Marie Curie, in the science cluster.
 
 You can explore yourself the network with the interactive visualization below and look at the different laureates and their attributes. 
-<div>
+
 <iframe src="/images/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
-    scrolling="yes"
+    scrolling="no"
     seamless="seamless"
     frameborder="0">
 </iframe>
-</div>
 
 # SENTIMENT
 
 Something very interesting that can be combined with a network analysis, is the sentiment analysis of the nodes. We of course did that in our project too. In order to extract sentiment for the Nobel Laureates (nodes), we need a text that is related with them, that contains some sentiment. As the WikiPages that we used previously, are sentiment-neutrally created, we could not use them for sentiment analysis. 
 
 <div style="text-align: center;" markdown="1"> But what kind of text could possibly contain some sentiment for the Laureates? </div>
-</div>
 <img src="\images\Question-Mark.png" alt="drawing" width="100"/>
 
 Yes you guessed correctly! The answer is their Nobel Prize Lectures. The Nobel Lectures, are the Lectures the Laureates give before or after receiving their prize. It is a text, that all (or most) Laureates have created, and also contain some sentiment. So this seems like a very good source of sentiment for our project.
