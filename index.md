@@ -1,7 +1,5 @@
 # The network of Nobel Prize laureates 
 
-This webpage showcases the work we did for the project assignment of the course Social graphs and interactions. 
-
 ## Introduction
 
 We chose to build the network of Nobel Prize laureates, using a list of Nobel laureates found on [Wikipedia](https://en.wikipedia.org/wiki/List_of_Nobel_laureates#List_of_laureates), in which there is an edge between two laureates if one of the laureate's Wikipedia page contains a link to the other laureate's page. The network consists in 969 nodes and 3220 edges. We decide to add the attributes year, prize, age, country of birth and gender, retrieved from the laureates' Wikipedia pages, to the nodes of the network. 
