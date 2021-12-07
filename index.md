@@ -20,7 +20,7 @@ Moreover, four bigger nodes stand out: the biggest node of the network, which is
 
 You can explore yourself the network with the interactive visualization below and look at the different laureates and their attributes. 
 
-<iframe src="https://fontaluc.github.io/Nobel/images/bokeh.html"
+<iframe src="/images/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
@@ -51,7 +51,7 @@ As we can see from the figure above the sentiments of the Laureates are concentr
 
 We can also find  who have the most positively, or negatively emotional Lectures among the laureates. The results for this experiment are depicted in the figures below.
 
-<img src="https://fontaluc.github.io/Nobel/images/happiest_lau.png" alt="drawing" width="500"/> <img src="https://fontaluc.github.io/Nobel/images/saddest_lau.png" alt="drawing" width="500"/>
+<img src="/images/happiest_lau.png" alt="drawing" width="500"/> <img src="/images/saddest_lau.png" alt="drawing" width="500"/>
 
 As we can see, the most negative emotiolanlly Lectures, were given by organizations that received the Peace award, and not individuals. This pattern is very interesting, and we wonder why is that happening. The answer may be that these Organizations fight against something negative happening in the globe, and this is what they talk about in their lecture. 
 Something that also needs to be commented is themost positive Laureate *John B. Goodenough*, even though he is a chemist, and his lecture was mostly about figures and mathematical formulas, he holds the most positive score. This is because he refers to technologies that are going to have very positive results to the world.
@@ -59,6 +59,6 @@ Also, the most negative sentimented Laureate, is a *Élie Ducommun*, even though
 
 Last but not least we created the bar plot of the average sentiment per year for the different categories. The category that is mostly interesting totalk about is the sentiment of Laureates awarded the Literature Nobel Prize. In the figure below we can see why.
 
-<img src="https://fontaluc.github.io/Nobel/images/literature_years_sen.png" alt="drawing" width="600"/>
+<img src="/images/literature_years_sen.png" alt="drawing" width="600"/>
 
 As we observe above, the sentiment in Literature Lectures between 1901 and 2020, changes between periods.
