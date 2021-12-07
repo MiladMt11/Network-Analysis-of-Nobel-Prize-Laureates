@@ -1,6 +1,4 @@
-# The network of Nobel Prize laureates 
-
-This webpage showcases the work we did for the project assignment of the course Social graphs and interactions. 
+# The network of Nobel Prize laureates
 
 ## Introduction
 
@@ -22,7 +20,7 @@ Moreover, four bigger nodes stand out: the biggest node of the network, which is
 
 You can explore yourself the network with the interactive visualization below and look at the different laureates and their attributes. 
 
-<iframe src="https://github.com/fontaluc/Nobel/images/bokeh.html"
+<iframe src="/images/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
