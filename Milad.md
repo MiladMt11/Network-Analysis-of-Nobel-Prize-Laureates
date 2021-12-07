@@ -43,7 +43,7 @@ In this section we used word clouds to show the most frequent words in each of t
 Below you can find the word clouds for each category.
 
 <p align="center">
-  <img src=>
+  <img src="/images/Category WordCloud.png">
 </p>
 
 As it can be seen in the picture, words like "Particle", "Neutrino", "Gravitational", "Supernova" and etc. have appeared the most in the Physics category. This represents, most of the content of laureates Wikipedia pages is about the main concepts of physics like gravity, subatomic particles, astronomy and etc. It is interesting to note that the word "Protein" appeared in both Chemistry and Physiology or Medicine categories. As was expected, there is a lot of economy-related phrases shown in the Economics category word cloud. Words like "poem", "poetry", "screenplay" and "playwright" are the most frequent ones in the Literature category which refer to different contexts of literature. Most of the words appeard in the word cloud of Peace category are abberivations for peace related or political organizations.
