@@ -1,3 +1,13 @@
+<div>
+  <div id="table-of-contents">
+    {% toc %}
+  </div>
+  <div id="markdown-content">
+    {{ content }}
+  </div>
+</div>
+
+
 # SENTIMENT
 
 Something very interesting that can be combined with a network analysis, is the sentiment analysis of the nodes. We of course did that in our project too. In order to extract sentiment for the Nobel Laureates (nodes), we need a text that is related with them, that contains some sentiment. As the WikiPages that we used previously, are sentiment-neutrally created, we could not use them for sentiment analysis. 
