@@ -1,10 +1,10 @@
----
-layout: page
----
+%---
+%layout: page
+%---
 
-{% include toc.html %}
+%{% include toc.html %}
 
-# The network of Nobel Prize Laureates 
+%# The network of Nobel Prize Laureates 
 
 ## Introduction
 
