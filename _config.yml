@@ -5,6 +5,6 @@ theme: jekyll-theme-cayman
 url: https://fontaluc.github.io/Nobel/
 markdown: kramdown
 kramdown:
-#  parse_block_html: true
+  parse_block_html: true
 #escape_markup: false 
 #baseurl: /Nobel
