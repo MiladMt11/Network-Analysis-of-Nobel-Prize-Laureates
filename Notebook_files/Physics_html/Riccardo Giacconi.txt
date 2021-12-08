@@ -1,0 +1,715 @@
+THE DAWN OF X-RAY ASTRONOMY
+Nobel Lecture, December 8, 2002
+by
+RICCARDO GIACCONI
+Associated Universities, Inc., Suite 730, 1400 16th St., NW, Washington, DC
+20036, USA, and Johns Hopkins University, 3400 N. Charles Street, Baltimore,
+USA.
+
+
+
+1.0 INTRODUCTION
+The development of rockets and satellites capable of carrying instruments
+outside the absorbing layers of the Earth’s atmosphere has made possible the
+observation of celestial objects in the x-ray range of wavelength.
+   X-rays of energy greater than several hundreds of electron volts can pene-
+trate the interstellar gas over distances comparable to the size of our own
+galaxy, with greater or lesser absorption depending on the direction of the
+line of sight. At energies of a few kilovolts, x-rays can penetrate the entire col-
+umn of galactic gas and in fact can reach us from distances comparable to the
+radius of the universe.
+   The possibility of studying celestial objects in x-rays has had a profound sig-
+nificance for all astronomy. Over the x-ray to gamma-ray range of energies, x-
+rays are, by number of photons, the most abundant flux of radiation that can
+reveal to us the existence of high energy events in the cosmos. By high ener-
+gy events I mean events in which the total energy expended is extremely high
+(supernova explosions, emissions by active galactic nuclei, etc.) or in which
+the energy acquired per nucleon or the temperature of the matter involved is
+extremely high (infall onto collapsed objects, high temperature plasmas, in-
+teraction of relativistic electrons with magnetic or photon fields).
+   From its beginning in 1962 until today, the instrumentation for x-ray astro-
+nomical observations has improved in sensitivity by more than 9 orders of
+magnitude, comparable to the entire improvement from the capability of the
+naked eye to those of the current generation of 8- or 10-meter telescopes. All
+categories of celestial objects, from planets to normal stars, from ordinary
+galaxies to quasars, from small groups of galaxies to the furthest known clus-
+ters, have been observed. As a result of these studies it has become apparent
+that high energy phenomena play a fundamental role in the formation and
+in the chemical and dynamical evolution of structures on all scales. X-ray ob-
+servations have proved of crucial importance in discovering important as-
+pects of these phenomena. It was from x-ray observations that we obtained
+the first evidence for gravitational energy release due to infall of matter onto
+a collapsed object such as a neutron star or black hole. It was the x-ray emis-
+sion from the high temperature plasmas in clusters of galaxies that revealed
+
+                                                                               111
+
+
+this high temperature component of the Universe, which more than doubled
+the amount of “visible” matter (baryons) present in clusters.
+   The prospects for future studies of the universe in x-rays are equally bright.
+The advent of new and even more powerful experimental techniques, such as
+non-dispersive high resolution spectroscopy and x-ray telescopes capable of
+focusing increasingly higher energies over wider fields, ensures a wide op-
+portunity for new astronomical discoveries.
+
+
+2.0 THE BEGINNING OF X-RAY ASTRONOMY
+There had been solar x-ray observations for about 10 years by the Naval
+Research Laboratory (NRL) group led by Herbert Friedman and several
+failed attempts to find x-ray emissions from stellar objects (Hirsh, 1979)1
+when a group at AS&E (a small private research corporation in Cambridge,
+Massachusetts) started work in 1959 to investigate the theoretical and experi-
+mental possibilities for carrying out x-ray astronomy. Giacconi, Clark, and
+Rossi (Giacconi et al., 1960)2 published a document: “A Brief Review of
+Experimental and Theoretical Progress in X-Ray Astronomy,” in which we at-
+tempted to estimate expected x-ray fluxes from several celestial sources.
+   The results are summarized in Table 1. The Sun produced 106 x-ray pho-
+tons cm-2s-1 at Earth which could easily be detected with the then-available
+
+
+
+Table 1. Estimates of fluxes from sources outside the solar system, 1960,
+         Giacconi, R., Clark, G.W., and Rossi, B.B.
+
+Giacconi, Clark, Rossi (1960)
+
+                       Maximum        Mechanism                      Estimated
+Source                 Wavelength     for Emission                   Flux
+Sun                    < 20 Å         Coronal emission               ~ 106 cm-2 s-1
+Sun at 8 light years   < 20 Å         Coronal emission               2.5 x 10-4 cm-2 s-1
+Sirius if LX ~ LOPT    < 20 Å         ?                              0.25 cm-2 s-1
+                                      No convective zone
+Flare stars            < 20 Å         Sunlike flare?                       ?
+Peculiar A stars       < 20 Å         B ~ 104 Gauss
+                                      Large B                              ?
+                                      Particle acceleration
+Crab nebula            < 25 Å         Synchrotron
+                                      EE≥1013 eV in B = 10-4 Gauss         ?
+                                      Lifetimes?
+Moon                   < 23 Å         Fluorescence                   0.4 cm-2 s-1
+Moon                   ~ 20 Å         Impact from solar wind
+                                      Electrons                      0–1.6 x 103 cm-2 s-1
+                                       = 0–1013 cm-2 s-1
+
+SCO X-1                2-8 Å          ?                              28 ± 1.2 cm-2 s-1
+
+
+112
+
+
+counters with sensitivities of about 10–102 photons cm-2s-1. But if all the stars
+emitted x-rays at the same rate as the Sun, we would expect fluxes at earth as
+small as 10-4 photons cm-2s-1. Other possible sources, such as supernova rem-
+nants, flare stars, peculiar A stars, etc., were considered, and great uncertain-
+ty had to be assigned to the estimates of their x-ray fluxes. It seemed that the
+brightest source in the night sky could be the Moon, due to fluorescent emis-
+sion of lunar material under illumination of solar x-rays.
+   We designed an experiment capable of detecting 0.1–1 photon/cm-2s-1, 50
+to 100 times more sensitive than any flown before. This increase in sensitivity
+was due to larger area, an anticoincidence shield to reduce particle back-
+
+
+
+
+                                       Figure 1. The payload of the June 12, 1962,
+                                       AS&E rocket. From X-ray Astronomy (Eds.
+                                       R. Giacconi and H. Gursky), 1974, Riedel,
+                                       Dordrecht, p9.
+
+                                                                                 113
+
+
+Figure 2. The first observation of Sco X–1 and of the x–ray background in the June, 12, 1962
+flight. From Giacconi, et al., 1962.
+
+
+
+
+ground, and a wide solid angle to increase the probability of observing a
+source during the flight. The payload shown in Fig. 1 was successful in de-
+tecting the first stellar x-ray source in the flight of June 12, 1962 (Giacconi et
+al., 1962).3 An individual source (Sco X-1) dominated the night sky and was
+detected at 28 ± 1.2 counts cm-2s-1, just below the threshold of previous ex-
+periments (Fig. 2). No exceptionally bright or conspicuous visible light or ra-
+dio object was present at that position (which, however, was very poorly
+known). An early confirmation of our result came from the rocket flight of
+April 1963 by the NRL group led by Friedman, which also discovered x–ray
+emission from the Crab Nebula (Bowyer et al., 1964).4
+   The truly extraordinary aspect of the discovery was not that an x-ray star
+had been found but its extraordinary properties. The x-ray radiation intensi-
+ty from the Sun is only 10-6 of its visible light intensity. In Sco X-1, the x-ray lu-
+minosity is 103 times the visible light intensity and it was later determined that
+the intrinsic luminosity is 103 the entire luminosity of the Sun! This was a tru-
+ly amazing and new type of celestial object. Furthermore, the physical process
+by which the x-rays were emitted on Sco X-1 had to be different from any
+process for x-ray generation we knew in the laboratory since it has not been
+possible on Earth to generate x-rays with 99.9% efficiency.
+   Many rocket flights carried out by several groups in the 60’s were able to
+find new stellar sources and the first extragalactical sources. The NRL group
+and the Lockheed group (led by Phil Fisher) continued to carry out mostly
+broad surveys, with the notable exception of the Crab occulation experiment
+by NRL in 1964 (Bowyer et al., 1964).5
+   The AS&E group concentrated on the detailed study of individual x-ray
+sources. Most significant was the series of rocket flights which culminated in
+the identification of the optical counterpart of Sco X–1. First the group de-
+
+114
+
+
+termined that Sco X–1 could not have the thermal spectrum that would be
+expected from neutron stars (Giacconi et al., 1965),6 which implied that an
+optical counterpart should have magnitude 13. In a first rocket flight to mea-
+sure the angular size of the source it was found to be less than 7 arc sec (Oda
+et al., 1965).7 Thus the source had to be a visible star and not a diffused neb-
+ulosity. This led to the sophisticated measurement of the location of Sco X–1
+by an AS&E-MIT group led by Herbert Gursky (Gursky et al., 1966),8 with suf-
+ficient precision to enable its identification with a 13th magnitude star
+(Sandage et al., 1966)9 which had spectral characteristics similar to an old no-
+va. This renewed interest in a binary star model for Sco X–1 (Burbidge,
+1967)10 and Shklovsky proposed a binary containing a neutron star
+(Shklovsky, 1967).11 However, the absence of x–ray emission from other no-
+vas, the lack of indications from either the optical spectra or the x-ray data of
+a binary system, and the general belief that the supernova explosion required
+to form the neutron star would disrupt the binary system did not lead to the
+general acceptance of the idea. The discovery by Hewish of pulsars in 1967
+turned the attention of the theorists to pulsar models for the x–ray emitters.
+But such models also were not quite persuasive given the lack of observed
+x–ray pulsations. The solution to the riddle of Sco X–1 and similar sources
+was not achieved until the launch of the “UHURU” satellite, the first of a gen-
+eration of x–ray observatories.
+   The proposal to launch a “scanning satellite,” which eventually became
+UHURU, was contained in a document written by Herb Gursky and myself
+and submitted to NASA on September 25, 1963. In this document we de-
+scribed a complete program of x-ray research culminating in the launch of a
+1.2 meter diameter x-ray telescope in 1968. This youthful dream was not fully
+realized until the launch of the Chandra X-Ray Observatory in 1999, which,
+not by chance, had a 1.2 meter diameter mirror. But while the difficult tech-
+nology development that made x-ray telescopes possible was being carried
+out, the most fundamental advances in x-ray astronomy were made with rela-
+tively crude detectors mounted on orbiting satellites.
+
+
+3.0 DISCOVERIES WITH UHURU
+The total amount of time which was available for observation of the x-ray sky
+during the 60’s was about one hour: five minutes above 100 km for each of
+about a dozen launches. The next step which led us from the phenomeno-
+logical discoveries to those of great astrophysical relevance occurred on
+December 12, 1970, when UHURU, the first of the Small Astronomy Satellite
+series, was launched from the Italian S. Marco platform in Kenya. UHURU
+was a small satellite (Fig. 3) which we had labored over at AS&E for seven
+years between conception, development, testing, and integration.
+   It was the first observatory entirely dedicated to x-ray astronomy and it ex-
+tended the time of observation from minutes to years or by 5 orders of mag-
+nitude (Giacconi et al., 1971).12 The field of view of the detector on board the
+satellite slowly rotated, examining a 5o band of the sky that shifted 1o a day. In
+
+                                                                              115
+
+
+                                                     Figure 3. The fields of view of the de-
+                                                     tectors on the UHURU satellite.
+                                                     From H. Gursky, in A survey of
+                                                     Instruments and Experiments for X-
+                                                     ray astronomy: IAU Symposium No.
+                                                     37 (Ed: L. Gratton) Riedel,
+                                                     Dordrecht, 1970, p19.
+
+
+
+three months all the sky could be studied systematically and many new
+sources could be localized with a precision of about 1 arc minute, often per-
+mitting the identification of the x-ray sources with a visual or radio counter-
+part. This in turn led to an evaluation of the distance, the intrinsic luminosi-
+ty, and the physical characteristics of the celestial object from which the x-rays
+
+
+
+
+Figure 4. The x–ray sources observed by UHURU plotted in galactic coordinates. The site of
+the dot is proportional to intensity on a logarithmic time scale. From X-ray Astronomy
+(Eds. R. Giacconi, H. Gursky), 1974, Riedel, Dordrecht, p. 156.
+
+116
+
+
+originated. Among the 300 new sources which were discovered, we were able
+to identify binary x-ray sources, supernovas, galaxies, active galaxies, quasars,
+and clusters of galaxies (Fig. 4). But even more important from a certain
+point of view was the ability, which was provided by the control system, to slow
+down the satellite spin and spend a very long time on an individual source to
+study its temporal variations. It was this special ability which permitted the so-
+lution of the fundamental unresolved problem of x-ray astronomy until then,
+namely, the nature of the energy source capable of producing the large in-
+trinsic luminosity of the stellar x-ray sources.
+
+3.1 The Binary X-Ray Sources
+In summary, inspection of the data revealed that some x-ray sources (Her X-
+1 and Cen X-3) (Fig. 5) were regularly pulsating with periods of seconds
+(Schreier et al., 1972),13 while others (Cyg X-1) were pulsating with an erratic
+behavior with characteristic times of less than a tenth of a second as first not-
+ed by Minoru Oda, who was a guest at AS&E at the time. Ethan Schreier and
+I noticed that the average intensity of Cen X-3 was modulated over the span
+of days and that the period of pulsation itself was changing as a function of
+the phase of the average intensity, which exhibited occulations (Fig. 6). The
+explanation for this behavior soon became clear: we were observing a stellar
+x-ray source orbiting a normal star (Fig. 7). The variation of the pulsation pe-
+riod was then due to the Doppler effect. In 1967 Hewish had discovered pul-
+sars in the radio domain. Was this x-ray source a pulsar in orbit about a nor-
+mal star? This seemed difficult to accept at the time. A pulsar is a neutron star
+whose formation is believed to be due to the collapse of a star at the end of its
+life. The concomitant explosion was believed to disrupt any binary system in
+which it took place. Joseph Taylor had not yet discovered the binary pulsar.
+
+
+
+
+Figure 5. X–ray pulsations of Cen X–3. From Giacconi, 1974.
+
+                                                                              117
+
+
+Figure 6. Period variations and occulations of Cen X–3. From Giacconi, 1974.
+
+
+
+   But a new, unexpected, and important finding came to light: the period of
+pulsation was decreasing rather than increasing with time (Fig. 8). This was
+true not only in Cen X-3, but also, as Harvey Tananbaum found, in Her X-1
+(Tananbaum, 1972).14 Now this was truly embarrassing! In a pulsar the loss of
+electromagnetic energy occurs at the expense of the kinetic energy of rota-
+
+
+
+
+Figure 7. A model of the Cen X–3 binary system. Illustration of R. Giacconi.
+
+118
+
+
+Figure 8. Annual change of Cen X–3 pulsation period. Illustration of R. Giacconi.
+
+
+
+tion. But in the x-ray sources the neutron star was acquiring rather than los-
+ing energy! The explanation was found in the interaction of the gas in the
+normal star with the collapsed star. Gas from the outer layer of the atmos-
+phere of the normal star can fall into the strong gravitational field of the col-
+lapsed star and acquire energies of order of 0.1 mc2 per nucleon. The accel-
+
+
+
+
+                                      Figure 9. Representation of the equipotentials in the
+                                      gravitational field of a typical binary x–ray source.
+                                      Top view and cross section. Illustration of R.
+                                      Giacconi.
+
+                                                                                      119
+
+
+Figure 10. An artist’s conception of Her X–1 with accretions occurring at the poles of the
+magnetic field of the neutron star. Illustration of R. Plourde.
+
+
+
+
+Figure 11. Comparison of the time variability of Her X–1, Cyg X–3, and Cyg X–1. Courtesy
+of R. Rothschild.
+
+120
+
+
+erated nucleons in turn heat a shock of very high temperature above the sur-
+face of the neutron star, which emits the observed x-rays (Fig. 9). It is this ma-
+terial infall that gives energy to the collapsed object. This is the model for
+Sco X–1 and most of the galactic x–ray sources. In the case of a neutron star
+with a strong magnetic field (1012 Gauss), the ionized plasma is confined to
+the poles of the rotating neutron star, generating the observed periodicities
+(Fig. 10). For a black hole, there exists no surface with particular structures
+and therefore the pulsation occurs chaotically (Fig. 11).
+   The observation by UHURU of rapid variability in Cyg X–1 reported by
+Oda (Oda et al., 1971)15 was soon followed by the rocket flights of the GSFC
+and MIT groups. These observations clarified that the observed pulsations
+were not periodic but chaotic (Holt et al., 1971)16 (Rappaport et al., 1971).17
+By 1974, the GSFC group had achieved a temporal resolution of 1 millisec-
+ond and showed large chaotic fluctuations occurring even on this time scale
+(Rothschild et al., 1974).18 Such behavior could be expected to occur if the
+compact object in the binary system (the x–ray source) was a black hole
+rather than a neutron star. Stimulated by these findings, the search for optical
+or radio counterparts had become intense in 1971–1972. UHURU had ob-
+tained a considerably improved position for Cyg X–1 which was made avail-
+able to Hjellming and Wade to aid in the search for a radio counterpart
+(Tananbaum et al., 1971).19 More refined positions were obtained by the
+Japanese group led by Oda (Miyamoto et al., 1971)20 and by the MIT group
+(Rappaport et al., 1971)21 by use of modulation collimators. Hjellming and
+Wade (Hjellming and Wade, 1971)22 and Braes and Miley (Braes and Miley,
+1971)23 reported the discovery of a radio counterpart. The precise radio lo-
+
+
+
+
+Figure 12. Artist’s conception of Cyg X–1. Illustration of L. Cohen.
+
+                                                                              121
+
+
+cation led to the optical identification by Webster and Murdin (Webster and
+Murdin, 1972)24 and by Bolton (Bolton, 1972)25 of Cyg X–1 with the 5.6 day
+binary system HDE 226862. The identification of the radio source with
+Cyg X–1 was confirmed by the observation of a correlated x–ray radio transi-
+tion in Cyg X–1 (Tananbaum et al., 1972).26 Spectroscopic measurements of
+the velocity of HDE 226862 also permitted Webster and Murdin to establish
+that Cyg X–1 was indeed in a binary system. The estimated mass for the com-
+pact object was greater than 6 solar masses. Rhoades and Ruffini had shown
+in 1972 that black holes would have masses greater than 3.4 times the mass of
+the Sun (Rhoades and Ruffini, 1974).27
+   Thus we could reach conclusions regarding Cyg X–1: the Cyg X–1 x–ray
+emitter is a compact object of less than 30 km radius due to the rapidity of the
+pulsations and the fact that the pulsations are so large that they must involve
+the whole object (Giacconi, 1974).28 The object has mass greater than that al-
+lowed by our current theories for neutron stars. Therefore the object is the
+first candidate for a black hole (Fig. 12). Currently there are at least six can-
+didates for galactic x–ray sources containing a black hole (Tanaka, 1992).29
+   The consequences of the discovery of binary source x-rays have had far
+reaching consequences (Table 2). We had proven the existence of binary sys-
+tems containing a neutron star and of systems containing a black hole. Black
+holes of solar mass size existed. The binary x-ray sources have become a sort
+of physical laboratory where we can study the mass, moment of inertia, and
+equation of state for neutron stars (density 1015gr/cm3). We had found a new
+source of energy for celestial objects: the infall of accreting material in a
+strong gravitation field. For a neutron star the energy liberated per nucleon is
+of order of 50 times greater than generated in fusion. The above model (of
+accretion of gas on a collapsed object) has become the standard explanation
+for the internal engines of quasars and all active nuclei. Recent data seem to
+confirm the model of accretion on a massive central black hole of >107 solar
+masses as the common denominator among all the active galaxies.
+
+
+Table 2. Consequences of the discovery of binary x-ray systems.
+
+                      The Discovery of X-Ray Binary Systems
+
+• Existence of Binary Stellar Systems Containing a Neutron Star or a Black Hole
+• Existence of Black Holes of Stellar Mass
+• Measure of the Mass, Radius, Moment of Inertia and Equation of State for
+  Neutron Stars (Density 1015 GR/CM3)
+• A New Source of Energy Due to Gravitational Infall (100 Times More Efficient
+  per Nucleon than Fusion)
+• A Model (Generally Accepted) for the Nucleus of Active Galaxies and Quasars
+
+
+
+
+122
+
+
+3.2 The Discovery of High Temperature Intergalactic Gas
+The establishment of variability in the x–ray universe, the discovery of the ex-
+istence of neutron stars and black holes in binary systems, and the discovery
+of accretion as a dominant energy source were only the first major accom-
+plishments of UHURU. Among others was a second very important discovery
+of UHURU and x-ray astronomy, both because of its intrinsic interest and for
+its consequences in the field of cosmology, the detection of emission from
+clusters of galaxies. This emission is not simply due to the sum of the emission
+from individual galaxies, but originates in a thin gas which pervades the space
+between galaxies. This gas was heated in the past during the gravitational con-
+traction of the cluster to a temperature of millions of degrees and contains as
+much mass as that in the galaxies themselves (Gursky et al., 1972)30. In one
+stroke the mass of baryons contained in the clusters was more than doubled.
+This first finding with UHURU, which could detect only the three richest and
+closest galaxy clusters and with a poor angular resolution of 1/2 a degree, were
+followed and enormously expanded by the introduction of a new and power-
+ful x-ray observatory, “Einstein,” which first utilized a completely new tech-
+nology in extrasolar x-ray astronomy: grazing incidence telescopes.
+
+
+4.0 X–RAY TELESCOPES
+Here I must make a short technical diversion to explain the revolution
+brought about in x-ray astronomy by the telescope technology. When con-
+templating the estimates made in 1959, I was persuaded that to ultimately suc-
+ceed in x-ray astronomy, we had to develop new systems quite different from
+those then in use. Friedman had developed for solar studies a Geiger counter
+with a thin window which allowed the x-ray to penetrate the interior of the
+gas volume of the counter. The counter could not decide either the direction
+of the incoming x-ray or its energy. In order to improve the directional sensi-
+tivity, x–ray astronomers used collimators, that is, mechanical baffles which
+defined a field of view typically of 1o. To improve sensitivity we developed anti-
+coincidence shields against spurious particles and enlarged the area. This is
+what was done in the discovery rocket of 1962. In 1970 UHURU had a very
+similar detection system. Its improvement in sensitivity was due to the much
+larger area (800 cm2 instead of 10) and the much longer time of observation.
+This led to an increase in sensitivity of about 104. It should be noted, however,
+that in the presence of a background noise, the sensitivity improvement was
+only proportional to the square root of the area. Thus, further improvement
+would have required satellites of football-stadium size. Furthermore, all at-
+tempts to gain angular resolution by clever systems of baffles (such as the
+modulation collimators) led to intrinsically insensitive experiments.
+   The solution which occurred to me as early as 1959 was to use a telescope
+just as it is done in visible light astronomy (Giacconi and Rossi, 1960).31 This
+has the great advantage that the flux from a large area of collection is focused
+onto a small detector, therefore improving both the flux and the signal to
+noise ratio. In addition, high angular resolution can be obtained within a
+
+                                                                              123
+
+
+Figure 13. Principle of x–ray grazing incidence telescope. Illustration of R. Giacconi.
+
+
+
+
+field which is imaged at once, without scanning or dithering motions, there-
+fore yielding an enormous improvement in exposure time for each source in
+the field.
+   The only problem is that an x-ray telescope had to be invented and the
+technology necessary for its fabrication had to be developed. It ultimately
+took about 20 years between the conception of the x-ray telescope in 1959
+and its first use for stellar x-ray astronomy in 1979. An x-ray telescope is quite
+different from a visible light telescope since the wavelength of x-ray photons
+is comparable to atomic dimensions. According to Lorentz’ dispersion theo-
+ry, it is clear that the index of refraction of x-rays is less than one, which
+makes optical systems based on refraction essentially impractical, as was real-
+ized by Röntgen himself in his classical experiment of 1895. However, x-rays
+can be efficiently externally reflected by mirrors, provided only that the re-
+flection takes place at very small angles with respect to the mirror’s surface.
+Hans Wolter had already discussed in the 40’s and 50’s the possibility of using
+images formed by reflection for microscopy. He showed that using a double
+reflection from a system of coaxial mirrors consisting of paraboloid and hy-
+perboloid, one could achieve systems with a reasonably large field (1o) cor-
+rected for spherical aberrations and coma. Theoretically, therefore, the sys-
+tem was feasible, although the difficulties of construction given the tiny
+dimension of the systems for microscopy were impossible to overcome
+(Fig. 13). I persuaded myself, however, that in the corresponding optical de-
+
+124
+
+
+Figure 14. Several early telescope realizations. From Giacconi et al., 1969.
+
+
+
+
+                                                                               125
+
+
+Figure 15. Picture of Sun in x–rays from Skylab. Courtesy of L. Golub, Harvard-Smithsonian
+Center for Astrophysics.
+
+
+
+
+signs to be used for telescopes, which required much larger scales (meters
+rather than microns), such difficulties would not be severe.
+   In our 1960 paper we described a system that could achieve sensitivities of
+5 x 10-14 erg cm -2 s-1 and angular resolutions of 2 arc minutes. The improve-
+ment in sensitivity was 106–107 times more than for any detector then current
+and the improvement in angular resolution about a factor of 103.
+Unfortunately it took a long time to develop this technology (Fig. 14)
+(Giacconi et al., 1969).32 The first primitive pictures of the Sun with an x-ray
+telescope were obtained in 1965. Giuseppe Vaiana took over leadership of
+our solar physics program in 1967. In 1973 a high resolution x-ray telescope
+studied the Sun over a period of many months with a field large enough to
+image the disk and nearby corona and with angular resolution finer than
+5 arc seconds (Fig. 15) (Vaiana and Rosner, 1978).33
+   It was not until 1979 that a fully instrumented x-ray telescope suitable for
+the detection and study of the much weaker stellar fluxes could be launched.
+
+126
+
+
+Figure 16. The Observatory Einstein schematic representation. From Giacconi et al., 1979.
+
+
+
+
+Table 3. Classes of objects observed with the Einstein Observatory.
+
+                       Celestial Objects Observed with Einstein
+
+• Aurora on Jupiter
+• X– Ray Emission from all Types of Main Sequence Stars
+• Novas and Supernovas
+• Pulsars
+• Binary X–ray Sources and Supernovas in Extragalactic Sources
+• Normal Galaxies
+• Nuclei of Active Galaxies
+• Quasars
+• Groups and Clusters of Galaxies
+• Sources of the Extragalactic X–ray Background
+
+
+                                                                                     127
+
+
+The new satellite, which became known as “Einstein,” was a real astronomical
+observatory (Fig. 16) (Giacconi et al., 1979).34 In the focal plane of the tele-
+scope one could use image detectors with angular resolutions of a few arc sec-
+onds, comparable to those used in visible light. The sensitivity with respect to
+point sources was increased by 103 with respect to UHURU and 106 with re-
+spect to Sco X-1. Spectroscopy could be carried out with a spectral resolving
+power of 500.
+   This substantial technical improvement made possible the detection of all
+types of astrophysical phenomena (Table 3). Auroras due to the Jovian Belts,
+main sequence stars of all types, novae and supernovae were detected. Binary
+x-ray sources could be studied anywhere in our own galaxy as well as in exter-
+nal galaxies (Fig. 17). Normal galaxies as well as galaxies with active galactic
+nuclei, such as Seyferts and B Lac, could be detected at very great distances.
+The most distant quasars ever detected in visible light or radio could be con-
+veniently studied. The sources of the mysterious, isotropic extragalactic back-
+ground could begin to be resolved.
+   But to come back to the study of the intergalactic plasma, it is in the study
+of x-ray emissions from clusters of galaxies that the Einstein observations have
+
+
+
+
+Figure 17. X–ray binaries in the galaxy M31. From the Einstein Observatory.
+
+128
+
+
+had some of the most profound impact. The ability to image the hot plasma
+has given us the means to study in detail the distribution of the gravitational
+potential which contains both gas and galaxies. This study could only be car-
+ried out with some difficulty by studying the individual galaxies which, even
+though rather numerous in rich clusters, did not yield sufficient statistical ac-
+curacy. The x-ray study has revealed a complex morphology with some clus-
+ters exhibiting symmetry and a central maximum of density, which demon-
+strates an advanced stage of dynamical evolution; but many others show
+complex structures with two or more maxima. This morphology shows that
+the merging of the clusters’ substructures is not yet completed. The relative
+youth of many of these clusters had not been sufficiently appreciated previ-
+ously. The discovery of x-ray emission in clusters is therefore used to study
+one of the most interesting open questions of modern cosmology, namely,
+the formation and development of structures in the early epoch of the life of
+the Universe. Piero Rosati (Rosati et al., 2002)35 has pushed this work to very
+distant clusters (z ~ 1.2) by use of the “ROSAT” Satellite, a splendid successor
+to “Einstein,” built at the Max-Planck Institute for Extraterrestrial Research by
+Joachim Trümper and Günther Hasinger and their group.
+
+
+
+
+Figure 18. The x–ray image of the Crab Nebula obtained from Chandra. Courtesy of NASA.
+
+                                                                                 129
+
+
+5.0 CURRENT RESEARCH WITH CHANDRA
+Harvey Tananbaum and I reproposed the concept of a 1.2 meter diameter
+telescope to NASA in 1976. Tananbaum, who had been project scientist on
+UHURU and scientific program manager on “Einstein,” gave leadership to
+the Chandra program and brought it to successful conclusion after I left
+Harvard in 1981. Chandra has met or exceeded all of our expectations.
+Comparison of the pictures of the Crab Nebula pulsar by “Einstein” and by
+Chandra (Fig. 18) shows the great improvement in the sensitivity and angular
+resolution achieved (Tananbaum and Weisskopf, 2001).36
+   I was able to use Chandra for one million seconds to solve the problem of
+the sources of the x-ray background, a problem that had remained unsolved
+since its discovery in 1962 (Fig. 19) (Giacconi et al., 2002).37 Owing to the
+great sensitivity and angular resolution of Chandra, we were able to resolve
+the apparently diffused emission into millions of individual sources. They are
+
+
+
+
+Figure 19. The one million second exposure in the deep x-ray field from Chandra (CDFS-
+Chandra Deep Field South).
+
+130
+
+
+Figure 20. The sensitivity change from 1962 to 2000 (Sco X–1 to Chandra). Courtesy of G.
+Hasinger.
+
+
+
+
+Figure 21. The sensitivity achieved by various x–ray missions (1970 to 2000). Illustration of
+R. Giacconi.
+
+                                                                                        131
+
+
+active galactic nuclei, quasars, and normal galaxies. The gain in sensitivity
+that this represents is illustrated in Fig. 20. In Fig. 21, a reminder that x-ray as-
+tronomy now involves many groups in the world with distinct and essential
+contributions.
+
+
+6.0 THE FUTURE OF X-RAY ASTRONOMY
+I would like to conclude by attempting to answer the simple question: Why is
+x-ray astronomy important? The reason is that this radiation reveals the exis-
+tence of astrophysical processes where matter has been heated to tempera-
+tures of millions of degrees or in which particles have been accelerated to rel-
+ativistic energies. The x-ray photons are particularly suited to study these
+processes because they are numerous, because they penetrate cosmological
+distances, and because they can be focused by special telescopes. This last
+property significantly distinguishes x-ray from -ray astronomy. However, in a
+more fundamental way, high energy astronomy has great importance in the
+study of the Universe because high energy phenomena play a crucial role in
+the dynamics of the Universe.
+   Gone is the classical conception of the Universe as a serene and majestic
+ensemble whose slow evolution is regulated by the consumption of the nu-
+clear fuel. The Universe we know today is pervaded by the echoes of enor-
+mous explosions and rent by abrupt changes of luminosity on large energy
+scales. From the initial explosion to formation of galaxies and clusters, from
+the birth to the death of stars, high energy phenomena are the norm and not
+the exception in the evolution of the Universe.
+
+REFERENCES
+ 1. Hirsh, R.F., 1979, “Science, Technology and Public Policy: the case of X-ray astronomy,
+    1959–1972,” Ph. D. thesis at the University of Wisconsin, Madison.
+ 2. Giacconi, R., Clark, G.W., Rossi, B.B., 1960, “A brief review of Experimental and
+    Theoretical Progress in X-ray Astronomy,” Technical Note of American Science and
+    Engineering, ASE-TN-49, Jan. 15 (1960).
+ 3. Giacconi, R. et al., 1962, Phys. Rev. Lett. 9, 439.
+ 4. Bowyer, S. et al., 1964, AJ, 69, 135.
+ 5. Bowyer, S. et al., 1964, Science 146, 912.
+ 6. Giacconi, R., Gursky, H., and Waters, J., 1965, Nature 207, 572.
+ 7. Oda, M. et al., 1965, Nature 205, 554.
+ 8. Gursky, H. et al., 1966, ApJ 146, 310.
+ 9. Sandage, A. et al., 1966, ApJ 146, 316.
+10. Burbidge, G. R., 1967, “Theoretical Ideas concerning x–ray sources,” Proceedings
+    IAU Symposium No. 31 (Academic Press, London/New York) p. 463.
+11. Shklovsky, I. S., 1967, ApJ 148, L1.
+12. Giacconi, R. et al., 1971, ApJ 165, L27.
+13. Schreier, E. et al., 1972, ApJ 172, L79.
+14. Tananbaum, H. et al., 1972, ApJ 174, L143.
+15. Oda, M. et al., 1971, ApJ 166, L1.
+16. Holt, S. et. al., 1971, ApJ 166, L65.
+17. Rappaport, S. et al., 1971, ApJ 168, L43.
+18. Rothschild, R. et al., 1974, ApJ 189, L13.
+
+132
+
+
+19.   Tananbaum, H. et al., 1971, ApJ 165, L37.
+20.   Miyamoto, S. et al., 1971, ApJ 168, L11.
+21.   Rappapaport, S. et al., 1971, ApJ 168, L17.
+22.   Hjellming, R.M. and Wade, C.M., 1971, ApJ 168, L21.
+23.   Braes, L. and Miley, G., 1971, Nature 232, 246.
+24.   Webster, B. and Murdin, P., 1972, Nature 235, 37.
+25.   Bolton, C., 1972, Nature 235, 271.
+26.   Tananbaum, H. et al., 1972, ApJ 177, L5.
+27.   Rhoades, C. and Ruffini, R., 1974, Phys. Rev. Lett. 32, 324.
+28.   Giacconi, R., 1974, “Binary X-Ray Sources,” Proceedings of IAU Symposium No. 64
+      (Reidel, Dordrecht) p. 147.
+29.   Tanaka, Y., 1992, “Black Hole X–ray Binaries,” Proceedings of ISAS Symposium on
+      Astrophysics (Inst. of Space and Astronomical Science, Tokyo) p. 19.
+30.   Gursky, H. et. al., 1972, ApJ 173, L99.
+31.   Giacconi, R. and Rossi, B., 1960, J. of Geophys. Res. 65, 773.
+32.   Giacconi, R. et al., 1969, Space Science Reviews 9, 3.
+33.   Vaiana, G.S. and Rosner, R., 1978, Annu. Rev. of Astron. and Astrophy. 16, 393.
+34.   Giacconi, R. et al., 1979, ApJ 230, 540.
+35.   Rosati, P. et al., 2002, Annu. Rev. of Astron. and Astroph. 40, 539.
+36.   Tananbaum, H. and Weisskopf, M., 2001, in “New Century of X-Ray Astronomy,” ASP
+      Proceedings Vol. 251 (Astron. Soc. Pacific, San Francisco) p. 4.
+37.   Giacconi, R. et al., 2002, ApJS 139, Issue 2, 369.
+
+
+
+
+                                                                                 133
+

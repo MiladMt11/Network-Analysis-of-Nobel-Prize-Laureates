@@ -1,0 +1,572 @@
+                           D ONALD A. G L A S E R
+
+        Elementary particles and bubble chambers
+                       Nobel Lecture, December 12, 1960
+
+
+
+It is a very great honor and privilege that I have this opportunity to describe
+to you the invention, development, and uses of bubble chambers for study-
+ing elementary particles.
+   From the earliest beginning of serious scientific thought up to the present
+day, men have tried to understand the properties of matter by imagining
+it to be built up out of a small number of basic irreducible elements. Ac-
+cording to current scientific ideas, these irreducible elements are actually sub-
+microscopic particles which are supposed to be indivisible and therefore not
+made up out of yet smaller particles. We imagine all matter to be agglom-
+erations of molecules built up from atoms which are, in turn, constructed
+from electrons, protons, and neutrons. These three particles have definite
+masses, spins, electric charges, magnetic moments, and other properties. All
+electrons are supposed to be identical and so are all protons and all neutrons.
+During the last twenty years a number of other apparently indivisible par-
+ticles have been discovered so that now there are thirty of them altogether.
+Although a few of these thirty have not yet been observed experimentally,
+they are included in the list because the theoretical expectation of their exist-
+ence is very strong and it seems virtually certain that they will be observed
+during the next few years. Some of the thirty elementary particles were
+found experimentally, only after theoretical arguments had predicted their
+existence and the conditions required for creating and observing them. Others
+were discovered more or less accidentally before we had any theoretical
+ideas about them or their properties. Among these are the µ-meson and the
+first « strange particles ». Although we have a lot of experimental knowledge
+about them there is still no satisfactory mathematical theory which can pre-
+dict their physical properties or interpret their existence in terms of the other
+known elementary particles. Physicists find it distasteful to believe that all
+thirty of these elementary particles are « really fundamental », and hope some
+day to understand them all as compounds of a smaller number of truly
+fundamental particles or in terms of some other concepts involving simple
+underlying laws.
+
+
+530                         1960    D.A. GLASER
+
+   Advances in our knowledge of the elementary particles have depended
+heavily on the development of techniques for detecting them and observing
+their properties in detail. Among the most important instruments used in
+these experimental studies have been the cloud chambers and the nuclear
+emulsion. Both techniques permit detailed visual study of the paths of
+charged elementary particles, but each has limitations that seriously hamper
+some studies of elementary particles and other phenomena of high-energy
+nuclear physics.
+    I became interested in trying to devise new experimental methods for in-
+vestigating the physics of elementary particles in 1950, not long after the
+new « strange particles » had been discovered in cosmic rays. In those days
+a rather small number of these particles had been observed, and they were
+still called « V-particles » or « pothooks » because of their unusual appearance
+in the cloud chamber photographs. In fact, I remember that when I left the
+California Institute of Technology in 1949 after finishing my doctoral re-
+search on cosmic radiation under the direction of Professor Carl D. Ander-
+son, there was written at the top of his blackboard the question: « What
+have we done about the pothooks today? » No one had predicted the exist-
+ence of these particles or had any idea how they might fit into theoretical
+schemes describing the particles already well known at that time. Their dis-
+covery in cosmic ray interactions in 1947 by Butler and Rochester and later
+observation by others created high excitement among physicists. Here was
+a whole new family of particles that might well lead to some novel and
+deep ideas about the laws and symmetries of Nature on the submicroscopic
+level of the elementary particles. More experimental information was des-
+perately needed concerning the production, decay, and interactions of these
+new particles.
+    Greatly stimulated by these developments, I began to wonder whether
+it would be possible somehow to speed up the rate of observing the strange
+particles and their interactions. Most examples of their decays were seen in
+cloud chamber photographs of penetrating cosmic ray showers originating
+in lead plates just above the chamber. Because of the rarity of strange-par-
+ticle production and the low density of gas in a cloud chamber, production
+events almost never occurred in the gas itself. For this reason it was difficult
+to get convincing experimental evidence on even such simple ideas as the
+law of associated production, which had been invented to explain how the
+new particles could have such long lifetimes. Nuclear emulsions are not use-
+ful in these studies because the neutral « V particles » have typical mean decay
+
+
+       ELEMENTARY PARTICLES AND BUBBLE CHAMBERS                              531
+lengths of a few centimeters. This makes it virtually impossible to associate
+correctly a decaying       or    with its parent star in an emulsion stack con-
+taining a reasonable density of events.
+   There was therefore a great need for a particle detector of high density
+and large volume - tens to hundreds of liters - in which tracks could be pho-
+tographed and scanned at a glance, and in which precision measurements
+of track geometry could be made. Expansion cloud chambers which operated
+with internal gas pressures up to 300 atmospheres had been built for this
+reason, but they were elaborate and cumbersome machines which required
+waiting times of 15 to 30 minutes between expansion cycles.
+   Since all detectors capable of recording the passage of a single minimum
+ionizing particle must use some amplifying process to be sensitive to the
+minute amounts of energy deposited by a fast charged particle, I began to
+list all the amplifying mechanisms I could imagine that might serve as the
+basis for a detector of the type that was needed. Previous detectors had used
+the instability of a gas, liquid, or solid, against dielectric breakdown in an
+intense electric field, the chemical instability of nuclear emulsion with re-
+spect to its developing solution, or the thermodynamic instability of a super-
+cooled or supersaturated vapor. Since I wished to attain high density with-
+out using very high pressures, I considered mainly instabilities that can exist
+in liquids and solids, such as chemical instabilities including the tendency of
+monomers to polymerize, instabilities due to intense electric fields, and ther-
+modynamic instabilities such as are present in supercooled liquids, super-
+heated solids, or superheated liquids. At the time that I was studying these
+instabilities, I knew that the large proton synchrotons in the few GeV en-
+ergy range would come into operation in the early 1950’s and that they
+would have pulse repetition times of a few seconds. It was therefore im-
+portant that the new detector be able to cycle in a few seconds to be most
+useful with these machines as well as with the cosmic rays. For this reason I
+rejected chemical and solid systems as being probably too difficult to recycle
+rapidly.
+   The thermodynamic instability of a superheated liquid can be used to
+detect minimum ionizing radiation only if the density of ionization energy
+deposited in the liquid along the path of the particle is sufficient to form a
+vapor bubble nucleus large enough to grow to photographable size. If the
+vapor pressure in a bubble at the temperature T exceeds the external pressure
+applied to the liquid by the amount         the radius of this critical nucleus is
+
+
+532                                  1960 D.A.GLASER
+
+                                     =
+
+
+
+where (T) is the surface tension of the liquid-vapor interface. A lower
+limit for the nucleation energy required for forming this bubble is obtained
+by calculating the energy required for its isothermal reversible formation
+
+
+
+
+Then the minimum energy density required per unit length of track is
+
+
+
+                                         3   AP
+
+If we imagine that we can quickly reduce the external pressure on the hot
+liquid almost to zero compared with the vapor pressure as a means of pre-
+paring the final superheated state, we approximate       by P(T), the sat-
+urated vapor pressure. Then the energy loss of the minimum ionizing par-
+ticle must exceed
+
+
+
+                               2rc       3
+
+When we insert the actual value of the energy loss of a minimum ionizing
+particle, we find that the only way to attain the low surface tension and high
+vapor pressure required by this equation is to raise the temperature of the
+liquid to the vicinity of its critical temperature, since the surface tension
+vanishes at the critical temperature. In fact, it turns out that the temperature
+must be about one-half to two-thirds of the way from the boiling point to
+the critical point for successful bubble chamber operation.
+   Closer estimates of the required degree of superheat can be made only by
+assuming specific mechanisms for conversion of ionization energy to bubble
+nucleation energy. We must first ask whether macroscopically measured
+values of (T) and P(T) apply for bubbles 10 -6 cm in diameter. In the
+theory of cloud chamber operation, it is important that the equilibrium
+ vapor pressure at a convex liquid surface is much larger than at a flat surface.
+Is there a similar effect at concave surfaces? It was several weeks before I
+
+
+       ELEMENTARY PARTICLES AND BUBBLE CHAMBERS                                533
+could answer this question, because each thermodynamic argument I used led
+to the conclusion that the vapor pressure inside a vapor bubble is the same
+as that at a flat interface, though I found that nearly all of the thermodynam-
+ics textbooks disagreed with me. Finally I found a discussion of this question,
+which had apparently been a subject of a serious dispute as late as 1939, in
+an excellent book, Kinetik der Phasenbildung, by M. Volmer, in which my
+conclusions were supported.
+   Little experimental information on the surface tension of highly concave
+surfaces was available, but it seemed plausible that there should not be a
+large dependence on curvature when the radius of curvature is very much
+larger than the average intermolecular distance in the liquid.
+   Two detailed mechanisms for bubble formation suggested themselves. In
+one, it was supposed that clusters of ions of like sign are produced occasion-
+ally along the track, and form bubbles by mutual electrostatic repulsion. In
+the second, it was supposed that excited atoms and molecules formed directly
+by the primary particle and by ion recombination converted their excitation
+energy into local heating of the liquid through superelastic collisions of the
+second kind. Both models made bubble formation along the tracks of min-
+imum ionizing particles appear to be a very difficult and implausible process.
+I was encouraged by the idea that even if the primary ionization energy was
+insufficient, secondary delta rays with even a few hundred volts of energy or
+ more would form frequently along the track and deposit their energy densely
+ in a small volume as they stopped in the liquid. Coulomb scattering would
+tend to curl up the stopping electron tracks and increase the volume density
+ of their energy deposit.
+    For a first experimental test of these ideas, I chose diethyl ether because
+ of its relatively low surface tension, critical temperature, and critical pressure,
+ and because it was cheap and easy to obtain in pure form. One particular
+ calculation using the electrostatic model predicted that diethyl ether would
+ be nucleated to boil by ionizing radiation at about 140°C at one atmosphere
+ although its boiling point is only 34.6°C. It seemed to me unreasonable that
+ such an enormous degree of superheat should be attainable experimentally,
+ so I looked in the literature of the physical chemists to see what was known
+ about the maximum attainable superheats. Finally I found a remarkable pa-
+ per* describing attempts to superheat diethyl ether, a liquid which these
+ authors had apparently chosen for the same reasons of convenience that dic-
+ tated my choice. Imagine my excitement when I read that they had been
+ * F. B. Kenrick, C. S. Gilbert, and K. L. Wismer, J. Phys. Chem., 28 (1924) 1927.
+
+
+534                           1960 D.A.GLASER
+
+
+
+
+(a) Pressure on enclosed diethyl ether is high due to vapor pressure of the liquid at
+160°C. Temperatures shown are maintained by hot oil baths; (b) 160°C bath removed.
+Temperature drops quickly in a few seconds to 25°C. Pressure on total system about 1
+atmosphere. Diethyl ether in the bulb at 140°C is now highly superheated; (c) Boiling
+    is triggered in the superheated diethyl ether by radiation from a 60Co source.
+
+
+able to maintain diethyl ether superheated for hours at 130°C and one at-
+mosphere, but that at 140°C the liquid erupted at erratic time intervals after
+being brought rapidly to the high temperature. To demonstrate the « capri-
+ciousness » of this phenomenon, they quote a typical series of 30 consecutive
+« waiting times ». When I examined these times, I found them to be consist-
+ent with a Poisson distribution corresponding to the random occurrence of
+a nucleating event which distrupted their small volume of liquid with an
+average waiting time of about 60 seconds. From the reported geometry of
+the superheating apparatus, I estimated that its total « counting rate » for ion-
+izing events in the liquid due to cosmic rays plus radioactive background
+at sea level was also about one count every 60 seconds!
+   To make a simple test of the hoped-for triggering of superheated diethyl
+ether by ionizing events, I did the experiment diagrammed in Fig. 1 . A
+heavy-walled capillary tube of the shape shown was evacuated and filled
+with pure diethyl ether vapor and liquid. When the pressure on the liquid
+is reduced by cooling the bulb containing some vapor, the pressure drops
+
+
+            ELEMENTARY PARTICLES AND BUBBLE CHAMBERS                        535
+ to about 1 atmosphere, superheating the liquid in the 140oC bulb. When
+exposed to gamma radiation from a 60Co source, this hot ether erupts into
+violent boiling, instantly as far as the eye can tell.
+   It should be remarked parenthetically that before making these detailed
+ calculations and experiments, I wanted to be sure not to overlook simple
+ experimental possibilities, so I took some bottles of beer, ginger ale, and soda
+water into my laboratory, warmed them as much as I dared, and opened
+them with and without a radioactive source nearby. There was no apparent
+gross difference in the way they foamed. Water, of course, turns out to be
+just the wrong substance to use in a bubble chamber because it has a large
+ surface tension and a high critical pressure.
+   Now that there was experimental proof of the reality of this new physical
+ phenomenon on which a bubble chamber technology could be based, it was
+ important to find out if minimum ionizing particles could initiate boiling
+ and if the bubbles formed accurately along the path of the particle. Unless
+
+
+
+
+              Fig. 2. Some of the first Pyrex-glass bubble chambers.
+
+
+536                               1960 D.A.GLASER
+
+
+
+
+Fig. 3. High-speed movies taken at 3,000 pictures per second of eruptive boiling
+initiated in diethyl ether at 135oC by a penetrating particle. The pictures shown were
+taken at o, 4, 22, 71, and 250 milliseconds. The fast two are consecutive pictures.
+                      The chamber is about 1 cm inside diameter.
+
+
+the bubble chamber could make accurate tracks of minimum ionizing par-
+ticles, it would be of little use in high-energy physics experiments.
+   To look for tracks, I made a number of small Pyrex-glass bubble cham-
+bers containing a few cm each of diethyl ether. Some of them are shown
+                              3
+
+
+
+in Fig. 2. A bath of hot oil maintained the required temperature, and a piston
+operated by a hand crank controlled the pressure. Each time the pressure
+was reduced by a quick turn of the hand crank, a high-speed movie camera
+recorded the onset of boiling after the usual few seconds of waning time
+when the ether was in a quiescent superheated state. Sometimes the boiling
+
+
+          ELEMENTARY PARTICLES AND BUBBLE CHAMBERS                             537
+started along a well defined track as shown in Fig. 3, which is taken using
+chamber 3 in Fig.2. From these movies taken at 3,000 pictures/second, one
+sees that the bubbles grow to be more than a millimeter in diameter in 300
+microseconds. Finer tracks were obtained by constructing an automatic de-
+vice for expanding and recompressing the chamber every 10 seconds. Photo-
+graphs of the chamber were taken with a xenon flashlamp whenever a
+vertical Geiger counter telescope indicated the passage of a penetrating cos-
+mic ray particle during the few seconds of sensitive time following each
+expansion. These photographs, shown in Figs. 4 (a, b, c) proved that bubble
+chambers could yield precision measurements of events involving minimum
+ionizing tracks.
+   Although this series of experiments established with certainty that bubble
+chambers were feasible and had the right characteristics for elementary-par-
+ticle studies, engineering development was needed before large chambers for
+serious experiments could be built. There were two main questions. What
+
+
+
+
+Fig. 4 (a,b ). Penetrating cosmic ray tracks in 3 cm 3 diethyl-ether bubble chamber.
+                (Random expansion and counter-controlled flashlamps. )
+(a) 60 microsecond flash duration, 139oC; (b) 10 microsecond flash delay, 20 micro-
+                 second flash duration, 140°C. (Fig. 4 (c) on next page.)
+
+
+538                            1960 D.A.GLASER
+
+
+
+
+Fig. 4 (c). Penetrating cosmic ray tracks in 3 cm3 diethyl-ether bubble chamber.
+              (Random expansion and counter-controlled flashlamps.)
+(c) 10 microsecond flash delay, 5 microsecond flash duration, 141°C. The track in
+                (c) is deflected about 2o in the middle of the chamber.
+
+other liquids could be used in bubble chambers? How could chambers with
+hundreds of liters of sensitive volume be constructed? Many laboratories the
+world over pursued this development with great vigor and ingenuity.
+   Diethyl ether had been used in the first experiments for reasons of exper-
+imental convenience. Liquid hydrogen was obviously the physicists’ dream
+as a working liquid because the interpretation of events in hydrogen are
+so straightforward. Using the electrostatic theory of bubble chamber opera-
+tion, I estimated that hydrogen would work at about 27 oK. Although I now
+have excellent reasons for believing the thermal or « hot track » theory of
+bubble nucleation is correct rather than the original electrostatic mech-
+anism, the two theories give nearly the same scaling law for relating the
+operation conditions of different liquids. Therefore, the basically wrong
+electric theory gave correctly the operating temperatures for hydrogen, deu-
+terium, helium, freon, propane, xenon, and a host of other liquids. At the
+University of Michigan there were no cryogenic facilities in 1953, so I trav-
+
+
+       ELEMENTARY PARTICLES AND BUBBLE CHAMBERS                            539
+elled to the University of Chicago and worked on liquid-hydrogen bubble
+chambers with Hildebrand and Nagle, who soon showed that superheated
+liquid hydrogen was radiation sensitive. Shortly after that, Wood at Berke-
+ley photographed the first tracks in liquid hydrogen. Many other liquids
+were tested in our laboratory and in other places. No liquid that has been
+tested seriously has failed to work as a bubble chamber liquid. The choice
+of liquids depends only on the physical objectives of the experiment and on
+engineering and economic considerations.
+    It did not seem practical to make large chambers out of a single piece of
+pyrex glass. We therefore fabricated a small chamber with an aluminum
+body and flat glass windows sealed with rubber gaskets. Certainly there was
+no hope of maintaining a liquid superheated for any length of time in such
+a chamber because boiling begins easily at gaskets and scratches in the metal.
+ We hoped that we could expand the chamber fast enough to keep the pres-
+ sure in the interior of the chamber low for at least a few milliseconds, even
+ though boiling begins instantly at the walls. Fig. 5 shows the 5-cm chamber
+ used to test this method. Figs. 6 (a, b, c, d, e) shows a sequence of snapshots
+ taken at various times after the beginning of the expansion. These pictures
+ proved that a chamber fabricated of ordinary materials could have a sensitive
+ time of a few milliseconds, long enough for use with large particle acceler-
+ ators. Wood proved the same thing independently with his first small hy-
+ drogen chamber a short time before we did. These experiments made pos-
+ sible the design and construction of really large chambers containing hun-
+ dreds of liters of liquid.
+     In Fig. 7 is shown a 15-cm propane chamber we exposed to the Brook-
+ haven Cosmotron - the first bubble chamber to be used for experiments in
+ high-energy physics. In Figs. 8, 9, 10, and 11 are shown our 30-cm propane
+ chamber, 30-cm /21-liter/ xenon chamber, the xenon chamber fully assem-
+ bled for an experiment, and finally the largest chamber operating now in
+ the world, Alvarez’s 180-cm /500-liter/ hydrogen chamber. Other really
+ large chambers are in use or under construction at Brookhaven, Chicago,
+ Geneva, Dubna, Saclay, London, and other high-energy physics centers.
+ Smaller chambers in large numbers and great varieties are in use all over
+ the world.
+     Large quantities of data on elementary particles and their interactions are
+  being produced by these chambers. A number of new particles and phenom-
+  ena have been discovered by their use. Precise information on masses, spins,
+  lifetimes, parity violating decays, branching ratios, and polarizations has
+
+
+1960 D.A. GLASER
+
+
+      ELEMENTARY PARTICLES AND BUBBLE CHAMBERS                                    541
+
+been obtained for these particles. Nuclear fusion catalyzed by µ-mesons was
+discovered in a hydrogen bubble chamber. Figs. 12 through 14 are pictures
+showing some of the elementary-particle phenomena being studied now
+with these chambers.
+   Because of the high density and rapid cycling rate of bubble chambers,
+we now have abundant information on particle production, interaction, and
+decay as observed with beams at the large accelerators. It was a disappoint-
+ment to discover that bubble chambers are not easy to use for cosmic ray
+experiments since they cannot be operated using counter-controlled expan-
+sions as can cloud chambers. We have established experimentally that the
+lifetime of the « latent bubble-track image » produced by a charged particle
+is less than 10-4 seconds and our theoretical estimates indicate that it may
+actually be about 10-8 seconds. Since mechanical expansion of a bubble
+
+
+
+
+Fig. 6 (a). Operation of a « dirty » diethyl-ether chamber, 5 cm in diameter and 2.5 cm
+deep at 154°C. Photographs are taken with a 5 microsecond flash duration at different
+moments after the beginning of the expansion process; 11 milliseconds, no radiation:
+violent boiling occurs at the gaskets but no bubbles have formed in the interior of the
+         liquid or at the glass windows. (Figs. 6 (b, c, d, e) on the following pages.)
+
+
+ 542                                  1960 D.A.GLASER
+
+
+
+
+Fig. 6 (b). 12.5 milliseconds, no radiation: boiling has progressed further and a jet of
+       vapor shoots out of the expansion orifice at the bottom of the chamber.
+
+
+
+
+Fig. 6 (c). 5.4 milliseconds, radium source nearby: some fine and some larger tracks are
+visible, the finer ones showing normal bubble density indicating that the chamber is
+                                      at full sensitivity.
+
+
+           ELEMENTARY PARTICLES AND BUBBLE CHAMBERS
+
+
+
+
+Fig. 6 (d). 7.55 milliseconds, radium source nearby: although the bubbles on the oldest
+             tracks have grown quite large, new tracks are still being formed.
+
+
+
+
+Fig. 6 (e). 12.5 milliseconds, weak radium source nearby: vapor jet from the expansion
+orifice causes a sudden pressure wave in the chamber. It distorts the tracks and ends the
+                                   sensitive time abruptly.
+
+
+544                              1960 D.A.GLASER
+
+
+
+
+Fig. 7. A 15-cm propane bubble chamber showing stereoscopic camera, expansion
+system, and flashlamp. When in use, a small oven with windows fits around the cham-
+                 ber to maintain it at a temperature of 55°C to 60°C.
+
+
+
+
+      Fig. 8. The stripped aluminum body of a 30-cm propane bubble chamber.
+
+
+       ELEMENTARY PARTICLES AND BUBBLE CHAMBERS                            545
+
+
+
+
+Fig. 9. The stripped aluminum body and test window for 21-liter, 30-cm xenon
+                              bubble chamber.
+
+
+
+
+Fig. 10. Xenon bubble chamber assembled ready for use at the Bevatron, except
+                         for insulating refrigeration.
+
+
+ 546                              1960 D.A.GLASER
+
+
+
+
+Fig. 11. Alvarez’s 180-cm, 500-liter hydrogen bubble chamber assembled with magnet,
+                     ready for doing an experiment at Berkeley.
+
+
+          ELEMENTARY PARTICLES AND BUBBLE CHAMBERS                          547
+
+
+
+
+Fig. 12. Associated production,    +p             at about 1 GeV with subsequent
+                   decays in Alvarez’s hydrogen bubble chamber.
+
+
+548                             1960   D .A .G L A S E R
+
+
+
+
+Fig. 13. Associated production,     +p        +     at about 1 GeV seen in xenon
+bubble chamber with subsequent decays. The decay tracks of the are very short be-
+                     cause of the high density of the xenon.
+
+
+                         ELEMENTARY PARTICLES AND BUBBLE CHAMBERS                                 549
+
+
+
+
+Fig. 14. The same process, π- + p + Λ° + K° at about 1 GeV followed by Λ° → p + π− and K° → π° + π°
+followed by π° → 2 γ in which all four gamma rays make electron showers. Complete processes like
+this involving gamma rays are efficiently detected in xenon because of its short radiation length.
+
+
+550                         1 9 6 0 D. A. G L A S E R
+
+chamber takes much longer than this, it is impossible to make expansions
+only when interesting events are detected by counter arrays because the
+bubble nuclei will have disappeared by the time the chamber has become
+sensitive. By random cycling and various ways of extending the length of
+the sensitive time, it may be possible to maintain a bubble chamber in the
+sensitive condition for 10% of the time. Beams of artificially produced par-
+ticles can be timed to arrive at a bubble chamber just when it reaches full
+sensitivity. For use with particle accelerators the bubble chamber is ideal be-
+cause it can be made to be sensitive only during the short time of beam
+arrival. General background ionization does not then complicate the pictures
+very much.
+   In its various forms the bubble chamber has solved many of the problems
+of obtaining large amounts of precise pictorial information on processes in-
+volving energetic elementary particles. At the same time it has created a new
+problem by providing each active laboratory with millions of photographs
+each year. These photographs require careful, intelligent inspection and meas-
+urement with coordinate accuracies of the order of 1 micron on the film.
+Measuring projection microscopes to do the last step have been constructed
+to be able to follow interesting tracks semi-automatically and punch the
+coordinate information onto cards which are later fed into high-speed digital
+electronic computers. From these computers come geometric, kinematic,
+and dynamical conclusions which identify known particles, measure en-
+ergies, and identify known processes. Now we are faced with the problem
+of finding and measuring these events as fast as the bubble chamber and
+accelerator can produce them. Although we can contemplate staffs of 50
+specialists engaged in this work at a single laboratory, or for a single large
+bubble chamber, a staff of 500 or 5,000 people seems impossible. Yet we can
+ask important questions in basic physics which would be answered if we had
+such a huge staff studying photographs. As a result, many bubble chamber
+physicists have turned their attention toward developing automatic pattern
+recognition, measuring, and computing machines. Some day it is dreamed
+that such a machine, armed with a memory filled with full knowledge of
+all known processes occurring in high-energy physics, will devour miles of
+film each day, duly noting the numbers, characteristics, and types of all the
+known processes it recognizes. Only when it cannot « understand » an event
+by searching its memory, will it ring a bell to call over a physicist who will
+try to understand the new process. A start has been made in this direction
+and in three to five years we expect to use the first machines capable of
+
+
+       ELEMENTARY          PARTICLES        AND    BUBBLE      CHAMBERS          551
+
+recognizing and interpreting a large class of known events. Armed with such
+formidable experimental means, the limitations of our imagination (and our
+ability to keep all these monstrous machines in operation) define the limits
+of the questions we may hope to answer about the experimental behavior
+of the elementary particles.
+
+
+
+
+Since this lecture is intended to be a personal and historical description of research
+rather than a complete review article, the reader is referred to the following review
+sources for further and more detailed information.
+D. A. Glaser, « The Bubble Chamber », Handbuch der Physik, S. Flügge (Ed.), Springer-
+Verlag, Berlin, 1958, Vol. 45, p. 314.
+H. Slätis, « Survey Article on Bubble Chambers », Nucl. Instr. Methods, 5 (1959) 1 .
+D. V. Bugg, « The Bubble Chamber », Progress in Nuclear Physics, O. R. Frisch (Ed.),
+Pergamon Press, London, 1959, Vol. 7. p. 1 .
+

@@ -1,0 +1,780 @@
+FROM SPINWAVES TO GIANT
+MAGNETORESISTANCE (GMR) AND BEYOND
+
+Nobel Lecture, December 8, 2007
+by
+
+Peter A. Grünberg
+Institut für Festkörperforschung, Forschungszentrum Jülich, Germany.
+
+
+
+
+DISCOVERY OF LIGHTSCATTERING FROM DAMON ESHBACH
+SURFACE SPINWAVES
+The “Institute for Magnetism” within the department for solid state physics at
+the research centre in Jülich, Germany, which I joined in 1972, was founded
+in 1971 by Professor W. Zinn. The main research topic was the exploration of
+the model magnetic semiconductors EuO and EuS with Curie temperatures
+Tc=60 K and Tc=17 K, respectively. As I had been working with light scattering
+(LS) techniques before I came to Jülich, I was very much interested in the
+observation of spinwaves in magnetic materials by means of LS.
+
+
+
+
+Figure 1. Right: Schematic of a Brillouin lightscattering (BLS) spectrometer used for the
+detection of spinwaves. Spectra of scattering from bulk spinwaves (marked with green) and
+DE surface spinwaves (red) are seen on the left. For the upper and lower part on the left,
+the field B0 and magnetization M have been reversed. From [1].
+
+
+
+
+92
+
+
+   LS can be performed with grating spectrometers, which is called Raman
+spectroscopy, and alternatively by Brillouin light scattering (BLS) spectros-
+copy. In the latter case, a Fabry Perot (FP) interferometer is used for the
+frequency analysis of the scattered light (see right-hand side of Figure 1.).
+The central part consists of two FP mirrors whose distance is scanned during
+operation. BLS spectroscopy is used when the frequency shift of the scattered
+light is small (below 100GHz), as expected for spinwaves in ferromagnets.
+   In the early 1970s, an interesting instrumental development took place
+in BLS, namely the invention of the multipass operation, and later, the
+combination of two multipass interferometers in tandem. The inventor was
+Dr. J.A. Sandercock in Zürich. Since we had the opportunity to install a new
+laboratory we decided in favour of BLS, initially using a single three-pass in-
+strument as displayed on the right-hand side of Figure 1. With this, we started
+investigating spinwaves in EuO.
+   We indeed were able to find and identify the expected spinwaves as shown
+by the peaks in Figure 1 (marked green). Different intensities on the Stokes
+(S) and anti-Stokes (aS) side were known from other work to be due to the
+magnetooptic interaction of light with the spinwaves.
+   The peaks marked red remained a puzzle for some time until good luck
+came to help us. Good luck in this case was a breakdown of the system, a
+repair and unintentional interchange of the leads when reconnecting the
+magnet to the power supply. To our surprise S and aS side were now reversed.
+To understand what this means, one has to know that classically S and aS scat-
+tering is related to the propagation direction of the observed mode which is
+opposite for the two cases. This can be understood from the corresponding
+Doppler shift which is to higher freqencies when the wave travels towards the
+observer and down when away from him. The position of the observer here
+would be the same as of the viewer in Figure 1. The appearance of the red
+peak in the spectra on only either the S or the aS side can be explained by a
+unidirectional propagation of the corresponding spinwave along the surface
+of the sample. It can be reversed by reversing B0 and M.
+   The unidirectional behaviour of the wave can be understood on the basis of
+symmetry. For this, one has to know that axial vectors which appear in nature,
+such as B and M on the left-hand side of Figure 1, reverse their sign under
+time inversion and so does the sense of the propagation of the surface wave as
+indicated. The upper and lower part of Figure 1 left-hand side therefore are
+linked by time inversion symmetry which is valid without damping. Hence, the
+unidirectional behaviour reflects the symmetry of the underlying system.
+   Finally, the observed wave could be identified as the Damon Eshbach (DE)
+surface mode known from theory and from microwave experiments.
+   From the magnetic parameters of EuO, one predicts in the present case
+that the penetration depth of the DE mode will be a few 100 Å. Sample
+thickness d is of the order of mm. Therefore, for the present purpose, EuO
+is opaque. In this case, the wave travelling on the back side of the sample in
+the opposite direction to the wave on the front side cannot been seen in this
+experiment. BLS is then either S or aS but not both at the same time. Due
+
+                                                                            93
+
+
+to all of these unique features, the results of Figure 1 have also been chosen
+as examples for current research in magnetism in a textbook on “Solid State
+Physics” (H. Ibach, H. Lüth, Springer 1995, p.186).
+
+
+BLS FROM SPINWAVES IN SINGLE THIN MAGNETIC FILMS
+We stick to the geometry of Figure 1 but with much smaller thickness d, of the
+order of 200 Å. As material, we chose Fe. Bulk modes now split into a bunch
+of standing modes and shift to higher frequencies. In the example in Figure
+2, only the DE mode and the first standing mode are within the observable
+frequency range. The mode patterns (left) represent amplitude distributions,
+where the local precession is generally elliptical. DE modes with given propa-
+gation direction have finite amplitudes on both surfaces and therefore both
+directions are seen as S and aS scattering. As in Figure 1, the sample surface
+from which most of the scattering is observed is shown in turquoise.
+
+
+
+
+Figure 2. DE surface spinwave and 1st standing spinwave of a single thin film of Fe and its
+experimental observation by means of BLS. Opposite propagation directions (black ar-
+rows) correspond to S and aS scattering. Higher standing waves as indicated in the upper
+part on the left-hand side are beyond the observed frequency range [2].
+
+
+DIPOLAR COUPLED DE MODES IN MAGNETIC DOUBLE LAYERS
+WITH PARALLEL AND ANTIPARALLEL MAGNETIC ALIGNMENT
+Next, we consider magnetic double layers (sometimes also called trilayers)
+as illustrated on the left-hand side of Figure 3 [2]. There are four magnetic
+surfaces, each carrying a DE wave, which interact via the oscillating strayfields
+that they produce. The calculation proceeds by using the Landau Lifshitz
+equation after linearization and by applying the boundary conditions follow-
+ing from Maxwells equations. The middle section of the Figure displays the
+result for the mode frequencies as a function of the interlayer thickness d0
+multiplied by the value of the wavevector q of the wave. q is determined by
+the geometry of the BLS experiment, including the wavelength of the laser
+light used. A typical value is q=1,73·10-2 nm-1. Hence qd0=1 corresponds to
+d0=58nm. This is the decay length of the DE waves away from the surface.
+
+94
+
+
+Figure 3. Coupled DE modes in magnetic double layers for parallel (upper part) and an-
+tiparallel (lower part) alignment of the magnetization M [2]. Calculation in the dipolar
+limit. For the spectrum in antiparallel alignment, a sample showing AF coupling (to be
+discussed later) was used. Peak positions are mainly due to the dipolar interaction with
+small corrections due to exchange coupling.
+
+
+   For the parallel alignment, the calculation predicts a symmetric graph,
+i.e. the same frequencies for both signs of q. For the antialignment, the pre-
+dicted branches are not symmetric as also revealed by the experiment.
+   Figure 3 displays a few more details of the nature of these modes. The
+middle part reveals that the upper branches 1+ and 1- are characterized by an
+in-phase precession of the magnetizations M, whereas for the lower branches
+2+ and 2- they are out of phase by 180°. In the middle part on the left-hand
+side, this aspect is again illustrated by showing the amplitude distribution in-
+side a cross-section, where the DE attenuation has been neglected. Note the
+phase jump by 180° in the middle part of the structure.
+
+
+DOUBLE LAYER WITH THE INCLUSION OF INTERLAYER EXCHANGE
+Qualitatively, the behaviour of the dipolar modes due to the inclusion of fer-
+romagnetic (F) interlayer exchange coupling (IEC) is easy to predict. This is
+because the result of full F coupling is a single film of which we already know
+the result as displayed in Figure 2. Why, in Figure 4, is it the lower dipolar
+branch from which the first standing mode evolves and not the upper one?
+
+
+                                                                                     95
+
+
+It becomes clear from the nature of the modes as displayed in the middle
+upper part of Figure 3 and has to do with the conservation of the symmetry
+character. When IEC is “turned on”, the amplitude pattern with the 180°
+phase jump is changed into the first standing mode under conservation of
+parity. Note that a 180° phase jump would generate a very high exchange
+energy which is avoided by the formation of a node (as in Figure 2).
+
+
+
+     Stokes                        Anti-Stokes
+
+                                                                                optic
+
+                                                  uniform
+
+
+
+                                                                                     uniform
+
+
+
+                                              optic
+
+
+
+
+                                                                -0.1       qd0           0.1
+
+                                                                       0   J 1 max       0
+
+                                                            Including interlayer exchange
+      Interlayer dipole dipole interaction only
+                                                            Here assumed ferromagnetic
+
+Figure 4. The expected effect of ferromagnetic interlayer exchange on the branches rep-
+resenting dipolar coupling (red). In the limit of full exchange for d0=0, the lower branch
+is replaced by the green dot representing the first standing mode of the combined single
+film. The general behaviour for small d0 is shown on the right-hand side. For the lower
+branch, there is a transition from dipolar dominated (red) to interlayer exchange domi-
+nated (green). The upper dipolar branch becomes the DE mode of the combined film. In
+the displayed region of small d0, its frequency is practically constant (horizontal red line).
+
+
+In Figure 3, we looked at the possibility of an antiparallel alignment and one
+way of achieving it would be antiferromagnetic (AF) interlayer exchange coup-
+ling. If we want to recognize this type of coupling from the behaviour of the
+spinwaves, what do we expect? At this point, it is important to mention that
+most of our experiments are performed in saturation. Hence, regardless of
+whether the coupling is F or AF, we would apply a high enough field for the
+BLS experiment to get parallel alignment (with an important exception as
+seen below). This has the advantage of a well-defined experimental situation.
+   The upper branch in the case of magnetic saturation is given by the uni-
+form precession i.e. total moment and therefore independent of IEC.
+   For the lower branch, one can argue as follows. For magnetizations aligned
+in parallel, an external field as well as ferromagnetic IEC should increase the
+restoring force and hence also the spinwave frequency. Opposite to this, AF
+type IEC should weaken the effect of the external field and thus decrease
+the frequency. In the present case, the dipolar interaction works in a similar
+
+96
+
+
+way. Hence, from these simple arguments one expects the frequency of the
+lower branch to be further decreased for antiferromagnetic IEC and to be
+increased as shown in Figure 4 for ferromagnetic IEC. On the other hand,
+if IEC is antiferromagnetic, then for small enough external fields, we should
+obtain antialignment. In this case, the branches presented in the lower part
+of Figure 3 could be used to identify the antialignment.
+   The concept just presented was later used and worked out in more detail by
+us [3] and by Cochran and Dutcher [4]. From the latter work, we have adopt-
+ed the term “uniform mode” for the in-phase precession and “optic mode” for
+the 180° out of phase precession. The principle was also used by other groups
+for the evaluation of exchange coupling from microwave experiments.
+   Due to the insight just described, we became aware in the early 1980s that
+we had a powerful tool in our hands, which could be used to investigate a
+long-standing open question concerning coupling phenomena in layered
+magnetic structures. At that time, it was suggested that ferromagnetic coup-
+ling could be caused by pinholes and ferromagnetic bridges across the
+interlayer. As Néel showed, it could also be due to meandering interlay-
+ers. This effect was therefore called orange peel or Néel-type coupling.
+Antiferromagnetic-type coupling could possibly occur due to edge effects,
+such as flux closure. Real intrinsic types of interlayer coupling, similar to the
+RKKY interaction in dilute magnetic alloys, was not yet known.
+   The situation was further hampered by insufficient sample preparation. In
+our first attempt to explore coupling and its dependence on the interlayer
+material and thickness, we only found ferromagnetic-type coupling –presum-
+ably resulting from pinholes.
+   For various reasons, we now concentrated on Cr interlayers. First, Cr by
+itself is an antiferromagnet. Based on its magnetic structure for thin enough
+interlayers, one expects the coupling to oscillate between F and AF with a
+period of two monolayers (ML). Second, Cr matches Fe very nicely both in its
+crystallographic and thermodynamic properties, which is important for the
+growth. Fe/Cr/Fe structures therefore appeared to be most promising.
+
+
+DISCOVERY OF ANTIFERROMAGNETIC (AF) COUPLING
+In this situation, I was very fortunate to have the opportunity to take sabbati-
+cal leave and go to Argonne National Laboratories in the US. In the team
+around M. Brodsky in Materials Sciences, I found a group with expertise in
+preparing Fe/Cr/Fe samples on substrates of cleaved rocksalt. For compari-
+son, we also prepared Fe/Au/Fe samples.
+
+
+
+
+                                                                              97
+
+
+                                                                                                         M1 M2
+               Cr interlayer                           Au interlayer
+                                interlayer thickness
+
+
+      8 Å Cr                                   0 Å Au                                                                                         M1·M2
+                                                                                                                              Eexch = -J1
+                                                                                                                                             ⅠM1Ⅰ·ⅠM2|
+
+
+                                                                                                                           Au or Cr
+
+
+      4 Å Cr                                  12 Å Au                                              Fe   Fe
+
+
+
+
+                                                                                              42
+                                                                                                             opric mode
+                                                                                              38
+
+
+
+
+                                                                            Frequency (GHz)
+      40 Å Cr                                 20 Å Au                                         34
+                                                                                                                                         uniform mode
+                                                                                              30
+
+                                                                                              26
+                                                                                                                          Fe/Cr/Fe
+                                                                                              22
+
+                                                                                              18
+-30                 0                 30 -30                 0         30
+                               Frequency shift (GHz)                                                0          1           2         3         4        5
+                                                                                                                          J1 (erg/cm2)
+
+
+
+Figure 5. Left-hand side: Representative BLS spectra from spinwaves in Fe/X/Fe, where
+X=Cr and Au [5]. The plot on the right-hand side displays the mode frequencies as a func-
+tion of the interlayer exchange parameter J1 [3] where the theory is represented by the
+solid lines.
+
+
+Spectra from both systems in strong enough fields for full saturation of the
+samples are displayed on the left-hand side of Figure 5. The spectrum with
+d0=0 represents the fully F-coupled limit, as in Figure 3. The two spectra at
+the bottom represent pure dipolar coupling. From the Fe/Au/Fe data and
+comparison with Figure 4, we concluded that the coupling for the Au inter-
+layers is ferromagnetic. However, by looking at the spectrum in the upper
+corner on the left-hand side for the Cr interlayers, the reader might share
+with me the sensation I had at that time when I viewed a BLS spectrum rep-
+resenting antiferromagnetic IEC for the first time.
+   In a phenomenological approach, IEC is treated via the associated aerial
+energy density Eexch, as quoted in the Figure. As already discussed, on physi-
+cal grounds, the optic mode increases its frequency for F coupling (J1>0) and
+decreases it for AF coupling (J1<0).
+
+
+
+
+98
+
+
+Figure 6. Remagnetization curves of samples with F-coupling (Fe/Au/Fe) and AF-coupling
+(Fe/Cr/Fe).
+
+  Figure 6 displays the effect of F and AF coupling on the remagnetization (so
+called hysteresis) curve. Plotted is the magneto-optic Kerr effect (MOKE) sig-
+nal, which is roughly proportional to the magnetization M, vs. the external field
+B0. There is a strong shearing for the Fe/Cr/Fe sample, which was not observed
+for the other (Fe/Au/Fe) sample, which displays the remagnetization of an
+uncoupled or F-coupled sample with small coercivity. F-coupled and uncoupled
+cannot be distinguished. Furthermore, one has to consider that shearing of
+hysteresis curves is not very unique. It is a phenomenon that occurs very often
+and can have many causes. The use of more sophisticated tools like BLS is not a
+luxury for a first observation. Note also that the information given by the MOKE
+curve is assisted by BLS spectra to make sure there is AF alignment at these
+points. However, once it is certain that shearing comes from AF coupling, one
+might as well employ this simpler method to obtain large amounts of data.
+                                                                                             M1·M2
+                                                                             Eexch = -J1
+                                                                                           "M1"·"M2!
+
+
+                       
+                        
+                                                                     
+                                                         
+
+
+
+
+                                                                     
+                                                              
+
+
+
+
+                                                            
+
+
+                                                                     
+                              
+                                                                                                   
+                                                                                   
+
+
+Figure 7. Left-hand side: First measurement of coupling for a wider range of Cr thick-
+nesses, given in terms of spinwave frequencies. Note that the DE mode stays almost con-
+stant whereas the optic (or exchange-) mode shows two minima, indicative of AF coupling.
+Right-hand side: Evaluation of the frequencies for another sample not showing the second
+minimum, with respect to the coupling parameter J1.
+
+                                                                                                            99
+
+
+In Figure 7, we see the result of a more extended investigation of the coup-
+ling represented by mode frequencies as a function of the Cr interlayer thick-
+ness given in Ångströms. This is the first rather complete result obtained
+in May 1985, and is directly copied from the lab book. The minima of the
+lower branch indicate AF coupling in that range. The second more shallow
+minimum initially appeared to be not sufficiently reproducible and was not
+communicated in our first publication. Furthermore, we were not very happy
+with the NaCl substrates because of their sensitivity to humidity. Since mean-
+while epipolished GaAs had become available, we switched to this substrate
+material. Finally, AF coupling could reproducibly be observed where the
+result of Figure 7 seemed generic instead of the expected period of 2ML.
+However, years later due to improved growth, this and other theoretically
+expected features caused by the noncommensurate spin density wave of Cr
+could be observed [6].
+   In 1986, when we published our results [5], there were two other publi-
+cations on interlayer exchange coupling, namely of Dy and of Gd across Y
+interlayers observed by means of neutron scattering (cited in ref. 7). For Gd
+interlayers, it was reported to be oscillatory, as indicated by Figure 7 and for
+many other examples which followed.
+
+
+DISCOVERY OF GIANT MAGNETORESISTANCE
+Sir Nevil Mott proposed a two-current model for the description of the elec-
+trical resistivity of magnetic alloys. This model is based on the fact that the re-
+sistivity is due to electron scattering. In magnetic materials, this is dependent
+on spin orientation. Due to the quantum mechanical spatial quantization,
+this orientation is only parallel or antiparallel with respect to the local mag-
+netization. As spin flip processes occur seldom, each of the two orientations
+defines a current.
+   With this picture, one expects that there would be a strong resistivity
+change if one could manage to change the direction of the local magnetiza-
+tion within the mean free path of the electrons or on an even shorter scale.
+In a case where the scattering rates are different, there is a better chance that
+the total scattering rate is increased. As mean free paths are of the order of
+10 nm, the 1 nm thickness by which the magnetic layers are separated in the
+coupled structures perfectly fulfills this condition. We expect that if the rela-
+tive orientation of the magnetizations changes from parallel to antiparallel
+in a structure such as in Figure 8, left-hand side, the resistivity for the current
+will increase.
+   In order to have more experimental possibilities available, we used samples
+grown epitaxially on (110) oriented GaAs. The film plane was parallel to a
+(110) atomic plane and had an easy (EA) and a hard (HA) axis. For the
+thickness d of the individual Fe films, we chose d =12 nm. The Cr thickness
+was d0 =1 nm, which corresponds to the first maximum of AF coupling. As a
+reference sample, we also made a single Fe film with thickness d=25 nm in
+
+
+100
+
+
+order to measure the anisotropic magnetoresistance (AMR) effect for com-
+parison. Laterally, the samples had the shape of a long strip with contacts at
+both ends.
+
+
+
+
+Figure 8. (a) and (b) MOKE curves and BLS spectra in order to identify magnetic align-
+ment as shown by arrows. (c) and (d): relative resistance change corresponding to align-
+ment [8].
+
+
+In Figures 8(a) and 8(b), we can see the MOKE hysteresis loops from the
+double layers with AF coupling for B0 along the EA and HA. The directions
+of the magnetization are indicated by the encircled pairs of arrows. This
+information is obtained from the MOKE intensities and the displayed LS
+spectra. As an example, let us discuss the hysteresis loop shown in Figure 8(a)
+in more detail. The field B0 is applied along the EA, which is the long axis
+of the strip. It is clear that for a large enough B0, the samples saturate in the
+field direction (parallel alignment). If we start with parallel alignment in the
+positive field direction and reduce B0 then at a certain, but still positive value
+of B0, the magnetization of one film reverses via domain-wall motion (point
+1). Hence, in small fields we have antiparallel alignment. In a negative field,
+at point 2, the other film also reverses, and we have saturation. Points 3 and 4
+mark the magnetization reversals when B0 is scanned back.
+   Magnetoresistance (MR) traces are shown in Figure 8(c) and 8(d). Here,
+we have plotted the relative change of the resistivity (R —R↑↑)/R↑↑ as we scan
+through the hysteresis loop. R↑↑ is the resistivity for saturation along the EA.
+In Figure 8(d), we also show the MR of the single Fe film, taken for B0 along
+the HA. Since for large B0, the magnetization is along [110] and for small B0,
+along [100], the maximum change of R seen in this trace displays the aniso-
+tropic MR= (R > -R||)/R|| of a 25-nm-thick Fe film. The value of - 0,13% is in
+reasonable agreement with the literature value of - 0,2%. For the single film
+and B0 along the EA, there was no measurable MR effect. The reason for this
+
+
+                                                                                   101
+
+
+is clear; the magnetization always stays aligned parallel to the EA and magne-
+tization reversal takes place via domain-wall motion only. In Figure 8(d) for
+the Fe-Cr-Fe film, we have an MR effect due to both the anisotropic effect
+(negative values) and antiparallel alignment (positive values). The zero level
+of this plot is defined by R=R||.
+   At the time of the discovery of GMR, it was well known that leading com-
+puter companies planned to develop AMR so it could be used for read heads
+in hard disk drives (HDDs). The comparison between AMR and the new ef-
+fect (later, the term GMR was widely accepted) encouraged us to file a patent
+for using GMR in HDD.
+(a)                 R / R(H=0)                      (b) 1.5
+              1.0
+
+                      30 x (Fe / Cr)                                      Fe / Cr / Fe
+                                                    R/RP (%)
+                                                           1.0
+
+
+                             35 x (Fe / Cr)                0.5
+                                                                            250 Å Fe
+                                   60 x (Fe / Cr)
+
+              0.5                                          0.0
+
+  -40    -20     0         20          40                      -2   -1         0           1   2
+           Magnetic field (kG)                                           Magnetic field (kG)
+
+Figure 9. GMR effect (a) in a multilayer and (b) double layer of Fe interspaced by Cr. In
+(b) the AMR effect of a 250-Å-thick film of Fe is also shown for comparison.
+
+In Figure 9 [9], we can see a comparison of the measurements using a multi-
+layer as in Orsay and a double layer as in Jülich. The value for the multilayer
+of around 80% obtained in Orsay, which led to the term “giant” appears to
+have been surpassed by far by the TMR value of 500% for systems with MgO
+barriers. However, one has to be careful. There seems to be an important
+difference between dealing with insulators, semiconductors and metals. The
+magnetic semiconductor EuS, for example, changes its resistivity below its
+Curie point by many orders of magnitude. If we restrict the discussion to
+purely metallic systems, which has also some important implications for ap-
+plications, the term “giant” is still justified.
+    The value 1.5% for the double layer displayed in Figure 9 (b) is even
+smaller but still large compared to the AMR effect of Fe (trace at the bot-
+tom). In Figure 8, the effect was measured using various configurations of
+external field relative to the axis of the crystal anisotropy to make sure that it
+really is due to the relative orientation of the magnetizations. The low values
+of the GMR effect as seen in Figure 8 and Figure 9 (b) is not a result of minor
+sample quality but is typical for the chosen film thicknesses.
+   GMR can be observed in the current in plane (CIP) and current perpen-
+dicular plane (CPP) geometry. The conventional geometry is CIP and is for
+most sensor applications (see below). The CPP configuration is expected to
+be of interest for future sensor designs.
+   As was already suggested in the first paper by Albert Fert and his group and
+later established by numerical evaluations of experiments [11], the micro-
+
+102
+
+
+scopic explanation for the GMR effect is a dependence of the scattering rates
+on the orientation (parallel or antiparallel) of the electron spins with respect
+to the local magnetization.
+   We will now consider the situation in Figure 10 a. Two structures are shown
+− one with parallel and the other with antiparallel magnetization alignment.
+In an ideal situation, we assume that electrons with spin parallel to the local
+magnetization in their random walk are not scattered. In the figure, only
+one passage from the left to the right surface is displayed as representative
+for the entire motion. In this ideal picture, the electrons which are not scat-
+tered would cause a short circuit. This short circuit is removed when one
+magnetization is turned round and the electron with up spin enters this layer
+and finds its spin to be opposite to the local magnetization. The equivalent
+circuits for the various cases are shown at the bottom and display the in-
+crease in the resistivity due to the removal of the short circuit. In reality of
+course, both types of electrons are scattered. It is sufficient that one sort of
+spin is scattered more than the other for the resistivity to increase due to the
+antiparallel magnetization alignment. From symmetry for the CIP configura-
+tion, spin-dependent interface reflectivity does not contribute to the effect.
+The reason is that there is no change in momentum in the direction of the
+current due to translational symmetry during reflection at interfaces. This is
+different in the CPP geometry, where both spin-dependent scattering as well
+as spin-dependent reflectivity contribute.
+
+
+
+
+Figure 10. (a) Explanation of the CIP-GMR effect: spin-dependent electron scattering and
+redistribution of scattering events upon anti-alignment of magnetizations. The antiparal-
+lel alignment can be obtained by antiferromagnetic coupling, like in Figure 9, or due to
+hysteresis effects, like in Figure 10 (b).
+
+The largest difference in resistivity occurs when an AF alignment is changed
+by an applied field into a F alignment. The AF alignment can be provided by
+
+                                                                                    103
+
+
+AF interlayer exchange as for the samples in Figure 9 or by different coercivi-
+ties of successive magnetic layers, in particular by pinning the magnetization
+using an antiferromagnetic material in direct contact, known as “exchange
+biasing”. If GMR is obtained via one of the latter methods and not via AF
+interlayer coupling, usually the term “spin valve system” is used in the lit-
+erature, although there is no difference concerning the mechanism of the
+GMR effect. Such a case is displayed in Figure 10 b (see also the review article
+in ref. 9). The sample is a Co/Au/Co layered structure with one of the Co
+films deposited directly onto the GaAs substrate. Since this Co film is more
+strained than the one prepared on the Au interlayer, it has a higher coer-
+civity. During magnetization reversal of the whole structure, it reverses later
+than the other, resulting in a small field range with antiparallel alignment. In
+Figure 10 (b) upper panel, this range is marked by antiparallel arrows. The
+curve in Figure 10 (b) lower panel shows the associated electrical resistance
+R(H) and its increase due to the antiparallel alignment. As will be seen in the
+section on Applications, the two different methods for obtaining antiparallel
+alignment lead to two different concepts for sensors based on GMR.
+
+GMR: THE CAMLEY-BARNAS MODEL
+At the time when the GMR effect was discovered, it was a coincidence that I
+had two visiting scientists in my team at Jülich, Jozef Barnas from Poznan in
+Poland and Bob Camley from Colorado Springs in the USA. Both are theore-
+ticians whom I had been working with years before on spinwaves. Together,
+they worked out a method for the description of GMR by means of suitable
+parameters. Their method is based on Boltzmann’s diffusion equation within
+the relaxation time approximation and soon became known as the Camley-
+Barnas model [10].
+
+
+
+
+Figure 11. Comparison of theory and experiment within the Camley-Barnas model. Top
+right: resistance change vs. external field assuming AF coupling and cubic anisotropy.
+Bottom right: resistance change vs mean free path for multilayered structures (n=number of
+Cr layers). Left: assymetry of diffusive scattering parameters given by D↑ ≈0.45 and D↓≈ 0.08.
+
+
+104
+
+
+CIMS
+Current-induced magnetic switching (CIMS) can be understood as an inverse
+GMR effect. In a trilayer structure, one film is prepared with a fixed magne-
+tization Mfixed and the other with a magnetization which can be easily rotated
+(Mfree). Using electron beam lithography, the samples are prepared in such a
+way that a strong current can be applied perpendicular to the sample plane.
+Then it can be shown that – no matter what the initial conditions are – when
+the current is such that the electron flow from the film with Mfixed to the film
+with Mfree, Mfree switches into the parallel orientation. When the current is in
+the opposite direction Mfree switches into the antiparallel orientation. The ef-
+fect was predicted by J. Slonczewski and by L. Berger and observed by Katine
+et al. for the first time. References to these works are given in [12], which also
+shows an example for “inverse” CIMS where the role of the two current direc-
+tions is interchanged.
+
+
+
+
+Figure 12. Two-step CIMS in Fe/Ag/Fe. Four energetically nearly identical states give rise
+to two-step switching [13].
+
+
+Figure 12 displays an example for CIMS obtained recently in Jülich from
+epitaxial samples of Fe/Ag/Fe with fourfold cubic inplane anisotropy. The
+curves with the overall U shape display the resistivity of the sample in CPP
+geometry. The strong increase on both sides is due to the heating of sample
+by the strong current. The various steps in the curves are due to switching
+between the various configurations as indicated and the associated change in
+the CPP-GMR effect. The shamrock patterns in the middle part display the
+cubic anisotropy. Magnetizations always switch between easy axis indicated by
+minima in the polar plot.
+
+
+APPLICATIONS
+We now come to applications of the effects discussed. One can safely say that
+GMR has received much attention due to its impact on magnetic storage, in
+
+                                                                                     105
+
+
+particular in hard disk drives (HDDs). Since the introduction of GMR-type
+sensors as reading elements, in around 1997, storage capacities have increased
+approximately 100 times. The introduction of GMR sensors into HDDs was
+particularly fast because magnetoresistive sensors based on the Anisotropic
+Magnetoresistivity Effect (AMR) had paved the way. Thanks to the fact that
+GMR is at least partly an interface effect (note that in Figure 10, the scattering
+events have been intentionally placed at the interfaces), one can make GMR
+sensors thinner than those based on AMR. A thinner layer is subject to less
+demagnetizing effects than a thicker one when one also wants to shrink the
+lateral dimensions in order to read a narrower track. In other fields where a
+small size is not as critical, AMR and GMR might still coexist for some time. It
+is expected that GMR will save costs in the long run, alone from the trivial fact
+that one can have more sensors on a wafer during production.
+
+
+
+
+Figure 13. Working principle and data for GMR sensor with AF-coupled multilayer
+(courtesy of NAOMI- Sensitech, Germany).
+
+There are two basic concepts for GMR-type sensors, which are connected
+with the two ways to obtain antiparallel alignment discussed in Figure 9
+and Figure 10 b. For the sensor material in Figure 13, a Co/Cu multilayer
+was used, where the Cu thickness was chosen to provide antiferromagnetic
+coupling. Its strength and the associated properties can be chosen from the
+empirical coupling curve, which is also displayed. Three different panels and
+a table are displayed which present these properties, in particular saturation
+field and sensitivity. This type of sensor has the advantage of a large signal
+because multilayers can be used, but the disadvantage that it is unipolar
+(positive and negative fields yield the same signal as also displayed by the
+curves). They cannot be used for magnetic recording where the polarity of
+the field contains the essential information. However, there are many other
+applications in position and motion sensing of objects which are magnetic or
+marked by attaching a little permanent magnet to them. These range from
+tooth detection of rotating gear wheels to the detection of cars or even air-
+planes for traffic control. In future car parks, each lot will be equipped with
+a sensor and will give information regarding free lots to the customer via a
+panel at the entrance.
+
+
+
+
+106
+
+
+                                object
+
+
+
+
+                          permanent-
+                          magnet
+
+
+
+
+                                                         GMR
+                                                         Sensor
+              synthetic
+              antiferromagnet
+                                                        natural antiferro-
+                                                        magnet
+
+
+
+Figure 14. Working principle of a GMR- spinvalve-type sensor, used here for measurement
+of rotational angles.
+
+
+The other type of GMR sensor also available on the market is of the spin-
+valve type (see above). It consists of a fixed layer (see Figure 14) and a free
+layer which can follow the applied field. There are various ways to stabilize
+the fixed layer, like the use of “synthetic antiferromagnets” with compen-
+sated overall magnetization such that they do not react to the applied field.
+They can be stabilized further by using natural antiferromagnets and the
+well-known effect of “exchange anisotropy”. The disadvantage here is that
+multilayers yield no improvement. GMR signals are hardly more than 10 %.
+However the real advantage is that they are bipolar and thus can be used in
+magnetic recording and in electronic compasses.
+   Applications of antiferromagnetic coupling have already been indicated
+(synthetic antiferromagnets). This would be for use in sensors. However,
+magnetic storage media of HDDs have also benefited from the invention of
+AFC (antiferromagnetically coupled) media with improved stability of stored
+information.
+
+
+
+
+                                                                                  107
+
+
+REFERENCES
+[1] P. Grünberg and F. Metawe, Phys. Rev. Lett. 39, 1561 (1977), “Light Scattering from Bulk
+     and Surface Spinwaves in EuO”.
+[2] P. Grünberg, Appl. Phys. (1989) Vol. 66: “Light Scattering in Solids V”, ed. by M.
+     Cardona and G. Güntherodt, “Light Scattering from Spinwaves in Layered Magnetic
+     Structures” (review).
+[3] J. Barnas, P. Grünberg, J. Magn. Magn. Mat. 82, 186 (1989), “Spin waves in exchange
+     coupled epitaxial double layers”
+[4] J. F. Cochran and J. R. Dutcher, J. Appl. Phys. 64(1988)6092, “Calculation of Brillouin
+     light scattering intensities from pairs of exchange coupled films”.
+[5] P. Grünberg, R. Schreiber, Y. Pang, M. B. Brodsky, H. Sowers, Phys. Rev. Lett. 57,
+     2442 (1986), “Layered Magnetic Structures: Evidence for antiferromagnetic coupling of Fe-
+     layers across Cr-interlayer.
+[6] J. Unguris, R. J. Celotta, and D. T. Pierce, Phys. Rev. Lett. 67, 140 (1991), Observation
+     of two different oscillation periods in the exchange coupling of Fe/Cr/Fe(100).
+[7] D. E. Bürgler, P. Grünberg, S. O. Demokritov, M. T. Johnson, Handbook of Magnetic
+     Materials 13, Elsevier, ed. by K.H.J. Buschow, “Interlayer Exchange Coupling in Layered
+     Magnetic Structures”(review).
+[8] G. Binasch, P. Grünberg, F. Saurenbach, W. Zinn, Phys. Rev. B39, 4828 (1989),
+     “Enhanced magnetoresistance in layered magnetic structures with antiferromagnetic interlayer
+     exchange”.
+[9] A. Fert, P. Grünberg, A. Barthelemy, F. Petroff, W. Zinn, JMMM 140-144, 1 (1995),
+     “Layered magnetic structures: interlayer exchange coupling and giant magnetoresistance”.
+[10] R. E. Camley and J. Barnas, Phys.Rev. Lett.63, 664, (1989),”Theory of Giant Magneto-
+     resistance Effects in Magnetic Layered Structures with Antiferromagnetic Coupling”.
+[11] J. Barnas, A. Fuß, R. E. Camley, P. Grünberg, W. Zinn, Phys. Rev. B42, 8110 (1990),
+     “Novel magnetoresistance effect in layered magnetic structures: theory and experiment”.
+[12] P. Grünberg, D. E. Bürgler, H. Dassow, A. D. Rata, C. M. Schneider, Acta Materialia
+     55 (2007) 1171–1182, “Spin-transfer phenomena in layered magnetic structures:physical phe-
+     nomena and materials aspects”.
+[13] R. Lehndorff, M. Buchmeier, D. E. Bürgler, A. Kakay, R. Hertel, C. M. Schneider,
+     ”Asymmetric spintransfer torque in single-crystalline Fe/Ag/Fe nanopillars” Phys. Rev. B76,
+     214420 (2007).
+Portrait photo of Peter Grünberg by photographer Ulla Montan.
+
+
+
+
+108
+

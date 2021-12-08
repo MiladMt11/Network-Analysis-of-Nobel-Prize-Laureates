@@ -1,0 +1,973 @@
+THE LOGIC OF CHEMICAL SYNTHESIS:
+MULTISTEP SYNTHESIS OF COMPLEX
+CARBOGENIC MOLECULES
+Nobel Lecture, December 8, 1990
+
+by
+E L I A S JA M E S C O R E Y
+
+Department of Chemistry, Harvard University, Cambridge, Massachusetts,
+USA
+
+
+
+
+Carbogens, members of the family of carbon-containing compounds, can
+exist in an infinite variety of compositions, forms and sizes. The naturally
+occurring carbogens, or organic substances as they are known more tradi-
+tionally, constitute the matter of all life on earth, and their science at the
+molecular level defines a fundamental language of that life. The chemical
+synthesis of these naturally occurring carbogens and many millions of
+unnatural carbogenic substances has been one of the major enterprises of
+science in this century. That fact is affirmed by the award of the Nobel Prize
+in Chemistry for 1990 for the “development of the theory and methodology
+of organic synthesis”. Chemical synthesis is uniquely positioned at the heart
+of chemistry, the central science, and its impact on our lives and society is all
+pervasive. For instance, many of today’s medicines are synthetic and many
+of tomorrow’s will be conceived and produced by synthetic chemists. To the
+field of synthetic chemistry belongs an array of responsibilities which are
+crucial for the future of mankind, not only with regard to the health,
+material and economic needs of our society, but also for the attainment of
+an understanding of matter, chemical change and life at the highest level of
+which the human mind is capable.
+   The post World War II period encompassed remarkable achievement in
+chemical synthesis. In the first two decades of this period chemical syntheses
+were developed which could not have been anticipated in the earlier part of
+this century. For the first time, several very complex molecules were assem-
+bled by elaborately conceived multistep processes, for example vitamin A
+(O. Isler, 1949), cortisone (R. B. Woodward, R. Robinson, 1951), morphine
+(M. Gates, 1956), penicillin (J. C. Sheehan, 1957), and chlorophyll (R. B.
+Woodward, 1960).1 This striking leap forward, which was recognized by the
+award of the Nobel Prize in Chemistry to R. B. Woodward in 1965,2 was
+followed by an equally dramatic scientific advance during the past three
+decades, in which chemical synthesis has been raised to a qualitatively
+higher level of sophistication. Today, in many laboratories around the world
+chemists are synthesizing at an astonishing rate complex carbogenic struc-
+tures which could not have been made effectively in the 1950’s or early
+
+
+                                    E. J. Corey                               687
+
+
+1960’s. This advance has been propelled by the availability of more power-
+ful conceptual processes for the planning of chemical syntheses, the use of
+new chemical methods, in the form of reactions and reagents, and the
+advent of improved methods for analysis, separation and determination of
+structure. Many talented investigators all over the world have contributed
+to the latest surge of chemical synthesis. Their efforts constitute a collective
+undertaking of vast dimensions, even though made independently, and
+their ideas and discoveries interact synergistically to the benefit of all. I am
+happy to have been selected by the Nobel Committee for contributions to
+the science of chemical synthesis, but I am even more pleased that this
+important field of science has again received high recognition.
+
+Genesis
+In the fall of 1947, as an undergraduate at the Massachusetts Institute, I
+took a course in Advanced Synthetic Organic Chemistry, taught by the
+distinguished chemist A. C. Cope, in which the major reactions of synthesis
+were surveyed. It was explained that very few new synthetic methods re-
+mained to be found, since only five important reactions had been discov-
+ered in the preceding fifty years; and we students were advised to learn how
+to devise chemical syntheses using the available portfolio of known con-
+structions. We were given numerous molecular structures as synthetic prob-
+lems. After doing a few of the problem sets, I had developed sufficient skill
+and experience to handle all of the remaining assignments with ease, much
+as I had learned to use the English language, to prove mathematical theo-
+rems, or to play chess. My new found competence in chemical problem
+solving seemed to result from an automatic “know how” rather than from
+the conscious application of well-defined procedures. Nonetheless, even
+though I had mastered the classical reactions, designing syntheses of mole-
+cules beyond the modest level of complexity of these instructional problems
+still eluded me. Molecules such as morphine, cholesterol, penicillin, or
+sucrose were so forbidding that they defined the frontiers of 1947; each
+seemed to be unique and to require a very high level of creativity and
+invention. Much of my research over the years has been devoted to probing
+those frontiers and advancing the level of synthetic science by an approach
+consisting of three integral components: the development of more general
+and powerful ways of thinking about synthetic problems, the invention of
+new general reactions and reagents for synthesis, and the design and
+execution of efficient multistep syntheses of complex molecules at the limits
+of contemporary synthetic science.
+
+Retrosynthtic Analysis
+During the first half of this century most syntheses were developed by
+selecting an appropriate starting material, after a trial and error search for
+commercially available compounds having a structural resemblance to the
+target of synthesis. Suitable reactions were then sought for elaboration of
+the chosen starting material to the desired product. Synthetic planning in
+
+
+688                                Chemistry 1990
+
+
+most instances was strongly dependent on an assumed starting point. In the
+fall of 1957 I came upon a simple idea which led to an entirely different way
+of designing a chemical synthesis. In this approach the target structure is
+subjected to a deconstruction process which corresponds to the reverse of a
+synthetic reaction, so as to convert that target structure to simpler pecursor
+structures, without any assumptions with regard to starting materials. Each of the
+precursors so generated is then examined in the same way, and the process
+is repeated until simple or commercially available structures result. This
+“retrosynthetic” or “antithetic” procedure constitutes the basis of a gener-
+al logic of synthetic planning which was developed and demonstrated in
+practice over the ensuing decade.3, 4, 5 In an early example, retrosynthetic
+planning for the tricyclic sesquiterpene longifolene (1) (Chart I) produced
+several attractive pathways for synthesis, one of which was selected and
+validated by experimental execution. 6 The basic ideas of retrosynthetic
+analysis were used to design many other syntheses and to develop a comput-
+er program for generating possible synthetic routes to a complex target
+structure without any input of potential starting materials or intermediates
+for the synthesis.4, 5 T h e princip les of retrosynthetic analysis have been
+summarized most recently in the textbook, “The Logic of Chemical Synthe-
+sis”7 which was written for advanced undergraduate and graduate students
+of chemistry. The retrosynthetic way of thinking about chemical synthesis
+also provided a logical and efficient way to teach synthetic planning to
+intermediate and advanced students, a good example of the intimate link
+between teaching and research in an academic setting. A brief synopsis of
+the retrosynthetic planning of syntheses will now be given.
+   Retrosynthetic8 (or antithetic) analysis is a problem-solving technique for
+transforming the structure of a synthetic target (TGT) molecule to a sequence
+of progressively simpler structures along a pathway which ultimately leads
+to simple or commercially available starting materials for a chemical synthe-
+sis. The transformation of a molecule to a synthetic precursor is accom-
+plished by the application of a transform, the exact reverse of a synthetic
+reaction, to a target structure. Each structure derived antithetically from a
+TGT then itself becomes a TGT for further analysis. Repetition of this
+process eventually produces a tree of intermediates having chemical struc-
+tures as nodes and pathways from bottom to top corresponding to possible
+synthetic routes to the TGT. Such trees, called EXTGT trees since they grow
+out from the TGT, can be quite complex since a high degree of branching is
+possible at each node and since the vertical pathways can include many
+steps. This central fact implies the need for strategies which control or
+guide the generation of EXTGT trees so as to avoid explosive branching and
+the proliferation of useless pathways.
+   Each retrosynthetic step requires the presence of a target structure of a
+keying structural subunit or retron which allows the application of a particu-
+lar transform. For example, the retron for the aldol transform consists of
+the subunit HO-C-C-C=O, and it is the presence of this subunit which
+permits transform function, e.g. as follows:
+
+
+                                   E.J. Corey                              689
+
+
+
+
+   Transforms vary in terms of their power to simplify a target structure.
+The most powerful of simplifying transforms, which reduce molecular
+complexity in the retrosynthetic direction, occupy a special position in the
+hierarchy of all transforms. Their application, even when the appropriate
+retron is absent, may justify the use of a number of non-simplifying trans-
+forms to generate that retron. In general, simplifying transforms function
+to modify structural elements which contribute to molecular complexity:
+molecular size, cyclic connectivity (topology), stereocenter content, element
+and functional group content, chemical reactivity, structural instability, and
+density of complicating elements.
+   Molecular complexity is important to strategy selection. For each type of
+molecular complexity there is a collection of general strategies for dealing
+with that complexity. For instance, in the case of a complex polycyclic
+structure, strategies for the simplification of the molecular network, i.e.
+topological strategies, must play an important part in transform selection.
+However, the most efficient mode of retrosynthetic analysis lies not in the
+separate application of individual strategies, but in the concurrent applica-
+tion of as many different independent strategies as possible.
+   The major types of strategies7 which are of value in retrosynthetic analysis
+may be summarized briefly as follows.8
+  1. Transform-based strategies - long range search or look-ahead to apply
+     a powerfully simplifying transform (or a tactical combination of sim-
+     plifying transforms) to a TGT with certain appropriate keying fea-
+     tures. The retron required for application of a powerful transform
+     may not be present in a complex TGT and a number of antithetic steps
+     (subgoals) may be needed to establish it.
+  2. Structure-goal strategies - directed at the structure of a potential
+     intermediate or potential starting material. Such a goal greatly nar-
+     rows a retrosynthetic search and allows the application of bidirectional
+     search techniques.
+  3. Topological strategies - the identification of one or more individual
+     bond disconnections or correlated bond-pair disconnections as strate-
+     gic. Topological strategies may also lead to the recognition of a key
+     substructure for disassembly or to the use of rearrangement trans-
+     forms.
+  4. Stereochemical strategies - general strategies which clear, i.e. remove,
+     stereocenters and stereorelationships under stereocontrol. Such
+     stereocontrol can arise from transform-mechanism control or sub-
+     strate-structure control. In the case of the former the retron for a
+     particular transform contains critical stereochemical information (ab-
+
+
+690                                  Chemistry 1990
+
+
+      solute or relative) on one or more stereocenters. Stereochemical
+      strategies may also dictate the retention of certain stereocenter
+      during retrosynthetic processing or the joining of atoms in three-
+      dimensional proximity. A major function of stereochemical strategies
+      is the achievement of an experimentally valid clearance of stereo-
+      centers, including clearance of molecular chirality.
+   5. Functional group-based strategies. The retrosynthetic reduction of
+      molecular complexity involving functional groups (FG’s) takes various
+      forms. Single FG’s or pairs of FG’s (and the interconnecting atom
+      path) can key directly the disconnection of a TGT skeleton to form
+      simpler molecules or signal the application of transforms which re-
+      place functional groups by hydrogen. Functional group interchange
+      (FGI) is a commonly used tactic for generating the retrons of simplify-
+      ing transforms from a TGT. FG’s may key transforms which stereo-
+      selectively remove stereocenters, break topologically strategic bonds
+      or join proximate atoms to form rings.
+   6. “Other” types of strategies. The recognition of substructural units
+      within a TGT which represent major obstacles to synthesis often
+      provides major strategic input. Certain other strategies result from
+      the requirements of a particular problem, for example a requirement
+      that several related target structures be synthesized from a common
+      intermediate. A TGT which resists retrosynthetic simplification may
+      require the invention of new chemical methodology. The recognition
+      of obstacles to synthesis provides a stimulus for the discovery of such
+      novel processes. The application of a chain of hypotheses to guide the
+      search for an effective line of retrosynthetic analysis is important.
+   Other strategies deal with optimization of a synthetic design after a set of
+pathways has been generated antithetically, specifically for the ordering of
+synthetic steps, the use of protection or activation steps, or the determina-
+tion of alternate paths.
+   Systematic and rigorous retrosynthetic analysis is the broad principle of
+synthetic problem solving under which the individual strategies take their
+place. Another overarching idea is the use concurrently of as many indepen-
+dent strategies as possible to guide the search for retrosynthetic pathways.
+The greater the number of strategies which are used in parallel to develop a line o f
+analysis, the easier the analysis and the simpler the emerging synthetic plan is likely
+to be. 10
+   An abbreviated form of the 1957 retrosynthetic plan for the synthesis of
+longifolene (1) is shown in Chart I. Changes in the retrosynthetic direction
+are indicated by a double arrow       to distinguish them from the synthetic
+direction of chemical reactions        and the number below indicates the
+number of transforms required for the retrosynthetic change if greater than
+one. The selection of transforms was initially guided by a topological
+strategy (disconnection of bond a in 1). The Michael transform, which
+simplifies structure 2 to precursor 3, can be found by general transform
+selection procedures. 5,9, The starting materials for the synthesis which
+
+
+                                   E.J. Corey,                             691
+
+
+emerge from retrosynthetic analysis, 4 and 5, have little resemblance to the
+target structure 1.
+  A detailed explanation of this example of retrosynthetic analysis has been
+given. 6b, 10 During the past 20 years systematic retrosynthetic thinking has
+permeated all areas of carbogenic synthesis. It is no longer possible to teach
+the subject of carbogenic synthesis effectively without the extensive use of
+retrosynthetic concepts and thinking.
+
+
+
+
+                                   Chart I
+
+
+Computer-Assisted Retrosynthtic Analysis
+The use of computers to generate possible pathways for chemical synthesis,
+which was first demonstrated in the 1960's, 4,5,9,11 was made possible by the
+development of the retrosynthetic methods outlined above and the re-
+quired computer methodology. Graphical input of structures by hand draw-
+ing using an electrostatic tablet and stylus, in the natural manner of a
+chemist, and output to a video terminal4,12 provided an extraordinarily
+simple and effective interface between chemist and machine. Chemical
+structures were represented in the machine by means of atom and bond
+tables, and manipulated by appropriate instructions. Algorithms were de-
+vised for perception by machine of structural features, patterns, and sub-
+units which are needed for synthetic analysis. Techniques were developed
+for storage and retrieval of information on chemical transforms (including
+retron recognition and keying) using a higher level “chemical English”
+language. The program (LHASA) was designed to be interactive, with any
+level of control or input desired by the user, and to emulate the problem-
+
+
+692
+
+
+
+                  I
+
+
+
+
+       Chart II
+
+
+
+
+      Chart III
+
+
+                                   E. J. Corey                              693
+
+
+solving approaches of synthetic chemists. The chemical knowledge base,
+written so as to be intelligible to a practicing chemist, contains all the types
+of information required for generation and evaluation of retrosynthetic
+changes, for example, data on individual transforms and their mechanisms,
+scope, and limitations. The performance of the program is below that which
+should eventually be possible because of the immensity of the task and the
+modest size of our research effort. However, despite present limitations,
+including a modest knowledge base of about 2000 transforms, LHASA is
+capable of providing interesting suggestions of synthetic pathways for chal-
+lenging targets. The present level of capability of LHASA can best be
+appreciated by its performance on specific problems. Shown in Chart II is
+the EXTGT tree generated by LHASA for the antiviral agent aphidicolin,
+using just one particular line of analysis. The pathway in this tree from
+intermediates 332 and 333 to aphidicolin consists of the structures shown in
+Chart III.13 The suggestion by LHASA of such non-obvious pathways is
+both stimulating and valuable to a chemist.
+   The field of computer assisted synthetic analysis is fascinating in its own
+right, and surely one of the most interesting problems in the area of
+machine intelligence. Because of the enormous memory and speed of
+modern machines and the probability of continuing advances, it seems clear
+that computers can play an important role in synthetic design. However,
+before that potential can be realized, many difficult computing problems
+must be solved. Multistep retrosynthetic look-ahead, even under strategic
+guidance, requires complex and powerful software. Vast amounts of infor-
+mation - structural, stereochemical, and chemical - must be generated and
+analyzed using all available chemical knowledge. A massive undertaking will
+be required.
+
+New Synthetic Methodology and Multistep Synthesis of Complex Molecules
+The invention of new reactions and reagents has revolutionized the field of
+carbogenic synthesis, literally placing an extraordinarily powerful new
+chemistry alongside the classical reactions of the pre-1950 period. Without
+this methodology, the achievements of modern chemical synthesis would
+not have been possible. Two early landmarks in this advance, the discovery
+of the Wittig synthesis of olefins and the hydroboration of olefins, were
+highlighted by the award of the Nobel Prize in Chemistry for 1979 to G.
+Wittig and H. C. Brown. More recent developments have provided many
+methods which are noteworthy for their great chemical selectivity and
+stereochemical control and for their suitability in the construction of com-
+plex molecules. Indeed, many new synthetic processes have been discovered
+as a result of a perceived need in connection with specific problems involv-
+ing novel or complicated structures and a deliberate search for suitable
+methodology. The rational design of such methods depends on the use of
+mechanistic reaction theory, stereochemical principles, and a wide range of
+chemistry involving many elements and ephemeral reactive intermediates.
+  A key to the success of many of the multistep chemical syntheses which
+
+
+694                               Chemistry 1990
+
+
+
+
+                                                                        8
+
+
+
+
+have been demonstrated in our laboratories over the years has been the
+invention of new methodology. Since more than fifty such methods have
+been developed in our laboratory, it is impossible to summarize this aspect
+of synthetic research in a brief article. However, a few examples may serve
+to illustrate the effectiveness of these new methods in providing access to
+rare and valuable carbogenic compounds and their impact on the whole
+field of chemical synthesis.
+   The discovery and identification of the insect juvenile hormone of Cecro-
+pia, now known as JH-I)14 in 1967 generated immense interest because of
+the potential of such nontoxic compounds for insect control.” Chemical
+synthesis was essential because of the extreme paucity of material from
+natural sources. Despite the apparent simplicity of structure 6, a stereospe-
+cific route for the synthesis was not obvious, because no general methods
+existed in 1967 for the stereocontrolled generation of the trisubstituted
+olefinic units which it contains. The first stereospecific synthesis of 6 16 was
+possible using new methodology which was specifically devised for this
+
+
+                                   E.J. Coy                                695
+
+
+application. An abbreviated version of the synthesis is shown in Chart IV.
+The first olefinic intermediate (7) was synthesized                         in
+a way which guarantees the Z-configuration of the stereocenter. Reaction of
+8 with LiAlH4 (trans hydroalumination) followed by iodine (replacement of
+Al by I) produced 9 stereospecifically by a novel sequence. 16 The replace-
+ment of iodine in 9 by ethyl was effected by another new process, cross
+coupling of a vinylic iodide with an organocopper reagent, which provided
+10 stereospecifically. A completely analogous series of reactions converted
+10 to triene 11, from which JH-I (6) was obtained by a novel selective
+oxidation sequence. Thus, the synthesis outlined in Chart IV depended on
+no less than four new synthetic methods. Three of these methods have come
+into very general use. The coupling of carbon groups using organocopper
+chemistry is now a major method of chemical synthesis. 17 The related
+carbometallation of acetylenes, also developed in connection with the syn-
+thesis of 6,16b,18 has been extended in many directions, and this approach
+has become commonplace for the stereospecific construction of trisubsti-
+tuted double bonds, a frequently occurring type of structural unit in
+biologically active natural substances.
+   The ready availability of the insect juvenile hormone 6 permitted a wide
+range of biological studies and an understanding of the best ways of using
+such “third generation” agents for insect control. Inexpensive synthetic
+mimics of insect juvenile hormone are now produced commercially as
+environmentally safe insect control products.
+   Numerous naturally occurring microbial substances, especially antibiot-
+ics, are members of the “macrolide” structural family and contain a lactone
+functional group as part of a many membered ring. The key to the success-
+ful synthesis of complex macrolides such as erythronolide B (12), the
+precursor of the erythromycin antibiotics, was the development of new
+methodology for macrolactone ring formation (Chart V). Our group devel-
+oped a very mild, effective and general method for this synthetic operation,
+the double-activation method, 19 which subsequently has been widely used.
+Thio-ester 13, produced by total synthesis, 20 was converted to macrolactone
+15 simply by heating in toluene solution. Internal proton transfer in 13
+generates the internal ion pair 14, which is doubly activated for the internal
+carbonyl addition required for ring closure to 15. Erythronolide B was
+obtained from 15 by a simple reaction sequence.20 The double-activation
+method has been used effectively for the synthesis of a number of other
+remarkable natural macrocyclic lactones (Chart V) including brefeldin A
+(16), an inhibitor of protein transport and processing in mammalian cells, 21
+the microbial iron transporter enterobactin (17),22 and the marine eicosa-
+noid, hybridalactone (18).23
+   Bilobalide (19) is a complex and unusual molecule produced by the
+ginkgo tree, Ginkgo biloba. An effective synthesis of 19 was made possible by
+the development of a remarkable reaction for the formation of five-mem-
+bered rings (Chart VI).24 The readily available chiral diester 20 was convert-
+ed by Claisen acylation to the acetylenic keto diester 21. Treatment of 21
+
+
+                                  Chemistry 1990
+
+
+                     OH
+
+
+
+
+               16                     17
+
+
+                                    Chart V
+
+
+
+
+with base effected a novel ring closure to give the bicyclic ketone 22, which
+was then transformed into bilobalide (19) by a multistep sequence. There
+are several variants on this cyclization methodology which demonstrate
+considerable scope.25
+
+
+                                   E. J. Corey                              697
+
+
+   A wide range of reagents and reactants have played a role in the new
+methodology developed in our group: transition metals; metal-ion complex-
+es; and silico, sulfo, boro, alumino, phospho, and stanno carbogens. The
+new general methods which have resulted include processes for ring forma-
+tion, chain extension, oxidation, reduction, functional group transforma-
+tion, activation, protection, and stereochemical control.
+
+
+
+
+                                  Chart VI
+
+Multistep Synthesis - General
+To a synthetic chemist, the complex molecules of nature are as beautiful as
+any of her other creations. The perception of that beauty depends on the
+understanding of chemical structures and their transformations, and, as
+with a treasured work of art, deepens as the subject is studied, perhaps even
+to a level approaching romance. It is no wonder that the synthetic chemist
+of today is filled with joy by the discovery of a new naturally occurring
+structure and the appearance of yet another challenge to synthesis. It makes
+no difference that the realization of a difficult synthesis entails long hours
+of study, thought and physical effort, since a complex chemical synthesis is
+an exciting adventure which leads to a beautiful creation. I believe that the
+case for molecular synthesis, as a high intellectual endeavor and as a
+scientific art form, can stand on these merits. The chemist who designs and
+completes an original and esthetically pleasing multistep synthesis is like the
+composer, artist or poet who, with great individuality, fashions new forms
+of beauty from the interplay of mind and spirit.
+   It is fortunate that molecular synthesis also serves the utilitarian function
+of producing quantities of rare or novel substances which satisfy human
+needs, especially with regard to health, and the scientific function of stimu-
+lating research and education throughout the whole discipline of chemistry.
+   Our research group has been responsible for the creation of more than
+one hundred new multistep syntheses of interesting molecules, our sonatas
+and string quartets. The step-by-step construction of most of these targets
+of synthesis is outlined in the “Logic of Chemical Synthesis”7 and is discussed
+in detail in the original research papers referred to therein. The structures
+of a small, and somewhat random, selection of these synthetic targets are
+shown in Charts VII a and VII b. A few comments will be given here on the
+syntheses of each of these to provide an overview of this aspect of our
+research.
+
+
+698                               Chemistry 1990
+
+
+   Maytansine 26a and aplasmomycin, each scarce and therapeutically in-
+                                        26b
+
+
+
+teresting, were synthesized enantioselectively and with control of stereoche-
+mistry using novel methodology for assembling the molecular skeleton and
+for forming the macrocyclic unit. These syntheses and that of erythronolide
+B provided early demonstrations that such complex, macrocyclic mole-
+  19 26c
+
+
+
+cules can be made efficiently by multistep total synthesis.
+   Gibberellic acid resisted total synthesis, despite studies in several leading
+laboratories, for more than two decades because of an unusually forbidding
+arrangement of structural subunits. The first successful synthesis, and
+subsequent improved versions, required a deep and complex retrosyn-
+                                   26d
+
+
+
+thetic analysis and a number of new concepts and methods. An entirely
+                26e
+
+
+
+different strategic approach was utilized for the first synthesis of the biosyn-
+thetically related plant regulator antheridic acid26f which confirmed the
+proposed gross structure and clarified the stereochemistry. The availability
+of synthetic antheridic acid is essential to the further study of this rare and
+potent plant hormone.
+
+
+
+
+                  Maytansine                           Aplasmomycin
+
+
+
+
+      Gibberellic Acid              Antheridic Acid             Forskolin
+
+                                     Chart VII a
+
+  Forskolin, the first known activator of the enzyme adenylate cyclase, is a
+promising therapeutic agent which is available only in limited quantity from
+plant sources. An efficient multistep synthesis of forskolin, which is both
+enantio- and stereocontrolled, has been developed26g based on several new
+synthetic methods. The synthesis of picrotoxinin, known since 1811 and a
+potent inhibitor of the neurotransmitter                    acid, would not
+have been possible without retrosynthetic analysis and new methodology.26h
+Perhydrohistrionicotoxin, a rare and highly bioactive alkaloid from poison-
+
+
+                                  E.J. Corey                              699
+
+
+ous frogs, is a useful tool in neuroscience which was easily produced by total
+synthesis. 26i
+   Pseudopterosin E,26j a powerful antiinflammatory agent, and venusta-
+triol, 26k an antiviral agent, are biosynthesized by marine organisms in only
+trace amounts. Both are available in chiral form by efficient enantiocon-
+trolled multistep syntheses.
+   Last, but no means least, in this brief summary of our studies on the total
+synthesis of complex molecules, is the case of ginkgolide B, an unusual
+substance for several reasons. Ginkgolide B is biosynthesized in the roots of
+the unique and ancient ginkgo tree, Ginkgo biloba, by an extraordinarily
+complex biosynthetic process, for reasons that are unknown. It is an active
+
+
+
+
+                                               A
+
+                                                   Venustatriol
+                                                                    0
+
+
+
+
+                                                          Ginkgolide B
+
+                                    Chart VII b
+
+ ingredient in the medicinal extract of ginkgo which is now widely used in
+ oriental and western medicine. The total synthesis of ginkgolide B posed a
+ challenge for synthesis in the 1980’s which was comparable to the most
+ difficult problems of earlier eras, for example, steroids in the 1950’s or
+ vitamin B-12 and gibberellic acid in the 1970’s. That challenge was met in
+just three years of research, thanks again to the power of modern retro-
+ synthetic planning and to the invention of new tools for this particular
+
+
+700                                Chemistry 1990
+
+
+Multistep Synthesis Exemplified - The Prostaglandins
+The prostaglandins, the first of the known eicosanoids, were detected as
+bioactive substances more than fifty years ago. However, it was not until the
+pioneering work of K. Sune Bergström and his group in Sweden in the
+ 1950’s and 1960’s that the structures of the various members of the pros-
+taglandin family were determined.28 For that research Bergström and Bengt
+Samuelsson received (together with John Vane) the Nobel Prize in Medicine
+for 1982, and deservedly so since, as has been written of the prostaglandins:
+“Their actions and the pharmacologic agents that influence their formation
+affect almost every aspect of medical practice.“29 The occurrence of only
+trace amounts of prostaglandins (PC’s) in mammalian sources and the
+potent effect of these twenty-carbon carboxylic compounds on muscle and
+blood vessels indicated the need for an effective synthesis that would make
+available all of the PG’s in ample amounts for the study of their physiologic
+effects and therapeutic uses. The problem of chemical synthesis was compli-
+cated by uncertainties regarding the stability and chemistry of PG’s, and the
+existence of three different families                 and         each consisting
+of several members. The first total synthesis of the principal PG’s, demon-
+strated by 1967,30,31 made available the important members of the first
+family (PGA1, PGE1 and             and allowed an evaluation of their chemical
+properties which facilitated the design of a general synthetic route to all of
+the prostaglandins. This general synthesis of prostaglandins provided access
+to all PG’s from a single intermediate, commonly known as the Corey
+lactone aldehyde. 32,33 In various forms this flexible synthesis has been used
+by laboratories all over the world to prepare not only naturally occurring
+PG’s but also countless structural analogs on any scale.34
+   The original version of the 1969 general synthesis of PG’s is summarized
+briefly in Chart VIII. The bicycloheptenone 23 was synthesized stereospeci-
+fically by a novel Cu(II) catalyzed Diels-Alder reaction followed by alkaline
+hydrolysis of the resulting adduct. Alkaline peroxide converted 23 to the
+hydroxy acid 24 which was readily resolved using (+)-ephedrine. Lactoniza-
+tion and functional group interchange operations transformed 24 into the
+Corey lactone aldehyde 25, a versatile precursor of all of the PG’s and
+analogs thereof. Enone 26 (Am = C5H11), produced stereospecilically from
+25 by Horner-Emmons coupling, upon reduction with zinc borohydride
+generated the required 15-(S)-alcohol along with the 15-(R)-diastereomer
+which was separated and recycled via 26 to the 15-(S)-alcohol. Protection of
+the hydroxyl groups at C(11) and C(15) afforded the corresponding biste-
+trahydropyranyl (bis THP) ether, 27. Reduction of the lactone function of
+27 to lactol (R2AIH) and Wittig coupling produced 28 stereospecifically.
+Acidic hydrolysis of 28 afforded                (30), whereas oxidation of 28
+followed by hydrolysis gave PGE2(29). Hydrogenation of the 5,6-double
+bond in 28 followed by these same final steps produced               and PGE1. A
+parallel series of transformations was used to convert 25 to                 and
+PGE 3.
+   Although the 1969 bicycloheptenone route to PG’s was highly effective
+
+
+                                 E.J. Corey                             701
+
+
+
+
+                                               23
+
+
+
+
+          27                              26
+
+
+
+
+                                Chart VIII
+
+
+for the synthesis on a large scale, it was not the ultimate. The Diels-Alder
+route to 23 produced racemic material which in turn necessitated the
+resolution of hydroxy acid 24. Another problem was the lack of stereospeci-
+ficity in the reduction of the C(15) keto group of 26. Both of these
+limitations were overcome by the invention of novel methodology which has
+simultaneously opened up large new areas of synthetic endeavor.
+   The problem of controlling the stereochemistry of reduction of the 15-
+keto group in 26 was solved in a number of different ways (Chart IX). First,
+ the use of a bulky trialkylborohydride reagent with a suitably chosen “con-
+ troller” group at the C(11) oxygen, for example phenylcarbamoyl, resulted
+
+
+702                              Chemistry 1990
+
+
+
+
+                                  Chart IX
+
+in reduction of C(15) to give the required 15-(S) product with greater than
+10:1 diastereoselectivity.
+                           33,35
+                                 Further, the small amount of 15-(R) by-prod-
+uct was easily separated for recycling. Second, using the chiral catalyst 33
+(10 mole %) and borane (0.6 mole equivalent) in tetrahydrofuran as solvent
+at ambient temperature, the 15-ketone 34 was reduced to the 15-(S) alcohol
+35 with 9: 1 diastereoselectivity.33,36
+   Oxazaborolidine 33 is a remarkable catalytic reagent. It controls the
+absolute stereochemistry of reduction of a large variety of ketones in
+addition to accelerating the rate of reduction by borane. The absolute
+stereochemistry of the reduction product of an achiral ketone RsCORL,
+where RS is smaller than RL, is predictable.37,38 The observed catalysis and
+enantioselectivity are in accord with the mechanism outlined in Chart X.
+The catalyst 33 has been shown to complex with borane stereospecifically to
+give a species which is activated for binding to the ketonic substrate.
+Complexation at the sterically more available lone pair of the carbonyl
+oxygen and internal hydride transfer then leads to the observed enantio-
+merit secondary alcohol. In this mechanism the reagent 33 literally acts like
+a molecular robot: It first picks up and holds one of the reactants, BH3, and
+becomes activated toward the other. It attaches to the ketone in a precise
+three dimensional assembly that facilitates a transfer of hydrogen between
+the two reactants to form a specific enantiomer of the reduction product.
+The molecular robot finally discharges these products and repeats the
+reaction cycle. Such action by the small molecule 33 resembles catalysis by
+enzymes, which can also be regarded as molecular robots. Of course, 33
+lacks the substrate-shape and size discrimination of enzymes because it is
+too small to possess a binding pocket or distal multicontact recognition
+sites.
+   The action of the molecular robot 33 represents a new direction for
+chemical synthesis. In the past, most synthetic constructions have depended
+
+
+                                    E.J. Corey                                 703
+
+
+
+
+                            Me
+
+
+
+
+                                       Chart X
+
+on pairwise collisions between reactants without the help of a robot-like
+assembler. It is likely that synthetic chemistry will produce many new
+molecular robots in the future as a part of its advance to greater heights.
+   Two solutions were developed for the enantioselective synthesis of bicy-
+cloheptenone 23 (Chart VIII) of the correct chirality for the production of
+natural prostaglandins. In the first of these, a stereocontrolled aluminium
+chloride-catalyzed Diels-Alder reaction between benzyloxymethylcyclopen-
+tadiene (37) (Chart XI) and the acrylate ester of S-phenylmenthol (36) was
+used with the result that the required adduct 38 was formed with very high
+(32: 1) enantioselectivity. Adduct 38 was converted via ketone 23 to iodo
+                             39
+
+
+
+lactone 39 which was obtained in enantiomerically pure form in high yield
+by a single recrystallization and converted to the standard PG intermediate
+40. In addition, 8-phenylmenthol was recovered efficiently. The enantiose-
+lective formation of 38 can be understood from the geometry shown for the
+complex         1 C 1 3 and the steric screening by phenyl of the si (rear) face of
+the acrylate                bond. The efficiency of the S-phenylmenthol con-
+troller stimulated the development of other controllers (chiral auxiliaries)
+for use in enantioselective synthesis.40
+   More recently, this achievement has been surpassed by the development
+of a molecular robot which assembles the achiral components, as shown in
+Chart XII, to give the required Diels-Alder adduct in 94 % yield and almost
+ 50: 1 enantioselectivity. Conversion to enantiomerically pure iodolac-
+                           38,41
+
+
+
+tone 39 was accomplished using standard procedures. 42
+   The general synthesis of prostaglandins by the 1969 pathway can now be
+ carried out efficiently and with total stereochemical control, in a way that
+could not have been foreseen twenty years ago. Such progress augurs well
+
+
+ 704                              Chemistry 1990
+
+
+
+
+                 +
+
+
+
+
+                                 Chart XII
+
+for the future of chemical synthesis. It is not unlikely that today’s chemical
+synthesis, magnificent as it may now appear, will prove to be rudimentary as
+compared to that of the next century.
+  The trail of research which originated with the synthesis of prostaglandins
+was followed for more than two decades, eventually including the synthesis
+
+
+                                  E. J. Corey                             705
+
+
+
+
+                 41                                    42
+
+
+
+
+            OH
+
+
+
+
+of many other members of the eicosanoid (twenty-carbon) class of mamma-
+lian cell regulators. A few of the highlights of this program deserve men-
+tion. The biosynthesis of prostaglandins occurs by the oxidative conversion
+of the C20 unsaturated acid arachidonic acid to the bicyclic endoperoxide
+PGH 2, which serves as a precursor not only of PGE 2 and         but also of
+PGI2 and thromboxane A2. We were able to synthesize a stable, active azo
+                           43
+
+
+
+analog (41) of the unstable PGH 2 (Chart XIII) and stable, active analogs
+                                   4 4
+
+
+
+(e.g. 42) of the unstable thromboxane A2,45 as well as PGI2 itself (43).46 In
+1977 we suggested the structure of the unstable eicosanoid which is known
+as leukotriene A4 (LTA 4) (44) and, by early 1979, had synthesized that
+structure in advance of isolation from natural sources. 47 Collaborative
+research between our group and the Karolinska team headed by Bengt
+Samuelsson established that LTA4 combines with glutathione to form the
+primary “slow reacting substance, ” now known as LTC4 (45). The detailed
+                                                             47
+
+
+
+stereochemistry of the chemotactic leukotriene LTB4 (46) was first estab-
+lished by synthesis. The chemical syntheses of these leukotrienes made
+                    47,48
+
+
+
+these compounds available in quantity for the many hundreds of biological
+
+
+706                                   Chemistry 1990
+
+studies which ensued. Useful new compounds which are active as antago-
+nists of       49
+                  thromboxane A2, 50 and LTB4,51 and as inhibitors of leuko-
+triene biosynthesis 5 2 have also emerged from our synthetic program.
+   It is my hope that our studies in the eicosanoid field 34 will prove to be a
+harbinger of future programs in academic synthetic research, since there is
+an unparalleled opportunity for the application of chemical synthesis to
+biological and medical problems at a fundamental level.
+
+Acknowledgement
+It gives me great pleasure to express my indebtedness to many individuals
+who deserve credit for the accomplishments summarized herein: my teach-
+ers at the Lawrence High School and the Massachusetts Institute of Tech-
+nology, my colleagues at the University of Illinois and Harvard University,
+my wonderful collaborators in research, and my very dear family. Research
+grants from the National Science Foundation, the National Institutes of
+Health, Pfizer Inc. and numerous other donors have provided the necessary
+financial support.
+
+
+REFERENCES
+ 1. N. Anand, J. S. Bindra, and S. Ranganathan, Art in Organic Synthesis (Holden-
+     Day, Inc., San Francisco, first edition, 1970). This book contains a summary of
+     these and other noteworthy syntheses of the period 1940- 1970.
+ 2. R. B. Woodward, Les Prix Nobel en 1965, (Almquist and Wiksell, Intl., Stock-
+     holm, 1966) p. 192.
+ 3. E. J. Corey, Pure and Applied Chem., 14, 19 (1967).
+ 4. E. J. Corey and W. T. Wipke, Science, 166, 178 (1969).
+ 5. E. J. Corey, Quart. Rev. Chem. Soc., 25, 455 (1971).
+ 6. (a) E. J. Corey, M. Ohno, P. A. Vatakencherry, and R. B. Mitra, ]. Am. Chem.
+     Soc., 83, 1251 (1961); (b) idem. J. Am. Chem. Soc., 86, 478 (1964).
+ 7. E. J. Corey and X.-M. Cheng, The Logic of Chemical Synthesis (John Wiley and
+     Sons, Inc., New York, 1989).
+ 8. This section is essentially taken from ref. 7.
+ 9. E. J. Corey, R. D. Cramer, III, and W. J. Howe, J. Am. Chem. Soc ., 94, 440
+     (1972).
+10. Ref. 7, Chapter 6.
+11. E. J. Corey, A. K. Long, and S. D. Rubenstein, Science , 228, 408 (1985).
+12. E. J. Corey, W. T. Wipke, R. D. Cramer, III, and W. J. Howe, J. Am. Chem. Soc.,
+     94, 421 (1972).
+13. This computer analysis was performed by Mr. John Kappos of our LHASA
+     group.
+14. H. Roller, K.-H. Dahm, C. C. Sweeley, and B. M. Trost, Angew. Chem. Int. Ed.
+     Engl., 6, 179 (1967).
+15. S. S. Tobe and B. Stay, Adv. Insect. Physiol., 18, 305 (1985).
+16. (a) E. J. Corey, J. A. Katzenellenbogen, N. W. Gilman, S. A. Roman, and B. W.
+     Erickson, J. Am. Chem. Soc., 90, 5618 (1968); (b) E. J. Corey, Bull. Soc. Ent.
+     Suisse, 44, 87 (1971); (c) Ref. 7, p. 146; (d) E. J. Corey and G. H. Posner, J. Am.
+     Chem. Soc., 89, 3911 (1967).
+17. G. H. Posner, An Introduction to Organic Synthesis Using Organocopper Reagents
+     (John Wiley and Sons, Inc., New York, 1980).
+18. E. J. Corey and J. A. Katzenellenbogen, J. Am. Chem. Soc., 91, 1851 (1969).
+
+
+                                        E.J. Corey                                    707
+
+
+19. (a) E. J. Corey and K. C. Nicolaou, J. Am. Chem. Soc., 96, 5614 (1974); (b) E. J.
+     Corey, K. C. Nicolaou, and L. S. Melvin, Jr., J. Am. Chem. Soc., 97, 654 (1975);
+      (c) E. J. Corey, D. J. Brunelle, and P. J. Stork, Tetrahedron Lett., 3405 (1976); (d)
+      E. J. Corey and D. J. Brunelle, Tetrahedron Lett., 3409 (1976).
+20. E. J. Corey, S. Kim, S.-e. Yoo, K. C. Nicolaou, L. S. Melvin, Jr., D.J. Brunelle,
+     J. R. Falck, E. J. Trybulski, R. Lett, and P. W. Sheldrake, J. Am. Chem. Soc., 100,
+     4620 (1978).
+21. (a) E. J.Corey and R. H. Wollenberg, Tetrahedron Lett., 4705 (1976); (b) E. J.
+     Corey, R. H. Wollenberg, and D. R. Williams, Tetrahedron Lett., 2243 (1977);
+      E. J. Corey and P. Carpino, Tetrahedron Lett., 31, 7555, 1990.
+22. E. J. Corey and S. Bhattacharyya, Tetrahedron Lett., 3919 (1977).
+23. E. J. Corey and B. De, J. Am. Chem. Soc., 106, 2735 (1984).
+24. (a) E. J. Corey and W.-g. Su, J. Am. Chem. Soc., 109, 7534 (1987); (b) E. J. Corey
+     and W.-g. Su, Tetrahedron Lett., 29, 3423 (1988).
+25. (a) E. J. Corey, W.-g. Su, and I. N. Houpis, Tetrahedron Lett., 27, 5951 (1986); (b)
+     E. J. Corey and W.-g. Su, Tetrahedron Lett., 28 , 5241 (1987).
+26. (a) Ref. 7, pp. 116-123; (b) ref. 7, pp. 128-133; (c) ref. 7, pp. 104-107; (d)
+     ref. 7, pp. 205-211; (e) ref. 7, pp. 84-85; (f) ref. 7, pp. 212-214; (g) ref. 7,
+     pp. 230-233; (h) ref. 7, pp. 86-87, 178-179; (i) ref. 7, pp. 83-84, 136-
+      137; (j) ref. 7, pp. 237-238; (k) ref. 7, pp. 234-236; (1) ref. 7, pp. 89-91;
+     221-226.
+27. E. J. Corey, Chem. Soc. Rev., 17, 111 (1988).
+28. S. Bergstrom, Science, 157, 382 (1967).
+29. J. A. Oats, G. A. Fitzgerald, R. A. Branch, E. K. Jackson, H. R. Knapp, and L. J.
+      Roberts, II, New Eng. J. Med. , 319, 689 (1988).
+30. (a) E. J. Corey, N. H. Andersen, R. M. Carlson, J. Paust, E. Vedejs, I. Vlattas,
+     and R. E. K. Winter, J. Am. Chem. Soc., 90, 3245 (1968); (b) E. J. Corey, I.
+     Vlattas, N. H. Andersen, and K. Harding, J. Am. Chem. SOc, 90,3247 (1968); (c)
+      E. J. Corey, I. Vlattas, and K. Harding, J. Am. Chem. Soc., 91, 235 (1969); (d)
+      E. J. Corey, Ann. New York Acad. Sci., 180, 24 (1971).
+31. Ref. 7, pp. 250-254.
+32. (a) E. J. Corey, N. M. Weinshenker, T. K. Schaaf, and W. Huber, J. Am. Chem.
+     Soc., 91, 5675 (1969); (b) E. J. Corey, T. K. Schaaf, W. Huber, U. Koelliker, and
+      N. M. Weinshenker, J. Am. Chem. Soc., 92,397 (1970); (c) E. J. Corey, R. Noyori,
+     and T. K. Schaaf, J. Am. Chem. Soc., 92, 2586 (1970).
+33. Ref. 7, pp. 255-296.
+34. For another general account of this project and subsequent studies on eicosan-
+     oids, see E. J. Corey, Japan Prize in Science for 1989, Annual Report of the
+     Science and Technology Foundation of Japan, pp. 95 - 109, 1989.
+35. E. J. Corey, S. M. Albonico, U. Koelliker, T. K. Schaaf, and R. K. Varma, J. Am .
+     Chem. Soc. , 93, 1491 (1971).
+36. E. J. Corey, R. K. Bakshi, S. Shibata, C.-P. Chen, and V. K. Singh, J. Am. Chem.
+     Soc., 109, 7925 (1987).
+37. E. J. Corey, R. K. Bakshi, and S. Shibata, J. Am. Chem. Soc., 109, 555,       (1987).
+38. E. J. Corey, Pure and Appl. Chem., 62, 1209 (1990).
+39. E. J. Corey and H. E. Ensley, J. Am. Chem. Soc., 97, 6908 (1975).
+40. (a) W. Oppolzer, Angew. Chem. Int. Ed. Engl., 23, 876 (1984); (b) G. Helmchen,
+     R. Karge, and J. Weetman, Modern Synthetic Methods Vol. 4 (Springer-Verlag,
+     Berlin, 1986), R. Scheffold, ed., p. 261.
+4 1. E. J. Corey, R. Imwinkelried, S. Pikul, and Y. B. Xiang, J. Am. Chem. Soc., 111,
+     5493 (1989).
+42. E. J. Corey and N. Imai, Tetrahedron Lett , in press (1991).
+43. N. A. Nelson, R. C. Kelly, and R. A. Johnson, Chem. Eng. News, 60, 30 (1982).
+44. (a) E. J. Corey, K. C. Nicolaou, Y. Machida, C. L. Malmsten, and B. Samuelsson,
+
+
+708                                   Chemistry 1990
+
+
+     Proc. Nut. Acad. Sci. USA, 72, 3355 (1975); (b) E. J. Corey, K. Narasaka, and M.
+     Shibasaki, J. Am. Chem. Soc., 98, 6417 (1976).
+45. (a) T. K. Schaaf, D. L. Bussolotti, M. J. Parry, and E. J. Corey, J. Am. Chem. Soc.,
+     103, 6502 (1981); (b) E. J. Corey and W.-g. Su, Tetrahedron Lett., 31, 2677
+     (1990).
+46. E. J. Corey, G. E. Keck, and I. Szekely, J. Am. Chem. Soc., 99, 2006 (1977); (b)
+     E. J. Corey, H. L. Pearce, I. Szekely, and M. Ishiguro, Tetrahedron Lett., 1023
+     (1978).
+47. (a) E. J. Corey, Experientia, 38, 1259 (1982); (b) Ref. 7, pp. 312-317; (c) E. J.
+     Corey, Y. Arai, and C. Mioskowski, J. Am. Chem. Soc., 101,6748 (1979); (d) E. J.
+     Corey, D. A. Clark, G. Goto, A. Marfat, C. Mioskowski, B. Samuelsson,
+     S. Hammarstrom, J. Am. Chem. Soc., 102, 1436, 3663 (1980).
+48. (a) E. J. Corey, A. Marfat, G. Goto, and F. Brion, J. Am. Chem. Sac., 102, 7984
+     (1980); (b) E. J. Corey, A. Marfat, J. E. Munroe, K. S. Kim, P.B. Hopkins, and
+     F. Brion, Tetrahedron Lett., 22, 1077 (1981).
+49. R. B. Stinger, T. M. Fitzpatrick, E. J. Corey, P. W. Ramwell, J. C. Rose, and P.
+     A. Kot, J. Pharm. Exp. Ther., 220, 521 (1982).
+50. E. J. Corey and W.-g. Su, Tetrahedron Lett., 31, 3833 (1990).
+51. H. J. Showell, I. G. Otterness, A. Marfat, and E. J. Corey, Biochem. Biophys. Res.
+     Commun., 106, 741 (1982).
+52. Ref. 7, pp. 345 - 352.
+

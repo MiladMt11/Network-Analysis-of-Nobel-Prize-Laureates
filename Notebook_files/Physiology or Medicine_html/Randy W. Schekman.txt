@@ -1,0 +1,1585 @@
+GENES AND PROTEINS THAT CONTROL THE SECRETORY PATHWAY
+
+
+Nobel Lecture, 7 December 2013
+by
+RANDY SCHEKMAN
+Department of Molecular and Cell Biology, Howard Hughes Medical Institute, University of California,
+Berkeley, USA.
+
+
+
+
+Introduction
+George Palade shared the 1974 Nobel Prize with Albert Claude and Christian de Duve for their
+pioneering work in the characterization of organelles interrelated by the process of secretion in
+mammalian cells and tissues. These three scholars established the modern field of cell biology and the
+tools of cell fractionation and thin section transmission electron microscopy. It was Palade’s genius in
+particular that revealed the organization of the secretory pathway. He discovered the ribosome and
+showed that it was poised on the surface of the endoplasmic reticulum (ER) where it engaged in the
+vectorial translocation of newly synthesized secretory polypeptides (1). And in a most elegant and
+technically challenging investigation, his group employed radioactive amino acids in a pulse-chase
+regimen to show by autoradiograpic exposure of thin sections on a photographic emulsion that secretory
+proteins progress in sequence from the ER through the Golgi apparatus into secretory granules, which
+then discharge their cargo by membrane fusion at the cell surface (1). He documented the role of vesicles
+as carriers of cargo between compartments and he formulated the hypothesis that membranes template
+their own production rather than form by a process of de novo biogenesis (1).
+
+
+As a university student I was ignorant of the important developments in cell biology; however, I learned
+of Palade’s work during my first year of graduate school in the Stanford biochemistry department. Palade
+was a close friend of my graduate advisor Arthur Kornberg, who won the Nobel Prize in 1959 for his
+discovery of DNA polymerase, the first enzyme found to take its instructions from a DNA template (2).
+At first glance Kornberg and Palade had little in common. Palade was a classical anatomist and
+physiologist who used the electron microscope as his primary tool of analysis. Kornberg was a classical
+biochemist who cared deeply about the chemistry of life, which he probed exclusively through the study
+of pure enzymes. However, in the late 1960s as the study of DNA synthesis began to focus on the
+possible role of a membrane surface in organizing the segregation of replicating chromosomes, Kornberg
+took a keen interest in membrane biochemistry and in 1969, the year before I started graduate school,
+Kornberg traveled to several laboratories of membrane biologists including Palade’s, who was then at
+The Rockefeller University. On return to Stanford, Kornberg turned his attention to membrane enzymes
+in the hope that a membrane surface may provide a crucial link to the problem of DNA replication. Just
+then, in the summer of 1969, the field of DNA replication was shaken with the discovery by John Cairns,
+then Director of the Cold Spring Harbor laboratory, that Kornberg’s DNA polymerase was not required
+for chromosome replication. I visited Cold Spring Harbor that summer and was swept up in the
+excitement of the Cairns isolation of an E. coli pol1 mutant, lacking polymerase activity, but which grew
+
+
+normally and yet was sensitive to UV irradiation, a clear sign that the classic polymerase could not be the
+enzyme responsible for replication but instead played a role in DNA repair (3).
+
+
+
+
+The power of genetics and biochemistry combined
+Kornberg was a dominant figure with a powerful personality and intellect. His focus on enzyme
+chemistry shaped a generation of students of DNA enzymology, including several former postdoctoral
+fellows and associates who joined him to form the core of what was to become the preeminent
+biochemistry department in the country at Stanford Medical School, where he moved from Washington
+University, St. Louis in 1959, the year in which he was awarded his Nobel Prize. With the pure DNA
+polymerase, Kornberg proved that it took its instructions from a template strand and copied DNA in an
+antiparallel direction, as predicted from the Watson-Crick model of the DNA duplex (4). The most
+persuasive evidence that it could be the replication enzyme came in1967 with the demonstration that
+polymerase alone copied the circular single stand template of the bacteriophage φX174 to make a
+complementary strand, which then also served as a template to make infectious viral strand DNA (5,6).
+Thus the enzyme could faithfully take instructions from a template of around 5500 nucleotides and form,
+essentially error-free, a complement to reproduce the viral infectious cycle in a living cell.
+
+
+However, several features of the polymerase left some investigators skeptical that it was the authentic
+replication enzyme. DNA chain elongation by the polymerase was quite slow in comparison to the
+progression of a chromosome replication fork. The enzyme had properties that suggested an ability to
+repair DNA damage, for example in the excision of thymine dimers on DNA isolated from cells exposed
+to UV light (7). Another puzzling feature was the requirement for a complementary oligonucleotide that
+forms a short duplex, which serves to launch the polymerase from a 3’OH provided by the primer (5).
+Nonetheless, an enzyme much like the E. coli polymerase is encoded by the T4 bacteriophage and in that
+case phage mutations in the polymerase gene show that it is clearly required for viral chromosome
+replication (8).
+
+
+Quite independently, bacterial geneticists found genes essential for chromosome replication by the
+isolation and characterization of temperature sensitive (ts) mutations that arrest DNA synthesis in cells
+warmed at 42C (9,10). Cells carrying the dna mutations can grow at 30 C but cease growing at 42 C. The
+“dna” genes thus represented candidates for the authentic replication machinery quite distinct from the
+pol1 gene identified as non-essential in the Cairns mutant. A grand union of the genetics and
+biochemistry first developed through a twist of fate with the discovery by Tom Kornberg, Arthur’s
+middle son, then a graduate student in the laboratory of Malcolm Gefter at Columbia University, of
+another replication activity detected in lysates of the Cairns mutant (11). Gefter and Kornberg went on to
+discover that the authentic polymerase is encoded by the dnaE gene, one of the approximately half-dozen
+genes then known to be required for chromosome replication (12).
+
+
+In 1970 I joined Arthur’s lab powerfully influenced by the two strands of investigation, enzymology as
+practiced by the Kornberg school, and molecular biology and genetics, as best described in James
+Watson’s textbook Molecular Biology of the Gene (13). I had read and reveled in the details in the first
+
+
+edition of this book when I was a freshman at UCLA, and although I was drawn to the Kornberg
+approach for graduate training, I was mindful that genetics and cellular physiology must inform the
+biochemistry.
+
+
+A stunning precedent for the value of a combined genetic and biochemical approach came from the
+pioneering work of Robert Edgar, a bacterial geneticist who dissected the process of T4 phage assembly
+with the isolation of mutations in the genes that encode subunits of the phage coat (14), and William
+Wood, a new faculty colleague of Edgar’s at Cal Tech. Wood had trained with Paul Berg, a former post-
+doctoral fellow of Kornberg’s and then a colleague in the new Biochemistry Department at Stanford. At
+Cal Tech in the fall of 1965, Wood and Edgar joined forces to perform one of the classic experiments in
+molecular biology. Edgar had found that some of the viral coat mutants accumulated incomplete viral
+heads and tails within infected cells. Edgar used the standard cis-trans genetic complementation test, first
+developed by Seymour Benzer for the characterization of phage rII genes (15), to characterize the genes
+involved in T4 phage morphogenesis. Wood imagined that biochemical complementation might be
+achieved by mixing extracts of different phage assembly mutant-infected cells. Indeed, starting with
+separate extracts that had essentially no detectable infectious virions as assayed by the phage plaque test,
+Edgar and Wood found that mixing lysates of genetically complementing mutants (i.e. biochemical
+complementation) produced a thousand-fold increase in infectious particles (16). The team went on to
+identify functional assembly intermediates and to map the pathway of virus assembly. Clearly, this
+approach had the potential to dissect complex pathways and to reveal molecular details that might not
+otherwise be elucidated by a strictly genetic or biochemical analysis.
+
+
+In 1971, Doug Brutlag, a talented graduate student in Arthur’s lab, discovered that the conversion of the
+M13 phage single stand circle to the double strand replicative form was blocked in infected cells by an
+inhibitor of the transcription enzyme RNA polymerase, this in spite of the fact that no viral or host gene
+expression is required at the first stage of chromosome replication. Brutlag and Kornberg suggested that
+RNA polymerase might provide the missing primer to initiate the growth of a DNA chain (17). Brutlag
+then established a replication reaction in a concentrated lysate of uninfected E. coli cells and found that
+this faithfully reproduced the requirement for RNA polymerase in the conversion of M13 single strand
+template to the duplex replicative form (18). A similar concentrated extract of E. coli had been developed
+in the laboratory of Friedrich Bonhoeffer in Tübingen Germany, and found by one of Bonhoeffer’s
+postdoctoral fellows, Baldomero Olivera, to be capable of replicating φX174 single strand circular
+template (20). Both concentrated lysates contained membranes and cytosolic proteins and it seemed
+possible that the reaction would require a membrane contribution. However, at the same time, Bruce
+Alberts, then at Princeton University, found that soluble cytosolic lysates of T4 phage infected cells
+replicated T4 DNA and applying the logic of Wood and Edgar, Jack Barry and Alberts showed
+biochemical complementation of soluble protein fractions obtained from different T4 replication mutant
+cells (21). At Stanford, a new postdoctoral fellow in the Kornberg group, William (Bill) Wickner, found
+that the lysate capable of replicating M13 DNA could be centrifuged to produce a soluble fraction with no
+loss of replication activity (18). All interest in membranes and DNA replication seemed to evaporate with
+that result.
+
+
+I joined the effort initiated by Brutlag and Kornberg, first on the replication of M13 DNA and then using
+the cell-free reaction Doug Brutlag had developed, I found that φX174 double strand formation was
+insensitive to the drug that blocks the standard RNA polymerase, suggesting perhaps an alternative RNA
+polymerase for primer synthesis (18, 19). David Denhardt at Harvard University, with whom I had
+worked for a summer, had reported that φX174 double strand formation was dependent on the E coli
+dnaB gene; thus it seemed possible that the cell-free reaction might provide a functional assay for the
+purification of the dnaB protein and for the remaining dna proteins. Indeed, it did, and this reaction
+permitted the detection and fractionation of the full set of E. coli chromosome replication proteins (22).
+One of the Dna proteins, DnaG, was found to catalyze a novel RNA synthesis reaction that provides the
+primer for φX174 as well as for E. coli chromosome fork replication. Going forward I was confident that
+the combined genetic and biochemical approach could prove crucial in the elucidation of other complex
+cellular processes.
+
+
+The cell division cycle represented one such complex pathway that was just beginning to be probed by
+molecular genetic approaches. I was particularly taken by the efforts of Leland Hartwell who had
+exploited the classical genetic tools available for baker’s yeast, Saccharomyces cerevisiae, to probe the
+essential series of events that lead to yeast cell division. The key was a set of genes, identified by the
+isolation of ts lethal mutations that focused attention on crucial control elements in the progression of the
+cell cycle (23). Subsequent molecular genetic discoveries by Paul Nurse, Tim Hunt and others illuminated
+the molecular basis of cell cycle control. Here again, the molecular insights that started with a classical
+genetic approach proved crucial to the discovery of a protein kinase that controls the decision to initiate
+the cell division cycle and then acts repeatedly in transitions throughout the division cycle. A billion years
+of evolution conserved a similar pathway in mammals. From this it seemed most likely that studies on
+yeast could pave the way for a mechanistic understanding of many, if not all, other essential eukaryotic
+intracellular processes.
+
+
+
+
+Investigating biological membranes as a macromolecular assembly
+Although the replication reactions he investigated were not directly connected to membranes, Kornberg
+remained interested in the problem of how to purify membrane enzymes and thus he was eager to
+welcome an experienced membrane enzymologist, Bill Wickner, who joined the lab as a postdoctoral
+fellow in 1971. Bill had trained as a medical student with Eugene Kennedy at Harvard Medical School
+where he lost interest in clinical medicine but gained an abiding passion for biological membranes. He
+and I shared endless hours in conversation about our work but importantly, I learned a great deal from
+him about what was or was not known about how membranes are put together. In this context, I read the
+work of Palade and his associates David Sabatini and Phillip Siekevitz who were then exploring the
+mechanism of vectorial membrane translocation of secretory proteins as they are made on ribosomes
+associated with the ER (24, 25). The Stanford biochemistry department was a focal point for visits by all
+the leading figures in modern biology. I met Hartwell and two other memorable men who represented
+different approaches to the study of membrane function: Efraim Racker who shared Arthur’s passion for
+enzymes in his dissection of the mechanism of mitochondrial oxidative phosphorylation and Daniel
+Koshland, who had exploited a genetic approach pioneered by Julius Adler to probe the mechanism of
+
+
+bacterial chemotaxis, a process intimately linked to the detection of chemical gradients at the bacterial
+cell surface.
+
+
+As I considered my future research career directions, I was motivated by a desire to break away from the
+field of DNA replication but to appropriate the tools and logic that had propelled the Kornberg group to a
+successful resolution and reconstitution of the enzymes of the replication process. As I concluded
+graduate work in 1974, the beginnings of a revolution in genetic engineering and recombinant DNA were
+just emerging, largely from the work of Stanford biochemists Dale Kaiser and Paul Berg, Stanford
+microbiologist Stanley Cohen and the UCSF biochemist Herbert Boyer. The tools of molecular cloning
+were in prospect, thus it was appealing to consider how they may be applied to uncover essential genes in
+any number of cellular processes.
+
+
+And yet I was uncomfortable with the frenzy of activity that focused on all things DNA. I did not enjoy
+the pressure of competing with other laboratories doing the same experiments. I nervously unwrapped
+each new issue of the Proceedings of the National Academy of Sciences (PNAS) to see if our competitors
+had beaten us to key discoveries. Basking in the glow of Kornberg’s influence had its advantages, but in
+facing my own independent career I resolved to strike off in a new direction where I might have the
+chance to establish my own identity and not be dependent on or overshadowed by Kornberg’s reputation.
+
+
+In making a choice for future research, I was impressed with the work of S. Jonathan Singer at UC San
+Diego, particularly with his greatly influential paper on the Fluid Mosaic Model of Membrane Structure
+(26). Here was a grand synthesis that provided a conceptual framework to think about how a membrane
+might be constructed. Singer’s lab had assembled tools to explore the topology of membrane proteins
+using electron microscopy. His associate Kiyoteru Tokuyasu had developed an impressive cryoelectron
+microscopic approach to the detection of antigens on membranes (27). They had demonstrated that
+glycans on glycoproteins and glycolipids are asymmetrically displayed on the extracellular surface of red
+cells and on the luminal surface of the ER membrane, thus fulfilling the prediction that transbilayer
+movement of hydrophilic proteins and glycans was thermodynamically unlikely, but at the same time
+explaining how the asymmetry of the plasma membrane may be achieved at the outset of the secretory
+pathway (28). Singer enjoyed the warm support of my mentors at Stanford so I set off with my bride
+Nancy, whom I had met through my friendship with Bill Wickner, to join Singer’s lab as a postdoctoral
+fellow in the fall of 1974.
+
+
+Singer was so different from Kornberg that I experienced a bit of culture shock while trying to identify a
+research project of mutual interest. Although he made his career as a physical chemist, he had evolved
+into a cell biologist focusing on questions of cellular organization. I was keen to use the reconstitution
+approach of Kornberg to probe some aspect of membrane assembly or endocytosis but Singer pressed me
+to pursue a morphological study using electron microscopy. Of course it was important to learn a new
+discipline as well as a different approach so I took up a project to investigate the unusual behavior of
+neonatal human erythrocytes, which unlike mature red cells are able to internalize antibody or lectin
+molecules clustered on the cell surface (29). I found the work frustrating, and in spite of Tokuyasu’s
+patience, my technical skills in thin section electron microscopy left much to be desired. It took two years
+
+
+t o o bt ai n o n e pr e ci o us R h  c o ntr ol s a m pl e of n e w b or n c or d bl o o d. T h e pr os p e ct of a s atisf yi n g m ol e c ul ar
+u n d erst a n di n g of t his pr o c ess s e e m e d r e m ot e a n d m y d e p e n d e n c e o n c or d bl o o d fr o m t h e l o c al l a b or a n d
+d eli v er y w ar d sl o w e d pr o gr ess t o a s n ail ’s p a c e. I w as s p oil e d b y m y pr e vi o us e x p eri e n c e wit h
+mi cr o or g a nis ms a n d t h e sl o w a n d c u m b ers o m e a p pr o a c h es t h e n a v ail a bl e f or w or k wit h h u m a n s a m pl es
+or e v e n wit h c ult ur e d m a m m ali a n c ells si m pl y c o ul d n ot c o m p ar e. S o I h a d ti m e t o r e a d a n d t hi n k, w hi c h
+w a s p er h a ps t h e gr e at est b e n efit of m y p ost d o ct or al y e ars.
+
+
+S h ortl y aft er I st art e d i n Si n g er’s l a b, t h e a n n u al m e eti n g of t h e A m eri c a n S o ci et y f or C ell Bi ol o g y
+( A S C B) c o n v e n e d i n S a n Di e g o. At t h e ti m e t h e A S C B w a s a s m all a n d q uit e p ers o n al or g a ni z ati o n,
+m u c h m or e of a c ott a g e i n d ustr y t h a n w as t h e l ar g er a n d m or e i nfl u e nti al A m eri c a n S o ci et y f or Bi ol o gi c al
+C h e mistr y ( A S B C) , s u bs e q u e ntl y r e n a m e d t h e A S B M B. P al a d e h a d j ust r et ur n e d fr o m St o c k h ol m t o
+d eli v er a s p e ci al l e ct ur e t o a n a d ori n g cr o w d w h o r os e t o a st a n di n g o v ati o n at t h e e n d of his pr es e nt ati o n.
+Alt h o u g h I k n e w t h e n , a n d l e ar n e d e v e n m or e s o l at er, h o w brilli a nt a n d br o a d P al a d e w as i n his
+s c h ol ars hi p, I c a m e a wa y fr o m t h e m e eti n g f e eli n g t h at c ell bi ol o g y h a d y et t o e nt er t h e m ol e c ul ar w orl d
+of bi o c h e mi c al m e c h a nis m. H er e w as a n e n or m o usl y c o m pl e x p at h w a y of m e m br a n e tr a nsf or m ati o n i n
+t h e s e cr et or y p at h w a y a n d y et n ot a si n gl e pr ot ei n h a d b e e n as cri b e d a s p e cifi c r ol e i n t his e ss e nti al
+pr o c ess.
+
+
+T h e first cr u ci al br e a kt hr o u g h t h at d eli v er e d P al a d e’s p at h w a y i nt o t h e m ol e c ul ar er a c a m e wit h t h e r e p ort
+i n 1 9 7 5 b y t h e P al a d e pr ot é g é Gü nt er Bl o b el, of a c ell -fr e e s yst e m t h at r e pr o d u c e d t h e i niti ati o n a n d
+tr a nsl o c ati o n of a s e cr et or y pr e c urs or pr ot ei n i nt o t h e i nt eri or of is ol at e d E R m e m br a n es. T w o p a p ers i n
+t h e J o ur n al of C ell Bi ol o g y b y Bl o b el a n d D o b b erst ei n p a v e d t h e w a y t o a m e c h a nisti c u n d erst a n di n g of
+t h e li n k b et w e e n pr ot ei n s y nt h esis a n d t h e v e ct ori al dis c h ar g e of s e cr et or y pr otei ns t hr o u g h w h at m ust
+s ur el y b e a h y dr o p hili c c h a n n el pr ot ei n i n t h e E R (3 0 , 3 1 ). Alt h o u g h e arli er w or k b y S a b ati ni a n d P al a d e
+h a d d e m o nstr at e d t h e c o m pl eti o n of t h e tr a nsl o c ati o n e v e nt i n vitr o usi n g r o u g h mi cr os o m es is ol at e d fr o m
+p a n cr e ati c tiss u e, Bl o b el’s br e a kt hr o u g h all o w e d t h e e ntir e pr o c ess t o b e r e pli c at e d wit h t h e dis c o v er y of
+a n ess e nti al r ol e f or t h e N -t er mi n al si g n al p e pti d e i n g ui di n g t h e n as c e nt c h ai n t o a s p e ci al sit e o n t h e E R
+m e m br a n e. T h e si g n al h y p ot h esis a n d t h e b e a utif ul w or k t h at f oll o w e d g ar n er e d a N o b el Pri z e f or Bl o b el
+i n 1 9 99.
+
+
+Si n g er w as q uit e e x cit e d b y t h e Bl o b el dis c o v er y b e c a us e it s u p p ort e d his vi e w t h at t h e est a blis h m e nt of
+pr ot ei n as y m m etr y i n t h e m e m br a n e m ust d e p e n d o n a s p e ci al c h a n n el i n t h e E R t h at w o ul d c o n v e y
+h y dr o p hili c pr ot ei n s e q u e n c e s t hr o u g h t h e h y dr o p h o bi c bil a y er. A n d y et, S i n g er r e m ai n e d s k e pti c al t h at a
+bi o c h e mi c al r e c o nstit uti o n a p pr o a c h w o ul d yi el d a n ess e nti al u n d erst a n di n g of t h e pr o c ess. B ut t o m e,
+t his wa s pr e cis el y t h e w a y f or w ar d , t h o u g h m y o w n eff orts i n t h at dir e cti o n w o ul d a w ait a n o p p ort u nit y t o
+t a k e t h e i niti ati v e.
+
+
+I n cr e asi n gl y, I b eli e v e d a u ni q u e o p p ort u nit y l a y i n t h e e v al u ati o n of pl as m a m e m br a n e a ss e m bl y i n S.
+c er e visi a e a n d m y r e a di n g of t h e lit er at ur e f o c us e d o n w h at w a s k n o w n b ef or e 1 9 7 5, w hi c h o utsi d e of t h e
+w or k of G ottfri e d S c h at z a n d W alt er N e u p ert o n mit o c h o n dri al bi o g e n esis w as ess e nti all y nil. I r e a d
+a b o ut t h e or g a ni z ati o n of t h e y e ast c ell s urf a c e , p arti c ul arly at t h e n a s c e nt di visi o n sit e, w hi c h h a d a n
+i ntri g ui n g i nt er m e di at e fil a m e nt ri n g a b utti n g t h e c yt o pl as mi c s urf a c e of t h e b u d n e c k m e m br a n e a n d a
+
+
+unique deposition of chitin in a ring embedded within the cell wall polysaccharide (32,33). Vesicles
+implicated in secretion were seen by thin section electron microscopy to localize to the cytoplasm of an
+early cell bud and then to appear near the cytokinesis furrow later in the cell cycle (Fig.1) (34,35). It
+seemed reasonable to suppose that these vesicles were responsible for secretion and localized plasma
+membrane assembly. These ideas excited me a great deal more than the tedious work I was doing on
+human neonatal erythrocytes.
+
+
+
+
+Figure 1. Thin section of wild-type yeast cell showing endoplasmic reticulum (er), vacuole (va) and
+secretory vesicles (ves).
+
+
+
+
+Free speech and free inquiry at UC Berkeley
+Just as I left Stanford on my way to San Diego, I became aware of an Assistant Professor opening in the
+Biochemistry Department at University of California, Berkeley. Although I had no postdoctoral training, I
+decided to apply for this position just in case the Berkeley faculty would see my graduate record as an
+indication of my interests and abilities. Fortunately for me, the first person to whom they offered the job,
+turned it down, and in a call I will never forget, Michael Chamberlin, a Paul Berg-trained Stanford
+Biochemistry graduate and then Chair of the Berkeley search committee, conveyed the good news that I
+had the job. I was so excited that I foolishly accepted over the phone with no further negotiation! And so
+within the first few months of my postdoctoral training, I had the luxury of planning my future career
+without the responsibilities of the job.
+
+
+The Berkeley Biochemistry Department was a perfect place for my interests. Daniel Koshland served as
+Chair and the faculty included a distinguished group of classical biochemists such as Esmond Snell, Jesse
+Rabinowitz, Clinton Ballou, Jack Kirsch and Howard Schachman, as well as a group with broader
+interests in genetics and molecular biology such as Allan Wilson, Stuart Linn, Ed Penhoet, Chamberlin,
+and Bruce and Giovanna Ames. Jeremy Thorner, a close friend from my Stanford years, had taken up a
+study of yeast pheromone biology as a beginning faculty member in the bacteriology and immunology
+department at Berkeley. Ballou was an expert in carbohydrate chemistry with a particular interest in the
+yeast cell wall. Koshland, whom I had met at Stanford, and Ames were most appealing because they
+blended genetics and biochemistry in a way that I found compatible with my temperament. I believed that
+my future colleagues would allow me the freedom to explore a new direction quite different from my
+graduate or postdoctoral work.
+
+
+In the remaining time of my postdoctoral work, I completed a project and published a paper but all my
+thoughts were directed to my future at Berkeley. Of course, I had no experience with yeast and knew
+essentially no genetics so I planned to spend three weeks at the yeast genetics course offered at Cold
+Spring Harbor and taught by Fred Sherman and Gerald Fink. Sherman and Fink were master geneticists
+and were able to draw on all the major figures in the yeast community who dropped by to teach and
+remain for a day or two. It was a thrill to meet Lee Hartwell and to share my thoughts about how yeast
+cells may grow by vesicle traffic. On the other hand, like with thin section electron microscopy, my skills
+in yeast tetrad dissection were inadequate. I believe I held the record for fewest tetrads dissected until
+several years later when James Rothman took the course.
+
+
+
+
+How to study secretion in yeast
+As the time approached for the move to Berkeley, I worked feverishly to craft an NIH grant proposal that
+included a range of ideas on how to study secretion and membrane growth in yeast. Published evidence
+suggested that secretion was localized to the bud portion of the dividing cell but there were no tools
+available to study the localization of a newly synthesized plasma membrane protein. My ideas were
+fanciful but in the cold light of day, the NIH reviewing panel found my experience inadequate (I had no
+preliminary data) and my ideas unproven. The rejection was crushing and my colleagues must have
+wondered if their gamble on me was about to crash. Adding insult to injury, I was denied a Basil
+O’Connor starter grant from the March of Dimes where the interviewer found me intelligent but regretted
+that I had not proposed to work on cell division in Lesch Nyhan syndrome! Fortunately, the NSF, and
+friendly reviews from Lee Hartwell and Susan Henry, a young yeast geneticist who studied phospholipid
+regulation, rescued me with a grant in the princely amount of $35,000 for two years. With this and a small
+internal University grant, a modest effort took shape.
+
+
+What to do first? In the fall of 1976, two graduate students joined my lab: Janet Scott and Chris Greer.
+Janet had transferred from another lab so she had to find something that would work quickly. I felt that in
+order to study the yeast plasma membrane it would be necessary to have a clean way to remove the cell
+wall avoiding the use of crude snail gut enzymes, Glusulase, that were used to convert cells to
+spheroplasts. Another lytic enzyme secreted by a soil bacterium, Oerskovia xanthineolytica, seemed a
+
+
+good source to begin a purification effort. Janet perfected the conditions of induction and purification of
+an enzyme we called lyticase (36). Subsequently the bacterial gene was cloned and lyticase is still used as
+a recombinant enzyme for experiments that require undamaged membranes. Chris also wanted to pursue a
+biochemical project, so I set him off on an effort to purify yeast actin, which at the time seemed a logical
+choice for a protein that may be involved in vesicle traffic. Chris completed the project but it was not
+until years later that Peter Novick, then a postdoctoral fellow in David Botstein’s lab, showed that an
+actin ts mutation delayed and mislocalized secretion at a restrictive growth temperature (37).
+
+
+With a small lab, a little money and time free from other responsibilities, I started a couple of my own
+projects to look at the localization of secretion with a focus on chitin, a polysaccharide in the division
+septum, and invertase an enzyme secreted into the cell wall. My first undergraduate research student,
+Vicki Brawley (now Chandler), helped me to study an unexpected surge in chitin synthesis that
+accompanied the arrest of the yeast cell division cycle in response to the mating pheromone α-factor. That
+work resulted in my first independent publication, a PNAS paper that was critically edited and
+communicated by my colleague Clint Ballou (38). The notion of localized deposition and activation of the
+plasma membrane enzyme chitin synthase seemed tractable but the subject excited little interest outside
+of a small and contentious community of yeast investigators. Fortunately, a breakthrough in the study of
+invertase secretion reinforced in my mind the importance of investigating a topic of general interest.
+
+
+Within a few months, Peter Novick joined the group for his thesis work. Peter was quiet, focused and
+technically superior. His background was impressive, having trained as an undergraduate at MIT and
+during summers as a research student in the lab of Arthur Karlin at Columbia University where Peter’s
+father was a Professor of Physics. Peter focused his studies on invertase, an enzyme that hydrolyzes
+sucrose to glucose and fructose and which yeast cells use to mobilize hexose for uptake by active
+transport at the cell surface. Invertase synthesis is repressed in cells growing on a medium containing
+high (2%) glucose and is derepressed when cells are shifted to low glucose (0.1%). Peter found that
+secretion of invertase is rapid: The pool of intracellular intermediates in the secretion of invertase is
+depleted within five minutes after the addition of cycloheximide to block new protein synthesis. He then
+looked at chemical agents that were reported to block secretion in animal cells to see if they could be used
+in yeast. My first thought was to find a way to block the fusion of secretory vesicles at the cell surface to
+see if both secretion and plasma membrane growth were arrested. Those experiments failed and we were
+faced with a question of how to find secretion mutants.
+
+
+During that first year, I followed up on an intriguing observation made by Susan Henry, then at Albert
+Einstein Medical School, who showed that starvation of a yeast inositol auxotroph led to cell death and a
+rapid arrest in cell growth. She demonstrated that starved cells increase in buoyant density, suggesting an
+imbalance in macromolecule biosynthesis and net cell surface growth (39). I tested the possibility that
+inositol may be required for secretion and cell surface growth by assaying invertase activity in intact
+cells, a measure of enzyme in the cell wall (yeast cells are impermeable to and can not transport sucrose),
+and in detergent lysed spheroplasts from which the cell wall material had been removed, a measure of
+intracellular intermediates in secretion. Another dead end; I found that inositol starvation did not block
+secretion.
+
+
+Secretion mutants
+During my postdoctoral years, I kept a box of cards with ideas about what to pursue in my lab at
+Berkeley. One of many ideas was a search for secretion mutants. In retrospect, we could have initiated
+that search right away, but I was not a geneticist and just did not think that way. And when Novick’s
+work inevitably turned to that approach, we assumed that a block to secretion would be lethal and that
+one would require a selection procedure to find what might be a rare ts lethal mutation. But what
+advantage could a dying secretion defective cell have over a viable one? One thought was to select
+against cells that could take up a toxic substance through a newly synthesized cell surface permease, one
+whose export would be blocked in a secretion mutant such that the mutant cell would survive exposure to
+the toxin. We settled on the yeast sulfate permease, which fails to discriminate sulfate and chromate.
+Under the right conditions, chromate kills cells that express the sulfate permease. Indeed in a screen of
+mutants that survived exposure to chromate at 37C, a standard non-permissive temperature for yeast,
+Peter found a ts lethal mutation that also blocks invertase secretion. However, on reconstructing the
+conditions of the selection, he found that this mutant died at 37C even more rapidly than the wild type
+strain in the presence or absence of chromate. So this was no selection at all! From this we concluded that
+the mutations may not be so rare after all and that a Hartwell style search among a set of random ts lethal
+mutations might turn up more secretion specific lesions.
+
+
+The mutant, sec1, that came from the aborted attempt at a selection, turned out to conform to all the
+predictions we had made. At a permissive temperature, 24C, mutant cells behaved like wild type cells in
+growth and rapid secretion of invertase and another conveniently assayed secreted enzyme, acid
+phosphatase. The induction and appearance of sulfate permease was also normal. However, on shift to
+37C, sec1 mutant cells arrested secretion of invertase and acid phosphatase (Fig. 2), which accumulated
+to a high level within dying cells, and the sulfate permease failed to appear in intact cells. These blocks
+were reversible and on return to 25C, the accumulated invertase and acid phosphatase were secreted even
+in the absence of new protein synthesis. Thus, we concluded that the mutant Sec1 protein must be
+thermally, but reversibly, unstable.
+
+
+Figure 2. Secretion and accumulation of acid phosphatase in wild-type cells (open circles) and sec1
+(closed circles) mutant cells (A) and spheroplasts (B). Reproduced from reference #40.
+
+
+In May of 1978, George Palade visited Berkeley for two lectures in a series sponsored by the
+pharmaceutical company Smith, Kline and French. This was the first opportunity I had had to meet
+Palade personally and it was a thrill to be able to share with him what we were doing to study secretion in
+yeast. He was not aware that yeast cells secrete glycoproteins. The graduate students hosted Palade for
+dinner and in the course of the conversation, Peter Novick spoke of his new results on the sec1 mutant.
+Palade encouraged Peter to examine the mutant by thin section microscopy. Shortly thereafter, Peter
+called my office from the EM lab in the basement of the Biochemistry building, urging that I come
+inspect the images of sec1 mutant cells. The picture was stunning; cells chock full of vesicles filling the
+entire cytoplasmic compartment (Fig. 3). An enzyme-specific cytochemical stain for acid phosphatase
+showed all the vesicles carried this enzyme and likely other proteins secreted by yeast cells. Mutant cells
+grown at 24C behaved just like wild type cells did, with a small cluster of vesicles in the bud portion of
+the cell. Short of the moments I witnessed the birth of my children, nothing in my life compares to the
+excitement of that image in the EM room in the summer of 1978.
+
+
+                                                                                                    .
+Figure 3. Wild-type (A) and sec 1 mutant cells at 24C (B) or 37C after 1h (C) or 3h (D, E). Reproduced
+from reference #40.
+
+
+Peter and I assembled a paper for publication in the PNAS, which was communicated by Dan Koshland
+(40), and we continued a quest for more mutants of this sort because surely with a procedure that was
+unfavorable for the selection of sec1, many more genes might be found with no selection whatsoever.
+Peter collected 100 random ts mutant colonies by a standard mutagenesis protocol and found one more
+mutant, sec2, which phenotypically resembled sec1 in accumulating a uniform population of vesicles.
+Thus at least two proteins were implicated in some step in the delivery of vesicles to a target membrane,
+possibly the plasma membrane. But surely there must be more such genes and the prospect of generating
+thousands of ts colonies in a time before the robotic approaches we now enjoy, was a bit daunting.
+
+
+For the next of what would be a brilliant string of observations, Peter noticed that sec1 mutant cells fail to
+enlarge, fail to divide and become phase refractile during an hour or more of incubation at 37C. This
+
+
+contrasts with the behavior of Hartwell’s cell cycle ts mutants that arrest with a unique cell morphology
+characteristic of the cell cycle stage that is blocked, but that continue to enlarge into misshapen structures.
+Peter reasoned that secretion defective cells may continue to produce macromolecules but by failing to
+enlarge their buoyant density may increase, just as I had expected of the inositol auxotroph of Susan
+Henry. Peter then performed a beautiful experiment to test his theory. Mutant cells were constructed with
+a constitutively expressed form of acid phosphatase and an aliquot was incubated at 37C. A
+corresponding wild type cell sample with a normally repressed phosphatase gene was mixed in a ratio of
+100:1 with the mutant cells and the mixed cells were centrifuged on a self-forming gradient of Ludox, a
+colloidal silica suspension that was then marketed as a commercial floor polish. Susan Henry had
+exploited the same preparation of Ludox to separate inositol-starved and normal cells. Fractions of the
+gradient plated on rich medium formed colonies that were then stained with a phosphatase-specific
+histochemical reagent to reveal the distribution of phosphatase-constitutive and -repressed colonies. The
+result was an absolute separation of sec1 mutant cells at the bottom of the gradient and wild type cells at
+the top (Fig. 4). This density gradient then provided the opportunity Peter needed to enrich and screen
+many more ts colonies for additional sec mutants.
+
+
+
+
+Figure 4. Ludox gradient of wild-type (light stipples) and sec1 mutant cells (heavy stipples) separated
+from bottom (high density) to top (low density) of centrifuge tube. Reproduced from ref. #41.
+
+
+Over the next 18 months, Peter with Charles Field, a technician who was an expert in yeast genetics,
+repeated the mutagenesis on a large scale with different mutagens and assembled a large collection of
+density enriched ts colonies, 220 of which proved to be defective in secretion. Genetic complementation
+tests uncovered 23 genes among these mutants and the distribution of alleles suggested yet more genes
+were likely to be discovered. Electron microscopic inspection revealed three different phenotypic
+categories of organelle disruption: Mutations in 10 genes, like sec1 and 2, accumulated secretory vesicles,
+mutations in another 9 genes caused accumulation and distortion of the ER membrane, and another two
+caused a toroid-shaped organelle, which Novick called the “Berkeley body”, to proliferate. One concern
+we had was that the sec mutations might not represent components of the secretory machinery, but merely
+defective biosynthetic cargo proteins that interfere with secretion. However, the simple complementation
+tests used to establish the genes showed all the alleles to be genetically recessive, and thus unlikely to
+
+
+represent dominant inhibitors of the process. Novick and Field completed a morphological and
+physiological characterization of selected alleles of each of the 23 genes, and we put together a
+comprehensive paper for the relatively new journal, Cell, which through the force of the personality of the
+Editor, Benjamin Lewin, was changing the way life science research was evaluated and promoted (41).
+
+
+In the following year, Novick and Susan Ferro, who later became Susan Ferro-Novick (the first of many
+marriages within my laboratory), teamed up to apply a classic genetic epistasis test to establish the order
+in which the SEC genes exert their function. In the course of this work Peter found that one of the mutants
+sec7 that accumulates the odd “Berkeley bodies” appeared to define a stage equivalent to that of the Golgi
+apparatus in mammalian cells. Quite by chance he found that this structure irreversibly blocked secretion
+unless cells were incubated in medium containing low glucose in which case mutant cells accumulate a
+classic, multi-cisternae Golgi structure (42). Some years later, Chris Kaiser, a talented postdoctoral fellow
+with considerable experience in yeast genetics, revisited the SEC genes that govern traffic early in the
+pathway and uncovered a distinct smaller vesicle species that mediates traffic between the ER and the
+Golgi complex (43). He classified a set of SEC genes that governs vesicle formation and another set
+required for vesicle consumption, presumably by a process of membrane fusion at the Golgi complex.
+Importantly, he showed that the two sets of genes show extensive genetic interactions, with mutations in
+each group exacerbating the mutant phenotype of other members of that group but not between the two
+groups. This behavior, referred to as synthetic lethal interaction, suggested that the members of each
+group function together, possibly by physical interaction with one another. These results led to a picture
+of the secretory pathway in yeast that was essentially the same as Palade had shown for mammalian cells,
+but with the crucial bonus that each step in the elaborate chain of events was now defined by genes and
+thus proteins that would surely illuminate the molecular mechanisms of this pathway (Fig. 5, 6).
+
+
+
+
+Figure 5. Yeast secretory pathway circa 1981. Reproduced from ref. #42.
+
+
+Figure 6. ER – Golgi vesicular traffic pathway circa 1990. Reproduced from ref. #43.
+
+
+Two other studies added molecular detail to the emerging view of the secretory pathway in yeast. Brent
+Esmon, a graduate student in the lab, applied a histochemical stain for invertase on cell lysate samples
+that were electrophoretically resolved on a native polyacryamide gel. He discovered that the mutants
+defective in protein transport from the ER accumulate discrete forms of glycosylated invertase, distinct
+from invertase that progressed to the Golgi compartment and into secretory vesicles. Using antibodies
+that diagnose the “outer chain” carbohydrate epitopes of yeast glycoproteins, Brent learned that the
+division of labor between the ER and the Golgi complex in yeast with respect to N-glycan maturation is
+much the same as in mammalian cells (44). Tom Stevens, a postdoctoral fellow, studied the traffic of a
+protein to the yeast vacuole and found that it is diverted from the Golgi complex, similar to the traffic of
+lysosomal proteins in mammalian cells (45). Stevens and another postdoctoral fellow, Scott Emr, took
+this part of the pathway to their own labs at the University of Oregon and Cal Tech, respectively, to
+develop powerful genetic selections to uncover the genes that govern this sorting limb of the secretory
+pathway. The VPS genes continue to illuminate the process of sorting from the Golgi complex to the
+endosome and on to the vacuole or lysosome in all nucleated organisms.
+
+
+Given our finding that the yeast and mammalian secretory pathways are fundamentally conserved, the
+biotech industry was quick to exploit the fermentation possibilities of yeast culture to engineer the
+expression of commercial quantities of important human secreted proteins. Chiron, near Berkeley in the
+San Francisco Bay Area was the first to succeed. Recombinant expression of the hepatitis B surface
+antigen in yeast resulted in the production of virus-like membrane particles that proved to be highly
+immunogenic and which were commercialized as a potent hepatitis vaccine, the sole source of that
+product in use today (46). As hepatitis B is the major cause of primary liver cancer, the successful
+introduction of this product of the yeast secretory pathway could, if fully implemented, dramatically
+reduce the incidence of liver cancer. Indeed this commercial product is considered the first anti-cancer
+vaccine. Chiron next engineered the expression and secretion of human insulin in yeast and that product,
+
+
+now marketed by Novo Nordisk, accounts for one-third of the world supply of human recombinant
+insulin.
+
+
+I never patented any of our discoveries or thought to do work directed to commercial application in my
+laboratory because I was completely absorbed by the pursuit of fundamental knowledge. Nonetheless, as
+a consultant to Chiron I did benefit financially and was enormously gratified to see our work applied to
+such important practical goals. My view is that the work of drug discovery and practical application is
+best left to the private sector and that University scientists should focus on basic discovery.
+
+
+
+
+Important genes uncovered by other means
+Although the initial set of SEC genes revealed the broad outline of the secretory pathway, it became clear
+that key elements in the process were not reflected in the Novicks’ mutants. We had hoped to find
+mutations that block the insertion of secretory polypeptides into the lumen of the ER and thus to define
+genes that constitute the translocation channel predicted by the classic work of Palade, Sabatini and
+Blobel. The key prediction was that mutations in a putative channel would accumulate unglycosylated
+secretory precursor polypeptides in the cytoplasm. No such defects were found in the initial set of sec
+mutations. Susan Ferro conducted a wider search for mutants using the density gradient technique and
+turned up two that accumulated unglycosylated forms of invertase (47). However, on closer inspection
+these mutations identified genes involved in the biosynthesis of glycans on secretory proteins rather than
+bona fide catalysts of translocation (48, 49). Clearly, a different, more directed approach was needed.
+
+
+Studies in E. coli and in yeast showed that the N-terminal signal peptide is necessary and sufficient for
+the translocation of a secretory protein across the cytoplasmic membrane or ER membrane, respectively
+(50, 51). The recombinant expression of a chimeric protein constructed by the fusion of a signal peptide
+coding sequence and the E. coli β-galactosidase gene, encoding a soluble cytoplasmic enzyme, result in
+the membrane translocation of the hybrid protein. Beckwith and colleagues found the expression of such
+a hybrid protein in E. coli provided a selectable growth phenotype, which they used to isolate
+translocation defective sec mutations, defining the novel cytoplasmic proteins SecA and SecB (52). Using
+other genetic approaches, Silhavy, Ito and colleagues identified a gene encoding a membrane protein,
+PrlA/SecY, a candidate for the bacterial translocation channel (53, 54).
+
+
+Ray Deshaies, an unusually creative and confident graduate student joined the lab in the mid 1980s and
+after an initial effort with the existing sec mutants, he decided to revisit the translocation problem. In
+three brilliant but entirely independent efforts, he succeeded in defining a number of genes required in the
+translocation process. Ray reasoned that if a signal peptide were appended to a cytoplasmic enzyme
+required for the production of an essential nutrient, the enzyme would be sequestered in the ER, removed
+from contact with its substrate. In this situation, cells would grow on the nutrient but not on its substrate
+unless a mutation was introduced that blocked the translocation of the hybrid protein into the ER. Of
+course, a mutation in an essential channel protein would likely kill the cell, so the quest was for mutations
+that crippled but did not destroy proteins required for the assembly process. Temperature-sensitive lethal
+mutations often exert a partial effect at a permissive temperature, thus the search was for mutations that
+
+
+grow at 30C on the substrate, in this case histidinol, the substrate of the enzyme histidinol dehydrogenase,
+the last step in the biosynthesis of histidine, but which fail to form colonies at 37C on rich growth
+medium. Ray’s first mutant was called sec61 and further searches using the same selection identified five
+other genes that encode additional functions essential for translocation, including other subunits of the
+channel complex and a subunit of the signal recognition particle (SRP) (55, 56). Subsequent cloning of
+these genes revealed that SEC61 is homologous to the PrlA/SecyY gene of E. coli (57). Comparable
+genes are found in mammals, and biochemical analysis demonstrated that the Sec61 protein constitutes
+the core of the channel protein through which secretory and membrane proteins pass during assembly in
+the ER (58, 59).
+
+
+Deshaies also tackled the question of how certain secretory proteins may be translocated post-
+translationally in yeast. In contrast to the classical rule of co-translational translocation discovered by
+Blobel, Peter Walter, a protégé of Blobel’s, discovered that at least one substrate, the precursor of the
+yeast mating pheromone α-factor, could pass across the ER membrane after the completion of translation
+(60). The assumption was that something extrinsic or intrinsic to α-factor precursor held it in a form that
+could readily unfold during the translocation event.
+
+
+In reading an influential review article by Hugh Pelham on the possible role of the heat shock protein
+family hsp70 in dispersing protein aggregates (61), Ray imagined that hsp70 might also serve to retain
+partially unfolded forms of post-translational substrates such as α-factor precursor. Fortunately, we were
+in a position to test this in vivo because Margaret Werner-Washburn and Elizabeth Craig had just
+constructed a yeast strain missing three members of the major hsp70 class of proteins and with a ts
+mutation in the remaining fourth gene such that the quadruple mutant was ts lethal. Ray established in
+short order that this mutant accumulated untranslocated α-factor precursor and as a bonus, he found that
+the β subunit of the mitochondrial F1- ATPase, also post-translationally translocated into that organelle,
+accumulated in the cytoplasm. Ray and independently Chirico and Blobel showed that the requirement
+for Hsp70 could be reproduced in the cell-free reaction that reconstitutes the translocation of α-factor
+precursor into isolated yeast ER membranes (62, 63).
+
+
+In a third example of Deshaies’ creative instinct, he solved a problem that had bedeviled a postdoc, Peter
+Bohni, who had struggled for two years to devise a selection for a mutation in the yeast signal peptidase,
+the enzyme that Blobel demonstrated cleaves the signal on a secretory polypeptide as it emerges on the
+luminal side of the ER. Neither the enzyme nor the gene for the peptidase had been obtained, thus it was
+of interest to test the function of the protein, which at that time remained a candidate for a subunit of the
+translocation channel. We knew that a mutation at the yeast invertase signal peptide cleavage site delayed
+the secretion of active enzyme, which accumulates in a precursor form in the ER (64). Attempts to devise
+a selection for mutations in the peptidase based on that secretion delay proved futile. Ray suggested that
+some uncleaved cargo proteins might be delayed more seriously than others and that a peptidase mutant
+could be in our original collection of sec mutants and would have the unusual characteristic of blocking
+only a subset of cargo proteins. In Peter Novick’s last effort as a graduate student, he had devised a cell
+surface chemical labeling procedure to assess the full range of major cargo proteins and how their cell
+surface appearance is affected in sec mutant cells incubated at 37C (65). Curiously, one mutant in the
+
+
+original collection, sec11, showed an anomalous effect with certain cargo proteins blocked and others less
+so. With this insight, Bohni immediately investigated the sec11 mutant and found that it accumulated
+uncleaved invertase at a restrictive temperature (66). The SEC11 gene was cloned and found to be the
+prototype of all eukaryotic signal peptidases (67).
+
+
+
+
+Cloning genes as an adjunct to functional analysis of Sec proteins
+With the advent of cloning yeast genes by complementation, pioneered by Hinnen and Fink in 1978 (68),
+we had the immediate prospect of a molecular description of the SEC genes and a possible alignment of
+these genes with comparable functions in simple metazoans and perhaps even mammals. I resisted the
+temptation to launch in this direction because it seemed unlikely that the SEC genes would look like
+anything else then known. After all, DNA sequencing was still in its infancy and genome databases were
+nonexistent. Almost from the outset of our characterization of the sec mutants, my focus was on
+attempting to develop a cell-free reaction that reproduced the function of Sec proteins. Most students and
+fellows who joined the lab resisted my entreaties or took up only half-hearted attempts. One initial effort
+in this direction yielded a feeble signal that seemed unlikely to prove useful (69). And yet, just miles
+away in his new lab at Stanford, Jim Rothman had succeeded in developing a reaction that appeared to
+measure a significant limb of the Golgi traffic pathway reconstituted in a lysate of mammalian cells (70).
+My own efforts remained on hold until I found a courageous student to take up the challenge.
+
+
+SEC53 was the first SEC gene cloned and identified with a biochemical function. Although sec53 was
+isolated and initially characterized as a mutant defective in translocation, the gene sequence predicted a
+soluble protein (71), which on closer inspection proved to be to the enzyme phosphomannomutase
+involved in the production of GDP-mannose, the precursor of N- and O-glycans in yeast (48). Other SEC
+genes were cloned but other than predicting that SEC12 encoded an ER membrane protein and SEC18
+encoded a soluble cytoplasmic protein, no functional biochemical role could be seen in the sequences (72,
+73).
+
+
+The first real breakthrough with respect to vesicular traffic came in 1987 when Novick, now in his own
+lab at Yale, cloned and sequenced SEC4, which he showed encoded a small GTP- binding protein of the
+RAS family (74). Novick’s focus on SEC4 was no accident. We had agreed that he could take charge of
+the group of sec mutants that block late in the pathway and accumulate mature secretory vesicles.
+Salminen and Novick found that SEC4 overexpression suppressed the growth defect of several members
+of the group of late acting sec mutants, and that double mutants constructed among the members of this
+class displayed a synthetic lethal form of genetic interaction. As the genomes of other organisms were
+sequenced, it became clear that SEC4 was a prototype of what are now called Rab proteins, each of which
+defines a unique destination for the fusion of vesicles to a target membrane. Continuing on the brilliant
+path he established right from the start of his graduate work, Novick has built a substantial body of highly
+original work that reveals detailed mechanisms associated with the production, migration and fusion of
+transport vesicles at the yeast cell surface. And given the fundamental conservation of the SEC gene
+sequences, it is no surprise that Novick’s insights extend to all comparable vesicle targeting/fusion events
+in metazoans and mammals. Indeed, SEC1 was found to be related to the unc-18 gene isolated in the
+
+
+original collection of uncoordinated mutants of C. elegans isolated by Sydney Brenner (75, 76). And the
+Sec1 protein is known to play a universal role in the control of SNARE protein action in vesicle fusion.
+
+
+Jim Rothman’s pioneering initial effort to purify proteins required for vesicle fusion yielded the soluble
+ATPase, NSF (NEM-sensitive factor), which on cloning revealed a striking similarity to the yeast Sec18
+protein, a gene that had been cloned by Scott Emr in his own lab at Cal Tech (73, 77). At around the same
+time, Chris Kaiser in my lab had detected a vesicle intermediate between the ER and Golgi, whose
+consumption by fusion required the genetically interacting genes SEC18, SEC17 and SEC22 (43). In a
+joint paper, our labs showed that SEC17 encodes the yeast equivalent of α-SNAP, a protein Rothman’s
+lab discovered as the factor required for NSF to bind a membrane site, later defined as the SNARE
+protein (78). Later work showed that SEC22 encodes one such yeast SNARE protein. These results made
+it clear that the two labs were working on fundamentally the same problem and forged a persuasive link
+between the mechanism of vesicle targeting/fusion in yeast and mammalian cells.
+
+
+The mechanism of secretory vesicle budding was now accessible to molecular analysis. Palade had seen
+coated vesicles at the ER exit site in sections of pancreatic exocrine cells and the view was that the
+mechanism of budding would involve a coat similar to the classic clathrin coat first visualized as a coated
+pit engaged in yolk protein internalization in insect oocytes and characterized molecularly by Barbara
+Pearse with isolated bovine brain clathrin coated vesicles (79, 80). Rothman had evidence to suggest a
+role for clathrin in the transport of vesicular stomatitis virus G protein from the ER in cultured
+mammalian cells (81). Thus, clathrin or a similar coat protein was a candidate for one or more of the SEC
+genes required for traffic from the ER.
+
+
+Greg Payne decided to assess the role of clathrin directly by cloning the gene for the heavy chain and
+characterizing the phenotype of a clathrin gene knockout in yeast. Given the expected role of clathrin in
+vesicular traffic, we assumed the gene would – like the SEC genes – be essential for cell viability. Yet,
+after disruption of the heavy chain gene in a diploid strain, Greg was shocked to see 2 disrupted spores in
+each tetrad growing after a several day lag phase. Clathrin deficient cells were sickly but continued to
+secrete even when the gene was knocked out in a number of different genetic backgrounds (82). Lemmon
+and Jones reported a strain in which the heavy chain gene was essential but it now seems likely this strain
+carried an additional mutation that exerted a synthetic lethal effect in the absence of clathrin (83). Further
+analysis showed that clathrin was required for the proper sorting/retention of a Golgi-localized dibasic
+peptidase essential for the proteolytic maturation of α-factor precursor (84). These results conformed
+nicely to the suggestion by Lelio Orci that clathrin coats mediate the retrieval of the proinsuln processing
+protease from condensing granules in pancreatic β cells (85). The search continued for a coat mechanism
+in the formation of secretory transport vesicles.
+
+
+
+
+A yeast cell-free vesicular transport reaction
+I knew that the full potential of the sec mutant collection awaited the development of a cell-free reaction
+to recapitulate at least a portion of the pathway in vitro. Finally, in 1985, I recruited a brilliant and
+creative graduate student, David Baker, who shared my vision and had the talent to make it happen. Up to
+
+
+that point we had relied on the accumulation of precursor glycoproteins in sec mutant cells arrested at
+37C to serve as substrates in in vitro reactions. Immature glycoproteins become modified by specific
+outer chain glycan decorations en route through the Golgi complex when cells are returned to the
+permissive temperature, and we assumed the same would be true in vitro. This assumption proved wrong.
+The first hint of a problem came in the evaluation of sec53 mutant phosphomannomutase, which proved
+to be inactive even in lysates of cells that were grown at a permissive temperature (48). But without such
+a block to accumulate substrates in the ER, the assay for traffic would have to rely on a low level of
+immature glycoproteins radiolabelled for a brief time during biosynthesis. Rothman had succeeded with
+just such an approach (71), but the transit time of glycoproteins in yeast is much quicker than in
+mammalian cells.
+
+
+David had a fresh idea. Peter Walter’s lab (as well as the labs of David Meyer and Blobel) had
+reconstituted the translocation of radiolabled α-factor precursor into ER membranes prepared by
+mechanical disruption of yeast spheroplasts (61). The product of this incubation was a core N-
+glycosylated species that migrated at a discrete position on SDS-PAGE separation. David guessed that
+membranes prepared by a more gentle lysis procedure, basically a quick freeze-thaw of yeast
+spheroplasts, might preserve membrane organization well enough to permit vesicular traffic of the core
+glycan modified synthetic α-factor precursor. Within a few weeks of starting, David observed the
+production of a heterogeneous spread of low electrophoretic mobility forms of the radioactive precursor,
+which importantly was precipitated by antibodies directed against mannose epitopes added to N-glycans
+in the yeast Golgi complex. The reaction required cytosol, ATP and incubation at a physiological
+temperature. The results were most promising and the assay was amenable to quantification and easy
+repetition with many samples.
+
+
+The crucial test of Baker’s reaction was to examine the effect of an ER-blocked sec mutant in the cell-free
+reaction. Linda Hicke, an ambitious and technically gifted graduate student had cloned SEC23, one of the
+four genes Kaiser found to interact in the formation of ER-derived transport vesicles. She collaborated
+with Baker to reproduce the α-factor precursor transport reaction in separate incubations containing
+membranes from wild type (wt) cells mixed with cytosol fractions from wild type (wt), mutant and
+mutant cells complemented with the wt gene. The results were stunning, with a clear ts defect in transport
+complemented by a wt copy of Sec23p supplied in the mutant cytosol fraction (86) (Fig. 7). Amazingly,
+Susan Ferro-Novick and her graduate student Hannele Ruohola, developed virtually the same
+methodology yielding similar results in their laboratory at Yale (87).
+
+
+Baker and Hicke’s results were precisely what I had dreamed of and the experimental design was
+modeled on my own graduate research, in which I used complementation of mutant lysates as an assay to
+purify functional DNA replication enzymes (19). With her assay, Linda was able to purify overexpressed
+recombinant Sec23p and then to show that it copurified with anther protein that was not represented in
+our original mutant collection but which proved to be encoded by another essential gene, which we then
+called SEC24 (88).
+
+
+Figure 7. Temperature sensitive transport of α-factor precursor. Golgi glycan-modified precursor in
+incubations at 15C, 25C and 30C containing yeast membranes and no cytosol (open bar), sec23 mutant
+ytosol (dark bar) or cytosol from sec23 mutant strain complemented with SEC23.
+
+
+By itself the purified heterodimer of functional Sec23/24p did not offer any clues to its role in ER vesicle
+budding. For this we required purified forms of the other cytosolic components necessary for budding of
+α-factor precursor. The next factor came by a circuitous route. Akihiko Nakano, the first of a series of
+outstanding postdoctoral fellows from Japan, had cloned the ER membrane protein Sec12 that we knew
+from Kaiser’s genetic work was intimately connected to the set of soluble Sec proteins involved in vesicle
+budding (43, 59). We had in our collection a set of genes cloned by overexpression suppression of the
+sec12 mutation. One clone suppressed sec12 ts growth even when its copy number was only two-fold of
+normal. Aki took this gene back to his lab in Japan and found that it encoded another small GTP binding
+protein, though of a class distinct from SEC4. This gene, which he called SAR1, also proved essential for
+secretion (89). Christophe D’Enfert, a postdoc from Paris, found that membranes isolated from a strain
+overexpressing SEC12 were defective in the transport reaction unless the cytosol contained overexpressed
+Sar1p (90). This became the assay to purify functional Sar1 that we found could also be isolated by
+recombinant expression in E coli (91).
+
+
+As the proteins required for budding were being lined-up, it became clear that the requirements for the
+full transport reaction were quite complex and it seemed reasonable to devise a simpler assay to focus
+only on vesicle formation. Michael Rexach joined the lab as a graduate student and brought considerable
+skill and stubborn determination to this goal. Using a simple technique of differential centrifugation,
+Michael observed that ER membranes remained intact during the course of the cell-free incubation, as
+measured by the rapid sedimentation of ER marker proteins. In contrast, he found as the incubation
+
+
+proceeded that a substantial fraction of the core glycosylated α-factor precursor, which was initially
+contained within large ER envelopes, was transferred into a slowly-sedimenting vesicle species, which
+lacked translocation activity and other marker proteins of the ER membrane and lumen. Importantly, the
+formation of this vesicle species was blocked in the mutants that Kaiser showed to be defective in the
+production of the vesicle intermediate in vivo (sec12 and sec23), but not in mutants blocked later (sec18)
+(92). Again, similar results were obtained in Ferro-Novick’s lab (93). Rexach’s work provided us with the
+essential tool we needed to complete the purification and functional analysis of the proteins required for
+vesicle budding from the ER.
+
+
+Two other genes required for ER vesicle formation remained to be functionally identified: SEC13 and
+SEC16. In his own lab at MIT, Kaiser cloned and characterized SEC16 and learned that it encodes a
+240kD peripheral membrane protein, not readily released into the cytosol (94). Nancy Pryer, a postdoc in
+our lab, cloned SEC13 and found that it encodes a small cytosolic protein that contains a series of WD-40
+repeats, very similar to the G protein β subunit (95). Members of this family have a 7-member β propeller
+structure common to proteins that engage in reversible multi-subunit protein interactions. Nina Salama,
+an effervescent graduate student in the lab, used Rexach’s budding reaction to purify a functional form of
+Sec13p and found that it co-purifies with an additional subunit, which we cloned and characterized as a
+novel SEC gene, SEC31 (96). With this last piece of the puzzle, we found that the budding reaction was
+sustained with isolated membranes and pure, recombinant Sar1p, Sec23/24p and Sec13/31p, with Sec16p
+presumably being supplied by the membrane fraction. A complete functional analysis of the mechanism
+of vesicle budding was now at hand.
+
+
+
+
+COPII mediates vesicle budding from the ER
+We had few clues as to the mechanism of vesicle budding mediated by the pure Sec proteins in our
+collection. Rothman’s lab had identified and characterized a novel coat protein complex, coatomer,
+required for vesicle budding in transport within the Golgi complex (97). He suggested that this coat may
+also be required for vesicular traffic from the ER, but we found no evidence for subunits of the coatomer
+in our purified set of Sec proteins. In addition, we had cloned and characterized a different SEC gene,
+SEC21, that encodes a subunit of coatomer and although the sec21 mutant is blocked in traffic from the
+ER, it did not fit neatly into one of Kaiser’s mutant classes, and we attributed its effect on traffic from the
+ER to a backlog of cargo that accumulates when Golgi function is disrupted (98).
+
+
+Several key insights developed in the1990s that consolidated our efforts. Two wonderful new postdocs in
+the lab, Charles Barlowe and Tohru Yoshihisa, discovered a cycle of GTP hydrolysis and exchange on
+Sar1p. Tohru found that the Sec23 subunit is a GTP hydrolysis catalyst (GAP) specific for Sar1p and
+Charlie found that the cytoplasmic domain of Sec12p catalyzes nucleotide exchange on Sar1p (99, 100).
+Several years later Bruno Antonny, a tremendously skilled and perceptive biophysicist, discovered that
+the Sec31 subunit of the 13/31 heterotetramer complex accelerates the GAP activity of Sec23 10-fold
+(101). Clearly, a coordinated assembly event controlled by GTP binding and hydrolysis, served to frame
+the budding process. Given Rothman’s discovery of a role for GTP binding in the control of coatomer
+
+
+assembly and vesicle budding on Golgi membranes, we were primed for the prospect of a novel coat
+complex (102).
+
+
+Fate intervened again in the form of a phone call from the maestro of membrane morphology, Lelio Orci
+at the University of Geneva Medical School. Orci was instrumental in the effort to discover the
+morphologic stages in vesicle formation and fusion in the Golgi complex uncovered in the Rothman lab
+cell-free transport reaction. His skills were so extraordinary that I had attempted, unsuccessfully, to
+engage his interest when our work uncovered a role for clathrin in the retrieval of a Golgi enzyme similar
+to his discovery of the organization of clathrin and proinsulin processing in β-cells of the pancreas (85).
+His call in 1990 was prompted by our recent publication of Kaiser’s analysis of the vesicle species that
+mediates traffic from the ER. Lelio took pity on us for the primitive standards of our thin section EM
+analysis and graciously offered his help in a collaboration to examine the organization of the Sec proteins
+involved in ER vesicle formation. His first success was in using our antibody against the yeast Sec23p to
+localize the mammalian homolog precisely at the ER exit site in sections of pancreatic tissue (103). But
+the greatest excitement came when he discovered a novel coat that surrounded the vesicles formed in a
+reaction with yeast membranes and our purified Sec proteins. Barlowe isolated these vesicles and we saw
+a hint of a coat in thin sections prepared by my skilled EM technician, Susan Hamamoto, but the images
+Orci produced were simply breathtaking (Fig 8). We called this novel coat COPII and suggested that the
+Rothman/Orci coat be referred to as COPI (104). I count it as one of the great privileges of my career to
+have enjoyed over 20 years of continuous collaboration with Orci, a scholar and experimentalist of the
+highest distinction.
+
+
+Figure 8. Thin section transmission and scanning EM images of COPII vesicles. Bar, 100nm. Courtesy of
+Lelio Orci, Univ. of Geneva.
+
+
+In a crucial initial collaboration, Orci and a new postdoc in the lab, Sebastian Bednarek, defined the ER
+as the morphological site of COPII budding. Sebastian purified yeast nuclei as a source of pure ER
+membrane and with Orci showed that COPII proteins, and curiously also COPI, form buds and
+incorporate cargo molecules from the outer nuclear membrane. Using a sequential binding assay,
+Sebastian demonstrated that the COPII assembles in pieces with Sar1p and Sec23/24p binding first and
+constituting an inner layer of the coat with Sec13/31p forming the outer layer of the coat (105).
+
+
+With a purified ensemble of cytosolic proteins in hand, we turned our attention to the contribution of
+membrane proteins and lipids in an effort to define the minimum requirements for vesicle budding.
+
+
+Sec16p represented the most obvious part of the machinery not accounted for in our reconstituted
+reaction. Two successive postdoctoral fellows, Joe Campbell and Frantisek Supek, found conditions in
+which a role for Sec16p in the budding reaction could be observed (106, 107). Eugene Futai succeeded in
+purifying recombinant Sec16p and found conditions in which it controlled the GTPase cycle mediated by
+the interaction of the full set of COPII proteins and Sar1 (108). Yet even now, it is not clear if Sec16
+participates actively in the cycle of vesicle budding or rather plays a regulatory role in organizing COPII
+proteins at the ER exit site.
+
+
+We considered the possibility that coat assembly may be regulated by the availability of membrane cargo
+proteins. Tom Yeung, a graduate student in the lab, found that membranes isolated from cells treated with
+
+
+cycloheximide, and thus purged of newly-synthesized cargo, were perfectly active in budding COPII
+vesicles as assayed by the incorporation of a SNARE protein (109). Although biosynthetic cargo may not
+be essential for vesicle budding, we suggested that proteins cycling between the ER and Golgi might
+constitute an essential element of the membrane contribution to the formation of a COPII bud (110).
+
+
+To test directly the role of membrane proteins and lipids in the budding event, Yeung initiated an effort to
+solubilize the membrane with detergents to see if membrane proteins and lipids could be reconstituted
+into liposomes capable of budding synthetic COPII vesicles. To our surprise, Yeung and a meticulous
+new postdoctoral fellow, Ken Matsuoka, systematically documented that synthetic COPII vesicles bud
+and could be isolated by density gradient sedimentation from reactions conducted with pure phospholipid
+liposomes of defined composition provided the reaction was conducted in the presence of a non-
+hydrolyzable analog of GTP (111). Bruno Antonny developed an elegant real time light scattering assay
+to monitor the stepwise assembly and disassembly of the coat in incubations containing GTP or a
+nonhydrolyzable analog (101). Eugene Futai then showed that GTP could replace a nonhydrolyzable
+analog to produce a stable COPII coated membrane provided the reaction was supplemented with the
+cytoplasmic domain of the Sar1p nucleotide exchange catalyst, Sec12p, presumably stabilizing the coat
+by repeated rounds of GTP nucleotide exchange. Curiously, these reactions arrested with buds on
+liposomes, but few if any completed COPII vesicles (112). More recently, Kirsten Bacia, another
+postdoctoral fellow, reconstituted the budding reaction on giant unilamellar vesicles where the process
+may be visualized in real time by light and fluorescence microscopy without potentially damaging
+manipulation, e.g. centrifugation. In these conditions, incubations containing the COPII proteins and
+nonhydrolyzable GTP produce long, multi-lobed, coated tubules with regular points of constriction but
+with little evidence of vesicle fission (113). The nature of the COPII fission reaction remains unresolved
+but appears to hinge on spatial regulation of GTP binding and hydrolysis at the vesicle bud neck.
+
+
+The initial event that leads to a bud may begin when Sar1p acquires GTP through interaction with Sec12.
+Structural analysis showed that the soluble GDP-bound form of Sar1 shields an N-terminal amphipathic
+helix in a cleft of the folded protein (114). Nucleotide exchange displaces the N-terminus and renders
+activated Sar1p highly insoluble and prone to membrane insertion. Marcus Lee, an insightful postdoctoral
+fellow, reasoned that the embedment of the N-terminus in the bilayer may laterally displace
+phospholipids and create a local asymmetry in the surface area of the two leaflets, much as Sheetz and
+Singer had proposed decades earlier in the bilayer couple hypothesis (115). In a series of elegant
+experiments conducted in collaboration with Orci, Lee showed that Sar1p promotes the formation of
+membrane tubules from synthetic liposomes dependent on the insertion of the amphipathic N-terminal
+helix and that this insertion is required for COPII vesicle formation in vitro and protein transport in vivo
+(116).
+
+
+Tremendous progress has been made on the structural analysis of the COPII coat, principally by the
+laboratories of Jonathan Goldberg and William Balch (117,118,119). We now have a detailed
+understanding of the mechanism of polymerization of the two layers of the coat and a key insight
+concerning the scaffold complex that forms the outer layer, a regular polyhedral lattice that Balch
+discovered in a self-assembly reaction with purified mammalian Sec13/31 heterotetramer. A former
+
+
+postdoctoral co-worker, Giulia Zanetti, using cryoelectron microscopy has now visualized the lattice
+network of COPII formed on the surface of a synthetic liposome (120). Although little evidence suggests
+any significant structural or functional differences between the yeast and mammalian COPII proteins,
+mammals have the capacity to regulate the size of the coat to accommodate large or irregularly-shaped
+cargo complexes such as lipoproteins and pro-collagen. A posttranslational modification, ubiquitylation
+of Sec31, may serve to regulate some aspect of coat assembly to create a more flexible carrier (121).
+
+
+An unexpected connection developed between the structure and function of the two layers of the COPII
+coat in the discovery of a mutation in the human Sec23A subunit. Simeon Boyadjiev and Waffa Eyaid, a
+Saudi colleague, examined a Bedouin family in which children have a rare craniofacial disorder. The
+recessive mutation maps to an invariant phenylalanine residue corresponding to a position on the structure
+of yeast Sec23p facing away from the surface predicted to abut the cytoplasmic face of the ER, a residue
+not at that time known to have any particular role in coat function or assembly. Orci examined primary
+skin fibroblasts from one of the afflicted children and observed a profound distortion of the ER and an
+accumulation of procollagen consistent with a severe defect in secretion (122). Fortunately for us, Jinoh
+Kim, a courageous postdoc in the lab, had systematically perfected a COPII vesicle budding reaction
+using membranes isolated from cultured mammalian cells (123). Chris Fromme, another ambitious and
+skilled postdoctoral fellow, took up the effort to recapitulate the defect seen in the human F382L mutant
+Sec23A. Chris found conditions that reproduce a budding defect and showed that the defect could be
+suppressed by increasing the level of recombinant human Sec13/31 in a budding reaction. Further he
+showed, with all pure mammalian COPII proteins, that the F382L mutant Sec23A has trouble making
+contact with the Sec13/31 complex as reflected in reduced stimulation of Sar1p GTP hydrolysis (124). At
+the same time, Goldberg’s lab had solved the structure of the yeast Sec23/24 heterodimer in complex with
+a fragment of yeast Sec31 that stimulates the GAP activity of Sec23p (125). The point of closest contact
+between Sec31and Sec23 was located within angstroms of the position corresponding to the human F382
+residue. Thus, the structure of the yeast protein and the functional deficit resulting from mutation in
+humans could be perfectly reconciled.
+
+
+
+
+The COPII coat guides cargo selection in yeast and in mammalian cells and tissues
+In the early 90s the prevailing view was that sorting of secretory and ER resident proteins occurs after
+cargo exits the ER, mediated by retrieval receptors that return escaped resident proteins back to the ER.
+Powerful support for this model came with the discovery and characterization of a retrieval signal and a
+receptor for soluble resident ER proteins such as the luminal hsp70 chaperone, BiP (126). Measurements
+of the rate of traffic of certain artificial proteins introduced into the secretory pathway argue against the
+need for active sorting of secretory proteins en route through the pathway (127). Furthermore, two major
+proteins secreted in the liver appear not to be concentrated in buds that form at the ER exit site, but
+instead later at the point of COPI-mediated resident protein retrieval (128). Although this issue continues
+to be the subject of considerable disagreement (129), the results of our vesicle budding reaction where
+resident proteins are largely excluded from COPII vesicles formed in vitro support an alternative view
+that active protein sorting accompanies the budding reaction and that resident protein retrieval mediated
+by sorting receptors in the Golgi membrane may represent a back up mechanism to reinforce the primary
+
+
+event in the ER (92, 104). Substantial evidence developed over the past 15 years documents a role for
+ER-localized secretory cargo receptors and one particular subunit of the COPII coat, Sec24p, in the
+concentrative sorting of membrane and soluble luminal cargo proteins into COPII transport vesicles
+(130).
+
+
+If secretory proteins are actively sorted into COPII vesicles, it should be possible to define a sorting
+signal by the isolation of point mutant forms that produce properly folded precursors that persist in the
+ER lumen. In practice this has proved difficult because of the uncertainly that a mutant protein may be
+subject to the quality control retention of misfolded proteins in the ER. Irene Schauer, one of the early
+graduate students in my lab, isolated just such a mutant of invertase that accumulates in the ER in what
+appears to be a perfectly active, properly assembled and fully soluble enzyme, but which is secreted from
+the ER 4–5 fold more slowly than normal (65).
+
+
+With respect to membrane cargo proteins, early evidence supported a direct interaction with the inner
+subunits of the COPII coat, Sar1p and Sec23/24p, prior to the complete formation of the coated vesicle.
+Meta Kuehn, a postdoc in the lab, detected an interaction of plasma membrane permease and SNARE
+proteins but not luminal ER resident proteins with the inner COPII subunits dependent on incubation of
+membranes in the presence of a non-hydrolyzable analog of GTP (131). Bill Balch’s lab observed a
+similar interaction of mammalian Sec23/24 with a transit intermediate of the VSV G protein, and
+discovered the interaction depends on a C-terminal sorting sequence, ..DxE., in the G-protein (132).
+Sebastian Springer reinforced this idea with the observation of a stable and selective complex of Sar1p,
+Sec23/24p and pure recombinant forms of the cytosolic domain of two ER SNARE proteins, Bet1p and
+Bos1p (133).
+
+
+For secretory proteins, the best evidence for selective sorting comes from the discovery of ER sorting
+receptors. David Ginsburg’s laboratory identified the genes involved in a rare, combined hemophilia in
+which two blood-clotting factors, V and VIII, are delayed in the ER. One gene encodes a lectin-binding
+membrane protein, ERGIC53 (or LMAN1) (134), that cycles between the ER and Golgi and which is
+actively packaged into COPII vesicles in a cell-free budding reaction prepared from permeabilized
+cultured mammalian cells (previous ref). The heavily glycosylated protein domains of factors V and VIII
+are suggested to interact with the luminal lectin-binding domain of ERGIC 53 to promote their exit from
+the ER (135). An appreciation of the exact role of ERGIC53 as a sorting receptor awaits the development
+of an approach to measure the incorporation of a blood-clotting factor into transport vesicles.
+
+
+A breakthrough in yeast came with the discovery by Charles Barlowe, now in his own laboratory at
+Dartmouth, of the sorting receptor necessary for the transport of α-factor precursor. In a survey of
+membrane proteins in isolated COPII vesicles, Barlowe characterized Erv29p, a protein that had not
+turned up in any genetic screen (136). Deletion of ERV29 produced a viable strain with a pronounced
+defect in the secretion of α-factor, the mature species produced by proteolytic processing of the precursor
+in the trans Golgi (137). Unfortunately, ERV29 had evaded detection in classic selections for pheromone
+deficient yeast mutants because even the 30-fold delay in secretion of α-factor seen in the erv29 deletion
+strain is inadequate to reduce the steady state level of secreted pheromone below that necessary to
+
+
+produce an infertile strain of yeast. Other work showed that ERV29 speeds the transport of a vacuolar
+protease from the ER and likely several other secreted proteins, though notably not invertase (138).
+Barlowe went on to demonstrate that Erv29p is required to package α-factor precursor into COPII
+vesicles in vitro and to map the residues responsible for Erv29p interaction with the precursor (137).
+
+
+One could argue that ERGIC53 and Erv29p serve primarily as species-specific folding chaperones that
+accompany cargo molecules into the cis Golgi and then are recycled for reuse in the ER and that in their
+absence the cognate cargo molecules remain subtly unfolded and subject to quality control retention.
+Such appears to be the case for a large number of species-specific ER membrane chaperones, .eg. Shr3p
+required for the transport of amino acid permeases in yeast, which remain in the ER and do not
+accompany cargo into COPII vesicles (139). However, Per Malkus, a graduate student in my lab, showed
+that α-factor precursor is chemically concentrated 3-fold with respect to a soluble bulk flow marker, a
+glycotripeptide, within COPII vesicles produced in a budding reaction. This result favors a model of
+active sorting as opposed to bulk flow in the capture of cargo proteins into COPII vesicles (140).
+
+
+A complementary line of evidence demonstrates that the COPII coat, specifically the Sec24p subunit,
+directs the selection of cargo molecules during the budding event. Yeast has three paralogs of Sec24,
+mammals have four, and genetic and biochemical evidence shows that several are responsible for the
+capture of particular subsets of cargo membrane proteins. Chris Kaiser’s lab at MIT was the first to
+recognize the important role of the SEC24 paralog he called LSTI in the transport of the major plasma
+membrane ATPase, Pma1p (141). Although deletion of LST1 is not a lethal event, cells are sickly and
+deficient in the surface presentation of the ATPase, which instead accumulates in the ER. Kaiser
+suggested that Lst1p might form an alternate complex with Sec23p to favor the packaging of Pma1p and
+that in its absence, the normal Sec24p may not properly sort Pma1p into COPII vesicles. Yuval Shimoni,
+a postdoc in my lab, proved that directly using a Pma1p budding reaction programmed with either Sec23/
+Sec24p or Sec23/Lst1p. Lst1p dramatically promoted the packaging of Pma1p into COPII vesicles in
+vitro (142).
+
+
+Liz Miller, a wonderfully enthusiastic and talented postdoc, joined the lab to explore the details of cargo
+sorting mediated by COPII. Following Shimoni’s isolation of functional Sec23/Lst1p, Liz found a
+remarkably different spectrum of membrane proteins packaged into vesicles produced by the alternative
+heterodimer, including a defect in the incorporation of α-factor precursor, presumably because Lst1p is
+not required to recognize most membrane cargo or sorting receptor proteins, including Erv29p (143). Liz
+then undertook a detailed mutagenesis study designed to identify the residues of Sec24p devoted to the
+sorting of particular cargo proteins (144). She found mutant alleles that were synthetically lethal when
+one or both of the other SEC24 paralogs was deleted. One mutation mapped to a binding pocket Jonathan
+Goldberg had defined structurally on a lateral surface of Sec24p that interacts with the ..DXE.. sorting
+signal Bill Balch had discovered as important for the traffic of mammalian VSV G protein from the ER
+(132, 145). Using the budding reaction, Liz showed that Sec24p mutations in this binding site were fully
+capable of budding certain cargo but not those dependent on the ..DXE.. sorting motif. Per Malkus had
+identified a ..DXD.. motif in the C-terminal cytoplasmic domain of the yeast amino acid permeases which
+Liz showed was recognized perfectly adequately by a Sec24p mutant that failed to recognize the ..DXE..
+
+
+motif (140). These and many results since then have built up a picture of a Sec24p coat subunit with
+multiple independent cargo binding sites which combined with the two Sec24p paralogs, helps to explain
+how the diverse repertoire of cargo molecules may be deciphered by a combinatorial code.
+
+
+An even greater range of cargo proteins is encountered in the mammalian ER. Two striking examples of
+cargo specificity in sorting mediated by mammalian SEC24 paralogs have been reported. Chain
+terminating mutations in the mouse SEC24B gene cause an extreme form of neural tube closure defect
+referred to as craniorachiscisis (146, 147). The same arrest is seen in deletions of the neural forms of such
+signaling receptors as Frizzled and Vangl, two neural epithelium surface proteins that are assembled on
+the distal and proximal plasma membranes of neural epithelial cells, respectively (148). Using
+permeabilized cultured mammalian cells, Devon Jensen, a graduate student in my lab collaborating with
+the laboratory of David Ginty, found that the Sec24B protein stimulated the packaging specifically of
+Vangl2 protein into COPII vesicles, again consistent with the sequence or structure-selective sorting of
+membrane proteins at the ER (146). Mutant alleles of human SEC24B may appear in children afflicted
+with a genetic form of spina bifida. Xiaowei Chen in David Ginsburg’s lab found a striking cargo
+preference mediated by another paralog, SEC24A. Deletion of SEC24A in the mouse leads to a striking
+decrease in cholesterol levels in the blood that Chen was able to attribute to a defect in ER transport and
+secretion of a soluble serum protein, PCSK9, which controls the itinerary of the LDL receptor (149).
+Lower levels of PCSK9 allow the LDL receptor to cycle efficiently and control cholesterol biosynthesis,
+thus explaining the low cholesterol in animals deficient in PCSK9 secretion. Chen’s results argue that the
+export of PCSK9 from the ER is mediated by a sorting receptor that is recognized and packaged into
+COPII vesicles by SEC24A. The nature of this receptor and its role in sorting of other cargo molecules
+remain to be discovered. It seems likely that many other such sorting receptors in the ER will be found,
+adding to the picture of an active process of cargo selection by the COPII coat, and by extension, by other
+coats involved in the intracellular traffic of membrane and soluble proteins.
+
+
+
+
+Lessons learned and credit given
+Summarizing almost 40 years of work is a daunting experience, but if I may, three key conclusions follow
+from the work I have described:
+
+
+    1.   Secretion and plasma membrane assembly are physically and functionally linked through a
+         series of obligate organelle intermediates.
+    2.   The polypeptide translocation and vesicular traffic machinery has been conserved over a billion
+         years of evolution.
+    3.   The COPII coat sorts cargo molecules by the recognition of transport signals and physically
+         deforms the ER membrane to create budded vesicles.
+
+
+Limitations of space and time have made it impossible to acknowledge all the many contributions of the
+nearly 200 students, fellows and colleagues with whom it has been my privilege to collaborate over the
+years. Although I end this story here, the work continues in my lab in spite of the many distractions that
+the call from Stockholm has brought to my life. I am grateful to the present members of my lab for their
+
+
+patience with me this year but even more importantly for the enthusiasm and dedication they bring to the
+work at hand. None of this would have been possible without the steadfast love and support of my family
+and friends, and the wise investment that the U.S. and California made in building educational and
+research opportunities second to none.
+
+
+The subject of membrane assembly and vesicular traffic is rich with opportunity and remains an area with
+great potential for molecular and even atomic resolution in the years ahead. The connections between
+basic discovery and practical, medical application are certainly more tangible now than when I began my
+independent work in 1976. However, I trust the pursuit of basic discovery unconnected to any practical
+application will continue to motivate young scholars and that the agencies, government and private, that
+made discovery an adventure for me will continue to do so for as long as we thirst for knowledge of the
+natural world.
+
+
+REFERENCES
+
+
+     1.   Palade, G. (1975). “Intracellular aspects of protein secretion.” Science 189: 347–358.
+     2.   Kornberg, A., Lehman, I. R., Bessman, M. J. & Simms, E. S. “Enzymatic synthesis of
+          desoxyribonucleic acid.” Biochim. Biophys. Acta 21, 197–198 (1956).
+     3.   De Lucia, P. and Cairns, J. (1969). “Isolation of an E. coli Strain with a Mutation affecting
+          DNA Polymerase.” Nature 224, 1164–1166.
+     4.   Josse, J., Kaiser, A.D. and Arthur Kornberg (1961). “Enzymatic Synthesis of
+          Deoxyribonucleic Acid: VIII. Frequencies of the nearest neighbor base sequences in
+          deoxyribonucleic acid.” J. Biol. Chem. 236: 864–875.
+     5.   Goulian, M. and Kornberg, A. (1967). “Enzymatic synthesis of DNA, XXIII, Synthesis of
+          circular replicative form phage φX174 DNA.” Proc. Natl. Acad. Sci. USA 58: 1723–1730
+     6.   Goulian, M., Kornberg, A. and Sinsheimer, R.L. (1967). “Enzymatic synthesis of DNA,
+          XXIV. Synthesis of infectious phage φX174 DNA.” Proc. Natl. Acad. Sci.,USA 58 (6) 2321–
+          2328.
+     7.   Kelly, R., Atkinson, M., Huberman, J., and Kornberg, A. (1969). “Excision of Thymine
+          Dimers and Other Mismatched Sequences by DNA Polymerase of Escherichia coli.” Nature
+          224, 495–501.
+     8.   De Waard, A., Paul, A., and Lehman, I.R. (1965). “The structural gene for deoxyribonucleic
+          acid polymerase in bacteriophages T4 and T5.” Proc. Natl. Acad. Sci. USA 54: 1241–1248.
+     9.   Hirota, Y., Ryter, A., and Jacob F. “Thermosensitive mutants of E. coli affected in the
+          processes of DNA synthesis and cellular division.” Cold Spring Harb Symp Quant Biol.
+          (1968) 33: 677–693.
+     10. Fangman, W. and Novick, A. (1968). “Characterization of two bacterial mutants with
+          temperature-sensitive synthesis of DNA.” Genetics 60: 1–17.
+     11. Kornberg, T. & Gefter, M. L. “DNA synthesis in cell-free extracts of a DNA polymerase-
+          defective mutant.” Biochem. Biophys. Res. Commun. 40, 1348–1355 (1970).
+     12. Gefter, M., Hirota, Y., Kornber, T., Wechsler, J. and Barnoux, C. (1971). “Analysis of DNA
+          polymerases II and III in mutants of Escherichia coli thermosensitive for DNA Synthesis.”
+          Proc. Natl. Acad. Sci., USA. 68: 3150–3153.
+     13. Watson, J.D. (1966). The Molecular Biology of the Gene (W.A. Benjamin, New York).
+     14. Epstein, R., Bolle, A., Steinberg, C., Kellenberger, E., Boy de la Tour, E., Chevalley, R.,
+          Edgard, R., Susman, M., Denhardt, G., and Leilausis, A. (1963). “Physiological Studies of
+          Conditional Lethal Mutants of Bacteriophage T4D.” Cold Spring Harbor Symposia on
+          Quantitative Biology, 28: 375–394.
+     15. Benzer, S. (1957). The elementary units of heredity. In a symposium on the chemical basis of
+          heredity, edited by W.D. McElroy and B. Glass. Baltimore: The Johns Hopkins Press, p. 70–
+          133.
+     16. Edgar, R. and Wood, W., (1966). “Morphogenesis of bacteriophage T4 in extracts of mutant–
+          infected cells.” Proc. Natl. Acad. Sci. USA 55: 498–505.
+     17. Brutlag, D., Schekman, R. W., and Kornberg, A. (1971). “A possible role for RNA
+          polymerase in the initiation of M13 DNA synthesis.” Proc. Natl. Acad. Sci. USA 68, 2826.
+
+
+18. Wickner, W., Brutlag, D., Schekman, R., and Kornberg, A. (1972). “RNA synthesis initiates
+    in vitro conversion of M13 DNA to its replicative form.” Proc. Natl. Acad. Sci. USA 69, 965.
+19. Schekman, R. W., Wickner, W., Westergaard, O., Brutlag, D., Geider, K., Bertsch, L. L., and
+    Kornberg, A. (1972). “Initiation of DNA synthesis: synthesis of φX174 replicative form
+    requires RNA synthesis resistant to rifampicin.” Proc. Natl. Acad. Sci. USA 69, 2691.
+20. Olivera, B. and Bonhoeffer, F. (1972). “Replication of φX174 DNA by polA- in vitro.” Proc.
+    Natl. Acad. Sci USA 69: 25–29.
+21. Barry, J. and Alberts, B. (1972). “In vitro complementation as an assay for new proteins
+    required for bacteriophage T4 DNA replication: Purification of the complex specified by T4
+    genes 44 and 62.” Proc. Natl. Acad. Sci. USA 69: 2717–2721.
+22. Schekman, R., Weiner, A., and Kornberg, A. (1974). “Multienzyme systems of DNA
+    replication.” Science 186, 987.
+23. Hartwell, L., Mortimer, R., Culotti, J., and Culotti, M. (1973). “Genetic control of cell
+    division cycle in yeast: Genetic analysis of cdc mutants.” Genetics 74: 267–286.
+24. Redman, C., Siekevitz, P., and Palade, G. (1966). “Synthesis and Transfer of Amylase in
+    Pigeon Pancreatic Microsomes.” J. Biol. Chem. 241: 1150–1158.
+25. Redman, C. and Sabatini, D. (1966). “Vectorial discharge of peptides released by puromycin
+    from attached ribosomes.” Proc. Natl. Acad. Sci. USA 56: 608–615.
+26. Singer, S.J. and Nicholson, G. (1972). “The fluid mosaic model of membrane structure.”
+    Science 175 (4023): 720–31.
+27. Tokuyasu, K. (1973). “A technique for ultracryotomy of cell suspensions and tissues.” J. Cell
+    Biol. 57: 551–565.
+28. Hirano, H., Parkhouse, B, Nicholson, G., Lennox, E., and Singer, S.J. (1972). “Distribution
+    of saccharide residues on membrane fragments from a melanoma cell homogenate: Its
+    implications for membrane biogenesis.” Proc. Natl. Acad. Sci. USA 69: 2945–2949.
+29. Schekman, R. and Singer, S. J. (1976). “Clustering and endocytosis of membrane receptors
+    can be induced in mature erythrocytes of neonatal humans but not adults.” Proc. Natl. Acad.
+    Sci. USA 73, 4075.
+30. Blobel, G. and Dobberstein B. (1975a). “Transfer of proteins across membranes. I. Presence
+    of proteolytically processed and unprocessed nascent immunoglobulin light chains on
+    membrane-bound ribosomes of murine myeloma.” J. Cell Biol. 67: 835–51.
+31. Blobel G. and Dobberstein B. (1975b). “Transfer of proteins across membranes. II.
+    Reconstitution of functional rough microsomes from heterologous components.” Journal of
+    Cell Biology 67: 852–862.
+32. Byers, B. and Goetsch, L. (1976). “A highly ordered ring of membrane-associated filaments
+    in budding yeast.” J. Cell Biol. 69: 7171–721.
+33. Cabib, E. and Bowers, B. (1971). “Chitin and yeast budding.” J. Biol Chem. 246: 152–159.
+34. Byers, B. and Goetsch, L. (1974). “Duplication of spindle plaques and integration of the
+    yeast cell cycle.” Cold Spring Harb Symp Quant Biol.:38: 123–131
+35. Boer, P., Van Rijn, H.J., Reinking, A., Seryn-Parvé, E.P. (1975). “Biosynthesis of acid
+    phosphatase of baker's yeast. Characterization of a protoplast-bound fraction containing
+    precursors of the exo-enzyme.” Biochim Biophys Acta. Feb 19;377(2): 331–342.
+
+
+36. Scott, J. H. and Schekman, R. (1980). “Lyticase: Endoglucanase and protease activities that
+    act together in yeast cell lysis.” J. Bact. 142, 414.
+37. Novick, P. and Botstein, D. (1985). “Phenotypic analysis of temperature-sensitive yeast actin
+    mutants.” Cell 40(2): 405–16.
+38. Schekman, R. and Brawley, V. (1979). “Localized deposition of chitin on the yeast cell
+    surface in response to mating pheromone.” Proc. Natl. Acad. Sci. USA 76, 645.
+39. Henry, S., Atkinson, K., Kolat, A., and Culbertson, M. (1977). “Growth and metabolism of
+    inositol-starved Saccharomyces cerevisia .” J. Bact. 130: 472–484.
+40. Novick, P. and Schekman, R. (1979). “Secretion and cell surface growth are blocked in a
+    temperature sensitive mutant of Saccharomyces cerevisiae.” Proc. Natl. Acad. Sci. USA 76,
+    1858–1862.
+41. Novick, P., Field, C., and Schekman, R. (1980). “The identification of 23 complementation
+    groups required for post-translational events in the yeast secretory pathway.” Cell 21, 205–
+    215.
+42. Novick, P., Ferro, S., and Schekman, R. (1981). “Order of events in the yeast secretory
+    pathway.” Cell 25, 461–469.
+43. Kaiser, C. A. and Schekman, R. (1990). “Distinct sets of SEC genes govern transport vesicle
+    formation and fusion early in the secretory pathway.” Cell 61, 723–733.
+44. Esmon, B., Novick, P., and Schekman, R. (1981). “Compartmentalized assembly of
+    oligosaccharides on exported glycoproteins.” Cell 25, 451–460.
+45. Stevens, T., Esmon, B., and Schekman, R. (1982). “Early stages in the yeast secretory
+    pathway are required for transport of carboxypeptidase Y to the vacuole.” Cell 30, 439–448.
+46. Valenzuela, P., Medina, M., Rutter, W., Ammerer, G., and Hall, B. (1982). “Synthesis and
+    assembly of hepatitis B surface antigen particles in yeast.” Nature 298: 347–350.
+47. Ferro-Novick, S., Novick, P., Field, C., and Schekman, R. (1984). “Yeast secretory mutants
+    that block the formation of active cell surface enzymes.” J. Cell Biol. 98, 35–43.
+48. Kepes, F. and Schekman, R. (1988). “The yeast SEC53 gene encodes
+    phosphomannomutase.” J. Biol. Chem. 263, 9155–9161.
+49. Bernstein, M., Kepes, F., and Schekman, R. (1989). “SEC59 encodes a membrane protein
+    required for core glycosylation in yeast.” Mol. Cell. Biol. 9, 1191–1199.
+50. Silhavy, T.J., Casadaban, M.J., Shuman, H.A., and Beckwith, J.R. “Conversion of beta-
+    galactosidase to a membrane-bound state by gene fusion.” Proc Natl Acad Sci U S A. 1976
+    Oct;73(10): 3423–3427.
+51. Emr, S. D., Schauer, I., Hansen, W., Esmon, P., and Schekman, R. (1984). “Invertase β-
+    galactosidase hybrid proteins fail to be transported from the endoplasmic reticulum in yeast.”
+    Mol. Cell Biol. 4, 2347–2356.
+52. Oliver, D.B. and Beckwith, J. (1981). “E. coli mutant pleiotropically defective in the export
+    of secreted proteins.” Cell. Sep;25(3):765–72.
+53. Emr, S.D. and Silhavy, T.J. (1980). “Mutations affecting localization of an Escherichia coli
+    outer membrane protein, the bacteriophage lambda receptor.” J. Mol. Biol.; 141: 63–90.
+
+
+54. Shiba, K., Ito, K., Yura, T., and Cerretti, D.P. “A defined mutation in the protein export gene
+    within the spc ribosomal protein operon of Escherichia coli: isolation and characterization of
+    a new temperature-sensitive secY mutant.” EMBO J. 1984 Mar;3(3):631–635.
+55. Deshaies, R. and Schekman, R. (1987). “A yeast mutant defective at an early stage in import
+    of secretory protein precursors into the endoplasmic reticulum.” J. Cell Biol. 105, 633–645.
+56. Rothblatt, J. A., Deshaies, R. J., Sanders, S., Daum, G., and Schekman, R. (1989). “Multiple
+    genes are required for proper insertion of secretory proteins into the endoplasmic reticulum in
+    yeast.” J. Cell Biol. 109, 2641–2652.
+57. Stirling, C. A., Rothblatt, J., Hosobuchi, M., Deshaies, R., and Schekman, R. (1992). “Protein
+    translocation mutants defective in the insertion of integral membrane proteins into the
+    endoplasmic reticulum.” Mol. Biol. Cell 3, 129–142.
+58. Gorlich, D., Prehn, S., Hartmann, E., Kalies, K-U., and Rapoport, T. (1992). “A mammalian
+    homolog of SEC61p and SECYp is associated with ribosomes and nascent polypeptides
+    during translocation.” Cell 71: 489–503
+59. Nakano, A., Brada, D., and Schekman, R. (1988). “A membrane glycoprotein, Sec12p,
+    required for protein transport from the endoplasmic reticulum to the Golgi apparatus in
+    yeast.” J. Cell Biol. 107, 851–863.
+60. Gorlich, D. and Rapoport, T. (1993). “Protein translocation into proteoliposomes
+    reconstituted from purified components of the endoplasmic reticulum membrane.” Cell 75:
+    615–630.
+61. Hansen, W., Garcia, P., and Walter, P. (1986). “In vitro protein translocation across the yeast
+    endoplasmic reticulum: ATP-dependent posttranslational translocation of the prepro-alpha-
+    factor.” Cell 45: 397–406.
+62. Pelham, H. (1986). “Speculations on the functions of the major heat shock and glucose-
+    regulated proteins.” Cell 46: 959–961.
+63. Deshaies, R. J., Koch, B. D., Werner-Washburne, M., Craig, E. A., and Schekman, R. (1988).
+    “A subfamily of stress proteins facilitates translocation of secretory and mitochondrial
+    precursor polypeptides.” Nature 332, 800–805.
+64. Chirico, W. J., Waters, M. G., and Blobel, G. (1988). “70K heat shock related proteins
+    stimulate protein translocation into microsomes.” Nature 332, 805−810.
+65. Schauer, I., Emr, S., Gross, C., and Schekman, R. (1985). “Invertase signal and mature
+    sequence substitutions that delay intercompartmental transport of active enzyme.” J. Cell
+    Biol., 100, 1664–1675.
+66. Novick, P. and Schekman, R. (1983). “Export of major cell surface proteins is blocked in
+    yeast secretory mutants.” J. Cell Biol. 96, 541–547.
+67. Böhni, P. C., Deshaies, R. J., and Schekman, R. W. (1988). “SEC11 is required for signal
+    peptide processing and yeast cell growth.” J. Cell Biol. 106, 1035–1042.
+68. Greenberg, G., Shelness, G and Blobel, G. (1989). “A subunit of the mammalian signal
+    peptidase is homologous to the yeast SEC11 protein.” J. Biol. Chem. 264: 15762–5.
+69. Hinnen, A., Hicks, J., and Fink, G. (1978). “Transformation of yeast.” Proc. Natl. Acad. Sci.
+    USA 75: 1929–1933.
+
+
+70. Haselbeck, A. and Schekman, R. (1986). “Interorganelle transfer and glycosylation of yeast
+    invertase in vitro.” Proc. Natl. Acad. Sci. USA 83, 2017–2021.
+71. Fries, E. and Rothman, J.E. (1980). “Transport of vesicular stomatitis virus glycoprotein in a
+    cell-free extract.” Proc. Natl. Acad. Sci. USA 77: 3870–3874
+72. Bernstein, M., Hoffmann, W., Ammerer, G., and Schekman, R. (1985). “Characterization of
+    a gene product (Sec53p) required for protein assembly in the yeast endoplasmic reticulum.”
+    J. Cell Biol. 101, 2374–2382.
+73. Eakle, K., Bernstein, M., and Emr, S. (1988). “Characterization of a component of the yeast
+    secretion machinery: identification of the SEC18 gene product.” Mol. Cell Biol. 8: 4098–
+    4109.
+74. Salminen, A. and Novick, P.J. (1987). “A ras-like protein is required for a post-Golgi event
+    in yeast secretion.” Cell 49, 527–538.
+75. Gengyo-Ando, K., Kamiya, Y., Yamanaka, A., Kodaira, I. K., Nishiwaki, K., Miwa, J., Hori,
+    I., and Hosono R. “The C. elegans unc-18 gene encodes a protein expressed in motor
+    neurons.” Neuron. 1993;11: 703–711.
+76. Brenner, S. “The genetics of Caenorhabditis elegans.” Genetics. 1974;77: 71–94.
+77. Wilson, D.W., Wilcox, C.A., Flynn, G.C., Chen, E., Kuang, W.J., Henzel, W.J., Block, M.R.,
+    Ullrich, A., and Rothman, J.E. (1989). “A fusion protein required for vesicle-mediated
+    transport in both mammalian cells and yeast.” Nature 339: 355–359.
+78. Griff, I. C., Schekman, R., Rothman, J. E., and Kaiser, C. A. (1992). “The yeast SEC17 gene
+    product is functionally equivalent to mammalian α-SNAP protein.” J. Biol. Chem. 267,
+    12106–12115.
+79. Roth, T. and Porter, K., (1964). “Yolk protein uptake in the oocyte of the mosquito Aedes
+    aegypti.” J. Cell Biol. 20: 313–331.
+80. Pearse, B. (1976). “Clathrin: a unique protein associated with intracellular transfer of
+    membrane by coated vesicles.” Proc. Natl. Acad. Sci USA 73: 1255–1259.
+81. Rothman, J. and Fine, R. (1980). “Coated vesicles transport newly-synthesized membrane
+    glycoproteins to plasma membrane in two successive stages.” Proc Natl. Acad. Sci USA 77:
+    280–284.
+82. Payne, G. S. and Schekman, R. (1985). “A test of clathrin function in protein secretion and
+    cell growth.” Science 230, 1009–1014.
+83. Lemmon, S. and Jones, E. (1987). “Clathrin requirement for normal growth of yeast.”
+    Science 238: 504–509.
+84. Payne, G. S., and Schekman, R. (1989). “Clathrin: A role in the intracellular retention of a
+    Golgi membrane protein.” Science 245, 1358–1365.
+85. Orci, L., Ravazzola, M., Storch, M-J., Anderson, R., Vassalli, J-D., and Perrelet, A. (1987).
+    “Proteolytic maturation of insulin is a post-Golgi event which occurs in acidifying clathrin-
+    coated secretory vesicles.” Cell 49: 865–868.
+86. Baker, D., Hicke, L., Rexach, M., Schleyer, M., and Schekman, R. (1988). “Reconstitution of
+    Sec gene product-dependent intercompartmental protein transport.” Cell 54, 335–344.
+
+
+87. Ruohola, H., Kabcenell, A., and Ferro-Novick, S. (1988). “Reconstitution of protein transport
+    from the endoplasmic reticulum to the Golgi complex in yeast: The acceptor Golgi
+    compartment is defective in the sec23 mutant.” J. Cell Bio. 107: 1465–76.
+88. Hicke, L., Yoshihisa, T., and Schekman, R. (1992). “Sec23p and a novel 105 kD protein
+    function as a multimeric complex to promote vesicle budding and protein transport from the
+    ER.” Mol. Biol. Cell 3, 667–676.
+89. Nakano, A. and Muramatsu, M. (1989). “A novel GTP-binding protein, Sar1p, is involved in
+    transport from the endoplasmic reticulum to the Golgi apparatus.” J Cell Biol, 109: 2677–
+    2691.
+90. d'Enfert, C., Wuestehube, L. J., Lila, T., and Schekman, R. (1991). “Sec12p-dependent
+    membrane binding of the small GTP-binding protein Sar1p promotes formation of transport
+    vesicles from the ER.” J. Cell Biol. 114, 663–670.
+91. Barlowe, C., d'Enfert, C., and Schekman, R. (1993). “Purification and characterization of
+    SAR1p, a small GTP-binding protein required for transport vesicle formation from the
+    endoplasmic reticulum.” J. Biol. Chem. 268, 873–879.
+92. Rexach, M. and Schekman, R. (1991). “Distinct biochemical requirements for the budding,
+    targeting, and fusion of ER-derived transport vesicles.” J. Cell Biology 114, 219–229.
+93. Groesch, M., Ruohola, H., Bacon, R., Rossi, G., and Ferro-Novick, S. (1990). “Isolation of a
+    functional vesicle intermediate that mediates ER-Golgi transport in yeast.” J Cell Biol. 111:
+    45–53.
+94. Espenshade P., Gimeno R. E., Holzmacher E., Teung P., and Kaiser C. A., (1995). “Yeast
+    SEC16 gene encodes a multidomain vesicle coat protein that interacts with Sec23p.” J. Cell
+    Biol. 131: 311–324
+95. Pryer, N. K., Salama, N. R., Schekman, R., and Kaiser, C. A. (1993). “Cytosolic Sec13p
+    complex is required for vesicle formation from the endoplasmic reticulum in vitro.” J. Cell
+    Biol. 120, 865–875.
+96. Salama, N. R., Yeung, T., and Schekman, R. (1993). “The Sec13p complex and
+    reconstitution of vesicle budding from the ER with purified cytosolic proteins.” EMBO J. 12,
+    4073–4082.
+97. Malhotra, V., Serafini, T., Orci, L., Shepherd, J.C., and Rothman, J.E. (1989). “Purification
+    of a novel class of coated vesicles mediating biosynthetic protein transport through the Golgi
+    stack.” Cell. 58: 329–336
+98. Hosobuchi, M., Kreis, T., and Schekman, R. (1992). “SEC21 is a gene required for ER to
+    Golgi protein transport that encodes a subunit of a yeast coatomer.” Nature 360, 603–605.
+99. Yoshihisa, T., Barlowe, C., and Schekman, R. (1993). “Requirement for a GTPase-activating
+    protein in vesicle budding from the endoplasmic reticulum.” Science 259, 1466–1468.
+100. Barlowe, C. and Schekman, R. (1993). “SEC12 encodes a guanine nucleotide exchange
+    factor essential for transport vesicle formation from the ER.” Nature 365, 347–349.
+101. Antonny, B., Madden, D., Hamamoto, S., Orci, L., and Schekman, R. (2001). “Dynamics of
+    the COPII coat with GTP and stable analogues.” Nature Cell Biol. 3, 531–537.
+
+
+102. Melancon, P., Glick, B.S., Malhotra, V., Weidman, P.J., Serafini, T., Gleason, M.L., Orci,
+    L., and Rothman, J.E. (1987). “Involvement of GTP-binding “G” proteins in transport
+    through the Golgi stack.” Cell. 51: 1053–1062.
+103. Orci, L., Ravazzola, M., Meda, P., Holcomb, C., Moore, H-P., Hicke, L., and Schekman, R.
+    (1991). “Mammalian Sec23p homologue is restricted to the endoplasmic reticulum
+    transitional cytoplasm.” Proc. Natl. Acad. Sci. USA 88, 8611–8615.
+104. Barlowe, C., Orci, L.,Yeung, T., Hosobuchi, M., Hamamoto, S., Salama, N., Rexach, M. F.,
+    Ravazzola, M., Amherdt, M., and Schekman, R. (1994). “COPII: A membrane coat formed
+    by Sec proteins that drive vesicle budding from the endoplasmic reticulum.” Cell 77, 895–
+    907.
+105. Bednarek, S. Y., Ravazzola, M., Hosobuchi, M., Amherdt, M., Perrelet, A., Schekman, R.,
+    and Orci, L. (1995). “COPI- and COPII-coated vesicles bud directly from the endoplasmic
+    reticulum in yeast.” Cell 83, 1183–1196.
+106. Campbell, J. L. and Schekman, R. (1997). “Selective packaging of cargo molecules into
+    endoplasmic reticulum-derived COPII vesicles.” Proc. Natl. Acad. Sci. USA 94, 837–842.
+107. Supek, F., Madden, D. T., Hamamoto, S., Orci, L., and Schekman, R. (2002). “Sec16p
+    potentiates the action of COPII proteins to bud transport vesicles.” J. Cell Biol. 158, 1029–
+    1038.
+108. Kung, L. F., Pagant, S., Futai, E., D’Arcangelo, J. G., Buchanan, R., Dittmar, J. C., Reid, R.
+    J. D., Rothstein, R., Hamamoto, S., Snapp, S., Schekman, R., and Miller, E. A. (2011).
+    “Sec24p and Sec16p cooperate to regulate the GTP cycle of the COPII coat.” EMBO J. 31,
+    1014–1027.
+109. Yeung, T., Barlowe, C., and Schekman, R. (1995). “Uncoupled packaging of targeting and
+    cargo molecules during transport vesicle budding from the endoplasmic reticulum.” J. Biol.
+    Chem. 270, 30567–30570.
+110. Springer, S., Spang, A., and Schekman, R. (1999). “A primer on vesicle budding.” Cell 97,
+    145–148.
+111. Matsuoka, K., Orci, L., Amherdt, M., Bednarek, S.Y., Hamamoto, S., Schekman, R., and
+    Yeung, T. (1998). “COPII-Coated vesicle formation reconstituted with purified coat proteins
+    and chemically defined liposomes.” Cell 93, 263–275.
+112. Futai, E., Hamamoto, S., Orci, L., and Schekman, R. (2004). “GTP/GDP exchange by
+    Sec12p enables COPII vesicle bud formation on synthetic liposomes.” EMBO J., 4146–4155
+113. Bacia, K., Kutai, E., Prinz, D., Meister, A., Daum, S., Glatte, D., Briggs, J.A.G., and
+    Schekman, R. (2011). “Multibudded tubules formed by COPII on artificial liposomes.”
+    Scientific Reports, 1, 17.
+114. Huang, M., Weissman, J., Beraud, S., Luan, P., Wang, C., Chen, W., Aridor, M., Wilson, I.,
+    and Balch, W. (2001). “Crystal structure of Sar1-GDP at 1.7 Å.” J Cell Biol. 155: 937–948.
+115. Sheetz, M. and Singer, S.J. (1974). “Biological membranes as bilayer couples. A mechanism
+    of drug-erythrocyte interactions.” Proc. Natl. Acad. Sci USA 71: 4457–4461.
+116. Lee, M. C, Orci, L., Hamamoto, S., Futai, E., Ravazzola, M., and Schekman, R. (2005).
+    “Sar1p N-terminal helix initiates membrane curvature and completes the fission of a COPII
+    vesicle.” Cell. Aug 26;122(4): 605–17.
+
+
+117. Bi, X., Corpina, R., and Goldberg, J. (2002). “Structure of the Sec23/24-Sar1 pre-budding
+    complex of the COPII coat.” Nature 419: 271–277.
+118. Stagg, S. M., Gürkan, C., Fowler, D. M., LaPointe, P., Foss, T. R., Potter, C.S., Carragher,
+    B., and Balch, W.E. (2006). “Structure of the Sec13/31 COPII coat cage.” Nature 439: 234–
+    238.
+119. Fath, S., Mancias, J. D., Bi, X., and Goldberg, J. (2007). “Structure and organization of coat
+    proteins in the COPII cage.” Cell 129: 1325–1336.
+120. Zanetti, G., Prinz, S., Daum, S., Meister, A., Schekman, R., Bacia, K., and Briggs, J.A.G.
+    (2013). “The structure of the COPII coat assembled on membranes.” eLife (2013) 2, e00951.
+121. Jin, L., Pahuja, K. B., Wickliffe, K. E., Gorur, A., Baumgartel, C., Schekman, R., and Rape,
+    M. (2012). “biquitin-dependent regulation of COPII coat size and function.” Nature 482,
+    495–500.
+122. Boyadjiev, S. A., Fromme, J. C., Ben, J., Chong, S. S., Nauta, C., Hur, D. J., Zhang, G.,
+    Hamamoto, S., Schekman, R., Ravazzola, M., Orci, L., and Eyaid, W. (2006). “Cranio-
+    lenticulo-sutural dysplasia is caused by a SEC23A mutation leading to abnormal
+    endoplasmic-reticulum-to-Golgi trafficking.” Nature Gen. 38, 1192–1197.
+123. Kim, J., Hamamoto, S., Ravazzola, M., Orci, L.,, and Schekman, R. (2004). “Uncoupled
+    packaging of amyloid precursor protein and presenilin 1 into COPII vesicles.” J. Biol. Chem.,
+    published online, December 2004, 10.1074.
+124. Fromme, J. C., Ravazzola, M., Hamamoto, S., Al-Balwi, M., Eyaid, W., Boyadjiev, S. A.,
+    Cosson, R., Schekman, R., and Orci, L. (2007). “he genetic basis of a craniofacial disease
+    provides insight into COPII coat assembly.” Developmental Cell, 13, 623–634.
+125. Bi, X. et al. (2007). “Insights into COPII coat nucleation from the structure of Sec23–Sar1
+    complexed with the active fragment of Sec31.” Dev. Cell 13, 635–645.
+126. Semenza, J., Hardwick, K., Dean, N. and Pelham, H. (1990). “ERD2, a yeast gene required
+    for the receptor-mediated retrieval of ER luminal proteins from the secretory pathway.” Cell
+    61: 1349–1357.
+127. Wieland, F., Gleason, M., Serafini, T., and Rothman, J. (1987). “The rate of bulk flow from
+    the endoplasmic reticulum to the cell surface.” Cell 50: 289–300.
+128. Martinez-Menarguez, J., Geuze, H., Slot, J., and Klumpermann, J., (1999). “Vesicular
+    tubular clusters between the ER and Golgi mediate concentration of soluble secretory
+    proteins by exclusion from COPI-coated vesicles.” J. Cell Biol. 98: 81–90.
+129. Thor, F., Gautschi, M., Geiger, R. and Helenius, A. (2009). “Bulk flow revisited: Transport
+    of a soluble protein in the secretory pathway. Traffic 10: 1819–1830.
+130. Zanetti, G., Pahuja, K. B, Studer, S., Shim, S., and Schekman, R. (2011). “COPII and the
+    regulation of protein sorting in mammals.” Nature Cell Biol. 14, 20–28.
+131. Kuehn, M. T., Herrmann, J. M., and Schekman, R. (1998). “COPII-cargo interactions direct
+    protein sorting into ER-derived transport vesicles.” Nature 391, 187–190.
+132. Nishimura, N. and Balch, W. (1997). “A di-acidic signal required for selective export from
+    the endoplasmic reticulum.” Science 277: 556–558.
+133. Springer, S. and Schekman, R. (1998). “Nucleation of COPII vesicular coat complex by ER
+    to Golgi v-SNAREs.” Science 281, 698–700.
+
+
+134. Nichols, W.C., Seligsohn, U., Zivelin, A., Terry, V.H., Hertel, C.E., Wheatley, M.A.,
+    Moussalli, M.J., Hauri, H.P., Ciavarella, N., Kaufman, R.J., and Ginsburg, D. (1998).
+    “Mutations in the ER-Golgi intermediate compartment protein ERGIC-53 cause combined
+    deficiency of coagulation factors V and VIII.” Cell: 93: 61–70.
+135. Moussalli, M., Pipe, S.W., Hauri, H.P., Nichols, W.C., Ginsburg, D., and Kaufman, R.J.
+    (1999). “Mannose-dependent endoplasmic reticulum (ER)-Golgi intermediate compartment-
+    53-mediated ER to Golgi trafficking of coagulation factors V and VIII.” J Biol Chem. 12:
+    32539–42.
+136. Belden, W.J. and Barlowe, C. (1996). “Erv25p, a component of COPII-coated vesicles,
+    forms a complex with Emp24 that is required for efficient endoplasmic reticulum to Golgi
+    transport.” J Biol Chem.271: 26939–26946.
+137. Belden, W. J. and Barlowe, C. (2001). “Role of Erv29p in collecting soluble secretory
+    proteins into ER-derived transport vesicles.” Science 294, 1528–1531.
+138. Caldwell, S., Hill, K., and Cooper, A. (2001). “Degradation of ER quality control substrates
+    requires transport between the ER and Golgi.” J. Biol. Chem. 276: 23296–23303.
+139. Kuehn, M., Schekman, R., and Ljungdahl, P. (1996). “Amino acid permeases require COPII
+    components and the ER resident membrane protein in Shr3p for packaging into transport
+    vesicles in vitro.” J. Cell Biol. 135, 585–595
+140. Malkus, P., Jiang, F., and Schekman, R. (2002). “Concentrative sorting of secretory cargo
+    proteins into COPII-coated vesicles.” J. Cell Biol. 159, 915–921.
+141. Roberg, K., Crotwell, P., Espenshade, R., Gimeno, C., and Kaiser, C. (1999). “LST1 is a
+    SEC24 homologue used for selective export of the plasma membrane ATPase from the
+    endoplasmic reticulum.” J. Cell Biol.145: 659–672.
+142. Shimoni, Y., Kurihara, T., Ravazzola, M., Amherdt, M., Orci, L., and Schekman, R. (2000).
+    “Lst1p and Sec24p cooperate in sorting of the plasma membrane ATPase into COPII vesicles
+    in Saccharomyces cerevisiae.” J. Cell Biol. 151, 973–984.
+143. Miller, E., Antonny, B., Hamamoto, S., and Schekman, R. (2002). “Cargo selection into
+    COPII vesicles is driven by the Sec24p subunit.” EMBO J. 21, 6105–6113.
+144. Miller, E., Beilharz, T. H., Malkus, P. N., Lee, M.C.S., Hamamoto, S., Orci, L., and
+    Schekman, R. (2003). “Multiple cargo binding sites on the COPII subunit Sec24p ensure
+    capture of diverse membrane proteins into transport vesicles.” Cell 114, 1–20.
+145. Mosseseva, E., Bickford, L.C., and Goldberg, J., (2003). “SNARE selectivity of the COPII
+    coat.” Cell 114: 483–495
+146. Merte, J., Jensen, D., Wright, K., Sarsfield, S., Wang, Y., Schekman, R., and Ginty, D. D.
+    (2010). “Sec24b selectively sorts Vang12 to regulate planar cell polarity during neural tube
+    closure.” Nature Cell Biol. 12: 4–46.
+147. Wansleeben, C., Feitsma, H., Montcouquiol, M., Kroon, C., Cuppen, E., and Meljlink, F.
+    (2010). “Planar cell polarity defects and defective Vangl2 trfficking in mutants for the COPII
+    gene Sec24b.” Development 137: 1067–1073.
+148. Wu, J. and Mlodzik, M. (2009). “A quest for the mechanism regulating global planar cell
+    polarity.” Trends in Cell Biology 19: 295–305.
+149. Chen, X.-Y,E., Baines, E., Yu, G., Sartor, M.A., Zhang, B., Yi, Z., Lin, J., Young, S. G.,
+
+
+Schekman, R., and Ginsburg, D. (2013). “SEC24A Deficiency Lowers Plasma Cholesterol
+through Reduced PCSK9 Secretion.” eLife, April 9; 2:e00444.doi:10.7554/eLife.00444.
+

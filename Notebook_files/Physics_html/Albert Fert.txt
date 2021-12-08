@@ -1,0 +1,1092 @@
+THE ORIGIN, DEVELOPMENT
+AND FUTURE OF SPINTRONICS
+
+Nobel Lecture, December 8, 2007
+by
+
+Albert Fert
+Unité Mixte de Physique CNRS/Thales, 91767, Palaiseau, and Université
+Paris-Sud, 91405, Orsay, France.
+
+
+
+
+OVERVIEW
+Electrons have a charge and a spin, but until recently, charges and spins have
+been considered separately. In conventional electronics, the charges are mani-
+pulated by electric fields but the spins are ignored. Other classical technolo-
+gies, magnetic recording for example, are using the spin but only through
+its macroscopic manifestation, the magnetization of a ferromagnet. This
+picture started to change in 1988 when the discovery1-2 of the Giant Magneto-
+Resistance (GMR) of the magnetic multilayers opened the way to an efficient
+control of the motion of the electrons by acting on their spin through the ori-
+entation of a magnetization. This rapidly triggered the developments of a new
+field of research and technology, today called spintronics and, like the GMR,
+exploiting the influence of the spin on the mobility of the electrons in ferro-
+magnetic materials. Actually, the influence of the spin on the mobility of the
+electrons in ferromagnetic metals, first suggested by Mott3, had been experi-
+mentally demonstrated and theoretically described in my Ph.D. thesis more
+than ten years before the discovery of 1988. The GMR was the first step on the
+road of the exploitation of this influence to control an electrical current. Its
+application to the read head of hard discs greatly contributed to the fast rise
+in the density of stored information and led to the extension of the hard disk
+technology to consumer’s electronics. Then, the development of spintronics
+revealed many other phenomena related to the control and manipulation
+of spin currents. Today this field of research is extending considerably, with
+very promising new axes like the phenomena of spin transfer, spintronics with
+semiconductors, molecular spintronics or single-electron spintronics.
+
+
+FROM SPIN DEPENDENT CONDUCTION IN FERROMAGNETS
+TO GIANT MAGNETORESISTANCE
+GMR and spintronics take their roots in previous researches on the influence
+of the spin on the electrical conduction in ferromagnetic metals3-5. The spin
+
+                                                                             59
+
+
+     n (E)
+                  (a)    EF
+                                                             0.3
+                                                (b)
+                                  E
+
+
+
+
+     n (E)
+                                                                              20
+                       (c)
+     I
+
+     I
+              
+Figure 1. Basics of spintronics. (a) Schematic band structure of a ferromagnetic metal
+showing the energy band spin-splitting . (b) Resistivities of the spin up and spin down con-
+duction channels for nickel doped with 1% of several types of impurity (measurements at
+4.2 K)4. The ratio A between the resistivities R0m and R0k of the spin m and spink channels
+can be as large as 20 (Co impurities) or, as well, smaller than one (Cr or V impurities). (c)
+Schematic for spin dependent conduction through independent spin m and spink chan-
+nels in the limit of negligible spin mixing (Rkm = 0 in the formalism of Ref.[4]).
+
+
+dependence of the conduction can be understood from the typical band
+structure of a ferromagnetic metal shown in Fig.1a. The splitting between
+the energies of the “majority spin” and “minority spin” directions (spin up
+and spin down in the usual notation) makes that the electrons at the Fermi
+level, which carry the electrical current, are in different states for opposite
+spin directions and exhibit different conduction properties. This spin depen-
+dent conduction was proposed by Mott3 in 1936 to explain some features of
+the resistivity of ferromagnetic metals at the Curie temperature. However, in
+1966, when I started my Ph.D. thesis, the subject was still almost completely
+unexplored. My supervisor, Ian Campbell, proposed that I investigate it with
+experiments on Ni- and Fe-based alloys and I had the privilege to be at the
+beginning of the study of this topic. I could confirm that the mobility of the
+electrons was spin dependent and, in particular, I showed that the resistivities
+of the two channels can be very different in metals doped with impurities
+presenting a strongly spin dependent scattering cross-section4. In Fig.1b, I
+show the example of the spin up (majority spin) and spin down (minority
+spin) resistivities of nickel doped with 1% of different types of impurities. It
+can be seen that the ratio A of the spin down resistivity to the spin up one
+can be as large as 20 for Co impurities or, as well, smaller than one for Cr or
+V impurities, consistently with the theoretical models developed by Jacques
+Friedel for the electronic structures of these impurities. The two current con-
+duction was rapidly confirmed in other groups and, for example, extended
+to Co-based alloys by Loegel and Gautier5 in Strasbourg.
+
+
+60
+
+
+                  $                      %
+(a)                     
+       $       $
+                   >1 %  %
+                             <1
+                        
+spin
+
+
+
+spin
+          AB >> A + B                     Type # 1
+
+
+(b)           $>1 % > 1
+
+                                         spin
+
+
+
+                                         spin
+
+             AB  A + B                   Type # 2
+Figure 2. Experiments on ternary alloys based on the same concept as that of GMR4. (a)
+Schematic for the spin dependent conduction in alloys doped with impurities of opposite
+scattering spin asymmetries (AA = RAm/RAk > 1, AB = RBm/RBk < 1, which leads to RAB >> RA + RB)
+and experimental results for Ni(Co1-xRhx) alloys. (b) Same for alloys doped with impurities
+of similar scattering spin asymmetries (AA = RAm/RAk > 1, AB = RBm/RBk > 1, whitch leads to
+RAB y RA + RB) and experimental results for Ni(Au1-xCox) alloys. In GMR the impurities A and
+B are replaced by multilayers, the situation of a (b) corresponding to the antiparallel (paral-
+lel) magnetic configurations of adjacent magnetic layers.
+
+
+   In my thesis, I also worked out the so-called two current model4 for the
+conduction in ferromagnetic metals. This model is based on a picture of spin
+up and spin down currents coupled by spin mixing, i.e. by momentum ex-
+change. Spin mixing comes from spin-flip scattering, mainly from electron-
+magnon scattering which increases with temperature and equalizes partly
+the spin up and spin down currents above room temperature in most fer-
+romagnetic metals. The two-current model is the basis of spintronics today,
+but, surprisingly, the interpretation of the spintronics phenomena is gener-
+ally based on a simplified version of the model neglecting spin mixing and
+assuming that the conduction is by two independent channels in parallel, as
+illustrated by Fig. 1c. It should be certainly useful to revisit the interpretation
+of many recent experiments by taking into account the spin mixing contribu-
+tions (note that the mechanism of spin mixing should not be confused with
+the relaxation of spin accumulation by other types of spin-flips6).
+
+                                                                                            61
+
+
+   As a matter of fact, some experiments of my thesis with metals doped with
+two types of impurities4 were already anticipating the GMR. This is illustrated
+by Fig. 2. Suppose, for example, that nickel is doped with impurities of Co
+which scatter strongly the electrons of the spin down channel and with impu-
+rities of rhodium which scatter strongly the spin up electrons. In the ternary
+alloy Ni(Co + Rh), that I call of type #1, the electrons of both channels are
+strongly scattered either by Co or by Rh, so that the resistivity is strongly en-
+hanced. In contrast, there is no such enhancement in alloys of type #2 doped
+with impurities (Co and Au for example) scattering strongly the electrons in
+the same channel and leaving the second channel open. The idea of GMR is
+the replacement of the impurities A and B of the ternary alloy by layers A and
+B in a multilayer, the antiparallel magnetic configuration of the layers A and
+B corresponding to the situation of an alloy of type #1, while the configura-
+tion with a parallel configuration corresponds to type #2. This brings the pos-
+sibility of switching between high and low resistivity states by simply changing
+the relative orientation of the magnetizations of layers A and B from anti-
+parallel to parallel. However, the transport equations tell us that the relative
+orientation of layers A and B can be felt by the electrons only if their distance
+is smaller than the electron mean free path, that is, practically, if they are
+spaced by only a few nm. Unfortunately, in the seventies, it was not techni-
+cally possible to make multilayers with layers as thin as a few nm. I put some
+of my ideas in the fridge and, in my team at the Laboratoire de Physique des
+Solides of the Université Paris-Sud, from the beginning of the seventies to
+1985, I worked on other topics like the extraordinary Hall effect, the spin
+Hall effect, the magnetism of spin glasses and amorphous materials.
+   In the mid-eighties, with the development of techniques like the Molecular
+Beam Epitaxy (MBE), it became possible to fabricate multilayers composed
+of very thin individuals layers and I could consider trying to extend my ex-
+periments on ternary alloys to multilayers. In addition, in 1986, I saw the
+beautiful Brillouin scattering experiments of Peter Grünberg and coworkers7
+revealing the existence of antiferromagnetic interlayer exchange couplings
+in Fe/Cr multilayers. Fe/Cr appeared as a magnetic multilayered system in
+which it was possible to switch the relative orientation of the magnetization in
+adjacent magnetic layers from antiparallel to parallel by applying a magnetic
+field. In collaboration with the group of Alain Friederich at the Thomson-
+CSF company, I started the fabrication and investigation of Fe/Cr multi-
+layers. The MBE expert at Thomson-CSF was Patrick Etienne, and my three
+Ph.D. students, Frédéric Nguyen Van Dau first and then Agnès Barthélémy
+and Frédéric Petroff, were also involved in the project. This led us in 1988
+to the discovery1 of very large magnetoresistance effects that we called GMR
+(Fig. 3a). Effects of the same type in Fe/Cr/Fe trilayers were obtained practi-
+cally at the same time by Peter Grünberg at Jülich2 (Fig. 3b). The
+interpreta-tion of the GMR is similar to that described above for the ternary
+alloys and is illustrated by Fig. 3c. The first classical model of the GMR was
+published in 1989 by Camley and Barnas8 and I collaborated with Levy and
+Zhang for the first quantum model9 in 1991.
+
+62
+
+
+                      (a)
+
+
+
+                                                                              80%
+                                                                               80%
+
+
+
+
+      (b)
+                                                          (c)
+
+
+
+
+Figure 3. First observations of giant magnetoresistance. (a) Fe/Cr(001) multilayers1 (with
+the current definition of the magnetoresistance ratio, MR = 100(RAP-RP)/Rp, MR = 80% for
+the (Fe 3nm/Cr 0.9nm) multilayer). (b) Fe/Cr/Fe trilayers2. (c) Schematic of the mecha-
+nism of the GMR. In the parallel magnetic configuration (bottom), the electrons of one
+of the spin directions can go easily through all the magnetic layers and the short-circuit
+through this channel lead to a small resistance. In the antiparallel configuration (top), the
+electrons of each channel are slowed down every second magnetic layer and the resistance
+is high (figure from Ref.[18]).
+
+
+   I am often asked if I was expecting such large MR effects. My answer is
+yes and no: on one hand, a very large magnetoresistance could be expected
+from an extrapolation of my preceding results on ternary alloys, on the other
+hand one could fear that the unavoidable structural defects of the multi-
+layers, interface roughness for example, might introduce spin-independent
+scatterings cancelling the spin-dependent scattering inside the magnetic
+layers. The good luck was finally that the scattering by the roughness of the
+interfaces is also spin dependent and adds its contribution to the “bulk” one
+(the “bulk” and interface contributions can be separately derived from CPP-
+GMR experiments).
+
+                                                                                          63
+
+
+THE GOLDEN AGE OF GMR
+Rapidly, our papers reporting the discovery of GMR attracted attention for
+their fundamental interest as well as for the many possibilities of applica-
+tions, and the research on magnetic multilayers and GMR became a very hot
+topic. In my team, reinforced by the recruitment of Agnés Barthélémy and
+Frédéric Petroff, as well as in the small but rapidly increasing community
+working in the field, we had the exalting impression of exploring a wide
+virgin country with so many amazing surprises in store. On the experimental
+side, two important results were published in 1990. Parkin et al.10 demon-
+strated the existence of GMR in multilayers made by the simpler and faster
+technique of sputtering (Fe/Cr, Co/Ru and Co/Cr), and found the oscilla-
+tory behaviour of the GMR due to the oscillations of the interlayer exchange
+as a function of the thickness of the nonmagnetic layers. Also in 1990 Shinjo
+and Yamamoto11, as well as Dupas et al.12, demonstrated that GMR effects can
+be found in multilayers without antiferromagnetic interlayer coupling but
+composed of magnetic layers of different coercivities. Another important re-
+
+
+                                                                                                          (b)
+                        CPP- GMR
+MR ratio (%)
+
+
+
+
+                                                6 nm
+
+
+               (a)
+
+                      Cu thickness (Å)
+
+                                                                 60 nm
+                                                        10
+
+
+                                                         8                         CIP- GMR              (d)
+                                         MR ratio (%)
+
+
+
+
+                                                         6
+
+
+                                                         4                                     400 nm
+
+                                                         2
+               (c)
+                                                         0
+                                                             0           100     200     300       400     500
+                                                                               Co thickness (nm)
+
+Figure 4. (a) Variation of the GMR ratio of Co/Cu multilayers in the conventional Current
+In Plane (CIP) geometry as a function of the thickness of the Cu layers13. The scaling
+length of the variation is the mean free path (short). (b) Structure of multilayered na-
+nowires used for CPP-GMR measurements 21. (c) CPP-GMR curves for (Permalloy 12 nm/
+Copper 4 nm) multilayered nanowires (solid lines) and (Cobalt 10 nm/Copper 5nm)
+multilayered nanowires (dotted lines)21. (d) ) Variation of the CPP-GMR ratio of Co/Cu
+multilayered nanowires as a function of the thickness of the Co layers21. The scaling length
+of the variation is the spin diffusion length (long).
+
+
+64
+
+
+sult, in 1991, was the observation of large and oscillatory GMR effects in Co/
+Cu, which became the archetypical GMR system (Fig. 4a). The first obser-
+vations13 were obtained in my group by my Ph. D. student Dante Mosca with
+multilayers prepared by sputtering at Michigan State University and at about
+the same time in the group of Stuart Parkin at IBM14. Also in 1991, Dieny et
+al.15 reported the first observation of GMR in spin-valves, i.e. trilayered struc-
+tures based on a concept of my co-laureate Peter Grünberg16 in which the
+magnetization of one of the two magnetic layers is pinned by coupling with
+an antiferromagnetic layer while the magnetization of the second one is free.
+The magnetization of the free layer can be reversed by very small magnetic
+fields, so that the concept is now used in most applications.
+
+
+
+
+Figure 5. GMR head for hard-disc. Figure from Chappert et al.18.
+
+
+
+   Other developments of the research on magnetic multilayers and GMR at
+the beginning of the seventies are described in the Nobel lecture of my co-
+laureate Peter Grünberg, with, in particular, a presentation of the various de-
+vices bases on the GMR of spin valve structures17-18. In the read heads (Fig.5)
+of the Hard Disc Drives (HDDs), the GMR sensors based on spin-valves have
+replaced the AMR (Anisotropic Magnetoresistance) sensors in 1997. The
+GMR, by providing a sensitive and scalable read technique, has led to an in-
+crease of the areal recording density by more than two orders of magnitude
+(from y 1 to y 600 Gbit/in2 in 2007). This increase opened the way both to
+unprecedented drive capacities (up to 1 terabyte) for video recording or
+backup and to smaller HDD sizes (down to .85-inch disk diameter) for mo-
+bile appliances like ultra-light laptops or portable multimedia players. GMR
+sensors are also used in many other types of application, mainly in automo-
+tive industry and bio-medical technology19.
+
+
+CPP-GMR AND SPIN ACCUMULATION PHYSICS
+During the first years of the research on GMR, the experiments were per-
+formed only with currents flowing along the layer planes, in the geometry
+we call CIP (Current In Plane). It is only in 1993 that experiments of CPP-
+
+
+                                                                               65
+
+
+GMR begun to be performed, that is experiments of GMR with the Current
+Perpendicular to the layer Planes. This was done first by sandwiching a
+magnetic multilayer between superconducting electrodes by Bass, Pratt and
+Shroeder at Michigan State University20, and, a couple of years after, in a col-
+laboration of my group with Luc Piraux at the University of Louvain, by elec-
+trodepositing the multilayer into the pores of a polycarbonate membrane21
+(Fig. 4b-d). In the CPP-geometry, the GMR is not only definitely higher than
+in CIP (the CPP-GMR will be probably used in a future generation of read
+heads for hard discs), but also subsists in multilayers with relatively thick lay-
+ers, up to the micron range21, as it can be seen in Fig. 4c-d. In a theoretical
+paper with Thierry Valet22, I showed that, owing to spin accumulation effects
+occurring in the CPP-geometry, the length scale of the spin transport be-
+comes the long spin diffusion length in place of the short mean free path for
+the CIP-geometry. Actually, the CPP-GMR has revealed the spin accumulation
+effects which govern the propagation of a spin-polarized current through a
+succession of magnetic and nonmagnetic materials and play an important
+role in all the current developments of spintronics. The diffusion current in-
+duced by the accumulation of spins at the magnetic/nonmagnetic interface
+is the mechanism driving a spin-polarized current at a long distance from
+the interface, well beyond the ballistic range (i.e. well beyond the mean free
+path) up to the distance of the spin diffusion length (SDL). In carbon mol-
+ecules for example, the spin diffusion length exceeds the micron range and,
+as we will see in the Section on molecular spintronics, strongly spin-polarized
+currents can be transported throughout long carbon nanotubes.
+   The physics of the spin-accumulation occurring when an electron flux
+crosses the interface between a ferromagnetic and a nonmagnetic material is
+explained in Fig. 6. Far from the interface on the magnetic side, the current
+is larger in one of the spin channels (spin up on the figure), while, far from
+the interface on the other side, it is equally distributed in the two channels.
+With the current direction and the spin polarization of the figure, there is
+accumulation of spin up electrons (and depletion of spin down for charge
+neutrality) around the interface, or, in other word, a splitting between the
+Fermi energies (chemical potentials) of the spin up and spin down electrons.
+This accumulation diffuses from the interface in both directions to the dis-
+tance of the SDL. Spin-flips are also generated by this out of equilibrium
+distribution and a steady splitting is reached when the number of spin-flips
+is just what is needed to adjust the incoming and outgoing fluxes of spin up
+and spin down electrons. To sum up, there is a broad zone of spin accumula-
+tion which extends on both sides to the distance of the SDL and in which the
+current is progressively depolarized by the spin-flips generated by the spin
+accumulation.
+   Figure 6 is drawn for the case of spin injection, i.e. for electrons going
+from the magnetic to the nonmagnetic conductor. For electrons going in the
+opposite direction (spin extraction), the situation is similar except that a spin
+accumulation in the opposite direction progressively polarizes the current in
+
+
+66
+
+
+Figure 6. Schematic representation of the spin accumulation at an interface between a fer-
+romagnetic metal and a non magnetic layer. (a) Spin-up and spin-down currents far from
+an interface between ferromagnetic and nonmagnetic conductors (outside the spin-accu-
+mulation zone). (b) Splitting of the chemical potentials EFk and EFm at the interface. The
+arrows symbolize the spin flips induced by the spin-split out of equilibrium distribution.
+These spin-flips control the progressive depolarization of the electron current between
+the left and the right. With an opposite direction of the current, there is an inversion of
+the spin accumulation and opposite spin flips, which polarizes the current when it goes
+through the spin-accumulation zone. (c) Variation of the current spin polarization when
+there is an approximate balance between the spin flips on both sides (metal/metal) and
+when the spin flips on the left side are predominant (metal/semiconductor without spin-
+dependent interface resistance, for example). Figures from Ref.[18].
+
+
+
+
+                                                                                        67
+
+
+the nonmagnetic conductor. In both the injection and extraction cases, the
+spin-polarization subsists or starts in the nonmagnetic conductor at a long
+distance from the interface. This physics can be described by new types of
+transport equation22 in which the electrical potential is replaced by a spin
+and position dependent electro-chemical potential. These equations can be
+applied not only to the simple case of a single interface but to multi-interface
+systems with overlap of the spin accumulations at successive interfaces. They
+can also be extended to take into account band bending and high current
+density effects23-24.
+   The physics of spin accumulation plays an important role in many fields
+of spintronics, for example in one of the most active field of research today,
+spintronics with semiconductors. In the case of spin injection from a mag-
+netic metal into a nonmagnetic semiconductor (or spin extraction for the
+opposite current direction), the much larger DOS in the metal makes that
+similar spin accumulation splittings on the two sides of the interface, as in
+Fig. 6, lead to a much larger spin accumulation density and to a much larger
+number of spin flips on the metallic side. The depolarization is therefore
+faster on the metallic side and the current is almost completely depolarized
+when it enters the semiconductor, as shown in Fig. 6c. This problem has been
+first raised by Schmidt and coworkers25. I came back to the theory with my co-
+worker Henri Jaffrès to show that the problem can be solved by introducing a
+spin dependent interface resistance, typically a tunnel junction, to introduce
+a discontinuity of the spin accumulation at the interface, increase the pro-
+portion of spin on the semiconductor side and shift the depolarization from
+the metallic to the semiconductor side (the same conclusions appear also in
+a paper of Rashba)26-27. Spin injection through a tunnel barrier has now been
+achieved successfully in several experiments but the tunnel resistances are
+generally too large for an efficient transformation of the spin information
+into an electrical signal24.
+
+
+MAGNETIC TUNNEL JUNCTIONS AND TUNNELLING MAGNETO-
+RESISTANCE (TMR)
+An important stage in the development of spintronics has been the re-
+search on the Tunnelling Magnetoresistance (TMR) of the Magnetic
+Tunnel Junctions(MTJ). The MTJ are tunnel junctions with ferromagnetic
+electrodes and their resistance is different for the parallel and antiparallel
+magnetic configurations of their electrodes. Some early observations of TMR
+effects, small and at low temperature, had been already reported by Jullière28
+in 1975, but they were not easily reproducible and actually could not be re-
+ally reproduced during 20 years. It is only in 1995 that large (y 20%) and
+reproducible effects were obtained by Moodera’s and Miyasaki’s groups on
+MTJ with a tunnel barrier of amorphous alumina29-30. From a technological
+point of view, the interest of the MTJ with respect to the metallic spin valves
+comes from the vertical direction of the current and from the resulting pos-
+sibility of a reduction of the lateral size to a submicronic scale by lithographic
+
+68
+
+
+                                                  (a)
+
+
+
+
+                                        (b)
+
+
+
+
+Figure 7. (a) Principle of the magnetic random access memory MRAM in the basic “cross
+point” architecture. The binary information “0” and “1” is recorded on the two opposite
+orientations of the magnetization of the free layer of magnetic tunnel junctions (MTJ),
+which are connected to the crossing points of two perpendicular arrays of parallel con-
+ducting lines. For writing, current pulses are sent through one line of each array, and
+only at the crossing point of these lines the resulting magnetic field is high enough to
+orient the magnetization of the free layer. For reading, one measures the resistance be-
+tween the two lines connecting the addressed cell. Schematic from Ref.[18]. (b) High
+magnetoresistance, TMR=(Rmax-Rmin)/Rmin, measured by Lee et al.34 for the magnetic
+stack: (Co25Fe75)80B20(4nm)/MgO(2.1nm)/(Co25Fe75)80B20(4.3nm) annealed at 475°C
+after growth, measured at room temperature (black circles) and low temperature (open
+circles).
+
+
+techniques. The MTJ are at the basis of a new concept of magnetic memory
+called MRAM (Magnetic Random Access Memory) and shematically rep-
+resented in Fig. 7a. The MRAMs are expected to combine the short access
+time of the semiconductor-based RAMs and the non-volatile character of the
+magnetic memories. In the first MRAMs, put onto the market in 2006, the
+memory cells are MTJs with an alumina barrier. The magnetic fields generat-
+ed by “word” and “bit” lines are used to switch their magnetic configuration,
+see Fig. 7a. The next generation of MRAM, based on MgO tunnel junctions
+and switching by spin transfer, is expected to have a much stronger impact
+on the technology of computers.
+
+
+                                                                                     69
+
+
+   The research on the TMR has been very active since 1995 and the most
+important step was the recent transition from MTJ with amorphous tunnel
+barrier (alumina) to single crystal MTJ and especially MTJ with MgO barrier.
+In the CNRS/Thales laboratory we founded in 1995, the research on TMR
+was one of our main projects and, in collaboration with a Spanish group,
+we obtained one of the very first TMA results31 on MTJ with epitaxial MgO.
+However our TMR was only slightly larger than that found with alumina bar-
+riers and similar electrodes. The important breakthrough came in 2004 at
+Tsukuba32 and IBM33 where it was found that very large TMR ratios, up to
+200% at room temperature, could be obtained from MgO MTJ of very high
+structural quality. TMR ratios of about 600% have been now reached34 (Fig.
+7b). In such MTJ, the single crystal barrier filters the symmetry of the wave
+functions of the tunnelling electrons35-37, so that the TMR depends on the
+spin polarization of the electrodes for the selected symmetry.
+   The high spin polarization obtained by selecting the symmetry of the tun-
+nelling waves with a single crystal barrier is a very good illustration of what is
+under the word “spin polarization” in a spintronic experiment. In the example
+of Fig. 8, taken from an article by Zhang and Butler37, one sees the density of
+states of evanescent waves functions of different symmetries, $1, $5, etc, in a
+MgO(001) barrier between Co electrodes. The key point is that, at least for
+interfaces of high quality, an evanescent wave function of a given symmetry is
+connected to the Bloch functions of the same symmetry at the Fermi level of
+the electrodes. For Co electrodes, the $1 symmetry is well represented at the
+Fermi level in the majority spin direction sub-band and not in the minority
+one. Consequently, a good connection of the slowly decaying channel $1 with
+both electrodes can be obtained only in their parallel magnetic configura-
+tion, which explains the very high TMR. Other types of barrier can select
+other symmetries than the symmetry $1 selected by MgO(001). For example,
+a SrTiO3 barrier predominantly selects evanescent wave functions of $5 sym-
+metry, which are connected to minority spin states of cobalt38. This explains
+the negative effective spin-polarization of cobalt we had observed in SrTiO3-
+based MTJ39. This finally shows that there no intrinsic spin polarization of a
+magnetic conductor. The effective polarization of a given magnetic conduc-
+tor in a MTJ depends on the symmetry selected by the barrier and, depend-
+ing on the barrier, can be positive or negative, large or small. In the same way
+the spin polarization of metallic conduction depends strongly on the spin
+dependence of the scattering by impurities, as illustrated by Fig. 1b.
+   There are other promising directions to obtain large TMR and experi-
+ments in several of them are now led by Agnès Barthélémy (much more than
+by myself) in the CNRS/Thales laboratory. First, we tested ferromagnetic
+materials which were predicted to be half-metallic, i.e. metallic for one of
+the spin direction and insulating for the other one, in other words 100%
+spin-polarized. Very high spin polarization (95%) and record TMR (1800%)
+have been obtained by our Ph.D. student Martin Bowen with La2/3Sr1/3MnO3
+electrodes40 but the Curie temperature of this manganite (around 350K) is
+
+
+70
+
+
+P
+
+
+
+
+AP
+
+
+
+
+Figure 8. Physics of TMR illustrated by the decay of evanescent electronic waves of differ-
+ent symmetries in a MgO(001) layer between cobalt electrodes calculated by Zhang and
+Butler37. The $1 symmetry of the slowly decaying tunnelling channel is well represented
+at the Fermi level of the spin conduction band of cobalt for the majority spin direction
+and not for the minority spin one, so that a good connection by tunnelling between the
+electrodes exists only for the parallel magnetic configuration when a $1 channel can be
+connected to both electrodes (above). In the antiparallel configuration (below), both the
+spin up and spin down $1 channels are poorly connected on one of the sides. This explains
+the very high TMR of this type of junction.
+
+
+
+
+too low for applications. It now turns out from recent results in Japan41 that
+ferromagnets of the family of the Heusler alloys also present very large TMR
+ratios with still 90% at room temperature41. Another interesting concept that
+we are exploring is spin filtering by tunnelling through a ferromagnetic insu-
+lator layer42-43. This can be described as the tunnelling of electrons through
+a barrier of spin dependent height if the bottom of the conduction band is
+spin-split, which gives rise to a spin-dependence of the transmission probabil-
+ity (spin filtering). Very high spin filtering coefficients have been found at
+low temperature with Eus barriers42 at the MIT and at Eindhoven. Promising
+results with insulating ferromagnets of much higher Curie temperature have
+been recently obtained, see, for example Ref. [43]. Some of the magnetic
+barriers we have recently tested in MTJ are also ferroelectric, so that the MTJ
+present the interesting property of four states of resistance corresponding
+to the P and AP magnetic configurations and to the two orientations of the
+ferroelectric polarization44, as shown in Fig. 9.
+
+
+                                                                                        71
+
+
+                                                                                   Au
+                                                                            LBMO
+               10mV 3K                      1                        LSMO
+         180
+                                                                     1
+         160
+                                                    After +2V
+                                        3
+R (k)
+
+
+
+
+         140                                                         2
+                                                                2
+                                                    After -2V
+         120
+                                                                     3
+                                                                4
+         100
+
+                -4       -2         0           2          4         4
+                               H (kOe)
+Figure 9. Four state resistance of a tunnel junction composed of a biferroic tunnel barrier
+(La0.1Bi0.9MnO3) between a ferromagnetic electrode of La2/3Sr1/3 MnO3 and a nomagnetic
+electrode of gold. The sates 1-4 correspond to the magnetic (white arrows) and electric
+(black arrows) polarizations represented on the right of the figure. From Gajek et al.44.
+
+
+MAGNETIC SWITCHING AND MICROWAVE GENERATION BY SPIN
+TRANSFER
+The study of the spin transfer phenomena is one of the most promising new
+directions in spintronics today and also an important research topic in our
+CNRS/Thales laboratory. In spin transfer experiments, one manipulates the
+magnetic moment of a ferromagnetic body without applying any magnetic
+field but only by transfer of spin angular momentum from a spin-polarized
+current. The concept, which has been introduced by John Slonczewski45
+and appears also in papers of Berger46, is illustrated in Fig. 10. As described
+in the caption of the figure, the transfer of a transverse spin current to the
+“free” magnetic layer F2 can be described by a torque acting on its magnetic
+moment. This torque can induce an irreversible switching of this magnetic
+moment or, in a second regime, generally in the presence of an applied field,
+it generates precessions of the moment in the microwave frequency range.
+   The first evidence that spin transfer can work was indicated by experi-
+ments of spin injection through point contacts by Tsoi et al.47 but a clear un-
+derstanding came later from measurements48-49 performed on pillar-shaped
+metallic trilayers (Fig. 11a). In Fig.11b-c, I present examples of our experi-
+mental results in the low field regime of irreversible switching, for a metallic
+pillar and for a tunnel junctions with electrodes of the dilute ferromagnetic
+semiconductor Ga1-xMnxAs. For metallic pillars or tunnel junctions with elec-
+trodes made of a ferromagnetic transition metal like Co or Fe, the current
+density needed for switching is around 106-107 Amp/cm2, which is still slightly
+too high for applications, and an important challenge is the reduction of this
+current density. The switching time has been measured in other groups and
+
+72
+
+
+Figure 10. Illustration of the spin transfer concept introduced by John Slonczewski45 in
+1996. A spin-polarized current is prepared by a first magnetic layer F with an obliquely ori-
+ented spin-polarization with respect to the magnetization axis of a second layer F2. When
+this current goes through F2, the exchange interaction aligns its spin-polarization along
+the magnetization axis. As the exchange interaction is spin conserving, the transverse spin-
+polarization lost by the current has been transferred to the total spin of F2, which can also
+be described by a spin-transfer torque acting on F2.This can lead to a magnetic switching of
+the F2 layer or, depending on the experimental conditions, to magnetic oscillations in the
+microwave frequency range. Figure from Ref.[18].
+
+
+
+
+can be as short as 100 ps, which is very attractive for the switching of MRAM.
+For the tunnel junction of Fig. 11c, the switching current is only about 105
+Amp./cm2 and smaller than that of the metallic pillar by two orders of mag-
+nitude. This is because a smaller number of individual spins is required to
+switch the smaller total spin momentum of a dilute magnetic material.
+   In the presence of a large enough magnetic field, the regime of irrevers-
+ible switching of the magnetization of the “free” magnetic layer in a trilayer
+is replaced by a regime of steady precessions of this free layer magnetization
+sustained by the spin transfer torque52. As the angle between the magnetiza-
+tions of the two magnetic layers varies periodically during the precession,
+the resistance of the trilayer oscillates as a function of time, which generates
+voltage oscillations in the microwave frequency range. In other conditions,
+the spin transfer torque can also be used to generate an oscillatory motion of
+a magnetic vortex.
+   The spin transfer phenomena raise a series of various theoretical problems.
+The determination of the spin transfer torque is related to the solution of
+
+                                                                                          73
+
+
+      (a)                                                                    14,6
+                                                                                                                                     (b)
+Free Co layer
+
+
+
+
+                                                                  dV/dI()
+Cu spacer                                                                    14,5
+Fixed Co layer
+
+
+
+                                                                             14,4
+                                                                                                     -2                    0
+                                                                                                                  I (mA)
+
+                  550000   (c)                                                                                                       (d)
+
+
+
+                                                                                Power (pW/GHz)
+                                                                                                 3
+ Resistance (
+
+
+
+
+                  500000
+                                                                                                 2
+
+                  450000
+                                                                                                 1
+
+                  400000
+                                                                                                 0
+                       -1.0x10 5 -5.0x10 4   0.0   5.0x104   1.0x105                                        3,5                4,0
+                             Current density (A .cm-2)                                                    Frequency (GHz)
+
+Figure 11. Experiments of magnetic switching and microwave generation induced by spin
+transfer from an electrical DC current in trilayered magnetic pillars. (a) Schematic of a tri-
+layered magnetic pillar. (b) Switching by spin transfer between the parallel and antiparallel
+magnetic configurations of a Co/Cu/Co metallic pillar49. The switching between parallel
+and antiparallel orientations of the magnetizations of the two magnetic layers of the trilayer
+is detected by irreversible jumps of the resistance at a critical value of the current. The criti-
+cal current density is of the order of 107 A/cm2. (c) Switching by spin transfer of a pillar-
+shaped tunnel junction composed of electrodes of the dilute ferromagnetic semiconductor
+GaMnAs separated by a tunnel barrier of InGaAs50. The critical current is about hundred
+times smaller than in the Py/Cu/Py pillar. Similar results have been obtained by Hayakawa
+et al.51.(d) Typical microwave power spectrum of a Co/Cu/Py pillar (Py =permalloy)57.
+
+
+
+
+spin transport equations53-56, while the description of the switching or preces-
+sion of the magnetization raises problems of non-linear dynamics53. All these
+problems are interacting and, for example, some of our recent results show
+that it is possible to obtain very different dynamics (with, for applications, the
+interest of oscillations without applied field) by introducing strongly differ-
+ent spin relaxation times in the two magnetic layers of a trilayer to distort the
+angular dependence of the torque57.
+   The spin transfer phenomena will have certainly important applications.
+Switching by spin transfer will be used in the next generation of MRAM and
+will bring great advantages in terms of precise addressing and low energy
+consumption. The generation of oscillations in the microwave frequency
+range will lead to the design of Spin Transfer Oscillators (STOs). One of the
+main interests of the STOs is their agility, that is the possibility of changing
+rapidly their frequency by tuning a DC current. They can also have a high
+
+74
+
+
+quality factor. Their disadvantage is the very small microwave power of an
+individual STO, metallic pillar or tunnel junction. The solution is certainly
+the synchronization of a large number of STOs. The possibility of synchro-
+nization has been already demonstrated for two nano-contacts inducing spin
+transfer excitations in the same magnetic layer58-59. In our laboratory we are
+exploring theoretically and experimentally a concept of self-synchronization
+of a collection of electrically connected STOs by the RF current components
+they induce60.
+
+
+SPINTRONICS WITH SEMICONDUCTORS AND MOLECULAR
+SPINTRONICS
+Spintronics with semiconductors61-62 is very attractive as it can combine the
+potential of semiconductors (control of current by gate, coupling with optics,
+etc) with the potential of the magnetic materials (control of current by spin
+manipulation, non-volatility, etc.). It should be possible, for example, to gath-
+er storage, detection, logic and communication capabilities on a single chip
+that could replace several components. New concepts of components have
+also been proposed, for example the concept of Spin Field Effect Transistors
+(Spin FETs) based on spin transport in semiconductor lateral channels be-
+tween spin-polarized sources and drains with control of the spin transmission
+by a field effect gate63. Some nonmagnetic semiconductors have a definite
+advantage on metals in terms of spin-coherence time and propagation of
+spin polarization on long distances61-62. However, as it will be discussed below,
+the long standing problem of the Spin FET it still far from being solved.
+   Spintronics with semiconductors is currently developed along several
+roads.
+   i) The first road is by working on hybrid structures associating ferromag-
+netic metals with nonmagnetic semiconductors. As this has been mentioned
+in the Section on spin accumulation, Schmidt et al.25 have raised the problem
+of “conductivity mismatch” to inject a spin-polarized current from a magnetic
+metal into a semiconductor. Solutions have been proposed by the theory26-27
+and one knows today that the injection/extraction of a spin-polarized cur-
+rent into/from a semiconductor can be achieved with a spin-dependent
+interface resistance, typically a tunnel junction. Spin injection/extraction
+through a tunnel contact has been now demonstrated in spin LEDs and
+magneto-optical experiments61-62,64.
+   ii) Another road for spintronics with semiconductors is based on the fabri-
+cation of ferromagnetic semiconductors. The ferromagnetic semiconductor
+Ga1-xMnxAs (x y a few %) has been discovered65 by the group of Ohno in
+Sendai in 1996, and, since this time, has revealed very interesting proper-
+ties, namely the possibility of controlling the ferromagnetic properties with
+a gate voltage, and also large TMR and TAMR (Tunnelling Anisotropic
+Magnetoresistance) effects. However its Curie temperature has reached only
+170 K, well below room temperature, which rules out most practical applica-
+
+
+                                                                              75
+
+
+tions. Several room temperature ferromagnetic semiconductors have been
+announced but the situation is not clear on this front yet.
+   iii) The research is now very active on a third road exploiting spin-polar-
+ized currents induced by spin-orbit effects, namely the Spin Hall66-68, Rashba
+or Dresselhaus effects. In the Spin Hall Effect (SHE), for example, spin-orbit
+interactions deflect the currents of the spin up and spin down channels in
+opposite transverse directions, thus inducing a transverse spin current, even
+in a nonmagnetic conductor. This could be used to create spin currents in
+structures composed of only nonmagnetic conductors. Actually the SHE can
+be also found in nonmagnetic metals69-70 and the research is also very active
+in this field. May I mention that, already in the seventies, I had found very
+large SHE induced by resonant scattering on spin-orbit-split levels of non-
+magnetic impurities in copper71.
+   Several groups have tried to probe the potential of spintronics with semi-
+conductors by validating experimentally the concept of Spin FET63 described
+above. Both ferromagnetic metals and ferromagnetic semiconductors have
+been used for the source and the drain, but the results have been relatively
+poor. In a recent review article, Jonker and Flatté61 note that a contrast
+larger than about 1% (i. e. [RAP-RP]/RP > 1%) has never been observed be-
+tween the resistances of the parallel and antiparallel magnetic orientations
+of the source and the drain, at least for lateral structures. We have recently
+proposed24 this can be understood in the models27 I had developed with
+Henri Jaffrès to describe the spin transport between spin-polarized sources
+and drains. In both the diffusive and ballistic regimes, a strong contrast be-
+tween the conductances of the two configurations can be obtained only if
+the resistances of the interfaces between the semiconductor and the source
+or drain are not only spin dependent but also chosen in a relatively narrow
+window. The resistances must be larger than a first threshold value for spin
+injection/extraction from/into a metallic source/drain, and smaller than a
+second threshold value to keep the carrier dwell time shorter than the spin
+lifetime. For vertical structures with a short distance between source and
+drain, the above conditions can be satisfied more easily and relatively large
+magnetoresistance can be observed, as illustrated by the results I present in
+Fig. 12. However the results displayed in Fig. 12c show that the magnetore-
+sistance drops rapidly when the interface resistance exceeds some threshold
+value. This can be explained by the increase of the dwell time above the spin
+lifetime. Alternatively, the magnetoresistance also drops to zero when an
+increase of temperature shortens the spin lifetime and increases the ratio
+of the dwell time to the spin lifetime. For most experiments on lateral struc-
+tures, it turns out that a part of the difficulties comes from too large interface
+resistances giving rise to too short dwell times. Min et al.73 have arrived at
+similar conclusions for the particular case of silicon-based structures and
+propose interesting solutions to lower the interface resistances by tuning the
+work function of the source and the drain.
+
+
+
+
+76
+
+
+(a)                                                 40
+                                                          (b)
+     Ga 1-xMnxAs (30 nm)                            30
+
+
+
+
+                                         TMR (%)
+          GaAs (10Å)                                20
+         AlAs (15-19Å)
+                                                    10
+
+                                                     0
+        GaAs (5-10nm)                               -300        -200   -100    0      100 200       300
+                                                                       Magnetic Field (Oe)
+
+                                                     50
+
+                                                     40
+                                                                                                (c)
+        AlAs (15-19Å)
+         GaAs (10Å)                      MR ( % )    30
+       Ga 1-xMnxAs (300
+              nm)                                    20
+                                                                 1.45nm                       1.95nm
+                                                     10                    1.7nm
+                                                         0
+                                                         1E-3            0.01                 0.1
+                                                                        AR AP ( .cm 2 ) ~ tN
+
+Figure 12. Spintronics with semiconductors illustrated by experimental results24,72 on
+the structure represented on the right and composed of a GaAs layer separated from the
+GaMnAs source and drain by tunnel barriers of AlAs. (a) MR curve at 4.2 K showing a
+resistance difference of 40 % between the parallel and antiparallel magnetic configura-
+tions of the source and the drain. (b) MR ratio as a function of the resistance of the tunnel
+barriers.
+
+
+   A recently emerging direction is spintronics with molecules. Very large
+GMR- or TMR-like effects are predicted by the theory, especially for carbon-
+based molecules in which a very long spin lifetime is expected from the small
+spin-orbit coupling. Promising experimental results have been published
+during the last years on spin transport in carbon nanotubes74-75. In particu-
+lar, my recent work75 in collaboration with a group in Cambridge on carbon
+nanotubes between ferromagnetic source and drain made of the metallic
+manganite L1/3Sr1/3MnO3 has shown that the relative difference between the
+resistances of the parallel and antiparallel configurations can exceed 60-70%,
+well above what can be obtained with semiconductor channels. This can be
+explained not only by the long spin lifetimes of the electrons in carbon nano-
+tubes but also by their short dwell time related to their high Fermi velocity (a
+definite advantage on semiconductors). The research is currently very active
+in this field and, in particular, graphene-based devices are promising.
+
+
+
+
+                                                                                                    77
+
+
+ La 2/3 Sr 1/3 MnO 3                   La 2/3 Sr 1/3 MnO 3
+ (LSMO)                                           (LSMO)
+
+
+
+
+                          CNT
+
+  (a)
+
+                    (b)           MR=60%                (c)
+                 MR=72%
+
+
+
+
+                                 P                       P
+
+
+
+
+Figure 13. Spintronics with molecules illustrated by, (a): Artistic view of spin transport
+through a carbon nanotube between magnetic electrodes (courtesy of T. Kontos). (b)
+and (c): Magnetoresistance experimental results75 at 4.2 K on carbon nanotubes between
+electrodes made of the ferromagnetic metallic oxide La2/3Sr1/3MnO3. A contrast of 72%
+and 60% is obtained between the resistances for the parallel (high field) and antiparallel
+(peaks) magnetic configurations of the source and drain.
+
+
+CONCLUSION
+In less than twenty years, we have seen spintronics increasing considerably
+the capacity of our hard discs, extending the hard disc technology to mobile
+appliances like cameras or portable multimedia players, entering the auto-
+motive industry and the bio-medical technology and, with TMR and spin
+transfer, getting ready to enter the RAM of our computers or the microwave
+emitters of our cell phones. The researches of today on the spin transfer phe-
+nomena, on multiferroic materials, on spintronics with semiconductors and
+molecular spintronics, open fascinating new fields and are also very promis-
+ing of multiple applications. Another perspective, out of the scope of this
+lecture, should be the exploitation of the truly quantum mechanical nature
+of spin and the long spin coherence time in confined geometry for quantum
+computing in an even more revolutionary application. Spintronics should
+take an important place in the science and technology of our century.
+
+78
+
+
+REFERENCES
+[1] M.N. Baibich, J.M. Broto, A. Fert, F. Nguyen Van Dau, F. Petroff, P. Etienne, G.
+     Creuzet, A. Friederich, and J. Chazelas, Phys. Rev. Lett. 61, 2472 (1988).
+[2] G. Binash, P. Grünberg, F. Saurenbach, and W. Zinn, Phys. Rev. B 39, 4828 (1989).
+[3] F. Mott, Proc. Roy. Soc. A153, 699 (1936).
+[4] A. Fert and I. A. Campbell, Phys. Rev. Lett. 21, 1190 (1968); A. Fert and I. A. Campbell,
+     J. Physique 32, C1-46 (1971); A. Fert and I. A. Campbell, J. Phys. F 6, 849 (1976).
+[5] B. Loegel and F. Gautier, J. Phys. Chem. Sol. 32, 2723 (1971).
+[6] The contribution of spin-flips to spin mixing (i.e. to momentum exchange between
+     the two channels, mainly through magnon scattering4) should not be confused with
+     the contribution of spin-flips to the relaxation of spin accumulation effects (mainly
+     through spin-lattice relaxation by spin-orbit interactions).
+[7] P. Grünberg, R. Schreiber, Y. Young, M. B. Brodsky, H. Sowers, Phys. Rev. Lett. 57,
+     2442 (1986).
+[8] R. E. Camley, J. Barnas, Phys. Rev. Lett. 63, 664 (1989).
+[9] P. M. Levy, S. Zhang, A. Fert, Phys. Rev. Lett. 65, 1643 (1990).
+[10] S. S. P. Parkin, N. More, K.P. Roche, Phys. Rev.Lett. 64, 2304 (1990).
+[11] T. Shinjo and H. Yamamoto, J. Phys. Soc. Jpn. 59, 3061 (1990).
+[12] C. Dupas, P. Beauvillain, C. Chappert, C. Chappert, J.P. Renard, F. Trigui, P. Veillet, E.
+     Velu, D. Renard, J. Appl. Phys. 67, 5680 (1990).
+[13] D. H. Mosca, F. Petroff, A. Fert, P. A. Schroeder, W. P. Pratt, R. Loloee, J. Magn. Magn.
+     Mater. 94, L1 (1991).
+[14] S. S. P. Parkin, R. Bhadra, K. P. Roche, Phys. Rev. Lett. 66, 2152 (1991).
+[15] B. Dieny, V. S. Speriosu, S. S. P. Parkin, B. A. Gurney, D. R. Wilhoit, D. Mauri, Phys.
+     Rev. B 43, 1297 (1991).
+[16] P. Grünberg, Magnetic field sensor with ferromagnetic thin layers having magneti-
+     cally antiparallel polarized components, US patent 4,949,039 (1990).
+[17] S. S. P. Parkin, in Spin Dependent Transport in Magnetic nanostructures (Edited by
+     S. Maekawa and T. Shinjo, Taylor and Francis 2002), p. 237.
+[18] C. Chappert, A. Fert, F. Nguyen Van Dau, Nature Materials, vol. 6, 813 (2007).
+[19] P. P. Freitas, H. Ferreira, D. Graham, L. Clarke, M. Amaral, V. Martins, L. Fonseca,
+     J. S. Cabral, Europhysiscs News 34/6, 225 (2003).
+[20] W. P. Pratt et al., Phys. Rev. Lett. 66, 3060 (1991); J. Bass and W. P. Pratt, J. Magn.
+     Magn. Mater. 200, 274 (1999).
+[21] L. Piraux, J-M. George, C. Leroy, R. Legras, A. Fert, Appl. Phys. Lett. 65, 2484 (1994);
+     A. Fert and L. Piraux, J. Magn. Magn. Mater. 200, 338 (1999).
+[22] T. Valet and A. Fert, Phys. Rev. B 48, 7099 (1993).
+[23] Z. G. Yu and M. E. Flatté, Phys. Rev. B 66, 201202 (2002).
+[24] A. Fert, J. M. George, H. Jaffrès and R. Mattana, IEEE Transactions on Electron
+     Devices 54, 921 (2007).
+[25] G. Schmidt et al., Phys. Rev. B 62, 4790 (2000).
+[26] E. I. Rashba, Phys. Rev. B 62, 16267 (2000).
+[27] A. Fert and H. Jaffrès, Phys. Rev. B 64, 184420 (2001).
+[28] Jullière, Phys. Lett. 54A, 225 (1975).
+[29] J. S. Moodera, L. R. Kinder, T. M. Wong, R. Meservey, Phys. Rev. Lett. 74, 3273 (1995).
+[30] T. Miyazaki and N. Tezuka, J. Magn. Magn. Mater. 139 (1995) 231.
+[31] M. Bowen, V. Cros, F. Petroff, A. Fert, A. Cebollada, F. Briones, Appl. Phys. Lett. 79,
+     1655 (2001).
+[32] Yuasa et al., Nature Mater. 3, 868 (2004).
+[33] S. S. P. Parkin et al., Nature Materials 3, 862 (2004).
+[34] Y. M. Lee, J. Hayakawa, S. Ikeda, F. Matsukura, H. Ohno, Appl. Phys. Lett. 90, 212507
+     (2007).
+[35] J. Mathon and A. Umerski ; Phys. Rev. B 60, 1117 (1999).
+[36] Ph. Mavropoulos, N. Papanikolaou and Ph. Dederichs, Phys. Rev. Lett. 85 1088 (2000).
+[37] X. G. Zhang and W. H. Butler, Phys. Rev. B 70, 173407 (2004).
+
+
+                                                                                           79
+
+
+[38] S. Velev et al., Phys. Rev. Lett. 95 (2005); M. Bowen et al., Phys. Rev. B 73, 140408 (2006).
+[39] J. M. De Teresa, A. Barthélémy, A. Fert, J. P. Contour, F. Montaigne, A. Vaures; Science
+      286, 507 (1999).
+[40] M. Bowen, M. Bibes, A. Barthélémy, J. P. Contour, A. Anane, Y. Lemaitre, A. Fert ;
+      Appl. Phys. Letters 82, 233, (2003).
+[41] T. Ishikawa et al., Appl. Phys. Lett. 89, 192505 (2006).
+[42] P. Leclair, J. K. Ha, J. M.Swagten, J. T. Kohlhepp, C. H. Van de Vin and W. J. M. de Jonge;
+      Appl. Phys. Lett. 80, 625 (2002).
+[43] A. V. Ramos et al., Appl. Phys. Lett. 91, 122107 (2007).
+[44] M. Gajek, M. Bibes, S. Fusil, K. Bouzehouane, J. Fontcuberta, A. Barthélémy, A. Fert,
+      Nature Materials 6, 296 (2007).
+[45] J. C. Slonczewski, J. Magn. Mat. 159, L1 (1996).
+[46] L. Berger, Phys. Rev. B 54, 9353 (1996).
+[47] M. Tsoi, A. G. M. Jansen, J. Bass, W. C. Chiang, V. Tsoi, M. Seck, P. Wyder, Phys. Rev.
+      Lett. 80, 4281 (1998).
+[48] Katine et al., Phys. Rev. Lett. 84, 3149 (2000).
+[49] J. Grollier, V. Cros, A. Hanzic, J. M. George, H. Jaffres, A. Fert, G. Faini, J. Ben Youssef,
+      H. Le Gall., Appl. Phys. Lett. 78, 3663 (2001). J. Grollier, Ph. D. thesis (Université
+      Paris-Sud, 2003).
+ [50] M. Elsen, O. Boulle, J. M.George, H. Jaffrès, V. Cros, A. Fert, A. Lemaître, R. Giraud,
+      G. Faini, Phys.Rev. B 73, 035303 (2006).
+[51] J. Hayakawa et al., Jpn. J. Appl. Phys., Part 2 44, L1267 (2005).
+[52] W. H. Rippart et al., Phys. Rev. Lett. 92, 027201 (2004).
+[53] M. D. Stiles and J. Miltat in Spin Dynamics in Confined Magnetic Structures, III, edited by
+      B. Hillebrands and A. Thiaville (Springer, Berlin, 2006).
+[54] J. C. Slonczewski, J. Magn. Magn. Mat.,247, 324 (2002).
+[55] A. A. Kovalev, A. Brattas, G. E. W. Bauer, Phys. Rev. B 66, 224424 (2002).
+[56] J. Barnas, A. Fert, M. Gmitra, I. Weymann, V. K. Dugaev, Phys. Rev. B 72, 024426
+      (2005).
+[57] O. Boulle, V. Cros, J. Grollier, L. G. Pereira, C. Deranlot, F. Petroff, G. Faini, J. Barnas,
+      A. Fert, Nature Physics, 3, 492 (2007), O. Boulle, Ph. D. Thesis (2006, Université
+      Paris-Sud).
+[58] S. Kaka et al., Nature 437, 389 (2005).
+[59] F. B. Mancoff et al., Nature 437, 393 (2005).
+[60] J. Grollier, V; Cros, A. Fert, Phys. Rev. B 73, 060409 [R], 2006.
+[61] B. T. Jonker and M. E. Flatté, in Nanomagnetism (edited by D.L. Mills and J.A.C.
+      Bland, Elsevier, 2006), p. 227.
+[62] D. D. Awschalom and M. E. Flatté, Nature Physics 3, 153 (2007).
+[63] S. Datta and B. Das, Appl. Phys. Lett. 56, 665 (1990).
+[64] Stephens et al., PRL 93, 097602 (2004).
+[65] H. Ohno et al., Appl. Phys. Lett. 69, 363 (1996).
+[66] Y. Kato, R. C. Myers, A. C. Gossard, D. D. Awschalom, Science 306, 1910 (2004).
+[67] S. Zhang, Phys. Rev. Lett. 85, 393 (2000).
+[68] M. Koenig, S. Wiedmann, C. Bruene, A. Roth, H. Buhmann, L. W. Molenkamp, X. L.
+      Qi and S-C. Zhang, Science, 318, 766 (2007).
+[69] L. Vila, T. Kjimura, Y. Otani, Phys. Rev. Lett. 99, 226604 (2007).
+[70] T. Seki et al., Nature Materials 7, 125 (2008).
+[71] A. Fert, A. Friederich, A. Hamzic, J. of Magn. Magn. Mat. 24, 231 (1981).
+[72] R. Mattana, J. M. George, H. Jaffrès, F. Nguyen Van Dau, A. Fert, B. Lépine, A.
+      Guivarch, G. Jézéquel, Phys. Rev. Letters 90, 166601, (2003).
+[73] B. C. Min, K. Motohashi, C. Lodder, R. Jansen, Nature Mat. 5, 817 (2006).
+[74] A. Cottet, T. Kontos, S. Sahoo, H. T. Man, W. Belzig, C. Bruder, C. Schönenberger,
+      Semicond. Sci.Technol. 21, 578 (2006).
+[75] L. E. Hueso, J. M. Pruneda, V. Ferrari, G. Burnell, J. P. Valdes-Herrera, B. D. Simmons,
+      P. B. Littlewood, E. Artacho, A. Fert, N. D. Mathur, Nature 445, 410 (2007).
+Portrait photo of Albert Fert by photographer Ulla Montan.
+
+
+80
+

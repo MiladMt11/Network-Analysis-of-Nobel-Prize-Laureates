@@ -1,0 +1,925 @@
+THE COSMIC MICROWAVE BACKGROUND
+RADIATION
+Nobel Lecture, 8 December, 1978
+by
+ROBERT W. WILSON
+Bell Laboratories
+Holmdel, N.J. U.S.A.
+
+
+
+1. INTRODUCTION
+
+Radio Astronomy has added greatly to our understanding of the structure
+and dynamics of the universe. The cosmic microwave background radi-
+ation, considered a relic of the explosion at the beginning of the universe
+some 18 billion years ago, is one of the most powerful aids in determining
+these features of the universe. This paper is about the discovery of the
+cosmic microwave background radiation. It starts with a section on radio
+astronomical measuring techniques. This is followed by the history of the
+detection of the background radiation, its identification, and finally by a
+summary of our present knowledge of its properties.
+
+
+II. RADIO ASTRONOMICAL METHODS
+
+A radio telescope pointing at the sky receives radiation not only from
+space, but also from other sources including the ground, the earth’s
+atmosphere, and the components of the radio telescope itself. The 20-foot
+horn-reflector antenna at Bell Laboratories (Fig. 1) which was used to
+discover the cosmic microwave background radiation was particularly suit-
+ed to distinguish this weak, uniform radiation from other, much stronger
+sources. In order to understand this measurement it is necessary to discuss
+the design and operation of a radio telescope, especially its two major
+                                             1
+components, the antenna and the radiometer .
+
+a. Antennas
+An antenna collects radiation from a desired direction incident upon an
+area, called its collecting area, and focuses it on a receiver. An antenna is
+normally designed to maximize its response in the direction in which it is
+pointed and minimize its response in other directions.
+   The 20-foot horn-reflector shown in Fig. 1 was built by A. B. Crawford
+and his associate? in 1960 to be used with an ultra low-noise communica-
+tions receiver for signals bounced from the Echo satellite. It consists of a
+large expanding waveguide, or horn, with an off-axis section parabolic
+reflector at the end. The focus of the paraboloid is located at the apex of
+the horn, so that a plane wave traveling along the axis of the paraboloid is
+focused into the receiver, or radiometer, at the apex of the horn. Its design
+emphasizes the rejection of radiation from the ground. It is easy to see
+
+
+464
+
+
+
+
+Fig. I The 20 foot horn-reflector which was used to discover the Cosmic Microwave Back-
+ground Radiation.
+
+
+
+
+from the figure that in this configuration the receiver is well shielded from
+the ground by the horn.
+   A measurement of the sensitivity of a small hornreflector antenna to
+radiation coming from different directions is shown in Fig. 2. The circle
+marked isotropic antenna is the sensitivity of a fictitious antenna which
+receives equally from all directions. If such an isotropic lossless antenna
+were put in an open field, half of the sensitivity would be to radiation from
+the earth and half from the sky. In the case of the hornreflector, sensitivity
+in the back or ground direction is less than l/3000 of the isotropic antenna.
+The isotropic antenna on a perfectly radiating earth at 300 K and with a
+                o
+cold sky at 0 K would pick up 300 K from the earth over half of its
+response and nothing over the other half, resulting in an equivalent
+antenna temperature of 150 K. The horn-reflector, in contrast, would pick
+up less than .05 K from the ground.
+  This sensitivity pattern is sufficient to determine the performance of an
+ideal, lossless antenna since such an antenna would contribute no radiation
+of its own. Just as a curved mirror can focus hot rays from the sun and
+burn a piece of paper without becoming hot itself, a radio telescope can
+focus the cold sky onto a radio receiver without adding radiation of its
+own.
+
+h. Radiometers
+A radiometer is a device for measuring the intensity of radiation. A
+microwave radiometer consists of a filter to select a desired band of
+
+
+                                                                                               465
+
+
+
+
+Fig. 2 Sensitivity pattern of a small horn-reflector antenna. This is a logarithmic plot of the
+collecting area of the antenna as a function of angle from the center of the main beam. Each
+circle below the level of the main beam represent a factor of ten reduction in sensitivity. In the
+back direction around 180 the sensitivity is consistently within the circle marked 70, corre-
+sponding to a factor of 10 -7 below the sensitivity at 0.
+
+
+
+frequencies f o11owed by a detector which produces an output voltage
+proportional to its input power. Practical detectors are usually not sensitive
+enough for the low power levels received by radio telescopes, however, so
+amplification is normally used ahead of the detector to increase the signal
+level. The noise in the first stage of this amplifier combined with that from
+the transmission line which connects it to the antenna (input source)
+produce an output from the detector even with no input power from the
+antenna. A fundamental limit to the sensitivity of a radiometer is the
+fluctuation in the power level of this noise.
+   During the late 1950’s, H. E. D. Scovil and his associates at Bell Laborato-
+ries, Murray Hill were building the world’s lowest-noise microwave amplifi-
+ers, ruby travelling-wave masers . These amplifiers were cooled to 4.2 K or
+                                   3
+
+
+
+less by liquid helium and contribute a correspondingly small amount of
+noise to the system. A radiometer incorporating these amplifiers can
+therefore be very sensitive.
+   Astronomical radio sources produce random, thermal noise very much
+
+
+466                             Physics 1978
+
+
+like that from a hot resistor, therefore the calibration of a radiometer is
+usually expressed in terms of a thermal system. Instead of giving the noise
+power which the radiometer receives from the antenna, we quote the
+temperature of a resistor which would deliver the same noise power to the
+radiometer. (Radiometers often contain calibration noise sources consist-
+ing of a resistor at a known temperature.) This “equivalent noise tempera-
+ture” is proportional to received power for all except the shorter wave-
+length measurements, which will be discussed later.
+
+c. Observations
+To measure the intensity of an extraterrestrial radio source with a radio
+telescope, one must distinguish the source from local noise sources - noise
+from the radiometer, noise from the ground, noise from the earth’s
+atmosphere, and noise from the structure of the antenna itself. This
+distinction is normally made by pointing the antenna alternately to the
+source of interest and then to a background region nearby. The difference
+in response of the radiometer to these two regions is measured, thus
+subtracting out the local noise. To determine the absolute intensity of an
+astronomical radio source, it is necessary to calibrate the antenna and
+radiometer or, as usually done, to observe a calibration source of known
+intensity.
+
+
+I I I . PLANS FOR RADIO ASTRONOMY WITH THE 20-FOOT HORN-
+REFLECTOR
+
+In 1963, when the 20-foot horn-reflector was no longer needed for satellite
+work, Arno Penzias and I started preparing it for use in radio astronomy.
+One might ask why we were interested in starting our radio astronomy
+careers at Bell Labs using an antenna with a collecting area of only 25
+square meters when much larger radio telescopes were available else-
+where. Indeed, we were delighted to have the 20-foot horn-reflector be-
+cause it had special features that we hoped to exploit. Its sensitivity, or
+collecting area, could be accurately calculated and in addition it could be
+measured using a transmitter located less than 1 km away. With this data, it
+could be used with a calibrated radiometer to make primary measure-
+ments of the intensities of several extraterrestrial radio sources. These
+sources could then be used as secondary standards by other observatories.
+In addition, we would be able to understand all sources of antenna noise,
+for example the amount of radiation received from the earth, so that
+background regions could be measured absolutely. Traveling-wave maser
+amplifiers were available for use with the 20-foot horn-reflector, which
+meant that for large diameter sources (those subtending angles larger than
+the antenna beamwidth), this would be the world’s most sensitive radio
+telescope.
+   My interest in the background measuring ability of the 20-foot horn-
+reflector resulted from my doctoral thesis work with J. G. Bolton at
+
+
+                                  R. W. Wilson                             467
+
+
+Caltech. We made a map of the 31 cm radiation from the Milky Way and
+studied the discrete sources and the diffuse gas within it. In mapping the
+Milky Way we pointed the antenna to the west side of it and used the
+earth’s rotation to scan the antenna across it. This kept constant all the
+local noise, including radiation that the antenna picked up from the earth.
+I used the regions on either side of the Milky Way (where the brightness
+was constant) as the zero reference. Since we are inside the Galaxy, it is
+impossible to point completely away from it. Our mapping plan was
+adequate for that project, but the unknown zero level was not very satisfy-
+ing. Previous low frequency measurements had indicated that there is a
+large, radio-emitting halo around our galaxy which I could not measure by
+that technique. The 20-foot horn-reflector, however, was an ideal instru-
+ment for measuring this weak halo radiation at shorter wavelengths. One
+of my intentions when I came to Bell Labs was to make such a measure-
+ment.
+   In 1963, a maser at 7.35 cm wavelength 3 was installed on the 20-foot
+horn-reflector. Before we could begin doing astronomical measurements,
+however, we had to do two things: 1) build a good radiometer incorporat-
+ing the 7.35 cm maser amplifier, and; 2) finish the accurate measurement
+of the collecting-area (sensitivity) of the 20-foot horn-reflector which D. C.
+Hogg had begun. Among our astronomical projects for 7 cm were absolute
+intensity measurements of several traditional astronomical calibration
+sources and a series of sweeps of the Milky Way to extend my thesis work.
+In the course of this work we planned to check out our capability of
+measuring the halo radiation of our Galaxy away from the Milky Way.
+Existing low frequency measurements indicated that the brightness tem-
+perature of the halo would be less than 0.1 K at 7 cm. Thus, a background
+measurement at 7 cm should produce a null result and would be a good
+check of our measuring ability.
+   After completing this program of measurements at 7 cm, we planned to
+build a similar radiometer at 21 cm. At that wavelength the galactic halo
+should be bright enough for detection, and we would also observe the 21
+cm line of neutral hydrogen atoms. In addition, we planned a number of
+hydrogen-line projects including an extension of the measurements of
+Arno’s thesis, a search for hydrogen in clusters of galaxies.
+   At the time we were building the 7-cm radiometer John Bolton visited us
+and we related our plans and asked for his comments. He immediately
+selected the most difficult one as the most important: the 21 cm back-
+ground measurement. First, however, we had to complete the observations
+at 7 cm.
+
+
+IV. RADIOMETER SYSTEM
+
+We wanted to make accurate measurements of antenna temperatures. To
+do this we planned to use the radiometer to compare the antenna to a
+reference source, in this case, a radiator in liquid helium. I built a switch
+
+
+468
+
+
+which would connect the maser amplifier either to the antenna or to
+Arno’s helium-cooled reference noise source 5 (cold load). This would allow
+an accurate comparison of the equivalent temperature of the antenna to
+that of the cold load, since the noise from the rest of the radiometer would
+be constant during switching. A diagram of this calibration system 6 i s
+shown in Figure 3 and its operation is described below.
+
+
+
+
+                                                            NOISE LAMP
+
+
+
+
+Fig. 3 The switching and calibration system of our 7.35 cm radiometer, The reference port
+was normally connected to the helium cooled reference source through a noise adding
+attenuator.
+
+a. Switch
+The switch for comparing the cold load to the antenna consists of the two
+polarization couplers and the polarization rotator shown in Fig. 3. This
+type of switch had been used by D. H. Ring in several radiometers at
+Holmdel. It had the advantage of stability, low loss, and small reflections.
+The circular waveguide coming from the antenna contains the two ortho-
+gonal modes of polarization received by the antenna. The first polarization
+coupler reflected one mode of linear polarization back to the antenna and
+substituted the signal from the cold load for it in the waveguide going to
+the rotator. The second polarization coupler took one of the two modes of
+linear polarization coming from the polarization rotator and coupled it to
+the rectangular (single-mode) waveguide going to the maser. The polariza-
+tion rotator is the microwave equivalent of a half-wave plate in optics. It is a
+
+
+                                     R. W. Wilson                         469
+
+
+piece of circular waveguide which has been squeezed in the middle so that
+the phase shifts for waves traveling through it in its two principal planes of
+linear polarization differ by 180 degrees. By mechanically rotating it, the
+polarization of the signals passing through it can be rotated. Thus either
+the antenna or cold load could be connected to the maser.
+   This type of switch is not inherently symmetric, but has very low loss and
+is stable so that its asymmetry of .05 K was accurately measured and
+corrected for.
+
+b. Reference Noise Source
+A drawing of the liquid-helium cooled reference noise source is shown in
+Figure 4. It consists of a 122 cm piece of 90 percent-copper brass wave-
+guide connecting a carefully matched microwave absorber in liquid He to a
+room-temperature flange at the top. Small holes allow liquid helium to fill
+the bottom section of waveguide so that the absorber temperature could be
+known, while a mylar window at a 30” angle keeps the liquid out of the rest
+of the waveguide and makes a low-reflection microwave transition between
+the two sections of waveguide. Most of the remaining parts are for the
+cryogenics. The gas baffles make a counter-flow heat exchanger between
+the waveguide and the helium gas which has boiled off, greatly extending
+the time of operation on a charge of liquid helium. Twenty liters of liquid
+helium cooled the cold load and provided about twenty hours of opera-
+tion.
+
+
+
+
+Fig. 4 The Helium Cooled Reference Noise Source.
+
+
+
+
+  Above the level of the liquid helium, the waveguide walls were warmer
+than 4.2 K. Any radiation due to the loss in this part of the waveguide
+would raise the effective temperature of the noise source above 4.2 K and
+
+
+470                                     Physics 1978
+
+
+must be accounted for. To do so we monitored the temperature distribu-
+tion along the waveguide with a series of diode thermometers and calculat-
+ed the contribution of each section of the waveguide to the equivalent
+temperature of the reference source. When first cooled down, the calculat-
+ed total temperature of the reference noise source was about 5 K, and after
+several hours when the liquid helium level was lower, it increased to 6 K.
+As a check of this calibration procedure, we compared the antenna tem-
+perature (assumed constant) to our reference noise source during this
+period, and found consistency to within 0.1 K.
+
+C. Scale Calibration
+A variable attenuator normally connected the cold load to the reference
+port of the radiometer. This device was at room temperature so noise
+could be added to the cold load port of the switch by increasing its
+attenuation. It was calibrated over a range of 0.11 dB which corresponds
+to 7.4 K of added noise.
+   Also shown in Fig. 3 is a noise lamp (and its directional coupler) which
+was used as a secondary standard for our temperature scale.
+
+d. Radiometer Backend
+Signals leaving the maser amplifier needed to be further amplified before
+detection so that their intensity could be measured accurately. The remain-
+der of our radiometer consisted of a down converter to 70 MHz followed
+by I. F. amplifiers, a precision variable attenuator and a diode detector.
+The output of the diode detector was amplified and went to a chart
+recorder.
+
+
+
+
+Fig. 5 Our 7.35 cm radiometer installed in the cab of the 20 foot horn-reflector.
+
+
+                                          R. W. Wilson                                      471
+
+
+e. Equipment Performance
+Our radiometer equipment installed in the cab of the 20-foot horn-reflec-
+tor is shown in Fig. 5. The flange at the far right is part of the antenna and
+rotates in elevation angle with it. It was part of a double-choke joint which
+allowed the rest of the equipment to be fixed in the cab while the antenna
+rotated. The noise contribution of the choke-joint could be measured by
+clamping it shut and was found to be negligible. We regularly measured
+the reflection coefficient of the major components of this system and kept
+it below 0.03 percent, except for the maser whose reflection could not be
+reduced below 1 percent. Since all ports of our waveguide system were
+terminated at a low temperature, these reflections resulted in negligible
+errors.
+
+V. PRIOR OBSERVATIONS
+The first horn-reflector-travelling-wave maser system had been put to-
+gether by DeGrasse, Hogg, Ohm, and Scovil in 1959 7 to demonstrate the
+feasibility of a low-noise, satellite-earth station at 5.31 cm. Even though
+they achieved the lowest total system noise temperature to date, 18.5 K,
+they had expected to do better. Fig. 6 shows their system with the noise
+temperature they assigned to each component. As we have seen in Section
+IIa,
+
+ S ID E   OR
+
+
+
+
+Fig. 6 A diagram of the low noise receiver used by deGrasse, Hogg, Ohm and Scovil to show
+that very low noise earth stations are possible. Each component is labeled with its contribution
+to the system noise.
+
+
+the 2 K they assigned to antenna backlobe pickup is too high. In addition,
+direct measurements of the noise temperature of the maser gave a value
+about a degree colder than shown here. Thus their system was about 3 K
+hotter than one might expect. The component labeled T s in Fig. 6 is the
+radiation of the earth’s atmosphere when their antenna was aimed straight
+up. It was measured by a method first reported by R. H. Dicke 8. (It is
+interesting that Dicke also reports an upper limit of 20 K for the cosmic
+microwave background radiation in this paper - the first such report.) If
+the antenna temperature is measured as a function of the angle above the
+
+
+472                                    Physics 1978
+
+
+horizon at which it is pointing, the radiation of the atmosphere is at a
+minimum when the antenna is directed straight up. It increases as the
+antenna points toward the horizon, since the total line of sight through the
+atmosphere increases. Figure 7 is a chart recording Arno Penzias and I
+
+
+
+
+Fig. 7 A measurement of atmospheric noise at 7.35 cm wavelength with theoretical fits to the
+data for 2.2 and 2.4K Zenith atmospheric radiation.
+
+
+                                             R. W. Wilson                                  473
+
+
+made with the 20-foot horn-reflector scanning from almost the Zenith
+down to       above the horizon. The circles and crosses are the expected
+change based on a standard model of the earth’s atmosphere for 2.2 and
+2.4 K Zenith contribution. The fit between theory and data is obviously
+good leaving little chance that there might be an error in our value for
+atmospheric radiation.
+   Fig. 8 is taken from the paper in which E. A. Ohm 9 d e s c r i b e d t h e
+receiver on the 20-foot horn reflector which was used to receive signals
+bounced from the Echo satellite. He found that its system temperature was
+3.3 K higher than expected from summing the contributions of the compo-
+nents. As in the previous 5.3 cm work, this excess temperature was smaller
+
+
+
+
+            the temperature was found to vary a few degrees from day to day, but
+            the lowest temperature was consistently 22.2 ±              By realistically
+            assuming that all sources were then contributing their fair share (as is
+            also tacitly assumed in Table II) it is possible to improve the over-all
+            accuracy. The actual system temperature must be in the overlap region
+            of the measured results and the total results of Table II, namely between
+            20 and          The most likely minimum system temperature was there-
+            fore
+
+
+
+
+Fig. 8 An   excerpt   from E. A. Ohm’s article on the Echo receiver showing that his system
+temperature was 3.3K higher than predicted
+
+
+than the experimental errors, so not much attention was paid to it. In
+order to determine the unambiguous presence of an excess source of
+radiation of about 3 K, a more accurate measurement technique was re-
+quired. This was achieved in the subsequent measurements by means of a
+switch and reference noise source combination which communications
+systems do not have.
+
+VI. OUR OBSERVATIONS
+
+Fig. 9 is a reproduction of the first record we have of the operation of our
+system. At the bottom is a list of diode thermometer voltages from which
+we could determine the cold load’s equivalent temperature. The recorder
+trace has power (or temperature) increasing to the right. The middle part
+of this trace is with the maser switched to the cold load with various settings
+of the noise adding attenuator. A change of 0.1 dB corresponds to a
+temperature change of 6.6 K, so the peak-to-peak noise on the trace
+amounts to less than 0.2 K. At the top of the chart the maser is switched to
+
+
+Fig. 9 The first measurement which clearly showed the presence of the microwave b a c k -
+ground. Noise temperature is plotted increasing to the right. At the top, the antenna pointed
+at    elevation is seen to have the samt noise temperature as the cold load with 0.04 db
+attenuation (about 7.5K). This is considerably above the expected value of 3.3K.
+
+
+
+
+the antenna and has about the same temperature as the cold load plus .04
+dB, corresponding to a total of about 7.5 K. This was a troublesome result.
+The antenna temperature should have been only the sum of the atmo-
+spheric contribution (2.3 K) and the radiation from the walls of the
+antenna and ground (1 K). The excess system temperature found in the
+previous experiments had, contrary to our expectations, all been in the
+antenna or beyond. We now had a direct comparison of the antenna with
+the cold load and had to assign our excess temperature to the antenna
+whereas in the previous cases only the total system temperature was mea-
+sured. If we had missed some loss, the cold load might have been warmer
+than calculated, but it could not be colder than 4.2 K - the temperature of
+the liquid helium. The antenna was at least 2 K hotter than that. Unless we
+could understand our “antenna problem” our 21 cm galactic halo experi-
+
+
+                                  R. W. Wilson                             475
+
+ment would not be possible. We considered a number of possible reasons
+for this excess and, where warranted, tested for them. These were:
+a. At that time some radio astronomers thought that the microwave ab-
+    sorption of the earth’s atmosphere was about twice the value we were
+    using - in other words the “sky temperature” of Figs. 6 and 8 was about
+    5 K instead of 2.5 K. We knew from our measurement of sky tempera-
+    ture such as shown in Fig. 7 that this could not be the case.
+b. We considered the possibility of man-made noise being picked up by
+    our antenna. However, when we pointed our antenna to New York
+    City, or to any other direction on the horizon, the antenna temperature
+    never went significantly above the thermal temperature of the earth.
+c. We considered radiation from our galaxy. Our measurements of the
+    emission from the plane of the Milky Way were a reasonable fit to the
+    intensities expected from extrapolations of low-frequency measure-
+    ments. Similar extrapolations for the coldest part of the sky (away from
+    the Milky Way) predicted about .02 K at our wavelength. Furthermore,
+    any galactic contribution should also vary with position and we saw
+    changes only near the Milky Way, consistent with the measurements at
+    lower frequencies.
+d. We ruled out discrete extraterrestrial radio sources as the source of our
+    radiation as they have spectra similar to that of the Galaxy. The same
+    extrapolation from low frequency measurements applies to them. The
+    strongest discrete source in the sky had a maximum antenna tempera-
+     ture of 7 K.
+   Thus we seemed to be left with the antenna as the source of our extra
+noise. We calculated a contribution of 0.9 K from its resistive loss using
+standard waveguide theory. The most lossy part of the antenna was its
+small diameter throat, which was made of electroformed copper. We had
+measured similar waveguides in the lab and corrected the loss calculations
+for the imperfect surface conditions we had found in those waveguides.
+The remainder of the antenna was made of riveted aluminum sheets, and
+although we did not expect any trouble there, we had no way to evaluate
+the loss in the riveted joints. A pair of pigeons was roosting up in the small
+part of the horn where it enters the warm cab. They had covered the inside
+with a white material familiar to all city dwellers. We evicted the pigeons
+and cleaned up their mess, but obtained only a small reduction in antenna
+temperature.
+   For some time we lived with the antenna temperature problem and
+concentrated on measurements in which it was not critical. Dave Hogg and
+I had made a very accurate measurement of the antenna’s gain 10 , and
+Arno and I wanted to complete our absolute flux measurements before
+disturbing the antenna further.
+   In the spring of 1965 with our flux measurements finished 5, we thor-
+oughly cleaned out the 20-foot horn-reflector and put aluminum tape over
+the riveted joints. This resulted in only a minor reduction in antenna
+temperature. We also took apart the throat section of the antenna, and
+checked it, but found it to be in order.
+
+
+476                                       Physics 1978
+
+
+   By this time almost a year had passed. Since the excess antenna tempera-
+ture had not changed during this time, we could rule out two additional
+sources: 1) Any source in the solar system should have gone through a
+large change in angle and we should have seen a change in antenna
+temperature. 2) In 1962, a high-altitude nuclear explosion had filled up
+the Van Allen belts with ionized particles. Since they were at a large
+distance from the surface of the earth, any radiation from them would not
+show the same elevation-angle dependence as the atmosphere and we
+might not have identified it. But after a year, any radiation from this
+source should have reduced considerably.
+
+
+
+
+VII.    IDENTIFICATION
+
+The sequence of events which led to the unravelling of our mystery began
+one day when Arno was talking to Bernard Burke of M.I.T. about other
+matters and mentioned our unexplained noise. Bernie recalled hearing
+about theoretical work of P. J. E. Peebles in R. H. Dicke’s group in
+Princeton on radiation in the universe. Arno called Dicke who sent a copy
+of Peebles’ preprint. The Princeton group was investigating the implica-
+tions of an oscillating universe with an extremely hot condensed phase.
+This hot bounce was necessary to destroy the heavy elements from the
+previous cycle so each cycle could start fresh. Although this was not a new
+idea” Dicke had the important idea that if the radiation from this hot
+phase were large enough, it would be observable. In the preprint, Peebles,
+following Dicke’s suggestion calculated that the universe should be filled
+with a relic blackbody radiation at a minimum temperature of 10 K.
+Peebles was aware of Hogg and Semplak’s (1961) 12 measurement of atmo-
+spheric radiation at 6 cm using the system of DeGrasse et al., and conclud-
+ed that the present radiation temperature of the universe must be less than
+their system temperature of 15 K. He also said that Dicke, Roll, and
+Wilkinson were setting up an experiment to measure it.
+   Shortly after sending the preprint, Dicke and his coworkers visited us in
+order to discuss our measurements and see our equipment. They were
+quickly convinced of the accuracy of our measurements. We agreed to a
+side-by-side publication of two letters in the Astrophysical Journal - a letter on
+the theory from Princeton and one on our measurement of excess anten-
+                                      13
+
+
+
+n a t e m p e r a t u r e f r o m B e l l L a b o r a t o r i e s 1 4 . Arno and I were careful to
+exclude any discussion of the cosmological theory of the origin of back-
+ground radiation from our letter because we had not been involved in any
+of that work. We thought, furthermore, that our measurement was inde-
+pendent of the theory and might outlive it. We were pleased that the
+mysterious noise appearing in our antenna had an explanation of any
+kind, especially one with such significant cosmological implications. Our
+mood, however, remained one of cautious optimism for some time.
+
+
+                                        R.W. Wilson                                   477
+
+VIII. RESULTS
+While preparing our letter for publication we made one final check on the
+antenna to make sure we were not picking up a uniform 3 K from earth.
+We measured its response to radiation from the earth by using a transmit-
+ter located in various places on the ground. The transmitter artificially
+increased the ground’s brightness at the wavelength of our receiver to a
+level high enough for the backlobe response of the antenna to be measur-
+able. Although not a perfect measure of the structure of the backlobes of
+an antenna, it was a good enough method of determining their average
+level. The backlobe level we found in this test was as low as we had
+expected and indicated a negligible contribution to the antenna tempera-
+ture from the earth.
+   The right-hand column of Fig. 10 shows the final results of our measure-
+ment. The numbers on the left were obtained later in 1965 with a new
+throat on the 20-foot horn-reflector. From the total antenna temperature
+we subtracted the known sources with a result of 3.4 ± 1 K. Since the errors
+in this measurement are not statistical, we have summed the maximum
+error from each source. The maximum measurement error of 1 K was
+considerably smaller than the measured value, giving us confidence in the
+reality of the result. We stated in the original paper that “This excess
+temperature is, within the limits of our observations, isotropic, unpolar-
+ized, and free of seasonal variations”. Although not stated explicitly, our
+limits on an isotropy and polarization were not affected by most of the
+errors listed in Fig. 10 and were about 10 percent or 0.3 K.
+
+
+
+
+                                           New Throat                     Old Throat
+
+
+
+
+Fig. 10 Results of our 3965 measurements of the microwave background. “Old Throat” and
+“New Throat” refer to the original and a replacement throat section for the 20 foot horn-
+reflector.
+
+
+478                               Physics 1978
+
+
+  At that time the limit we could place on the shape of the spectrum of the
+background radiation was obtained by comparing our value of 3.5 K with a
+74 cm survey of the northern sky done at Cambridge by Pauliny-Toth and
+Shakeshaft, 1962 15 . The minimum temperature on their map was 16 K.
+Thus the spectrum was no steeper than λ 0.7 over a range of wavelengths
+that varied by a factor of 10. This clearly ruled out any type of radio source
+known at that time, as they all had spectra with variation in the range λ 2.0
+to λ 3.0 . The previous Bell Laboratories measurement at 6 cm ruled out a
+spectrum which rose rapidly toward shorter wavelengths.
+
+
+IX. CONFIRMATION
+
+After our meeting, the Princeton experimental group returned to com-
+plete their apparatus and make their measurement with the expectation
+that the background temperature would be about 3 K.
+   The first confirmation of the microwave cosmic background that we
+knew of, however, came from a totally different, indirect measurement.
+This measurement had, in fact, been made thirty years earlier by Adams
+and Dunhan 16-21 . Adams and Dunhan had discovered several faint optical
+interstellar absorption lines which were later identified with the molecules
+C H , C H+ , and CN. In the case of CN, in addition to the ground state,
+absorption was seen from the first rotationally excited state. McKellar 22
+using Adams’ data on the populations of these two states calculated that
+the excitation temperature of CN was 2.3 K. This rotational transition
+occurs at 2.64 mm wavelength, near the peak of a 3 K black body spec-
+trum. Shortly after the discovery of the background radiation, G. B.
+Field 23 , I. S. Shklovsky24 , and P. Thaddeus 25 (following a suggestion by N.
+J. Woolf), independently realized that the CN is in equilibrium with the
+background radiation. (There is no other significant source of excitation
+where these molecules are located). In addition to confirming that the
+background was not zero, this idea immediately confirmed that the spec-
+trum of the background radiation was close to that of a blackbody source
+for wavelengths larger than the peak. It also gave a hint that at short
+ wavelengths the intensity was departing from the 1           dependence expect-
+ ed in the long wavelength (Raleigh-Jeans) region of the spectrum and
+ following the true blackbody (Plank) distribution. In 1966, Field and
+ Hitchcock 23 reported new measurements using Herbig’s plates of Oph
+a n d Per obtaining 3.22 ± 0.15 K and 3.0 ± 0.6 K for the excitation
+temperature. Thaddeus and Clauser also obtained new plates and mea-
+                                         25
+
+
+
+sured 3.75 ± 0.5 K in       Oph. Both groups argued that the main source of
+excitation in CN is the background radiation. This type of observation,
+taken alone, is most convincing as an upper limit, since it is easier to
+imagine additional sources of excitation than refrigeration.
+   In December 1965 Roll and Wilkinson 26 completed their measurement
+of 3.0 ± 0.5 K at 3.2 cm, the first confirming microwave measurement.
+This was followed shortly by Howell and Shakeshaft's 27 value of 2.8 ± 0.6
+
+
+                                         R. W. Wilson                                    479
+
+
+K at 20.7 cm22 and then by our measurement of 3.2 K ± 1 K at 21.1 cm 28 .
+(Half of the difference between these two results comes from a difference
+in the corrections used for the galactic halo and integrated discrete
+sources.) By mid 1966 the intensity of the microwave background radi-
+ation had been shown to be close to 3 K between 21 cm and 2.6 mm, almost
+two orders of magnitude in wavelength.
+
+X. EARLIER THEORY
+
+I have mentioned that the first experimental evidence for cosmic
+microwave background radiation was obtained (but unrecognized) long
+before 1965. We soon learned that the theoretical prediction of it had been
+made at least sixteen years before our detection. George Gamow had made
+calculations of the conditions in the early universe in an attempt to under-
+stand Galaxy formation 29 . Although these calculations were not strictly
+correct, he understood that the early stages of the universe had to be very
+hot in order to avoid combining all of the hydrogen into heavier elements.
+Furthermore, Gamow and his collaborators calculated that the density of
+radiation in the hot early universe was much higher than the density of
+matter. In this early work the present remnants of this radiation were not
+considered. However in 1949, Alpher and Herman 30 followed the evolu-
+tion of the temperature of the hot radiation in the early universe up to the
+present epoch and predicted a value of 5 K. They noted that the present
+density of radiation was not well known experimentally. In 1953 Alpher,
+Follin, and Herman 31 reported what has been called the first thoroughly
+modern analysis of the early history of the universe, but failed to recalcu-
+late or mention the present radiation temperature of the universe.
+   In 1964, Doroshkevich and Novikov 32 33, h a d a l s o c a l c u l a t e d t h e r e l i c
+radiation and realized that it would have a blackbody spectrum. They
+quoted E. A. Ohm’s article on the Echo receiver, but misunderstood it and
+concluded that the present radiation temperature of the universe is near
+zero.
+   A more complete discussion of these early calculations is given in Arno’s
+lecture. 34
+
+XI. ISOTROPY
+
+In assigning a single temperature to the radiation in space, these theories
+assume that it will be the same in all directions. According to contemporary
+theory, the last scattering of the cosmic microwave background radiation
+occurred when the universe was a million years old, just before the elec-
+trons and nucleii combined to form neutral atoms (“recombination”).The
+isotropy of the background radiation thus measures the isotropy of the
+universe at that time and the isotropy of its expansion since then. Prior to
+recombination, radiation dominated the ‘universe and the Jeans mass, or
+mass of the smallest gravitationally stable clumps was larger than a cluster
+of Galaxies. It is only in the period following recombination that Galaxies
+could have formed.
+
+
+480
+
+
+
+
+                      ANGLE BETWEEN INSTRUMENT DIRECTION AND SITE
+                            OF MAXIMUM TEMPERATURE (DEGREES)
+Fig. 11 Results of the large scale isotropy Experiment of Smoot, Gorenstein a n d M u l l e r
+showing the clear cosine dependence of brightness expected from the relative velocity of the
+earth in the background radiation. The shaded area and arrows show the values allowed b y
+the data of Woody and Richards . (This figure is reproduced with permission of Scientific
+American.)
+
+   In 1967 Rees and Sciama 35 suggested looking for large scale anisotropies
+in the background radiation which might have been left over from aniso-
+tropies of the universe prior to recombination.
+   In the same year Wilkinson and Partridge 36 completed an experiment
+which was specifically designed to look for anisotropy within the equatorial
+plane. The reported a limit of 0.1 percent for a 24 hour asymmetry and a
+possible 12 hour asymmetry of 0.2 percent. Meanwhile we had re-analyzed
+an old record covering most of the sky which was visible to us and put a
+limit of 0.1 K on any large scale fluctuations.37
+   S i n c e t h e n a s e r i e s o f m e a s u r e m e n t s 38 39 40 h a v e s h o w n a 2 4 - h o u r
+anisotropy due to the earth’s velocity with respect to the background
+radiation. Data from the most sensitive measurement to date 41 are shown
+in Fig. 11. They show a striking cosine anisotropy with an amplitude of
+about .003 K, indicating that the background radiation has a maximum
+temperature in one direction and a minimum in the opposite direction.
+The generally accepted explanation of this effect is that the earth is
+moving toward the direction where the radiation is hottest and it is the
+blue shift of the radiation which increases its measured temperature in
+that direction. The motion of the sun with respect to the background
+radiation from the data of Smoot et al. is 390 ± 60 km/s in the direction
+                    o
+         R. A., 5 Dec. The magnitude of this velocity is not a surprise since
+300 km/s is the orbital velocity of the sun around our galaxy. The direc-
+tion, is different, however yielding a peculiar velocity of our galaxy of
+about 600 km/s. Since other nearby Galaxies; including the Virgo cluster,
+
+
+                                   R. W Wilson                              481
+
+
+have a small velocity with respect to our Galaxy, they have a similar velocity
+with respect to the matter which last scattered the background radiation.
+After subtracting the 24-hour anisotropy, one can search the data for more
+complicated anisotropies to put observational limits on such things as
+rotation of the universe 41 . Within the noise of .001 K, these anisotropies
+are all zero.
+   To date, no fine-scale anisotropy has been found. Several early investiga-
+tions were carried out to discredit discrete source models of the back-
+ground radiation. In the most sensitive experiment to date, Boynton and
+Partridge 42 report a relative intensity variation of less than 3.7 x 10-3 in an
+80” Arc beam. A discrete source model would require orders of magnitude
+more sources than the known number of Galaxies to show this degree of
+smoothness.
+   It has also been suggested by Sunyaev and Zel’dovich43 that there will be
+a reduction of the intensity of the background radiation from the direction
+of clusters of galaxies due to inverse Compton scattering by the electrons
+in the intergalactic gas. This effect which has been found by Birkinshaw
+and Gull 44 , provides a measure of the intergalactic gas density in the
+clusters and may give an alternate measurement of Hubble’s constant.
+
+
+
+
+XII. SPECTRUM
+
+Since 1966, a large number of measurements of the intensity of the
+background radiation have been made at wavelengths from 74 cm to 0.5
+mm. Measurements have been made from the ground, mountain tops,
+
+
+482                                  Physics 1978
+
+
+airplanes, balloons, and rockets. In addition, the optical measurements of
+the interstellar molecules have been repeated and we have observed their
+millimeter-line radiation directly to establish the equilibrium of the excita-
+tion of their levels with the background radiation45. Fig. 12 is a plot of most
+of these measurements 46 . An early set of measurements from Princeton
+covered the range 3.2 to .33 cm showing tight consistency with a 2.7 K
+black body
+              47-50
+                    . A series of rocket and balloon measurements in the
+millimeter and submillimeter part of the spectrum have converged on
+about 3 K. The data of Robson, et al. 51 and Woody and Richards 52 extend
+to 0.8 mm, well beyond the spectral peak. The most recent experiment,
+that of D. Woody and P. Richards, gives a close fit to a 3.0 K spectrum out
+to 0.8 mm wavelength with upper limits at atmospheric windows out to 0.4
+mm. This establishes that the background radiation has a blackbody spec-
+trum which would be quite hard to reproduce with any other type of
+cosmic source. The source must have been optically thick and therefore
+must have existed earlier than any of the other sources, which can be
+observed.
+   The spectral data are now almost accurate enough for one to test for
+systematic deviations from a single-temperature blackbody spectrum
+which could be caused by minor deviations from the simplest cosmology.
+Danese and DeZotti 53 report that except for the data of Woody and
+Richards, the spectral data of Fig. 12 do not show any statistically signifi-
+cant deviation of this type.
+
+
+XIII. CONCLUSION
+
+Cosmology is a science which has only a few observable facts to work with.
+The discovery of the cosmic microwave background radiation added one
+- the present radiation temperature of the universe. This, however, was a
+significant increase in our knowledge since it requires a cosmology with a
+source for the radiation at an early epoch and is a new probe of that epoch.
+More sensitive measurements of the background radiation in the future
+will allow us to discover additional facts about the universe.
+
+
+XIV. ACKNOWLEDGMENTS
+The work which I have described was done with Arno A. Penzias. In our
+fifteen years of partnership he has been a constant source of help and
+encouragement. I wish to thank W. D. Langer and Elizabeth Wilson for
+carefully reading the manuscript and suggesting changes.
+
+
+
+REFERENCES
+ 1. A more complete discussion of radio telescope antennas and receivers may be found in
+    several text books. Chapters 6 and 7 of J. D. Kraus “Radio Astronomy”, 1966, McGraw-
+    Hill are good introductions to the subjects.
+ 2. Crawford, A. B. Hogg, D. C. and Hunt, L. E. 1961, Bell System Tech. J., 40, 1095.
+
+
+                                        R. W. Wilson                                    483
+
+ 3.  DeGrasse, R. W. Schultr-DuBois, E. 0. and Scovil, H. E. D. BSTJ 38, 30.5.
+ 4.  Tabor, W. J. and Sibilia, J. 1‘. 1963, Bell System Tech. J., 42, 1863.
+ 5.  Penzias, A. A. 1965, Rev. Sci. Instr., 36. 68.
+ 6.  Penzias, A. A. and Wilson, R. W. 1965 Astrophysical Journal 142. 1149.
+ 7.  DeGrasse, R. W. Hogg, D. C. Ohm, E. A. and Scovil, H. E. D. 1950, Proceedings of the
+     National Electronics Conference. 15, 370.
+  8. Dicke. R. Beringer R. Kyhl, R. L. and Vane, A. V. Phys. Rev. 70, 340 (1046).
+  9, Ohm, E. A. 1961 BSTJ, 40, 1065.
+10. Hogg, D. C. and Wilson, R. W. Bell system Tech J., 44, 1019.
+11. c.f. F. Hoyle and R. J. Taylor 1964. Nature 203, 1108. A less explicit discussion of the
+     same notion occurs in [29].
+12. Hogg, D. C. and Semplak, R. A. 1961, Bell System Technical Journal. 40, 1331 .
+13. Dicke, R. H. Peebles, P. J. E. Roll, P. G. and Wilkinson, D. T. 1965, Ap. J., 142. 4 14.
+14. Penzias, A. A. and Wilson R. W. 1965, Ap. J.. 142, 420.
+15. Pauliny-Toth, I. I. K. and Shakeshaft, J. R. 1962, M. N. RAS.. 124, 61.
+16. Adams, W. S. 1941, Ap. J. 93, 11.
+17. Adams, W. S. 1943, Ap. J., 97, 105.
+18. Dunham, T. Jr. 1937, PASP, 49, 26.
+19. Dunham, T. Jr. 1939, Proc. Am. Phil. Soc., 81, 277.
+20. Dunham, T. Jr. 1941, Publ. Am. Astron. Soc., 10, 123.
+21. Dunham, T. Jr. and W. S. Adams 1937, Publ. Am. Astron. Soc., 9, 5.
+22. McKellar, A. 1941, Publ. Dominion Astrophysical Observatory Victoria B. C. 7, 251.
+23. G. B. Field, G. H. Herbig and J. L. Hitchcock, talk at the American Astronomical Society
+     Meeting, 22-29 December 1965, Astronomical Journal 1966, 71. 161; G. B. Field and J .
+     I,. Hitchcock, 1966, Phys. Rev. Lett. 16, 8 17.
+24. Shklovsky, I. S. 1966, Astron. Circular No. 364, Acad. Sci. USSR.
+25. Thaddeus, P. and Clauser, J. F. 1966, Phys. Rev. Lett. 16, 8 19.
+26. Roll, P. G. and Wilkinson, D. T. 1966, Physical Review Letters, 16, 405.
+27. Howell, T. F. and Shakeshaft, J. R. 1966, Nature 210, 138.
+28. Penzias, A. A. and Wilson R. W. 1967, Astron. J. 72, 315.
+29. Gamow, G. 1948, Nature I62 680.
+30. Alpher, R. .4. and Herman, R. C. 1949, Phys. Rev., 75, 1089.
+31. Alpher, R. A. Follin, J. W. and Herman, R. C. 1953, Phys. Rev., 92, 1347.
+32. Doroshkevich, A. G. and Novikov. I. D. 1964 Dokl. Akad. Navk. SSR 154, 809.
+33. Doroshkevich, A. G. and Novikov, I. D. 1964 Sov. Phys. Dokl. 9, 111 .
+34. Penzias, A. A. The Origin of the Elements, Nobel Prize lecture 1978.
+3.5. Rees, M. J. and Sciama, D. W. 1967, Nature, 213, 374.
+36. Partridge, R. B. and Wilkinson, D. T. 1967, Nature, 215, 7 19.
+37. Wilson, R. W. and Penzias, A. A. 1967, Science 156, 1100.
+38. Conklin, E. K. 1969, Nature, 222, 97 I.
+39. Henry, P. S. 1971, Nature, 231, 516.
+40. Corey, B. E. and Wilkinson, D. T. 1976, Bull. Astron. Astrophys. Soc., 8, 351.
+41. Smoot, G. F. Gorenstein, M. V. and Muller, R. A. 1977, Phys. Rev. Lett., 39, 898.
+42. Boynton, P. E. and Partridge, R. B. 1973, Ap. J., 181, 243.
+43. Sunyaev, R. A. and Zel’dovich, Ya B 1972, Comments Astrophys. Space Phys., 4, 173.
+44. Birkinshaw, M. and Gull, S. F. 1978, Nature275 40.
+45. Penzias, A. A. Jefferts, K. B. and Wilson, R. W’. 1972, Phys. Rev. Letters, 28, 772.
+46. The data in Fig. 11 are all referenced by Danese and Dezotti 4 5 except for the 13 cm
+     measurement of T. Otoshi 1975, IEEE Trans on Instrumentation and Meas. 24 174. I
+     have used the millimeter measurements of Woody and Richards 48 and left off those of
+     Robson et al 47 to avoid confusion.
+47. Wilkinson, D. J. 1967, Phys. Rev. Letters. 19, 1195.
+48. Stokes, R. A. Partridge, R. B. and Wilkinson, D. J. 1967. Phys. Rev. Letters, 19, 1199.
+49. Boynton, P. E. Stokes, R. A. and Wilkinson, D. J. 1968, Phys. Rev. Letters, 21, 462.
+50. Boynton, P. E. and Stokes, R. A. 1974, Nature, 247, 528.
+51. Robson, E. I. Vickers, D. G. Huizinga, J. S. Beckman.J. E. and Clegg, P. E. 1974, Nature
+     251, 591.
+52. Woody, D. P. and Richards, P. L. Private communication.
+53. Danese, L. and DeZotti, G. 1978, Astron. and Astrophys.. 68, 157.
+

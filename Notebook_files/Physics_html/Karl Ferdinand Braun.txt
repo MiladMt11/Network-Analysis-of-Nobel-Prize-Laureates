@@ -1,0 +1,656 @@
+                         KA R L F E R D I N A N D B R A U N
+
+
+     Electrical oscillations and wireless telegraphy
+                      Nobel Lecture, December 11, 1909
+
+
+
+In accepting, today, the great honour and privilege of addressing the mem-
+bers of an Academy which though of venerable age is constantly renewed
+and invigorated by the contribution of fresh strength and energy, I hope for
+your indulgence and understanding when I conceive my task not to be that
+of talking about wireless telegraphy in general. I have felt it more fitting to
+limit myself to the narrower field of the activities in which I have been suc-
+cessful in taking some part in the development of the whole.
+   I shall ignore my experiments on the propagation of electrical waves
+through water which I carried out in the summer of 1898, and shall turn at
+once to the experiments which were described and conceived at that time as
+being transmission through the air.
+   The following should first be mentioned: Marconi, as far as I know, had
+begun his experiments on his father’s estate in 1895, and continued them in
+England in 1896. His experiments in Spezia harbour were, with other ones,
+carried out in 1897, and a distance of 15 km was attained. In the autumn of the
+same year, Slaby, using much the same arrangement, reached 21 km over
+land but only by means of balloons to which were attached wires of 300 m
+in length. Why, must one ask, was it so difficult to increase the range? If the
+whole arrangement functioned satisfactorily over a distance of 15 km, why
+could not double and more the distance be attained by increasing the initial
+voltage, the means of doing which was available? It seemed, however, as if
+ever larger antennae were necessary. It was with this impression - whether
+the papers had correctly reported the experiments or not, I shall let pass -
+that I turned my attention to the subject in the autumn of 1898. I set myself
+the task of obtaining stronger effects from the transmitter.
+   If I am to give you the general thoughts and concepts which guided me I
+must ask you to carry yourselves back with me to the standpoint of our
+knowledge at that time. What facts were at our disposal and what conclu-
+sions could be drawn from them? It was known how sensitive the Hertzian
+oscillations were to the quality of the spark, and also that lengthening the
+spark led to definitely deleterious effects whereby the spark became "in-
+
+
+ELECTRICAL OSCILLATIONS AND WIRELESS TELEGRAPHY                         227
+
+active". Hertz had already, in his first work, called attention to the strong
+damping of the oscillators and compared their electrical oscillations with the
+ill-defined acoustic oscillations of wooden rods. Bjerknes, in 1891, had suc-
+cessfully measured the damping and found the logarithmic decrement (as
+well known the measure for damping) for a linear oscillator to be 0.26,
+when he used only a minute spark gap. When, however, the spark gap was
+increased to 5 mm, the decrement rose to 0.40. This, and a series of other
+facts, indicated the existence of strong spark damping. All known facts be-
+came understandable if one assumed that at low capacities the spark con-
+sumed a great part of the energy, and the longer the spark was, the larger was
+the part of energy it consumed. On the other hand, it had long been known
+that the discharge of bigger capacities in the customary arcs was always
+oscillatory, and (in radiation-free paths) was obviously much less attenuated.
+In fact Feddersen had already directly photographed up to 20 half-cycles of
+oscillations in 1862. I took hold of this fact.
+    Considering the greater amounts of energy which can be collected and
+stored in suitable experimental form in capacitors, one could expect to deliv-
+er radiated energy for some time from them. Taken all-in-all, I concluded
+that if a sparkless antenna could be excited, from a closed Leyden-jar circuit
+of large capacity, into potential oscillations whose average value was that
+
+
+
+
+                                    Fig. 1 .
+
+
+228                              1909 K.F.BRAUN
+
+of the initial charge in a Marconi transmitter, then one would possess a more
+effective transmitter. There was some doubt as to whether this could be at-
+tained. And further, it was necessary to decide, by experiments on effects at
+a distance, whether any disturbing factor had been overlooked in these con-
+siderations. By suitable dimensioning of the exciter circuit it was found pos-
+sible to fulfil the first requirement, and comparative experiments on long-
+distance effects were in favour of the new arrangement.
+
+
+
+
+   Three circuits arose from this, which I described as inductive and direct
+transmitter excitation, together with a mixed circuit derived from both. In
+Fig. 1 is shown the direct circuit. The transmitter is earthed. In Fig. 2 is shown
+the inductive circuit, in which Marconi’s direct earthing is replaced by a
+"symmetry wire". This name would be entirely suitable if the complete
+transmitter were floating in free space (e.g., in a balloon). The transmitter
+would then form a half-wavelength and the excitation point, which should
+lie at the antinode of the current, would be in the middle. Fig. 2 shows how
+this circuit is adapted to a mobile station. The set-up is now unsymmetrical
+due to the proximity of earth. The symmetry wire can be shortened by load-
+ing its end with capacity. This arrangement is then known as a counterpoise.
+It disappears entirely if the connected capacity is infinitely large, that is to
+say, when the excitation point is on well-conducting earth.
+
+
+  ELECTRICAL OSCILLATIONS AND WIRELESS TELEGRAPHY                         229
+
+   By a suitable design of the Leyden-jar circuit, significantly higher voltages
+are attained in the transmitter than the charging voltage of the Leyden-jar
+circuit. There was some suspicion in my mind that large capacities with
+bigger spark lengths would behave in the same way as small capacities. At
+that time, little was known about this. The results of later experiments
+have, in part, contradicted each other, since other losses appearing with high
+voltages were overlooked. But as far as the spark resistance was concerned
+my fears, as M. Wien has recently shown, were without foundation. Since
+I wanted, however, to be prepared for every eventuality, I asked myself
+whether it might not still be possible to increase the power, for instance by
+connecting several circuits of the same frequency of oscillation into the ex-
+citation circuit of the transmitter. The difficulty was to so couple circuits of
+this kind together that they would all start to discharge at the same moment,
+for example within exactly 1/10 of a millionth of a second. This task occupied
+me on repeated occasions. One solution, attained in a somewhat different
+way and to which I was led in the course of my experiments, is given here
+(Fig. 3). It has been described as an "energy coupling". I will touch later upon
+the advantages possessed by this arrangement, which remain despite the re-
+sults obtained by Wien.
+   The experiments were to be carried further under practical conditions af-
+ter Easter of 1899. The choice of location for the tests fell upon Cuxhaven.
+In addition to the main task there was an almost overwhelming pressure of
+
+
+
+
+                                     Fig. 3.
+
+
+230                              1909 K.F.BRAUN
+
+other allied tests and problems, e.g., how does the coherer work, particularly
+under the practical conditions occurring? Is it a resistance or does it behave
+like a capacitance or both? Can it be replaced by something better-defined,
+and if possible, more quantitatively informative? How do nearby buildings
+or metal masses such as masts and stays, which play such an important part
+in practice, affect the antenna ? And there was a further multitude of prob-
+lems with respect to the particular receiving apparatus. And all these prob-
+lems affected the overall solution so that they all needed to be solved nearly
+simultaneously. Owing to my professional duties I could devote but little
+time to the tests, and they were carried on by two of my assistants until the
+autumn of 1900. The way in which the most favourable conditions were
+discovered in practice by systematic methods has been described by me
+elsewhere.
+   On November 16, 1900, I gave my first public lecture on this subject
+to the Natural Sciences Society in Strasbourg. There I described, among other
+matters, the advantages offered by my circuits for tuned telegraphy, advan-
+tages which Marconi had by then also recognized. On the following Febru-
+ary 1, I demonstrated before the same Society the methods on which I had
+based the tuning of a receiver. I carried out more or less the same experiments
+before the Assembly of Research Workers in Natural Sciences in Hamburg
+during the autumn of the same year, as well as demonstrating the practical
+results on the station at Heligoland.
+   In the receiver, too, the most important feature was the capacitor circuit
+
+
+
+
+                                    Fig. 4.
+
+
+ ELECTRIAL OSCILLATIONS AND WIRELESS TELEGRAPHY                             231
+
+which was directly coupled to the antenna, and which, as I expressed it, col-
+lects the energy radiated towards the receiver into the best possible loss-
+free paths, localizes it and thus passes it onwards in the most suitable form
+for the detector.
+    By my arrangements, so-called coupled systems were introduced through-
+out in the wireless telegraphy system, and at this point we might briefly
+examine their properties. For preference I have used Oberbeck’s pendulum
+model for illustration although it does not correspond completely to the elec-
+trical conditions. I produce it here (Fig. 4). Two pendulums of identical fre-
+quency are "coupled" through a loaded thread. I draw the first pendulum
+away from the position of rest and release it. It transmits its energy to the
+second pendulum and the latter increases its energy at the cost of the first,
+exciting pendulum. After some time the whole of the energy appears in the
+second pendulum. At this point, however, the process repeats itself in the op-
+posite sequence. If I make the first pendulum heavy and the second one light,
+ I can make the oscillation amplitude of the second greater than that of the
+first. The first pendulum represents the Leyden-jar circuit, the second the
+transmitter to which - in this case - the whole of the energy of the Leyden-jar
+circuit is passed. According to the ratio of the capacities the voltage can be
+amplified (or, if desired, reduced).
+    Now Oberbeck in 1895 demonstrated the following by calculation. If a
+capacitor circuit is allowed to operate inductively upon a second circuit of
+the same natural frequency there appear - most strikingly - two oscillations
+in both circuits, one higher and one lower than the natural frequency of
+oscillation. The closer the coupling, i.e., the quicker the energy transference
+from the first to the second circuit becomes the further apart lie the fre-
+quencies. Only for the case of infinitely loose coupling do the two oscillations
+approximate to the natural frequency, that is to say, become equal to each
+other.
+    This result holds also for mechanical systems, which includes our pen-
+dulums. If our two equally-tuned pendulums are coupled, then each should
+ exhibit two different frequencies of oscillation. The result loses its surprise,
+ when the phenomenon, I would like to say, is not treated mathematically but
+ actually takes place before our eyes. The characteristic is this: the oscillations
+ of the second pendulum increase steadily from zero upwards, then again de-
+ crease, and vice versa. We note from each pendulum what is known in
+ acoustics as "beating". I shall recall now a method of representing graph-
+ically the acoustic beating (Fig. 5). An oscillating tuning fork carries a glass
+
+
+      1909 K. F. BRAUN
+232
+
+
+
+
+         Fig. 5.
+
+
+
+
+           Fig. 7.
+
+
+  ELECTRICAL OSCILLATIONS AND WIRELESS TELEGRAPHY                                233
+
+plate covered in soot (carbon black). A second tuning fork writes upon
+this oscillating glass plate by means of a small pin whilst it itself is drawn
+across the plate. One tuning fork would describe a curve of constant ampli-
+tude (Fig. 6). The oscillations of both forks are added algebraically. And
+when both forks have different frequencies, as is here the case, a curve as in
+Fig. 7 results.
+   I shall call them briefly "beating (or pulsating) oscillations". Just such
+curves would arise if we allowed our pendulum to write upon a moving plate.
+If the exciting pendulum gave the upper curve, a, then the excited pendulum
+would give the lower curve, b.
+   Each such beating oscillation can be considered - from the elementary laws
+of trigonometry - as arising from the superposition of two harmonic oscil-
+lations of different frequency, say n1 and n 2.
+   Although this is mathematically possible, however, experience teaches us
+that if this pulsating oscillation is applied to a structure capable of oscillation
+whose natural frequency fits in with one or other of the frequencies n 1or n2,
+then it will be excited in its own natural frequency of oscillation. It selects
+one of the fictitious harmonic components and endows it thereby with an
+independent existence. A body so excited is called a resonator, and the phe-
+nomenon itself is known as resonance.
+   The thing is clear to the mind in the case of the tuning fork example. In
+space we would observe the beats, but resonators would separate the two
+tuning-fork tones. The application to our pendulum model is also obvious.
+Each part of the system performs pulsating oscillations, resonators react to two
+different harmonic oscillations.* If we wish (and here I return to the elec-
+trical example), to record, by means of resonators, oscillations from the ra-
+diation sent into space by the antenna, then we have to adjust the resonator
+to one of the two oscillations.
+   These electrical oscillations can be separated by means of a variable capaci-
+tor circuit, the so-called resonance Leyden-jar circuit (to which I will return
+later), so long as care is taken that as far as possible the circuit has no feed-back
+into the system being investigated. Oberbeck’s result was concerned with
+the case where both system components had closed current circuits (with
+quasi-stationary flow) and were inductively coupled. It can now be easily
+
+* If time allowed, I would be able to demonstrate both these oscillations "analytically"
+by means of the pendulum model. This second model, introduced by Dr. Mandelstam,
+and representing direct coupling through its correct mechanical analogue, allows every
+detail to be recognized.
+
+
+234                              1909 K. F. BRAUN
+
+shown that both oscillations also exist in the open current path of an antenna,
+whether it is excited directly or inductively (I am ignoring higher harmonics).
+   In the summer of 1902 I was able to erect two experimental stations on
+two forts at Strasbourg for the purpose of closer study. The task which I had
+set for us was to determine the most favourable conditions in the receiver.
+We adopted the resonant circuit, in which known capacitances were com-
+bined with calculated self-inductances, so as to bring both parts of the trans-
+mitter system into the same natural frequency of oscillation. We fixed like-
+wise the two oscillations arising from the coupling and searched for these
+with the receiver. The result of the test was, for that time, surprising, as an
+example will show. If, by means of a coil in the receiver circuit, the oscilla-
+tions were transferred inductively into a second coil located in a tuned cir-
+cuit containing the indicator (parallel to a small capacitor), not only was the
+sharpness of the resonance but also - and here was the surprise - the intensity
+of the excitation was raised as soon as the two coils were moved away from
+one another. The intensity increased with increasing distance between the
+coils, though naturally beyond a certain limit there was again a decrease.
+Described in the customary expression, the effectiveness increased with looser
+coupling. This result in the receiver was not subject to a similar loose coup-
+ling in the transmitter.
+   There were two important results from these experiments: (a) greater free-
+dom from disturbance in the receiver; and (b) a valuable measuring in-
+strument for wireless engineering. When Dr. Franke of Siemens & Halske
+(who were working with us) saw the tests he proposed to base technically-
+useable equipment on them. Until then the resonance circuit had been as-
+sembled from existing parts to suit the particular requirements, and from
+whatever came to hand. Through the combination of a Köpsel’s calibrated
+variable rotating capacitor and a number of calculated self-inductances, an
+apparatus was constructed which covered a large range of wavelengths both
+conveniently and continuously. The "current effect" was measured by means
+of a Riess’s air thermometer which I had long used for intensity measure-
+ments of oscillations. The technical preparation fell to Mr. Dönitz. So arose
+the wave-meter, described by him and generally named after him, an appara-
+tus which, using the theory already developed by Bjerknes in 1891, permit-
+ted simultaneously the damping or attenuation of electrical waves to be meas-
+ured, a quantity whose numerical value was ever more needed. There are
+other wave-meters with open current paths; these are simpler, but despite this
+the closed-circuit apparatus has because of its other advantages held the field.
+
+
+ ELECTRICAL OSCILLATIONS AND WIRELESS TELEGRAPHY                            235
+
+By means of this instrument the foundation of measuring techniques for wire-
+less telegraphy were laid. It soon displaced our cumbersome laboratory equip-
+ment and gave us great help in our scientific investigations, whilst it became
+indispensible for rational technical work in the field of electrical oscillations.
+   In the summer of 1902 came the publication of a theoretical study of the
+coupled transmitter by Max Wien. This particularly concerned the effect of
+damping. Wien showed by calculation the versatility of the coupled trans-
+mitter. He summed up the qualitative results of his work as follows: "Ac-
+cording to the kind of coupling, a powerful but quickly attenuated excitation
+can be attained which reaches far into the distance, or alternatively a slowly
+decreasing wave-train which is capable of exciting a similarly-tuned resona-
+tor while passing all others by - a cannon shot to be heard afar, or a soft,
+slowly declining tuning-fork tone".
+   This theoretical investigation was most effective in clarifying the problem
+basically, and it will remain the foundation. It remains to be seen, however,
+how closely the data chosen for the numerical examples correspond to actual
+practice. Some calculated figures and a few laboratory figures were all that
+were available on the subject of damping. The field of measurements in rela-
+tion to practice was beginning to be opened up. From then on, the work
+spread further and further outwards, branching into that of the scientific lab-
+oratories on the one hand, and the conversion of their results into practice
+with its complicated conditions and extensive requirements on the other.
+Success in the latter connection is due to Count Arco and Mr. Rendahl.
+   The circumstances which led me, more than ten years ago, to introduce
+the capacitor circuit, have altered greatly in the meantime. The Leyden-jar
+circuit is still to-day indispensible in wireless telegraphy. Two properties
+should be mentioned which I have not yet touched upon:
+(I) For equal powers it is easier to design an inductor for use with high
+charging capacities and low voltages than vice versa. This was a determining
+factor at the time for the energy circuit mentioned earlier and remained so
+for this set-up.
+(2) Insulation difficulties are practically non-existent in the Leyden-jar cir-
+cuit, but the contrary is the case in the antenna circuit. If, for example, the
+insulators in a coupled transmitter are damp, the transmitter still works,
+whilst it can become impossible to charge it statically or with low frequency.
+   I illustrated the latter point in my lecture in November of 1900 by means
+of the following experiment. I allowed the transmitter to operate inductively
+upon a neighbouring receiver and so produced current in the latter which
+
+
+236                               1909 K.F.BRAUN
+
+brightly lit up an incandescent bulb. I touched the transmitter wire with a
+moist binding thread which was connected to earth. This had no effect on the
+operation in the case of the coupled transmitter, but the transmitter with
+direct inductor charging could not be operated once the damp thread was
+placed in contact with it.
+
+Before I leave the subject of the coupled system I might perhaps recall an
+accessory which was of great use to me and other experimenters. I mean the
+cathode-ray tube which I described in 1897. It provided a visual picture of
+current- and voltage-waveforms up to 100kc/s, and was the means by which
+investigations of period, waveform, intensity and thereby damping, as well
+as relative phases, could be made.
+   One of the first applications of this tube was Knut Ångström’s neat meth-
+od of showing directly the hysteresis curve. In a similar way, the permeabil-
+ity of iron up to 130kc/s was investigated at the Strasbourg Institute, and a
+number of other problems concerned with electrical oscillations were also
+studied.
+   Three oscillograms made with the tube will serve to show its application.
+They illustrate the primary current pattern in the inductor, which interests
+us, and the significance of the capacitor therein.
+
+
+
+
+                                     Fig. 8.
+
+   In Fig. 8 the primary current in the non-capacitative circuit falls away rela-
+tively slowly when the circuit is broken. On the other hand, if a capacitor
+(Fig. 9) is switched in, oscillations occur on breaking the circuit. The current
+falls much more steeply and by nearly twice the value. The secondary coil
+was open. If this coil circuit is closed (Fig. 10), the oscillations are faster and
+ are attenuated more strongly.
+   Many applications of the tube are given in Zenneck’s well-known book.
+
+
+  ELECTRICAL OSCILLATIONS AND WIRELESS TELEGRAPHY                      237
+
+I will show you now only the current oscillations in two coupled (but
+strongly damped) capacitor circuits. You will see that the tubes do in fact
+show actual beating or pulsating oscillations (Fig. 11).
+
+In still another place, wireless telegraphy brought me into contact with ear-
+lier investigations which I had made, this time in connection with work in
+my youth. I found in 1874 that materials such as galena, pyrite, pyrolusite,
+
+
+
+
+                                   Fig. 9.
+
+
+
+
+                                   Fig. 10.
+
+
+
+
+                                     Fig. 11.1
+
+
+238                              1909 K.F.BRAUN
+
+tetrahedrite, etc., departed from Ohm’s Law, particularly when an electrode
+made contact over a small surface area. These materials greatly interested me
+since they conduct without electrolysis although they are binary com-
+pounds. The resistance appeared to be dependent upon the direction and in-
+tensity of the current and I could, for instance, separate the opening and clos-
+ing currents of a small inductor by means of such materials, in a similar way
+to that of a Geisler’s tube. I did not succeed in finding an "explanation" for
+the phenomena, for instance to what material unsymmetry the electrical un-
+symmetries (which without doubt existed) corresponded. I had to content
+myself with showing that the observed phenomena were not brought about
+through secondary effects such as heating. I was able to demonstrate that it
+appeared - at least qualitatively - even in 1/500 second, and I was convinced
+that - perhaps at the furthest limits - an inertialess process was concerned, a
+view which was supported by E. Cohn whilst carrying out some other experi-
+ments, when he found that the unsymmetrical d.c. resistance could follow
+current oscillations of 25kc/s. But always there remained with me a feeling
+of dissatisfaction, and with it, a faint memory which had obviously never
+died, but remained half-somnolent at the back of my mind. Instinctively I
+was driven back to this valve effect (with which I had repeatedly, though in
+vain, attempted to obtain direct current from oscillations of light) when I
+began to occupy myself with wireless telegraphy in 1898. The elements
+showed the expected detector effect, but at that time offered no advantages
+over the coherer. As the swing to aural reception of messages took place, I
+came back to these materials, and recognized their usefulness for this purpose
+in 1901. In 1905 the Gesellschaft für drahtlose Telegraphie (Wireless Telegraphy
+Co.) decided, on my recommendation, to start up a technical project in this
+sphere of activity. Today, these detectors - including other combinations of
+a similar nature - are extensively used. Pierce, by means of the cathode-ray
+tube, has demonstrated for slow oscillations an almost complete separation
+of positive and negative current components in the case of molybdenite. It
+seems to me that it is still an open question whether this will hold also for
+rapid oscillations.
+
+I will turn now to another series of experiments.
+  It had always seemed most desirable to me to transmit the waves, in the
+main, in one direction only. I will not concern myself with the successful
+experiments of this kind made at the Strasbourg Forts in 1901, since it came
+out later that similar proposals had already been made by others.
+
+
+  ELECTRICAL OSCILLATIONS AND WIRELESS TELEGRAPHY                         239
+   I found in 1902 that an antenna, inclined at somewhat less than 10 o to the
+horizon, formed a kind of directional receiver. The receptivity showed a
+clearly defined maximum for waves passing through the vertical plane in
+which the antenna was situated. The results were published in March of 1903.
+   A directional transmitter is made up in the following way (Fig. 12). It is
+assumed that the antennae A and B, located at corners of an equilateral trian-
+gle, are equal in phase, but are delayed by a quarter of a cycle of oscillation
+relative to antenna C, which is in the third comer. The height CD of the
+triangle is to be a quarter wavelength. The radiation will then prefer the
+direction CD. The wave emanating from C will reach AB at the moment
+that A and B start to oscillate.
+
+
+
+
+                                  A
+                                      Fig. 12.
+
+
+  The task arose to attain this kind of phase difference for rapid oscillations,
+and prior to this, to measure such differences. A measuring method came
+easily to hand, one which has also proved itself in practical experiments.
+The solution of the other task did not go well using the scheme which I
+had thought out. On the other hand, two of my assistants found an inge-
+nious solution when they took up the work, at my suggestion, in the Stras-
+bourg Institute. Experiments were carried out on a big parade-ground in the
+vicinity of Strasbourg (spring of 1905).
+   In Fig. 13 is shown, schematically, the layout used. The field was meas-
+ured at a fair distance away, that is to say, in the so-called wave-zone. There
+was satisfactory agreement between theory and observation, and the results
+were checked in various ways. It was further shown that the experimental
+layout functioned in the desired sense. By suitable distribution of the am-
+plitudes in the three transmitters, a field as in Fig. 14 was calculated (the
+
+
+240                              1909 K.F.BRAUN
+
+
+
+
+                                    Fig. 13.
+
+
+
+
+                                     Fig. 14.
+
+ singly dotted curve is the measured field). The radial vectors represent the
+ range. If the roles of the three transmitters are exchanged - by simply tripping
+ a change-over switch - the preferred direction can be rotated through 120 o
+ or 60o.
+
+
+  ELECTRICAL OSCILLATIONS AND WIRELESS TELEGRAPHY                           241
+
+   It would appear to be of general interest to remark that one is led to the
+conclusion that the radiation of a transmitter is reduced here by the oscilla-
+tions in its neighbour, which are shifted in position and phase, a conclusion
+which could be proved experimentally.
+   If nowadays optical phenomena are ascribed to electrical molecular resona-
+tors, then electrical processes, as demonstrated here by a single example, can
+also be linked up with optical phenomena, though this can hardly be experi-
+mentally verified in this field.
+   Here, the study of electrical oscillations supplements that of optical oscilla-
+tions, and since we are in the position to tackle a problem in either field by
+analogy with a phenomenon which is comprehended in the other field, the
+first attack on the problem can be made from the electrical or the optical
+standpoint according to whichever presents the easier concept to realize. I
+can perhaps illustrate this by means of two worked-out examples.
+   Elementary considerations led me to the conclusion that a medium, com-
+posed of layers of different dielectric constants, must behave as a uniaxial
+crystal if it is assumed that the layer thicknesses are only a fraction of a wave-
+length. I was able to confirm this conclusion in the following way (Fig. 15).
+A beam of practically parallel electrical rays emerges from the Hertzian re-
+flector. It strikes a structure made of bricks in layers having the same breadth
+of air layers. These layers lie open to short waves, but if the wavelength is 12
+times, or so, longer than the layer thickness, then the brick grating behaves
+towards it as a body which homogeneously occupies the space but exhibits
+double refraction. The electrical oscillations are linearly polarized and inci-
+dent at an azimuth of 45o upon the brick layers. A brick structure which is
+
+
+
+
+                                     Fig.15.
+
+
+242                                1909 K.F.BRAUN
+
+about 2 1/2 times the thickness of a single brick has the effect of a quarter-wave
+foil of mica, and the linearly-incident ray emerges circularly polarized as we
+deduce from the investigations with a Righi’s resonator. Assume it is right-
+handed circular. If the layer thickness is now doubled, the emergent wave is
+again linearly polarized, though in the other quadrant. And so we can trans-
+form the ray, by continuous addition of further thicknesses, into a left-
+handed circular one, and finally back into a ray which is linearly polarized
+parallel to the incident ray. The double refraction of the brick grating surpas-
+ses that of calcite. Optically, this brick structure would correspond to a tiny
+crystal of a few thousandths of a millimetre length of edge, but electrically it
+is 2 1/2 metres thick, weighs 4000 kg, and its raw material is worth about 200
+marks. The analogue of a corresponding optical phenomenon was also dem-
+onstrated by me at a later date.
+   This phenomenon of double refraction does not depend upon the use of
+rigid materials. Whether the double refraction occurring in cross-striated
+muscle results from a similar layer structure is thus a closely related question.
+   We have so far studied an electrically unknown, but optically conjectured
+phenomenon and both have been discovered to exist. The following exam-
+ple is concerned with demonstrating the unknown optical phenomenon cor-
+responding to a known electrical phenomenon. It seemed to me to be of
+interest to reproduce the Hertzian grid experiment in the field of visible rays.
+For this to be realized, a very fine grating of metal wires was necessary and
+from 10,000 to 100,000 tiny wires, separated by air gaps, had to be located
+within a width of 1 mm. Mechanical methods of manufacture are impos-
+sible, but a Hertzian grid could be made in the following way. If a powerful
+discharge is passed through a thin metal wire on a glass plate, or between two
+such plates, the well-known sputtering or vaporization effect occurs, as you
+can see from Fig. 16. The metal wire vaporizes (temperatures of up to 30,000o
+
+
+
+
+                                    Fig. 16.
+
+
+ ELECTRICAL OSCILLATIONS AND WIRELESS TELEGRAPHY                             243
+
+are calculated). The metal vapour is driven outwards by the pressure arising
+from the explosive effect (Fig. 17) and is then again precipitated obviously
+in a kind of grid structure on the glass. If we allow linearly polarized light
+to fall upon the prepared surface, it will, if the oscillations are parallel to the
+lines of the grid, be strongly reflected and strongly absorbed-the prepara-
+tion appears dark (Fig. 18). If the plane of the oscillations is turned so that it
+is perpendicular to the lines of the grid, the metal layer becomes transparent
+
+
+
+
+                                     Fig. 17.
+
+
+
+
+                                      Fig. 18.
+
+(Fig. 19). We have the complete optical analogue to a Hertzian grid made
+out of moderately good conductors.
+   This experiment permits a further development. If we imagine that in an
+organized fabric such as muscle tissue, plant fibres, etc. there exists a similar
+fine grating structure somewhat in the form of the finest possible channels,
+then if we could succeed in filling these with metal, the preparation would
+have the optical effect of a Hertzian grid. H. Ambronn, in 1896, treating the
+
+
+244                             1909 K.F.BRAUN
+
+
+
+
+                                   Fig. 19.
+
+
+above mentioned substances with gold or silver salts, discovered phenomena
+which I explained in this way. In an exhaustive investigation into this matter
+I have everywhere found confirmation of my concept, and nowhere a con-
+tradiction. Yet a direct and incontrovertible proof would be extremely desira-
+ble because of the importance of its consequences. For if my idea is, as I be-
+lieve, correct, then we would in this way not only discover sub-microscopic
+gratings, but, as a result of electrical imitation, we would even be able to
+some extent to make a picture of the material structure which is as yet in-
+visible to the human eye. This method would augment those so far available
+in a most valuable manner, for it takes its place just where the microscope
+and - because of the density of the particles - even the ultramicroscope, reach
+the limit of their capacity.
+   I must now finish this address. The sputtering experiments led me back to
+the Leyden-jar circuit. I pursued for a long time the aim of automatically
+switching out the Leyden-jar circuit from the oscillating system as soon as it
+had given up its energy to the secondary conductor. I attempted this in the
+following way. A thin wire was connected into the Leyden-jar circuit, and
+I hoped that, at the right moment, the primary circuit would be switched
+ out as a result of vaporization of the wire. The experiment was not success-
+ful, at any rate at the frequencies which I used, apparently because the highly
+heated metal vapour remained ionized for too long a time. The problem was
+solved, however, by Max Wien using the so-called quenched spark, and by
+Rendahl using the mercury spark-gap. Practical experience has augmented
+
+
+  ELECTRICAL OSCILLATIONS AND WIRELESS TELEGRAPHY                         245
+
+Wien’s discovery. Arising from this and through the agency of Rendahl and
+Arco, came the so-called tone-spark. The small hissing or quenched sparks of
+Wien of itself meet the conditions which I had hoped to produce artificially.
+The Leyden-jar circuit cuts itself out at the most suitable moment, and the
+greater part of the primary energy then oscillates in the highly conductive
+paths in the transmitter at its own natural frequency.
+   On the occasion of my first lecture in November 1900 I closed with the
+following words:
+   "Sometimes, wireless telegraphy has been described as spark telegraphy,
+and so far a spark in one place or another has been unavoidable. Here, how-
+ever, it has been made as harmless as possible. This is important. For the spark
+which produces the waves also destroys them again as Saturn destroyed his
+own children. What was pursued here could be truthfully described as
+sparkless telegraphy."
+   Finishing as I did with these words at that time, I feel happy to think that
+with the means I have described we have come appreciably nearer to this
+target, and have thereby made the coupled transmitter still more effective.
+

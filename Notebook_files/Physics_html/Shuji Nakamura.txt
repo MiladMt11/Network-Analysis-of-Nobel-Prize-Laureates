@@ -1,0 +1,1017 @@
+Background Story of the Invention of
+Efficient Blue InGaN Light Emitting Diodes
+Nobel Lecture, December 8, 2014
+
+by Shuji Nakamura
+University of California, Santa Barbara, CA, USA.
+
+
+
+
+1. INTRODUCTION AND IMPACT OF WHITE LIGHT EMITTING DIODES
+
+The basic structure of an efficient double-heterostructure (DH) light emitting
+diode (LED) is summarized in Figure 1. This optoelectronic device is composed
+of semiconductor materials and is fabricated by sandwiching an active, emit-
+ting layer between an n-type and p-type layer. The n-type semiconductor layer
+has an abundance of high-energy electrons, whereas the p-type semiconductor
+has an abundance of available, empty sites in which the electron may reside
+at a lower energy level. These sites are also referred to as holes, are positively
+charged, and are mobile. The energy difference between the high and low energy
+electron state is referred to as the bandgap of the material. For DH LEDs, the
+bandgap of the active layer is smaller than that of the n-type and p-type layers.
+    When forward biasing a DH LED using a battery (or any other direct cur-
+rent source), electrons and holes are injected into the active layer from n-type
+and p-type layer, respectively. The electrons and holes recombine radiatively in
+the active layer, thereby emitting photons. This act is very efficient for DH LEDs
+as the electrons and holes are confined to the active layer due to the smaller
+bandgap of the active layer with respect to the n-type and p-type cladding layers
+(see also Figure 7). The resulting photon has an energy approximately equal to
+the bandgap of the active layer material. Modifying the bandgap of the active
+layer creates photons of different energies.
+
+
+
+                                                                               69
+
+
+70                                                                 The Nobel Prizes
+
+
+
+
+FIGURE 1. Schematic depiction of a double heterostructure (DH) light emitting diode
+(LED) in operation while being powered by a 2.8 V battery. Within the active, emitting
+layer, electrons and holes recombine and emit light equal to the bandgap of said layer.
+High-energy electrons are sourced from the negative terminal of the battery and return
+to the positive terminal after losing their energy to a photon in the active layer.
+
+
+    In the 1980s, all known material systems possessing the necessary material
+properties for blue light emission had shortcomings negating the possibility of
+creating an efficient blue LED. Gallium nitride (GaN) was one possible candi-
+date, though, at the time, no p-type or active layer could be created. These chal-
+lenges were ultimately overcome, leading to the first efficient blue LED using
+GaN in 1993 by Nakamura et al. [1]. Figure 2 shows a close-up image of a bare
+and packaged blue GaN LED.
+    Using blue LEDs, highly efficient white light sources become possible. This
+can be achieved by converting part of the blue light emitted from an LED to
+yellow using a phosphor [2]. To the human eye, the combination of blue and
+yellow light is perceived as white. A white LED can be created by embedding
+phosphors in a plastic cap which surrounds a blue LED (see Figure 3). Higher
+quality white light can also be created by mixing blue light with other colors as
+well, including red and green [3].
+    With the availability of white LEDs, a variety of applications can be signifi-
+cantly improved, if not enabled all together. But arguably, the most important
+impact of the white LED is its ability to generate white light at an efficiency
+that was previously impossible. The efficacy, a measure of perceived light power
+relative to the provided electrical power, of white light has improved over the
+
+
+Story of the Invention of Efficient Blue InGaN Light Emitting Diodes71
+
+
+
+
+(a)                                             (b)
+FIGURE 2. (a) Image of a blue GaN LED with attached gold wire contacts (size of diode:
+0.4 mm × 0.4 mm) and (b) the same LED packaged as a commercial product [1].
+
+
+
+centuries, starting with oil lamps (0.1 lm/W) in the 15,000s B.C., incandescent
+bulbs (16 lm/W) in the 19th century, fluorescent lamps (70 lm/W) in the 20th
+century, and LEDs (300 lm/W) in the 21st century (see also Figure 15).
+    With this significant improvement, substantial energy savings are now pos-
+sible. It is currently estimated that in 2030 approximately 261 TWh of electrical
+energy will be saved due to widespread use of white LEDs [4]. This corresponds
+to an electricity savings of approximately 40% in 2030. Furthermore, this reduc-
+tion in energy usage eliminates the need for at least 30 1-GW power plants by
+2030 and avoids generating 185 million tons of CO2.
+
+
+
+
+FIGURE 3. From blue LED to white LED. Part of the blue light emitted from a blue LED is
+converted to lower energy colors, such as yellow, using a phosphor. The combination of
+blue and yellow light is perceived as white to the human eye. Combining a blue LED with
+embedded phosphors in the plastic cap creates a white LED. [3]
+
+
+72                                                             The Nobel Prizes
+
+
+2. MATERIAL OF CHOICE: ZnSe VS. GaN
+
+In the 1980s, there were two materials considered as possible candidates for ef-
+ficient blue LEDs: zinc selenide (ZnSe) and GaN [5].
+     ZnSe could be grown on single crystal gallium arsenide (GaAs) substrates,
+yielding high structural quality material given the very small lattice mismatch of
+0.3% between ZnSe and GaAs. For GaN, on the other hand, no lattice-matched
+substrate was available and researchers were forced to grow it on sapphire. The
+large lattice mismatch (~ 16%) resulted in heavily defected material with a high
+density of dislocations.
+     When I joined the field in 1989, ZnSe was grown on GaAs with disloca-
+tion densities less than 103 cm–2. It was very popular among scientists, given the
+high crystal quality and the prevailing notion that a dislocation density below
+103 cm–2 is needed to achieve optically functional LEDs with a high efficiency
+and a long lifetime [5]. Most researchers worked in this field. GaN, however,
+was grown on sapphire, yielding dislocation densities on the order of 109 cm–2.
+Unsurprisingly, few researchers were working in this field except, most notably,
+fellow Nobel Laureates Professor Isamu Akasaki and his graduate student at the
+time, Hiroshi Amano.
+     A striking example to highlight the popularity of ZnSe, as compared to GaN,
+is provided by looking at the attendance of researchers at the most popular con-
+ference for applied physics in Japan. At the Japan Society of Applied Physics
+(JSAP) conference in 1992, there were approximately 500 individuals attending
+the ZnSe sessions, whereas for GaN, there were around 5, including the chair
+Professor Isamu Akasaki, speaker Hiroshi Amano and myself, as a member of
+the audience. Not only was ZnSe more popular at the time, GaN was actively
+discouraged with researchers stating “GaN has no future” and “GaN people have
+to move to ZnSe material.”
+
+3. DEVELOPMENT OF GaN
+
+My entry into the field started in April of 1988, when I went to the University
+of Florida as a visiting researcher. The main purpose of my visit was to learn
+how to use a MOCVD (Metal Organic Chemical Vapor Deposition) system to
+growth GaAs crystals on a silicon substrate, as I had no experience in how to use
+a MOCVD. During my stay there, I worked together with graduate students and
+they all asked me if I had a Ph.D. I said no. At the time, I only had a Master’s.
+Next, they asked me if I had published any scientific papers. Again, I said no, I
+had never published a single paper. Consequently, they treated me as a techni-
+cian. In the U.S., this meant one has to help the researcher and one’s name would
+
+
+Story of the Invention of Efficient Blue InGaN Light Emitting Diodes73
+
+
+not appear on papers or patents. Gradually, I became very frustrated with this
+arrangement.
+    One year later, in March of 1989, I came back to Japan. It was my dream to
+get a Ph.D. degree. In Japan, at the time, it was possible to be awarded a Ph.D.
+if one published five scientific papers. This type of degree was called a paper
+degree and one did not need to go to the university to get the degree. It was
+therefore my ultimate dream to publish at least five papers and get a Ph.D.
+    With this in mind, I noted that the ZnSe field was publishing lots of papers.
+As I had never published a paper, I had no confidence in publishing a paper. In
+the GaN field, only very few papers had been published, mainly from Profes-
+sor Isamu Akasaki and Hiroshi Amano. I was therefore confident that I could
+publish lots of papers, though had no confidence that I could actually invent the
+blue LED. My only objective was to get a Ph.D. That’s it.
+    So, after returning to Japan in March of 1989, I wanted to grow GaN using
+a MOCVD reactor. I purchased a commercially available MOCVD reactor for
+2 million U.S. dollars. But this MOCVD reactor was designed for growth of
+GaAs. At the time, Professor Akasaki and his student Amano had developed a
+novel, research-scale MOCVD reactor for growth of GaN [6]. Their design re-
+quired exceptionally high carrier gas velocities (around 4.25 m/s) yielding GaN,
+though the high carrier velocities presented challenges pertaining to uniformity,
+scalability and reproducibility. Furthermore, their reactor design could only be
+used for small area growths, thereby lacking the necessary properties for com-
+mercialization. Since I was working for a company, I had to find a way to grow
+high quality GaN on large area, 2-inch diameter sapphire substrates.
+    Another challenge related to growing high quality GaN was the use of high
+concentrations of aluminum in the MOCVD reactor. While the development
+of the aluminum nitride (AlN) buffer layer by Akasaki and Amano was a major
+breakthrough providing high quality GaN film growth with a mirror-like sur-
+face morphology [6], the use of aluminum caused significant problems to the
+MOCVD reactor resulting in poor reproducibility in subsequent GaN growths.
+Eliminating the use of high concentrations of aluminum during growth was
+strongly desired.
+    After my purchase of a MOCVD reactor, I attempted a significant number
+of growths over the course of a few months, but consistently failed. Either no
+growth of GaN occurred or the grown layer was black. GaN should be trans-
+parent. I realized this was a big problem, especially considering the substantial
+investment in the tool. That is when I decided I had to modify the reactor.
+    For the next 1.5 years, I modified the reactor design. In the morning, I would
+go to work and modify the reactor. In the afternoon, I would perform a couple
+
+
+74                                                                  The Nobel Prizes
+
+
+of growths and analyze the results. I would repeat this pattern for 1.5 years until
+I invented a novel MOCVD reactor design with a low carrier gas flow which I
+called a two-flow MOCVD (Figure 4 a) [7]. Using this reactor, I was able to get
+very uniform and high quality 2-inch GaN growth. The main breakthrough of
+this reactor was the introduction of a subflow (Figure 4 b) which gently pushed
+the carrier gases down to the substrate, thereby also improving the thermal
+boundary layer.
+    This was the most important breakthrough in my life and was instrumental
+toward all future breakthroughs in GaN research. One significant advancement
+
+
+
+
+(a)
+
+
+
+
+(b)
+FIGURE 4. (a) Schematic of a two-flow MOCVD for GaN growth and (b) schematic of the
+effect of the newly introduced subflow on the carrier gases. [7] (Reprinted with permis-
+sion. Copyright 1991, AIP Publishing LLC.)
+
+
+Story of the Invention of Efficient Blue InGaN Light Emitting Diodes75
+
+
+this tool immediately enabled was the development of a GaN buffer layer which
+was superior to the AlN buffer layer, in part due to the elimination of aluminum
+from the growth system. With the invention of the two-flow MOCVD and the
+GaN buffer layer, it was possible to achieve the highest quality GaN material in
+the world. One measure for crystal quality is the value of the electron mobility in
+a crystal. Fewer defects result in fewer scattering events, which enhances overall
+mobility of the electrons. Mobilities for GaN grown directly on sapphire (no
+buffer layer) by Akasaki and Amano resulted in values around 50 cm2/Vs [6],
+whereas use of the two-flow MOCVD yielded 200 cm2/Vs [7]. Use of an AlN
+buffer layer improved the mobility to values as high as 450 cm2/Vs for Akasaki
+and Amano [8]. Use of a GaN buffer layer and the two-flow MOCVD values
+as high as 600 cm2/Vs were measured at room temperature (see Figure 5) [9].
+This was a clear sign that the two-flow MOCVD was producing GaN material of
+higher quality on larger area substrates, a key step towards commercialization
+of GaN based devices.
+    The next significant development in creating an efficient blue LED occurred
+in 1992 when I was able to clarify why p-type GaN had remained so elusive
+for 20 years. While Akasaki and Amano achieved a major breakthrough in
+1989 by demonstrating local p-type GaN after treating magnesium doped GaN
+(GaN:Mg) with low-energy electron beam irradiation (LEEBI) [10], its origin
+
+
+
+
+FIGURE 5. Hall mobility measurements at 77 K (●) and 300 K (■) for a 4 μm thick GaN
+film grown on sapphire as a function of the GaN buffer layer thickness. [9] (Reprinted
+with permission. Copyright 1991, The Japan Society of Applied Physics)
+
+
+76                                                                    The Nobel Prizes
+
+
+was not understood for another three years. In 1992, I clarified that hydrogen
+was the source of passivating p-type GaN [11]. A few years later, theoretical
+computations by Jörg Neugebauer and Chris Van de Walle confirmed hydrogen
+passivation in Mg-doped GaN [12].
+    For MOCVD growth of GaN, ammonia (NH3) is used as the nitrogen
+source. Ammonia dissociates during growth and atomic hydrogen is introduced
+into the GaN crystal. If Mg is present in the crystal, the hydrogen atom forms a
+magnesium hydrogen complex (Mg-H), thereby preventing Mg from acting as
+an acceptor [11]. Thermal annealing of the GaN:Mg sample in a hydrogen-free
+environment above approximately 400 °C permits hydrogen to diffuse out of
+the crystal, thereby breaking up the Mg-H complex [13]. As thermal annealing
+can be performed quickly and simultaneously on multiple substrates of any size
+in parallel (an act not achievable using LEEBI), it has become the industrial
+standard process for p-type activation of GaN. The formation of local p-type
+GaN using LEEBI treatments can be explained by local heating of the GaN:Mg
+by the electron beam, causing the hydrogen to locally diffuse out of the crystal
+and permitting the affected Mg atoms to act as acceptors yielding p-type GaN.
+    With the ability to grow n-type and p-type GaN, p-n homojunction LEDs
+(DH LEDs lacking an active layer) can be formed. The first p-n homojunction
+LED was demonstrated by Amano et al. in 1989 using an AlN buffer layer and
+
+
+
+
+(a)                                            (b)
+FIGURE 6. (a) Change in electrical resistivity of as grown Mg-doped GaN films as a func-
+tion of annealing temperature in a nitrogen environment [13]. (b) Change in resistivity of
+LEEBI-treated Mg-doped GaN films as a function of annealing temperature in a nitrogen
+(●) or ammonia (■) environment [11]. Annealing time was 20 min for all samples. (Re-
+printed with permission. Copyright 1992, The Japan Society of Applied Physics)
+
+
+Story of the Invention of Efficient Blue InGaN Light Emitting Diodes77
+
+
+their newly developed LEEBI treatment process to obtain p-type GaN [10]. They
+reported on the observed current-voltage (I–V) relationship and electrolumi-
+nescence (EL) of the manufactured LEDs, but did not mention the output power
+or the efficiency of the LEDs. In 1991, Nakamura et al. demonstrated a p-n
+homojunction GaN LED using a low-temperature GaN buffer and the LEEBI
+treatment [14]. The output power at 20 mA with a forward voltage of 4 V was 42
+µW. The external quantum efficiency (EQE) and peak emission wavelength were
+0.18% and 430 nm, respectively.
+    For LEDs to be useful for real world applications, the light output power
+needs to be well in excess of 1 mW. P-n homojunction LEDs cannot reach those
+levels of output power without generating substantial amounts of waste heat, in
+large part due to the inefficient device structure. Additionally, p-n homojunc-
+tion LEDs produce light of a fixed wavelength given the exclusive use of GaN,
+which has a fixed bandgap. In spite of the achievement by Akasaki and Amano
+to produce optically active GaN p-n homojunction LEDs, Toyoda Gosei Co.,
+Ltd. issued a press release for production of Metal-Insulator-Semiconductor
+(MIS) GaN LEDs with an output power of 70 µW on October 20, 1993 [15].
+MIS type LEDs use a semi-insulating layer instead of a p-type layer and are also
+a relatively inefficient device design. The complete omission of p-type GaN is
+advantageous though, as it sidesteps various challenges associated with large
+area p-type activation using the LEEBI process.
+    Arguably the most efficient LED designs make use of a DH. The concept and
+invention of the heterostructure in semiconductor materials was so significant
+that it earned the Nobel Prize in Physics for Zhores Ivanovich Alferov and Her-
+bert Kroemer in 2000. The energy band diagram is shown in Figure 7 for the p-n
+homojunction LED and the DH LED.
+
+
+
+
+(a)                                         (b)
+FIGURE 7. Schematic energy band diagram structure for a (a) homojunction LED and (b)
+double heterostructure LED.
+
+
+78                                                                 The Nobel Prizes
+
+
+   In order to understand the advantage a DH LED provides over a p-n homo-
+junction LED, one needs to look at the internal quantum efficiency (IQE) (see
+Equation (1)).
+
+                 Light generated            Rradiative              Bn 2
+        IQE =                     =                           =                  (1)
+                Electrons injected Rradiative + Rnon−radiative An + Bn 2 +Cn 3
+
+
+    The IQE is a measure of efficiency and is related to how many electrons are
+converted into photons within the active region. There are three mechanisms by
+which a high-energy electron may decay to a lower energy state. One of them
+is a radiative process (Rradiative, emission of a photon, desired), while the other
+two are non-radiative (Rnon-radiative, emission of phonons, i.e. heat, undesired)
+and include the Shockley-Read-Hall (SRH) process and Auger recombination
+process. All of these processes are dependent on the minority carrier concen-
+tration (electrons in a p-type layer, holes in a n-type layer), n. The SRH process
+increases linearly (A ⋅ n), the radiative recombination process quadratically (B ⋅
+n2), whereas the Auger recombination process increases as the cube (C ⋅ n3) of n.
+The coefficients A, B and C are constants.
+    For low carrier concentrations, the SRH term (A ⋅ n) dominates, leading to
+poor efficiencies and significant non-radiative recombination. This is the case
+for p-n homojunction LEDs. Due to the p-n structure of the LED, electrons dif-
+fuse into the p-type layer and holes diffuse into the n-type layer. The diffusion
+length of minority carriers in GaN is approximately 1 µm [16]. This causes car-
+riers to be spread out over a large region reducing their concentration. The DH
+LED, on the other hand, confines the carriers to within the active layer, which is
+typically around 3–200 nm thick. This confinement significantly increases their
+concentration under the same current density and enhances the probability of
+radiative recombination (B ⋅ n2), thereby increasing the efficiency of the LED.
+
+4. DEVELOPMENT OF InGaN
+
+4.1 InGaN based devices
+Achieving a high quality active layer with the necessary properties to form a DH
+LED is the last and, arguably, the most critical, step towards achieving a commer-
+cializable and efficient LED. Indium gallium nitride (InGaN) was identified as
+the ideal candidate for the active layer. Through addition of indium into the GaN
+crystal, the electrical bandgap of the material shrinks, thereby providing both
+the ability to confine carrier in a DH arrangement, but also provide the ability to
+tune the color of the light by changing the amount of indium in the InGaN alloy.
+
+
+Story of the Invention of Efficient Blue InGaN Light Emitting Diodes79
+
+
+     Despite this realization, high quality layers of InGaN could not be realized
+in the 1970s and 1980s. Room temperature (RT) band-to-band emission, essen-
+tial for the active layer of a DH LED, could not be achieved given the defective
+nature of the material.
+     The reason for this can be traced back to the many challenges associated
+with InGaN growth, which is in many ways more challenging to grow than
+p-type or n-type GaN. Indium has such a high vapor pressure, that at typical
+growth temperatures of GaN (~ 1000 °C), it would boil off the surface and not
+incorporate into the crystal. Growth at lower temperatures yielded poor crystal
+quality along with numerous defects and impurity incorporation. Growths at
+intermediate temperatures required uniform and stable growth temperatures,
+as the incorporation of indium is strongly dependent on the temperature, with
+a few degrees differences across the substrates resulting in noticeable variations
+in output color across the wafer.
+     Furthermore, in order to effectively use InGaN in a DH LED, excellent con-
+trol over the various growth parameters is required, as the interface between
+GaN and InGaN needs to be smooth on an atomic level. In addition to a smooth
+surface morphology, the MOCVD reactor requires precise control over all
+growth parameters and superior uniformity across the entire surface to achieve
+exceptionally thin layers of high quality (a layer is typically composed of a few
+10s to 100s of atom layer thicknesses in DH LEDs). To make matters even more
+challenging, introduction of indium into the GaN lattice results in significant
+strain since indium is roughly 20% bigger in size than gallium. Managing this
+strain and preventing the formation of defects within the layer is important.
+     The first recorded InGaN alloy growth was performed by electron beam
+plasma in 1972 and 1975 by Osamura et al. on sapphire and quartz substrates
+[17,18]. In 1989, Nagatomo et al. grew InGaN on a sapphire substrate using
+MOCVD at a growth temperature of 500 °C [19]. In 1991, Yoshimoto et al. dem-
+onstrated growth of InGaN layers at a growth temperature of around 800 °C
+using MOCVD [20]. Despite this achievement, their crystal quality was poor as
+evidenced by their RT photoluminescence (PL) exhibiting only deep level emis-
+sion (no band-to-band emission) (Figure 8) and by a full width at half maxi-
+mum (FWHM) of the double crystal X-ray rocking curve (XRC) of 30 arcmin.
+     In 1992, Mukai and myself succeeded in growing a high quality InGaN
+layer using the two-flow MOCVD on a GaN template grown on a sapphire
+substrate [21]. RT PL showed a strong band-to-band emission from violet to
+blue depending on the indium composition of the InGaN layers. This was the
+first report of band-to-band emission of InGaN layers at RT. The FWHM of the
+double crystal XRC was around 8 arcmin. Figure 9 shows the first observation
+
+
+80                                                                 The Nobel Prizes
+
+
+
+
+FIGURE 8. Photoluminescence spectra of In0.235Ga0.765N grown at 800 °C using MOCVD
+on a sapphire substrate by Yoshimoto et al. [20]. (Reprinted with permission. Copyright
+1991, AIP Publishing LLC.)
+
+
+
+of band-to-band emission of the InGaN layers at RT described in reference [21].
+With this demonstration, the last remaining barrier for efficient blue LEDs was
+overcome opening the doors for rapid development of high brightness, high
+power, high efficiency blue LEDs using the DH structure.
+    Building on this success, I immediately investigated embedding these In-
+GaN layers within a DH LED structure. The first demonstration of a blue DH
+LED occurred in 1993 with a p-GaN/n-InGaN/n-GaN structure [22]. The active
+layer was a Si-doped InGaN layer with a thickness of 20 nm. The LED showed
+strong band-edge emission in the InGaN layer yielding blue light with a wave-
+length of 440 nm under forward bias conditions. The output power and the EQE
+were 125 µW and 0.22%, respectively, at a forward current of 20 mA.
+    Further improvements to the device led me to demonstrate in 1994 the first
+commercially available blue LED with an output power of 1.5 mW, an EQE of
+2.7% and the emission wavelength of 450nm (Figure 10) [23]. The structure of
+this DH LED was p-GaN/p-AlGaN/Zn-doped InGaN/n-GaN. The Zn-doped
+InGaN active layer had a thickness of 45 nm and was used due to an observed
+increase in luminous efficiency. For the first time, an electron-blocking layer
+was introduced into the structure. The p-AlGaN prevented electrons from over-
+flowing the electron confinement provided by the active layer, further enhanc-
+ing radiative recombination.
+    Simultaneously with my publication, Nichia Chemical Corporation released
+a press statement mentioning production of high brightness blue DH LEDs with
+p-type layers, an output power of 1.5 mW and a brightness of more than 1000
+
+
+Story of the Invention of Efficient Blue InGaN Light Emitting Diodes81
+
+
+
+
+(a)
+
+
+
+
+(b)
+FIGURE 9. (a) RT PL spectra of InGaN films grown on GaN films under identical growth
+conditions, except for the InGaN growth temperatures of 830 °C (trace (a)) and 780 °C
+(trace (b)). (b) Change in peak wavelength of PL spectra as a function of indium mole
+fraction (x) in InxGa1–xN films. Indium fraction was determined by X-ray diffraction
+measurements. [21] (Reprinted with permission. Copyright 1992, The Japan Society of
+Applied Physics).
+
+
+mcd (roughly equal to the luminous intensity of 1 candle) on November 30,
+1993 [24]—just one month after the press release about MIS type LEDs with
+an output power of 70 µW by Toyoda Gosei Co. Ltd on October 20, 1993 [15].
+    Further improvements to the growth conditions allowed me to demonstrate
+high brightness blue, green and yellow LEDs with InGaN quantum well (QW)
+
+
+82                                                                 The Nobel Prizes
+
+
+
+
+(a)                                        (b)
+FIGURE 10. (a) Structure of InGaN/AlGaN double-heterostructure blue LED with (b) re-
+sulting output power as a function of forward current. [23] (Reprinted with permission.
+Copyright 1994, AIP Publishing LLC.)
+
+
+
+
+structures in 1995 (see Figure 11) [25]. QW structures are DH structures with
+a very thin active layer, so thin that quantum confinement effects need to be
+considered. Layer thicknesses for QW structures are on the order of a few nano-
+meters (a few atom layer thicknesses) versus ~ 100 nm for typical DH structures
+up to this point. This thinning further improves the IQE due to higher carrier
+concentrations, but also requires even more stringent controls on uniformity
+and temperature during MOCVD growth.
+    Further improvements to growth conditions of the InGaN layers led to the
+availability of higher power blue and green single QW (SQW) LEDs. At a 20
+mA current, the output power and the EQE of the blue SQW LEDs were 5 mW
+and 9.1%, respectively. Those of green SQW LEDs were 3 mW and 6.3%, re-
+spectively. The structure of the green SQW LED and output powers of the blue,
+green and yellow SQW LEDs are shown in Figure 11 [26]. This LED epitaxial
+structure is still the basic foundation for all currently commercially available
+blue and green LEDs.
+    With the success of the developed high efficiency, high power blue LED,
+Nichia Chemical Corporation commercialized the first white LEDs by combin-
+ing the blue InGaN QW DH LED [25, 26] with a yellow yttrium aluminum
+garnet (YAG, Y3Al5O12) based phosphor [27].
+    Having excelled at achieving high efficiency blue LEDs, the next step for me
+was to demonstrate the first InGaN-based laser diode. I achieved this in 1996
+under pulsed [28] and continuous wave (CW) [29] operations. Figure 12 shows
+the device structure and light output power versus current (L–I) curve for the
+
+
+Story of the Invention of Efficient Blue InGaN Light Emitting Diodes83
+
+
+
+
+(a)
+
+
+
+
+(b)
+FIGURE 11. (a) Green single quantum well (SQW) LED structure. (b) Output power of a
+blue, green, and yellow SQW LED at RT as a function of forward current. [25, 26] (Re-
+printed with permission. Copyright 1995, The Japan Society of Applied Physics)
+
+
+
+
+first InGaN-based laser diode [28]. The structure was composed of an InGaN
+multi-quantum wells (MQW) active layer, GaN waveguide layers and AlGaN
+cladding layers.
+
+4.2 Material Properties of InGaN
+One mystery still remains to date, namely why InGaN materials are atypical
+and luminesce with such high efficiency despite the high density of dislocations.
+It was deemed common sense in the 1980s that highly efficient LEDs with a
+long lifetime required dislocation densities less than 103 cm–2. Despite all the
+
+
+84                                                                   The Nobel Prizes
+
+
+
+
+(a)
+
+
+
+
+(b)
+FIGURE 12. (a) Structure of a violet InGaN MQW laser diode with (b) corresponding L–I
+characteristics indicating the onset of lasing (30 μm wide, 1500 μm long) [28] (Reprinted
+with permission. Copyright 1996, The Japan Society of Applied Physics).
+
+
+
+
+improvements in MOCVD growth of GaN, the fundamental lattice mismatch
+between sapphire and GaN remains, yielding 109 cm–2 dislocations in the GaN
+and InGaN layers, even for the high efficiency devices demonstrated in the
+1990s. To highlight the stark difference between InGaN and other semiconduc-
+tors, Figure 13 depicts the approximate dependence of the LED efficiency on
+the dislocation density for various semiconductor materials. As can be seen,
+highly efficient arsenide and phosphide based LEDs could only be achieved for
+dislocation densities below 103–105 cm–2. This observation led to the errone-
+ous statements that dislocation densities below 103 cm–2 are needed for efficient
+LED operation. Pure GaN LEDs behave comparably to the other arsenide and
+phosphide LEDs, as demonstrated by dim p-n GaN homojunction LEDs de-
+veloped by Akasaki and Amano in 1989 [10]. Interestingly, InGaN materials
+
+
+Story of the Invention of Efficient Blue InGaN Light Emitting Diodes85
+
+
+
+
+FIGURE 13. Dependence of LED efficiency on dislocation density for various semicon-
+ductor materials. (After [30,31,32])
+
+
+
+
+behave quite differently, exhibiting high efficiencies despite high dislocation
+densities [30].
+     One explanation for this phenomenon, as proposed by Professor Chichibu
+from Tohoku University, is the presence of localized states in the InGaN layer
+[31, 32]. When electrons and holes are injected into the active layer, they are
+captured by localized states within the layer and radiatively recombine before
+they are captured by crystal defects (dislocations), which would provide non-
+radiative recombination pathways. The localized centers can be thought of as
+enhanced emission centers of light.
+     Localized states may emerge due to the natural fluctuation of indium within
+the InGaN layers. Atom probe tomography measurements of the InGaN layers
+have provided atomic level resolution of the chemical and spatial distribution of
+atoms within the layer (see Figure 14) [33]. The statistical analysis of the indium
+distribution in the layer yields a random binomial distribution on the Group III
+site about some average indium concentration. This naturally occurring random
+binomial distribution provides fluctuations resulting in regions of high and low
+indium content. The high indium content regions have a smaller bandgap and
+hence could act as localized sites. As fluctuations occur on the nanometer scale,
+there are a significant number of localized sites, comparable, if not greater, to
+
+
+86                                                                The Nobel Prizes
+
+
+
+
+FIGURE 14. Atom Probe Tomography analysis provided as a 2D plot of the lateral compo-
+sitional variations within a 3 nm InGaN quantum well at nominal 14% indium composi-
+tion showing local indium fluctuations [33].
+
+
+
+the number of defects present. It is important to keep in mind that this is just
+one possible explanation for localized sites. We currently still do not understand
+their origin and if they are truly the reason for the highly efficient nature of
+InGaN.
+
+
+5. HISTORICAL DEVELOPMENT OF InGaN BASED LEDS
+
+5.1 Luminous Efficacy
+To provide an overview of the historical development of the luminous efficacy
+for the red, green, and blue LEDs, Figure 15 is provided [34]. This figure has
+been used by many scientists at numerous conferences to explain the historic
+developments of red, green and blue LEDs. The first visible light LEDs were
+based on GaP and developed in the late 1950s through early 1960s [35–39].
+Over time, the red LED gradually improved in efficacy as shown in the figure.
+     The first violet/blue LEDs, the MIS LED developed by Maruska et al. in 1973
+and the p-n homojunction LED developed by Akasaki and Amano in 1989, have
+typically not been included in the figure, probably due to their poor luminous
+efficacy, though are included in this depiction. It wasn’t until 1992, when high
+quality InGaN became available and could be incorporated into a DH LED
+structure, did rapid progress ensue, leading to the first efficient yellow, green
+and blue LEDs in 1992–1995 [23, 24, 25, 26]. The rapid progress that occurred
+could not have been possible without the atypical properties of high quality In-
+GaN. Without InGaN, I argue, it would not have been possible to make efficient
+
+
+Story of the Invention of Efficient Blue InGaN Light Emitting Diodes87
+
+
+
+
+FIGURE 15. Evolution of luminous efficacy of red, green, and blue LEDs (After [34]).
+
+
+
+
+blue and green LEDs in the GaN material system. In 1996, Nichia Chemical
+Corporation developed the first white LED using the efficient blue InGaN QW
+DH LED and YAG phosphors [27]. Rapid progress after the first commercial-
+ization of the white LED by Nichia Chemical Corporation has led to current
+state-of-the-art white LED, with a stunning 303 lm/W peak efficacy at RT as
+announced by Cree Inc. in March 2014 [40].
+
+5.2 Significant Milestones on the Journey to the White LED
+Table 1 provides an overview of significant developments that ultimately led
+to the first high efficiency white LED developed by Nichia Chemical Corpo-
+ration in 1996 [27]. The first demonstrated growth of GaN was performed by
+Maruska et al. in 1969 using hydride vapor phase epitaxy (HVPE) [41]. A great
+thanks goes out to Dr. Maruska for opening the door to GaN research and crys-
+tal growth. Not only did Maruska et al. perform the first GaN growth, he also
+demonstrated the first violet GaN-based LED using a MIS structure (due to the
+lack of p-type GaN) by doping the GaN with Mg, which acted as a color center,
+in 1973 [42].
+    The next significant development was the demonstration by Yoshida et al. of
+growing GaN films using an AlN buffer on a sapphire substrate by reactive mo-
+lecular beam epitaxy (MBE) in 1983, providing a pathway to improved quality
+
+
+88                                                            The Nobel Prizes
+
+
+GaN material [43]. Amano et al. applied the AlN buffer layer idea to MOCVD
+growth of GaN by growing it at low-temperatures in 1986 [6]. The mirror-like
+surface morphology and reduced residual carrier concentration, on the order of
+1017 cm–3 for unintentionally doped GaN, was an important milestone.
+    Subsequently, Amano et al. achieved the first p-type Mg-doped GaN using a
+post-growth LEEBI treatment in 1989, though they could not explain the origin
+of the mechanism by which it was achieved [10]. The hole concentration and
+mobility was 2x1016 cm–3 and 8 cm2/V·s, respectively, and output power of the
+p-n homojunction GaN LED was not reported.
+    The next major milestone in the development of the blue LED occurred
+when I was working for Nichia Chemical Corporation and developed a novel
+MOCVD, which I called two-flow MOCVD, in 1991 [7]. Introducing a new
+subflow to the system provided a significant improvement in reproducibility
+and uniform growth over large area substrates.
+    Shortly thereafter, in 1991, the GaN buffer layer was developed for GaN
+growth on sapphire using MBE [44] and MOCVD [9]. Lei et al. developed it for
+the MBE method, though the achieved crystal quality was poor with a rough
+surface [44]. I developed it for MOCVD growth by employing a low-temper-
+ature growth step, yielding high quality GaN films on sapphire [9]. Improve-
+ments to the growth of the low-temperature GaN buffer layer resulted in elec-
+tron mobilities of 900 cm2/V·s at RT in 1992 [45].
+    With the availability of high crystal quality material, the next major step,
+was my demonstration of p-type GaN films using post thermal annealing under
+a NH3 free ambient gas, as shown in Figure 6, in 1992 [13]. The hole concentra-
+tion and mobility was 3x1017 cm–3 and 10 cm2/V·s, respectively. Following this
+act, I was able to clarify the observed hole compensation in GaN:Mg being due
+to hydrogen passivation [11], a mechanism which had been a mystery since the
+early 1970s. A hydrogenation model, wherein acceptor-hydrogen (Mg-H) com-
+plexes were formed in p-type GaN, was proposed and theoretically confirmed
+by Neugenbauer and Van de Walle in 1995 [12].
+    Having overcome the major hurdles for GaN, the next major advance oc-
+curred for InGaN materials, arguably the most important layer in the effi-
+cient blue LED. Its first growth using electron beam plasma occurred in 1972,
+with Osamura et al. revealing some of its properties [17]. The first growth by
+MOCVD occurred in 1989, with Nagatomo et al. [19], opening the door for
+development using the same growth technique with which high quality GaN
+could be grown. It was not until 1992, when Mukai and myself were able to
+demonstrate the first InGaN layer which exhibited strong band-to-band emis-
+sion at RT [21], that the option of forming a high efficiency blue LED became
+
+
+Story of the Invention of Efficient Blue InGaN Light Emitting Diodes89
+
+
+TABLE 1. Significant developments ultimately leading to the white LED for GaN and In-
+GaN on sapphire.
+
+Material       Year      Achievement                                   Reference
+               1969      GaN epitaxial layer by HVPE                   [41]
+               1973      1st blue Mg-doped GaN MIS LED                 [42]
+               1983      High quality GaN using AlN buffer by          [43]
+                         MBE
+               1985      High quality GaN using AlN buffer             [6]
+                         by MOCVD
+               1989      p-type GaN using LEEBI                        [10]
+                         (low hole concentration)
+GaN                      1st p-n homojunction GaN LED
+               1991      Invention of Two-Flow MOCVD                   [7]
+                         GaN growth using GaN buffer by MBE            [44]
+                         High quality GaN using GaN buffer             [9, 45]
+                         by MOCVD
+               1992      p-type GaN using thermal                      [13]
+                         annealing
+                         (high hole concentration)
+                         Discovery of hydrogen passivation             [11]
+               1972      InGaN growth using electron beam              [17,18]
+                         plasma
+               1989      InGaN growth by MOCVD                         [19]
+
+               1992      InGaN layers with RT band-to-                 [21]
+                         band emission
+               1994      Efficient Blue InGaN DH LED                   [22, 23, 24]
+InGaN                    (1 Candela)
+               1995      Efficient yellow, green and blue InGaN        [25, 26]
+                         DH QW LEDs
+               1996      1st Pulsed Violet InGaN DH MQW LDs            [28]
+
+                         1st CW Violet InGaN DH MQW LDs                [29]
+
+                         Commercialization White LED using             [27]
+                         InGaN DH blue LED
+
+
+90                                                                  The Nobel Prizes
+
+
+realistic. Incorporating the material in a DH LED structure, rapidly lead to slew
+of developments, most notably, the first highly efficient blue InGaN DH LED in
+1994 [22, 23], the first high efficiency green InGaN DH QW LED in 1995 [26],
+and the first blue/green/yellow InGaN DH QW LEDs in 1995 [25].
+    While our group at Nichia Chemical Corporation worked hard on develop-
+ing the first white LED, I was able to further pursue improving GaN based op-
+toelectrontic devices, and eventually demonstrated the first pulsed [28] and CW
+operation [29] violet InGaN DH QW laser diode in 1996. Shortly thereafter,
+Nichia Chemical Corporation released the first white LED, changing the world
+forever [27].
+    A more detailed account of the history of the GaN based LED can be found
+in reference [46].
+
+5.2 Contributions to the Efficient Blue LED
+Of all the contributions that eventually led to the efficient blue and white LED,
+only a select few were highlighted in the Nobel Prize announcement. Figure 16
+provides a visual summary of the key inventions and contributions to the ef-
+ficient blue LED. While the demonstration and explanation of p-type GaN and
+the inclusion of buffer layers were important, the development and incorpora-
+tion of high quality InGaN material was just as, if not even more, vital to achiev-
+ing the efficient blue LED. A pure GaN p-n homojunction LED structure is too
+inefficient and would never have led to the development of the high efficiency
+LED, especially when also considering the high dislocation densities that are
+present due to the use of a sapphire substrate (see also Figure 13).
+
+
+
+
+FIGURE 16. Summary of key contributions to the efficient blue LED.
+
+
+Story of the Invention of Efficient Blue InGaN Light Emitting Diodes91
+
+
+6. FORWARD LOOKING
+
+While I have been talking primary about LEDs, there is an intrinsic problem
+that cannot be easily overcome. Given the highly efficient nature of LEDs, it is of
+interest to maximize the light output per device. This is most easily achieved by
+increasing the current density, which runs through the device. Higher efficien-
+cies permit higher current densities, as the device does not heat up as much.
+With increasing current density, though, the carrier densities within the QW
+increases. We can now push the current densities so high that we are seeing
+a reduction in efficiency with increasing current density (see Figure 17). This
+phenomena, referred to as efficiency droop, forces LED manufactures to operate
+LEDs at lower current densities (and hence reduced light output) than would be
+possible, in order to prevent excess heating of the device. To maintain high light
+output, manufactures may use multiple LEDs in parallel, effectively increasing
+the overall active area and hence reducing current density. The primary origin
+of efficiency droop, which was not discovered until recently, is the Auger recom-
+bination process [44, 48]. If you recall the contributions to the IQE of an LED
+(see Equation 1), the cubic term in carrier concentration (C ⋅ n3) was the Auger
+recombination process. Given the exceedingly high densities of carriers, this
+term starts to dominant thereby reducing the value of the IQE. Since the Auger
+recombination process is due to intrinsic properties of GaN, it is exceptionally
+challenging to overcome.
+    An alternative method to produce white light is by using a blue laser, as op-
+posed to an LED, in combination with a phosphor. Above the lasing threshold,
+the carrier density is clamped at threshold, fixing its density. Increases in car-
+rier density beyond the threshold density immediately contribute to stimulated
+emission, or lasing. Thus, the carrier density is maintained at the lower, thresh-
+old density, prohibiting it from reaching densities where the Auger recombina-
+tion process becomes the dominant recombination process. Auger recombina-
+tion, with the resulting efficiency droop, does not appreciably occur in blue laser
+diodes [49].
+    Current commercial blue lasers have already demonstrated comparable ex-
+ternal quantum efficiencies to those of blue LEDs at significantly higher current
+densities, and hence light output (see Figure 17). It is therefore of great interest
+to further pursue lasers as they have the potential of operating at high current
+densities, resulting in white light sources with staggering light output.
+    While laser based lighting has the potential of being more efficient with
+smaller chip sizes with a very high current density region, it also offers intrinsic
+directionality of the light output—a feature that car manufactures have already
+
+
+92                                                             The Nobel Prizes
+
+
+
+
+FIGURE 17. Comparison of external quantum efficiency (EQE) of a commercial LED and
+laser with increasing current density [49].
+
+
+leveraged in their high-end vehicles. Currently, high-end vehicles already use
+laser based white light sources for their headlamps, allowing them see further
+ahead on the road without blinding oncoming traffic. Future modifications to
+the laser based lighting technology may well enable the next generation of white
+lighting with higher efficiencies at lower cost.
+
+7. ACKNOWLEDGEMENTS
+
+While it has been a wonderful, though sometimes rocky, journey and experi-
+ence for me to develop and ultimately achieve a blue LED, I would like to ac-
+knowledge the many individuals that helped and supported me along the way.
+Most notably, I would like to thank the founder of Nichia Chemical Corpora-
+tion, Nobuo Ogawa, who trusted me and invested a lot of money in my research
+despite the initial lack of results. I would also like to acknowledge the current
+president, Eiji Ogawa, my colleagues of the R&D department during 1989–1999
+and all current employees of Nichia for their help as I would not have been able
+to make the high efficient blue LED without them.
+    I would also like to stress my gratitude towards Chancellor Henry Yang of
+the University of California, Santa Barbara (UCSB), for his personal support
+and encouragement to come to UCSB and further pursue my research there.
+During my years at UCSB, I have been able to experience and appreciate the
+tremendous support provided to me by Dean Rod Alferness and former Dean
+Matthew Tirrell. Last, but certainly not least, I would like to send my sincere
+gratitude and warmest thank to my colleagues and friends at UCSB, most no-
+tably Professors Steve DenBaars, Jim Speck, and Umesh Mishra, who make it
+a great pleasure and experience to work and excel at UCSB. I would also like
+
+
+Story of the Invention of Efficient Blue InGaN Light Emitting Diodes93
+
+
+to thank Dr. Siddha Pimputkar for his substantial help in writing this article.
+Thank you very much.
+
+
+REFERENCES
+ 1. S. Nakamura, T. Mukai, M. Senoh, “Candela-class high-brightness InGaN/AlGaN
+    double-heterostructure blue-light-emitting diodes,” Appl. Phys. Lett. 1994, 64,
+    1687–​1689.
+ 2. S. Nakamura, S. Pearton, G. Fasol, The Blue Laser Diode, 2nd Edition, Springer,
+    2000, p. 230–235.
+ 3. S. Pimputkar, J. S. Speck, S. P. DenBaars, and S. Nakamura, “Prospects for LED
+    lighting,” Nature Photonics 2009, 3, 180–182.
+ 4. Energy Savings Forecast of Solid-State Lighting in General Illumination Applications,
+    DOE Report, August 2014, http://apps1.eere.energy.gov/buildings/publications/
+    pdfs/ssl/energysavingsforecast14.pdf
+ 5. K. Ohkawa, “Blue LEDs: Helping to Save Earth,” AAPPS Bulletin, 2014, 24, 11–13.
+ 6. H. Amano, N. Sawaki, I. Akasaki, Y. Toyoda, “Metalorganic vapor phase epitaxial
+    growth of a high quality GaN film using an AlN buffer layer,” Appl. Phys. Lett. 1986,
+    48, 353–355.
+ 7. S. Nakamura, Y. Harada, M. Seno, “Novel metalorganic chemical vapor deposition
+    system for GaN growth,” Appl. Phys. Lett. 1991, 58, 2021–2023.
+ 8. H. Amano, I. Akasaki, K. Hiramatsu, N. Koide, N. Sawaki, “Effects of the buffer
+    layer in metalorganic vapour phase epitaxy of GaN on sapphire substrate,” Thin
+    Solid Films 1988, 163, 415–420.
+ 9. S. Nakamura, “GaN Growth Using GaN Buffer Layer,” Jpn. J. Appl. Phys. 1991, 30,
+    L1705–L1707.
+10. H. Amano, M. Kito, K. Hiramatsu, I. Akasaki, “p-Type Conduction in Mg-Doped
+    GaN Treated with Low-Energy Electron Beam Irradiation (LEEBI),” Jpn. J. Appl.
+    Phys. 1989, 28, L2112–L2114.
+11. S. Nakamura, N. Iwasa, M. Senoh, T. Mukai, “Hole Compensation Mechanism of
+    P-Type GaN Films,” Jpn. J. Appl. Phys. 1992, 31, 1258–1266.
+12. J. Neugebauer, C. G. Van de Walle, “Hydrogen in GaN: Novel Aspects of a Common
+    Impurity,” Phys. Rev. Lett. 1995, 75, 4452–4455.
+13. S. Nakamura, T. Mukai, M. Senoh, N. Iwasa, “Thermal Annealing Effects on P-Type
+    Mg-Doped GaN Films,” Jpn. J. Appl. Phys. 1992, 31, L139–L142.
+14. S. Nakamura, T. Mukai, and M. Senoh, “High-power GaN p-n junction blue-light-
+    emitting diodes,” Jpn. J. Appl. Phys. 1991, 30, L1998–L2001.
+15. “MIS type Blue LEDs with a brightness of 200 mcd were developed by Toyoda Gosei,”
+    October 20, 1993, Nikkan Kogyo Shinbun (Japanese newspaper press release).
+16. K. Kumakura, T. Makimoto, N. Kobayashi, T. Hashizume, T. Fukui, H. Hasegawa,
+    “Minority carrier diffusion length in GaN: Dislocation density and doping concen-
+    tration dependence,” Appl. Phys. Lett. 2005, 86, 052105.
+17. K. Osamura, K. Nakajima, Y. Murakami, P. H. Shingu, A. Ohtsuji, “Fundamental
+    absorption edge in GaN, InN and their alloys,” Solid State Communications 1972,
+    11, 617–621.
+
+
+94                                                                   The Nobel Prizes
+
+
+18. K. Osamura, S. Naka, and Y. Murakami, “Preparation and optical properties of
+    Ga1–xInxN thin films,” J. Appl. Phys. 1975, 46, 3432–3437.
+19. T. Nagatomo, T. Kuboyama, H. Minamino, O. Omoto, “Properties of Ga1–xInxN
+    Films Prepared by MOVPE,” Jpn. J. Appl. Phys. 1989, 28, L1334–L1336.
+20. N. Yoshimoto, T. Matsuoka, T. Sasaki, A. Katsui, “Photoluminescence of InGaN
+    films grown at high temperature by metalorganic vapor phase epitaxy,” Appl. Phys.
+    Lett. 1991, 59, 2251.
+21. S. Nakamura, T. Mukai, “High-Quality InGaN Films Grown on GaN Films,” Jpn. J.
+    Appl. Phys. 1992, 31, L1457–L1459.
+22. S. Nakamura, M. Senoh, T. Mukai, “p-GaN/n-InGaN/n-GaN Double-
+    Heterostructure Blue-Light-Emitting Diodes,” Jpn. J. Appl. Phys. 1993, 32, L8–L11.
+23. S. Nakamura, T. Mukai, M. Senoh, “Candela-class high-brightness InGaN/AlGaN
+    double-heterostructure blue-light-emitting diodes,” Appl. Phys. Lett. 1994, 64,
+    1687–1689.
+24. “p-n junction DH Blue LEDs with a brightness of more than 1000mcd were devel-
+    oped by Nichia Chemical Industries Ltd.,” November 30th, 1993, Nikkei Sangyo
+    Shinbun (Japanese newspaper press release).
+25. S. Nakamura, M. Senoh, N. Iwasa, S.-I. Nagahama, “High-Brightness InGaN Blue,
+    Green and Yellow Light-Emitting Diodes with Quantum Well Structures,” Jpn. J.
+    Appl. Phys. 1995, 34, L797–L799.
+26. S. Nakamura, M. Senoh, N. Iwasa, S.-I. Nagahama, T. Yamada, T. Mukai, “Superbright
+    Green InGaN Single-Quantum-Well-Structure Light-Emitting Diodes,” Jpn. J. Appl.
+    Phys. 1995, 34, L1332–L1335.
+27. K. Bando, Y. Noguchi, K. Sakamoto and Y. Shimizu, “Development and application
+    of high-brightness white LEDs,” Tech. Digest. Phosphor Res. Soc., 264th Meeting,
+    November 29, 1996 (in Japanese).
+28. S. Nakamura, M. Senoh, S.-I. Nagahama, N. Iwasa, T. Yamada, T. Matsushita, H.
+    Kiyoku, Y. Sugimoto, “InGaN-Based Multi-Quantum-Well-Structure Laser Diodes,”
+    Jpn. J. Appl. Phys. 1996, 35, L74–L76.
+29. S. Nakamura, M. Senoh, S. Nagahama, N. Iwasa, T. Yamada, T. Matsushita, Y.
+    Sugimoto, H. Kiyoku, “Room-temperature continuous-wave operation of InGaN
+    multi-quantum-well structure laser diodes,” Appl. Phys. Lett. 1996, 69, 4056–4058.
+30. S. D. Lester, F. A. Ponce, M. G. Craford, D. A. Steigerwald, “High dislocation densi-
+    ties in high efficiency GaN-based light-emitting diodes,” Appl. Phys. Lett. 1995, 66,
+    1249–1251.
+31. S. Chichibu, T. Azuhata, T. Sota, S. Nakamura, “Spontaneous emission of localized
+    excitons in InGaN single and multiquantum well structures,” Appl. Phys. Lett. 1996,
+    69, 4188–4190.
+32. S. Nakamura, “The Roles of Structural Imperfections in InGaN-Based Blue Light-
+    Emitting Diodes and Laser Diodes,” Science 1998, 281, 956–961.
+33. D. A. Browne, B. Mazumder, Y.-R. Wu, J. S. Speck, “Electron Transport in Unipolar
+    InGaN/GaN Multiple Quantum Well Structures Grown by NH3 Molecular Beam
+    Epitaxy,” J. Appl. Phys. 2015, 117, 185703.
+34. G. B. Stringfellow, M. G. Craford, “High Brightness Light-Emitting Diodes,”
+    Semiconductors and Semimetals 1997, 48, 47–49.
+
+
+Story of the Invention of Efficient Blue InGaN Light Emitting Diodes95
+
+
+35. G. Wolff, R. Hebert, J. Broder, “Electroluminescence of GaP,” Phys. Rev. 1955, 100,
+    1144–1145.
+36. D. A. Holt, G. F. Alfrey, C. S. Wiggins, “Grain Boundaries and Electroluminescence
+    in Gallium Phosphide,” Nature 1958, 181, 109–109.
+37. H. Grimmeiss, H. Koelmans, “Analysis of p-n Luminescence in Zn-Doped GaP,”
+    Phys. Rev. 1961, 123, 1939–1947.
+38. J. Starkiewicz, J. W. Allen, “Injection electroluminescence at p-n junctions in zinc-
+    doped gallium phosphide,” J Phys. Chem. Solids 1962, 23, 881–884.
+39. M. Gershenzon, R. M. Mikulyak, “Electroluminescence at p-n Junctions in Gallium
+    Phosphide,” J.Appl. Phys. 1961, 32, 1338–1348.
+40. “Cree First to Break 300 Lumens-Per-Watt Barrier,” March 26, 2014, Cree Inc. (Press
+    Release), http://www.cree.com/News-and-Events/Cree-News/Press-Releases/2014/
+    March/300LPW-LED-barrier
+41. H. P. Maruska, J. J. Tieljen, “The Preparation and Properties of Vapor-Deposited
+    Single-Crystal-Line GaN,” Appl. Phys. Lett. 1969, 15, 327–329.
+42. H. P. Maruska, D. A. Stevenson, J. I. Pankove, “Violet luminescence of Mg-doped
+    GaN,” Appl. Phys. Lett. 1973, 22, 303–305.
+43. S. Yoshida, S. Misawa, S. Gonda, “Improvements on the electrical and luminescent
+    properties of reactive molecular beam epitaxially grown GaN films by using AlN-
+    coated sapphire substrates,” Appl. Phys. Lett. 1983, 42, 427–429.
+44. T. Lei, M. Fanciulli, R. J. Molnar, T. D. Moustakas, R. J. Graham, J. Scanlon, “Epitaxial
+    growth of zinc blende and wurtzitic gallium nitride thin films on (001) silicon,”
+    Appl. Phys. Lett. 1991, 59, 944–946.
+45. S. Nakamura, T. Mukai, M. Senoh, “In situ monitoring and Hall measurements of
+    GaN grown with GaN buffer layers,” J. Appl. Phys. 1992, 71, 5543–5549.
+46. S. Nakamura, M. R. Krames, “History of Gallium-Nitride-Based Light-Emitting
+    Diodes for Illumination,” Proc. IEEE 2013, 101, 2211–2220.
+47. Y. C. Shen, G. O. Mueller, S. Watanabe, N. F. Gardner, A. Munkholm, M. R. Krames,
+    “Auger recombination in InGaN measured by photoluminescence,” Appl. Phys. Lett.
+    2007, 91, 141101.
+48. J. Iveland, L. Martinelli, J. Peretti, J. S. Speck, C. Weisbuch, “Direct Measurement
+    of Auger Electrons Emitted from a Semiconductor Light-Emitting Diode under
+    Electrical Injection: Identification of the Dominant Mechanism for Efficiency
+    Droop,” Phys. Rev. Lett. 2013, 110, 177406.
+49. A. Pourhashemi, R. M. Farrell, M. T. Hardy, P. S. Hsu, K. M. Kelchner, J. S. Speck,
+    S. P. DenBaars, S. Nakamura, “Pulsed high-power AlGaN-cladding-free blue laser
+    diodes on semipolar (20-2-1) GaN substrates,” Appl. Phys. Lett. 2013, 103, 151112.
+
+Portrait photo of Shuji Nakamura by photographer Alexander Mahmoud.
+

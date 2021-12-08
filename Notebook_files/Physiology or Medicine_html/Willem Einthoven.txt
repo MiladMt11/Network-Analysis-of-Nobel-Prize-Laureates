@@ -1,0 +1,559 @@
+                          W   ILLEM   EINTHOVEN
+
+
+    The string galvanometer and the measurement
+           of the action currents of the heart
+                      Nobel Lecture, December 11, 1925
+
+
+May I be permitted to communicate something about the string galvano-
+meter, its latest improvements and its use in electrocardiography.
+   The string galvanometer consists of a thin thread conducting the electric
+current which is stretched as a string in a magnetic field. The thread, as soon
+as the current passes through it, is displaced from its position of equilibrium
+in a direction at right angles to the direction of the lines of magnetic force.
+The amount of displacement is proportional to the strength of the current
+passing through the thread, so that this current can be easily and accurately
+measured.
+   The less the tension in the thread, the weaker are the currents which are
+adequate to cause a visible displacement. But, if the current sensitivity is in
+this way increased, the string movements are at the same time slowed down,
+whilst in most uses of the instrument, one has to deal with rapid variations in
+the current. To assess the usefulness of the instrument, we therefore introduce
+instead of current sensitivity the concept of normal sensitivity and define this
+as the sensitivity at a certain arbitrarily established, constant duration of the
+deviation of the string. In more precise form we write
+
+
+
+
+in which G is the normal sensitivity and A that strength of current which
+causes the deviation . T is the natural frequency of the freely oscillating
+string.
+   We assume that the movements of the string are damped down and is
+the permanent deviation for a constant current. But T is the frequency which
+would be present if the damping down were removed.
+   In the string galvanometer the normal sensitivity is conditioned by the
+magnification v, the field strength H, the mass M of the string and the char-
+acteristics of the material of which the string is made, thus
+
+
+                         STRING GALVANOMETER                                 95
+
+
+
+
+   The quality of the material is rendered by mw, if m = the mass and w the
+resistance of the string per cm of length. If H is expressed in gauss, m and M
+in grams, and w in ohms, the constant equals 1/320.
+   The normal sensitivity of a string galvanometer can be made 1000 times
+greater than that of the most sensitive mirror galvanometer.
+   In order to increase the normal sensitivity one must select a favourable
+material for the manufacture of the string, use a high magnification and a
+strong field, and finally reduce the mass M of the string.
+   The possible improvement of the material soon reaches a limit and this
+also applies to the increase of the magnification and of the magnetic field
+used. A suitable electromagnet with a field of about 20,000 gauss can be
+constructed without special difficulty; it will however hardly be deemed pos-
+sible to build a galvanometer with a field ten times bigger than this. The cost
+would be in any event disproportionately high.
+   If we now consider the mass M of the string and restrict ourselves to strings
+of a certain constant length, we then see from the formula that the normal
+sensitivity is inversely proportional to the diameter of the string. We must
+therefore make the string as thin as possible, only reaching the limit when it
+is so thin that the observation and reproduction of it are connected with
+difficulties.
+   While in many of the instruments in use for the most diverse purposes the
+string is 2 or 3 thick it is however possible to use strings of 0.1 diameter
+and still thinner ones with good results. The figure below (Fig. 1) shows a
+thin string which was photographed at a magnification of 1800. Its diameter
+could not be accurately measured. But there were good grounds to estimate
+this as 0.04 i.e. about 15 times smaller than the wavelength of yellow light
+and nevertheless it was possible to obtain a photograph which, although it
+was not rich in contrasts, was still reasonably satisfactory.
+   A thin string can be induced to move rapidly and under suitable condi-
+tions to achieve almost aperiodic displacement, about 0.1 . Under these
+conditions the string is strongly stretched and its current sensitivity is only
+small. For most purposes a greater current sensitivity is needed, so that it is
+necessary to slacken the string. But then one encounters the difficulty of air-
+damping which in such a thin string is troublesome and inhibits the move-
+ment of the string excessively.
+
+
+96                           1924 W.EINTHOVEN
+
+Engineer W. F. Einthoven has therefore made a model in which the string
+lies in a vacuum and this is specially suitable for the use of very thin strings.
+We obtained with this model with a string about 2 cm long and 0.1-0.2
+thick and a magnification of the image of the string of 1800 times, a displace-
+ment of 1 mm in 0.01 sec for a current of 10 -11 A. This corresponds to an
+unparalleled normal sensitivity and one could think that these conditions
+would be uncommonly suitable for the study of the small variations of cur-
+rent which play so great a role in physiology and medicine.
+
+
+
+
+                Fig. I. A string the diameter of which is estimated
+                             to be of the order of
+
+
+   There is however an insurmountable difficulty. The string does not re-
+main still. Molecular movements due to the temperature cause the whole
+string to remain in continuous movement. These movements could be
+named Brownian string vibrations. If one puts the mean energy of a mole-
+cule at a certain temperature at m v 2 ,the string movement which corre-
+sponds to one degree of freedom at the same temperature has a mean energy
+of m v2. In fact, one obtains about this amount if one calculates the mean
+energy from the mass of the string and the movement actually observed.
+   In a high vacuum the string oscillates very regularly with its natural fre-
+quency; if a little air enters the movements become irregular. It is self-evi-
+dent that the air cannot damp down the movements of the string because the
+movement of the air molecules is itself the cause of the movements of the
+string. If the string is strongly stretched, its natural frequency is high but the
+amplitude of the oscillations is small. If one reduces the tension of the string
+
+
+                            STRING GALVANOMETER                                  97
+
+
+
+
+Fig. 2. Brownian string vibrations magnified about 2,000 times. The string is 18 mm
+long and has a diameter of less than   and a resistance of 250,00 ohm. High vacuum.
+                 No field-magnet current. The string-circuit is open.
+
+
+its natural frequency will be lower, but at the same time the amplitude of the
+oscillations is greater to such an extent that the mean energy of the string’s
+movement remains unchanged.
+   If the string is in a strong magnetic field and in a closed electrical circuit the
+usual string movements will be electromagnetically damped down. They
+induce currents in the circuit outside the galvanometer and must transmit
+heat there.
+   Since one might at first sight perhaps think that the Brownian string vi-
+brations had the same result it will appear that here we have a case of <<perpe-
+tuum mobile>> of the second kind. Then, if the circuit is closed by an external
+resistance, this would be warmed even if its temperature were warmer than
+that of the galvanometer.
+
+
+
+
+               Fig. 3. Air pressure      Hg. Otherwise as in Fig. 2.
+
+
+98                            1924 W.EINTHOVEN
+
+   The Brownian string vibrations are made irregular by electromagnetic
+influences, but in fact they experience no trace of damping. The explanation
+of the phenomenon is found if one takes into account the thermal movements
+of the electrons in the circuit. These cause Brownian currents which can
+neither increase nor reduce the Brownian string vibrations.
+   We thus see that measurement of weak currents with thin strings is in
+practice limited. But if one has to deal with stronger currents which can
+cause a sufficiently large displacement of a strongly stretched string, the
+thinnest string is the best because one reaches with it the greatest normal
+sensitivity.
+   The string galvanometer is within the limits mentioned useful for numer-
+ous purposes. For wireless telegraphy a model has been built which has ren-
+dered very good service as a receiving apparatus. A short string in vacuo is
+tuned to the frequency of the ether oscillations which are sent from some
+transmitting station. From the ether oscillations high-frequency alternating
+currents are obtained by one of the usual methods which one sends through
+the accurately tuned string. As soon as a signal is sent the string is set in mo-
+tion and its movements are photographed on a moving strip of paper, so
+that the dots and dashes can be recorded. Thus one has a recording apparatus
+which is very sensitive, and its decrement can be made precisely controllable
+and extraordinarily small.
+   A string 1 mm long can be so stretched that its natural frequency is 300000
+cycles per second which corresponds to a wavelength of 1 km. It is difficult
+to obtain such rapid oscillations of a material in any other way.
+   Another technical use of the string galvanometer is the recording of sound
+
+
+
+
+Fig. 4. High vacuum as in Fig. 2. The field-magnet current passes through and the
+galvanometer circuit is closed. At A a constant potential difference is applied to the
+              galvanometer. Otherwise as in the two preceding figures.
+
+
+                             STRING GALVANOMETER                                      99
+
+
+
+
+Fig. 5. String-galvanometer recording made in Leiden of wireless signals from Ban-
+doeng, Netherlands Indies. Distance 12,000 km. The string is 6 mm long and is tuned
+accurately to the incoming waves of = 7.5 km. It thus has a natural frequency of
+40,000 whole oscillations per sec. The dots and dashes of the signals are clearly seen in
+                                       the figure.
+
+waves which can by means of the telephone or microphone set the string in
+oscillations. One has made full use of the instrument in locating the source
+of the sound.
+   In physiology the string galvanometer has been used with success for re-
+cording muscle, nerve and skin currents and also those of sense organs.
+   We mention also the psychogalvanic reflex phenomenon, the heart sounds
+and the action currents of the heart, and must discuss the latter in further
+detail.
+  Just as each muscle when it contracts generates an electric current, so the
+heart develops electricity at each systole. This was first described by Kölliker
+and Müller. The English physiologist Augustus D. Waller then showedthat
+the differences in potential which arise in the heart are transmitted to various
+parts of the body and that with a sensitive measuring instrument, the capil-
+lary electrometer, variations in potential in the human heart can be observed.
+One needs only lead the current from the hands and feet to. the measuring
+instrument in order to see the variations of the current which show the same
+rhythm as that shown by the heart’s action.
+
+
+
+
+ Fig. 6. Reception of wireless signals from an arc transmitter with two galvanometers.
+ The string of one is tuned to the working wavelength and that of the other to the wave-
+length used when not transmitting signals. Whilst one string oscillates the other remains
+                                 quiescent and vice versa.
+
+
+100                           1924 W.EINTHOVEN
+
+
+
+
+Fig. 7. Vagus currents of the dog. Recording of the currents from the peripheral
+stump of the left N. vagus. V, vagus currents; P, pneumogram of the own respiratory
+movements of the animal; C, blood-pressure curve; S, signal. Between E and E, the
+peripheral stump of the right vagus nerve was stimulatedby induction currents.
+The heart became arrested. The heart waves disappear in the left electrovagogram,
+                         whilst the respiratory waves persist.
+
+   If one records the displacements in the measuring instrument, one obtains
+a curve called the electrocardiogram (ECG). But because of the imperfec-
+tions of the capillary electrometer the directly recorded curve does not give
+an accurate picture of the actual variations in the potential. In order to ob-
+tain a fairly accurate picture one must construct a new curve based upon the
+properties of the instrument used and the data of the recorded curve and this
+takes much time. This stood in the way of the practical use of electrocardio-
+graphy for the investigation of heart diseases, and general interest in the ECG
+only developed later, after the string galvanometer had made it possible to
+record easily and quickly the required shape with satisfactory accuracy.
+   There was a certain satisfaction in learning that the picture constructed by
+means of the time-consuming measurements and calculations from the data
+of a capillary-electrometer curve corresponded in shape and measurements
+
+
+
+
+Fig. S. Retinal currents. Combined reaction of the three substances A, B, and C. Eyes
+       in darkness. At l instantaneous illumination with strong light for 0.01 sec.
+
+
+                            STRING GALVANOMETER
+                                                                                   101
+
+
+
+
+Fig. g. Psychogalvanic reflex phenomenon. Current lead from the thumbs and fingers
+of a hand. At P acoustic stimulus is applied. The curve G gives the resultant change in
+the resistance of the skin of the person investigated and an upward deflection of one
+         scale division corresponds to a reduction in the resistance of 20 ohm.
+
+
+  with the electrocardiogram directly recorded with the string galvanometer.
+  Because this correspondence signified firstly that the earlier calculations were
+  correct, and secondly that the new galvanometer fulfilled its purpose.
+    An advantage of electrocardiography over other graphic methods for the
+ study of the heart and pulse is that the ECG can record in absolute units, and
+ the shape of the curve no longer depends on the properties of the instrument
+ used. Provided a string galvanometer is correctly built and is suited to its
+purpose, i.e. is sensitive and rapid enough, each curve, whenever and where-
+ever in the world it may be recorded, is directly comparable to any other
+curve.
+
+
+102                             1924 W.EINTHOVEN
+
+   The investigator cannot be satisfied with the fact that he determines the
+shape of the potential variations at the hands and feet. This measurement is
+rather the means of bringing to light the functions of the heart. It is therefore
+desirable to take the ECG by three leads: I from the right and left hand; II
+from the right hand and the left foot; III from the left hand and left foot.
+Curves taken by these three leads have a certain relation to each other, i.e. the
+degree of potential variation in Lead III is equal to the difference in the po-
+tential variations recorded at the same time in Leads I and II.
+
+                             Lead III = Lead II - Lead I
+
+By means of these multiple leads it is possible to measure the direction and
+manifest magnitude of the potential variations in the heart itself. The tech-
+nique of electrocardiography has developed so far that it is now possible to
+record curves with three strings simultaneously. This enables us to control
+the quality of the instruments and the accuracy of the methods used. For
+when one can confirm the formula practically by means of the curves, one
+demonstrates in this way that these curves have been correctly obtained.
+   What must we regard as the cause which determines a specific shape of the
+ECG or better: What determines the direction and the degree of the potential
+difference present in the heart at a given moment?
+   The process of contraction of the heart is associated, just as is contraction
+
+
+
+
+Fig. II. Heart sounds and electrocardiogram. The sounds are taken from the apex of
+the heart and are indicated by 1, 2, and 3. The third sound is only weak. In the phono-
+cardiogram of the first sound, one can differentiate between the initial oscillations a, the
+main oscillations b, and the subsequent oscillations c. The arrow indicates both the
+beginning of the ventricular complex and that of the systolic heart sound. Both begin
+                                     simultaneously.
+
+
+                                   STRING GALVANOMETER
+                                                                                          103
+
+
+
+
+   Fig. 12. Similar to Fig. II. The ventricular complex and the systolic heart sound begin
+                                     almost simultaneously.
+
+
+
+
+  Fig. 13. Stokes-Adams disease with hypertrophy of the left ventricle. A positive
+                                             wave.
+
+
+
+
+                Fig. 14. Stokes-Adams disease. The               is negative.
+
+
+
+
+Fig. 15. A frog's heart poisoned with veratrin. M, mechanogram; E, electrogram of
+the ventricle. The mechanical systole and the electrogram are slowed to the same degree
+                            They lasted almost half a minute.
+
+
+104                             1924 W.EINTHOVEN
+
+
+
+
+Fig. 16. Diphasic action current of a striated muscle. Stimulation at S. After going
+through the two phases A and B there is still a late, shallow depression of the curve
+         visible. This is comparable to the T-wave of an electrocardiogram.
+
+of a skeletal muscle, with the development of an electrical wave. Still the
+heart as a whole may not simply be compared with a skeletal muscle. It has a
+different structure. The skeletal muscle consists of fibres which are often of
+the same length as the muscle itself. When a contraction wave passes over a
+skeletal muscle, the locality at which the summit of the wave is found is elec-
+tronegative with regard to the other parts of the muscle.
+   The heart muscle, however, consists of microscopically small segments,
+which are separated from one another by certain septa. So far as the produc-
+tion of electricity is concerned, each segment has to be considered an individ-
+uality. When a contraction wave passes over a segment of heart muscle, the
+point at which the summit of the wave occurs is electronegative towards all
+other points in that same segment. Thus it is for example possible that a con-
+traction wave passing over the heart at a given moment may have its summit
+
+
+
+
+Fig. 17. Frog’s heart poisoned with KCl. I, before the use of the KC1 solution. II and
+III, during continued poisoning. A, mechanogram of the auricles; V, mechanogram
+of the ventricle; E, electrogram of the ventricle;              calibration curves. It is
+evident from the curves that the mechanical and electrical phenomena decrease to the
+same extent. In III, the summits of the ventricular systole, as well as those of the elec-
+                               trogram are just visible.
+
+
+                            STRING GALVANOMETER
+                                                                                  105
+
+
+
+
+ Fig. 18. Similar to Fig. 17, only the poisoning was with chloroform in stead of KCI.
+
+
+ in the base of the heart whilst nevertheless the direction of potential differ-
+ ence measured at the hands and feet indicates a negativity of the apex to the
+ base. For, the direction of the created potential difference is determined not
+ by the position of the wave in the heart, but by the position of the wave in
+ each individual segment.
+    One has also to take into account the fact that the potential difference ob-
+ served by indirect leads is always the resultant of all the potential differences
+present in all the segments of the heart.
+   There is strict relationship between the electrical and the mechanical phe-
+nomena of the heart systole. The accurate measurement of the moments at
+which both begin is beset with difficulties, but in so far as the measurements
+are made by a suitable technique and an appropriate method they indicate
+that at the moment at which the electrical current begins the first mechanical
+results of the contraction are also visible.
+   Also the duration of the mechanical contraction corresponds in general to
+the duration of the production of electricity.
+   And finally there is also a relationship between the force of the contraction
+and the magnitude of the potential difference produced.
+
+
+106                            1924 W.EINTHOVEN
+
+
+
+
+Fig. 19. Preponderance of the right ventricle, negative RI -wave and very high RIII-
+                 wave. The three curves were taken successively.
+
+
+
+
+Fig. 20. Preponderance of the left ventricle. Strongly negative RIII -deflection. The
+             record was taken simultaneously at the three usual leads.
+
+
+                              STRING GALVANOMETER
+                                                                                      107
+   In pathology and clinical work the ECG has attained great significance
+because it often facilitates the diagnosis of a disease. This is true for example
+in cases of unilateral hypertrophy of the heart.
+   In other cases new light has been thrown on known phenomena. As an
+example we can mention occasional cases in which a pulse becomes small or
+disappears in a series of otherwise regular successive pulses all of the same
+magnitude. Formerly one could think that the cause of this intermittence
+lies in a heart systole which b ecause it appeared prematurely was so weak that
+it could not cause a forceful pulse. Now we know that also the premature
+systoles are of full strength and that the weakening or disappearance of the
+pulse is due to the fact that in the premature contraction the heart lacks time
+to fill its chambers with a sufficient amount of blood. A ventricle empty of
+blood cannot, when it contracts, even if its contraction occurs with full force,
+send blood into the arteries and thus cannot cause a pulse.
+   Fig. 21 shows a strong premature extrasystole with absence of the pulse,
+while some seconds later in the same patient and on the same photographic
+
+
+
+
+Fig. 21. Extrasystole which because of its premature occurrence caused no pulse. The
+                  heart was empty of blood during the extrasystole.
+
+
+
+
+Fig. 22. An extrasystole similar to the one in the preceding figure. Because of its later
+   appearance it caused a strong pulse. The heart had had time to fill with blood.
+
+
+108                            1924 W.EINTHOVEN
+
+plate a similar but much less premature extrasystole appears (see Fig. 22).
+Although in both cases the kind and manner of the heart’s contraction was
+the same, in the second case a forceful pulse was caused. This shows that
+what was lacking in the first case was not force but blood.
+    In Fig. 23 we see in succession an extrasystole with a pulse and one without
+it. The latter which is very premature is however very similar to the former.
+The atypical electrocardiograms shown in Figs. 21,22, and 23 are all laevo-
+grams. In the main they are diphasic and in Lead I the first phase is positive as
+in Figs. 21 and 22; in Leads II and III it is negative as in Fig. 23.
+    The name laevogram indicates that the curve corresponds to a systole in
+which the contraction begins in the left side of the heart and passes from this
+to the right heart. A dextrogram gives the reverse picture.
+    It has been doubted whether in man a diphasic action current of the heart
+with downwardly directed phase I in Leads II and III corresponds to alaevo-
+gram and it has been believed on theoretical grounds that the position may
+be the reverse. But we have by chance had the opportunity to apply a direct
+control in man.
+    There was a hitherto quite healthy man whose sternum had been surgi-
+cally removed. His heart was covered only by a thin layer of skin. Light
+tapping on the area of the heart caused an extrasystole. Because the right
+half of the heart lies in man on the anterior side and thus must be stimulated
+mechanically by the tapping this must cause a dextrogram. Fig. 24 confirmed
+this prediction.
+   It may also be stated that this finding is in full agreement with the theory
+of the heart muscle segments mentioned above.
+   In many cases of disease the diagnosis is possible only by electrocardio-
+graphy. This is especially true of certain diseases of the auricles and of anom-
+
+
+
+
+Fig. 23. Two extrasystoles. A1 B1 appeared late and caused a fairly strong pulse. A2 B2
+appeared earlier. Instead of the pulse corresponding to them the record shows at n
+                                     a depression.
+
+
+                            STRING GALVANOMETER                                      109
+
+
+
+
+Fig. 24. Man without a sternum. The heart was as good as naked and covered only by
+a thin layer of skin. A light tapping on the heart area caused an extrasystole. This is a
+pure dextrogram which is in agreement with the theory that the segments of the
+         heart muscle are electrically to be regarded as being individual entities.
+
+ alies in various parts of the conduction system which can nowadays be ac-
+ curately localized.
+    I may be permitted to return in a few words to the capillary electrometer.
+    In 1894 we recorded with this instrument an ECG which had a shape
+ markedly diverging from curves up till then recorded, which puzzled us.
+ The oscillations of the mercury meniscus were so slow that the recorded curve
+ must in itself already reproduce approximately the variations in potential ac-
+ tually present. Thus a detailed calculation and construction were not carried
+ out.
+   In the course of 1925 we had the opportunity to investigate the same
+person who is now 79 years old with the string galvanometer. In Figs. 25 and
+26 one sees how closely the capillary electrometer curve taken with Lead I
+ 31 years earlier corresponds to the galvanometric curve taken with the same
+lead.
+   The typical heart anomaly has remained unchanged all this long time but
+what was then a puzzle is now explained. The patient had a block in the left
+branch of the bundle of His. The ventricles execute abnormal contractions
+and produce dextrograms. Clinically it is important that a patient can have
+this anomaly for more than 31 years without experiencing excessive discom-
+fort and this case is for that reason alone well worth mentioning because un-
+
+
+110                            1924 W.EINTHOVEN
+
+
+
+
+Fig. 25. Record of an electrocardiogram by means of a capillary electrometer taken on
+June 15, 1894, i.e. before the construction of the string galvanometer. Lead I. Blocking
+     of conduction in the left branch of the bundle of His. Aberrant dextrogram.
+
+til now clinical work on the whole has had at its disposal only experience in
+electrocardiography of limited duration.
+    The insight into the true nature of the deficiency has been given to us by
+later investigators. Among them the English investigator Thomas Lewis,
+who has played a great part in the development of electrocardiography de-
+serves special mention. It is my conviction that the general interest in ECG
+would certainly not have risen so high, nowadays, if we had had to do with-
+out his work, and I doubt whether without his valuable contributions I
+should have the privilege of standing before you today.
+
+
+
+
+Fig. 26. The same patient as in Fig. 25 but investigated 31 years later with three leads
+simultaneously. The disease has remained unchanged. One notes the similarity of the
+  curves taken with the capillary electrometer and the galvanometer with Lead I.
+
+
+                       STRING GALVANOMETER                              111
+
+   But in addition, innumerable other workers in the field of electrocardio-
+graphy have gained great merit. We cannot now name them all but we
+conclude with a reference to the happy circumstance that investigators of the
+whole world have worked together. A new chapter has been opened in the
+study of heart diseases, not by the work of a single investigator, but by that
+of many talented men, who have not been influenced in their work by polit-
+ical boundaries and, distributed over the whole surface of the earth, have
+devoted their powers to an ideal purpose, the advance of knowledge by
+which, finally, suffering mankind is helped.
+

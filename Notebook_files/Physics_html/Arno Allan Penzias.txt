@@ -1,0 +1,720 @@
+THE ORIGIN OF ELEMENTS
+Nobel Lecture, 8 December, 1978
+by
+ARNO A. PENZIAS
+Bell Laboratories, Holmdel, N. J. USA
+
+
+
+
+Throughout most of recorded history, matter was thought to be composed
+of various combinations of four basic elements; earth, air, fire and water.
+Modern science has replaced this list with a considerably longer one; the
+known chemical elements now number well over one hundred. Most of
+these, the oxygen we breathe, the iron in our blood, the uranium in our
+reactors, were formed during the fiery lifetimes and explosive deaths of
+stars in the heavens around us. A few of the elements were formed before
+the stars even existed, during the birth of the universe itself.
+   The story of how the modern understanding of the origin of the chemi-
+cal elements was acquired is the subject of this review. A good place to
+begin is with Lavoisier who, in 1789, published the first scientific list of the
+elements. Five of the twenty or so elements in Lavoisier’s list were due to
+the work of Carl Wilhelm Scheele of Köping. (He was rewarded with a
+pension by the same Academy to whom the present talk is adressed, more
+than a century before Alfred Nobel entrusted another task of scientific
+recognition to it.) Toward the end of the last century the systematic
+compilation of the elements into Mendeleev’s periodic table carried with it
+the seeds of hope for a systematic understanding of the nature of the
+elements and how they came to be.
+   The full scientific understanding of the origin of the elements requires a
+description of their build-up from their common component parts (e.g.,
+protons and neutrons) under conditions known to exist, or to have existed,
+in some accessible place. Thus, the quest for this understanding began
+with nuclear physics. Once plausible build-up processes were identified
+and the conditions they required were determined, the search for appro-
+priate sites for the nuclear reactions followed. Although this search was
+begun in earnest in the nineteen thirties, it was only toward the end of the
+nineteen sixties that the full outlines of a satisfactory theoretical
+framework emerged. In the broad outlines of the relevant scientific
+thought during this period one can discern an ebb and flow between two
+views. In the first, the elements were thought to have been made in the
+stars of our galaxy and thrust back out into space to provide the raw
+material for, among other things, new suns, planets and the rock beneath
+our feet. In the second view, a hot soup of nuclear particles was supposed
+to have been cooked into the existing elements before the stars were
+formed. This pre-stellar state was generally associated with an early hot
+condensed stage of the expanding universe.
+   Historically, the first quantitative formulations of element build-up were
+
+
+                                  A. A. Penzias                            445
+
+
+attempted in the nineteen thirties; they were found to require conditions
+then thought to be unavailable in stars. As a consequence, attention turned
+in the 1940’s to consideration of a pre-stellar state as the site of element
+formation. This effort was not successful in achieving its stated goal, and in
+the 1950’s interest again turned to element formation in stars. By then the
+existence of a wide range of stellar conditions which had been excluded in
+earlier views had become accepted. Finally, the 1960’s saw a reawakened
+interest in the idea of a pre-stellar state at the same time that decisive
+observational support was given to the “Big Bang” universe by the disco-
+very of cosmic microwave background radiation and its identification as
+the relict radiation of the initial fireball.
+   Given the benefit of hindsight, it is clear that the process of understan-
+ding was severely impeded by limitations imposed by the narrow range of
+temperature and pressure then thought to be available for the process of
+nuclear build-up in stars. The theory of stellar interiors based upon classi-
+cal thermodynamics (Eddington, 1926) seemed able to explain the state of
+the then known stars in terms of conditions not vastly different from those
+in our sun. The much higher temperatures and pressures suggested by the
+nuclear physics of element formation were thought to be possible only
+under conditions of irreversible collapse (i.e. the theory lacked mecha-
+nisms for withstanding the tremendous gravitational forces involved);
+hence no material produced under those conditions could have found its
+way back into the interstellar medium and ordinary stars. The arguments
+and mechanisms required to depict the formation of heavy elements and
+their ejection into space are subtle ones. In describing them, S. Chandra-
+sekhar wrote, ". . one must have faith in drawing the consequences of the
+existence of the white dwarf limit. But that faith was lacking in the thirties
+and forties for reasons set out in my (to be published) article ‘Why are the
+Stars as they are?.” Thus, our story of a forty-year-long journey begins with
+the absence of sufficient faith.
+   The nuclear physics picture of element formation in an astrophysical
+ setting was the subject of von Weizsäcker’s “Über Elementumwandlungen
+ im Innern der Sterne” (1937, 1938). (Interested readers can find a guide
+ to earlier literature in Alpher and Herman’s 1950 review.) The central
+ feature of von Weizsäcker’s work is a “build-up hypothesis” of neutrons
+ and intervening β -decays; the direct build-up from protons would be
+ blocked by the Coulomb repulsion of the positively charged nuclei of the
+ heavier elements. Quantitative predictions that follow from this hypothesis
+can be obtained from the general features of empirical abundance-stability
+ data through use of thermodynamic equilibrium relations like those used
+ in the study of chemical reactions.
+   Consider the reversible exothermic reaction of two elements A and B
+ combining to form a stable compound AB with an energy of formation
+      i. e.,
+
+
+446                                        Physics 1978
+
+
+Using square brackets to indicate concentration, we can compute relative
+abundances at thermal equilibrium from the relation
+
+
+
+
+where k is Boltzmann’s constant.
+    The stable isotopes of the lighter elements have approximately equal
+numbers of neutrons and protons (fig. 1). The sequential addition of
+neutrons to a nucleus, O say, results in heavier isotopes of the same
+                          16
+
+
+
+element, 17O and then 18O in this case, until the imbalance of neutrons and
+protons is large enough to make the nucleus unstable. ( 19 O β - decays to
+19
+   F i n ~ 29 seconds.) A measure of the stability of an isotope is the
+increment in binding energy due to the last particle added. In the case of
+17
+   O, for example, we have for this increment,
+
+
+
+
+where M(16), M(n) and M(17) are the masses of 16 O, a neutron and 17 O ,
+respectively, and c 2 is the square of the speed of light. In our example, the
+mass of 17O is 17.004533 A.M.U., that of the neutron is 1.008986 and that
+of 16 O is 16.00000. Substituting in eqn (3) we find the binding energy
+increment to be .004453 A.M.U. or 6.7x10 -6ergs. We can get some idea of
+the temperatures involved in the addition of a neutron to 16O from the use
+of relation (2). Because of the exponential nature of this relation, we can
+
+                     9
+                     8
+
+
+
+
+Fig. 1 The Elements, Hydrogen Through Flourine. The stable nuclei are plotted as a function of
+the number of protons and neutrons they contain. Radioactive combinations are indicated by
+an asterisk, an empty box indicates that the corresponding combination of protons and
+neutrons doesn’t exist. (Note that both mass-5 boxes are empty.) The question mark indicates
+8
+    Be; it can exist under special conditions as a metastable combination of two 4 He nuclei, thus
+providing the key stepping-stone in the transformation of three 4 He’s into     12
+                                                                                     C.
+
+
+                                   A. A. Penzias                              447
+
+
+expect       and kT to be of comparable magnitude for a wide range of
+relative isotopic abundances. Thus, from the approximation,
+
+
+
+we find that 6.7x10ergs corresponds to a temperature of 5x10 10 K .
+     Following earlier workers, von Weizsäcker applied the above relations to
+the relative abundance of the isotopes of a given element having three
+stable isotopes, ( 16O , O and O for example) in a state of equilibrium
+                             17      18
+
+
+
+established by thermal contact with a bath of neutrons at temperature T. If
+[ 16 O], [17 O], [18 O] and [n] are the concentrations of the two oxygen nuclei
+and the neutrons respectively, we may use the relations (2) and (3) to write
+
+
+
+
+as well as
+
+
+
+
+Thus the relative abundances of the three isotopes yield a pair of expres-
+sions involving the neutron density and temperature which permit the
+separate determination of these two quantities from the oxygen abun-
+dance data alone. (The abundances of several hundred stable nuclei -fig. 2
+- had been determined from terrestrial samples supplemented by stellar
+spectra and meteorites.)
+   Using this three-isotope method, Chandrasekhar and Henrich (1942)
+obtained thermal equilibrium neutron densities and temperatures for five
+elements. Not surprisingly, in view of previous work, each element re-
+quired a different temperature and neutron density. While the range of
+the temperature values was relatively small, between 2.9x10 9 for neon and
+1 2 . 9 x 1 0 9 for silicon, the neutron densities ranged from ~ 10 3 1 c m-3 f o r
+silicon to ~ 1 019 c m-3 for sulphur, some twelve orders of magnitude! The
+high values of the temperatures and pressures derived as well as their lack
+of element-to-element consistency shows the shortcomings of this thermal
+equilibrium picture of stellar element formation.
+   Another problem with this neutron build-up picture was the simulta-
+neous requirement of very rapid neutron capture in the formation of
+elements such as uranium and thorium, and very slow neutron capture for
+the formation of others. The “slow” elements require the capture sequence
+of neutrons to be slow enough to permit intervening β-decays, while others
+require rapid sequential neutron capture in order to permit their forma-
+tion from a series of short-lived nuclei. The elements formed by these slow
+and rapid processes correspond, respectively, to the s and r peaks of fig. 2
+[A concise early discussion of this problem is presented in the final chapter
+of Chandrasekhar’s 1939 text.]
+   Another approach to the element formation problem provided an enor-
+mous contribution to understanding the nuclear physics of stars. In a
+
+
+448                                    Physics 1978
+
+
+
+
+                          8
+
+
+                          6
+
+
+
+
+Fig. 2 Relative Abundances of the Elements: Smoothed curves representing the abundances of
+various groups of elements, after Burbidge et. al, 1957, who presented a total of eight
+processes to fit this data (See Clayton 1968 for a more modern treatment.) Lithium, Beryl-
+lium and Boron (circled) are not formed in the build-up process which goes from helium to
+carbon. The small amounts of these elements found in nature are fragments from the break-
+up of heavier elements.
+
+
+
+
+beautiful paper entitled, “Energy Production in Stars”, Bethe (1939) con-
+sidered the individual nuclear reactions of the light nuclei, from hydrogen
+through oxygen. This paper established the role of the fusing of hydrogen
+into helium by two processes and demonstrated their quantitative agree-
+ment with observations. In the first process, protons combine to form a
+deuteron which is then transformed into 4He by the further capture of
+protons. In the second, carbon and nitrogen are used as catalysts, viz
+
+
+
+
+(The notation and format are taken from the cited reference.)
+  As to the build-up of the heavier elements, however, no stable build-up
+process beyond the mass-4 nucleus had been found; a mass-4 nucleus
+cannot be combined with any other nucleus to form a heavier nucleus. In
+particular, no stable mass-5 nucleus exists, so the addition of a neutron or
+proton to 4He doesn’t work. Bethe wrote, “The progress of nuclear physics
+
+
+                                    A. A. Penzias                              449
+
+
+in the past few years makes it possible to decide rather definitely which
+processes can and which cannot occur in the interior of stars . . under
+present conditions, no elements heavier than helium can be built up to any
+appreciable extent”. In an attempt to bypass the mass-4 barrier, Bethe
+considered, and correctly rejected, the direct formation of 12 C from the
+simultaneous collision of three helium nuclei. He also noted that the
+formation of 8Be from two helium nuclei was prevented by the fact that
+this nucleus was known to be unstable, having a negative binding energy of
+“between 40 and 100 keV”. This energy difference corresponds to a
+t e m p e r a t u r e o f s o m e 1 0 9 K, again to be compared with the ~ 2x10 7 K
+which was then thought to be the allowed stellar temperature. It was not
+realized at that time that it is possible to form 8Be from 4He at a sufficiently
+high 4He density and temperature and so bypass the mass-4 barrier. So it
+was that recognition of the crucial role of 8 Be in the build-up of the
+elements had to await the acceptance, in the early 1950’s, of a new under-
+standing of the physics of stellar interiors.
+    In the intervening decade, therefore, attention was diverted toward
+processes which could have occurred before the formation of the stars,
+namely a hot dense state associated with the birth of the universe. The
+formalism associated with the birth of the universe had been laid out by
+Friedman (1922), Lemaitre (1927) and Einstein and deSitter (1932). The
+applicability of this formalism to the real world was established by the
+beautiful simplicity of Hubble’s (1929) powerful result that the observed
+velocities of the “extragalactic nebulae” [i.e. the galaxies which make up
+the universe] were proportional to their distances from the observer. In its
+simplest form, the most distant galaxy is moving away at the fastest rate
+and the nearest at the slowest. This is exactly what one would expect if all
+the galaxies had begun their flight from a common origin and, at a
+common starting time, had been given their start in a trememdous explo-
+sion.
+    Not widely popular among respectable scientists of the time, this idea of
+an expanding universe was taken up in the 1940’s in part because the
+theories of the stellar origin of the elements had failed in the 1930’s. (The
+expanding universe picture was generally ignored again in the 1950’s
+when the wide variety of stellar phenomena became understood. It was
+only in the 1960’s that a more balanced view emerged, but that comes later
+in our story.) The title of Chandrasekhar and Henrich’s 1942 paper “An
+Attempt to Interpret the Relative Abundances of the Elements and Their
+Isotopes” reflects the tentative and unsatisfactory nature of the state of
+understanding at that time. The paper begins, “It is now generally agreed
+that the chemical elements cannot be synthesized under conditions n o w
+believed (emphasis added) to exist in stellar interiors.” As an alternative, the
+authors suggested that the expansion and cooling of the early universe
+might be a possible site for the processes. In this view, each of the elements
+had its abundance “frozen out” at an appropriate stage of the expansion of
+the hot          109K), dense         106gr/cm 3) universe.
+
+
+450                               Physics 1978
+
+
+   As was shown by George Gamow (1946), however, the formation of
+elements in the early universe could not have occurred through these
+equilibrium processes. He accomplished this demonstration by a straight-
+forward calculation of the time scales involved. (The interested general
+reader can find more on this and related points in the mathematical
+appendices of S. Weinberg’s (1977) delightful book “The First Three
+Minutes”.)
+   Consider a point mass m located on the surface of an expanding sphere
+with mass density       The energy E of the mass with respect to the center of
+the sphere is a fixed quantity, the sum of its kinetic and potential energies
+(the latter is a negative quantity), viz
+
+
+
+
+where G is the constant of gravitation,         the density, R, the radius of the
+sphere, and v, the outward velocity of the point mass, are all functions of
+time. Since        R3/3, the mass within the sphere, is not an increasing
+function of R, the far right-hand term must become arbitrarily large for
+sufficiently small values of R(t), i.e., at early times in the expansion. Under
+this “early time approximation” both right-hand terms must become very
+large because the difference between them is fixed. Thus we can regard
+the two terms as essentially equal at early times and, upon simple rearran-
+gement, obtain
+
+
+
+
+Now R/v is a characteristic time scale for the expansion: it is the reciprocal
+of Hubble’s constant and is referred to as the Hubble age in cosmology.
+(Hubble’s “constant” is constant in the spatial sense; it varies in time.)
+Putting numerical values in (6), we have
+
+
+
+
+where    is expressed in gr/cm 3 . Thus, as Gamow pointed out, a neutron
+density of 1030cm -3 (about 10 6gr/cm3) would exist for less than one second
+in the early universe. Since the β-decays necessary to establish the appro-
+priate equalities between protons and neutrons are typically measured in
+minutes, it is clear that the time period needed to establish equilibrium
+with neutrons at the high densities required simply was not available in the
+early expanding universe.
+   This demonstration set the stage for the consideration of nonequili-
+brium processes. Fortunately, two timely developments for the undertak-
+ing of such a study had just occurred. The first was the publication of the
+values of neutron capture cross-sections in the open literature after the
+end of World War II. The second was a bright graduate student in need of
+a thesis topic. Lifshitz (1946) solved the problem that Gamow’s student,
+
+
+                                   A. A. Penzias                            451
+
+
+R. A. Alpher, had originally selected for a thesis topic, one having to do
+with turbulence and galaxy formation in the early universe. As a result,
+Alpher soon set to work on a new topic, the nonequilibrium formation of
+the elements by neutron capture. Since not all cross-sections were available,
+Alpher fitted a smooth curve through the published points, and used this
+curve for his calculations. The results of Alpher’s calculation were intro-
+duced to the scientific world in a brief letter whose list of authors makes it
+part of the folklore of physics (Alpher, Bethe and Gamow 1948).
+   At this point the trail divides. Two different paths of investigation must
+be followed before they merge again into final results. We proceed to
+follow one of them with the understanding that we must return here later
+to follow the other.
+   In presenting his thesis results Alpher initiated a series of interactions
+between scientists which led to a succession of results very different from
+what he might have expected. First, Enrico Fermi, present at a seminar
+given by Alpher, soon raised an important objection: The straight line
+interpolation of capture cross-sections leads to a serious error in the case of
+the light nuclei. The neutron capture cross-section of a mass-4 particle is
+known to be essentially zero, whereas Alpher’s curve was fitted to the
+average cross-sections of the nearby nuclei, which are quite large. Fermi
+had his student Turkevitch redo Alpher’s calculations using explicit mea-
+sured values for the cross-sections. Fermi and Turkevitch’s results, never
+published separately but merely sent directly to Alpher, showed what
+Gamow and his co-workers knew and admitted privately, that their me-
+chanism could produce nothing heavier than mass-4 from neutrons alone.
+   Second, Fermi pressed his friend Martin Schwartzschild for observa-
+tional evidence of the formation of the heavy elements in stars. Together
+with his wife Barbara, Schwartzschild amply fulfilled this request. In one
+of the classic papers of observational astronomy (Schwartzschild and
+Schwartzschild 1950) they measured the faint spectra of two groups of
+stars of the same stellar type, F dwarfs, stars with long uneventful lifetimes.
+A separation into two groups, Population I and Population II, was done on
+the basis of velocity. This distinction, due to Baade, makes use of the fact
+that interstellar gas is almost totally confined to the galactic plane because
+vertical (i.e., perpendicular to the plane) gas motions are quickly damped
+out by cloud-to-cloud collisions. Thus, new stars born from this gas are to
+be found in the plane, without appreciable vertical motion. (These stars,
+which are easier to find, were found first and hence are called Population
+I.) Old stars, formed before the formation of the galactic disc retain the
+high velocities of the gas from which they were formed because dissipative
+encounters between stars are negligibly rare. Consequently, older (Pop II)
+stars can be distinguished by their higher velocities. The Schwartzschilds’
+comparison of the spectra of the two populations provided a clear answer:
+the younger Population I stars had the greater abundance of iron and
+other metals, thus revealing the enrichment of the interstellar medium
+between the times that the older and younger stars were formed.
+
+
+452
+
+
+   This unmistakable evidence of metal production by stars during the
+lifetime of the galaxy removed the need for a pre-stellar mechanism for
+element formation. Only the path around the mass-4 barrier for element
+build-up in stars still had to be found. This was the third and final step.
+   Martin Schwartzschild presented this challenge to a young nuclear phys-
+icist, Ed Salpeter. Salpeter set to work, having a much wider range of
+accepted stellar conditions to work with than did Bethe in his earlier
+investigation. He soon found (Salpeter 1952) that 8Be, unstable though it
+is, can be present in the hot dense cores of red giant stars in sufficient
+quantities to provide a convenient stepping stone for the formation of 12C
+through the addition of a helium-4 nucleus.
+   With both observational support and the theoretical path around the
+mass-4 barrier, the triumph of stellar element formation now seemed
+complete. Fred Hoyle dismissed all pre-stellar theories of element build-up
+as “requiring a state of the universe for which we have no evidence”
+(Burbidge, et. al. 1957). So much for Alpher and Gamow’s theory! “If the
+curve is simple the explanation must be simple” Gamow (1950) had said.
+But the curve of elemental abundances is not a simple one (Fig. 2).
+Burbidge et. al. presented no less than seven separate processes to account
+for the data, and left room for more under an eighth heading to fill in the
+few remaining gaps of their picture.
+   Ironically, it was Fred Hoyle himself who found a gap that could not be
+filled in the stellar picture, a gap in the best-understood process of them
+all, the formation of helium from hydrogen. Although the burning of
+hydrogen into helium provides the sun and the other stars with their
+energy and with building blocks for the formation of the heavier elements,
+Hoyle concluded that about ninety percent of the helium found in stars
+must have been made before the birth of the galaxy. The basis for this
+conclusion was an energy argument: the total amount of energy released
+by the formation of all the observed helium is some ten times greater than
+the energy radiated by the galaxies since their formation. Thus, “it is
+difficult to suppose that all the helium has been produced in ordinary
+stars” (Hoyle and Taylor 1964). Instead, attention was turned to helium
+formation in the early stages of an expanding universe, reviving work
+begun by George Gamow some sixteen years earlier. As indicated above,
+our description of Gamow’s work was deferred in order to first follow the
+progress of the stellar picture of element build-up. We can now follow the
+second path.
+   Despite the problems inherent in Alphers treatment, (see, e.g., Alpher
+and Herman 1950), it provided the basis for a statement of profound
+simplicity and great power (Gamow 1948). Although wrong in almost
+every detail, Gamow’s new insight pointed the way for others to follow. He
+noted that nuclear build-up cannot take place in the hottest, most con-
+densed, state of the early universe because thermal photons at high tem-
+peratures        10 1 0 K a r e e n e r g e t i c e n o u g h t o b r e a k u p b o u n d p a r t i c l e
+groups. Only when the temperature has cooled to ~ 10 9K, can nuclear
+
+
+                                          A. A. Penzias                                      453
+
+
+reactions begin. Any build-up, however, must be completed during the few
+hundred seconds before all the free neutrons decay into protons. Gamow
+considered a cylinder (Fig. 3) swept out by a neutron with a 10 9K thermal
+velocity during its lifetime. The cross-section of the cylinder was the cap-
+ture cross-section for deuteron formation. If there was to have been
+appreciable element build-up in the early universe, Gamow reasoned,
+some fraction, say one half, of the initial neutrons had to have collided
+with protons to form deuterons before they had time to decay. Thus, half
+of Gamow’s sample cylinders should contain a proton. This statement
+determines the number of protons per unit volume. From this result, the
+mass of the proton, and his estimate of the fraction of matter that was in
+the form of protons (roughly one half), Gamow obtained the mass density
+of matter in the universe at 109K, about 10-6g m / c m 3.
+
+                , AREA = COLLISION CROSS-SECTION
+
+
+
+
+Fig. 3 Gamows Sample Cylinder; The volume swept out by a neutron in the early universe. The
+length of the cylinder is the product of the neutron’s thermal velocity (at 10 9 K) and its decay
+time. The cross-sectional area is the neutron-proton collision cross-section for deuteron
+formation. The fraction of neutrons forming deuterons is equal to the probability that the
+cylinder contains a proton.
+
+
+
+   Gamow then noted that the mass density of radiation at 10 9K (i.e., its
+energy density divided by c2) was about 10gr/cm3, as compared with only
+1 0-6gr/cm 3 for matter. This makes radiation the dominant component in
+the entropy of the early universe, permitting it to cool during the expan-
+sion as if the matter were not present. In that case, the temperature varies
+inversely with the radius of the expanding volume element (Tolman 1934,
+Peebles 1971) i.e.,
+
+
+
+Now since      the density of matter, varies inversely as the cube of the
+radius, we can replace (8) with
+
+
+
+                                          or
+
+
+454                              Physics 1978
+
+
+This neat relation between temperature and matter density holds as long
+as radiation remains the dominant component. When the temperature
+drops below ~ 3x10 K, the matter is too cool to remain ionized, and once
+                      3
+
+
+
+it becomes neutral it is essentially transparent to the radiation. The radi-
+ation is then no longer coupled to the matter, it is free to expand forever in
+untroubled isolation, and eqn (9) continues to apply.
+   Gamow was only interested in tracing the radiation to the epoch when
+the matter becomes neutral and decouples from the radiation. From that
+point on, the matter has only its own thermal energy to support itself
+against gravitational collapse, so it fragments and condenses to form galax-
+ies. Gamow used eqn (9) to find the density of matter at 3X 10 3K and the
+Jeans criterion to determine the size of the collapsing fragments. Thus he
+was able to obtain a relation for the mass of galaxies containing only
+fundamental constants and the single assumption that half the initial
+neutrons collided to form deuterons. This was quite a trick, even for him!
+   Gamow’s paper inspired his former student, Alpher and his collaborator
+Robert Herman to do the calculations more rigorously (Alpher and Her-
+man 1949). Most importantly they replaced the “early-time” approxima-
+tion Gamow used with a more exact formulation and traced the tempera-
+ture of the relict primordial radiation to the present epoch. Taking the
+present matter density of the universe to be 10- 30g m / c m3, they concluded
+that the present energy density of the relict radiation should correspond to
+a temperature of a few degrees Kelvin. Although mention of this predic-
+tion persisted in Gamow’s popular writing, it was only repeated explicitly
+in a few of their subsequent scientific works. As for detection, they appear
+to have considered the radiation to manifest itself primarily as an in-
+creased energy density (Alpher and Herman 1949, pg. 1093). This contri-
+bution to the total energy flux incident upon the earth would be masked by
+cosmic rays and integrated starlight, both of which have comparable ener-
+gy densities. The view that the effects of three components of approxi-
+mately equal additive energies could not be separated may be found in a
+letter by Gamow written in 1948 to Alpher (unpublished, and kindly
+provided to me by R. A. Alpher from his files). “The space temperature of
+        o
+about 5 K is explained by the present radiation of stars (C-cycles). The
+only thing we can tell is that the residual temperature from the original
+                                           o
+heat of the Universe is not higher than 5 K.” They do not seem to have
+recognized that the unique spectral characteristics of the relict radiation
+would set it apart from the other effects.
+   The first published recognition of the relict radiation as a detectable
+microwave phenomen appeared in a brief paper entitled “Mean Density of
+Radiation in the Metagalaxy and Certain Problems in Relativistic Cosmol-
+ogy”, by A. G. Doroshkevich and I. D. Novikov (1964a) in the spring of
+ 1964. Although the English translation (1964b) appeared later the same
+year in the widely circulated “Soviet Physics-Doklady”, it appears to have
+escaped the notice of the other workers in this field. This remarkable
+paper not only points out the spectrum of the relict radiation as a black-
+
+
+                                 A. A. Penzias                          455
+
+
+body microwave phenomenon, but also explicity focuses upon the Bell
+Laboratories twenty-foot horn reflector at Crawford Hill as the best avail-
+able instrument for its detection! Having found the appropriate reference
+(Ohm 1961), they misread its results and concluded that the radiation
+predicted by the “Gamow Theory” was contradicted by the reported mea-
+surement.
+   Ohm’s paper is an engineering report on a low-noise microwave receiv-
+ing system. The reported noise of this system contained a residul excess of
+almost exactly three degrees ! Ohm had measured a total system noise
+temperature of some 22K including the contribution of the receiver, the
+antenna, the atmosphere and the sky beyond. Separate measurements of
+each of the components of this noise temperature, except the sky beyond
+the atmosphere, totalled - 19K. (From an analysis of his measurement
+errors, Ohm concluded that both sets of measurements, the total and the
+sum of individual contributions, could be consistent with an intermediate
+value). The atmospheric contribution was measured by moving the anten-
+na in elevation and fitting the change in system temperature to a cosecant
+relation, a standard procedure which is described by Wilson (1978). To
+avoid confusion with other quantities, the atmospheric contribution thus
+derived was denoted T sky , the “sky temperature”. Ohm’s value of 2.3K for
+this quantity was in good agreement with atmospheric attenuation theory.
+The background contribution due to the relict radiation has no elevation
+dependence and cannot be detected by this technique. Perhaps due to the
+unfortunate name, Doroshkevitch and Novikov regarded T sky , as contain-
+ing the background radiation and therefore leading to a null result. The
+disappointment is reflected in Section IV of Zeldovitch’s concurrent (1965)
+review.
+   The year 1964 also marked a reawakened interest in the "Gamow
+Theory” by Hoyle and Taylor (1964) as well as the first unambiguous
+detection of the relict radiation. The rough outlines of Gamow’s initial
+treatment had long since been refined by the work of others. For example,
+it was pointed out by Hayashi (1950) that the assumption of an initial
+neutron material was incorrect. The radiation field at T > 10 9K generates
+electron- positron pairs which serve to maintain quasi-thermal equilibrium
+between neutrons and protons (see also Chandrasekhar and Henrich,
+ 1942, who made the same point). Alpher, Follin and Herman (1953)
+incorporated this process into their rigorous treatment of the problem.
+Their work benefited from the availability of what was, by the standard of
+those days, a powerful electronic computer which permitted them to
+include the dynamic effects of expansion and cooling upon collisional and
+photo-disintegrated processes. Their results, which have not been substan-
+tially altered by subsequent work, are chiefly marked by (1) conversion of
+some 15 %’ of the matter into helium, with the exact amount dependent
+only slightly upon the density at T ≈ 1 09K and (2) production of deuterium
+whose surviving abundance is sensitively dependent upon the initial tem-
+perature/density relation. The same ground was covered in Hoyle and
+
+
+456                              Physics 1978
+
+
+Taylor’s 1964 paper, which cited Alpher, Follin and Herman’s paper and
+noted the agreement with the earlier results. Neither paper made any
+mention of surviving relict radiation.
+   Shortly thereafter, P. J. E. Peebles treated the same subject for a diffe-
+rent reason. R.H. Dicke had, with P.G. Roll and D.T. Wilkenson, set out to
+measure the background brightness of the sky at microwave wavelengths.
+At his suggestion, Peebles began an investigation of the cosmological
+constraints that might be imposed by the results of such a measurement.
+Peebles’ paper, which was submitted to the Physical Review and circulated
+in preprint form in March of 1965. This paper paralleled the above light
+element production picture and included Hoyle and Taylor (1964) among
+its references. In addition, it explicitly delineated the surviving relict
+radiation as a detectable microwave phenomenon. At about the same time,
+microwave background radiation was detected at Bell Laboratories and its
+extragalactic origin established. No combination of the then known
+sources of radio emission could account for it. Receipt of a copy of Peebles’
+preprint solved the problem raised be this unexplained phenomenon.
+Eddington tells us: “Never fully trust an observational result until you have
+at least one theory to explain it. “The theory and observation were then
+brought together in a pair of papers (Dicke et al, 1965, Penzias and Wilson
+ 1965) which led to decisive support for evolutionary cosmology and
+further renewal of interest in its observational consequences.
+   The existence of the relict radiation established the validity of the
+expanding universe picture with its cosmological production of the light
+elements, deuterium, helium-3 and helium-4 during the hot early stages of
+the expansion. The build-up of the heavier elements occurs at a much later
+stage, after the stars have formed. In stars, the cosmologically produced
+helium-4, together with additional amounts of helium produced by the
+stars themselves, is converted (via beryllium-8) into carbon-12 from which
+the heavier elements are then built. The stellar process described by
+Burbidge et al (1957) have been supplemented and, in some cases, re-
+placed by processes whose existence was established trough later work, of
+which explosive nucleosynthesis is the most significant one. (See Clayton
+1968 for a review.) Much of the build-up of the heavier elements goes on in
+a few violent minutes during the life of massive stars in which their outer
+shells are thrown outward in supernova explosions. This mechanism ac-
+counts both for the formation of the heavy elements as well as for their
+introduction into interstellar space. Thus, the total picture seems close to
+complete but puzzling gaps remain, such as the absence of solar neutrinos
+(Bahcall and Davis, 1976). One thing is clear however, observational cos-
+mology is now a respectable and flourishing science.
+
+Acknowledgment
+  My first thanks must go to the members of the Academy for the great
+honor they have bestowed upon me. The work which resulted in the
+occasion for this talk is described in an accompanying paper by my friend
+
+
+                                                                                    A. A. P e nzi as                                                                     457
+
+
+a n d c oll e a g u e R o b e rt W. Wil s o n. I a m p r of o u n dl y g r at ef ul f o r hi s u nf ail-
+i n g h el p t h r o u g h o ut o u r fift e e n y e a r s of p a rt n e r s hi p.
+     T h e p r e p a r ati o n of t h e t al k u p o n w hi c h t hi s m a n u s c ri pt i s b a s e d o w e s
+ m u c h t o m a n y p e o pl e. C o n v e r s ati o n s wit h R. A. Al p h e r, J o h n B a h c all, S.
+ C h a n d r a s e k h a r a n d M a rti n S c h w a rt z s c hil d w e r e p a rti c ul a rl y h el pf ul. I a m
+al s o g r at ef ul t o A. B. C r a wf o r d, R. H. Di c k e, G. B. Fi el d, R. K o m pf n e r, P.
+J. E. P e e bl e s, D. S ci a m a, P. T h a d d e u s a n d S. W ei n b e r g f o r e a rli e r h el p
+gi v e n p e r s o n all y a n d t h r o u g h t h ei r p u bli s h e d w o r k.
+
+
+
+
+REFE RE N CES
+
+
+   1.    Al p h e r, R.              A., B et h e,      H.     A., a n d        G a m o w,     G., 1 9 4 9, P h y s. R e v. 7 3. 8 0 3.
+  2.     Al p h e r, R.              A. a n d       H e r m a n, R.       C., 1 9 4 9, P h y s. R e v. 7 5, 1 0 8 9
+  3.    Al p h e r, R.               A. a n d       H e r m a n, R. C., 1 9 5 0, R e v.                 M o d. P h y s. 2 2. 1 5 3.
+  4.    Al p h e r. R.              A., F olli n, J.          W. a n d      H e r m a n, R.          C., 1 9 5 3, P h y s. R e v. 9 2, 1 3 4 7.
+  5.    B et h e,        H.         A., 1 9 3 9, P h y s.         R e v. 5 5, 4 3 4.
+  6. B u r bi d g e, E.                 M., B u r bi d g e,         G. R., F o wl e r,          W.     A., a n d      H o yl e, F., 1 9 5 7, R e v.         M o d. P h y s.
+        2 9, 5 4 7.
+  7.    C h a n dr a s e k h ar, S., 1 9 3 9, A n I ntr o d u cti o n t o t h e St u d y                            of St ell a r St r u ct u r e, ( U ni v e r sit y of
+        C hi c a g o).
+  8.     C h a n d r a s e k h a r, S. a n d                 H e n ri c h, L.      R., 1 9 4 2,       A p. J. 9 5, 2 2 8.
+  9. Cl a yt o n, D. D., 1 9 6 8 Pri n ci pl es of St ell ar E v ol uti o n a n d                                  N u cl e os y nt h esis ( M c G r a w- Hill).
+1 0.    Di c k e, R.               H., P e e bl e s, P. J. E., R oll, P.                G. a n d        Wil ki n s o n,    D. T., 1 9 6 5,      A p. J. 1 4 2, 4 1 4.
+1 1.     D o r o s h k e vi c h.          A.      G. a n d      N o vi k o v, I.      D.. 1 9 6 4 a      D o kl.     A k a d.   N a v k. S S R 1 5 4, 8 0 9.
+1 2.    D o r o s h k e vi c h,           A.      G. a n d      N o vi k o v, I.       D., l 9 6 4 b S o v. P h y s- D o kl. 9. 1 1 1.
+1 3.    Ei n st ei n,          A. a n d d e Sitt e r,             W., 1 9 3 2 P r o c.       N at.     A c a d. S ci. 1 8, 3 1 2.
+1 4.     E d di n gt o n, A. S., 1 9 2 6, T h e I nt er n al C o nstit uti o n                        of       t h e St ars, ( C a m bri d g e U ni v er sit y Pr e s s).
+1 5.    F o wl e r, R.                H., 1 9 2 6,      M. N. R. A. 8 7, 1 1 4.
+1 6.    F ri e d m a n n,             A., 1 9 2 2.     Z eit s. F u r P h y si k 1 0, 3 7 7.
+1 7.     G a m o w,            G., 1 9 4 6, P h y s.          R e v. 7 0, 5 7 2.
+1 8.     G a m o w,            G., 1 9 4 8,        N at u r e 1 6 2, 6 8 0.
+ 1 9.    G a m o w,            G., 1 9 5 0, P h y si c s T o d a y 3,               N o. 8, 1 6
+2 0.     H a y a s hi,             C., 1 9 5 0, P r o g. T h e o. P h y s. (J a p a n) 5, 2 2 4.
+2 1.     H o yl e, F. a n d T a yl o r,                  R. J., 1 9 6 4,           N at u r e 2 0 3, 1 1 0 8.
+2 2.     H u b bl e, E. P., 1 9 2 9, P r o c.                      N. A. S. 1 5, 1 6 8.
+2 3.     L e m ait r e,            G., 1 9 2 7,      A n n. S o c. S ci. B r u x. A 4 7, 4 9.
+2 4.     Lif s c hit z, E., 1 9 4 6, J. P h y s.                   U S S R 1 0, 1 1 6.
+2 5.     O h m. E.                 A., 1 9 6 1, B ell S y st. T e c h. J. 4 0, 1 0 6 5.
+2 6. P e e bl e s, P. J.                 E., 1 9 7 1, P h y si c al         C o s m ol o g y ( P ri n c et o n        U ni v e r sit y P r e s s).
+2 7.     P e n ri a s,        A.      A. a n d       Wil s o n, R.        W., 1 9 6 5,       A p. J. 1 4 2, 4 1 9.
+2 8.    S al p et e r, E. E., 1 9 5 2.                A p. J. 1 1 5, 3 2 6.
+2 9.    S c h w a rt z c hil d, B. a n d S c h w a rt z s c hil d,                       M. 1 9 5 0,       A p. J. 2 1 2, 2 4 8.
+3 0. T ol m a n, R. C., 1 9 3 4, R el ati vit y T h er m o d y n a mi cs a n d C os m ol o g y,                                   ( Cl ar e n d o n   Pr e s s,   O xf or d).
+3 1. v o n W ei z s ä c k e r, C. F., 1 9 3 7, P h y si k. Z eit s. 3 8, 1 7 6.
+3 2.    von         W ei z s ä c k e r,        C. F., 1 9 3 8, P h y si k. Z eit s. 3 9, 6 3 3.
+3 3.     W ei n b e r g, S., T h e Fi r st T h r e e                      Mi n ut e s, ( B a si c B o o k s).
+3 4.      Wil s o n,          R.      W., 1 9 7 8      N o b el     L e ct u r e
+3 5.     Z el d o vi c h, 1 9 6 5,              A d v a nc es i n        A st r. a n d       A p. 3. 2 4 1.
+

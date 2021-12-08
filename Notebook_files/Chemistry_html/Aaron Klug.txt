@@ -1,0 +1,1403 @@
+FROM MACROMOLECULES TO BIOLOGICAL
+ASSEMBLIES
+Nobel lecture, 8 December, 1982
+
+by
+AARON KLUG
+MRC Laboratory of Molecular Biology,
+Cambridge CB2 2QH, U.K.
+
+
+
+
+ Within a living cell there go on a large number and variety of biochemical
+ processes, almost all of which involve, or are controlled by, large molecules, the
+ main examples of which are proteins and nucleic acids. These macromolecules
+ do not of course function in isolation but they often interact to form ordered
+ aggregates or macromolecular complexes, sometimes so distinctive in form and
+ function as to deserve the name of organelle. It is in such biological assemblies
+ that the properties of individual macromolecules are often expressed in a cell. It
+ is on some of these assemblies on which I have worked for over 25 years and
+ which form the subject of my lecture today.
+    The aim of our field of structural molecular biology is to describe the
+ biological machinery, in molecular, i.e. chemical, detail. The beginnings of this
+ field were marked just over 20 years ago in 1962 when Max Perutz and John
+ Kendrew received the Nobel prize for the first solution of the structure of
+ proteins. In the same year Francis Crick, James Watson, and Maurice Wilkins
+ were likewise honoured for elucidating the structure of the double helix of
+ DNA. In his Nobel lecture Perutz recalled how 40 years earlier, in 1922, Sir
+ Lawrence Bragg, whose pupil he had been, came here to thank the Academy
+ for the Nobel prize awarded to himself and his father, Sir William, for having
+ founded the new science of X-ray crystallography, by which the atomic struc-
+ ture of simple compounds and small molecules could be unravelled. These men
+ have not only been my predecessors, but some of them have been something
+ like scientific elder brothers to me, and I feel very proud that it should now be
+ my turn to have this supreme honour bestowed upon me. For the main subjects
+ of my work have been both nucleic acids and proteins, the interactions between
+ them, and the development of methods necessary to study the large macromo-
+ lecular complexes arising from these interactions.
+    In seeking to understand how proteins and nucleic acids interact, one has to
+ begin with a particular problem, and I can claim no credit for the choice of my
+ first subject, tobacco mosaic virus. It was the late Rosalind Franklin who
+ introduced me to the study of viruses and whom I was lucky to meet when I
+joined J.D. Bernal’s department in London in 1954. She had just switched from
+ studying DNA to tobacco mosaic virus, X-ray studies of which had been begun
+
+
+ 78                                        Chemishy 1982
+
+
+
+
+                 Fig. 1. Diagram summarizing the results of the first stage of structure
+                 analysis of tobacco mosaic virus (71). There are three nucleotides
+                 per protein subunit and         subunits per turn of the helix. Only
+                 about one-sixth of the length of a complete particle is shown.
+
+
+
+
+      06
+
+
+
+
+Fig. 2. Diagram showing the ranges over which particular forms of TMV protein participate
+significantly in the equilibrium (17). This is not a conventional phase diagram: a boundary is
+drawn where a larger species becomes detectable and does not imply that the smaller species
+disappears sharply. The “lock washer” indicated on the boundary between the 20S disk and the
+helix is not well defined and represents a metastable transitory state observed when disks are
+converted to helices by abrupt lowering of the pH.
+
+
+                                      A. Klug                                   79
+
+
+by Bernal in 1936. It was Rosalind Franklin who set me the example of tackling
+large and difficult problems. Had her life not been cut tragically short, she
+might well have stood in this place on an earlier occasion.
+
+
+TOBACCO MOSAIC VIRUS
+
+Tobacco mosaic virus (TMV) is a simple virus consisting only of a single type
+of protein molecule and of RNA, the carrier of the genetic information. Its
+simple rod shape results from its design, namely a regular helical array of these
+protein molecules, or subunits, in which is embedded a single molecule of
+RNA. This general picture was already complete by 1958 when Rosalind
+Franklin died (Fig. 1). It is clear that the protein ultimately determines the
+architecture of the virus, an arrangement of          subunits per turn of a rather
+flat helix with adjacent turns in contact. The RNA is intercalated between
+these turns with 3 nucleotide residues per protein subunit and is situated at a
+radial distance of 40 Å from the central axis and is therefore isolated from the
+outside world by the coat protein. The geometry of the protein arrangement
+forces the RNA backbone into a moderately extended single-strand configura-
+tion. Running up the central axis of the virus particle is a cylindrical hole of
+diameter 40 Å, which we then thought to be a trivial consequence of the protein
+packing, but which later turned out to figure prominently in the story of the
+assembly.
+   At first sight, the growth of a helical structure like that of TMV presents no
+problem of comprehension. Each protein subunit makes identical contacts with
+its neighbours so that the bonding between them repeats over and over again.
+Subunits can have a precise built in geometry so that they can assemble
+themselves like steps in a spiral staircase in a unique way. Subunits would
+simply add one or a few at a time onto the step at the end of a growing helix,
+entrapping the RNA that would protrude there and generating a new step, and
+so on. It was in retrospect thus not too surprising when the classic experiments
+of Fraenkel-Conrat and Williams in 1955 (6) demonstrated that TMV could be
+reassembled from its isolated protein and nucleic acid components. They
+showed that, upon simple remixing, infectious virus particles were formed that
+were structurally indistinguishable from the original virus. Thus all the infor-
+mation necessary to assemble the particle must be contained in its components,
+that is, the virus “self assembles”. Later experiments (‘7) showed that the
+reassembly was fairly specific for the viral RNA, occuring most readily with the
+RNA homologous to the coat protein.
+   All this was very satisfactory but there were yet some features which gave
+cause for doubt. First, other experiments (8) showed that foreign RNAs could
+be incorporated into virus-like rods and these cast doubt on the belief that
+specificity in vivo was actually achieved during the assembly itself. Another
+feature about the reassembly that suggested that there were still missing
+elements in the story was its slow rate. Times of 8 to 24 hours were required to
+give maximum yields of assembled particles. This seemed to us rather slow for
+the assembly of a virus in vivo, since the nucleic acid is fully protected only on
+
+
+80                                 Chemistry 1982
+
+
+completion. These doubts, however, lay in the future and before we come to
+their resolution, I return to the structural analysis of the virus and the virus
+protein.
+
+
+
+X-ray analysis of TM V: the protein disc
+After Franklin’s death, Holmes and I continued the X-ray analysis of the virus.
+Specimens for X-ray work can be prepared in the form of gels in which the
+particles are oriented parallel to each other, but randomly rotated about their
+own axes. These gels give good X-ray diffraction patterns but because of their
+nature the three-dimensional X-ray information is scrambled into two dimen-
+sions. Unscrambling these data to reconstruct the 3-dimensional structure has
+proved to be major undertaking, and it was only in 1965 that Holmes and I
+obtained the first 3-dimensional Fourier maps to a resolution of about 12 Å. In
+fact, only recently has the analysis by Holmes and his colleagues in Heidelberg
+(where he moved in 1968) reached a resolution approaching 4 Å in the best
+regions of the electron density map, but falling off significantly in other parts
+(9). At this resolution it is not possible to identify individual amino-acid
+residues with any certainty and ambiguities are too great to build unique
+atomic models. However, the map, taken together with the detailed map of the
+subunit we obtained in Cambridge (see below) yields a considerable amount of
+information about the nature of the contacts with RNA (10).
+   These difficulties in the X-ray analysis of the virus were foreseen, and by the
+early 1960’s I came to realize that the way around this difficulty was to try to
+crystallize the isolated protein subunit of the virus, solve its structure by X-ray
+diffraction and then try to relate this to the virus structure solved to low
+resolution. We therefore began to try to crystallize the protein monomer. In
+order to frustrate the natural tendency of the protein to aggregate into a helix,
+Leberman introduced various chemical modifications in the hope of blocking
+the normal contact sites, but none of these modified proteins crystallised. The
+second approach was to try to crystallize small aggregates of the unmodified
+protein subunits. It had been known for some time, particularly from the work
+of Schramm and Zillig (11), that the protein on its own, free of RNA, can
+aggregate into a number of distinct forms, besides that of the helix. I chose
+conditions under which the protein appeared to be mainly aggregated in a form
+with a sedimentation constant of about 4S, identified by Caspar as a trimer
+(12). We obtained crystals almost immediately but we found (13) them to
+contain not the small aggregate hoped for, but a large one, corresponding to an
+aggregate with a sedimentation constant of 20S. The X-ray analysis showed
+that this was built from two juxtaposed layers, or rings, of 17 subunits each and
+we named this form the two-layer disc (Fig. 3 and 4). Our inital dismay in
+being faced with such a large structure, of molecular weight 600,000, was
+tempered by the fact that the geometry of the disc was clearly related to that of
+the virus particle. The cylindrical rings contained 17 subunits each compared
+with         units per turn of the virus helix, so that the lateral bonding within
+the discs was therefore likely to be closely related to that in the virus. We also
+
+
+                                               A. Klug                                               81
+
+
+
+
+Fig. 3. The disk viewed from above at successive stages of resolution. From the centre outward there
+follow (i) a rotationally filtered electron microscope image at about 25 Å resolution (72); (ii) a slice
+through the 5 Å electron density map of the disk obtained by X-ray analysis, showing rod-like
+helices (26) and (iii) part of the atomic model built from the 2.8 Å map (Bloomer et al., ref. 15).
+
+
+82                                        Chemistry 1982
+
+
+
+
+Fig. 4. Section through a disk along its axis reconstructed from the results of X-ray analysis to a
+resolution of 2.8 Å (15). The ribbons show the path of the polypeptide chain of the protein subunits.
+Subunits of the two rings can be seen touching over a small area toward the outside of the disk but
+opening up into the “jaws” toward the centre. The dashed lines at low radius indicate schematical-
+ly the mobile portion of the protein in the disk, extending in from near the RYA binding site to the
+edge of the central hole
+
+
+
+showed, by analysing electron micrographs, that the disc was polar, i.e. that its
+two rings faced in the same direction as do successive turns of the virus helix.
+   This was the first very large structure ever to be tackled in detail by X-ray
+analysis and it took about a dozen years to carry through the analysis to high
+resolution. The formidable technical problems were overcome only after the
+development in our laboratory of more powerful X-ray tubes and of special
+apparatus (cameras, computer-linked densitometers) for data collection from a
+structure of this magnitude. (In fact we had begun building better X-ray tubes
+in London to use on weakly diffracting objects like viruses). The 17-fold
+rotational symmetry of the disc also gives rise to redundant information in the
+X-ray data, which was exploited in the final analysis (14), to improve and
+extend the resolution of a map based originally on only one heavy atom
+derivative. The map at 2.8 Å resolution (15) has been interpreted in terms of a
+detailed atomic model for the protein (Figs. 3 and 4), although the individual
+interactions upon RNA binding have yet to be deduced.
+
+Protein polymorphism
+These results on the structure of the disc which showed that it was fairly closely
+related to the virus helix made me wonder whether the disc aggregate might
+not be fulfilling some vital biological role. It had been easy to dismiss it as
+perhaps an adventitious aggregate of a sticky protein or a storage form. The
+polymorphism of TMV protein was first considered in some detail by Caspar in
+1963 (12) who foresaw that some of the aggregation states might give insight
+into the way the protein functions. Quantitative studies of aggregation started
+by Lauffer in the 1950’s (16) concentrated upon a rather narrow range of
+conditions, the main interest being in understanding the forces driving the
+aggregation (these are largely entropic). Because of the scattered nature of the
+earlier observations, Durham, Finch and I began a systematic survey of the
+aggregation states as a result of which the broad outline became clear (17, 18).
+The results can be summarised as a phase diagram (Fig. 2).
+
+
+                                      A. Klug                                      83
+
+
+   At low or acid pH, the protein alone will form helices of indefinite lengths
+that are structurally very similar to the virus except for the lack of the RNA.
+Above neutrality the protein tends to exist as a mixture of smaller aggregates
+from about trimer upwards, in rapid equilibrium with each other, commonly
+referred to as A-protein. Near pH 7 and at about room temperature the
+dominant form present is the disc which is in a relatively slow equilibrium with
+the A-form in the ratio of about 4:1. The dominant factor controlling the state
+of aggregation of the coat protein is thus the pH. The control is mediated
+through groups, probably carboxylic acid residues, as identified by Caspar
+(12), that bind protons abnormally in the helical state, but not in the disc or A-
+form. Thus the helical structure can be stabilised either in the virus by the
+interaction of the RNA with the protein, or, in the case of the free protein, by
+protonating the acid groups. These groups thus act as a “negative switch”,
+ensuring that under physiological conditions the helix is not formed, and thus
+that enough protein in the form of discs or A-protein is available to interact
+with the RNA during virus assembly.
+
+A role for the disc
+The disc aggregate of the protein therefore has a number of significant proper-
+ties. It is not only closely related to the virus helix, but also is the dominant
+form of the protein under “physiological” conditions; moreover, disc forms had
+also been observed for other helical viruses. These strengthened my conviction
+that the disc form was not adventitious but might play a significant role in the
+assembly of the virus. What could this role be?
+   Assembly of any large aggregate of identical units such as a crystal can be
+considered from the physical point of view in two stages: first nucleation and
+then the subsequent growth, or, in more biochemical language, as initiation
+and subsequent elongation. The process of nucleation - or, crudely, getting
+started - is frequently more difficult than the growth. Thus, a simple mode of
+initiation in which the free RNA interacts with individual protein subunits does
+pose problems in getting started. At least 17 separate subunits would have to
+bind to the flexible RNA molecule before the assembling linear structure could
+close round on itself to form the first turn of the virus helix. This difficulty could
+be avoided if a preformed disc were to serve as a jig upon which the first few
+turns of the viral helix could assemble to reach sufficient size to be stable. This
+mode of nucleation of helix assembly could also furnish a mechanism for the
+recognition by the protein of its homologous RNA. The surface of the disc
+presents a set of 51 (= 17 × 3) nucleotide binding sites which could interact with
+a special long run of bases, resulting in an amplified discrimination that might
+not be possible with a few nucleotides. It thus seemed that the disc could solve
+both the physical and biological requirements for initiating virus growth and
+conferring specificity on the interaction. This hypothesis is illustrated in Fig. 5.
+It turned out that all the details in this diagram are wrong, but yet the spirit is
+correct. As A.N. Whitehead once observed, it is more important that an idea
+should be fruitful than it should be true.
+   This proposed mechanism of nucleation required that the disc be able to
+
+
+84                                        Chemistry 1982
+
+
+
+
+Fig. 5. The role of the disk as originally conceived: the specific recognition of a special (terminal)
+sequence of TMV-RNA initiates conversion of the disc form of the protein into two turns of helix,
+(See Fig. 7, for the mechanism finally established.)
+
+
+dislocate into a two-turn helix to form the beginning of the growing nucleopro-
+tein rod. To test this, we carried out a very simple experiment, the pH drop
+experiment ( 19). This showed that an abrupt lowering of the pH would convert
+discs directly, within seconds, into short helices - or lockwashers (Fig. 2), which
+stack on each other to give longer nicked helices, which in due course anneal to
+give more perfect hehces. This conversion is an in situ one, not requiring
+dissociation and then reassociation into a different form. The success of this
+experiment encouraged us to proceed to experiments with RNA itself, the
+natural “substrate” of the virus protein.
+   The first reconstitution experiments carried out by Butler and myself proved
+to be dramatic (20). When a mixture was made at pH 7 of the viral RNA and a
+disc preparation, complete virus particles were formed within 10 to 15 minutes,
+rather than over a period of hours, as was the case in the early reassembly
+experiments in which protein had been used in the disaggregated form (6).
+   The notion that discs are involved in the natural biological process of
+initation was strengthened by companion experiments (20) in which assembly
+was carried out with RNAs from different sources. These showed a preference,
+by several orders of magnitude, of discs for the viral RNA over foreign RNAs or
+synthetic polynucleotides of simple sequence. It is thus the disc state of the
+protein that is needed to achieve specificity in the interaction with the RNA. In
+the experiments cited earlier, in which virus-like rods were made containing
+TMV A-protein and foreign RNA (8), reactions were carried out at an acid
+pH, and under these artificial conditions the protein alone would tend to form
+helical rods and so could entrap any RNA present.
+   Besides this effect of discs on the rate of initiation, which had been predicted,
+we also found to our surprise that the discs appeared to enhance the rate of
+elongation, and we concluded that they must be therefore actively involved in
+growth. This result has been questioned by some other workers in the field and
+is still the subject of argument (21, 22), but recent discoveries on the configura-
+tion of RNA during incorporation into a growing particle, discussed below,
+have made the involvement of discs in the elongation, as well as in nucleation,
+much more intelligible.
+   The disc form of the protein therefore provided the elements which were
+missing from the simple reconstitution experiments using disaggregated pro-
+
+
+                                               A. Klug                                           85
+
+
+
+
+Fig, 6. Postulated secondary structure ofthr RNA in the nucleation region (24). This gives a weakly
+bonded double-helical stem and a look at the top probably the actual origin of assembly. The
+sequence at and near the top contains a repeating motif of three bases having G in the middle
+position and A, or U in the outer positions.
+
+
+
+tein, namely speed and specificity. We now knew what the disc did, the next
+question was how did it do it?
+
+The interaction of the protein disc with the initiation sequence on the RNA
+Specificity in initiation ensures that only the viral RNA is picked out for coating
+by the viral protein. This must be brought about by the presence of a unique
+sequence on the viral RNA for interaction with the protein disc. Zimmern and
+Butler isolated the nucleation region containing this site by supplying limited
+quantities of disc protein, sufficient to allow nucleation to proceed, but not
+subsequent growth, then digesting away the uncoated RNA with nuclease (23,
+24). With the varying protein: RNA ratios and different digestion conditions,
+they found they could isolate a series of RNA fragments, all of which contained
+a unique common core sequence with variable extents of elongation at either
+end. These fragments could be rebound to the coat protein when it was in the
+form of discs. Among this population of fragments was a fragment only about
+60 nucleotides long - just over the length necessary to bind round a single disc
+- and it appeared to represent the minimum protected core. Because of the
+strong rebinding of this fragment back to the disc, it seemed likely that it
+constituted the “origin of assembly”, where the normal nucleation reaction
+began.
+   However, the work on the RNA produced, in turn, another puzzle: the
+obvious expectation that the nucleation region would be near one end of the
+RNA turned out to be wrong. The nucleation occurs about one sixth of the way
+along the RNA from the 3’ end (25), so that over 5000 nucleotides have to be
+
+
+86                                        Chemistry 1982
+
+
+
+
+Fig. 7. Nucleation of virus assembly occurs by the insertion of a hairpin of RNA (Fig. 6) into the
+central hole of the protein disk and betwecn the two layers of subunits. The loop at the top of the
+hairpin binds to form part of the first turn, opening up the base-paired stem as it does so, and
+causes the disk to dislocate into a short helix. This presumably “closes the jaws”, entrapping the
+RNA between the turns of protein subunits, and gives a start to the nucleoprotein helix (which can
+then elongate rapidly to some minimum stable size).
+
+
+
+
+coated in the major direction of elongation (3’-5’) and 1000 have to be coated
+in the opposite direction. Yet growing nucleoprotein rods observed in the
+electron microscope (20) were always found to have all the uncoated RNA only
+at one end: why were rods never seen with a tail at each end? The resolution of
+this conundrum came from considering the structure of the protein disc, to
+which I now turn.
+   Although the structure of the disc was solved in detail only in 1977, an earlier
+stage in the X-ray analysis gave the clue as to how it might interact with the
+RNA. At 5 Å resolution (26) the course of the polypeptide chain could be
+traced and the basic design of the disc established (cf Fig. 4). The subunits of
+the upper ring of the disc lie in a plane perpendicular to the disc axis while
+those of the lower ring are tilted downward towards the centre, so that the two
+rings touch only towards the outside of the disc. In the neighbourhood of the
+central hole they are thus far apart, like an open pair of jaws which could, as it
+were, “bite” a stretch of RNA entering through the central hole. Moreover,
+entry through the centre would be facilitated because the inner region of the
+protein, from around the RNA binding site inward, was found to be disordered
+and not packed into a regular structure.
+   It therefore looked very much as though the disc were designed to permit the
+RNA to enter through the central hole, effectively enlarged by the flexibility of
+the inner loop of protein, and intercalate between its two layers. The RNA
+which would enter thus would of course be the nucleation sequence which lies
+rather far from an end of the RNA molecule. This could, however, be achieved
+if the RNA doubled back on itself at a point near the origin of assembly and so
+entered as a hairpin loop. Indeed, the smallest RNA fragment that is protected
+during nucleation has a base sequence which can fold into a weakly paired
+double-helical stem with a loop at the top, that is a hairpin (Fig. 6). This was
+proposed by Zimmern (24). The loop and top of the stem have an unusual
+
+
+                                      A. Klug                                    87
+
+
+sequence, containing a repeating motif of three nucleotides, with guanine G in
+one specific position, and usually A or some times U in the other two. Since
+there are three nucleotide binding sites per protein subunit, such a triplet
+repeat pattern will place a specific base in a particular site on the protein
+molecule and could well lead to the recognition of the exposed RNA loop by the
+disc during the nucleation process.
+
+Nucleation and growth
+The hypothesis for nucleation (27) then is that the special RNA hairpin would
+insert through the central hole of the disc into the jaws formed by the two layers
+of protein subunits (Fig. 7). The dimensions are quite suitable for this to occur
+and the open loop could then bind to the RNA binding sites on the protein.
+More of the rather unstable double helical stem would melt out and be opened
+as more of the RNA was bound within the jaws of the nucleating disc. Some, as
+yet unknown, feature of this interaction would cause the disc to dislocate into a
+short helical segment, entrapping the RNA and, after the rapid addition of a
+few more discs (23), would provide the first stable nucleoprotein particle.
+   The subsequent events after nucleation can be called growth and as stated
+above there is a controversy about the particular way in which this proceeds.
+Our view is that elongation in the major direction of growth very likely takes
+place through the addition of further discs, as indeed our first reconstitution
+experiments drove us to conclude. The special configuration generated during
+the insertion of the loop into the centre of the disc must be perpetuated as the
+rod grows, by pulling further RNA up through the central hole. Thus, elonga-
+tion could occur by a substantially similar mechanism to nucleation, only now,
+rather than requiring the specific nucleation loop of the RNA, it occurs by
+means of a “travelling loop” which can be inserted into the centre of the next
+incoming disc. This mechanism therefore overcomes the main difficulty in
+envisaging how a whole disc of protein subunits could interact with the RNA in
+the growing helix. There is now more evidence for growth by incorporation of
+blocks of subunits of roughly disc size (22), but the subject is still controversial
+and I will therefore not proceed further with it.
+   On the other hand, there is now clear experimental confirmation of our
+hypothesis for the mechanism of nucleation. This predicts (1) that two tails of
+the RNA will be left at one end of the growing nucleoprotein rod formed, and
+(2) that one of these tails would project directly from one end but the other
+would be doubled back all the way from the active growing point at the far end
+of the rod down the central hole of the growing rod. Both of these predictions
+have now been confirmed. Hirth’s group in Strasbourg has obtained electron
+micrographs of growing rods in which the RNA is spread by partial denatur-
+ation, and many particles show two tails protruding from the same end (28). In
+Cambridge my colleagues have used high resolution electron microscopy, in
+which the two ends of the rods can be identified by their shapes to show that it
+is indeed the longer tail that is doubled back through the growing rod (29).
+Other experiments show that the RNA configuration has a substantial effect on
+the rate of assembly (29).
+
+
+88                                Chemistry 1982
+
+
+Design and construction: physical and biological requirements
+We have seen that the formation of the protein disk is the key to the mechanism
+of the assembly of TMV. The protein subunit is designed not to form an
+endless helix, but a closed two-layer variant of it, the disc, which is stable and
+which can be readily converted to the lockwasher or helix-going form. The disc
+therefore represents an intermediate sub-assembly by means of which the
+entropically difficult problem of nucleating helical growth is overcome. At the
+same time the nucleation by the disc sub-assembly furnishes a mechanism for
+recognition of the homologous viral RNA (and rejection of foreign RNAs) by
+providing a long stretch of nucleotide binding sites for interaction with the
+special sequence of bases on the RNA. The disc is thus an obligatory intermedi-
+ate in the assembly of the virus, which simultaneously fulfils the physical
+requirement for nucleating the growth of the helical particle and the biological
+requirement for specific recognition of the viral RNA. TMV is self-assembling,
+self-nucleating and self-checking.
+   There are a number of morals to be derived from the story of TMV assembly
+(1). The first is that one must distinguish between the design of a structure and
+the construction process used to achieve it. That is, while TMV looks like a
+helical crystal and its design lends itself to a process of simple addition of
+subunits, its construction actually follows a more complex path that is highly
+controlled. It illustrates the point that function is inextricably linked with
+structure and how much can be done by one single protein. A most intricate
+structural mechanism has been evolved to give the assembly an efficiency and
+purposefulness whose basis we now understand. The general moral of all this is
+that not merely does nature once again confound our obvious preconceptions,
+but it has left enough clues for us to be able to puzzle out finally what is
+happening. As Einstein once put it, “Raffmiert ist der Herr Gott, aber bösartig
+ist er nicht: The Lord is subtle, but he is not malicious”.
+
+
+CRYSTALLOGRAPHIC OR FOURIER ELECTRON MICROSCOPY
+
+In 1955, Finch and I in London, and Caspar, then in Cambridge, took up the
+X-ray analysis of crystals of spherical viruses. These had first been investigated
+by Bernal and his colleagues just before and after the war, using “powder” and
+“still” photography. Finch and I worked on Turnip Yellow Mosaic virus and
+its associated empty shell, and Caspar on Tomato Bushy Stunt virus. Crick and
+Watson had predicted that spherical viruses ought to have one of the forms of
+cubic symmetry, and we showed that both viruses had icosahedral symmetry.
+Later, when Finch and I showed that poliovirus also had the same symmetry,
+we realised that there was some underlying principle at work, and this eventu-
+ally led Caspar and me to formulate our theory of virus shell structure (30).
+   When my research group moved to Cambridge in 1962, we turned to
+electron microscopy for the speed with which it enables one to tackle new
+subjects, and also because it produces a direct image, or so we thought. Armed
+with a theory of virus design and some X-ray data, we had some notion of how
+spherical shells of viruses might be constructed and thought we would be able
+
+
+                                    A. Klug                                  89
+
+
+to see the fine detail in electron micrographs. Thus, we knew what we were
+looking for, but we soon found that we did not understand what we were
+looking at: the micrographs did not present simple direct images of the speci-
+mens. We soon discovered the limitations of electron microscopy. First, there
+were preparation artefacts and also radiation damage during observation.
+Secondly, artificial means of contrast enhancement had to be used as the
+majority of atoms in biological specimens have an atomic number too low to
+give sufficient contrast on their own. Thirdly, the image formed depends on the
+operating conditions of the microscope and on the focussing conditions and
+aberrations present. Above all, because of the large depth of focus of the
+conventional microscope, all features along the direction of view are superim-
+posed in the image. Finally, in the case of strongly scattering or thick speci-
+mens, there is multiple scattering within the specimen, which can destroy even
+this relation between object and image.
+   For these reasons, the detail one sees in a raw image is often unreliable and
+not easily interpretable without methods which correct for the operating condi-
+tions of the microscope and which can separate contributions to the image from
+different levels of the specimen. It is also important to be able to assess the
+degree of specimen preservation in each particular case. These procedures for
+image processing of electron micrographs were developed by myself and my
+colleagues over a period of about 10 years. Their aim is to extract from the
+information recorded in electron micrographs the maximum amount of reliable
+information about the 2- or 3-dimensional structures which are being exam-
+ined. Some applications of these methods to various problems studied in the
+MRC laboratory over the first 15 years are given in Table 1. Electron micro-
+scopy combined with image reconstruction, supplemented wherever possible
+
+
+90                                    Chemistry 1982
+
+by X-ray studies on wet, intact material, has provided what are now generally
+ accepted models of the structural organisation of a large number of biological
+ systems such as those listed in the table. In this lecture I will describe a limited
+ number of examples which serve to demonstrate the power of various tech-
+ niques and the nature of the results they can give. Fuller accounts of the
+ methods and the theory are given elsewhere (2, 3), but I would like to
+ emphasize here that these methods arose out of practical concerns and grew in
+ the course of tackling concrete problems; nervertheless they have proved to be
+ of wide application.
+
+ Two dimensional reconstruction: digital computer processing
+We began our studies on viruses, both spherical and helical, using the method
+of negative staining which had been recently introduced by Huxley, and by
+Brenner and Horne (31). In this method the specimen is embedded in a thin
+amorphous layer of a heavy metal salt which simultaneously preserves and
+maps out the shape of the regions from which it is excluded. Much fine detail
+was to be seen, but one could not easily make sense of it in most cases. People
+simply thought that the specimens were being disordered, because it was
+assumed that the negative stain gave, as it were, a footprint of the particle. We
+gradually came to realise that the confusion arose, not so much because of the
+disorder that the stain produced, but because there was a superposition of
+detail from the front and back of the particle; i. e., the stain was enveloping the
+whole particle, so forming a cast rather than a footprint. This interpretation
+was proved in two different ways which proceeded in parallel. First, in the case
+of the spherical viruses, one could build a model and compute or otherwise
+display it in projection and we found that this could account for many if not all
+of the previously uninterpretable images (32). The uniqueness of the model
+could be proved by tilting experiments in which the specimens on the grid and
+the model were tilted in the same manner through large angles (cf. Fig. 10, ref.
+73). The second approach was applied to helical structures, which are transla-
+tionally periodic and therefore lend themselves to a direct image analysis,
+which I shall now illustrate.
+   Figure 8a shows an electron micrograph of a negatively stained specimen of a
+“polyhead”, which is a variant of the head of T4 bacteriophage, consisting
+mainly of the major head protein. The particle has been flattened and so its
+original tubular form lost. The image clearly shows some structural periodici-
+ties, but these are difficult to discern and such interpretations used to be left to
+subjective judgement. I realised that the optical (Fraunhofer) diffraction
+pattern produced from such an image would allow an objective analysis of all
+the periodicities present to be made (33). This is shown in Figure 8b. Here
+clear diffraction maxima can be seen: these fall into two sets which can be
+accounted for as arising respectively from the near and far sides of the speci-
+men. In this way it was established that the negative stain was producing a
+complete cast of the particle rather than a one sided footprint of it (33). Since
+this is a helically periodic structure, the diffraction maxima tend to lie on a
+lattice and so they pick out genuine repeating features within the structure. In
+
+
+                                               A. Klug                                             91
+
+
+
+
+Fig. 8. Optical diffraction and image filtering of thr tubular structures known as “polyheads”,
+consisting: of the major head protein of T4 bactriophagc (35). (a) Electron micrograph of
+negativcly stained flattened particle x 200,000.
+  (h) Optical diffraction pattern of (a), with circles drawn around one set of diffraction peaks
+corresponding to one layer of the structure.
+  (c) Filtered image of one layer in (a) using the diffaction mask shown in (b). The aperatures in
+thr mask are chosen so that the averaging here extcnds locally only over a few unit cells. Individual
+molecules arranged in hcxamers can be seen.
+
+
+
+this case the regular diffraction maxima extended to a spacing of about 20 Å
+which demonstrated that the long range order in the specimen was preserved to
+this resolution, which is indeed sufficient to resolve individual protein mole-
+cules.
+   The confusion in the image is largely due to the superposition of the near and
+far sides of the particle, and any one such side can be filtered out in an optical
+system by a suitably positioned mask which transmits only the desired diffract-
+ed rays (34). The filtered image, Figure 8c, is immediately interpretable in
+terms of a particular arrangement of protein molecules (35).
+   The clarity of the processed image derives also from the fact that the
+background noise in the diffraction pattern has been filtered out. This noise
+arises because of the individual variations between molecules in the specimen,
+i.e. the disorder, and these contribute randomly in all parts of the diffraction
+pattern. Indeed, what has been done is that the signal to noise ratio in the
+image has been enhanced by averaging over the copies of the molecules present
+in the arrangement. This idea of averaging over many copies of a repeated
+motif is central to the most powerful techniques developed so far for producing
+reliable images of biological specimens, and the three dimensional procedures
+which I will describe later can also use this technique.
+   The essence of image processing of this type is that it is a two-step procedure
+after the first image has been obtained. First the Fourier transform of the raw
+
+
+92                                 Chemistry 1982
+
+
+image is produced. Fourier coefficients are then manipulated or otherwise
+corrected and then transformed back again to reproduce the reconstructed
+image. These operations can be carried out most easily on a digital computer,
+and digital imaging processing as first introduced by DeRosier and myself (36)
+allows a much greater flexibility than our original optical method and makes
+three dimensional procedures possible.
+
+Three-dimensional image reconstruction
+The first example I have given (Fig. 8) is of a relatively simple case where the
+problem is essentially that of separating contributions from two overlapping
+crystalline layers and we have seen how the method of Fourier analysis resolves
+the superposition in real space into separated sets of contributions in Fourier
+space. It was, however, already clear from the simple analysis of spherical
+viruses that in order to get a unique or reliable picture of a three dimensional
+structure one must be able to view the specimen from very many different
+directions (32). These different views were often provided by specimens lying in
+different orientations but they can also be realised by tilting the specimen in the
+microscope, as mentioned above. Originally, as described above, the different
+views were interpreted by the building of models, but eventually I saw that a
+set of transmission images taken in different views could be combined objec-
+tively to give a reconstruction of a three-dimensional object.
+   This happened when DeRosier and I were studying the tail of bacteriophage
+T4 and our analysis showed that there were contributions to the image from the
+internal structure as well as from the front and back surfaces (36). To work in
+three dimensions a generalised form of the two-dimensional filtering process
+had to be found, and - by making a connection with X-ray analysis - I realised
+that what is required is a three-dimensional Fourier synthesis. In the analysis
+of the X-ray diffraction patterns of TMV, I had used the idea that a helical
+structure could be built up mathematically out of a set of cylindrical harmonic
+functions; there is a relation between the number of functions that could be
+obtained and the number of different views available. Each new view would
+give additional harmonics of higher spatial frequency, and so, if one had
+enough views, one could build up the complete structure. Later we came to see
+(36) that this synthesis was only a special case of a general theorem known to
+crystallographers as the projection theorem.
+   The general method of reconstruction which we developed (Fig. 9) is based
+on the projection theorem, which states that the two-dimensional Fourier
+transform of a plane projection of a three-dimensional density distribution is
+identical to the corresponding central section of the three-dimensional trans-
+form normal to the direction of view. The three-dimensional transform can
+therefore be built up section by section using transforms of different views of the
+object, and the three-dimensional reconstruction then produced by Fourier
+inversion. The important feature of the method is that it tells one how many
+different views are needed for a required resolution and how these are to be
+recombined into a three-dimensional map of the object (36, 37). The process is
+both quantitative and free from arbitrary assumptions. The approach is similar
+
+
+                                         A. Klug                                         93
+
+
+
+
+Fig. 9. Scheme for the general process of 3-D reconstruction of an object from a set of 2-D
+projections (36).
+
+
+
+
+to conventional X-ray crystallography, except that the phases of the X-ray
+diffraction pattern cannot be measured directly, whereas here they can be
+computed from a digitised image. Were it not for radiation damage, the
+different views could be collected from a single particle by using a tilting stage
+in the microscope, but more realistically one must use several particles in
+different but identifiable orientations. In general, it is desirable to combine
+data from different particles so that imperfections can be averaged out.
+   The Fourier method is only one way out of several for solving the sets of
+mathematical equations which relate the unknown three dimensional density
+
+
+                                              Chemistry 1982
+
+
+                                          direction of tilt axis
+
+
+
+
+a
+
+
+
+
+    Fig. 10. (a) Electron micrographs of the same field of negatively-stained close-packed particles of
+    human wart virus (HWV) before (i) and after (ii) tilting the specimen grid through an angle close
+    to       (73). x 100,000.
+         (b) A three-dimensional reconstructed image of human wart virus (38, 39). Alongside is shown
+    the underlying icosahedral surface lattice (30) with the 5-fold and 6-fold vertices marked.
+
+
+
+    distribution with known projections in different directions (37), but in fact no
+    other reliable method has been shown to be superior and it is used in the CAT
+    scanner. Moreover, the Fourier method has the advantage that because it is
+    carried out in steps, i.e. formation of the two-dimensional transforms, and then
+    recombination in three dimensions, it is possible as described above, to assess,
+    select, and correct the data going into the final reconstruction.
+       Many applications have been made. The first application was in fact to the
+    phage tail of T4, the problem in which it had arisen. Particles with helical
+    symmetry are the most straightforward to reconstruct, because a reconstruc-
+    tion can be made from a single view of the whole particle, to a limited
+    resolution, set by the helix symmetry. In physical terms, this is because a single
+    image of a helical particle presents many different views of the repeating
+
+
+                                      A. Klug                                     95
+
+
+subunit, and it was this simplification that led us to use the phage tail as a first
+specimen for 3-D image reconstruction. Generally, more than one view is
+necessary, but any symmetry present will reduce the number required. Typi-
+cally for small icosahedral viruses, three or four views are sufficient, but many
+more specimens must be investigated before the appropriate number can be
+found and averaging carried out (38). A n example, from Crowther and Amos
+(39), is given in Fig. 10.
+
+Phase contrast microscopy
+Electron microscopy, combined with some method of image analysis, when
+applied to negatively stained specimens, has proved ideal for determining the
+arrangement and shape of small protein subunits within natural or artificial
+arrays, including two dimensional crystals and macromolecular assemblies
+such as viruses and microtubules (2). The structural information obtainable
+has proved to be highly reliable with respect to detail down to about the 20 Å or
+15 Å level. It became clear, however, that the degree of detail revealed was
+limited by the granularity of the negative stain and the fidelity with which it
+follows the surface of the specimen (40). T o obtain much higher resolution
+information, better than about 10 Å, one should dispense with the stain and
+view the protein itself. At high resolution, there is a second problem: irradiation
+damage. This can be reduced by cutting down the illuminating beam, but the
+statistical noise is then increased, and the raw image becomes less and less
+reliable. However, this difficulty can be overcome satisfactorily by imaging
+ordered arrays of molecules, so that the information from the different mole-
+cules can be averaged, as described above, to give a statistically significant
+picture. The first problem of replacing the negative stain, yet avoiding dehy-
+dration, can be solved in two ways. One, now being intensively studied, is to
+use frozen hydrated specimens (41). The second, tried method is that of Unwin
+and Henderson, who, in their radical approach to determining the structure of
+unstained biological specimens by electron microscopy (42, 43) used a dried-
+down solution of glucose to preserve the material.
+   The question then arose as to how this unstained specimen, effectively
+transparent to electrons, is to be visualized. In the light microscopy of transpar-
+ent specimens the well-known Zernike phase contrast method is used. Here the
+phase of the scattered beams relative to the unscattered beam are shifted by
+means of a phase plate and then the scattered and unscattered beams are
+allowed to interfere in the image plane to produce an image. A successful
+electrostatic phase contrast device for electron microscopy, quite analogous to
+the phase plate used in light microscopy, was constructed by Unwin (44), but it
+is not easy to make or use. A practical way of producing phase contrast in the
+electron microscope is simply to record the image, with the objective lens
+undcrfocussed, and this was the method used by Unwin and Henderson.
+   The defocussing phase contrast method arose out of an academic study by
+Erickson and myself of image formation in the electron microscope (45). This
+was undertaken because of a controversy that had developed concerning the
+nature of the raw image itself. When three-dimensional image reconstruction
+
+
+96                               Chemistry 1982
+
+
+was introduced and applied to biological particles embedded in negative stain,
+objections were raised by various workers in the field of materials science,
+accustomed to dynamical effects in strongly scattering materials, to the premise
+that the image essentially represented the simple projection of the distribution
+of stain. It was asked whether multiple or dynamical scattering might not
+vitiate this assumption. To investigate this question, Erickson and I undertook
+an experimental study of negatively stained thin crystals of catalase as a
+function of the depth of focussing (45). We found that a linear or first order
+theory of image formation would explain almost entirely the changes in the
+Fourier transform of the image. We concluded that the direct image, using a
+suitable value of underfocus dependent on the frequency range of interest, is a
+valid picture of the projection of the object density. When greater values of
+underfocus were used to enhance the contrast, the image could be corrected to
+give a valid picture.
+   This study, although confined to the medium resolution range, included a
+practical demonstration that a-posteriori digital image processing could be used
+to measure and compensate for the effects of defocussing, and we suggested that
+this approach could be directly extended to high resolution to compensate for
+the effects of spherical aberration as well as defocussing. It also provided a
+convenient way of producing phase contrast in the electron microscope in the
+case of unstained specimens. The image is recorded with the objective lens
+underfocussed, so changing the phases of the scattered beams relative to the
+unscattered (or zero order) beam. Defocussing does not however act as a
+perfect phase plate analogous to that of Zernike, since the phases are not all
+changed by the same amount, and successive bands of spatial frequencies
+contribute to the image with alternately positive and negative contrast. In
+order to produce a “true” image, the electron image must be processed to
+correct for the phase contrast transfer of the microscope so that all spatial
+frequencies contribution with the same sign of contrast.
+   To produce their spectacular three-dimensional reconstructed image of the
+purple membrane of Halobacterium to a resolution of about 7 Å (44), Hender-
+son and Unwin took a series of very low-dose images of different pieces of
+membrane tilted at different angles. The final map represented an average over
+some 100,000 molecules. The small amount of contrast present in the individ-
+ual micrographs was produced by underfocussing which was then compensated
+for in the computer reconstruction by the method described above. For the first
+time the internal structure of a protein molecule was “seen” by electron
+microscopy.
+
+
+THE STRUCTURE OF CHROMATIN
+
+The work on viruses has given results not only of intrinsic interest, but as I
+indicated above, the difficulties in tackling large molecular aggregates led to
+the development of methods and techniques which could be applied to other
+systems. A recent example of this approach, and one which I think would not
+have gone so fast without our earlier experience, is that of chromatin. Chroma-
+
+
+                                       A. Klug                                     97
+
+
+tin is the name given to the chromosomal material when extracted. It consists
+mainly of DNA, tightly associated with an equal weight of a small set of rather
+basic proteins called histones. We took up the study of chromatin in Cambridge
+about ten years ago when the protein chemists had shown that there were only
+five main types of histones, the apparent proliferation of species being due to
+post-synthetic modifications, so that the structural problem appeared tracta-
+ble.
+   The DNA of the eukaryotic chromosome is probably a single molecule,
+amounting to several centimeters in length if laid out straight, and it must be
+highly folded to make the compact structure one can see in a chromosome. At
+the same time it is organised into separate genetic or functional units, and the
+manner in which this folding is achieved, genes organised and their expression
+controlled, is the subject of intense study throughout the world. The aim of our
+research group has been to try to understand the structural organisation of
+chromatin at various levels and to see what connections could be made with
+functional controls.
+   The large amounts in which histones occur suggested that their role was
+structural, and it was shown over the years 1972-1975 that the four histones
+H2A, H2B, H3 and H4 are responsible for the first level of structural organisa-
+tion in chromatin. They fold successive segments of the DNA about 200 base
+pairs long into compact bodies of about 100 Å in diameter, called nucleosomes.
+A string of nucleosomes or repeating units is thus created and when these are
+closely packed they form a filament about 100 Å in diameter. The role of the
+fifth histone H1 was at first not clear. It is much more variable in sequence than
+the other four, being species and tissue specific. In the years 1975-1976 we
+showed that HI is concerned with the folding of the nucleosomc filament into
+the next higher level of organisation, and later how it performed this role.
+    This is not the place to tell in detail how this picture of the basic organisation
+of chromatin emerged (4), but the idea of a nucleosome arose from the conver-
+gence of several different lines of work. The first indications for a regular
+structure came from X-ray diffraction studies on chromatin which showed that
+there must be some sort of repeating unit, albeit not well ordered, on the scale
+of about 100 Å (46, 47). The first biochemical evidence for regularity came
+from the work of Hewish and Burgoyne (48) who showed that an rndogenous
+nuclease in rat liver could cut the DNA into multiples of a unit size, which was
+later shown by Noll, using a different enzyme, micrococcal nuclcasc, to be
+about 200 base pairs (49). The fact that the nuclcasc cuts the DNA of chroma-
+tin at regularly spaced sites, quite unlike its action on free DNA, is attributed to
+the fact that the DNA is folded in such a way as to make only short stretches of
+free DNA between these folded units available to the enzyme. The third piece
+of evidence which led to the idea of a nuclcosome was the observation by
+Kornberg and Thomas (50) that the two highly conserved histones, H3 and
+H4, existed in solution as a specific oligomrr, the tetramer (H3)2(H4) 4, which
+behaved rather like an ordinary multi-subunit globular protein. On the basis of
+these different lines of evidence, Kornbrrg in 1974 (51) proposed a definite
+model for the basic unit of chromatin as a bead of about 100 A diameter,
+
+
+98                                Chemistry 1982
+
+containing a stretch of DNA 200 base pairs long condensed around the protein
+core made out of 8 histone molecules, namely the (H3) 2(H4) 2 tetramer and 2
+each of H2A and H2B. The fifth histone, H1, was somehow associated with the
+outside of each nucleosome. A quite unexpected feature of the model was that it
+was the DNA which “coated” the histones, rather than the reverse.
+   However, in 1972, when Kornberg came to Cambridge, all this lay in the
+future. We began using X-ray diffraction to follow the reconstitution of histones
+and DNA, because the X-ray pattern given by nuclei, or by chromatin isolated
+from them, limited as it was, was the only assay then available to follow the
+ordered packaging of the DNA. These X-ray studies showed that almost 90%
+reconstitution could be achieved when the DNA was simply mixed with an
+unfractionated total histone preparation, but all attempts to reconstitute chro-
+matin by mixing DNA with a set of all four purified single species of histone
+failed, as if the process whereby the histones were being separated was denatur-
+ing them. We therefore looked for milder methods of histone extraction and
+found that the native structure could be reformed readily if the four histones
+were kept together in two pairs, H3 and H4 together, and H2A and H2B
+together, but not once they had been taken apart. It was this work which led
+Kornberg to investigate further the physicochemical properties of the histones
+and to the discovery (50) of the histone tetramer (H3) 2(H4) 2, which in turn led
+him to the model of the nucleosome as described above.
+
+The structure of the nucleosome
+Approaches such as nuclease digestion and X-ray scattering on unoriented
+specimens of ch romatin or nucleosomes in solution could reveal certain features
+of the nucleosome, but a full description of the structure can only come from
+crystallographic analysis, which gives complete three-dimensional structural
+information. In the summer of 1975 my colleagues and I therefore set about
+trying to prepare nucleosomes in forms suitable for crystallisation. Nucleo-
+somes purified from the products of micrococcal nuclease digestion contain an
+average of about 200 nucleotide pairs of DNA, but there is a rather wide
+distribution about the average, and such preparations are not homogeneous
+enough to crystallize. However, this variability in size can be eliminated by
+further digestion with micrococcal nuclease. While the action of micrococcal
+nuclease on chromatin is first to cleave between nucleosomes, it subsequently
+acts as an exonuclease on the excised nucleosome, shortening the DNA first to
+about 166 base pairs, where there is a brief pause in the digestion (52), and
+then about 146 base pairs, where there is a clear plateau in the course of
+digestion, before more degradation occurs. During this last stage the histone
+Hl is released (52), leaving as a major metastable intermediate a particle
+containing 146 base pairs of DNA complexed with a set of 8 histone molecules.
+This enzymatically reduced form of the nucleosome is called the core particle
+and its DNA content was found to be constant over many different species. The
+DNA removed by the prolonged digestion, which had previously joined one
+nucleosome to the next, is called the linker DNA.
+   A core particle therefore contains a well-defined length of DNA and is
+
+
+                                      A. Klug                                    99
+
+homogeneous in its protein composition. We naturally tried to crystallize
+preparations of core particles, but we were not at first successful probably
+because of small traces of the fifth histone Hl. Eventually my colleague
+Leonard Lutter found a way to produce exceptionally homogeneous prepara-
+tions of nucleosome core particles, and these formed good single crystals (53).
+The conditions for growing the crystals were based on our previous experience
+in crystallising transfer-RNA, because we reasoned that a good part of the
+nucleosome core surface would consist of DNA. These experiments perhaps
+surprised biologists in showing dramatically that almost all the DNA in the
+nucleus is organised in a highly regular manner.
+   The derivation of a three-dimensional structure from a crystal of a large
+molecular complex is, as for the TMV disk, a process that can take many years.
+We have therefore concentrated on obtaining a picture of the nucleosome core
+particle at low resolution by a combination of X-ray diffraction and electron
+microscopy, supplemented where possible by biochemical and physicochemical
+studies. We first solved the packing in the crystals by analysing electron
+micrographs of thin crystals and then obtained projections of the electron
+density along the three principal axes of the crystals, using X-ray diffraction
+amplitudes and electron microscope phases (53, 54). The nucleosome core
+particle turned out to be a flat disc-shaped object, about 110 Å by 110 Å by 57
+Å, somewhat wedge-shaped, and strongly divided into two layers. We proposed
+a model in which the DNA was wound into about                   turns of a shallow
+superhelix of pitch about 27 Å around the histone octamcr. There are thus
+about 80 nucleotides in each turn of the superhelix. This model for the organi-
+sation of DNA in a nucleosome core also provided an explanation for the results
+of certain enzyme digestion studies on chromatin (53, 55) thus showing that
+what we had crystallised was essentially the native structure.
+   The first crystals we obtained were found to have the histone proteins within
+them partly proteolysed, but their physicochemical properties remained very
+similar to those of the intact particle. We have since grown crystals from intact
+nucleosome cores which diffract to a resolution of about 5 Å and a detailed
+analysis is in progress (56). Over the years Daniela Rhodes, Ray Brown and
+Barbara Rushton have grown crystals of core particles prepared from seven
+different organisms: all give essentially identical X-ray patterns testifying to the
+universality of nucleosomes. There is a dyad axis of symmetry within the
+particle, which is not surprising since the 8 histones occur in pairs and DNA is
+studded with local dyad axes. High angle diffuse X-ray scattering from the
+crystals shows that the DNA of the core particle is in the B-form.
+   An electron density map of one of the principal projections of the crystal is
+shown in Fig. 11a. This map gives the total density in the nucleosome, the
+density of the DNA not being distinguished from that of the protein. The
+contributions of protein and DNA can be distinguished by using neutron
+scattering combined with the method of contrast variation and such a study
+was therefore begun by John Finch and a group at the Institute Laue
+Langevin, Grenoble, when sufficiently large crystals were available (57).
+They obtained maps of the DNA and protein along the three principal
+projections (see Figs.
+
+
+100
+
+
+
+
+Fig. II. Fourier projection maps of the nucleosome core particle. (a) Map from X-ray data (56); (b)
+and (c) from neutron scattering data using contrast variation (57): (b) the DNA component with
+the path of the superhelix drawn superimposed on the density; (c) the protein core component.
+
+
+
+
+11b and c). The map of the DNA is consistent with the projection of about
+superhelical turns as proposed earlier, and the map of the protein shows that
+the histone octamer itself is consistent with a wedge shape.
+
+Three dimensional image reconstruction of the histone octamer and the spatial arrangement
+of the inner histones
+An alternative to separating the contributions of the DNA and the protein by
+neutron diffraction is to study the histone octamer directly. The histone oc-
+tamer which forms the protein core of the nucleosome can exist in that form free
+in solution in high salt, which displaces the DNA (58). In the course of
+attempts to crystallize it, we obtained ordered aggregates - hollow tubular
+structures - which were investigated by electron microscopy (59). The image
+reconstruction method described above was used to produce a low resolution
+three-dimensional map and model of the octamer (fig. 12a). As a check that the
+removal of DNA had not led to a change in the structure of the histone octamer,
+projections of this model were calculated and compared with the projections of
+the protein core of the nucleosome obtained from the neutron scattering study
+mentioned above. There was a good agreement between the three maps show-
+ing that the gross structure was not altered.
+    To the resolution of the anlysis (20       it was shown that the histone octamer
+ possesses a two-fold axis of symmetry, just as does the nucleosome core particle
+ itself. Like the nucleosome core, the histone octamer is a wedgeshaped particle
+ of bipartite character. Its periphery shows a system of ridges which form a
+ more or less continuous helical ramp of external diameter 70 Å and pitch about
+ 27 Å, exactly suitable for it to act as a spool on which could be wound about
+       turns of superhelix of DNA in the appropriate dimensions (Fig. 12b).
+
+
+                                             A. Klug                                            101
+
+
+
+
+Fig. 12. (a) Model of the histone octamer obtained by three-dimensional image reconstruction from
+electron micrographs (59). The dyad axis is marked. The ridges on the periphery of the model form
+a left-handed helical ramp on which 1 3/4 to 2 turns of a superhelix of DNA could be wound.
+  (b) The histone octamer structure (a) with two turns of a DNA superhelix wound around it.
+(Note that for clarity, the diameter of the plastic tube has been chosen smaller than the true scale
+for DNA.) Distances along the DNA are indicated by the numbers -7 to +7, taking the dyad axis
+as origin, to mark the 14 repeats of the double helix contained in the 146 base pairs of the
+nucleosome core. The assignment of the individual histones to various locations on the model is
+described in the text.
+
+
+
+
+   The resolution of the octamer map is too low to define individual histone
+molecules, but we have exploited the relation of the octamer to the superhelix of
+DNA to interpret them in terms of individual histones (59). This interpretation
+uses the results of Mirzabekov and his colleagues (60) on the chemical cross-
+linking of histones to nucleosomal DNA, and also information on histonel
+histone proximities given by protein crosslinking. This data cannot be inter-
+preted reliably without a three-dimensional model because a knowledge of the
+points of contact of histones along a strand of the DNA is not sufficient to fix a
+spatial arrangement of the histones in the nucleosome core. Furthermore,
+because the two superhelical turns of DNA are close together the pattern of
+histone/DNA crosslinks need not directly reflect the linear order of histones
+along the DNA. The three-dimensional density map restricts the number of
+possiblities and enables choices to be made.
+   In the spatial arrangement proposed, the helical ramp of density in the
+octamer map is composed of a particular sequence of the eight histones, in the
+order H2A-H2B-H4-H3-H3-H4-H2B-H2A, with a dyad in the middle.
+The (H3)2(H4) 2 tetramer has the shape of a dislocated disc or single turn of a
+
+
+102                               Chemistry 1982
+
+
+helicoid, which defines the central turn of a DNA superhelix. The structure for
+the histone tetramer explains the findings of many workers, expanding on the
+original observations of Felsenfeld (61), that H3 and H4 alone, in the absence
+of H2A and H2B, can confer nucleosome-like properties on DNA, in particular
+supercoiling and resistance to micrococcal nuclease digestion, whereas H2A
+and H2B alone cannot. It also explains the asymmetric dissociation of the
+histone octamer when the salt concentration is lowered: the octamer dissoci-
+ates, through a hexameric intermediate, into a (H3) 2(H4) 2 tetramer and two
+H2A.H2B dimers (58, 62).
+
+The role of H1 and higher order structures
+These studies have given a fairly detailed picture of the internal structure of the
+nucleosome, but until 1975 there was still no clear idea of the relation of one
+nucleosome to another along the nucleosome chain or basic chromatin fila-
+ment, nor of the next higher level of organisation. It had been known for some
+time that the thickness of fibres observed in electron microscopical studies of
+whole mount chromosome specimens varied from about 100 to 250 Å in
+diameter, depending on whether chelating agents had been used or not in the
+preparation. Taking this as a clue, Finch and I carried out some experiments in
+vitro on short lengths of chromatin prepared by brief micrococcal digestion of
+nuclei (63). In the presence of chelating agents this native chromatin appeared
+as fairly uniform filaments of 100 Å diameter. When Mg++ ions were added,
+these coiled up into thicker, knobbly fibres about 250-300 Å diameter, which
+are transversely striated at intervals of about 120-150 Å, corresponding appar-
+ently to the turns of an ordered, but not perfectly regular helix or supercoil.
+Since the term “supercoil” had already been used up in a different context, we
+called it a solenoid, because the turns were spaced close together. On the basis
+of these micrographs and companion X-ray studies (64), we suggested that the
+second level of folding of chromatin was achieved by the winding of the
+nucleosome filament into a helical libre with about 6 nucleosomes per turn.
+Moreover, we found that when the same experiments were carried out on H1-
+depleted chromatin, only irregular clumps were formed, showing that the fifth
+histone H1 is needed for the formation or stabilisation of the ordered libre
+structure.
+    These experiments told us the level at which H1 performs its function of
+condensing chromatin, but the way in which the H1 molecule mediates the
+coiling of the 100 Å filament into the 300 Å libre only became clear later by
+ putting together evidence from the biochemistry, from the crystallographic
+ analysis, and from more relined electron microscope observations.
+    From observations on the course of nuclease digestion, taken in conjunction
+with the known X-ray structure of the nucleosome core, one can deduce where
+ the Hl might be on the complete nucleosome. I have mentioned that there is an
+ intermediate in the digestion of chromatin by micrococcal nuclease at about
+ 166 base pairs of DNA and it is during this step from 166 to 146 base pairs that
+ Hl is released (52). Since the 146 base pairs of the particle correspond to
+ superhelical turns, we therefore suggested that the 166 base pair particle
+
+
+                                              A. Klug                                           103
+
+
+
+
+Fig.   13. (Top) If the 146 base pairs of DNA in the nucleosome core correspond to 1 3/4 superhelical
+turns, then the 166 base particle corresponds to about 2 full superhelical turns. Since the 166 base
+pair particle is the limit point for the retention of H1 (52), it must be located as shown. (Bottom)
+Schematic diagram of the nucleosome filament at low ionic strength, showing origin of the zigzag
+structure (Fig. 14). At the right of the drawing is shown a variant of the zigzag structure which is
+often observed: this is formed by flipping a nucleosome by 180° about the filament axis.
+
+
+
+contains two full turns of DNA (53). This brings the two ends of the DNA on
+the nucleosome close together so that both can be associated with the same
+single molecule of H 1 (Fig. 13). A particle consisting of the histone octamer and
+166 base pairs has been called the chromatosome (65) and has been suggested
+by us and others to constitute the basic structural element of chromatin. In this
+particle, the H 1 would therefore be on the side of the nucleosome in the region
+of the entry and exit of the DNA superhelix.
+   This location follows in logic: but was histone H 1 really there? Although H 1
+is too small a molecule to be seen directly by electron microscopy, its position in
+the nucleosome can be inferred from its effect on the appearance of chromatin,
+in the intermediate range of folding between the 100 A nucleosome filament
+and the 300 Å solenoidal fibre. These intermediate stages were revealed in the
+course of a systematic study by Thoma and Koller (66), of the folding of
+chromatin with increasing ionic strength. By employing monovalent salts
+rather than divalent ones, they exposed a range of structures showing increas-
+ing degrees of compaction as the ionic strength was raised. Thus, from the
+filament of nucleosomes around 1 mM, the extent of structure increased
+through a family of intermediate helical structures until, by 60 mM, the
+compact 300 Å fibre structure was formed, in all respects identical to that
+originally observed by Finch and myself.
+   The location of Hl can be deduced by considering the difference between the
+structures observed in the range of ionic strength l-5 mM in the presence or
+
+
+104                                        Chemistry 1982
+
+
+
+
+Fig. 14. The appearance of chromatin with and without H1 at low ionic strength (66). When H1 is
+present the first recognizable ordered structure is (a) a loose zigzag in which the DNA enters and
+leaves the nucleosomc at sites close together; at a somewhat higher salt concentration (b) the zigzag
+is tighter. In the absence of H1, there is no order in the sense of a defined filament direction; (c) at
+the lower salt concentration, nucleosome beads are no longer visible, the structure having opened
+to produce a fibre of DNA coated with histones; (d) at a higher ionic strength, beads are again
+visible but the DNA enters and leaves the nucleosome more or less at random. The bar represents
+100 nm.
+
+
+
+
+absence of H1 (Fig. 14). In chromatin containing H1, an ordered structure is
+seen in which the nucleosomes are arranged in a regular zigzag with their flat
+faces down on the supporting grid. The zigzag form arises because the DNA
+enters and leaves the nucleosome at sites close together, as one would expect
+from the combination of X-ray and biochemical evidence mentioned in the last
+paragraph (Fig. 13). In chromatin depleted of H1, entrance and exit points are
+more or less on opposite sides and in any case randomly located. Indeed, at
+very low ionic strength, the nucleosomal structure unravels into a linearised
+form in which individual beads are no longer seen. When H1 is present this is
+prevented from happening. We therefore concluded that H1, or strictly part of
+it, must be located at, and stabilises, the region where DNA enters and leaves
+the nucleosome, as was predicted.
+    In the zigzag intermediates the H1 regions on adjacent nucleosomes appear
+
+
+                                             A. Klug
+
+
+
+
+Fig, 15. “Exploded” views of the nucleosome, showing the roles of the constituent histones. The
+patches on the histone core indicate locations of individual histone molecules, but the boundaries
+between them are not known and are thus left unmarked. (a) the (H3) 2 ( H 4 )2 tetramer has the
+shape of a lock washer and can act as a spool for 70-80 b.p. of DNA, forming about one
+superhelical turn. (b) an H2A.H2B dimer associates with one face of the tetramer. (c) H2A.H2B
+dimers on opposite faces each bind 30-40 b.p. DNA, or one-half a superhelical turn, to give a
+complete P-turn particle. (d) histone HI interacts with the unique configuration of DNA at the
+entry and exit points to seal off the nucleosome.
+
+
+106                                Chemistry 1982
+
+
+to be close together or touching. We therefore suggested that, with increasing
+ionic strength, more of the Hl regions interact with one another, eventually
+aggregating into a helical polymer along the centre of the solenoid and thus
+accounting for its geometrical form. Polymers of H1 have indeed been shown to
+exist by chemical crosslinking experiments at both low and high ionic strength
+(61), but it remains to be shown that they are located in the centre of the libre.
+The important point, however, is that it appears to be the aggregation of H1
+which accompanies, and indeed may control, the formation of the 300 Å fibre.
+
+The roles of the histones
+From the spatial arrangements of molecules proposed for the histone octamer
+and from the location deduced for histone H1, one can see (59) the roles of the
+individual histones in folding the DNA on the nucleosome (Fig. 15). The
+(H3) 2(H4) 2 tetramer has the shape of roughly a single turn of a helicoid and
+this defines the central turn of the DNA superhelix. H2A and H2B add as two
+heterodimers, H2A.H2B, one on each face of the H3-H4 tetramer, each
+binding one extra half-turn of the DNA, thereby completing the two-turn
+superhelix. Finally, H1 then binds to the unique region at the side of the two-
+turn particle where three segments of DNA come together, stabilizing and
+“sealing off’ the nucleosome, and also mediating the folding to the next level of
+organisation. Such a sequence of events in time would provide a structural
+rationale for the temporal order of assembly of histones on to newly replicated
+DNA (68, 69, 70).
+   We now have arrived at a moderately detailed model of the nucleosome and
+a description for the next higher level of folding. There is thus a firm structural
+and chemical framework in which to consider the dynamic processes which
+take place in chromatin in the cell, that is, transcription, replication and
+mitosis.
+
+
+CONCLUDING REMARKS
+
+I particularly wanted to outline the chromatin work because it may serve as a
+contemporary paradigm for structural studies which try to connect the cellular
+and the molecular. One studies a complex system by dissecting it out physical-
+ly, chemically, or in this case enzymatically, and then tries to obtain a detailed
+picture of its parts by X-ray analysis and chemical studies, and an overall
+picture of the intact assembly by electron microscopy. There is, however, a
+sense in which viruses and chromatin, which I have described in this lecture,
+are still relatively simple systems. Much more complex systems, ribosomes, the
+mitotic apparatus, lie before us and future generations will recognise that their
+study is a formidable task, in some respects only just begun. I am glad to have
+had a hand in the beginnings of the foundation of structural molecular biology.
+
+Acknowledgements
+
+It will be obvious that I could not have accomplished all that has been
+summarised here without the help of many highly able and valued colleagues
+
+
+                                              A. Klug                                          107
+
+
+and collaborators. After Rosalind Franklin’s death, I was able to continue and
+extend the virus work with John Finch and Kenneth Holmes, who were then
+students, and who became colleagues. Over the years I have had a transatlan-
+tic association with Donald Caspar and have benefitted from his advice,
+criticism and insights. I can mention here only some of the names of my other
+collaborators in the several branches in which I have been involved: in the
+study of virus chemistry and assembly, Reuben Leberman, Tony Durham, Jo
+Butler and David Zimmern; in virus crystallography, William Longley, Peter
+Gilbert, John Champness, Gerard Bricogne and Anne Bloomer; in electron
+microscopy and image reconstruction, David DeRosier, Harold Erickson, Tony
+Crowther, Linda Amos, Jan Mellema, Nigel Unwin and, throughout, John
+Finch; in the structural studies on transfer RNA, Brian Clark, who provided
+the biochemical background without which the work could not have begun, Jon
+Robertus, Jane Ladner and Tony Jack; in chromatin, Roger Kornberg, whose
+skill and insight transformed a “messy” project into a clear problem, Markus
+Noll, Len Lutter, and also Daniela Rhodes and Ray Brown, who fruitfully
+transferred their experience from tRNA to nucleosomes, and finally Tim Rich-
+mond and John Finch who are engaged in the higher resolution X-ray studies
+now in progress.
+
+
+
+
+REFERENCES
+Reviews
+ (1)      Klug, A. The assembly of tobacco mosaic virus: structure and specificity. The Harvey
+          Lectures, 74, 141-172, (1979).
+ (2)      Crowther, R. A. and Klug, A. Structural analysis of macromolecular assemblies by image
+          reconstruction from electron micrographs. Ann. Rev. Biochem. 44, 161- 182, (1975).
+ (3)      Klug, A. Image analysis and reconstruction in the electron microscopy of biological
+          macromolecules. Chemica Scripta, 14, 245-256 (1979).
+ (4) a. Kornberg, R. D. Structure of chromatin. Ann Rev. Biochem. 46,931-954 (1977).
+       b . Kornberg, R. D. and Klug, A. The nucleosome. Scientilic American, 244, 52-64 (1981).
+ (5)      Butler, P. J. G. and Klug, A. The structure of nucleosomes and chromatin. in “Horizons in
+          biochemistry and Biophysics”. (ed. F. Palmieri), Wiley, 1983 in press.
+
+
+Others
+ (6) Fraenkel-Conrat, H. and Williams, R. C. Proc. Natl. Acad. Sci. U.S.A. 41, 690-698 (1955).
+ (7) Fraenkel-Conrat, H. and Singer, B. Biochim. Biophys. Acta. 33,359-370 (1959).
+ (8) Matthews, R. E. F. (1966) Virology 30,82-96 (1966).
+ (9) Strbbs, G., Warren, S., and Holmes, K. Nature (London) 267, 216-221 (1977).
+(10) Holmes, K. C. J. Supramolec. Structure 12, 305-320 (1979).
+(11) Schramm, G., and Zillig, W. Z. Naturforsch. Ser. b. 10, 493-498 (1955).
+(12) Caspar, D. L. D. Adv. Protein Chem. 18,37- 121 (1963).
+(13) Finch, J. T., Leberman, R., Chang, Y.-S., and Klug, A. Nature (London), 212, 349-350
+     (1966).
+(14) Bricogne, G. Acta Crystallogr. Sect. A32,832-847 (1976).
+(15) Bloomer, A. C., Champness, J. N., Bricogne, G., Staden, R., and Klug, A. Nature (London)
+     276, 362-368 (1978).
+(16) Lauffer, M. A., and Stevens, C. L. Adv. Virus Res. 13, l-6 (1968).
+(17) Durham, A. C. H., Finch, J. T., and Klug. A. Nature (London) New Biol. 299,37-42 (1971).
+
+
+108                                       Chemistry 1982
+
+
+(18) Durham, A. C. H. and Klug, A. Nature (London), New Biol. 299, 42-46 (1971).
+(19) Klug, A., and Durham, A. C. H. Cold Spring Harbor Symp. Quant. Biol. 36, 449-460
+      (1971).
+(20) Butler, P.J. G., and Klug, A. Nature (London), New Biol. 229, 47-50 (1971).
+(21) Fukuda, M., Ohno, T., Okada, Y., Otsuki, Y., and Takebe, I. Proc. Natl. Acad, Sci. U.S.A.
+      75, 1727-1730 (1978).
+(22) Butler, P. J. G., and Lomonossoff, G. P. Biophys. J. 32, 295-312 (1980).
+(23) Zimmern, D., and Butler, P. J. G. Cell II, 455-462 (1977).
+(24) Zimmern, D. Cell II, 463-482.
+(25) Zimmern, D., and Wilson, T. M. A. FEBS Lett. 71, 294-298 (1976).
+(26) Champness, J. N., Bloomer, A. C., Bricogne, G., Butler, P. J. G., and Klug, A. Nature
+     (London) 259, 20-24 (1976).
+(27) Butler, P. J. G., Bloomer, A. C., Bricogne, G., Champness, J. N., Graham, J., Guiley, H.,
+      Klug, A., and Zimmern, D. In “Structure-Function Relationships of Proteins” (R. Markham
+      and R. W. Home, eds.), 3rd John Innes Symp. pp. 101-l 10. North-Holland/Elsevier,
+      Amsterdam.   (1976).
+(28) Lebeurier, G. (1976), Nicolaieff, A., and Richards, K. E. Proc. Natl. Acad. Sci. U.S.A. 74,
+      149-153 (1977).
+(29) Butler, P.J. G., Finch, J. T., and Zimmern, D. Nature (London) 265, 217-219 (1977).
+(30) Caspar, D. L. D., and Klug, A. Cold Spring Harbor Symp. Quant. Biol. 27, l-24 (1962).
+(31) Brenner, S., and Home R. W. Biochim. Biphys. Acta. 34, 103- 110 (1959).
+(32) Klug, A., and Finch, J. T. J. .Mol. Biol. 11, 403-423 (1965).
+(33) Klug, A., and Berger, J. E. J. Mol. Biol. 10, 565-569 (1964).
+(34) Klug, A. and DeRosier, D. J. Nature (London). 212, 29-32 (1966).
+(35) DeRosier, D.J. and Klug, A. J. Mol. Biol. 65, 469-488 (1972).
+(36) DeRosier, D. J., and Klug, A. Nature (London), 217, 130- 134 (1968).
+(37) Crowther, R. A., DeRosier, D. J., and Klug, 4. Proc. Roy. Soc. Lond. A. 317, 319-340
+      (1970).
+(38) Crowther, R. A., Amos, L. A., Finch, J. T., DeRosier, D. J., and Klug, A. Nature (London)
+     226, 421-425 (1970).
+(39) Crowther, R. A., and Amos, L. A. Cold Spring Harbor Symp. Quant. Biol. 36, 489-494
+      (1971).
+(40) Unwin, P. N. T. J. Mol. Biol. 87, 657-670 (1974).
+(41) Taylor, K. A. and Glaeser, R. M. J. Ultrastructure Res. 55, 448-456 (1976).
+(42) Unwin, P. N. T., and Henderson, R. J. Mol. Biol. 94, 425-440 (1975).
+(43) Henderson, R., and Unwin, P. N. T. Nature 257, 28-32 (1975).
+(44) Unwin, P. N. T. Proc. Roy. Soc. Land. A. 329, 327-359 (1972).
+(45) Erickson, H. P., and Klug, A. Ber. Bunsenges, Phys. Chem. 74, 1129-1137 (1970); Phil.
+     Trans. Roy. Soc. ser B. 261, 105-118 (1971).
+(46) Wilkins, M. H. F., Zubay, G., and Wilson, H. R. J. Mol. Biol. I, 179-185 (1959).
+(47) Luzzati, V., and Nicolaieff, A. J. Mol. Biol. I, 127-133 (1959).
+(48) Hewish, D. R., and Burgoyne, I.. A. Biochem. Biophys. Res. Commun. 52, 504-510 (1973).
+(49) Noll, M. Nature (London) 251, 249-251 (1974)
+(50) Kornberg, R. D., and Thomas, J. O. Science 184, 865-868 (1974).
+(51) Kornberg, R. D. Science 184, 868-871 (1974).
+(52) Noll, M., and Kornberg, R. D. J. Mol. Biol. 109, 393-404 (1977).
+(53) Finch, J. T., Lutter, L. C., Rh o des, D., Brown, R. S., Rushton, B.. Levitt, M., and Klug, A.
+      Nature (London) 269, 29-36 (1977).
+(54) Finch, J. T., and Klug, A. Cold Spring Harbor Symp. Quant. Biol. 42, I- 15 (1978).
+(55) Lutter, L. C. J. Mol. Biol. 124, 391-420 (1978).
+(56) Finch, J. T., Brown, R. S., Rhodes, D., Richmond, T., Rushton, B., Lutter, I,. C., and Klug,
+     A. J. Mol. Biol. 14.5, 757-769 (1981).
+(57) Finch, J. T., Lewit-Bentley, A., Bentley, G. A., Roth, M., and Timmins, P. A. Phil. Trans.
+      Roy. Soc. Lond. B. 2901,635-638 (1980).
+(58) Thomas, J. O., and Kornberg, R. D. Proc. Natl. Acad. Sci. U.S.A. 72, 2626-2630 (1975).
+
+
+                                             A. Klug                                         109
+
+
+(59) Klug, A., Rhodes, D., Smith, J., Finch, J. T., and Thomas, J. 0. Nature (London) 287,509-
+     516 (1980).
+(60) Mirzabekov, A. D., Shick, V. V., Belyavsky, A. V., and Bavykin, S. G. Proc. Natl. Acad. Sci.
+     U.S.A. 75, 4184-4188 (1978).
+(61) Camerini-Otero, R. D., and Felsenfeld, G. Nucleic Acids Res. 4, 1159- 1181 (1977a).
+(62) Thomas, J. O., and Kornberg, R. D. FEBS Lett. 58, 353-358 (1975).
+(63) Finch, J. T., and Klug, A. Proc. Natl. Acad. Sci. U.S.A. 73, 1897- 1901 (1976).
+(64) Sperling, L., and Klug, A. J. Mol. Biol. 112, 253-263 (1977).
+(65) Simpson, R. T. Biochemistry 27, 5524-5531 (1978).
+(66) Thoma, F., Keller, Th., and Klug, A. J. Cell Biol. 83, 403-427 (1979).
+(67) Thomas, J. O., and Khabaza, A. J. A. Eur. J. Biochem. 112, 501-511 (1980).
+(68) Worcel, A., Han, S., and Wong, M. L. Cell 15, 969-977 (1978).
+(69) Senshu, T., Fukuda, M., and Ohashi, M. J. Biochem. (Japan) 84,985-988 (1978).
+(70) Cremisi, C., and Yaniv, M. Biochem. Biophys. Res. Commun. 92, 1 1117- 1123 (1980).
+(71) Klug, A., and Caspar, D. L. D. Adv. Virus Res. 7, 225-325 (1960).
+(72) Crowther, R. C., and Amos, L. A. J. Mol. Biol. 60, 123-130 (1971).
+(73) Klug, A., and Finch, J. T. J. Mol. Biol. 31, 1-12 (1968).
+

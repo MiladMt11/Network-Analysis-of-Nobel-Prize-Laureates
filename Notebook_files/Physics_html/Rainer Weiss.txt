@@ -1,0 +1,950 @@
+                                                          Rainer Weiss Lecture   67
+
+
+
+
+Ligo and the Discovery of
+Gravitational Waves, I
+Nobel Lecture, December 8, 2017 by Rainer Weiss
+Massachusetts Institute of Technology (MIT), Cambridge, MA, USA.
+
+
+
+all three of us − Barry Barish, Kip Thorne and I − want to recognize
+the critical role played by the scientists, engineers, students, technicians
+and administrators of the LIGO laboratory and LIGO Scientific Collabo-
+ration who are responsible for opening a new field of scientific research:
+Gravitational Wave Astronomy and Astrophysics. We are also deeply
+indebted to the United States National Science Foundation, which was
+willing to take a risk in supporting a new field that required significant
+technical development and with an uncertain knowledge of sources but
+certain that, should it succeed, it would have a profound influence on our
+understanding of physics and the universe.
+   The three of us will give talks with the same title, “LIGO and the Dis-
+covery of Gravitational Waves”, but focus on different aspects. I will dis-
+cuss some of the early history of gravitational waves and develop the con-
+cepts to understand the detectors as well as the challenges faced in meas-
+uring strains as small as 10–21. Barry will show how the LIGO project
+organized to make steady improvements and ultimately carry out a suc-
+cessful scientific program. He will describe the detections as well as ideas
+to improve the detectors driven by the new science we hope to learn. Kip
+will look at the broader aspects of the new field of gravitational wave
+astronomy. He will tell of the critical role numerical relativity and under-
+standing the quantum mechanics of precision measurements has played.
+He will also give a vision of the science that could come from an investi-
+
+
+68   THE NOBEL PRIZES
+
+
+     gation of the gravitational wave sky from periods of fractions of millisec-
+     onds to tens of billions of years.
+        In 1915, a little over 100 years ago, Einstein published the General The-
+     ory of Relativity (GR)1,2, a new theory of gravitation which replaced the
+     Newtonian force by the idea that mass distorts the geometry of space and
+     the flow of time. Matter then moves in this new space-time along the
+     shortest four-dimensional paths. (Figure 1 and its caption give an impres-
+     sion of the idea).
+
+     The new theory solved a puzzle remaining from Newton’s theory for the
+     motion of the planet Mercury, the planet in the strongest gravitational
+     field of the sun, which after correction for the motions of other objects in
+     the solar system, still did not seem to obey Newton’s theory. Specifically,
+
+
+
+
+     Figure 1. An attempt at visualizing Einstein’s concept of gravity (the General Theory of
+     Relativity) in which distortions in the geometry of space and time have replaced the
+     gravitational force of Newton. Think of a jungle gym of rectangular bars in the three
+     spatial dimensions. The intersection points of the bars are all evenly spaced and straight
+     lines. Imagine also that a clock is placed at all the intersection points and that all the
+     clocks read the same time at the same moment in time. The situation when there are no
+     masses in the vicinity. Now, take a two-dimensional cut through the structure and place
+     the sun and earth into the picture. The structure near the sun and to a smaller extent that
+     near the earth is distorted. Also, though not shown, the clocks at the intersection points
+     near the sun and to a lesser extent those near the Earth run a little more slowly than those
+     in the less distorted parts. The orbit of the Earth around the sun is now dictated by the
+     distortion of space and the time dilation – the path an object with no forces would follow
+     in the new geometry.
+
+
+                                                           Rainer Weiss Lecture   69
+
+
+Mercury was not moving along a path dictated by a pure 1/r2 force law. To
+save Newton, another planet between the Sun and Mercury was hypothe-
+sized but never found. To Einstein’s enormous pleasure, GR gave the
+measured orbits. It was the first confirmation that he was on the right
+track. GR also provided some new phenomena open to measurement,
+small effects difficult to measure but profound in their importance. These
+were the prediction that clocks ran more slowly in strong gravitational
+fields than weak ones3,4 and that starlight passing the limb of the sun
+would be deflected toward the sun, the so-called bending of light5. It is a
+tribute to the difficulty of the measurements that both of these effects
+were only really measured reliably about 50 years later.
+   GR had more in it still. In principle, as we have now have found
+directly, one could carry out calculations of massive systems moving at
+relativistic speeds. Furthermore, gravitational information – gravitational
+waves – did not travel at infinite speed as implied by Newton’s gravity,
+but travelled at the speed of light as is necessary to be compatible with
+special relativity.
+   In 1916 Einstein6 wrote a paper showing some of the ideas discussed
+above by perturbation calculations using linearized versions of his full
+field equations. It is in this paper he first describes gravitational waves.
+(Figure 2).
+
+They travel at the speed of light and are transverse waves much as elec-
+tromagnetic waves, but rather than exerting forces on charges, they dis-
+tort space perpendicular to the direction along which they propagate.
+Alternately stretching space in the east-west direction while simultane-
+ously compressing space in the north-south direction. The distortion has
+the special property that the change in separation of two points is pro-
+portional to their separation, the strain h = Dl/l in the east-west direction
+is the same over the entire wavefront, while strain is equal but opposite in
+the north-south direction. (For completeness it is necessary to at least say
+there is another polarization for the waves rotated by 45 degrees to the
+east-west, north-south directions traveling along the same direction
+which acts independently [is orthogonal]). The gravitational waves carry
+energy as well as linear and angular momentum. In the 1916 paper, Ein-
+stein describes the wave kinematics well but runs into trouble showing
+how accelerated masses radiate gravitational waves. In a second paper
+dedicated entirely to gravitational waves in 19187, he derives the quadru-
+pole formula (to within a factor of 2) relating the gravitational wave
+energy radiated by a mass distribution to its non-spherically symmetric
+accelerations. Despite the mistake in the 1916 paper, he makes a bold (and
+for 1916 correct) claim at the end of this paper that gravitational waves
+will never play a significant role in physics. I have asked the editors of the
+
+
+70   THE NOBEL PRIZES
+
+
+
+
+     Figure 2. A gravitational wave with + polarization. Gravitational waves are emitted by
+     accelerated masses. They propagate at the speed of light. Once they have become plane
+     waves some number of wavelengths from their source they become transverse waves
+     which cause a strain in space perpendicular to the direction in which they propagate. The
+     strain stretches space in one dimension while simultaneously contracting space in a per-
+     pendicular dimension. The strain h = Dl/l is the change in distance between two places
+     divided the by their separation. The figure tries to show this by distributing a set of probe
+     masses throughout space. The gravitational wave propagates perpendicular to the plane
+     of the figure and the masses. Time evolves from the top left to the bottom right by going
+     through one complete cycle of an oscillating strain. L in the figure symbolizes the LIGO
+     detector. The thing to notice is the change in length of the arms of the L which becomes
+     the measurable in the detector. The longer the arms the larger is the measurable displa-
+     cement signal. The extension of one arm with the contraction of the other arm enables
+     the use of a Michelson interferometer which is specifically sensitive to the difference in
+     light travel time along the two arms.
+
+
+
+
+     Einstein Papers Project to find evidence in his notebooks and back of
+     envelopes for the estimates that led him to this, but nothing has been
+     found.
+        I will be presumptive and guess at what he might have considered,
+     given the technology and knowledge of astronomy open to him in 1916.
+     There are two equations that will help us with this: an estimate for the
+     gravitational wave strain h that comes from the quadrupole formula and
+     the relation between the power carried by the gravitational waves and the
+     time dependence of the strain. A way of estimating the gravitational wave
+     strain from the motion of the masses at the source of the waves is
+
+
+                                                            Rainer Weiss Lecture   71
+
+
+
+
+    Here G is the Newtonian gravitational constant, m is the mass of the
+radiating system, R the distance from the source, c is the velocity of light
+and v is a non-spherically symmetric velocity of the radiating mass distri-
+bution. For example, if the system is composed of two orbiting objects, it
+becomes the relative tangential velocity in their orbits. The term in the
+first pair of brackets has a special meaning in general relativity, it is
+dimensionless and is a measure of the absolute strength of gravity in the
+situation. We who are standing on the surface of the Earth experience the
+strength of this term as 10–10, at the surface of the sun it is about 10–6, or
+the surface of a neutron star it is 10–1, at the event horizon of a black hole,
+it is about 1. It is clear we live in very weak gravity.
+    The other relation we will find useful is the power per area carried
+away by the gravitational wave knowing the gravitational strain in the
+wave
+
+
+
+
+   The power per area in the wave is proportional to the square of the rate
+of change of the strain times a gigantic factor which tells that a small
+amount of strain in space is accompanied by a huge amount of energy. In
+other words, it takes enormous amounts of energy to distort space. One
+way to say it is, the stiffness (Young’s modulus) of space at a distortion
+frequency of 100 Hz is 1020 larger than steel.
+   An example one might have expected Einstein to use is the gravitational
+radiation emitted by the collision of two trains, a man-made event of sig-
+nificant energy transfer. Using parameters such as m = 105 kg, v = 100km/
+hr, collision times of 1/3 second and a distance of R = 300km (far enough
+away to be dominated by the radiation rather than Newtonian interaction),
+one gets a strain h =10–42 truly too small to have any physical effect.
+Another possibility might have been to estimate the change one might be
+able to detect in observing a binary star system through a telescope. The
+two stars orbiting each other would lead to the loss of energy by gravita-
+tional radiation and would be changing their period as they fall toward
+each other. Some typical numbers that might have been available in 1916,
+the two stars both have a solar mass and an orbital period of a day. The
+energy lost to gravitational waves each orbit relative to the kinetic energy
+stored in the orbit is about 10–15 so that it would take about 1013 years to
+see the orbit collapse, not a practical astronomical observation.
+
+
+72   THE NOBEL PRIZES
+
+
+
+
+        As with many of the other effects predicted by general relativity, it took
+     the development of technology as well as the improved knowledge of the
+     universe through improved technology to make reliable measurements
+     and observations.
+        It took until the mid-1970s with discovery of pulsars and vastly
+     improved time keeping to perform the measurements of a binary star sys-
+     tem which showed evidence for energy loss due to the radiation of gravi-
+     tational waves. The definitive measurements were made after the discov-
+     ery of a binary neutron star system by Russell Hulse and Joseph Taylor
+     (Figure 3).
+
+     Hulse and Taylor tracked the pulsations from a neutron star using the
+     radio telescope at Arecibo (Puerto Rico) beginning in 1972. The fre-
+     quency of the pulsar was nominally 17Hz but they noticed that pulsation
+     frequency was frequency modulated with a period of 8 hours. After a con-
+
+
+
+
+     Figure 3. Russell Hulse and Joseph Taylor who were awarded the Nobel Prize in Physics in
+     1993 for the discovery of the binary pulsar system, which became a remarkable test labo-
+     ratory for general relativity. They were able to measure relativistic periastron precession
+     of 4 degrees/year and many other relativistic dynamical effects which allowed them to
+     solve for the individual masses of the neutron stars. As shown in Figure 4 they solved for
+     the dynamics of this system and minimized the residual between their data and the full
+     relativistic model of the motion; to do this it was necessary to include the loss of energy
+     by the system to gravitational radiation.
+
+
+                                                                      Rainer Weiss Lecture   73
+
+
+
+
+Figure 4. The change in orbital period of the binary pulsar as a function of epoch. The
+dots indicate the measured reduction of the orbital period as the neutron stars lose total
+energy by radiation of gravitational waves. The line is the expectation from the Gene-
+ral Theory of Relativity. The system was the first to show the effects of gravitational
+radiation and also provided the first demonstrated source of gravitational waves for
+direct detection. As Barry will show, the coalescence of a pair of neutron stars has been
+detected by LIGO and VIRGO.
+
+
+siderable effort to establish that there were no other stars in the vicinity,
+they came to a model of a pair of neutron stars orbiting each other. They
+established quickly that the dimensionless gravitational field strength of
+one neutron star at the position of the other was about 10–6 and that they
+had come upon a wonderful laboratory to test general relativity. The Gen-
+eral Relativistic periastron advance was close to 4 degrees per year, enor-
+mous compared to the 43 seconds of arc per century in the Mercury Sun
+system, and through other relativistic terms it was possible to solve for
+the mass of the two objects separately. One of the more stunning meas-
+urements was the change of the orbital period as a function of epoch.
+Figure 4 from Taylor and Weisberg8 shows the period was getting shorter
+systematically and was consistent with being due to energy being lost by
+the system to gravitational waves using the quadrupole formula. The
+explorations of gravitation with this really remarkable laboratory led to
+Hulse and Taylor receiving the 1993 Nobel Prize in Physics. The discovery
+not only confirmed the existence of gravitational waves but also identified
+a source for the eventual direct detection of gravitational waves.
+   The first experiments that attempted to directly detect gravitational
+waves from astrophysical sources were an outcome of the Chapel Hill
+Conference on Gravitation in 19579. At this conference John Wheeler and
+
+
+74   THE NOBEL PRIZES
+
+
+     Joseph Weber presented the idea of writing the gravitational wave as a
+     tidal force transverse to the propagation direction and treating the detec-
+     tion of weak gravitational waves as a Newtonian interaction of these
+     forces exciting a mechanical resonator. The idea was to measure a gravi-
+     tational wave arising from an astrophysical event such as a supernova
+     explosion in our own or a neighboring galaxy. The event involved the con-
+     version of a decent fraction of the rest mass of the exploding star into
+     gravitational waves. The frequencies of the motion at the star are in the
+     low kHz band. The waves, when incident on an aluminum bar with longi-
+     tudinal resonances in the same band, would drive the bar into oscilla-
+     tion10. The bar would ring on after the wave had passed through, making
+     it easier to measure.
+         Figure 5 shows Weber mounting strain gauges on one of these detec-
+     tors. A critical idea from the beginning was to look for coincident excita-
+     tions in several bars as a means of making a detection over the noise in
+     the device which was dominated by Brownian motion (the thermally
+     induced random motions of the bar’s longitudinal modes). All through the
+     mid- to late 1960s, Weber kept improving the experiment. In 1969 with a
+     detector at the University of Maryland, another at a golf course about 8
+     miles from the university and a remote detector at the Argonne Labora-
+     tory in Chicago, he wrote a discovery paper in Physical Review Letters11
+     showing a few coincident pulses per day at a peak strain level of h ~ 10–15
+     in the KHz band. It soon became evident that if the pulses were gravita-
+     tional waves from the region around the center of our galaxy, this implied
+     an extremely efficient conversion of rest mass to gravitational waves, in
+     fact the conversion of all the rest mass in the galaxy into gravitational
+     waves in a few million years. Despite this unlikely possibility, about a
+     dozen experimental groups throughout the world began the development
+     of Weber-like detectors. By the early 1970s it was becoming clear that no
+     one was able to confirm the Weber measurements.
+         In 1966 I was asked by the MIT Physics department to teach a course
+     in General Relativity. It was at the time of the revived interest in GR in the
+     physics community which had begun with the Chapel Hill meeting and
+     with the increased research in experimental work in gravitation due to
+     Dicke and Wheeler at Princeton and Schiff at Stanford and others. I had
+     just returned to MIT from a post doctoral position with Dicke and had
+     started a new group in Cosmology and Gravitation. For the prior 40 years
+     GR had not been taught in physics at MIT but had occasionally been
+     taught in the mathematics department as part of differential geometry.
+     What little I knew of the physics of GR had come from conversations
+     with colleagues at Princeton and simply from reading. The formal mathe-
+     matics of differential geometry and tensor analysis was entirely new to me
+     and at the time there were not yet really good text books on the subject. It
+
+
+                                                                       Rainer Weiss Lecture     75
+
+
+
+
+Figure 5. Joseph Weber was the first to attempt to detect gravitational waves from
+astrophysical sources directly. The concept for doing this was generated by John
+Wheeler and Weber at the 1957 Chapel Hill conference on gravitation. The idea was to
+measure the distortions induced by a gravitational wave in a cylinder. Instead of thinking
+of the gravitational wave as a strain in space, they thought of the wave as exerting tidal
+forces on the cylinder and calculated the motion of the bar as an oscillator in inertial spa-
+ce. The tidal force was just another Newtonian force on the bar. Weber imagined short
+pulses of gravitational waves with some Fourier components at the resonant frequency
+of the cylinder. The wave would pass through the cylinder and leave it ringing. In the
+picture at the right, Weber is attaching some strain gauges to the cylinder to measure the
+excitation. The cylinder is placed in the vacuum chamber (behind him) when searching
+for gravitational waves.
+
+
+
+was a hard term, often learning from the students and just catching up to
+them. The students in the course were aware of the Weber experiments
+and asked for lectures about them. By that time in the course, I had
+become a convert to Einstein’s geometric view and had a hard time look-
+ing at gravitational waves as a tidal force and, especially, the idea of a
+metal bar interacting with the wave.
+   I spent the weekend before the lecture trying to apply F.A.E. Pirani’s12
+(Figure 7) approach of the geodesic deviation to a simple gedanken exper-
+iment to measure a gravitational wave. Eventually it turned into a
+straightforward idea of measuring the time it took light to travel back and
+forth between two free masses. With a light source mounted on one of the
+free masses, one set a clock also mounted on the mass to start as the light
+left to go to the distant mass. At the distant mass the light was reflected by
+a mirror back to the source and the clock was stopped by the arrival of
+
+
+76   THE NOBEL PRIZES
+
+
+     the return light. One did this measurement when no gravitational wave
+     passed between the two masses and when a wave did pass and compared
+     the times. It turns out an easy problem to set up in GR and since all the
+     measurements were made at the same mass there was no question of the
+     conversion of coordinate time to proper time. After this we went on to
+     cosmology and more interesting problems. Unknown to me two Russians,
+     Gertsenshtein and Pustovoit13 , in 1963 had come up with a similar idea.
+        By early in the 1970s, when it became evident that there were no con-
+     firmations of the Weber experiments, I returned to thinking whether it
+     was actually possible to convert the gedanken experiment in the GR
+     course to a real experiment. (Figure 6) The real experiment would use a
+     Michelson interferometer configuration to exploit the symmetry of the
+     gravitational waves.
+        The interferometer would need some unusual properties: the mirror
+     masses were suspended so they could move in response to the wave, the
+     light was to be reflected back and forth many times along the interferome-
+     ter arms, and to get to the shot noise limit (quantum limit) one needed a
+     method to high frequency modulate the light above the excess noise of
+     the available laser sources. (Figure 7) A study of the various fundamental
+     physics noises in such an instrument and of the environmental noise
+     sources showed by making the instrument on km scales there was a
+     chance that one could intersect the strain sensitivity required for detec-
+     tion of some astrophysical sources. I put the calculations in a Quarterly
+     Progress Report of the Research Laboratory for Electronics14 and asked
+     the Laboratory management to help fund the construction of a 1.5-meter
+     prototype using military research funds. (Figure 7).
+        At that time in the early 1970s the primary condition required by the
+     military to support research was to train scientists and engineers. By 1974
+     one of the corrosive effects of the Vietnam War was the demand by many
+     of the anti-war demonstrators to starve the war effort by insisting the mil-
+     itary only support research essential for their mission. This was also
+     urged by the supporters of the war in the administration who distrusted
+     academic scientists in general. As judged by the Director of the Research
+     Laboratory of Electronics, cosmology and gravitation research was not
+     relevant to the military’s mission and the lab support was terminated. I
+     then began a multi-year effort to gain support from other federal agencies
+     but ran against a skepticism among peer reviewers of whether interfero-
+     metric methods using free masses could be used to detect gravitational
+     waves as well as increased pessimism about gravitational wave research
+     in general.
+        Scientists in Europe who had been involved in attempting to confirm
+     the Weber results had become interested in the interferometric free mass
+     detector. The group at the Max Planck Institute of Astrophysics in Garch-
+
+
+                                                                       Rainer Weiss Lecture      77
+
+
+
+
+Figure 6. Schematic of a Michelson interferometer used as a gravitational wave detector.
+The gravitational wave at a low frequency fg is incident from above the plane of the inter-
+ferometer. Start by following the light from the laser to the symmetric port of the beam
+splitter (+ no phase inversion of the light on reflection). The laser generates carrier light
+(red amplitude). The violet vectors indicate the propagation direction of the light. The laser
+light that gets reflected by the beam splitter heads to the mirror on test mass1 reduced by
+the reflectivity of the beam splitter. On reflection from test mass1, which is moving due to
+the gravitational wave, the carrier generates two sidebands one at a frequency fg above
+the carrier (blue) and another fg below (green). The beam heads back to the beam splitter.
+The beam from the laser that gets transmitted by the beam splitter heads toward test mass
+2; the carrier is reduced by the transmission of the beam splitter. That beam on reflection
+from test mass 2 also gets two sidebands from the motion of the test mass 2, but they have
+the opposite sign because the gravitational wave is compressing space on the test mass 1
+side while expanding space on the test mass 2 side. The beam from test mass 2 gets reflec-
+ted toward the detector from the antisymmetric port of the beam splitter (the phases of
+the carrier and the sidebands are inverted). The beam from test mass 1 is transmitted by the
+beam splitter toward the detector. The beams from the two sides of the interferometer are
+added. If the paths on the two sides take equal time from the first encounter with the beam
+splitter to the second one (or take a difference in time that is an integral number of periods
+of the light wave), the carrier cancels while the sidebands double at the detector. The side-
+bands carry the information about the gravitational wave both the wave amplitude and
+the phase. To make the sidebands detectable as a current in the photodetector requires a
+small amount of carrier to beat against the sidebands.
+
+
+
+ing led by Heinz Billing had collaborated with an Italian group in Frascati
+to run coincident bar detectors. They had done a thorough analysis of the
+noise in their detectors and designed a data acquisition system with ade-
+quate bandwidth to fully characterize their signals and also had devel-
+oped software algorithms that provided meaningful false alarm probabili-
+ties. They saw no coincident pulses. They were deciding whether to drop
+
+
+78   THE NOBEL PRIZES
+
+
+
+
+     Figure 7. Bottom left, F.A.E. Pirani, who showed that it is possible to measure the relative
+     motion of two free masses traveling through a gravitational wave (so-called geode-
+     sic deviation) in a coordinate-independent manner. A critical idea that was not fully
+     accepted until the 1957 Chapel Hill Conference. Bottom middle, a schematic diagram of
+     an interferometric gravitational wave detector with suspended masses, multiple passes
+     along the interferometer arms and a technique to reduce the amplitude noise of the laser
+     light. Bottom right, the 1.5-meter prototype at MIT and the three graduate students who
+     constructed and operated it. Top line, the gravity research group at the Max Planck Insti-
+     tute of astrophysics in Garching, Germany, who built a 3-meter interferometer prototype
+     and then a 30-meter one to show that the idea scaled properly. The group invented many
+     of the solutions for the noise in these systems including the idea of suspending all the op-
+     tics in the phase sensitive part of the interferometer and the need to frequency stabilize
+     the laser to deal with scattering by stray light. Schnupp came up with the idea to make a
+     slight imbalance in the interferometer arms to use external phase modulation. Schilling
+     invented the idea of power recycling to increase the modulated light in the interfero-
+     meter. Middle line, the gravity research group in Glasgow, Scotland, Drever developed
+     Fabry-Perot cavities as multipass elements in the interferometer arms and also invented
+     the idea of power recycling16. Brian Meers17 was the first to suggest putting another
+     partially reflecting mirror between the photo detector and the beam splitter to tailor the
+     interferometer spectral response by reflecting the sidebands back into the main interfer-
+     ometer arms. Ward developed a method to align the interferometer.
+
+
+
+     out or develop cryogenic detectors or to try free mass interferometers.
+     They decided to build a 3-meter interferometric prototype and quickly
+     established the fundamental noise processes that would limit perfor-
+     mance, some of which I had estimated in my study but also others which I
+     had neglected. (Figure 7). They worked on this prototype systematically
+     diagnosing the noise and designing methods and concepts to circumvent
+
+
+                                                                   Rainer Weiss Lecture   79
+
+
+
+
+Figure 8. The abstract of the paper on the 30-meter interferometer operated by the Max
+Planck Group in Garching showing that an interferometer had attained better sensitivity
+than the best cryogenic Weber bar detectors. The 30-meter results were important in
+helping to make the case for long baseline instruments such as LIGO. The top two photos
+are of the 40-meter instrument constructed at Caltech by Whitcomb and Drever. The
+40-meter at Caltech and the 5-meter at MIT (Figure 13) were the final test beds for the
+first LIGO detector.
+
+
+the noise. Eventually they were limited by the fundamental quantum and
+thermal noise. At that point in their research they designed and con-
+structed a 30-meter prototype15 to test the scaling laws toward km scale
+instruments. (Figure 8).
+   Another group in Glasgow Scotland, led by Ronald Drever (Figure 7)
+also became interested in interferometric free mass detectors after having
+worked with bar detectors. The experience here was a little different.
+They had redesigned the bar detector to be broad band and were now
+more disturbed by noise generated in the motion transducer. They
+became interested in the possibility of using an interferometric rather
+than a piezoelectric sensor as readout. They also eventually went to a free
+mass design but decided on optical cavities (Fabry-Perot interferometers)
+as the means of bouncing the light back and forth in the interferometers
+arms instead of the Herriot delay lines (discrete spots on the mirrors) I
+had proposed. They came to this design by noting that delay lines were
+more prone to phase noise from optical scattering than a Fabry-Perot.
+   An important turning point occurred in 1975 when Kip Thorne (Figure
+9) and I met in Washington D.C. to work on a committee to study the pos-
+sible role of the space program in research on gravitation and cosmology.
+
+
+80   THE NOBEL PRIZES
+
+
+     At the time Kip had established one of the premier groups in theoretical
+     gravitation at Caltech and was thinking of encouraging Caltech to start a
+     new complementary program in experimental gravitation. The issue we
+     discussed was the nature of such a program. Kip had been thinking of
+     gravitational wave research and had come to realize that a program ulti-
+     mately going to be able to measure gravitational waves from “allowed”
+     astrophysical sources would require sensitivities h ≤ 10–21 in the 10 to
+     1000Hz band, a million times more sensitive than the Weber bars. Kip
+     had been much influenced by Vladimir Braginsky (Moscow State Univer-
+     sity), whose notion was to develop bars operating near the quantum limit.
+     I suggested he think about long baseline interferometers and look into
+     bringing people from the Max Planck or Glasgow groups to Caltech to
+     start such a program. In 1978 Caltech did make the decision to form a
+     new group with Ronald Drever as its leader and with a significant internal
+     Caltech investment. In 1980, Stan Whitcomb was brought to Caltech to
+     help lead the new Caltech Group.
+        The combined facts of the success of the Max Planck group in demon-
+     strating the scaling relations for the interferometers, the progress in gain-
+     ing sensitivity in the Max Planck as well as the MIT prototypes and the
+     significant investment in the field being made by Caltech led me to make a
+     proposal to the NSF to study what was involved in actually making an
+     interferometeric detector with adequate sensitivity to detect astrophysical
+     sources. Our study involved several scientists working (Figure 10) with
+
+
+
+
+     Figure 9. Kip Thorne around 1980 with his measurement challenge to the experimenters
+     based on his and others’ estimates of possible astronomical gravitational wave source
+     dynamics and populations.
+
+
+                                                             Rainer Weiss Lecture   81
+
+
+industrial engineering consultants to look at designs and costs of the vac-
+uum system, the large-scale optics and lasers, the siting for the construc-
+tion of two multikilometer interferometric detectors separated by conti-
+nental distance. The aim of the study was to establish feasibility and cost
+scaling relations for the large infrastructure and to look at the experimen-
+tal challenges to gain the two large factors in the detector design itself.
+With multi kilometer long arms measuring a strain of 10–21 requires a dis-
+placement sensitivity of 10–18 meters, about 1/1000 of the size of a proton.
+Using light with a wavelength of 10–6 meters, one needs to develop optical
+techniques that can measure 10–12 of a wavelength. Furthermore, typical
+ground vibrations even in quiet places are broadly around 10–6 meters, so
+that to be able to sense a gravitational wave above just ground noise one
+would need to isolate the mirrors that determine the end points of the
+interferometer to another factor of 10–12. Reducing the noise in the system
+by these two factors of 10–12 was known at the outset to be the primary
+challenge. The intent of the study was to serve as the basis for a collabo-
+rative proposal by all groups interested in the construction of a Laser
+Interferometer Gravitational-wave Observatory (LIGO).
+   The results of the study were presented to an NSF committee considering
+large new projects in physics in 1983. The presentations were given jointly
+by the Caltech and MIT research groups who had begun to form a collabo-
+ration. The committee was remarkably encouraging in their evaluation:
+   The committee is impressed with the long-range scientific potential of grav-
+itational wave detection. It will not only test our basic understanding of grav-
+itation, but provide an entirely new window on the universe.
+   We have considered the major interferometric laser detection system now
+being developed by the Caltech and MIT groups. We note that not only is this
+an outstanding scientific opportunity, but the Foundation is the only source
+of support for ground based gravitational physics.
+   As with any attempt at a qualitative advance, there are risks: here the
+uncertainties involve both the magnitude of the signals to be detected and the
+large extrapolation of known experimental technique inherent in the pro-
+posed scale. We find, however, the fundamental scientific merits of such an
+investigation so important as to be worth a substantial investment.
+           (National Science Foundation, Advisory Committee for Physics,
+                                                         December 12–13, 1983).
+
+Following this encouragement from the NSF committee we began making
+the transition from independent investigator small-scale science to the
+project organization required for a large-scale coordinated scientific
+effort. At first, we did not succeed; it took until 1994 with Barry Barish
+becoming Director of LIGO to truly make this transition. In the interim
+there was progress in the technology in the various laboratories but only
+
+
+82   THE NOBEL PRIZES
+
+
+
+
+     Figure 10. In 1979 the NSF supported a study18 with industry to look at the feasibility
+     of building a multi-kilometer baseline interferometric gravitational wave detector. The
+     study summarized the current state of prototype research and estimates for gravitatio-
+     nal wave sources. It looked at the ability of industry combined with academic research
+     to develop adequate optics, lasers, vibration isolation and control systems to meet the
+     scientific requirements. The designs and costs of the vacuum system and the buildings as
+     well cost scaling relations were developed. Possible sites for up to 10km baseline systems
+     both above and below ground were investigated. One of the intents of the study was to
+     be the factual basis for a proposal to the NSF by a consortium of scientists and institutions
+     to build a pair of detectors in the United States.
+
+
+
+     halting progress in major project decisions such as choosing sites or more
+     than a conceptual design for the interferometer configuration. In 1986 we
+     began an effort to seek significant funding for the interferometric gravita-
+     tional wave detection program, Richard Garwin suggested that the NSF
+     carry out a summer study of the field by an independent group to both
+     reevaluate its importance as well as to assess readiness and cost. A “Panel
+     on Interferometric Observatories for Gravitational Waves” was estab-
+     lished consisting of established scientists with experience in large pro-
+     jects, experts in the various technologies required and scientists with
+     knowledge of the relevant aspects of gravitation and astrophysics. In Jan-
+     uary 1987 they issued their report, which encouraged the NSF to build
+     two full scale interferometric detectors at widely separated sites and
+     insisted that the project find a single Director before moving forward.
+        Robbie Vogt became the first Director of LIGO in 1987. He introduced a
+     structure into the laboratory research program assigning responsibilities
+
+
+                                                                     Rainer Weiss Lecture    83
+
+
+
+
+Figure 11. The 1989 proposal19 to build and operate LIGO. Rochus (Robbie) Vogt, who
+had become Director of the LIGO project in 1987, organized a joint Caltech/MIT collabo-
+ration to write the proposal. The proposal specified specific parameters for the project:
+two sites run in coincidence − one in Hanford, Washington and the other in Livingston,
+Louisiana − a 4km baseline, an initial detector design and strain sensitivity spectrum, an
+environmental monitoring system, the vacuum system for the instrumentation and the
+vacuum system for the beamtubes, the buildings and permanent infrastructure. The
+proposal also provided a plan for a developmental approach for the detector with an
+initial detector using then available technology, having a possibility for detection; and
+a later advanced detector with not yet fully available technology, in the development
+stages at the various LIGO research laboratories, having a good chance for detection.
+The facilities were designed to accommodate both the initial and the advanced detector.
+I worked with engineers Boude Moore and later Larry Jones on the design, construction
+and qualification of the 4km beam tubes.
+
+
+
+for both detector development and infrastructure planning and estima-
+tion. His major effort was to guide us, both Caltech and MIT participants,
+scientists and engineers, to write a construction proposal for LIGO with
+sufficient detail to estimate schedules and costs. The proposal also served
+to pull together in one place the knowledge of gravitational wave sources,
+the noise budgets for the detectors and the plans for data analysis to
+establish confidence of detection. It became a source book for the field19
+(Figure 11). The proposal also laid out the plans for the field with a staged
+strategy. The infrastructure would be designed and built to be adequate
+for both an initial detector using technology we now had (almost) in hand
+and would not compromise a future advanced detector we could envision
+
+
+84   THE NOBEL PRIZES
+
+
+
+
+     Figure 12. By 1994 the NSF as well as both the Caltech and MIT administrations felt the
+     management of the LIGO project needed strengthening. In 1994 Professor Barry Barish
+     of Caltech became Director of LIGO. He substantially increased the management and
+     technical staff of the project. He brought in Dr. Gary Sanders as the Project Manager and
+     engaged Dr. Albert Lazzarini and Dennis Coyne as system scientist and engineer. He as-
+     ked Dr. Stan Whitcomb to manage the design and construction of the first interferometer.
+     Barish also realized that a larger group than only the Caltech and MIT groups would be
+     needed to analyze the data and to publish results. He was the architect for the LIGO Sci-
+     entific Collaboration. Barry asked me to be the first spokesperson for the Collaboration.
+
+
+
+     operating at the quantum limit of a 1 ton test mass. In the process of writ-
+     ing the proposal, Vogt paired an engineer with a scientist to assure that
+     the planned infrastructure would be able to serve the experiment require-
+     ments. Vogt also oversaw the site selection.
+        After a stormy period in the project, Barry Barish became the second
+     Director of LIGO in 1994. He instituted significant changes in the project
+     organization by broadening the leadership from a skunk works to a larger
+     managerial group (Figure 12). He also conceived and organized the LIGO
+     Scientific Collaboration, which included both LIGO project members as
+     well as groups outside of Caltech and MIT who were interested in the
+     new science to come from LIGO. The Collaboration has major roles in the
+     data analysis and publications of the science. Some groups in the Collab-
+     oration are involved in basic detector research as well.
+        By the mid 1980s the technical development to accomplish the two fac-
+     tors of 10–12 was advancing in several research laboratories: a 40-meter
+     prototype at Caltech, a 5-meter prototype at MIT (Figure 13), a 10-meter
+     prototype in Glasgow, at a new laboratory in Hannover where the Max
+
+
+                                                                    Rainer Weiss Lecture    85
+
+
+Planck group had moved from Garching and a new program joint
+between Italy and France in Cascina, Italy (VIRGO). Instead of continu-
+ing with the historical development I will turn to the major ideas to gain
+the two factors. The optical arrangement of the advanced detector, for
+which Barry will show some of the results, is schematized in Figure 14.
+The initial LIGO detector was the same, except there was no signal recy-
+cling mirror. The caption explains some of the basic concepts. The noise
+budget for the initial long baseline detector in the LIGO facilities is
+shown in Figure 15, giving both the estimated contributions from funda-
+mental physical principles and contributions from technical noise that
+can be reduced by further engineering. The noise budget is an excellent
+way to keep track of our progress in accomplishing the two factors of
+10–12, and, as Barry will show with real data from the instrument, the
+slow but steady progress made as we learned more about the instrument
+in the commissioning.
+
+
+
+
+Figure 13. The MIT group in the 1990s and some of the research that was done. Front row
+left to right: Michael Zucker, Nergis Mavalvala, Peter Csatorday, Peter Fritschel, Joseph
+Kovalik, R. Weiss, next row back: Yaron Hefetz, David Shoemaker, Brett Bochner, in the
+back: Brian Lantz.
+
+
+86   THE NOBEL PRIZES
+
+
+
+
+     Figure 14. A schematic diagram of the advanced detector that made the 2015 measure-
+     ment of the gravitational waves from a binary black hole collision. The interferometer
+     has all the ingredients needed to make the factor of 10–12 sensitivity improvement in
+     measuring the small displacements of the test masses. To the main elements of the inter-
+     ferometer presented in Figure 6 are added input test masses with partially transmitting
+     coatings between the beam splitter and the end test masses. The combination of the
+     input and end test mass comprise an optical resonator (Fabry-Perot cavities) which can
+     be thought of as bouncing the light between them many times (typically several hundred
+     times) to increase the gravitational wave induced sidebands by the number of bounces
+     before returning the light to the beam splitter. One attempts to make the number of
+     bounces the same in both arms. As in Figure 6 the sidebands from the two arms add
+     going toward the photodetector and the carrier cancels. No sidebands return to the
+     laser, but all the carrier does. Between the beam splitter and the laser a new partially
+     reflecting mirror is inserted, the power recycling mirror. The position of this mirror and
+     its transmission is arranged to make another interferometer that cancels the carrier from
+     the laser reflected by the power recycling mirror with the carrier transmitted back by
+     the recycling mirror from the beam splitter. This eliminates the carrier being reflected
+     by the interferometer to the laser and builds up the carrier power between the beam
+     splitter and the input test masses by several hundred. This is the equivalent of using a
+     more powerful laser. The optical configuration described was used in the initial LIGO
+     interferometer. Finally, the advanced detector includes another partially reflecting mirror
+     between the beam splitter and the photodetector, the signal recycling mirror. This mirror
+     reflects the sidebands back into the interferometer and modifies the spectral response
+     of the entire interferometer to the sidebands, thereby tuning the spectral response of the
+     detector to the gravitational waves being sought.
+
+
+                                                                       Rainer Weiss Lecture     87
+
+
+
+
+Figure 15. The noise budget of the initial LIGO interferometer as described in the 1989
+proposal. Note the vertical axis is the spectral amplitude strain/sqrt(Hz). To convert to the
+rms strain, which has been used in other parts of this paper, multiply the plotted value
+by the square root of the detection bandwidth. At approximately 100 Hz with a 100 Hz
+detection bandwidth, the rms detector sensitivity is about 10–22 strain. The plot shows the
+principal noise terms that limit the performance of the detector. At frequencies above
+200 Hz, the quantum noise (shot noise) limits the performance. The line labeled radiation
+pressure, which does not limit this detector, is the other part of the quantum noise due
+to the fluctuations in radiation pressure on the mirror. The two terms together consti-
+tute the quantum limit and are the equivalent of the noise in a Heisenberg microscope
+but here with a macroscopic object such as a 10kg mirror rather than an electron. In this
+naïve rendering one can reduce the shot noise by increasing the optical power but at
+the expense of increasing the radiation pressure noise. The noise near 100Hz, the sweet
+spot for this detector, is limited by the thermal noise in the pendulum suspension, in this
+case phonon excitations at the end points of the pendulum. At frequencies below 70Hz
+the detector is limited by incomplete removal of the ground vibrations (seismic noise)
+at the mirror. Seismic noise and pendulum thermal noise were greatly reduced for the
+advanced detector (figure 16). The broad noise spectra called residual gas are the phase
+fluctuations induced by forward scattering of residual gas molecules traveling through
+the optical beams in the long arms, this term is the primary reason for ultra-high vacuum
+in the beam path. The sharply rising curve at low frequencies labeled gravity gradients
+is due to the fluctuating Newtonian gravitational forces on the end test masses caused
+by time dependent density fluctuations in both the atmosphere and the ground. Even
+though there is some hope in being able to measure these fluctuations or reduce them
+by burying the instrument, these constitute a severe limit to measure low frequency, less
+than a few Hz, gravitational waves on the ground.
+
+
+88   THE NOBEL PRIZES
+
+
+         A significant step in achieving the improvement against seismic and
+     pendulum thermal noise was made in the development and construction
+     of the advanced detector, Figure 16. The two major improvements were a
+     new suspension system with four pendula in series each stage providing a
+     filter against seismic displacement noise varying as 1/frequency2. The
+     final stage supporting the test mass using very low mechanical loss fused
+     silica fibers (rather than steel fibers) to reduce the suspension thermal
+     noise. The suspension system was provided by the Glasgow group. The
+     second improvement was a multi stage active vibration isolation system
+     to further reduce the seismic motion, especially at low frequencies where
+
+
+
+
+     Figure 16. Some properties of the advanced detector. Right, a quadruple pendulum
+     system developed at Glasgow University which provides four stages of high frequency
+     ground noise isolation as well as low pendulum thermal noise by using fused silica fiber
+     supports (pioneered by Braginsky’s Moscow group) in the final pendulum stage. Top left,
+     a dual active seismic isolation system, initially developed at Stanford University, which
+     becomes a platform for the quadruple suspension. The active system measures the
+     motion of a platform with a three-dimensional seismometer and then feeds this back to
+     a set of controllers to null the seismometer. Two such active systems are placed in series.
+     Bottom left, the noise budget for the advanced detector. The dominant noise has become
+     the quantum noise at both high and low frequencies (discussed in Kip’s lecture). The
+     noise limiting the performance at the sweet spot near 100 Hz has become the thermal
+     noise generated in the mirror coatings. At this writing in February 2018, the noise in the
+     advanced detector, as Barry will show, is about a factor 2.5 worse at the sweet spot than
+     this projected noise curve.
+
+
+                                                                     Rainer Weiss Lecture     89
+
+
+
+
+Figure 17. A key individual at the National Science Foundation (NSF) was Dr. Richard Isaac-
+son, who became discipline chief for Gravity in the Division of Physics in the mid-1970s.
+He had received his Ph.D. from the University of Maryland in Charles Misner’s group
+and had written a paper that rigorously showed gravitational waves carried energy and
+momentum away from their sources − an issue that was still controversial in the 1960s.
+Isaacson sensed the scientific promise in a vital program of research in experimental
+and theoretical gravitation and became a powerful advocate for the field at the NSF. He
+convinced the Director of the Physics Division, Dr. Marcel Bardon, that gravitational wave
+detection, though risky since the technology needed development and the sources were
+not certain, was the type of science which could produce transformative results and was
+well suited to the NSF. In addition to his advocacy within the Foundation, Isaacson guided
+the scientists in the field with strategic advice and wisdom about what was possible.
+After he retired from the NSF, he made a profession of a significant hobby in a study
+of textiles and the cultures that produce them in Asia. He curated an exhibit of the tent
+bands of yurts for the Washington Textile Museum.
+
+
+
+
+the pendula are not effective. The results of these developments will be
+described by Barry in the next talk.
+    I started this talk with an acknowledgment of the remarkable role the
+National Science Foundation played in fostering and supporting LIGO over
+the 45 years from an idea to the first detections and the opening of a new
+field of science. All the more remarkable as it was risky science and the NSF
+saw the project through significant external criticism and our internal dis-
+organization. Much of the responsibility and foresight for this is due to Dr.
+Richard Isaacson (Figure 17), who was both an advocate for the field of
+gravitation within the Foundation and a strategist for the possible.
+    Once an internal NSF decision was made to construct LIGO, the strong
+
+
+90   THE NOBEL PRIZES
+
+
+
+
+     Figure 18. Three Directors of the National Science Foundation who played critical roles
+     in the evolution of the LIGO project: Eric Block was the first Director to consider going
+     forward with the large baseline LIGO project. Walter Massey defended the program
+     during the time when astronomers considered LIGO premature and a possible waste of
+     funds. Neal Lane was a strong advocate for a line item in the congressional NSF budget
+     to support Major Research Equipment Funds for Construction (MREFC). LIGO was one of
+     the first projects to take advantage of these funds, and since then the funds have been
+     used to begin many other large NSF projects.
+
+
+
+
+     support of three NSF Directors (Figure 18) was essential to keep the pro-
+     ject moving at critical junctures with Congress and amidst criticism in a
+     skeptical subset of the scientific community.
+        A personal reflection. Science reporters who have written about the
+     LIGO project have noted the 45 years from its inception to the first meas-
+     urements. They comment on our perseverance and the novelty of a group
+     of scientists working so long together without the satisfaction of a signifi-
+     cant scientific result. This might be the way a person outside of the pro-
+     ject views it. From the inside it is a very different story. What held the
+     group together were the daily little triumphs or puzzles generated in the
+     development of the ideas and technology (both hardware and software)
+     as well as the collegiality of a dedicated group of people.
+
+
+                                                                   Rainer Weiss Lecture   91
+
+
+
+references
+
+1.    Einstein, A. (1915) “Zur Allgemeinen Relativitätstheorie”, Sitzunsberichte der
+      Königlich Preussichen Akademie der Wissenschaften, 778 & 799.
+2.    Einstein, A. (1916) “Die Grundlage der Allgemeinen Relativitätstheorie”,
+      Annalen der Physik, 49, 769.
+3.    Pound, R.V. and Rebka, G.A. (1960) “Apparent Weight of Photons”, Physical
+      Review Letters 4, 337.
+4.    Brault, J (1963) “Gravitational Redshift of Solar Lines”, Bulletin of the Ameri-
+      can Astronomical Society 8, 28.
+5.    Fomalont, E.B. and Sramek, R.A. (1975) “A Confirmation of Einstein’s General
+      Theory of Relativity by Measuring the Bending of Microwave Radiation in the
+      Gravitational Field of the Sun”, Astrophysical Journal 199, 749.
+6.    Einstein, A. (1916) “Näherungsweise integration der feldgleichungen der grav-
+      itation”, Sitzungsberichte der Königlich Preussichen Akademie der Wissenschaf-
+      ten XXXIII, 688.
+7.    Einstein, A. (1918) “Über gravitationswellen”, Sitzungsberichte der Königlich
+      Preussichen Akademie der Wissenschaften, 8, 154.
+8.    Taylor, J. H. and Weisberg, J.M. (1982) “A new test of general relativity: Gravi-
+      tational radiation and the binary pulsar PSR 1913+16”, Astrophysical Journal
+      253, 908.
+9.    “The Role of Gravitation in Physics”, Report from the 1957 Chapel Hill Con-
+      ference, Reprinted Max Planck Research Library for the History and Develop-
+      ment of Knowledge Sources 5.
+10.   Weber, J. (1960) “Detection and generation of gravitational waves”, Physical
+      Review 117, 306.
+11.   Weber, J. (1969) “Evidence for the Discovery of Gravitational Waves”, Physical
+      Review Letters 22,1320.
+12.   Pirani, F.A.E. (1956) “On the physical significance of the Riemann tensor”,
+      Acta Physica Polonica, 15, 389 and (1957) “Measurement of classical gravita-
+      tion fields”, Chapel Hill Conference (Reference 9, 61).
+13.   Gertsenshtein, M.E. and Pustovoit, V.I. (1963) “On the Detection of Low Fre-
+      quency Gravitational Waves”, Soviet Physics – JETP 16, 433.
+14.   Weiss, R. (1972) “Electromagnetically coupled broadband gravitational
+      antenna”, Research Laboratory for Electronics, MIT, Quarterly Progress Report,
+      No 105, 54.
+15.   Shoemaker, D., Schilling, R., Schnupp, L., Winkler, W., Maischberger, K., and
+      Rüdiger, A. (1988). “Noise behavior of the Garching 30-meter prototype gravi-
+      tational wave detector”, Physical Review D 38, 423.
+16.   Drever, R.W.P. (1983). “Interferometric detectors for gravitational radiation”,
+      Gravitational Radiation, NATO Advanced Physics Institute, Les Houches, ed
+      N. Deruelle and T. Piran, (North Holland Publishing), 321.
+17.   Meers, B.J. (1988). “Recycling in laser-interferometric gravitational-wave
+      detectors”, Physical Review D 38, 2317.
+18.   NSF Bluebook (1983). https://emvogil-3.mit.edu/~weiss/ligo_history_docu-
+      ments/NSF_bluebook_1983.pdf
+19.   Caltech/MIT NSF proposal (1989). https://dcc.ligo.org/LIGO-M890001/pub-
+      lic/main/
+

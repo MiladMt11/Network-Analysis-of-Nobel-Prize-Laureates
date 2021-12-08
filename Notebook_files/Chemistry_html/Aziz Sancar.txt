@@ -1,0 +1,1698 @@
+               Mechanisms of DNA Repair by
+               Photolyase and Excision Nuclease
+               Nobel Lecture, December 8, 2015
+
+               by Aziz Sancar
+               Department of Biochemistry and Biophysics, University of North
+               Carolina School of Medicine, Chapel Hill, North Carolina, USA.
+
+
+
+
+               Summary
+
+               The ultraviolet (UV) wavelengths in sunlight damage DNA by converting two
+               adjacent thymines into a thymine dimer (T<>T) which is potentially mutagenic,
+               carcinogenic, or lethal to the organism (Fig. 1). This damage is repaired by pho-
+               tolyase in E. coli and by the nucleotide excision repair system in E. coli and in
+               humans. In this lecture I will present our work on photolyase and nucleotide
+               excision repair, and I will conclude my talk by describing how our research on
+               photolyase led to the discovery of an essential circadian clock protein, called
+               cryptochrome, that links these two research subjects to one another and thus
+               completes the circle.
+
+
+               Photolyase
+
+               Photolyase is a photon-powered nanomachine that uses blue light photons to
+               repair thymine dimers that are induced in DNA by UV. Photolyase was dis-
+               covered by my Ph.D. mentor Claud S. (Stan) Rupert (Fig. 1) in 1958, and this
+               discovery marked the beginning of the field of DNA repair as a scientific disci-
+               pline. Decades before the discovery of photolyase, it had been known that UV
+               kills bacteria very efficiently (Fig. 1, right panel). In 1949 Albert Kelner, of Cold
+               Spring Harbor, made the interesting observation that if bacteria killed by UV
+
+                                                                                                141
+
+
+
+
+ook.indb 141                                                                                           5/12/16 1:52 PM
+
+
+           142                                                                     The Nobel Prizes
+
+
+
+
+           Figure 1. Photoreactivation and photolyase. Top panel (Left): Claud S. Rupert and Aziz
+           Sancar at a function at the University of Texas at Dallas in 2009. (Right): Photoreactivation
+           in E. coli. An E. coli strain defective in nucleotide excision and recombination repair and
+           carrying the cloned photolyase gene was irradiated with the indicated UV dose and either
+           plated directly (closed circles) or plated after exposure to a camera flash of 1 millisecond
+           (open circles). Bottom panel: General Model for Photolyase based on the pioneering
+           work of Rupert: UV induces the formation of a cyclobutane thymine dimer (T<>T),
+           photolyase binds to the dimer, absorbs a blue light photon, and converts the dimer to
+           two canonical thymines.
+
+
+
+           were exposed to visible light, the dead bacteria were miraculously brought back
+           to life [1, 2]. However, he had no explanation for this phenomenon, which was
+           termed photoreactivation. Rupert analyzed this phenomenon further. He dem-
+           onstrated that UV killed bacteria by damaging their DNA, and that there is an
+           enzyme (photoreactivating enzyme = photolyase) that uses the blue light energy
+           in visible light to repair DNA damage. Blue light thus brings dead cells back to
+           life, demonstrating that this resurrection from the dead was not a miraculous
+           phenomenon that needed a metaphysical explanation [3, 4], but could instead be
+           explained by the laws of physics. The reaction mechanism that Dr. Rupert devel-
+           oped is as follows [5–7]: UV converts two adjacent pyrimidines, including thy-
+           mines, to a CPD (cyclobutane pyrimidine dimer), and there is an enzyme called
+           photolyase that uses blue light energy to break the two abnormal bonds joining
+
+
+
+
+ook.indb 142                                                                                               5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease143
+
+
+               the thymines and thus converts the thymine dimer to two normal thymines (Fig.
+               1, bottom panel). Photolyase therefore repairs DNA and eliminates the harmful
+               effects of UV. While this was a satisfactory explanation of the photoreactivation
+               phenomenon, it raised a physical question: Photolyase is a protein, and proteins
+               do not absorb blue light. Therefore, for the next two decades Rupert and many
+               other researchers attempted to identify the blue light-absorbing component of
+               photolyase. They were unsuccessful because Rupert had determined that an E.
+               coli cell contains only 10–20 molecules of photolyase, and this made it virtually
+               impossible to purify and characterize the enzyme.
+                    In 1974 when I joined Dr. Rupert’s lab, gene cloning had just been developed
+               at Stanford University. As a fresh graduate student, I thought I could do any-
+               thing I wanted, and therefore I proposed to Dr. Rupert to clone the photolyase
+               gene, overproduce the enzyme, and purify it. He said, “Go ahead.” After months
+               of work, I successfully cloned the gene [8, 9]. An electron micrograph of the
+               plasmid containing the photolyase gene is shown in Fig. 2 (left). In subsequent
+               years at the University of North Carolina, my colleagues and I used the cloned
+               gene to purify the enzyme in gram quantities (Fig. 2, middle) [10–12], and while
+               purifying it we found that it has a bright blue color (Fig. 2, right) [12]. That find-
+               ing, without any chemical analysis, answered the physical question: It has a blue
+               color which means it absorbs light. We proceeded to identify the light-absorbing
+               component of the enzyme using analytical chemistry, and to our surprise we
+               found that it contained not one, but two blue light-absorbing cofactors, which
+
+
+
+
+               Figure 2. Cloning and purification of photolyase. Left: Electron micrograph of the plas-
+               mid carrying the photolyase gene (Phr). Middle: Purification of photolyase from an E. coli
+               strain overproducing the protein. Right: Purified photolyase exhibits a blue color because
+               of the flavin neutral radical cofactor of the enzyme. The color ranges from sky blue to dark
+               blue depending on the concentration of the enzyme.
+
+
+
+
+ook.indb 143                                                                                                  5/12/16 1:53 PM
+
+
+           144                                                                   The Nobel Prizes
+
+
+
+
+           Figure 3. Photolyase chromophores. Photolyase from E. coli contains two chromophores,
+           which are two-electron reduced flavin adenine dinucleotide (FADH–) and methenyltetra-
+           hydrofolate (Folate). The folate is the solar panel (or photoantenna) and the flavin is the
+           catalytic cofactor. During purification, the flavin undergoes changes in oxidation status
+           and as a consequence the enzyme may exhibit colors ranging from purple to orange.
+           The figure shows the 4 redox states of flavin, and the corresponding absorption spectra,
+           superimposed on the crystal structure of the active site of the enzyme. Image courtesy of
+           Dongping Zhong.
+
+
+
+           are methenyltetrahydrofolate (folate) and two-electron reduced and deproton-
+           ated flavin adenine dinucleotide (FADH–) [13–28]. Moreover, we found that the
+           enzyme exhibits colors ranging from purple to orange depending on the redox
+           status of the flavin cofactor [29] (Fig. 3). We next determined the functions of
+           the two cofactors by carrying out photochemical experiments. We found that
+           the folate acts like a solar panel, absorbing light and transferring the excitation
+           energy to FADH– [15–17, 24]. The flavin is the actual catalyst, and upon excita-
+           tion by energy transfer from folate (and less efficiently by direct absorption of
+           a photon) it carries out the repair reaction on the CPD by a radical mechanism
+           through a cyclic redox reaction [24, 26].
+               To provide structural basis for the proposed reaction mechanism, we col-
+           laborated with Johann Deisenhofer to crystallize photolyase and obtain the 3-D
+           structure of the enzyme [30], which is shown in Fig. 4 in ribbon diagram and
+           surface charge representations. As predicted from the biochemical experiments,
+           the folate is like a solar panel, where it sits on the roof of the enzyme, absorbs
+           light, and then transfers the light energy to the flavin cofactor within the core
+           the enzyme to carry out catalysis. With this general structural view, then, the
+           mechanism of photolyase was developed [31] (Fig. 5): Photolyase binds DNA
+           containing a CPD because the T<>T distorts the backbone of the DNA. Upon
+
+
+
+
+ook.indb 144                                                                                             5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease145
+
+
+
+
+               Figure 4. Crystal structure of E. coli photolyase. Left: Ribbon diagram representation.
+               Right: surface potential representation. Positively and negatively charged residues are
+               highlighted in blue and red, respectively. The phosphodiester backbone of the damaged
+               strand binds to the positively charged diagonal groove on the enzyme surface. The dashed
+               box marks the hole leading to the FADH– catalytic cofactor.
+
+
+
+
+               Figure 5. Reaction mechanism of photolyase. The enzyme makes ionic bonds with the
+               phosphate residues of the damaged DNA strand and flips out the thymine dimer dinu-
+               cleotide into the active site cavity so that the T<>T is within Van der Waals contact with
+               FADH–. The catalytic reaction is initiated by absorption of a photon (300–500 nm) by the
+               folate (MTHF). The MTHF excited singlet state transfers the excitation energy to FADH–
+               by Forster Resonance Energy Transfer (FRET). The excited FADH–* splits the cyclobutane
+               ring by cyclic redox reaction to convert T<>T to T-T, and the repaired DNA dissociates
+               from the enzyme. The inset shows the distances between the indicated atoms of FADH–
+               and the cyclobutane pyrimidine dimer (CPD). Image courtesy of Dongping Zhong.
+
+
+
+
+ook.indb 145                                                                                                5/12/16 1:53 PM
+
+
+           146                                                                 The Nobel Prizes
+
+
+           binding to damaged DNA, ionic interactions between the positively charged
+           groove on the photolyase surface and negatively charged DNA phosphodiester
+           backbone the enzyme pulls the T<>T out from within the helix and into the core
+           of the enzyme so that the T<>T is within Van der Walls contact with FADH–. It
+           makes a very stable complex, and nothing happens until folate absorbs a photon
+           and transfers the excitation energy to the flavin cofactor. The excited state flavin,
+           FADH–*, repairs the T<>T by a cyclic redox reaction, and then the enzyme dis-
+           sociates from the DNA to go on in search of other damage sites to carry out the
+           repair reactions again.
+
+
+
+
+           Figure 6. Microscopic rate constants for photolyase. The rate constants were determined
+           by ultrafast time-resolved absorption and fluorescence up-conversion spectroscopy. The
+           cleavage of the cylclobutane ring is by a concerted asynchronous mechanism which cou-
+           ples the cleavage of the C5-C5 bond in less than 10 ps to cleavage of the C6-C6 bond in
+           90 ps. The entire photochemical reaction is complete in 1.2 ns, with an overall quantum
+           yield of ~0.9. The inner circle shows the relative locations of the photoantenna (MTHF),
+           the catalyst (FADH–) and the thymine dimer substrate (CPD). Image courtesy of Dong-
+           ping Zhong.
+
+
+
+
+ook.indb 146                                                                                          5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease147
+
+
+                   Over the past decade we have collaborated with Dongping Zhong of Ohio
+               State University to determine the microscopic rate constants of DNA repair by
+               photolyase. We have determined the rates of energy transfer, electron transfer,
+               bond breakage, bond forming and electron return, in real time and at picosecond
+               resolution [29–35] (Fig. 6). The entire catalytic cycle is complete in 1.2 ns, and
+               the enzyme repairs T<>T with a quantum yield of 0.9 [29, 31, 34]. Photolyase is
+               currently one of the best understood enzymes.
+
+
+
+               Nucleotide Excision Repair
+
+               Excision repair in E. coli
+               The work on photolyase, in addition to its intrinsic value, contributed to the
+               discovery of the other major DNA repair mechanism found in nearly all cel-
+               lular organisms: Nucleotide excision repair (excision repair). In early work on
+               photolyase, E. coli cells were irradiated with UV in a suspension in a buffer,
+               and then one half was exposed to blue light while the other half was kept in the
+               dark. It was found that the UV-induced T<>Ts disappeared from the genome
+               of the blue light-exposed cells, but remained unchanged in the genome of the
+               control cells kept in the dark. However, if the same experiment was carried out
+               in a buffer containing glucose as an energy source, incubation of UV-irradiated
+               E. coli, in either the dark or the light, resulted in the disappearance of T<>Ts
+               from the genome [36, 37]. Nevertheless, there was still a fundamental differ-
+               ence between the two sets of cells. In light-exposed cells, the T<>Ts completely
+               disappeared as expected. In contrast, in cells kept in the dark, even though the
+               T<>Ts disappeared from the genomic DNA, they accumulated quantitatively in
+               the cytosol [36–38]. This finding in 1964 by Paul Howard-Flanders [36] at Yale
+               University and Richard Setlow [37] at Oak Ridge National Laboratory led to
+               the concept of nucleotide excision repair. After these initial findings, research
+               done in numerous labs led to the conclusions summarized in Fig. 7: T<>Ts are
+               removed (excised) from the genome in both E. coli and humans [39, 40] in the
+               form of 4–6 nucleotide-long oligomers [36, 37, 40–42] but remain within the cell
+               and are not exported. The excision reaction is genetically controlled by the uvr
+               genes in E. coli [43] and XP genes in humans [44, 45]. Following excision, the
+               repair gap is filled in and ligated [39, 46]. The consensus model for nucleotide
+               excision repair over the period of 1964–1982 was the so-called ‘cut-and-patch’
+               mechanism [47], whereby an endonuclease controlled by the Uvr proteins in
+               E. coli, and XP proteins in humans, made an incision 5’ to the T<>T, and then
+               an exonuclease removed the T<>T in a reaction coupled with repair synthesis
+
+
+
+
+ook.indb 147                                                                                        5/12/16 1:53 PM
+
+
+           148                                                                   The Nobel Prizes
+
+
+
+
+           Figure 7. General model for nucleotide excision repair for E. coli and humans that was
+           developed over the period of 1964–1982. It is referred to as the endonuclease/exonuclease
+           coupled with repair synthesis or the cut-and-patch model.
+
+
+
+
+           Figure 8. Identification of E. coli Uvr proteins. In the maxicell method, a recA–uvrA–
+           mutant strain containing a plasmid carrying the gene of interest is irradiated with a mod-
+           erate UV dose that hits the chromosomal DNA at multiple sites but not the much smaller
+           (typically 500–1000 fold) plasmid. This causes total degradation of the chromosomal
+           DNA in 6–12 hours leaving cells (maxicells) with only plasmid DNA. At this point, addi-
+           tion of the 35S-methionine radiolabel to the medium labels only the plasmid encoded
+           proteins which can be detected by autoradiography. This is an autoradiogram of three E.
+           coli maxicells expressing UvrA, UvrB, and UvrC, respectively. The lower molecular weight
+           bands are proteins encoded by the drug resistance genes, tetracycline and ampicillin.
+
+
+
+
+ook.indb 148                                                                                            5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease149
+
+
+               that filled in the single-stranded gap, followed by ligation of the repair patch to
+               complete the repair process.
+                   In 1977, I joined the laboratory of Dean Rupp at Yale University to work on
+               the mechanism of nucleotide excision repair in E. coli. I invented the maxicell
+               method to specifically radiolabel plasmid-encoded proteins [48], which enabled
+               me to identify and clone the three genes implicated in excision repair: uvrA,
+               uvrB, and uvrC [49–51]. Nothing was known about the specific functions of
+               these genes at the time. I found that the three genes encoded proteins of 100 kDa,
+               85 kDa, and 66 kDa, respectively (Fig. 8). With the aid of the maxicell method, I
+               then purified the three proteins in milligram quantities (Fig. 9) and investigated
+               their effects on UV-damaged DNA. I found that the UvrA, B, C proteins repaired
+               DNA by a mechanism different from the classic endonuclease/exonuclease (cut-
+               and-paste) model: The three proteins instead act together to carry out concerted
+               dual incisions at precise distances from the photoproduct [52], seven nucleotides
+               5’ and three nucleotides 3’ from the damage to generate a dodecamer (12-mer)
+               carrying the T<>T photoproduct. The excised oligomer is then removed from
+               the duplex, and the resulting gap is filled and ligated (Fig. 10). Later on at the
+               University of North Carolina, my colleagues and I investigated the roles of the
+               three proteins in the repair reaction. We found that UvrA and UvrB are ATPases
+               and that UvrC is a nuclease, and we carried out detailed biochemical studies to
+               develop the reaction mechanism shown in Fig. 11 [53–68]: UvrA recognizes the
+               damage and recruits UvrB to the damage site, which promotes the formation of
+
+
+
+
+               Figure 9. Purification of the UvrA, UvrB, and UvrC proteins. The proteins were purified
+               from maxicells expressing the respective proteins, and the purification was monitored by
+               radioactivity. The final purification products were analyzed by SDS-PAGE followed by
+               Coomassie Blue staining. The last lane contains molecular size markers.
+
+
+
+
+ook.indb 149                                                                                              5/12/16 1:53 PM
+
+
+           150                                                               The Nobel Prizes
+
+
+           a stable UvrB-DNA complex in an ATP hydrolysis-dependent reaction. UvrA
+           then disassociates from the complex, and UvrB recruits UvrC to the damage
+           site. UvrC has two nuclease active sites, which make the 5’ and 3’ incisions in
+           a concerted manner [69, 70]. UvrC and the excised oligomer are then released
+           from the duplex by the action of the UvrD helicase [61]. Finally, DNA Poly-
+           merase I displaces UvrB and fills in the gap, and the repair patch is sealed by
+           DNA ligase [67].
+
+           Transcription-coupled repair
+           While we were characterizing the reaction mechanism of the E. coli excision
+           nuclease (excinuclease), Philip Hanawalt of Stanford University reported that
+           transcription strongly stimulated repair in vivo in both mammalian cells and
+           in E. coli [71–73]. It was proposed that this was the consequence of RNA poly-
+           merase accelerating the rate of the damage recognition, which is the rate limiting
+           step in nucleotide excision repair. We therefore initiated a project to study the
+           mechanism of E. coli transcription-coupled repair in a defined system using a
+           labeled DNA damage substrate, purified RNA polymerase, and the UvrA, B, and
+           C proteins. We found that DNA damage blocked the progression of RNA poly-
+           merase, as predicted, and led to the formation of a very stable RNA polymerase
+
+
+
+
+           Figure 10. Excision by dual incisions in E. coli. UvrA + UvrB + UvrC proteins in the
+           presence of ATP + Mg2+ incise 7 nucleotides 5’ and 3–4 nucleotides 3’ to the thymine
+           dimer (T<>T) as shown in the 3-D model (left) and line diagram representation (right).
+           The 12–13-nucleotide gap is filled in by polymerases and ligated.
+
+
+
+
+ook.indb 150                                                                                        5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease151
+
+
+
+
+               Figure 11. Reaction mechanism of excision repair in E. coli. The damage is recognized
+               by the (UvrA)2 homodimer which functions as a molecular matchmaker to recruit UvrB
+               to the damage site. An ATP hydrolysis-dependent reaction then promotes the formation
+               of a very stable UvrB-DNA complex. This complex recruits UvrC, which incises 5’ and 3’
+               to the damage due to active site nucleases within the N-terminal and C-terminal halves
+               of the protein. UvrC and the excised dodecamer (12-mer) are then displaced by the UvrD
+               helicase, and UvrB is displaced by DNA Polymerase I as it fills in the gap. The gap is then
+               sealed by ligase.
+
+
+
+               elongation complex at the damage site. However, contrary to expectations that
+               this stalled complex would accelerate repair by constituting a large target for the
+               repair enzyme, we found instead that stalled RNA polymerase did not stimulate
+               but actually inhibited repair, presumably by interfering with the access of UvrA,
+               B, C to the damage site [74]. We reasoned that there must be a missing factor that
+               performs two functions. First, it overcomes the repair inhibitory effect of stalled
+               RNA polymerase, and second, it helps in recruiting UvrA, B, and C to the damage
+               site to accelerate the repair rate. We developed an in vitro biochemical assay to
+               purify this coupling factor. We succeeded in purifying a protein of 130 kDa that
+               performed both functions [75–83]. We named the protein transcription-repair
+               coupling factor (TRCF). Using an entirely defined system, we elucidated the
+               reaction mechanism of transcription-coupled repair in E. coli (Fig. 12): TRCF is
+               a translocase that recognizes stalled RNA polymerase and displaces it from the
+               damage site while concomitantly recruiting UvrA to accelerate the repair rate.
+
+
+
+
+ook.indb 151                                                                                                 5/12/16 1:53 PM
+
+
+           152                                                                   The Nobel Prizes
+
+
+
+
+           Figure 12. Molecular mechanism of transcription-coupled repair in E. coli. RNA Poly-
+           merase stops when it encounters a T<>T in the transcribed strand of DNA. The ternary
+           complex (DNA + RNA Polymerase + RNA) is stable for hours. The T<>T within this com-
+           plex is not accessible to UvrA, and therefore repair is inhibited. The transcription-repair
+           coupling factor (TRCF; also known as Mfd, mutation frequency decline) is a translocase
+           (but not a helicase) with high sequence similarity to UvrB and affinity to RNA polymerase.
+           Mfd (TRCF) recognizes the stalled complex and uses its translocase activity to displace
+           RNA polymerase along with the truncated RNA. Because of its similarity to UvrB, Mfd
+           simultaneously recruits UvrA, thus promoting the formation of a transient Mfd-UvrA-
+           UvrB-DNA complex at the damage site and facilitating the rapid formation of the preinci-
+           sion UvrB-DNA complex, which is then followed by recruitment of UvrC and the dual
+           incisions. The panel in the center shows the purification steps of Mfd (TRCF) from cells
+           overproducing Mfd and analyzed by SDS-PAGE and Coomassie Blue staining.
+
+
+
+
+           We also showed that TRCF was encoded by the mfd gene (mutation frequency
+           decline) that was discovered by Evelyn M. Witkin in 1966 as a gene responsible
+           for preventing a specific type of UV-induced mutagenesis. The discovery of the
+           equivalency of TRCF and Mfd provided a mechanistic explanation for the mfd–
+           phenotype that had remained mysterious for 25 years [84].
+
+           Excision repair in humans
+           Having described the E. coli excision repair mechanism in some detail in 1987,
+           we started to work on human excision repair. At that time, it was presumed that
+
+
+
+
+ook.indb 152                                                                                             5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease153
+
+
+
+
+               Figure 13. A xeroderma pigmentosum patient. The patients in complementation groups
+               A–G are very sensitive to sunlight and even regular white light from electric light sources.
+               XP patients exhibit a several thousand-fold higher incidence of skin cancer compared to
+               normal individuals.
+
+
+               human excision repair proceeded by an 5’ endonuclease/exonuclease mecha-
+               nism (cut-and-patch), as in the classical E. coli model [47] (Fig. 7). Importantly,
+               James Cleaver of the University of California, San Francisco had discovered in
+               1968 that patients with the hereditary disease xeroderma pigmentosum (XP)
+               were defective in excision repair [44]. These patients are extremely sensitive to
+               sunlight and exhibit ~5,000-fold increase in sunlight-induced skin cancer rela-
+               tive to individuals with normal excision repair (Fig. 13). Genetic analysis of XP
+               patients revealed that seven genes, termed XPA through XPG, were responsible
+               for the removal of UV-induced photoproducts [45]. Using our expertise from
+               working on E. coli excision repair, we proceeded to characterize human excision
+               repair [85]. From the very beginning, we found that, as in E. coli, nucleotide
+               excision repair was carried out in humans by dual incisions and not by the con-
+               ventional model [86–91]. Beyond that, the human excision repair mechanism
+               turned out to be very different from E. coli excision repair [87–126]. To begin
+               with, in humans, not just three proteins (UvrA, B, C), but 16 proteins in six
+               repair factors [93, 97] were necessary for making the dual incisions (Fig. 14).
+               Furthermore, these human proteins are not evolutionarily related to the E. coli
+               excision repair proteins. Secondly, even though in principle both E. coli and
+               humans carry out nucleotide excision repair by dual incisions, the dual incision
+
+
+
+
+ook.indb 153                                                                                                  5/12/16 1:53 PM
+
+
+           154                                                                   The Nobel Prizes
+
+
+
+
+           Figure 14. Human excision repair factors. Six repair factors encompassing 16 proteins
+           are needed for making the dual incisions in humans. Note that RPA also functions in
+           replication and recombination. TFIIH, which contains eight other subunits in addition to
+           the XPB and XPD helicases encoded by the respective XP genes, is a general transcription
+           factor for the initiation of transcription by RNA Polymerase II. These human excision
+           repair proteins are not evolutionarily related to prokaryotic excision repair proteins. The
+           figure shows purified repair factors separated by SDS-PAGE and silver stained.
+
+
+
+
+           mechanisms are quite different. Whereas in E. coli the 5’ incision is seven nucleo-
+           tides away from the damage, and the 3’ incision is three nucleotides away from
+           the damage, the human excision repair system incises the damaged strand 20–22
+           nucleotides 5’ and five nucleotides 3’ to the damage to release an excised oligo-
+           mer of 27–30 nt in length [86], in contrast to the 12–13 nt oligomer generated
+           by E. coli dual incisions (Fig. 15). Finally, the actual damage recognition and
+           processing is also different: Whereas damage is recognized by UvrA in E. coli,
+           damage is instead recognized in humans by RPA, XPA, and XPC, followed by
+           recruitment of TFIIH, which contains the XPB and XPD helicases that unwind
+           the helix and recruit the XPG and XPF nucleases to make the 3’ and 5’ incisions.
+           The dual incision event is followed by the release of the 30-nucleotide excised
+           oligomer, gap filling and ligation by DNA polymerase and ligase to produce a
+           30-nucleotide repair patch [102]. Fig. 16 summarizes our current model for the
+           mechanism of human nucleotide excision repair. Most recently, this work led us
+           to study other cellular responses to DNA damage including the DNA damage
+           checkpoints [127–130].
+
+
+
+
+ook.indb 154                                                                                             5/12/16 1:53 PM
+
+
+               Figure 15. Excision by dual incisions in humans. In humans, thymine dimers (T<>T)
+               and other bulky base adducts are removed by dual incisions located 20±5 phosphodiester
+               bonds 5’ and 6±3 phosphodiester bonds 3’ to the damage, which releases an oligonucle-
+               otide 24–32 nt in length (referred to as nominal 30-mers). Left panel: Dual incision sites
+               on a 3-D representation of DNA. Right panel: Schematic of human dual incisions fol-
+               lowed by repair synthesis and ligation.
+
+
+
+
+               Figure 16. Reaction mechanism of the human excision nuclease system. The damage is
+               recognized by cooperative interactions of RPA, XPA, and XPC followed by recruitment of
+               TFIIH. The helicase activity of TFIIH provides the major specificity by kinetic proofread-
+               ing and results in formation of a tight complex from which XPC is ejected. Note that XPC
+               plays a role similar to that of E. coli UvrA by playing an essential role in damage recogni-
+               tion, leaving the complex to allow subsequent steps to proceed (molecular matchmaker).
+               Concomitant with the dissociation of XPC, the XPG and XPF nucleases are recruited to
+               make the 3’ and 5’ incisions in a concerted reaction. The excised “30-mer” is released in a
+               tight complex with TFIIH. The excision gap is filled in by DNA polymerases and ligated
+               to produce a 30 nucleotide-long repair patch.
+
+
+
+
+ook.indb 155                                                                                                  5/12/16 1:53 PM
+
+
+           156                                                               The Nobel Prizes
+
+
+           Excision repair map of the human genome at single nucleotide resolution
+           Our discovery of excision of a nominal 30-mer by the human nucleotide exci-
+           sion repair system in cell extracts and with the reconstituted enzyme system was
+           confirmed by other groups. However, these findings were at odds with numerous
+           reports that the excised T<>T’s were in the form of oligomers 4–6 nucleotides
+           in length in human cells [40–42]. This discrepancy between the in vivo and in
+           vitro data remained unresolved for two decades. The solution to the problem
+           came from the analysis of the fate of the excised 30-mer in vitro using cell-free
+           extracts and reconstituted repair reactions. We found that the excised 30-mer
+           released from the duplex is in a tight complex with TFIIH in in vitro reactions
+           [131, 132]. We reasoned that this may be the case in vivo as well. To test this
+           prediction, we irradiated human cells and after incubating for 1–6 hours to allow
+           for repair, we lysed the cells, immunoprecipitated TFIIH, and analyzed the DNA
+           fragments associated with TFIIH. We found that the excision products generated
+           in vivo were in fact 30-nucleotides in length, as in the case of the in vitro reaction
+           [133–137]. Upon longer incubation, the primary excision product is degraded to
+           smaller fragments less than 10 nucleotides in length, which explained the previ-
+           ous in vivo studies in which the excised oligonucleotides were typically isolated
+           from the cells 24 hours after irradiation.
+               Our ability to isolate the primary excision product not only solved the appar-
+           ent discrepancy between the in vivo and in vitro excision reactions, it also pro-
+           vided a means for generating a repair map of the entire human genome [138]
+           (Fig. 17). Following irradiation of cells with UV and incubation for a period
+           of time to allow for repair, we then lysed cells and immunoprecipitated TFIIH
+           to isolate the associated excised oligomers. The excised oligomers are then
+           sequenced using Next Generation Sequencing (NGS). In a typical experiment
+           we obtain 15–20 million reads. We align these reads to the human genome to
+           place all of the excision products at specific locations, thus generating a repair
+           map. Fig. 18 shows the repair map of the 22 somatic and 2 sex chromosomes of
+           a male individual. The black tracks represent transcription and the green tracks
+           represent the repair tracks of the two photoproducts for the two strands of the
+           entire genome. This figure is a screenshot of the repair map of the entire genome,
+           and is meant to illustrate the coverage of repair over the whole genome. However,
+           it does not reveal much information about the determinants of repair mode and
+           rate at a given locus. By concentrating on one specific chromosome at various
+           resolutions, the information contained within this map becomes apparent. Fig.
+           19 shows the repair map of chromosome 17. This chromosome is 83 megabases
+           in length and carries the p53 gene, which is mutated in about 50% of human
+
+
+
+
+ook.indb 156                                                                                        5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease157
+
+
+
+
+               Figure 17. The XR-seq (eXcision Repair-sequencing) method for generating the human
+               excision repair map. UV-irradiated cells are lysed, following an incubation period, and
+               TFIIH is immunoprecipitated. The excised nominal 30-mers (24–32 nt) which co-precip-
+               itate with TFIIH are extracted and ligated to adaptors. The oligomers containing cyclobu-
+               tane pyrimidine dimers (CPD) or (6–4) pyrimidine-pyrimidone photoproducts are then
+               immunoprecipitated with the corresponding photoproduct antibodies. The photoprod-
+               ucts are repaired by the appropriate photolyases, and the oligomers are amplified by PCR,
+               gel purified, and subjected to sequencing by Next Generation Sequencing (NGS) using
+               the Illumina HiSeq 2000 platform.
+
+
+
+
+               cancers. The map shows the transcripts along the entire chromosome in both
+               strands in black and the excision repair (XR-seq) tracks for both strands in green.
+               The repair map is a map in the true, geographic sense of the word. It has moun-
+               tains, it has valleys, and it has canyons, meaning there are regions of high repair,
+               low repair and no repair at all. Importantly, with such a map, we can answer the
+               question of the repair mode and efficiency at any given nucleotide in the genome.
+               As an example, Fig. 19 shows the p53 transcription and repair maps at kilobase
+               resolution (middle). Finally, at single nucleotide resolution (bottom) the map
+               shows the repair efficiency and the mode of repair of a p53 mutation hotspot
+
+
+
+
+ook.indb 157                                                                                               5/12/16 1:53 PM
+
+
+           158                                                                 The Nobel Prizes
+
+
+
+
+           Figure 18. Excision repair map of the entire human genome. The locations of the XR-seq
+           signals for CPD and (6–4)PP in both strands of the duplex across all chromosomes of
+           the human NHF1 cell genome (male) are indicated by green tracks. The ENCODE total
+           stranded RNA-seq tracks in black are plotted on top of the XR-seq tracks for comparison.
+           Chromosome 17, which is boxed in red, carries the p53 gene which is mutated in nearly
+           50% of cancers.
+
+
+
+           at T-T (7,577,150-7,577,151) dinucleotide position. The thymine dimer at this
+           position is removed by incision 20 nucleotides 5’ and 4 nucleotides 3’ to the
+           photoproduct. It is evident that much more information can be gathered from
+           this map regarding the determinants of repair of UV damage at any given loca-
+           tion of the genome. More importantly, nucleotide excision repair also repairs the
+           DNA damage caused by the major anticancer drug, cisplatin. We are currently
+           generating a cisplatin damage repair map of the genomes of normal and cancer-
+           ous human cells that we hope will have some implications for cancer treatment.
+               To summarize (Fig. 20) our work on nucleotide excision repair [67, 68, 82,
+           83, 120, 121, 124]: Repair is initiated by dual incisions both in E. coli and in
+           humans, which generates 12–13-mers in E. coli and ~30-mers in humans. The
+           dual incisions require UvrA, B, and C proteins in E. coli and six repair factors
+           encompassing 16 proteins, including the proteins encoded by the XPA through
+           the XPG genes, in humans. Following excision, the gap is filled in by DNA poly-
+           merases and ligated to generate repair patches of 12–13 and ~30 nucleotides in
+
+
+
+
+ook.indb 158                                                                                          5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease159
+
+
+
+
+               Figure 19. Excision repair at single nucleotide resolution. The transcription and repair
+               maps of chromosome 17 are shown in an XP-C mutant cell line, which can only carry
+               out transcription-coupled repair, to illustrate the dramatic effect of transcription on
+               repair. The red line indicates the position of the mutation hotspot in the p53 gene. Top:
+               Transcription and repair map at megabase resolution. Middle: Transcription and repair
+               maps at kilobase resolution. Note the strong repair signal in the transcribed strands of
+               the p53 and WRAP53 genes with a nearly absolute lack of repair in the non-transcribed
+               strand. Bottom: The repair pattern of T<>T dinucleotide at a mutagenic hotspot, posi-
+               tion 7,577,150-7,577,151. The photodimer is removed in the form of a 26-mer by dual
+               incisions 20 nucleotides 5’ and 4 nucleotides 3’ to the dimer.
+
+
+
+
+               Figure 20. Excision repair in E. coli and humans. In both organisms, excision is by dual
+               incisions. However, the proteins required for the dual incisions, the mechanisms for
+               damage recognition, and the dual incision patterns are entirely different.
+
+
+
+
+ook.indb 159                                                                                               5/12/16 1:53 PM
+
+
+           160                                                             The Nobel Prizes
+
+
+           E. coli and humans, respectively. Finally, by capturing the excised 30-mer gener-
+           ated by human nucleotide excision repair in vivo, we have generated the excision
+           repair map of UV damage of the whole human genome.
+
+
+
+           Cryptochrome, Circadian Clock, and Closing the Circle
+
+           I wish to conclude this presentation by explaining how our work on photolyase
+           led to the discovery of cryptochrome as an essential component of the mam-
+           malian circadian clock, and how the circadian clock regulates nucleotide exci-
+           sion repair in mammals, thus linking the two subjects of our long-term research
+           projects, photolyase and nucleotide excision repair.
+
+           Discovery of mammalian cryptochrome
+           I have discussed the excision repair mechanisms in both humans and E. coli,
+           although I only presented photolyase data for E. coli. This is because humans do
+           not have photolyase [139]. In fact, for 30 years after the discovery of photolyase
+           in E. coli, its presence in humans was a matter of controversy. Some investigators
+           reported that photolyase was not detectable in human cell lines, while others
+           reported robust photolyase activity in human cells and reported purification of
+           the enzyme to homogeneity from human white blood cells [140]. Having devel-
+           oped very sensitive and specific assays for photolyase in the 1980s, we decided
+           to resolve this controversy. We conducted a comprehensive search for photolyase
+           in freshly isolated human white blood cells. We detected no photolyase activity
+           and then published a paper in 1993 [139] categorically stating that humans do
+           not have photolyase (Fig. 21). However, two years later, in one of the first public
+           releases of the human genome project, one of the ESTs (expressed sequence
+           tags) was listed as the photolyase homolog [141]. Reasoning that we may have
+           missed the photolyase activity in our earlier work, we decided to investigate
+           the function of the gene by obtaining the entire cDNA clone, expressing it, and
+           analyzing its function. While this work was in progress we discovered a second
+           photolyase “homolog” in the human genome. We obtained the entire cDNAs
+           of both genes. They are remarkably similar to E. coli photolyase at the sequence
+           level and equally remarkable at the 3-D structure level (Fig. 21). We expressed
+           and purified the proteins encoded by these genes and established that they had
+           no photolyase activity and concluded that they were photolyase paralogs. This
+           work was completed in April 1996, and not knowing what functions of these
+           paralogs might be, we were reluctant to publish our findings (Fig. 22). In May
+
+
+
+
+ook.indb 160                                                                                     5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease161
+
+
+               1996, I made my annual pilgrimage to Turkey to visit my family. On my return
+               trip I read an article on jetlag in the airline magazine entitled “Internal Time-
+               keeping,” by William Schwartz [142]. I believe this was the first time I learned
+               the meaning of the phrase “circadian clock.” The article, among other things,
+               noted that the circadian clock was synchronized to the physical clock by light,
+               and was particularly sensitive to blue light. After reading this article, I suspected
+               that the human photolyase paralogs might be clock proteins that sense blue light.
+               Upon returning to the lab, I suggested to my coworkers that we publish our data
+               and that we name the human photolyase paralogs cryptochromes in analogy
+               with the plant blue light photoreceptors with sequence similarity to photolyase
+               [143]. I also proposed that we suggest that the human cryptochromes (CRY1 and
+               CRY2) are circadian clock proteins [144]. We wrote the paper and submitted it
+               for publication in August, and it was published in November 1996 [144]. We then
+               proceeded to test this claim [145] by knocking out the CRY genes in mice and
+               testing them for circadian clock function.
+
+
+
+
+               Figure 21. Photolyase-cryptochrome connection. Top: Key papers leading to the discov-
+               ery of the human cryptochromes. Middle: Sequence similarities among E. coli photoly-
+               ase and human cryptochromes 1 and 2. Bottom: Three-dimensional structures of E. coli
+               photolyase and Arabidopsis cryptochrome 1 showing the similarities in the photolyase
+               homology domain. Side panel: Purified E. coli photolyase and hCRY1 and hCRY2 ana-
+               lyzed by SDS-PAGE followed by Coomassie Blue staining.
+
+
+
+
+ook.indb 161                                                                                           5/12/16 1:53 PM
+
+
+           162                                                                    The Nobel Prizes
+
+
+
+
+           Figure 22. Sequence of events leading to discovery of human CRY as a circadian clock
+           protein. Although the prediction was that CRY was the blue light sensor of the mamma-
+           lian clock, genetic analysis revealed it to be an essential cog in the core clock machinery.
+
+
+
+
+           The circadian clock
+           Before presenting the data on the mouse CRY knockouts, I will briefly sum-
+           marize what the circadian clock is (Fig. 23) [146–149]: The clock, in general,
+           is a timekeeping object/system. The circadian clock is similar to the clocks we
+
+
+
+
+           Figure 23. Clock and circadian clock. The circadian clock, like mechanical and electronic
+           clocks, measure time independent of external stimuli, but it is instead made up of mol-
+           ecules rather than gears and levies or electronic circuits.
+
+
+
+
+ook.indb 162                                                                                              5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease163
+
+
+
+
+               Figure 24. Behavioral analyses of cryptochrome knockout mice. Mice of the indicated
+               genotypes were kept in cages with running wheels for 28 days and their activity profiles
+               were recorded (actogram). The rpm of the running wheel is plotted on the y axis, and the
+               time of the day is plotted on the x axis. The bar on top indicates the dark and light phases
+               of the day. On the 7th day, indicated by arrows, the mice were switched from 12 hr light:
+               12 hr dark (LD) cycle into constant darkness (DD). Note that under LD all 4 mice exhibit
+               similar activity and rest phases with a 24 hr periodicity. In DD, the mice exhibit activity/
+               rest phases with periodicities imposed by their intrinsic clock: wild type 23.7 hr; Cry1–/–
+               22.7 hr; Cry2–/– 24.7 hr. The Cry1–/– Cry2–/– double knockout is arrhythmic because it has
+               no functional circadian clock.
+
+
+
+               are familiar with, including mechanical and electrical clocks that are based on
+               mechanical and electronic principles. The circadian clock has the same kind of
+               design except that the components that make up the clock are molecules, and
+               the function of the clock is to inform us of the time of the day. By doing so, the
+               circadian clock maintains daily rhythmicity in biochemical, physiological, and
+               behavioral functions of the organism even in the absence of external input.
+
+               Role of cryptochrome in the circadian clock
+               To test whether CRYs are circadian clock proteins, we generated mice with muta-
+               tions in either CRY1 or CRY2, or both, and analyzed their circadian clock by
+
+
+
+
+ook.indb 163                                                                                                  5/12/16 1:53 PM
+
+
+           164                                                               The Nobel Prizes
+
+
+
+
+           Figure 25. Mammalian clock genes and proteins. The four genes and their paralogs were
+           cloned, and the proteins were characterized over the course of five years.
+
+
+
+           recording their daily wheel running activity for 28 days [150, 151]. For the first
+           week the mice were kept under 12 hours of light and 12 hours of dark (LD12:12),
+           and for the final 3 weeks they were kept in constant darkness. The results are
+           shown in Fig. 24. Under these light:dark conditions, wild-type (WT) mice and
+           mutant mice were active during the dark and rested during the day, as would
+           be expected because mice are nocturnal animals. However, under conditions
+           of continuous darkness with no external stimuli, the mice behaved differently.
+           Whereas the WT mouse exhibited an activity-rest rhythm with a periodicity of
+           23.7 hours, the CRY2 mutant exhibited a longer period of 24.7 hours and the
+           CRY1 mutant had a rhythmicity with a period of 22.7 hours. More strikingly,
+           the CRY1–/–CRY2–/– double knockout totally lost rhythmic behavior in constant
+           darkness. These findings established cryptochromes as core clock proteins.
+           While this work was going on in our lab [152–170], there was a great deal of
+           scientific discoveries in the circadian field over the period of 1996–2000 that led
+           to the identification of the four classes of proteins (Fig. 25) that are essential for
+           controlling the circadian clock in humans [146–149, 171, 172]. The following
+           model was developed for the molecular clock: CLOCK and BMAL1 activate the
+           transcription of CRY and PER, which after a time delay, enter the nucleus and
+           inhibit their own transcription resulting in rise and fall of CRY and PER levels
+           with a periodicity of about 24 hours. In addition, these core clock proteins con-
+           trol the expression of about 30% of all genes in a given tissue to confer this cyclic
+           expression pattern and thus a daily rhythmicity of functions (Fig. 26).
+
+
+           Circadian Clock, Control of Excision Repair, and Carcinogenesis
+
+           Among the genes regulated by the circadian clock, we found that the excision
+           repair protein XPA is controlled by the biological clock, and we therefore asked
+           whether the entire nucleotide excision repair oscillates with daily periodicity.
+           As shown in Fig. 27, XPA transcription and protein levels are at a maximum at
+
+
+
+
+ook.indb 164                                                                                        5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease165
+
+
+
+
+               Figure 26. Molecular mechanism of the mammalian circadian clock. CLOCK and
+               BMAL1 are transcriptional activators, which form a CLOCK-BMAL1 heterodimer that
+               binds to the E-box sequence (CACGTG) in the promoters of Cry and Per genes to activate
+               their transcription. CRY and PER are transcriptional repressors, and after an appropriate
+               time delay following protein synthesis and nuclear entry, they inhibit their own transcrip-
+               tion, thus causing the rise and fall of CRY and PER levels with circa 24 hour periodicity
+               (core clock). The core clock proteins also act on other genes that have E-boxes in their
+               regulatory regions. As a consequence, about 30% of all genes are clock-controlled genes
+               (CCG) in a given tissue, and hence exhibit daily rhythmicity. Among these genes, the
+               Xpa gene, which is essential for nucleotide excision repair, is also controlled by the clock.
+
+
+
+               around 5 pm and at a minimum at around 5 am. Importantly, the entire excision
+               repair activity shows the same pattern [173–175]. This led to the prediction that
+               mice would be more sensitive to UV light when exposed at 5 am (when repair is
+               low), compared to 5 pm (when repair is high). We proceeded to test this predic-
+               tion. We irradiated two groups of mice with UV at 5 am and 5 pm, respectively,
+               and found that the group irradiated at 5 am exhibited 4–5 fold higher incidence
+               of invasive skin carcinoma than the group irradiated at 5 pm [176]. Currently,
+               we are investigating whether this rhythmicity of excision repair exists in humans,
+
+
+
+
+ook.indb 165                                                                                                   5/12/16 1:53 PM
+
+
+           166                                                                  The Nobel Prizes
+
+
+
+
+           Figure 27. Circadian control of excision repair and photocarcinogenesis in mice. The
+           core circadian clock machinery controls the rhythmic expression of XPA, such that XPA
+           RNA and protein levels are at a minimum at 5 am and at a maximum at 5 pm. The entire
+           excision repair system therefore exhibits the same type of daily periodicity. As a conse-
+           quence, when mice are irradiated with UVB at 5 am they develop invasive skin carcinoma
+           at about 5-fold higher frequency compared to mice irradiated at 5 pm when repair is at
+           its maximum. The mouse in the picture belongs to the 5 am group with multiple invasive
+           skin carcinomas at the conclusion of the experiment.
+
+
+
+
+           and if it does, whether it can be used to make public health recommendations
+           to prevent skin cancer [170, 177]. Equally important, excision repair is also the
+           repair mechanism for the DNA damage caused by the anticancer drug cisplatin.
+           We are thus also investigating whether this periodicity of excision repair can be
+           used to improve cisplatin treatment in cancer.
+
+
+           Summary
+
+           To conclude, Fig. 28 is the summary of my 40 years of work on photolyase, 35
+           years of work on nucleotide excision repair in E. coli and humans, and 20 years
+           of work on photolyase-related cryptochrome that links these two repair pathways
+           that I have worked with all my career.
+
+
+
+
+ook.indb 166                                                                                           5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease167
+
+
+
+
+               Figure 28. Photorepair, cryptochrome, and nucleotide excision repair. I have worked for
+               over 40 years on photolyase, whose photocycle is shown here. I have spent 35 years on
+               nucleotide excision repair and discovered two different dual incision patterns in E. coli
+               and humans as shown. The photolyase work eventually led to the discovery of crypto-
+               chrome as a core clock protein, as exemplified by these actograms. The core clock controls
+               nucleotide excision repair in mice which revealed that a photolyase-like protein (crypto-
+               chrome) with no repair activity nevertheless controls repair through the circadian clock.
+
+
+
+
+               Acknowledgements
+
+               I have had the good fortune of having worked with outstanding students and
+               postdocs over the course of my career who have conducted most of the experi-
+               ments I described here (Fig. 29). I am grateful to my internal medicine professor,
+               Muzaffer Aksoy, who encouraged me to go to the United States to do research.
+               My mentor, Dr. Rupert, discovered DNA repair in the modern sense, and he has
+               been my role model throughout my scientific career. W. Dean Rupp and Paul
+               Howard-Flanders introduced me to nucleotide excision repair and helped lay
+               the scientific foundation for my research on DNA repair (Fig. 30).
+                   I have been very fortunate to have had collaborators who were leaders in
+               the field of flavin photochemistry, analytical chemistry, crystallography, ultra-
+               fast chemistry, and the mammalian circadian clock (Fig. 30). Finally, I wish to
+               acknowledge the scientists who have made important contributions in the fields
+               of photolyase, excision repair, and circadian clock research. In this lecture I was
+               not able to fully reference all contributions to these fields, but have tried to place
+
+
+
+
+ook.indb 167                                                                                                5/12/16 1:53 PM
+
+
+           168                                                                  The Nobel Prizes
+
+
+
+
+           Figure 29. Sancar lab members. I have been fortunate to have had outstanding post-
+           doctoral fellows, students, and technicians who have carried out the experimental work
+           described in this lecture.
+
+
+
+
+           Figure 30. Mentors and collaborators. Professor Muzaffer Aksoy, my internal medicine
+           professor at the Istanbul University School of Medicine, taught me the scientific method.
+           Professor Claud S. Rupert, my doctoral advisor at the University of Texas at Dallas, has
+           had the most impact on my development as a scientist. He is my role model. Professors W.
+           Dean Rupp and Paul Howard-Flanders introduced me to the field of nucleotide excision
+           repair and helped create an exciting DNA repair research environment at Yale University.
+           My collaborators, which are listed here, have been instrumental to the accomplishment of
+           all three major research projects in our lab. My research programs have been supported
+           by the National Institutes of Health (NIH) for the past 33 years.
+
+
+
+
+ook.indb 168                                                                                           5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease                          169
+
+
+
+
+               Figure 31. Contributors. Many scientists listed here contributed to our research by their
+               ideas, findings, and regents and made crucial findings in the respective areas that we have
+               benefited from in our three major research projects.
+
+
+
+               our work in historical context. Science is not done in a vacuum. We have greatly
+               benefited from work done on these topics by our predecessors as well as our con-
+               temporaries who carried out similar work on these topics (Fig. 31). Their ideas,
+               findings, and shared reagents have been critical to the success of my laboratory.
+               I wish to acknowledge Laura Lindsey-Boltz, Michael Kemp, and Rita Meganck
+               for their assistance preparing this lecture and manuscript.
+
+
+               References
+                1. Kelner, A. (1949) Effect of Visible Light on the Recovery of Streptomyces Griseus
+                   Conidia from Ultra-violet Irradiation Injury. Proceedings of the National Academy
+                   of Sciences of the United States of America 35, 73–79.
+                2. Kelner, A. (1949) Photoreactivation of Ultraviolet-Irradiated Escherichia Coli, with
+                   Special Reference to the Dose-Reduction Principle and to Ultraviolet-Induced
+                   Mutation. Journal of Bacteriology 58, 511–522.
+                3. Rupert, C. S., Goodgal, S. H., and Herriott, R. M. (1958) Photoreactivation in vitro
+                   of ultraviolet-inactivated Hemophilus influenzae transforming factor. Journal of
+                   General Physiology 41, 451–471.
+                4. Rupert, C. S. (1960) Photoreactivation of transforming DNA by an enzyme from
+                   bakers’ yeast. Journal of General Physiology 43, 573–595.
+                5. Rupert, C. S. (1962) Photoenzymatic repair of ultraviolet damage in DNA. I. Kinetics
+                   of the reaction. Journal of General Physiology 45, 703–724.
+                6. Rupert, C. S. (1962) Photoenzymatic repair of ultraviolet damage in DNA.
+                   II. Formation of an enzyme-substrate complex. Journal of General Physiology
+                   45, 725–741.
+                7. Wulff, D. L., and Rupert, C. S. (1962) Disappearance of thymine photodimer in ultra-
+                   violet irradiated DNA upon treatment with a photoreactivating enzyme from baker’s
+                   yeast. Biochemical and Biophysical Research Communications 7, 237–240.
+
+
+
+
+ook.indb 169                                                                                                 5/12/16 1:53 PM
+
+
+           170                                                                       The Nobel Prizes
+
+
+                8. Sancar, A. (1977) A study of photoreactivating enzyme (DNA photolyase) of
+                   Escherichia coli. Ph.D. Dissertation, University of Texas at Dallas.
+                9. Sancar, A., and Rupert, C. S. (1978) Cloning of the phr gene and amplification of
+                   photolyase in Escherichia coli. Gene 4, 295–308.
+               10. Sancar, A., and Sancar, G. B. (1984) Escherichia coli DNA photolyase is a flavoprotein.
+                   Journal of Molecular Biology 172, 223–227.
+               11. Sancar, A., Smith, F. W., and Sancar, G. B. (1984) Purification of Escherichia coli DNA
+                   photolyase. Journal of Biological Chemistry 259, 6028–6032.
+               12. Jorns, M. S., Sancar, G. B., and Sancar, A. (1984) Identification of a neutral flavin
+                   radical and characterization of a second chromophore in Escherichia coli DNA pho-
+                   tolyase. Biochemistry 23, 2673–2679.
+               13. Sancar, G. B., Smith, F. W., Reid, R., Payne, G., Levy, M., and Sancar, A. (1987)
+                   Action mechanism of Escherichia coli DNA photolyase. I. Formation of the enzyme-
+                   substrate complex. Journal of Biological Chemistry 262, 478–485.
+               14. Jorns, M. S., Baldwin, E. T., Sancar, G. B., and Sancar, A. (1987) Action mechanism
+                   of Escherichia coli DNA photolyase. II. Role of the chromophores in catalysis. Journal
+                   of Biological Chemistry 262, 486–491.
+               15. Sancar, G. B., Jorns, M. S., Payne, G., Fluke, D. J., Rupert, C. S., and Sancar, A.
+                   (1987) Action mechanism of Escherichia coli DNA photolyase. III. Photolysis of the
+                   enzyme-substrate complex and the absolute action spectrum. Journal of Biological
+                   Chemistry 262, 492–498.
+               16. Heelis, P. F., Payne, G., and Sancar, A. (1987) Photochemical properties of Escherichia
+                   coli DNA photolyase: selective photodecomposition of the second chromophore.
+                   Biochemistry 26, 4634–4640.
+               17. Payne, G., Heelis, P. F., Rohrs, B. R., and Sancar, A. (1987) The active form of
+                   Escherichia coli DNA photolyase contains a fully reduced flavin and not a flavin
+                   radical, both in vivo and in vitro. Biochemistry 26, 7121–7127.
+               18. Husain, I., Sancar, G. B., Holbrook, S. R., and Sancar, A. (1987) Mechanism of damage
+                   recognition by Escherichia coli DNA photolyase. Journal of Biological Chemistry 262,
+                   13188–13197.
+               19. Johnson, J. L., Hamm-Alvarez, S., Payne, G., Sancar, G. B., Rajagopalan, K. V., and
+                   Sancar, A. (1988) Identification of the second chromophore of Escherichia coli and
+                   yeast DNA photolyases as 5,10-methenyltetrahydrofolate. Proceedings of the National
+                   Academy of Sciences of the United States of America 85, 2046–2050.
+               20. Li, Y. F., and Sancar, A. (1990) Active site of Escherichia coli DNA photolyase: muta-
+                   tions at Trp277 alter the selectivity of the enzyme without affecting the quantum
+                   yield of photorepair. Biochemistry 29, 5698–5706.
+               21. Li, Y. F., Heelis, P. F., and Sancar, A. (1991) Active site of DNA photolyase: trypto-
+                   phan-306 is the intrinsic hydrogen atom donor essential for flavin radical photore-
+                   duction and DNA repair in vitro. Biochemistry 30, 6322–6329.
+               22. Kim, S. T., Heelis, P. F., Okamura, T., Hirata, Y., Mataga, N., and Sancar, A. (1991)
+                   Determination of rates and yields of interchromophore (folate—flavin) energy trans-
+                   fer and intermolecular (flavin—DNA) electron transfer in Escherichia coli photoly-
+                   ase by time-resolved fluorescence and absorption spectroscopy. Biochemistry 30,
+                   11262–11270.
+
+
+
+
+ook.indb 170                                                                                                 5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease171
+
+
+               23. Langenbacher, T., Zhao, X. D., Bieser, G., Heelis, P. F., Sancar, A., and Michel-Beyerle,
+                   M. E. (1997) Substrate and temperature dependence of DNA Photolyase repair activ-
+                   ity examined with ultrafast spectroscopy. Journal of the American Chemical Society
+                   119, 10532–10536.
+               24. Payne, G., and Sancar, A. (1990) Absolute action spectrum of E-FADH2 and E-FADH2-
+                   MTHF forms of Escherichia coli DNA photolyase. Biochemistry 29, 7715–7727.
+               25. Okamura, T., Sancar, A., Heelis, P. F., Begley, T. P., Hirata, Y., and Mataga, N. (1991)
+                   Picosecond Laser Photolysis Studies on the Photorepair of Pyrimidine Dimers by
+                   DNA Photolyase.1. Laser Photolysis of Photolyase-2-Deoxyuridine Dinucleotide
+                   Photodimer Complex. Journal of the American Chemical Society 113, 3143–3145.
+               26. Kavakli, I. H., and Sancar, A. (2004) Analysis of the role of intraprotein electron trans-
+                   fer in photoreactivation by DNA photolyase in vivo. Biochemistry 43, 15103–15110.
+               27. Sancar, A. (2003) Structure and function of DNA photolyase and cryptochrome
+                   blue-light photoreceptors. Chemical Reviews 103, 2203–2237.
+               28. Sancar, A. (2008) Structure and function of photolyase and in vivo enzymology: 50th
+                   anniversary. Journal of Biological Chemistry 283, 32153–32157.
+               29. Tan, C., Guo, L., Ai, Y., Li, J., Wang, L., Sancar, A., Luo, Y., and Zhong, D. (2014)
+                   Direct determination of resonance energy transfer in photolyase: structural align-
+                   ment for the functional state. Journal Physical Chemistry A 118, 10522–10530.
+               30. Park, H. W., Kim, S. T., Sancar, A., and Deisenhofer, J. (1995) Crystal structure of
+                   DNA photolyase from Escherichia coli. Science 268, 1866–1872.
+               31. Zhong, D. P. (2015) Electron Transfer Mechanisms of DNA Repair by Photolyase.
+                   Annual Review of Physical Chemistry 66, 691–715.
+               32. Kao, Y. T., Saxena, C., Wang, L., Sancar, A., and Zhong, D. (2005) Direct observation
+                   of thymine dimer repair in DNA by photolyase. Proceedings of the National Academy
+                   of Sciences of the United States of America 102, 16128–16132.
+               33. Liu, Z., Tan, C., Guo, X., Kao, Y. T., Li, J., Wang, L., Sancar, A., and Zhong, D. (2011)
+                   Dynamics and mechanism of cyclobutane pyrimidine dimer repair by DNA photoly-
+                   ase. Proceedings of the National Academy of Sciences of the United States of America
+                   108, 14831–14836.
+               34. Tan, C., Liu, Z. Y., Li, J., Guo, X. M., Wang, L. J., Sancar, A., and Zhong, D. P.
+                   (2015) The molecular origin of high DNA-repair efficiency by photolyase. Nature
+                   Communications 6, 7302.
+               35. Sancar, A. (1994) Structure and function of DNA photolyase. Biochemistry 33, 2–9.
+               36. Boyce, R. P., and Howard-Flanders, P. (1964) Release of Ultraviolet Light-Induced
+                   Thymine Dimers from DNA in E. Coli K-12. Proceedings of the National Academy of
+                   Sciences of the United States of America 51, 293–300.
+               37. Setlow, R. B., and Carrier, W. L. (1964) Disappearance of Thymine Dimers from
+                   DNA—Error-Correcting Mechanism. Proceedings of the National Academy of
+                   Sciences of the United States of America 51, 226–231.
+               38. Castellani, Jagger, J., and Setlow, R. B. (1964) Overlap of Photoreactivation and
+                   Liquid Holding Recovery in Escherichia coli B. Science 143, 1170–1171.
+               39. Rasmussen, R. E., and Painter, R. B. (1964) Evidence for Repair of Ultra-Violet
+                   Damaged Deoxyribonucleic Acid in Cultured Mammalian Cells. Nature 203, 1360–​
+                   1362.
+
+
+
+
+ook.indb 171                                                                                                    5/12/16 1:53 PM
+
+
+           172                                                                       The Nobel Prizes
+
+
+               40. Regan, J. D., Trosko, J. E., and Carrier, W. L. (1968) Evidence for Excision of
+                   Ultraviolet-Induced Pyrimidine Dimers from DNA of Human Cells in Vitro.
+                   Biophysical Journal 8, 319–325.
+               41. La Belle, M., and Linn, S. (1982) In vivo Excision of Pyrimidine Dimers Is Mediated
+                   by a DNA N-Glycosylase in Micrococcus-Luteus but Not in Human-Fibroblasts.
+                   Photochemistry and Photobiology 36, 319–324.
+               42. Weinfeld, M., Gentner, N. E., Johnson, L. D., and Paterson, M. C. (1986) Photoreversal-
+                   Dependent Release of Thymidine and Thymidine Monophosphate from Pyrimidine
+                   Dimer-Containing DNA Excision Fragments Isolated from Ultraviolet-Damaged
+                   Human-Fibroblasts. Biochemistry 25, 2656–2664.
+               43. Howard-Flanders, P., Boyce, R. P., and Theriot, L. (1966) Three Loci in Escherichia
+                   coli K-12 That Control Excision of Pyrimidine Dimers and Certain Other Mutagen
+                   Products from DNA. Genetics 53, 1119–1136.
+               44. Cleaver, J. E. (1968) Defective Repair Replication of DNA in Xeroderma
+                   Pigmentosum. Nature 218, 652–656.
+               45. Cleaver, J. E., and Bootsma, D. (1975) Xeroderma Pigmentosum—Biochemical and
+                   Genetic Characteristics. Annual Review of Genetics 9, 19–38.
+               46. Pettijohn, D. E., and Hanawalt, P. (1964) Evidence for Repair-Replication of
+                   Ultraviolet Damaged DNA in Bacteria. Journal of Molecular Biology 9, 395–410.
+               47. Haseltine, W. A. (1983) Ultraviolet-Light Repair and Mutagenesis Revisited. Cell
+                   33, 13–17.
+               48. Sancar, A., Hack, A. M., and Rupp, W. D. (1979) Simple Method for Identification of
+                   Plasmid-Coded Proteins. Journal of Bacteriology 137, 692–693.
+               49. Sancar, A., Wharton, R. P., Seltzer, S., Kacinski, B. M., Clarke, N. D., and Rupp, W.
+                   D. (1981) Identification of the UvrA-Gene Product. Journal of Molecular Biology
+                   148, 45–62.
+               50. Sancar, A., Clarke, N. D., Griswold, J., Kennedy, W. J., and Rupp, W. D. (1981)
+                   Identification of the UvrB-Gene Product. Journal of Molecular Biology 148, 63–76.
+               51. Sancar, A., Kacinski, B. M., Mott, D. L., and Rupp, W. D. (1981) Identification of the
+                   UvrC-Gene Product. Proceedings of the National Academy of Sciences of the United
+                   States of America 78, 5450–5454.
+               52. Sancar, A., and Rupp, W. D. (1983) A Novel Repair Enzyme—UvrABC Excision
+                   Nuclease of Escherichia coli Cuts a DNA Strand on Both Sides of the Damaged
+                   Region. Cell 33, 249–260.
+               53. Thomas, D. C., Levy, M., and Sancar, A. (1985) Amplification and Purification of
+                   Uvra, Uvrb, and Uvrc Proteins of Escherichia coli. Journal of Biological Chemistry
+                   260, 9875–9883.
+               54. Husain, I., Van Houten, B., Thomas, D. C., Abdelmonem, M., and Sancar, A. (1985)
+                   Effect of DNA Polymerase I and DNA Helicase II on the Turnover Rate of UvrABC
+                   Excision Nuclease. Proceedings of the National Academy of Sciences of the United
+                   States of America 82, 6774–6778.
+               55. Van Houten, B., Gamper, H., Hearst, J. E., and Sancar, A. (1986) Construction of
+                   DNA Substrates Modified with Psoralen at a Unique Site and Study of the Action
+                   Mechanism of ABC Excinuclease on These Uniformly Modified Substrates. Journal
+                   of Biological Chemistry 261, 14135–14141.
+
+
+
+
+ook.indb 172                                                                                                 5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease173
+
+
+               56. Van Houten, B., Gamper, H., Holbrook, S. R., Hearst, J. E., and Sancar, A. (1986)
+                   Action Mechanism of ABC Excision Nuclease on a DNA Substrate Containing a
+                   Psoralen Cross-Link at a Defined Position. Proceedings of the National Academy of
+                   Sciences of the United States of America 83, 8077–8081.
+               57. Van Houten, B., Gamper, H., Sancar, A., and Hearst, J. E. (1987) Dnase-I Footprint
+                   of ABC Excinuclease. Journal of Biological Chemistry 262, 13180–13187.
+               58. Van Houten, B., Gamper, H., Hearst, J. E., and Sancar, A. (1988) Analysis of
+                   sequential steps of nucleotide excision repair in Escherichia coli using synthetic
+                   substrates containing single psoralen adducts. Journal of Biological Chemistry 263,
+                   16553–16560.
+               59. Orren, D. K., and Sancar, A. (1989) The (a)Bc Excinuclease of Escherichia coli
+                   Has Only the Uvrb and Uvrc Subunits in the Incision Complex. Proceedings of the
+                   National Academy of Sciences of the United States of America 86, 5237–5241.
+               60. Orren, D. K., and Sancar, A. (1990) Formation and enzymatic properties of the UvrB.
+                   DNA complex. Journal of Biological Chemistry 265, 15796–15803.
+               61. Orren, D. K., Selby, C. P., Hearst, J. E., and Sancar, A. (1992) Post-Incision Steps
+                   of Nucleotide Excision Repair in Escherichia coli Disassembly of the UvrBC-DNA
+                   Complex by Helicase II and DNA Polymerase I. Journal of Biological Chemistry
+                   267, 780–788.
+               62. Lin, J. J., and Sancar, A. (1989) A New Mechanism for Repairing Oxidative Damage
+                   to DNA—(a)Bc Excinuclease Removes AP Sites and Thymine Glycols from DNA.
+                   Biochemistry 28, 7979–7984.
+               63. Lin, J. J., and Sancar, A. (1992) Active-Site of (A)BC Excinuclease .1. Evidence for 5’
+                   Incision by UvrC through a Catalytic Site Involving Asp399, Asp438, Asp466, and
+                   His538 Residues. Journal of Biological Chemistry 267, 17688–17692.
+               64. Lin, J. J., Phillips, A. M., Hearst, J. E., and Sancar, A. (1992) Active-Site of (A)BC
+                   Excinuclease .2. Binding, Bending, and Catalysis Mutants of Uvrb Reveal a Direct
+                   Role in 3’ and an Indirect Role in 5’ Incision. Journal of Biological Chemistry 267,
+                   17693–17700.
+               65. Lin, J. J., and Sancar, A. (1992) (A)BC Excinuclease—the Escherichia coli Nucleotide
+                   Excision Repair Enzyme. Molecular Microbiology 6, 2219–2224.
+               66. Sancar, A., and Hearst, J. E. (1993) Molecular Matchmakers. Science 259, 1415–1420
+               67. Sibghat, U., Sancar, A., and Hearst, J. E. (1990) The repair patch of E. coli (A)BC
+                   excinuclease. Nucleic Acids Res 18, 5051–5053.
+               68. Sancar, A., and Sancar, G. B. (1988) DNA-Repair Enzymes. Annual Review of
+                   Biochemistry 57, 29–67.
+               69. Verhoeven, E. E. A., van Kesteren, M., Moolenaar, G. F., Visse, R., and Goosen, N.
+                   (2000) Catalytic sites for 3’ and 5’ incision of Escherichia coli nucleotide excision
+                   repair are both located in UvrC. Journal of Biological Chemistry 275, 5120–5123.
+               70. Aravind, L., Walker, D. R., and Koonin, E. V. (1999) Conserved domains in
+                   DNA repair proteins and evolution of repair systems. Nucleic Acids Research 27,
+                   1223–1242.
+               71. Bohr, V. A., Smith, C. A., Okumoto, D. S., and Hanawalt, P. C. (1985) DNA-Repair in
+                   an Active Gene—Removal of Pyrimidine Dimers from the Dhfr Gene of Cho Cells
+                   Is Much More Efficient Than in the Genome Overall. Cell 40, 359–369.
+
+
+
+
+ook.indb 173                                                                                                 5/12/16 1:53 PM
+
+
+           174                                                                        The Nobel Prizes
+
+
+               72. Mellon, I., Spivak, G., and Hanawalt, P. C. (1987) Selective Removal of Transcription-
+                   Blocking DNA Damage from the Transcribed Strand of the Mammalian Dhfr Gene.
+                   Cell 51, 241–249.
+               73. Mellon, I., and Hanawalt, P. C. (1989) Induction of the Escherichia coli Lactose Operon
+                   Selectively Increases Repair of Its Transcribed DNA Strand. Nature 342, 95–98.
+               74. Selby, C. P., and Sancar, A. (1990) Transcription preferentially inhibits nucleotide
+                   excision repair of the template DNA strand in vitro. Journal of Biological Chemistry
+                   265, 21330–21336.
+               75. Selby, C. P., and Sancar, A. (1991) Gene- and strand-specific repair in vitro: partial
+                   purification of a transcription-repair coupling factor. Proceedings of the National
+                   Academy of Sciences of the United States of America 88, 8232–8236.
+               76. Selby, C. P., Witkin, E. M., and Sancar, A. (1991) Escherichia coli mfd mutant deficient
+                   in “mutation frequency decline” lacks strand-specific repair: in vitro complementa-
+                   tion with purified coupling factor. Proceedings of the National Academy of Sciences
+                   of the United States of America 88, 11574–11578.
+               77. Selby, C. P., and Sancar, A. (1993) Molecular Mechanism of Transcription-Repair
+                   Coupling. Science 260, 53–58.
+               78. Selby, C. P., and Sancar, A. (1994) Mechanisms of transcription-repair coupling and
+                   mutation frequency decline. Microbiological Reviews 58, 317–329.
+               79. Selby, C. P., and Sancar, A. (1995) Structure and Function of Transcription-Repair
+                   Coupling Factor. 1. Structural Domains and Binding Properties. Journal of Biological
+                   Chemistry 270, 4882–4889.
+               80. Selby, C. P., and Sancar, A. (1995) Structure and Function of Transcription-Repair
+                   Coupling Factor. 2. Catalytic Properties. Journal of Biological Chemistry 270,
+                   4890–4895.
+               81. Selby, C. P., Drapkin, R., Reinberg, D., and Sancar, A. (1997) RNA polymerase II
+                   stalled at a thymine dimer: footprint and effect on excision repair. Nucleic Acids
+                   Research 25, 787–793.
+               82. Sancar, A. (1994) Mechanisms of DNA excision repair. Science 266, 1954–1956.
+               83. Sancar, A., and Tang, M. S. (1993) Nucleotide Excision Repair. Photochemistry and
+                   Photobiology 57, 905–921.
+               84. Witkin, E. M. (1966) Radiation-Induced Mutations and Their Repair. Science 152,
+                   1345–1353.
+               85. Sibghatullah, Husain, I., Carlton, W., and Sancar, A. (1989) Human Nucleotide
+                   Excision Repair In vitro—Repair of Pyrimidine Dimers, Psoralen and Cisplatin
+                   Adducts by Hela Cell-Free Extract. Nucleic Acids Research 17, 4471–4484.
+               86. Huang, J. C., Svoboda, D. L., Reardon, J. T., and Sancar, A. (1992) Human nucleotide
+                   excision nuclease removes thymine dimers from DNA by incising the 22nd phospho-
+                   diester bond 5’ and the 6th phosphodiester bond 3’ to the photodimer. Proceedings
+                   of the National Academy of Sciences of the United States of America 89, 3664–3668.
+               87. Nichols, A. F., and Sancar, A. (1992) Purification of PCNA as a Nucleotide Excision
+                   Repair Protein. Nucleic Acids Research 20, 2441–2446.
+               88. Reardon, J. T., Thompson, L. H., and Sancar, A. (1993) Excision Repair in Man and
+                   the Molecular Basis of Xeroderma Pigmentosum Syndrome. Cold Spring Harbor
+                   Symposia on Quantitative Biology 58, 605–617.
+
+
+
+
+ook.indb 174                                                                                                  5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease175
+
+
+               89. Svoboda, D. L., Taylor, J. S., Hearst, J. E., and Sancar, A. (1993) DNA Repair by
+                    Eukaryotic Nucleotide Excision Nuclease—Removal of Thymine Dimer and Psoralen
+                    Monoadduct by Hela Cell-Free Extract and of Thymine Dimer by Xenopus Laevis
+                    Oocytes. Journal of Biological Chemistry 268, 1931–1936.
+               90. Huang, J. C., Zamble, D. B., Reardon, J. T., Lippard, S. J., and Sancar, A. (1994)
+                    HMG-domain proteins specifically inhibit the repair of the major DNA adduct of
+                    the anticancer drug cisplatin by human excision nuclease. Proceedings of the National
+                    Academy of Sciences of the United States of America 91, 10394–10398.
+               91. Huang, J. C., Hsu, D. S., Kazantsev, A., and Sancar, A. (1994) Substrate spectrum
+                    of human excinuclease: repair of abasic sites, methylated bases, mismatches, and
+                    bulky adducts. Proceedings of the National Academy of Sciences of the United States
+                    of America 91, 12213–12217.
+               92. Drapkin, R., Reardon, J. T., Ansari, A., Huang, J. C., Zawel, L., Ahn, K., Sancar, A.,
+                    and Reinberg, D. (1994) Dual role of TFIIH in DNA excision repair and in transcrip-
+                    tion by RNA polymerase II. Nature 368, 769–772.
+               93. Mu, D., Park, C. H., Matsunaga, T., Hsu, D. S., Reardon, J. T., and Sancar, A. (1995)
+                    Reconstitution of human DNA repair excision nuclease in a highly defined system.
+                    Journal of Biological Chemistry 270, 2415–2418.
+               94. Park, C. H., and Sancar, A. (1994) Formation of a ternary complex by human XPA,
+                    ERCC1, and ERCC4(XPF) excision repair proteins. Proceedings of the National
+                    Academy of Sciences of the United States of America 91, 5017–5021.
+               95. Matsunaga, T., Mu, D., Park, C. H., Reardon, J. T., and Sancar, A. (1995) Human
+                    DNA-Repair Excision Nuclease—Analysis of the Roles of the Subunits Involved in
+                    Dual Incisions by Using Anti-XPG and Anti-ERCC1 Antibodies. Journal of Biological
+                    Chemistry 270, 20862–20869.
+               96. Park, C. H., Bessho, T., Matsunaga, T., and Sancar, A. (1995) Purification and
+                    Characterization of the XPF-ERCC1 Complex of Human DNA Repair Excision
+                    Nuclease. Journal of Biological Chemistry 270, 22657–22660.
+               97. Mu, D., Hsu, D. S., and Sancar, A. (1996) Reaction mechanism of human DNA repair
+                    excision nuclease. Journal of Biological Chemistry 271, 8285–8294.
+               98. Matsunaga, T., Park, C. H., Bessho, T., Mu, D., and Sancar, A. (1996) Replication
+                    protein A confers structure-specific endonuclease activities to the XPF-ERCC1
+                    and XPG subunits of human DNA repair excision nucleases. Journal of Biological
+                    Chemistry 271, 11047–11050.
+               99. Reardon, J. T., Mu, D., and Sancar, A. (1996) Overproduction, purification, and char-
+                    acterization of the XPC subunit of the human DNA repair excision nuclease. Journal
+                    of Biological Chemistry 271, 19451–19456.
+               100. Mu, D., Tursun, M., Duckett, D. R., Drummond, J. T., Modrich, P., and Sancar, A.
+                    (1997) Recognition and repair of compound DNA lesions (base damage and mis-
+                    match) by human mismatch repair and excision repair systems. Molecular and
+                    Cellular Biology 17, 760–769
+               101. Bessho, T., Sancar, A., Thompson, L. H., and Thelen, M. P. (1997) Reconstitution
+                    of human excision nuclease with recombinant XPF-ERCC1 complex. Journal of
+                    Biological Chemistry 272, 3833–3837.
+               102. Reardon, J. T., Thompson, L. H., and Sancar, A. (1997) Rodent UV-sensitive mutant
+
+
+
+
+ook.indb 175                                                                                                5/12/16 1:53 PM
+
+
+           176                                                                        The Nobel Prizes
+
+
+                  cell lines in complementation groups 6–10 have normal general excision repair activ-
+                  ity. Nucleic Acids Research 25, 1015–1021.
+           103.   Mu, D., Wakasugi, M., Hsu, D. S., and Sancar, A. (1997) Characterization of reaction
+                  intermediates of human excision repair nuclease. Journal of Biological Chemistry
+                  272, 28971–28979.
+           104.   Wakasugi, M., Reardon, J. T., and Sancar, A. (1997) The non-catalytic function of
+                  XPG protein human nucleotide excision repair. Journal of Biological Chemistry 272,
+                  16030–16034.
+           105.   Wakasugi, M., and Sancar, A. (1998) Assembly, subunit composition, and footprint
+                  of human DNA repair excision nuclease. Proceedings of the National Academy of
+                  Sciences of the United States of America 95, 6669–6674.
+           106.   Wakasugi, M., and Sancar, A. (1999) Order of assembly of human DNA repair exci-
+                  sion nuclease. Journal of Biological Chemistry 274, 18759–18768.
+           107.   Reardon, J. T., Vaisman, A., Chaney, S. G., and Sancar, A. (1999) Efficient nucle-
+                  otide excision repair of cisplatin, oxaliplatin, and Bis-aceto-ammine-dichloro-
+                  cyclohexylamine-platinum(IV) (JM216) platinum intrastrand DNA diadducts.
+                  Cancer Research 59, 3968–3971.
+           108.   Bessho, T., Mu, D., and Sancar, A. (1997) Initiation of DNA interstrand cross-link
+                  repair in humans: the nucleotide excision repair system makes dual incisions 5’ to
+                  the cross-linked base and removes a 22- to 28-nucleotide-long damage-free strand.
+                  Molecular and Cellular Biology 17, 6822–6830.
+           109.   Mu, D., Bessho, T., Nechev, L. V., Chen, D. J., Harris, T. M., Hearst, J. E., and Sancar,
+                  A. (2000) DNA interstrand cross-links induce futile repair synthesis in mammalian
+                  cell extracts. Molecular and Cellular Biology 20, 2446–2454.
+           110.   Hara, R., Mo, J. Y., and Sancar, A. (2000) DNA damage in the nucleosome core is
+                  refractory to repair by human excision nuclease. Molecular and Cellular Biology 20,
+                  9173–9181.
+           111.   Hara, R., and Sancar, A. (2002) The SWI/SNF chromatin-remodeling factor stim-
+                  ulates repair by human excision nuclease in the mononucleosome core particle.
+                  Molecular and Cellular Biology 22, 6779–6787.
+           112.   Hara, R., and Sancar, A. (2003) Effect of damage type on stimulation of human
+                  excision nuclease by SWI/SNF chromatin remodeling factor. Molecular and Cellular
+                  Biology 23, 4121–4125.
+           113.   Wang, D., Hara, R., Singh, G., Sancar, A., and Lippard, S. J. (2003) Nucleotide exci-
+                  sion repair from site-specifically platinum-modified nucleosomes. Biochemistry 42,
+                  6747–6753.
+           114.   Branum, M. E., Reardon, J. T., and Sancar, A. (2001) DNA repair excision nuclease
+                  attacks undamaged DNA—A potential source of spontaneous mutations. Journal of
+                  Biological Chemistry 276, 25421–25426.
+           115.   Reardon, J. T., and Sancar, A. (2003) Recognition and repair of the cyclobutane thy-
+                  mine dimer, a major cause of skin cancers, by the human excision nuclease. Genes
+                  and Development 17, 2539–2551.
+           116.   Reardon, J. T., and Sancar, A. (2004) Thermodynamic cooperativity and kinetic
+                  proofreading in DNA damage recognition and repair. Cell Cycle 3, 141–144.
+
+
+
+
+ook.indb 176                                                                                                  5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease177
+
+
+               117. Kesseler, K. J., Kaufmann, W. K., Reardon, J. T., Elston, T. C., and Sancar, A. (2007)
+                    A mathematical model for human nucleotide excision repair: damage recognition
+                    by random order assembly and kinetic proofreading. Journal of Theoretical Biology
+                    249, 361–375.
+               118. Kulaksiz, G., Reardon, J. T., and Sancar, A. (2005) Xeroderma pigmentosum comple-
+                    mentation group E protein (XPE/DDB2): Purification of various complexes of XPE
+                    and analyses of their damaged DNA binding and putative DNA repair properties.
+                    Molecular and Cellular Biology 25, 9784–9792.
+               119. Selby, C. P., and Sancar, A. (2003) Characterization of transcription-repair coupling
+                    factors in E. coli and humans. Methods in Enzymology 371, 300–324.
+               120. Sancar, A. (1996) DNA excision repair. Annual Review of Biochemistry 65, 43–81.
+               121. Petit, C., and Sancar, A. (1999) Nucleotide excision repair: From E. coli to man.
+                    Biochimie 81, 15–25.
+               122. Sancar, A., Lindsey-Boltz, L. A., Unsal-Kacmaz, K., and Linn, S. (2004) Molecular
+                    mechanisms of mammalian DNA repair and the DNA damage checkpoints. Annual
+                    Review of Biochemistry 73, 39–85.
+               123. Sancar, A., and Reardon, J. T. (2004) Nucleotide excision repair in E. coli and man.
+                    DNA Repair and Replication 69, 43–71.
+               124. Reardon, J. T., and Sancar, A. (2005) Nucleotide excision repair. Progress in Nucleic
+                    Acid Research and Molecular Biology 79, 183–235.
+               125. Reardon, J. T., and Sancar, A. (2006) Purification and characterization of Escherichia
+                    coli and human nucleotide excision repair enzyme systems. DNA Repair, Pt A
+                    408, 189–213.
+               126. Reardon, J. T., and Sancar, A. (2006) Repair of DNA-polypeptide crosslinks by
+                    human excision nuclease. Proceedings of the National Academy of Sciences of the
+                    United States of America 103, 4056–4061.
+               127. Lindsey-Boltz, L. A., Bermudez, V. P., Hurwitz, J., and Sancar, A. (2001) Purification
+                    and characterization of human DNA damage checkpoint Rad complexes. Proceedings
+                    of the National Academy of Sciences of the United States of America 98, 11236–11241.
+               128. Bermudez, V. P., Lindsey-Boltz, L. A., Cesare, A. J., Maniwa, Y., Griffith, J. D.,
+                    Hurwitz, J., and Sancar, A. (2003) Loading of the human 9-1-1 checkpoint complex
+                    onto DNA by the checkpoint clamp loader hRad17-replication factor C complex in
+                    vitro. Proceedings of the National Academy of Sciences of the United States of America
+                    100, 1633–1638.
+               129. Choi, J. H., Lindsey-Boltz, L. A., Kemp, M., Mason, A. C., Wold, M. S., and Sancar,
+                    A. (2010) Reconstitution of RPA-covered single-stranded DNA-activated ATR-Chk1
+                    signaling. Proceedings of the National Academy of Sciences of the United States of
+                    America 107, 13660–13665.
+               130. Lindsey-Boltz, L. A., Kemp, M. G., Reardon, J. T., DeRocco, V., Iyer, R. R., Modrich,
+                    P., and Sancar, A. (2014) Coupling of human DNA excision repair and the DNA
+                    damage checkpoint in a defined in vitro system. Journal of Biological Chemistry 289,
+                    5074–5082.
+               131. Kemp, M. G., Reardon, J. T., Lindsey-Boltz, L. A., and Sancar, A. (2012) Mechanism
+                    of release and fate of excised oligonucleotides during nucleotide excision repair.
+                    Journal of Biological Chemistry 287, 22889–22899.
+
+
+
+
+ook.indb 177                                                                                                 5/12/16 1:53 PM
+
+
+           178                                                                    The Nobel Prizes
+
+
+           132. Kemp, M. G., and Sancar, A. (2012) DNA excision repair: where do all the dimers
+                go? Cell Cycle 11, 2997–3002.
+           133. Hu, J., Choi, J. H., Gaddameedhi, S., Kemp, M. G., Reardon, J. T., and Sancar, A.
+                (2013) Nucleotide excision repair in human cells: fate of the excised oligonucleotide
+                carrying DNA damage in vivo. Journal of Biological Chemistry 288, 20918–20926.
+           134. Choi, J. H., Gaddameedhi, S., Kim, S. Y., Hu, J., Kemp, M. G., and Sancar, A. (2014)
+                Highly specific and sensitive method for measuring nucleotide excision repair kinet-
+                ics of ultraviolet photoproducts in human cells. Nucleic Acids Research 42, e29.
+           135. Kemp, M. G., Gaddameedhi, S., Choi, J. H., Hu, J., and Sancar, A. (2014) DNA repair
+                synthesis and ligation affect the processing of excised oligonucleotides generated by
+                human nucleotide excision repair. Journal of Biological Chemistry 289, 26574–26583.
+           136. Choi, J. H., Kim, S. Y., Kim, S. K., Kemp, M. G., and Sancar, A. (2015) An Integrated
+                Approach for Analysis of the DNA Damage Response in Mammalian Cells:
+                Nucleotide Excision Repair, DNA Damage Checkpoint, and Apoptosis. Journal of
+                Biological Chemistry 290, 28812–28821.
+           137. Lindsey-Boltz, L. A., Kemp, M. G., Hu, J., and Sancar, A. (2015) Analysis of
+                Ribonucleotide Removal from DNA by Human Nucleotide Excision Repair. Journal
+                of Biological Chemistry 290, 29801–29807.
+           138. Hu, J., Adar, S., Selby, C. P., Lieb, J. D., and Sancar, A. (2015) Genome-wide analysis
+                of human global and transcription-coupled excision repair of UV damage at single-
+                nucleotide resolution. Genes and Development 29, 948–960.
+           139. Li, Y. F., Kim, S. T., and Sancar, A. (1993) Evidence for lack of DNA photoreactivat-
+                ing enzyme in humans. Proceedings of the National Academy of Sciences of the United
+                States of America 90, 4389–4393.
+           140. Sutherland, B. M. (1974) Photoreactivating enzyme from human leukocytes. Nature
+                248, 109–112.
+           141. Adams, M. D., Kerlavage, A. R., Fleischmann, R. D., Fuldner, R. A., Bult, C. J., Lee,
+                N. H., Kirkness, E. F., Weinstock, K. G., Gocayne, J. D., White, O., and et al. (1995)
+                Initial assessment of human gene diversity and expression patterns based upon 83
+                million nucleotides of cDNA sequence. Nature 377, 3–174
+           142. Schwartz, W. J. (1996) Internal timekeeping. Science & Medicine 3, 44–53
+           143. Malhotra, K., Kim, S. T., Batschauer, A., Dawut, L., and Sancar, A. (1995) Putative
+                blue-light photoreceptors from Arabidopsis thaliana and Sinapis alba with a high
+                degree of sequence homology to DNA photolyase contain the two photolyase cofac-
+                tors but lack DNA repair activity. Biochemistry 34, 6892–6899.
+           144. Hsu, D. S., Zhao, X., Zhao, S., Kazantsev, A., Wang, R. P., Todo, T., Wei, Y. F., and
+                Sancar, A. (1996) Putative human blue-light photoreceptors hCRY1 and hCRY2 are
+                flavoproteins. Biochemistry 35, 13871–13877.
+           145. Miyamoto, Y., and Sancar, A. (1998) Vitamin B2-based blue-light photoreceptors in
+                the retinohypothalamic tract as the photoactive pigments for setting the circadian
+                clock in mammals. Proceedings of the National Academy of Sciences of the United
+                States of America 95, 6097–6102.
+           146. Schibler, U., and Sassone-Corsi, P. (2002) A web of circadian pacemakers. Cell
+                111, 919–922.
+
+
+
+
+ook.indb 178                                                                                              5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease179
+
+
+               147. Reppert, S. M., and Weaver, D. R. (2002) Coordination of circadian timing in mam-
+                    mals. Nature 418, 935–941.
+               148. Hastings, M. H., Reddy, A. B., and Maywood, E. S. (2003) A clockwork web: circadian
+                    timing in brain and periphery, in health and disease. Nat Rev Neurosci 4, 649–661.
+               149. Partch, C. L., Green, C. B., and Takahashi, J. S. (2014) Molecular architecture of the
+                    mammalian circadian clock. Trends in Cell Biology 24, 90–99.
+               150. Thresher, R. J., Vitaterna, M. H., Miyamoto, Y., Kazantsev, A., Hsu, D. S., Petit, C.,
+                    Selby, C. P., Dawut, L., Smithies, O., Takahashi, J. S., and Sancar, A. (1998) Role of
+                    mouse cryptochrome blue-light photoreceptor in circadian photoresponses. Science
+                    282, 1490–1494.
+               151. Vitaterna, M. H., Selby, C. P., Todo, T., Niwa, H., Thompson, C., Fruechte, E. M.,
+                    Hitomi, K., Thresher, R. J., Ishikawa, T., Miyazaki, J., Takahashi, J. S., and Sancar, A.
+                    (1999) Differential regulation of mammalian period genes and circadian rhythmic-
+                    ity by cryptochromes 1 and 2. Proceedings of the National Academy of Sciences of the
+                    United States of America 96, 12114–12119.
+               152. Miyamoto, Y., and Sancar, A. (1999) Circadian regulation of cryptochrome genes in
+                    the mouse. Brain Research Molecular Brain Research 71, 238–243.
+               153. Sancar, A. (2000) Cryptochrome: the second photoactive pigment in the eye and its
+                    role in circadian photoreception. Annual Review of Biochemistry 69, 31–67.
+               154. Selby, C. P., Thompson, C., Schmitz, T. M., Van Gelder, R. N., and Sancar, A. (2000)
+                    Functional redundancy of cryptochromes and classical photoreceptors for nonvisual
+                    ocular photoreception in mice. Proceedings of the National Academy of Sciences of the
+                    United States of America 97, 14697–14702.
+               155. Sancar, A., Thompson, C., Thresher, R. J., Araujo, F., Mo, J., Ozgur, S., Vagas, E.,
+                    Dawut, L., and Selby, C. P. (2000) Photolyase/cryptochrome family blue-light pho-
+                    toreceptors use light energy to repair DNA or set the circadian clock. Cold Spring
+                    Harbor Symposia on Quantitative Biology 65, 157–171.
+               156. Thompson, C. L., Bowes Rickman, C., Shaw, S. J., Ebright, J. N., Kelly, U., Sancar,
+                    A., and Rickman, D. W. (2003) Expression of the blue-light receptor cryptochrome
+                    in the human retina. Investigative Ophthalmology and Visual Science 44, 4515–
+                    4521.
+               157. Thompson, C. L., Selby, C. P., Partch, C. L., Plante, D. T., Thresher, R. J., Araujo, F.,
+                    and Sancar, A. (2004) Further evidence for the role of cryptochromes in retino-
+                    hypothalamic photoreception/phototransduction. Brain Research Molecular Brain
+                    Research 122, 158–166.
+               158. Sancar, A. (2004) Regulation of the mammalian circadian clock by cryptochrome.
+                    Journal of Biological Chemistry 279, 34079–34082.
+               159. Thompson, C. L., Selby, C. P., Van Gelder, R. N., Blaner, W. S., Lee, J., Quadro, L., Lai,
+                    K., Gottesman, M. E., and Sancar, A. (2004) Effect of vitamin A depletion on non-
+                    visual phototransduction pathways in cryptochromeless mice. Journal of Biological
+                    Rhythms 19, 504–517.
+               160. Partch, C. L., Clarkson, M. W., Ozgur, S., Lee, A. L., and Sancar, A. (2005) Role of
+                    structural plasticity in signal transduction by the cryptochrome blue-light photore-
+                    ceptor. Biochemistry 44, 3795–3805.
+
+
+
+
+ook.indb 179                                                                                                     5/12/16 1:53 PM
+
+
+           180                                                                    The Nobel Prizes
+
+
+           161. Partch, C. L., and Sancar, A. (2005) Cryptochromes and circadian photoreception in
+                animals. Methods in Enzymology 393, 726–745.
+           162. Gauger, M. A., and Sancar, A. (2005) Cryptochrome, circadian cycle, cell cycle check-
+                points, and cancer. Cancer Research 65, 6828–6834.
+           163. Ozgur, S., and Sancar, A. (2006) Analysis of autophosphorylating kinase activities of
+                Arabidopsis and human cryptochromes. Biochemistry 45, 13369–13374.
+           164. Song, S. H., Ozturk, N., Denaro, T. R., Arat, N. O., Kao, Y. T., Zhu, H., Zhong, D.,
+                Reppert, S. M., and Sancar, A. (2007) Formation and function of flavin anion radi-
+                cal in cryptochrome 1 blue-light photoreceptor of monarch butterfly. Journal of
+                Biological Chemistry 282, 17608–17612.
+           165. Ozturk, N., Song, S. H., Ozgur, S., Selby, C. P., Morrison, L., Partch, C., Zhong, D.,
+                and Sancar, A. (2007) Structure and function of animal cryptochromes. Cold Spring
+                Harbor Symposia on Quantitative Biology 72, 119–131.
+           166. Ozturk, N., Selby, C. P., Annayev, Y., Zhong, D., and Sancar, A. (2011) Reaction
+                mechanism of Drosophila cryptochrome. Proceedings of the National Academy of
+                Sciences of the United States of America 108, 516–521.
+           167. Ozturk, N., Lee, J. H., Gaddameedhi, S., and Sancar, A. (2009) Loss of cryptochrome
+                reduces cancer risk in p53 mutant mice. Proceedings of the National Academy of
+                Sciences of the United States of America 106, 2841–2846.
+           168. Lee, J. H., and Sancar, A. (2011) Circadian clock disruption improves the efficacy
+                of chemotherapy through p73-mediated apoptosis. Proceedings of the National
+                Academy of Sciences of the United States of America 108, 10668–10672.
+           169. Sancar, A., Lindsey-Boltz, L. A., Gaddameedhi, S., Selby, C. P., Ye, R., Chiou, Y. Y.,
+                Kemp, M. G., Hu, J., Lee, J. H., and Ozturk, N. (2015) Circadian clock, cancer, and
+                chemotherapy. Biochemistry 54, 110–123.
+           170. Sancar, A., Lindsey-Boltz, L. A., Kang, T. H., Reardon, J. T., Lee, J. H., and Ozturk,
+                N. (2010) Circadian clock control of the cellular response to DNA damage. FEBS
+                Letters 584, 2618–2625.
+           171. Ye, R., Selby, C. P., Ozturk, N., Annayev, Y., and Sancar, A. (2011) Biochemical analy-
+                sis of the canonical model for the mammalian circadian clock. Journal of Biological
+                Chemistry 286, 25891–25902.
+           172. Ye, R., Selby, C. P., Chiou, Y. Y., Ozkan-Dagliyan, I., Gaddameedhi, S., and Sancar,
+                A. (2014) Dual modes of CLOCK:BMAL1 inhibition mediated by Cryptochrome
+                and Period proteins in the mammalian circadian clock. Genes and Development 28,
+                1989–1998.
+           173. Kang, T. H., Reardon, J. T., Kemp, M., and Sancar, A. (2009) Circadian oscillation of
+                nucleotide excision repair in mammalian brain. Proceedings of the National Academy
+                of Sciences of the United States of America 106, 2864–2867.
+           174. Kang, T. H., Lindsey-Boltz, L. A., Reardon, J. T., and Sancar, A. (2010) Circadian
+                control of XPA and excision repair of cisplatin-DNA damage by cryptochrome
+                and HERC2 ubiquitin ligase. Proceedings of the National Academy of Sciences of the
+                United States of America 107, 4890–4895.
+           175. Kang, T. H., Reardon, J. T., and Sancar, A. (2011) Regulation of nucleotide excision
+                repair activity by transcriptional and post-transcriptional control of the XPA protein.
+                Nucleic Acids Res 39, 3176–3187.
+
+
+
+
+ook.indb 180                                                                                              5/12/16 1:53 PM
+
+
+               Mechanisms of DNA Repair by Photolyase and Excision Nuclease181
+
+
+               176. Gaddameedhi, S., Selby, C. P., Kaufmann, W. K., Smart, R. C., and Sancar, A. (2011)
+                    Control of skin cancer by the circadian rhythm. Proceedings of the National Academy
+                    of Sciences of the United States of America 108, 18790–18795.
+               177. Gaddameedhi, S., Selby, C. P., Kemp, M. G., Ye, R., and Sancar, A. (2015) The cir-
+                    cadian clock controls sunburn apoptosis and erythema in mouse skin. Journal of
+                    Investigative Dermatology 135, 1119–1127.
+
+
+
+
+ook.indb 181                                                                                              5/12/16 1:53 PM
+

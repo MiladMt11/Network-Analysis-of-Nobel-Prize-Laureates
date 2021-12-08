@@ -1,0 +1,1197 @@
+PASSION FOR PRECISION
+Nobel Lecture, December 8, 2005
+by
+Theodor W. Hänsch
+Max-Planck-Institut für Quantenoptik, Garching, and
+Department of Physics, Ludwig-Maximilians-Universität München, Germany.
+
+
+
+
+ABSTRACT
+Optical frequency combs from mode-locked femtosecond lasers have revolu-
+tionized the art of counting the frequency of light. They can link optical and
+microwave frequencies in a single step, and they provide the long missing
+clockwork for optical atomic clocks. By extending the limits of time and fre-
+quency metrology, they enable new tests of fundamental physics laws. Precise
+comparisons of optical resonance frequencies of atomic hydrogen and other
+atoms with the microwave frequency of a cesium atomic clock are establish-
+ing sensitive limits for possible slow variations of fundamental constants.
+Optical high harmonic generation is extending frequency comb techniques
+into the extreme ultraviolet, opening a new spectral territory to precision
+laser spectroscopy. Frequency comb techniques are also providing a key to
+attosecond science by offering control of the electric field of ultrafast laser
+pulses. In our laboratories at Stanford and Garching, the development of new
+instruments and techniques for precision laser spectroscopy has long been
+motivated by the goal of ever higher resolution and measurement accuracy in
+optical spectroscopy of the simple hydrogen atom which permits unique con-
+frontations between experiment and fundamental theory. This lecture re-
+counts these adventures and the evolution of laser frequency comb tech-
+niques from my personal perspective.
+
+
+INTRODUCTION
+In our highly complex and ever changing world it is reassuring to know that
+certain physical quantities can be measured and predicted with very high pre-
+cision. Precision measurements have always appealed to me as one of the
+most beautiful aspects of physics. With better measuring tools, one can look
+where no one has looked before. More than once, seemingly minute differ-
+ences between measurement and theory have led to major advances in funda-
+mental knowledge. The birth of modern science itself is intimately linked to
+the art of accurate measurements.
+   Since Galileo Galilei and Christiaan Huygens invented the pendulum
+clock, time and frequency have been the quantities that we can measure with
+
+                                                                           149
+
+
+the highest precision. Today, it is often a good strategy to transform other
+quantities such as length or voltage into a frequency in order to make accur-
+ate measurement. This is what my friend and mentor Arthur Schawlow at
+Stanford University had in mind when he advised his students: “Never mea-
+sure anything but frequency!” Measuring a frequency, i.e. counting the num-
+ber of cycles during a given time interval, is intrinsically a digital procedure
+that is immune to many sources of noise. Electronic counters that work up to
+microwave frequencies have long been available. In 1967, the Conference
+Generale des Poids et Mesures (CGPM) has defined the second, our unit of
+time, as the period during which a cesium-133 atom oscillates 9 192 631 770
+times on a hyperfine clock transition in the atomic ground state. Today, after
+50 years of continuous refinement, microwave cesium atomic clocks reach a
+precision of 15 decimal digits [1].
+   Even much higher precision is expected from future optical atomic clocks
+which use atoms or ions oscillating at the frequency of light as the “pendu-
+lum”. By slicing time into a hundred thousand times finer intervals, such
+clocks will greatly extend the frontiers of time and frequency metrology. The
+long missing clockwork mechanism can now be realized with a femtosecond
+laser frequency comb, an ultra-precise measuring tool that can link and com-
+pare optical frequencies and microwave frequencies phase coherently in a
+single step. Laser frequency combs provide powerful tools for new tests of
+fundamental physics laws. Precise comparisons of optical resonance frequen-
+cies of atomic hydrogen and other atoms with the microwave frequency of a
+cesium atomic clock are already establishing sensitive limits for possible slow
+variations of fundamental constants. Optical high harmonic generation is ex-
+tending frequency comb techniques into the extreme ultraviolet, opening a
+new spectral territory to precision laser spectroscopy. Frequency comb tech-
+niques are also providing a key to attosecond science by offering control of
+the electric field of ultrafast laser pulses.
+   Femtosecond laser frequency combs have been highlighted in the citation
+for the 2005 Nobel Prize in Physics. Although perfected only about seven
+years ago, they have already become standard tools for precision spectroscopy
+and optical frequency metrology in laboratories around the world.
+Commercial instruments have quickly moved to the market, and extensive re-
+view articles and books have been written on frequency comb techniques [2 -
+4]. In this lecture I will try to give my personal perspective on the evolution of
+these intriguing measuring tools for time and frequency. Far from attempting
+a comprehensive review, I have selected references that helped guide my own
+insights along a winding path.
+
+
+THE DAWN OF DOPPLER-FREE LASER SPECTROSCOPY
+High resolution laser spectroscopy and precise spectroscopic measurements
+have appealed to me since I was a graduate student at the University of
+Heidelberg. For my diploma and thesis research I worked with helium-neon
+gas lasers in the group of Peter Toschek at the Institute of Applied Physics,
+
+150
+
+
+headed by Christoph Schmelzer. I was intrigued by the central narrow Lamb
+dip that Abraham Szöke and Ali Javan had first observed while scanning the
+frequency of a single-mode gas laser across the Doppler-broadened gain pro-
+file [5]. Such a dip had been predicted by Willis Lamb in his semiclassical
+laser theory [6]. Bill Bennett was the first to give a simple explanation in
+terms of saturation and spectral hole burning the two counter propagating
+waves inside the standing wave laser cavity [7]. Other researchers such as
+John Hall, Veniamin Chebotaev, or Christian Bordé soon explored “inverted
+Lamb dips” by placing some absorbing molecular gas inside the laser cavity
+[8]. With resonances of unprecedented spectral resolution, one could almost
+smell the revolution in laser spectroscopy that would unfold within the next
+few years. At that time, however, such Doppler free spectroscopy remained
+limited to the study of gas laser transitions or of a few molecular absorption
+lines in accidental coincidence. In my own work with Peter Toschek, I studied
+quantum interference effects in coupled atomic three-level systems [9, 10],
+demonstrating phenomena which have recently been recognized as impor-
+tant, such as lasing without inversion or electromagnetically induced trans-
+parency. They are also essential to understand slow light.
+   In 1970, I joined Arthur L. Schawlow at Stanford University as a postdoc.
+Collaborating in separate experiments with Peter Smith, then at Berkeley
+[11], and with Marc Levenson at Stanford [12], I perfected a new method of
+Doppler-free saturation spectroscopy that did not require the sample to be
+placed inside a laser cavity. Soon afterwards, I succeeded in making a nitro-
+gen-laser-pumped widely tunable pulsed dye laser so highly monochromatic
+that we could apply Doppler-free saturation spectroscopy to arbitrarily cho-
+sen atomic resonance lines [13, 14]. Broadly tunable laser action in liquid so-
+lutions of organic dyes had been discovered in 1966, independently by Fritz
+Schäfer [15] and Peter Sorokin [16].
+
+
+LASER SPECTROSCOPY OF ATOMIC HYDROGEN
+Arthur Schawlow at Stanford suggested to apply our technique to the red
+Balmer- line of atomic hydrogen that had been at the center of attention of
+atomic spectroscopists in the 1930s because of suspected discrepancies be-
+tween the observed line profile and the predictions of Dirac’s relativistic
+quantum theory [17]. In those days, spectroscopists could only observe a
+blend of unresolved fine structure components because Doppler broadening
+is particularly large for the light hydrogen atoms. Spectroscopy of the simple
+hydrogen atom has long played a central role in the history of atomic physics.
+The visible Balmer spectrum was the Rosetta stone that allowed us to de-
+cipher the laws of quantum physics. It has inspired the path breaking discover-
+ies of Niels Bohr, Arnold Sommerfeld, Louis De Broglie, Erwin Schrödinger,
+Paul Dirac, and even Willis Lamb at the origin of modern quantum electrody-
+namics.
+   In 1972, graduate student Issa Shahin and myself were proud to present to
+Arthur Schawlow a Doppler-free saturation spectrum of the red hydrogen
+
+                                                                           151
+
+
+Balmer- line, recorded with our pulsed tunable dye laser [18]. The 2S Lamb
+shift, i.e. the splitting between the 2S1/2 and 2P1/2 states that should be degen-
+erate according to the Dirac theory, appeared clearly resolved in the optical
+spectrum. This was the beginning of a long adventure in precision spec-
+troscopy of the simple hydrogen atom, which permits unique confrontations
+between experiment and theory. This quest continues today. It has inspired
+many advances in spectroscopic techniques, including the first proposal for
+laser cooling of atomic gases [19], and, most recently, the femtosecond laser
+frequency comb.
+   Fig. 1 illustrates how the accuracy of optical spectroscopy of atomic hydro-
+gen has advanced over time [20]. Classical spectroscopists remained limited
+to about six or seven digits of precision by the large Doppler broadening of
+hydrogen spectral lines. In 1971, our group at Stanford overcame this barrier
+by nonlinear spectroscopy with a tunable dye laser. Other groups, notably in
+New Haven, Oxford, and Paris, soon joined in to improve the accuracy by
+three orders of magnitude over the next two decades. Around 1990, a new
+barrier appeared: the limits of optical wavelength metrology due to unavoid-
+able geometric wave front errors. Progress beyond a few parts in 1010 has
+been achieved only because we have learned increasingly well how to mea-
+sure the frequency of light rather than its wavelength. In 2003, the accuracy
+has reached 1.4 parts in 1014 [21]. Further progress is becoming difficult, be-
+cause we are again approaching a barrier: the limits of how well we know our
+unit of time, the second. Cesium atomic clocks have been continually refined
+over the past 50 years [1], as shown by the dashed line in Fig. 1, but the po-
+tential for further improvements seems almost exhausted. However, our opti-
+cal frequency counting techniques make it now feasible to develop optical
+atomic clocks, based on sharp optical resonances in laser-cooled trapped
+ions, neutral atoms or molecules. With such clocks future spectroscopic mea-
+surements may reach accuracies of parts in 1018 and beyond.
+    In atomic hydrogen, the highest resolution can be achieved on the ultra-
+violet 1S-2S two-photon resonance with a natural line width of only 1 Hz. First
+order Doppler shifts cancel if this transition is excited with two counter-
+propagating laser waves, as was first pointed out by Veniamin Chebotaev [22].
+The first Doppler-free spectra have been recorded in our laboratory at
+Stanford in 1975 [23]. At Garching, we observe this resonance by collinear
+excitation of a cold hydrogen atomic beam [21]. Starting in 1986, many gen-
+erations of graduate students and postdocs have made important contribu-
+tions to advance the state of the art.
+   Today, the hydrogen atoms are produced by microwave dissociation of
+molecules and cooled to a temperature of about 6 K by collisions with the
+walls of a nozzle mounted to a helium cryostat. A collinear standing wave
+field at 243 nm for Doppler-free two-photon excitation is produced by coup-
+ling the frequency-doubled output of a dye laser into a buildup cavity inside
+the vacuum chamber. Atoms excited to the 2S metastable state after traveling
+along a path of about 10 cm are detected by applying a quenching electric
+field and counting the emitted vacuum ultraviolet Lyman- photons. The
+
+152
+
+
+Figure 1. The relative accuracy in optical spectroscopy of atomic hydrogen is charted over
+eight decades. Major barriers have been overcome in the early 1970s with the advent of
+Doppler-free laser spectroscopy and in the early 1990s with the introduction of optical fre-
+quency measurements. The accuracy of such measurement will soon be limited by the per-
+formance of cesium atomic clocks. Dramatic future advances are expected from the devel-
+opment optical atomic clocks.
+
+
+
+
+laser light is periodically blocked by a chopper, and the photon counts are
+sorted into bins corresponding to different delay times. With slow atoms se-
+lected by a delay time of 1.3 ms, the line width is now reduced to about 530
+Hz at 243 nm corresponding to a resolution of 4.3 parts in 1013. We would
+have to reach an accuracy of 5 parts in 1015 in order to measure the line posi-
+tion to 1% of this width.
+
+
+MEASURING OPTICAL FREQUENCIES
+The observation of sharp optical resonances by nonlinear laser spectroscopy
+with a resolution much beyond the measurement limits of wavelength inter-
+ferometry had long created a strong need for methods to measure the fre-
+quency rather than the wavelength of light. The quest for an optical frequency
+counter is almost as old as the laser itself. Ali Javan, the co-inventor of the he-
+lium-neon laser, was the first to superimpose the beams from two different
+lasers with a beam splitter on a photo detector to observe a beat note, similar
+to the interference of the sound waves from two tuning forks [24]. This was
+
+                                                                                       153
+
+
+an extraordinary result, because it proved that laser light can behave like a
+classical radio wave. A coherent laser wave can have a well defined phase and
+amplitude, so that it must be possible to count the ripples of such a light
+wave. However, at a frequency near 500 000 billion oscillations per second,
+there are no electronic detectors and circuits fast enough to build an optical
+frequency counter.
+   At MIT in the early 1960s, Ali Javan started a research project, aimed at ex-
+tending microwave frequency counting techniques into the optical spectral
+region. He experimented with whisker-like metal-insulator-metal point con-
+tacts as antennas, detectors and mixers for infrared laser waves. Such ele-
+ments were later used by John Hall and Ken Evenson at NBS (now NIST) in
+Boulder to realize the first harmonic laser frequency chain, that was used to
+determine the speed of light by measuring both the wavelength and the fre-
+quency of a methane-stabilized 3.39 m helium-neon gas lasers [25].
+Harmonic laser frequency chains were highly complex systems, engineered
+to measure just one particular optical frequency, and only a handful of these
+chains have ever been constructed at a number of well-equipped national
+metrology laboratories. In the early 1980s, a chain at NBS in Boulder had
+been perfected so that it could measure the frequencies of some iodine-stabi-
+lized visible helium-neon lasers to 10 decimal digits. This demonstration led
+the Conference Generale des Poids et Mesures in 1983, to redefine the meter
+by defining the speed of light in vacuum c as exactly 299 792 458 meters per
+second. One meter is then the distance traveled by light during the time of
+1/299 792 458 seconds. From now on, one could determine the precise
+wavelength of a laser in vacuum, , by simply measuring the frequency f, since
+f •  = c.
+   Unfortunately, the complex NBS frequency chain had to be abandoned
+soon after this definition was in the books, and for the next decade there was
+not a single laboratory in the U.S. that could have followed this prescription.
+A number of European laboratories did better, notably the Observatoire in
+Paris (now BNM SYRTE) and the Physikalisch-Technische Bundesanstalt
+(PTB) in Braunschweig. In an article published in early 1996 [26], a team
+from the PTB laid claim to the first phase coherent frequency measurement
+of visible radiation. An elaborate frequency chain filling three large laborato-
+ries spread over two separate buildings was assembled to compare the fre-
+quency of the red intercombination line of atomic calcium with the micro-
+wave frequency of a cesium atomic clock. To reach sufficient phase stability,
+the clock frequency was first reduced to the 100 MHz of a stable quartz oscil-
+lator. From here, the chain traversed the entire electromagnetic spectrum in
+discrete steps, always generating some harmonic frequency in a suitable non-
+linear element and producing enough power for the next step with a phase-
+locked transfer oscillator. A tricky puzzle had to be solved to reach the de-
+sired final frequency with the help of several auxiliary oscillators.
+   It was obvious that we could not afford to assemble such a harmonic laser fre-
+quency chain for our hydrogen experiments at Garching. As a simpler alterna-
+tive, I proposed a frequency interval divider chain in 1988, that worked with
+
+154
+
+
+frequency differences rather than the frequencies themselves so that one could
+stay in a convenient region of the electromagnetic spectrum such as the near
+infrared where compact diode laser sources are available [27]. The basic build-
+ing block is an interval divider stage with a laser that is servo-controlled to oscil-
+late at the precise mid-point of two input frequencies. To this end, the second
+harmonic frequency of the central laser is compared to the sum of the two in-
+put frequencies, as generated in a nonlinear optical crystal. With a cascaded
+chain of n such interval dividers, a large frequency interval can be divided by
+2n. To measure an absolute laser frequency f, one could start with the interval
+between f and its second harmonic 2f, which is just equal to the frequency f.
+After repeatedly cutting this interval in half with perhaps 15 stages, the remain-
+ing frequency gap is small enough that it can be observed as a beat note with a
+fast photo-detector and measured with a microwave frequency counter. With
+Harald Telle, who had joined us from the PTB, and Dieter Meschede, we
+demonstrated the first working interval divider in 1990 [28].
+   We never assembled a complete optical frequency counter, but we con-
+structed a chain of four interval dividers to measure a frequency interval of 1
+THz that we encountered when comparing our hydrogen 1S-2S frequency
+with the infrared frequency of a methane-stabilized infrared helium-neon
+laser at 3.39 m as the starting point of our own short harmonic laser fre-
+quency chain [29]. This intermediate frequency reference had to be repeat-
+edly shuttled to Braunschweig to be calibrated with the PTB frequency chain
+against a cesium clock. In 1997, we established a new record in optical fre-
+quency metrology [29] by determining the ultraviolet 1S-2S frequency to
+within 3.7 parts in 1013 . From this and other spectroscopic measurement in
+hydrogen, we were able to derive a new value of the Rydberg constant, the
+scaling factor for any spectroscopic transition, and the most precisely known
+of the fundamental constants. We could also derive the Lamb shift of the 1S
+ground state accurately enough to provide a stringent new test of bound-state
+QED. Assuming that QED is correct we could, moreover, determine new
+values for the rms charge radius of the proton and the structure radius of the
+deuteron [29, 30]. We were rather proud that the accuracy achieved with our
+table-top experiments exceeded that of electron scattering experiments with
+large accelerators by an order of magnitude.
+   Soon, a number of metrology laboratories set out to build optical fre-
+quency counters based on optical interval division. At Garching, we were also
+experimenting with electro-optic frequency comb generators kindly provided
+by Motonobu Kourogi, that could produce an evenly spaced comb of modu-
+lation sidebands extending over several THz [31]. A frequency counter could
+have been realized with only six or seven interval divider stages, if the final
+frequency gap was bridged with such an electro-optic comb generator.
+During an extended visit to Garching, Motonobu Kourogi showed us how to
+observe even feeble comb lines by heterodyne detection, improving the sig-
+nal to noise ratio with optical balanced receivers and variable beam splitters.
+We soon verified the accuracy of his frequency comb generator and our fre-
+quency interval divider chain in a direct comparison [32].
+
+                                                                                 155
+
+
+Figure 2. Scheme of a femtosecond laser frequency comb synthesizer.
+
+
+
+
+   Many other alternatives have been explored in the long quest for precise
+optical frequency measurements, including interferometry with modulated
+laser waves [33, 34] or frequency division with phase-locked optical para-
+metric oscillators [35]. David Wineland has proposed to synchronize the
+cyclotron motion of a single electron to a laser wave [36]. In the meantime,
+all these approaches have become obsolete. Since 1998, optical frequency
+measurements have been enormously simplified with the advent of femtosec-
+ond laser optical frequency comb synthesizers [2,3].
+
+
+FEMTOSECOND LASER OPTICAL FREQUENCY COMBS
+The scheme of a frequency comb synthesizer is rather simple, as illustrated in
+Fig. 2. At the heart is a single mode-locked femtosecond laser which main-
+tains a soliton-like short pulse circulating inside the optical cavity. This laser
+can be compared to Einstein’s Gedanken light clock. With each roundtrip,
+an attenuated copy of the light pulse escapes so that the laser emits a regular
+train of ultrashort pulses. To measure the unknown frequency of a laser wave,
+the beam and the pulse train are superimposed with a beam splitter, and a
+photo detector registers an interference signal. In the idealized case of a per-
+fectly periodic pulse train, we would expect a low frequency beat note when-
+ever the laser frequency comes close to a value where an integer number of
+oscillations fits in the time interval between two pulses. To give an example, if
+
+156
+
+
+we know that the laser emits precisely one billion pulses per second and if we
+can be sure that the laser wave oscillates precisely 500 000 times during the
+pulse repetition period, then we know that the optical frequency must be
+500 000 billion cycles per second.
+   In the frequency domain, we can argue that the coupled longitudinal
+modes of the pulsed laser form an evenly spaced comb of spectral lines. A low
+frequency beat note is expected whenever the unknown laser frequency ap-
+proaches one of these comb lines. The origin of the comb spectrum is well
+explained by Antony E. Siegman in his classic textbook [37]. Consider an ar-
+bitrary optical waveform circulating inside an optical cavity. During each
+roundtrip, an attenuated copy escapes through a partly transmitting mirror.
+A single copy will have a broad and more or less complicated spectrum.
+However, two identical copies end-to-end will produce interference fringes in
+the spectrum, somewhat reminiscent of Young’s double slit experiment.
+Three copies produce a spectrum that resembles the interference pattern of
+a triple-slit, and an infinite series of copies produces sharp lines which can be
+identified with the modes of the cavity. Mathematically, an ideal periodic
+pulse train can be described in terms of a Fourier series, and the comb lines
+correspond to the elements of this series.
+   The separation between two modes or comb lines is just equal to the repe-
+tition frequency fr. This remains true even if the pulses are not identical repli-
+cas but if we allow for a (reproducible) slip of the phase of the electromagnet-
+ic “carrier”-wave relative to the pulse envelope from pulse to pulse [38, 2, 3].
+Such phase slips are unavoidable in a real laser because of dispersion in the
+cavity. The entire comb will then be shifted relative to the integer harmonics
+of the repetition frequency fr by a carrier-envelope offset frequency fCE, that
+equals the net phase slip modulo 2 per pulse interval. The frequency of a
+comb line with integer mode number m is then given by
+
+                                  fm = m fr + fCE.
+
+Such a comb acts like a ruler in frequency space that can be used to measure
+a large separation between two different optical frequencies in terms of the
+pulse repetition rate fr. If these two frequencies are known multiples or frac-
+tions of the same laser frequency f, such a measurement reveals the optical
+frequency f itself. With a known repetition frequency fr, the beat signal be-
+tween a known optical frequency f and the nearest comb line reveals the pre-
+viously unknown offset frequency fCE. The frequency of any comb line can be
+calculated from the two radio-frequencies fr and fCE together with the integer
+mode number.
+   It has been surprising to most experts how far this frequency comb ap-
+proach can be pushed. The frequency spectrum of a femtosecond laser oscil-
+lator can be broadened in a nonlinear optical medium to span more than an
+optical octave without destroying the integrity of the comb lines. In a now
+common implementation, the pulse train from a Kerr-lens mode-locked
+Ti:sapphire laser is sent through a micro structured silica fiber, with a small
+
+                                                                              157
+
+
+solid fiber core surrounded by air-filled holes [39, 40]. The large change in re-
+fractive index at the silica-air interface permits guiding by total internal reflec-
+tion even if the incoming beam is tightly focused to a high intensity. Since part
+of the light travels as an evanescent wave in air, an additional engineering pa-
+rameter is available in such a fiber to reduce the spreading of an injected
+pulse due to group velocity dispersion. Inside the fiber, the pulse spectrum is
+broadened by self-phase modulation due to the intensity dependent refractive
+index, soliton splitting, shock wave formation, and other nonlinear optical
+processes. The emerging white light can be dispersed with a grating to form a
+rainbow of colors. However, this is not ordinary white light. Remarkably, the
+processes generating the white light can be so highly reproducible that succes-
+sive pulses are still correlated in their phases and can interfere in the spec-
+trum to form a comb of several hundred thousand sharp spectral lines.
+   By now, it has been confirmed in many experiments that the line spacing is
+very precisely equal to the repetition frequency fr. With a comb spanning
+more than an octave, it is particularly simple to measure the carrier envelope
+offset frequency fCE. One can simply select a few thousand comb lines from
+the red end of the spectrum and send the light pulses through a frequency
+doubling crystal, so that new comb lines are generated which are now dis-
+placed by twice the offset frequency fCE. A collective beat note with the corres-
+ponding original comb lines near the blue end of the spectrum directly re-
+veals the shift fCE. Once this frequency can be measured, it can be controlled,
+for instance by adjusting the dispersion in the laser cavity or simply by chang-
+ing the pump power. One can even set fCE to zero so that the frequencies of
+the comb lines become precise integer multiples of the laser repetition fre-
+quency fr.
+   So far, we have treated all light waves as classical electromagnetic waves.
+The quantum optical aspects of frequency combs, i.e. expected correlations
+in the noise due to photons and their entanglement, have not yet been ex-
+plored. Such studies may lead to a rich new field of research.
+   A laser frequency comb provides a direct link between optical frequencies
+and microwave frequencies. This link can be used in either direction. We can
+measure or control the repetition frequency fr with a cesium atomic clock to
+synthesize several hundred thousand sharp optical reference frequencies
+which are precisely known in terms of the primary standard of time. Any un-
+known frequency can then be determined by first making a wavelength mea-
+surement with a conventional wave meter that is sufficiently accurate to deter-
+mine the integer order number m of the nearest comb line. The precise
+distance from this reference line is then measured by feeding a beat signal to
+a microwave counter. In the reverse direction, we can start with a sharp opti-
+cal reference line in some cold trapped ion, cold atoms, or slow molecules,
+and lock a nearby comb line to this optical reference. All the other comb line
+frequencies are then rational multiples of the optical reference frequency,
+and the repetition frequency becomes a precisely known fraction.
+   Frequency comb synthesizers act as if we had several hundred thousand
+ultra-stable and precisely tuned lasers operating at once. With the help of
+
+158
+
+
+nonlinear sum and difference frequency generation, they can precisely mea-
+sure any frequency from radio waves to the near ultraviolet. They provide the
+long-missing clockwork for optical atomic clocks. They can even generate
+microwaves with extreme phase stability [41]. As sources of phase-stabilized
+femtosecond pulses they have even given us a key to the intriguing field of
+attosecond science [42]. With their electronic servo controls, frequency-
+comb synthesizers can be relatively simple, robust, and increasingly user-
+friendly devices.
+
+
+THIS IS A SIMPLE IDEA! WHAT TOOK SO LONG?
+In hindsight, the ideas behind the optical frequency comb look rather simple
+and almost obvious. Why did all the experts, including our own laboratory,
+struggle for so long with much more cumbersome harmonic laser frequency
+chains?
+   The main reason may be that nobody believed seriously that such an ap-
+proach could actually work. There were good arguments why it should be im-
+possible to bridge the gap between radio frequencies and optical frequencies
+in a single step. The phase noise of even the best quartz oscillator is so large
+that any comb structure would be completely washed out if one could some-
+how multiply its frequency up into the visible region. In a harmonic fre-
+quency chain, the intermediate transfer oscillators act as phase noise filters
+and electromagnetic “flywheels” to overcome this “coherence collapse” [43].
+   Another reason may be that two separate scientific communities have
+evolved since the early days of laser science. People interested in precise high
+resolution spectroscopy used their ingenuity to perfect the frequency stabili-
+ty of continuous wave lasers. On the other side, there were people who in-
+vented clever techniques to produce ever shorter pulses with mode-locked
+lasers. They applied their spectrally broad light flashes to the study of ultra-
+fast phenomena in semiconductors, liquids, or in chemical reaction dynamics
+or to generate ever higher peak intensities for experiments in plasma physics.
+These two communities went to their own separate conferences, and neither
+side felt a strong need to keep track of the other frontier.
+   For our own work, I cannot hide behind this latter excuse. I knew since the
+early experiments with multi-mode helium-neon lasers [44] that the longitu-
+dinal modes of a laser are well defined and their phases can be coupled so as
+to produce a short light pulse circulating inside the cavity [45, 46]. Much
+shorter pulses were produced some years later with broadband dye lasers by
+locking their axial modes with the help of a saturable absorber or by syn-
+chronous pumping with a modulated argon laser [47]. At Stanford in the
+mid-seventies, I became intrigued by the idea of high resolution spectroscopy
+of atomic resonance lines by Ramsey-like excitation with a coherent train of
+multiple light pulses [48]. Resonant excitation with separated light pulses has
+also been explored at the time by Michael Salour at MIT [49] and by Venia-
+min Chebotaev at Novosibirsk [50]. After initial encouraging experiments
+with a dye laser pulse injected into a passive cavity [48], our group at Stanford
+
+                                                                             159
+
+
+with graduate student Jim Eckstein and visiting Lindemann Fellow Allister
+Ferguson demonstrated that a synchronously pumped mode-locked picosec-
+ond dye laser could produce a stable phase coherent pulse train which we
+used for Doppler-free two-photon excitation of atomic sodium [51]. The
+comb lines served as a frequency ruler to measure some atomic fine structure
+intervals. To improve the precision, we replaced the original radio frequency
+driver for the modulator of our argon pump laser with a high quality fre-
+quency synthesizer. Much to our delight, the performance of the dye laser im-
+proved so much that we were the first to generate sub-picosecond pulses di-
+rectly from a synchronously pumped dye laser [52]. At that time we should
+have learned an important lesson: what is good for frequency stability is also
+good for the generation of ultrashort light pulses! We later explored
+Doppler-free polarization spectroscopy with our frequency comb [53], as well
+as two-photon spectroscopy with the frequency comb of an FM mode-locked
+laser where the phases of the modes adjust so that the intensity remains con-
+stant but the frequency is sweeping back and forth periodically [54].
+    During the Stanford experiments, we were painfully aware that we could
+not know the absolute positions of our comb lines because the dispersion in-
+side the laser resonator would lead to unknown phase slips of the carrier
+wave relative to the pulse envelope. Such phase slips shift the entire comb
+spectrum by an unknown amount fCE, as worked out in considerable detail in
+the 1978 Stanford Ph.D. thesis of Jim Eckstein [38]. With a comb spectrum
+spanning only 800 GHz, we had no means to observe and measure the offset
+frequency fCE. Therefore, we did not know how to measure absolute optical
+frequencies with our laser frequency combs in the late seventies.
+   The idea of somehow generating much broader frequency combs surfaced
+again in my mind after I had moved back to Germany in 1986. In 1990, I pub-
+lished a proposal for a synthesizer of sub-femtosecond pulses that would
+superimpose the frequencies from separate phase-locked cw laser oscillators
+to form a very wide comb [55]. In the early 1990s, the technology of ultrafast
+lasers advanced dramatically with the discovery of Kerr-lens mode locking by
+Wilson Sibbett at the University of St. Andrews [56]. Soon, commercial
+Ti:sapphire femtosecond lasers became available, that made the generation
+of ultrashort light pulses much easier. Intrigued by these new sources I dis-
+cussed with Peter Lambropoulos at Garching the possibility of finding some
+highly nonlinear effect, such as above-threshold-ionization (ATI) , that would
+depend on the phase of the electric field relative to the pulse envelope and
+could reveal the offset frequency fCE of the laser comb lines. Calculations
+soon showed that such effects would be observable only for pulses lasting at
+most a few optical cycles [57]. Today, such sources have become available,
+and the phase dependence of ATI has since been demonstrated by Gerhard
+Paulus and Herbert Walther [58]. In 1994, I also discussed the problem of
+the carrier-envelope phase slips with Ferenc Krausz at the Technical
+University of Vienna. His group was the first to observe such pulse-to-pulse
+phase slips in an interferometric correlation experiment in 1996 [59].
+   I remember a trade show in 1994, when I was captivated by an exhibit of a
+
+160
+
+
+(Coherent Mira) mode-locked Ti:sapphire femtosecond laser with regenera-
+tive amplifier. The laser beam was focused into a glass slide to produce a
+white light continuum which a prism dispersed into a rainbow of colors. Such
+white light pulses are produced by a combination of self-focusing, self phase
+modulation, and other nonlinear processes, and they have been used for a
+long time in ultrafast pump-probe experiments [60]. A striking feature was
+the laser-like speckle pattern in the rainbow colors which indicated a high de-
+gree of spatial coherence. It occurred to me that such a system might pro-
+duce an octave-spanning frequency comb if the phases of successive pulses
+were sufficiently correlated. Such a wide comb could then be used as a ruler
+to measure the large interval between a laser frequency and its second har-
+monic, which must be equal to the laser frequency itself. Even though the
+pulse repetition frequency of a few hundred kHz remained inconveniently
+low for frequency comb experiments, I felt sufficiently intrigued to acquire
+such a system for our frequency metrology laboratory at Garching in 1994. In
+the back of my mind I had the hope that it might somehow be possible to
+produce white light directly with the pulses from the laser oscillator, without
+the regenerative amplifier with its much lower pulse rate, by sending the
+pulse train into a small waveguide made from some highly nonlinear optical
+material, so that it would not be necessary to reach the threshold power for
+self-focusing.
+   We did not pursue the femtosecond laser approach seriously right away, be-
+cause we had come quite far in perfecting our alternative scheme of optical
+interval division. An accurate measurement of the 1S-2S frequency seemed al-
+most within reach. We also felt that we would need an independent tool to
+verify any measurement with a femtosecond laser frequency comb, since the
+frequency metrology community would otherwise distrust our results. The
+hydrogen measurements were finally completed in 1997 [29, 30].
+   In February 1997, I visited the European Laboratory for Nonlinear
+Spectroscopy, LENS, in Florence, Italy. There, Marco Bellini was working with
+an amplified Ti:sapphire femtosecond laser producing pulses of 1 mJ energy
+at a rate of 1 kHz. As is common in many ultrafast laboratories, he produced
+a white light continuum for pump-probe experiments by focusing part of the
+laser beam into a thin plate of CaF2. I asked what would happen if we split the
+laser beam in two parts and focus these beams at two spatially separate spots.
+Would the two white light pulses interfere?
+   In an earlier joint experiment at the Lund Laser Center, we had investigat-
+ed the same question for the generation of high harmonic radiation in a gas
+jet [61]. From that time, Marco Bellini still had a Michelson interferometer
+on his shelve that we could quickly place into the laser beam, somewhat mis-
+aligned so that two beams would escape in two slightly different directions. By
+adjusting the length of one arm we could make sure that the two focused
+pulses arrived on the CaF2 plate at precisely the same time. I felt electrified
+when we observed stable interference fringes of high contrast for all the
+colors that I could record with my handheld camcorder electronic notebook,
+as shown in Fig. 3 [62]. The white light pulses had to be phase-locked to the
+
+                                                                           161
+
+
+Figure 3. Interference fringes between two white light pulses [Ref. 62].
+
+
+
+
+driving laser field! No matter how complicated the process of white light con-
+tinuum generation might be, the process was reproducible. If such pulses
+were separated in time rather than in space, they would interfere in the spec-
+trum to produce a very broad frequency comb.
+    By March 30, 1997, I had written a confidential 6-page proposal for a uni-
+versal optical frequency comb synthesizer “…which produces a wide comb of abso-
+lutely known equidistant marker frequencies throughout the infrared, visible, and ultra-
+violet spectral range. To this end, a white light continuum with a pulse repetition rate
+fr is produced by focusing the output of a mode-locked femtosecond laser into an optical
+fiber or bulk medium with a third order nonlinear susceptibility. The rate of phase slip-
+page of the laser carrier relative to the pulse envelope, fCE, is monitored by observing a
+beat signal between the white light continuum and the second harmonic of the laser.”
+The envisioned self-referencing scheme could find the carrier-envelope off-
+set frequency fCE without any auxiliary laser. I asked Thomas Udem and
+Martin Weitz in our laboratory to witness and sign every page on April 4,
+1997, since this might become important for later patent applications.
+    At Garching, we soon started a serious experimental effort towards optical
+frequency measurements with femtosecond laser frequency combs. Even if
+we did not yet know how to broaden the spectrum of our Mira laser oscillator
+to more than an optical octave, we could always follow the 1988 proposal [27]
+and measure the frequency of the dye laser in our hydrogen spectrometer by
+implementing a short chain of two or three interval divider stages, using
+small semiconductor lasers, to arrive at a frequency gap that could be bridged
+with our laser comb. Propelled by such visions, Thomas Udem and Jörg
+Reichert investigated the frequency comb spectrum of the Mira femtosecond
+
+162
+
+
+laser. They were later joined by Ronald Holzwarth. By that time, hundreds of
+such lasers were in use in laboratories around the world, but they were most-
+ly used to study ultrafast phenomena. Nobody had ever looked for any comb
+lines, as far as we could tell. With a repetition frequency of 76.5 MHz, the
+comb spectrum of our femtosecond laser was so densely spaced that no spec-
+trometer in our laboratory could resolve the comb lines. Therefore, we re-
+sorted to heterodyne detection, employing a cw diode laser as a local oscilla-
+tor. The diode laser beam and the pulse train were superimposed with a
+beam splitter, and a beat signal was detected with an avalanche photodiode
+after some spectral filtering. After paying attention to the mechanical stabili-
+ty of the femtosecond laser, we could observe stable comb lines. Next, we in-
+vestigated the spacing of these lines. We phase-locked two diode lasers to two
+arbitrarily chosen comb lines and used an optical interval divider stage to
+produce a new frequency precisely at the center. A beat note with the nearest
+comb line confirmed, much to our delight, that the comb lines were perfect-
+ly evenly spaced, way out into the wings of the emission spectrum, within a
+few parts in 1017 [63].
+   It was now certain that the frequency comb of such a mode-locked femto-
+second laser did not suffer from “coherence collapse” and could serve as a
+ruler in frequency space to measure large optical frequency intervals. In a
+first demonstration of an optical frequency measurement with a femtosecond
+laser comb, we determined the frequency interval between the cesium D1
+resonance line and the fourth harmonic of a transportable CH4-stabilized
+3.39 µm He-Ne-laser, which had been calibrated with a harmonic laser fre-
+quency chain at the PTB Braunschweig [64]. The optical cesium frequency
+was needed for a determination of the fine structure constant  from the
+atomic recoil energy as measured by atom interferometry in the group of
+Steve Chu at Stanford. Soon these experiments found a considerable reso-
+nance in newspapers and journals. They demonstrated to the optical fre-
+quency metrology community that femtosecond laser frequency combs could
+be powerful tools to measure the frequency of light.
+   We next turned to the more ambitious goal of measuring the absolute op-
+tical frequency of our 486 nm dye laser in the hydrogen 1S-2S spectrometer.
+At that time, we had broadened the frequency comb of our mode-locked
+laser oscillator by self-phase-modulation in a short length of ordinary optical
+fiber to span 60 or 70 THz. Rather than building a few new interval divider
+stages, we recognized a more expedient approach for a first proof-of-princip-
+le experiment. Our hydrogen spectrometer [29] required only minor modi-
+fications to produce two different fractional subharmonics, 4/7 and 1/2, of
+the dye laser frequency, which we could bridge with our femtosecond laser
+comb [65, 66]. The CH4-stabilized helium neon laser served now as part of an
+interval divider and no longer as an intermediate reference standard. The
+primary reference for our first absolute frequency measurements was a com-
+mercial HP cesium atomic beam clock which we used to determine the pulse
+repetition rate fr and the carrier-envelope offset frequency fCE [65]. Once the
+optical frequency gap was measured, we knew the absolute frequency of the
+
+                                                                            163
+
+
+dye laser as well as the absolute frequencies of all the comb lines. To control
+the position of the comb lines, we learned how to change the frequency fCE of
+our Mira Ti:sapphire laser by tilting an end mirror where the spectrum is
+slightly dispersed by a prism pair inside the cavity. In this way, we were the first
+to generate femtosecond laser pulses with controlled slips of the carrier-enve-
+lope phase.
+   In October 1998 we proudly showed our experiment to Norman Ramsey,
+who had come to the Max-Planck-Institute as a member of the Scientific
+Advisory Board. For the first time, we could compare the hydrogen 1S-2S fre-
+quency directly with a cesium atomic clock in our own laboratory, without in-
+volving any large harmonic laser frequency chain. Later in the same year, we
+demonstrated our experiment to John Hall who had come to Munich to at-
+tend a meeting commemorating our mutual friend Veniamin Chebotaev.
+John soon became an ardent evangelist for “this goofy technique, that makes
+everything obsolete that we have worked on for so long.” He started to assem-
+ble a powerful professional team in Boulder to advance research on femto-
+second laser frequency combs, and he persuaded his colleague Steve Cundiff
+at JILA, an expert on femtosecond lasers from Bell Laboratories, to visit our
+laboratory in the spring of 1999. An increasingly heated competition did
+much to accelerate the development of the new tools in the coming months
+and to ignite a firework of novel applications in the years to follow [3].
+   Until the summer of 1999, we had felt as if the new femto-comb playing
+ground belonged just to us. Thomas Udem had reported on our experiments
+at a conference in Perth, Australia, in late 1998 [43]. But we had delayed pub-
+lications such as a first article on “measuring the frequency of light with
+mode-locked lasers” [67] to appear after the filing of our first patent applica-
+tion in March 1999 because, according to German law, an invention can no
+longer be patented once it has been published.
+   In June 1999, we could directly compare the hydrogen frequency with a
+highly accurate transportable cesium fountain clock (PHARAO), built at the
+LPTF (now BNM SYRTE) in Paris [66]. This measurement yielded a new value
+of the hydrogen 1S-2S frequency accurate to 1.8 parts in 1014, surpassing all
+earlier optical frequency measurements by more than an order of magnitude.
+By now, the compelling advantages of laser frequency combs had been clear-
+ly demonstrated. A number of different possible approaches for carrier-envel-
+ope offset phase control were soon proposed [68].
+   As a next step in our own work, we wanted to drastically simplify our setup.
+Around that time, a new tool had appeared on the horizon that made it like-
+ly that we would no longer need any optical interval dividers. At the CLEO
+conference at Baltimore, MD, held in May 1999, researchers from Bell
+Laboratories had reported on a novel micro-structured “rainbow fiber” that
+could broaden the spectrum of pulses of a Ti:sapphire femtosecond laser os-
+cillator without further amplification to a rainbow of colors [40]. After the
+white light interference experiments in Florence [62], I felt rather confident
+that this magic fiber would preserve the phase coherence of successive pulses
+and produce comb lines with a desirable large frequency spacing.
+
+164
+
+
+   In June 1999, John Hall came to Germany to participate in the annual re-
+treat of our research group at the Ringberg Castle near the Tegernsee south
+of Munich. Together, we phoned many of our old friends at Bell
+Laboratories, to try and obtain a sample of the magic fiber. We were hoping
+that we could demonstrate an octave-spanning frequency comb while John
+Hall was still in Germany. Unfortunately, this plan was foiled by the lawyers at
+Lucent Technologies who did not allow the fiber to leave Bell Laboratories.
+Ronald Holzwarth traveled to Bell Laboratories at Holmdel, NJ, during his
+1999 summer vacation, but he had to leave without a piece of the fiber. John
+Hall’s team in Boulder experienced similar difficulties at first, but in October
+1999, they could demonstrate the first octave-spanning self-referencing laser
+frequency comb after finally securing some of the holey fiber [69, 70]. At
+Garching we realized a similar comb system a few weeks later [71], after we
+had received some “photonic crystal fiber” from the group of Philip Russell at
+the University of Bath in the UK. We had found out too late that these British
+researchers had actually pioneered micro-structured silica fibers some years
+earlier [39]. Both laboratories submitted their first short publications on oc-
+tave-spanning frequency combs on the same day (Nov. 12, 1999) to the
+CLEO/QELS 2000 conference in San Francisco.
+   Similar to the Boulder experiments, we used a commercial small Ti:sap-
+phire ring laser for our first octave-spanning frequency comb, producing
+pulses of about 25 fs duration at a repetition frequency of 625 MHz.
+Launching about 170 mW into a 30 cm length of photonic crystal fiber, we
+immediately produced a frequency comb spanning more than an octave.
+The spectrum showed a complicated structure, with valleys and peaks, but it
+offered useable comb lines everywhere. Together with a nonlinear interfero-
+meter for control of the offset frequency fCE , the entire optical setup did eas-
+ily fit on a single breadboard. While the traditional harmonic frequency
+chains with their factory halls full of lasers could measure just one single op-
+tical frequency, our new system was ready to measure any frequency through-
+out the visible and near infrared.
+   Since then, Ti:sapphire femtosecond lasers have been developed that pro-
+duce an octave-spanning spectrum directly from the oscillator, without any
+need for external spectral broadening [72]. Octave spanning combs can also
+be generated with erbium-doped fiber lasers [73], pumped by very reliable
+and robust laser diodes developed for telecommunications. As turn-key in-
+struments, such fiber comb generators can run for months without human
+attention.
+   In a first stringent test, Ronald Holzwarth has compared an octave span-
+ning frequency comb synthesizer with the more complex frequency synthe-
+sizer used in the 1999 hydrogen frequency measurement [71]. By starting
+with a common 10 MHz radiofrequency reference and comparing comb lines
+near 350 THz, he could verify agreement within a few parts in 1016, limited by
+Doppler shifts due to air pressure changes or thermal expansion of the opti-
+cal tables. In 2002, a group at the PTB in Braunschweig demonstrated how a
+femtosecond laser frequency comb generator can be used as a transfer oscil-
+
+                                                                             165
+
+
+lator to precisely measure optical frequency ratios [74]. As a test case, they
+measured the frequency ratio between the second harmonic of a Nd:YAG
+laser and the fundamental frequency, verifying the expected value of 2 with
+an uncertainty of 7 parts in 1019. More recently, Marcus Zimmermann in our
+laboratory has pushed a related experiment to an uncertainty of 6 parts in
+1021 [75]. In 2004, researchers in Boulder compared four different frequency
+combs from different laboratories, finding agreement between neighboring
+comb lines at an uncertainty level of 10-19 [76]. So far, no systematic error has
+been identified which would limit the potential accuracy of future precision
+spectroscopy or optical atomic clocks.
+
+
+NEW FREQUENCY MEASUREMENT OF HYDROGEN 1S-2S IN 2003:
+ARE THE FUNDAMENTAL CONSTANTS CONSTANT?
+In February 2003, we used an octave spanning comb synthesizer in a new
+measurement of the hydrogen 1S-2S transition frequency [21]. Marc Fischer
+and Nikolai Kolachevsky had implemented many improvements in the hydro-
+gen spectrometer. Light from the dye laser was sent through a fiber into the
+frequency metrology laboratory, where an octave-spanning Ti:sapphire
+femtosecond laser frequency comb synthesizer was used to compare the opti-
+cal frequency to the radio frequency of the Paris PHARAO atomic fountain
+clock, which had again been brought to Garching.
+   With such immediate absolute frequency calibration, the hydrogen spec-
+troscopy could be performed with much confidence. Compared to the 1999
+measurements, the statistical error of the data recorded on a given day was
+much reduced. Nonetheless, the day-to-day fluctuations of our measurements
+remained of similar magnitude as before. They indicate some uncontrolled
+systematic errors. After careful further experiments probing for possible causes
+of systematic line shifts and after a thorough statistical analysis of all record-
+ed data, we believe that the fluctuations are caused by some residual small first
+order Doppler shifts. Such shifts are expected if the two counter-propagating
+wave fronts of the exciting 243 nm radiation do not match perfectly. A mis-
+match may be caused by imperfect mode-matching of the frequency-doubled
+dye laser beam that enters the build-up cavity inside the atomic beam appara-
+tus through a 2% input coupling mirror. Another cause may be the accumula-
+tion of frozen molecular hydrogen on the walls of the cold copper nozzle for
+the hydrogen atomic beam, which can grow until it distorts the optical wave
+fronts by vignetting and diffraction. A second cause of systematic line shifts in
+two-photon spectroscopy with frequency-doubled laser light may be unwanted
+correlations between amplitude noise and phase noise that could be caused by
+imperfect servo-locks of the enhancement cavities. For the future, we are
+preparing an ultraviolet build-up cavity of higher finesse, and we are working
+towards an all-solid-state laser source with a line width of only a few Hz.
+   From the 2003 measurement, we find a frequency of 2 466 061 102 474 851
+± 34 Hz for the F=1 to F’=1 hyperfine component of the hydrogen 1S-2S fre-
+quency, with a relative uncertainty of 1.4 parts in 1014. The new results agrees
+
+166
+
+
+within the error limits with the 1999 measurement of 2 466 061 102 474 880
+± 46 Hz. A difference of 29 ± 57 Hz in 44 months corresponds to a relative
+drift of the 1S-2S transition frequency of (3.2 ± 6.3)  10-15 per year, i.e. it is
+compatible with zero drift.
+   This experiment has attracted some attention because it can be considered
+as a test for a possible slow variation of the electromagnetic fine structure
+constant . During the 2003 experiment, theorist Harald Fritzsch called fre-
+quently to get some preliminary results, because he had predicted an observ-
+able drift of the microwave frequency of the cesium clock relative to the hy-
+drogen frequency [77]. Starting point for his arguments were astronomical
+observations of spectral lines in the light of distant quasars performed at the
+Keck Observatory [78]. Differential red shifts seemed to suggest that the elec-
+tromagnetic fine structure constant  in the early universe was somewhat
+smaller than today. Making the simplest assumption of a linear drift, the data
+would indicate a drift of (6.4 ± 1.35)  10-16 per year, too small to be observ-
+able in our laboratory experiment. However, Fritzsch had argued with ideas
+from grand unification and quantum chromodynamics that  cannot change
+simply by itself. If all known forces are to remain unified at very high ener-
+gies, other coupling constants must change as well. As a result, the masses
+and magnetic moments of hadrons (in units of the Bohr magneton) should
+change relative to those of the electron. Fritzsch pointed out a possible mag-
+nifying effect, that could change the hyperfine transition frequency of the ce-
+sium atomic clock about 20 times faster than the optical hydrogen frequency.
+So far, we have not found any evidence for such a drift. There are also other
+more recent observations of quasar spectra that do not support the evidence
+for a changing fine structure constant [79].
+   Regardless of such speculations, we have to admit that the hydrogen mea-
+surements of 1999 and 2003 do not strictly rule out a changing fine structure
+constant . It is conceivable that the magnetic moment of the cesium nucle-
+us also changes at just the right rate to give a null result in our experiment.
+Fortunately, such measurements are not limited to hydrogen. One can also
+measure transition frequencies in heavier atoms with stronger relativistic ef-
+fects that respond in a different way to changes in . One such candidate is
+the clock transition in a single cold Hg+ ion, that has been compared by Jim
+Bergquist and his team at Boulder with a cesium atomic clock in 2000 and
+2002, also using a laser frequency comb [80]. In addition, Eckhard Peik and
+his team at the PTB have made two separate measurements of the clock tran-
+sition in a single Yb+ ion [81]. Together, these laboratory experiments give
+now some upper limits for the possible rates of change of the fine structure
+constant  and the cesium nuclear magnetic moment Cs on the order of
+(–0.3 ± 2.0)  10-15 per year and (2.4 ± 6.8)  10-15 per year, respectively.
+   Within the next few years we can expect much more stringent experimen-
+tal limits on possible variations of physical constants from such laboratory ex-
+periments. If we found such changes it would not have any consequences for
+our everyday lives, but it would give reason for fascinating speculations about
+the nature of the universe.
+
+                                                                               167
+
+
+OPTICAL ATOMIC CLOCKS
+Sensitive limits for the variations of fundamental constants will be established
+in the comparison of different types of optical atomic clocks that are now be-
+ing developed by strong professional teams in many industrialized countries.
+The perfection of optical frequency standards has been progressing at a
+much more rapid pace than that of microwave cesium clocks [82]. With the
+femtosecond laser comb now available as a perfect clockwork mechanism,
+the efforts must concentrate on ever more perfect laser frequency stabiliza-
+tion and on the management of systematic line shifts in precision spec-
+troscopy of narrow optical resonances that serve as the “pendulum” of optical
+clocks. Much progress has already been made in experiments with cold
+trapped ions, notably Hg+, Yb+, In+, and Sr+. Cold neutral atoms such as H,
+Ca, or Sr are also appealing candidates because many atoms can be observed
+simultaneously without disturbing Coulomb repulsion, improving the signal-
+to-noise ratio and the speed with which a resonance frequency can be estab-
+lished. A particularly promising approach has been proposed by Hidetoshi
+Katori [83]. In his neutral atom clock, many cold neutral Sr atoms are cap-
+tured in the microscopic dipole force potential wells of an optical lattice.
+Light shifts are minimized by choosing a proper “magic” wavelength of the
+lattice field. In 2005, the accuracy of the best optical frequency standards has
+become comparable to that of the best cesium fountain clocks. But even if
+they are not yet more accurate, optical frequency standards offer one impor-
+tant advantage already. It takes hours or days to compare two cesium clocks to
+a part in 1015. Two optical frequencies can be compared to this level within
+just seconds.
+   It is interesting to look at the historical evolution of the accuracy of clocks.
+The clocks in medieval church towers were only good to about 20 minutes
+per day. In the 18th century, the nautical clock H4 of the legendary watch-
+maker John Harrison reached an accuracy of some 100 msec per day. The
+best primary cesium fountain clocks of today can be accurate to within 100
+psec per day. Some experts hope that optical atomic clocks will reach a hun-
+dred or thousand fold higher accuracy within the next decade.
+   Better atomic clocks will be enabling tools for many scientific and technical
+applications, so that this pursuit will be worthwhile even if we do not discover
+any changes of fundamental constants. They can extend the frontiers of pre-
+cision spectroscopy and of time and frequency metrology. They will make it
+possible to precisely synchronize clocks over large distances. In astronomy,
+such synchronized clocks may allow an extension of large baseline interfero-
+metry to infrared and optical wavelengths. Better clocks can improve the per-
+formance of satellite navigation systems and the tracking of probes in deep
+space. Accurate clocks are also needed to synchronize optical telecommuni-
+cation networks. In fundamental physics, more accurate clocks will permit
+more stringent tests of special and general relativity, as well as other funda-
+mental laws.
+
+
+
+168
+
+
+TOWARDS FREQUENCY COMBS IN THE EXTREME ULTRAVIOLET
+So far, we have not discovered any fundamental limits for the potential accur-
+acy of future clocks. It should even be possible to extend frequency comb
+techniques into the extreme ultraviolet and soft X-ray spectral regions, so
+that we would be able to slice time into still much finer intervals. High har-
+monic radiation that is generated when an intense femtosecond laser pulse is
+focused into a gas jet can be harnessed to produce coherent pulse trains at
+such wavelengths.
+   Since the pioneering work of Charlie Rhodes [84] and Anne L’Huiller
+[85] in the late 1980s, high harmonic generation has been studied in many
+laboratories. In a simple model first proposed by Paul Corkum [86], gas
+atoms are field ionized and the electrons are accelerated by the strong laser
+field until the light field reverses direction. Dependent on the time of escape,
+such electrons can return to the ion core with substantial kinetic energy
+which they can radiate in the form of energetic photons, with one burst emit-
+ted during each half cycle of the driving laser wave.
+   The mutual phase coherence of short pulses was much on my mind when
+I visited the high harmonic experiments of Anne L’Huiller and Claes Göran
+Wahlström at the Lund Laser Center in 1995. I wondered if two successive
+high harmonic pulses would be mutually phase coherent. As a test I proposed
+to split the driving laser beam into two parts that could be focused into the
+gas jet at separate spots, and to look for interference fringes in the high har-
+monic radiation, similar to the later white light experiments at Florence [62].
+At first, there seemed to be good reasons why this was not to be expected, be-
+cause the phase of the harmonic radiation should depend strongly on the
+varying intensity of the driving laser pulse. But after I left, graduate student
+Raoul Zerne tried the experiment and observed some fleeting interference
+fringes. With much excitement, we scheduled some serious joint experiments
+at Lund. Marco Bellini from LENS agreed to participate and to construct a
+stable Michelson interferometer so that the timing of the two laser pulses
+could be finely adjusted. We soon observed clean interference fringes of high
+contrast up to the 15th harmonic and beyond [61]. In a subsequent experi-
+ment we even discovered a regime where the harmonic beam was surround-
+ed by a divergent halo beam of very short coherence length. This behavior
+could be explained in terms of two different electron trajectories that can
+contribute to a given harmonic photon energy [87].
+   These results demonstrate that high harmonic pulses can be mutually
+phase coherent so that a regular train of such pulses could form a frequency
+comb in the extreme ultraviolet. However, the necessary peak intensities of
+the order of 1014 W/cm2 could only be produced with amplified femtosecond
+laser systems of low repetition frequency. Very recently, Christoph Gohle and
+Thomas Udem at Garching have succeeded in producing high harmonic ra-
+diation down to wavelengths of 60 nm at a repetition frequency of 112 MHz
+[88]. To this end, they stacked the pulses from a mode-locked Ti:sapphire
+laser oscillator in a dispersion-compensated passive build-up cavity and
+
+
+                                                                            169
+
+
+placed a xenon gas jet at an intra-cavity focus. The high harmonic radiation is
+coupled out by external reflection from a thin sapphire Brewster plate, that
+has a refractive index smaller than 1 in the extreme ultraviolet. Similar ex-
+periments have also been reported by Jun Ye in Boulder [89].
+   In a future ambitious project, we plan to apply frequency combs in the
+XUV directly to precision spectroscopy of sharp resonances in laser-cooled
+trapped ions. The hydrogen-like helium ion with a 1S-2S two-photon transi-
+tion near 60 nm is a particularly interesting candidate. In one envisioned sce-
+nario, helium ions will be sympathetically cooled by laser-cooled magnesium
+ions in the same trap, and the signal might be detected via the production of
+doubly charged helium ions due to photo ionization.
+
+
+CONCLUSIONS
+Spectroscopy of the simple hydrogen atom has sparked off the cross fertiliza-
+tion of two seemingly unrelated frontiers, precise optical spectroscopy and
+the study of ultrafast phenomena. Femtosecond frequency combs are revolu-
+tionizing precision measurements of time and frequency. Future optical
+atomic clocks will find important applications in many areas of science and
+technology. Ultraprecise optical spectroscopy can be harnessed for new tests
+of fundamental physics laws. However, many other spectroscopic applica-
+tions of laser frequency combs can be envisioned, such as massively parallel
+ultra-sensitive cavity ring-down spectroscopy [90] or broadband spectral in-
+terferometry. At the same time, frequency comb techniques are also offering
+powerful new tools for ultrafast physics. By controlling the phase of the elec-
+tric field of intense light pulses lasting for only a few cycles, they make it pos-
+sible to study ultrafast electronic processes in light matter interactions, such
+as the production of single sub-femtosecond pulses of soft X-rays in high har-
+monic generation [42]. Only the future can show what we will discover with
+such exquisite new instruments.
+
+
+ACKNOWLEDGEMENT
+More than ninety students, postdocs, visiting scholars, and senior colleagues
+have made essential contributions to our research on precision laser spec-
+troscopy during more than 4 decades. I owe particular gratitude to Thomas
+Udem and Ronald Holzwarth who played a key role in making the frequency
+comb synthesizer become reality. I am also very grateful to John L. Hall, who
+has long shared his precious insights on how to make lasers unbelievably stable.
+
+
+
+
+170
+
+
+REFERENCES
+[1]    C. Audoin, and G. Bernard, The Measurement of Time: Time, Frequency, and the Atomic
+       Clock, Cambridge: Cambridge University Press, 2001
+[2]    Th. Udem, R. Holzwarth, and T.W. Hänsch, Nature, 416, 233 (2002)
+[3]    Jun Ye, and S. Cundiff, eds., Femtosecond Optical Frequency Comb: Principle, Operation
+       and Applications, Springer Verlag, New York, 2005
+[4]    P. Hannaford, ed., Femtosecond Laser Spectroscopy, Springer Verlag, New York, 2005
+[5]    A. Szöke, and A. Javan, Phys. Rev. Lett. 10, 521 (1963)
+[6]    W.E. Lamb, Phys. Rev. 134, 1429 (1964)
+[7]    W.R. Bennett, Phys. Rev. 126, 580 (1962)
+[8]    V.S. Letokhov, and V.P. Chebotaev, Nonlinear Laser Spectroscopy, Springer Series in
+       Optical Sciences, Vol. 4, Springer Verlag, New York, 1977
+[9]    T.W. Hänsch, R. Keil, A. Schabert, Ch. Schmelzer, and P. Toschek, Z. Physik, 226,
+       293 (1969)
+[10]   T.W. Hänsch, and P. Toschek, Z. Physik 236, 213 (1970)
+[11]   P.W. Smith, and T.W. Hänsch, Phys. Rev. Lett. 26, 740 (1971)
+[12]   T.W. Hänsch, M.D. Levenson, and A.L. Schawlow, Phys. Rev. Lett. 26, 949 (1971)
+[13]   T.W. Hänsch, Appl. Opt. 11, 895 (1972)
+[14]   T.W. Hänsch, I.S. Shahin, and A.L. Schawlow, Phys. Rev. Lett. 27, 707 (1971)
+[15]   P.P. Sorokin, and J.R. Lankard, IBM J. Res. Dev. 10, 162 (1966)
+[16]   F.P. Schäfer, W. Schmidt, and J. Volze, Appl. Phys. Lett. 9, 306 (1966)
+[17]   G.W. Series, Spectrum of Atomic Hydrogen, Oxford University Press, Oxford, 1957
+[18]   T.W. Hänsch, I.S. Shahin, and A.L. Schawlow, Nature 235, 63 (1972)
+[19]   T.W. Hänsch, and A.L. Schawlow, Opt. Comm.. 13,   13, 68 (1975)
+[20]   S.G. Karshenboim, F.S. Pavone, F. Bassani, M. Inguscio, and T.W. Hänsch, eds., The
+       Hydrogen Atom, Precision Physics of Simple Atomic Systems, Springer Verlag, Lecture
+       Notes in Physics, New York, 2001
+[21]   M. Fischer, N. Kolachevsky, M. Zimmermann, R. Holzwarth, Th. Udem, T.W.
+       Hänsch, M. Abgrall, J. Grünert, I. Maksimovic, S. Bize, H. Marion, F. Pereira Dos
+       Santos, P. Lemonde, G .Santarelli, P. Laurent, A. Clairon, and C. Salomon, M. Haas,
+       U. D. Jentschura, and C. H. Keitel, Phys. Rev. Lett. 92, 230802 (2004)
+[22]   E.V. Baklanov, and V.P. Chebotaev, Opt. Comm. 12, 312 (1974)
+[23]   T.W. Hänsch, S.A. Lee, R. Wallenstein, and C. Wieman, Phys. Rev. Lett. 34, 307
+       (1975)
+[24]   A. Javan, E.A. Ballik, and W.L. Bond, J. Opt. Soc. Am. 7, 553 (1962)
+[25]   K. M. Evenson, J. S. Wells, F. R. Petersen, B. L. Danielson, G. W. Day, R. L. Barger,
+       and J. L. Hall, Phys. Rev. Lett. 29, 1346 (1972)
+[26]   H. Schnatz, B. Lipphardt, J. Helmcke, F. Riehle, and G. Zinner, Phys. Rev. Lett. 76,
+       18, (1996)
+[27]   T.W. Hänsch, in The Hydrogen Atom, Proceedings of the Symposium held in Pisa, Italy, June
+       1988, G.F. Bassani, M. Inguscio, and T.W. Hänsch, eds., Springer Verlag, New York,
+       1989, pp. 93
+[28]   H.R. Telle, D. Meschede, and T.W. Hänsch, Opt. Lett. 15, 532 (1990)
+[29]   T. Udem, A. Huber, B. Gross, J. Reichert, M. Prevedelli, M. Weitz, and T.W. Hänsch,
+       Phys. Rev. Lett. 79, 2646 (1997)
+[30]   A. Huber, T. Udem, B. Gross, J. Reichert, M. Kourogi, K. Pachucki, M. Weitz, and
+       T.W. Hänsch, Phys. Rev. Lett. 80, 468 (1998)
+[31]   M. Kourogi, K. Nakagawa, and M. Ohtsu, IEEE J. Quant. El. 29, 2693 (1993)
+[32]   T. Udem, J. Reichert, M. Kourogi, and T.W. Hänsch, Optics Letters, 23, 1387 (1998)
+[33]   Z. Bay, G.G. Luther, and J.A. White, Phys. Rev. Lett. 29, 189 (1972)
+[34]   R. G. DeVoe, C. Fabre, K. Jungmann, J. Hoffnagle, and R. G. Brewer, Phys. Rev. A 37,
+       1802 (1988)
+[35]   N.C. Wong, Opt. Lett. 17, 13 (1992)
+[36]   D.J. Wineland, J. Appl. Phys. 50, 2528 (1979)
+
+
+                                                                                           171
+
+
+[37] A.E. Siegmann, Lasers, University Science Books, Mill Valley, 1986
+[38] J.N. Eckstein, Ph.D. Thesis, Stanford University, 1978
+[39] T.A. Birks, P.J. Roberts, P. St. J. Russell, D.M. Atkin, and T.J. Shepherd, Electron. Lett.
+     31, 1941 (1995)
+[40] J.K. Ranka, R.S. Windeler, and A.J. Stentz, Opt. Lett. 25, 25 (2000)
+[41] J.J. McFerran, E.N. Ivanov, A. Bartels, G. Wilpers, C.W. Oates, S.A. Diddams, and L.
+     Hollberg, Electron. Lett. 41, 650 (2005)
+[42] A. Baltuska, Th. Udem, M. Uiberacker, M. Hentschel, E. Goulielmakis, Ch. Gohle, R.
+     Holzwarth, V.S. Yakovlev, A. Scrinzi, T. W. Hänsch, and F. Krausz) Nature 421, 611
+     (2003)
+[43] A.N. Luiten, ed., Frequency Measurement and Control: Advanced Techniques and Future
+     Trends, Topics in Applied Physics Vol. 79, Springer Verlag, New York, 2001
+[44] L.E. Hargrove, R.L. Fork, and M.A. Pollack, Appl. Phys. Lett. 5, 4 (1964)
+[45] A. Yariv, J. Appl. Phys. 36, 388 (1965)
+[46] O.P. McDuff and S.E. Harris, IEEE J. Quantum Electron. 3, 101 (1967)
+[47] C.V. Shank, and E.P. Ippen, in Dye Lasers, F.P. Schäfer. Ed., Topics in Applied Physics,
+     Vol. 1, Springer Verlag, New York, 3rd edition, 1990, pp 139
+[48] R. Teets, J. Eckstein, and T.W. Hänsch, Phys. Rev. Lett. 38, 760 (1977)
+[49] M.M. Salour, and C. Cohen-Tannoudji, Phys. Rev. Lett. 38, 757 (1977)
+[50] E.V. Baklanov and V.P. Chebotaev, Kvantovaya Elektronika 4, 2189 (1977)
+[51] J.N. Eckstein, A.I. Fergusons, and T.W. Hänsch, Phys. Rev. Lett. 40, 847 (1978)
+[52] A.I. Ferguson, J.N. Eckstein, and T.W. Hänsch, J. Appl. Phys. 49, 5389 (1978)
+[53] A.I. Ferguson, J.N. Eckstein, and T.W. Hänsch, Appl. Phys. 18, 257 (1979)
+[54] T.W. Hänsch, and N.C. Wong, Metrologia 16, 101 (1980)
+[55] T.W. Hänsch, Opt. Comm. 80, 71 (1990)
+[56] D.E. Spencer, P.N. Kean, and W. Sibbett, Opt. Lett. 16, 42 (1991)
+[57] T. Nakajima and P. Lambropoulos, Phys. Rev. A 50, 595 (1994)
+[58] G.G. Paulus, F. Lindner, H. Walther, A. Baltuska, E. Gouielmakis, M. Lezius, and F.
+     Krausz, Phys. Rev. Lett. 91, 253004 (2003)
+[59] L. Xu, C. Spielmann, A. Poppe, T. Brabec, F. Krausz, and T.W. Hänsch, Opt. Lett. 21,
+     2008 (1996)
+[60] R.L. Fork, C.V. Shank, C. Hirlimann, R. Yen, and W.J. Tomlison, Opt. Lett. 8, 1
+     (1983)
+[61] R. Zerne, C. Altucci, M.B. Gaarde, A. L’Huillier, C. Lynga, C.-G. Wahlström, M.
+     Bellini, and T.W. Hänsch, Phys. Rev. Lett., 79, 1006 (1997)
+[62] M. Bellini and T.W. Hänsch, Opt. Lett. 25, 1049 (2000)
+[63] Th. Udem, J. Reichert, R. Holzwarth, and T.W. Hänsch, Opt. Lett. 24, 881 (1999)
+[64] Th. Udem, J. Reichert, R. Holzwarth, and T.W. Hänsch, Phys. Rev. Lett. 82, 3568
+     (1999)
+[65] J. Reichert, M. Niering, R. Holzwarth, M. Weitz, Th. Udem, and T. W. Hänsch, Phys.
+     Rev. Lett. 84, 3232 (2000)
+[66] M. Niering, R. Holzwarth, J. Reichert, P. Pokasov, Th. Udem, M. Weitz, T. W. Hänsch,
+     P. Lemonde, G. Santarelli, M. Abgrall, P. Laurent, C. Salomon, and A. Clairon, Phys.
+     Rev. Lett. 84, 5496 (2000)
+[67] J. Reichert, R. Holzwarth, Th. Udem, and T. W. Hänsch, Opt. Comm., 172, 59
+     (1999)
+[68] H.R. Telle, G. Steinmeyer. A.E. Dunlop, J. Stenger, D.H. Sutter, and U. Keller, Appl.
+     Phys. B 69, 327 (1999)
+[69] S. A. Diddams, D. J. Jones, J. Ye, S. Cundiff, J.L. Hall, J. K. Ranka, R. Windeler, R.
+     Holzwarth, Th. Udem, and T. W. Hänsch, Phys. Rev. Lett. 84, 5102 (2000)
+[70] D.J. Jones, S.A. Diddams, J.K. Ranka, A. Stentz, R.S. Windeler, J.L. Hall, and S.
+     Cundiff, Science 288, 635 (2000)
+[71] R. Holzwarth, Th. Udem, T.W. Hänsch, J. C. Knight, W. J. Wadsworth, and P.St.J.
+     Russell, Phys. Rev. Lett. 85, 2264 (2000)
+
+
+
+172
+
+
+[72] L. Matos, D. Kleppner, O. Kuzucu, T. R. Schibli, J. Kim, E. P. Ippen, and F.X.
+     Kaertner, Opt. Lett. 29, 1683 (2004)
+[73] B.R. Washburn, S.A. Diddams, N.R. Newbury, J.W. Nicholson, M.F. Yan, and C.G.
+     Jorgensen, Opt. Lett. 29, 250 (2004)
+[74] J. Stenger, H. Schnatz, C. Tamm, and H.R. Telle, Phys. Rev. Lett. 88, 073601 (2002)
+[75] M. Zimmermann, Ch. Gohle, R. Holzwarth, Th. Udem, and T.W. Hänsch, Opt. Lett.
+     29, 310-312 (2004)
+[76] L.S. Ma, B. Zhiyi, A. Bartels, L. Robertsson, M. Zucco, R.S. Windeler, G. Wilpers, C.
+     Oates, L. Hollberg, and S.A. Diddams, Science 303, 1843 (2004)
+[77] X. Calmet and H. Fritzsch, Phys. Lett. B 540, 173 (2002)
+[78] M.T. Murphy, J.K. Webb, and V.V. Flambaum, MNRAS 345, 609 (2003)
+[79] S. Srianand, H. Chand, P. Petitjean, and B. Aracil, Phys. Rev. Lett. 92, 121302 (2004)
+[80] S. Bize, S.A. Diddams, U. Tanaka, C.E. Tanner, W.H. Oskay, R.E. Drullinger, T.E.
+     Parker, T.P. Heavner, S.R. Jefferts, L. Hollberg, W.M. Itano, and J.C. Bergquist, Phys.
+     Rev. Lett. 90, 150802 (2003)
+[81] E. Peik, B. Lipphardt, H. Schnatz, T. Schneider, C. Tamm, and S.G. Karshenboim,
+     Phys. Rev. Lett. 93, 170801 (2004)
+[82] L. Hollberg, C.W. Oates, G. Wilpers, C.W. Hoyt, Z.W. Barber, S.A. Diddams, W.H.
+     Oskay, and J.C. Bergquist, J. Phys. B 38, S469 (2005)
+[83] M. Takamoto, F.L. Hong, R. Higashi, and H. Katori, Nature 435, 321 (2005)
+[84] A. McPherson, G. Gibson, H. Jara, U. Johann, T.S. Luk, I. McIntyre, K. Boyer, and
+     C.H. Rhodes, J. Opt. Soc. Am, B 4, 595 (1987)
+[85] M. Ferray, A. L’Huiller, X.F. Li, A. Lompré, G. Mainfray, and C. Manus, J. Phys. B 21,
+     L31 (1988)
+[86] P. Corkum, Phys. Rev. Lett. 71, 1994 (1993)
+[87] M. Bellini, C. Lynga, A. Tozzi, M.B. Gaarde, A. L’Huillier, C.-G. Wahlström, and
+     T.W. Hänsch, Phys. Rev. Lett., 81, 297 (1998)
+[88] Ch. Gohle, Th. Udem, J. Rauschenberger, R. Holzwarth, M. Herrmann, H.A. Schüss-
+     ler, F. Krausz, and T.W. Hänsch, Nature, 436, 234 (2005)
+[89] R. J. Jones, K. D. Moll, M. J. Thorpe, and J. Ye, Phys. Rev. Lett. 94, 193201 (2005)
+[90] Jun Ye, private communication
+
+Portrait photo of Theodor W. Hänsch by photographer F. M. Schmidt.
+
+
+
+
+                                                                                       173
+

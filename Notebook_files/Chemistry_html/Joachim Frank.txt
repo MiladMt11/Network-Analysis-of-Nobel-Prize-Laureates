@@ -1,0 +1,1393 @@
+232   THE NOBEL PRIZES
+
+
+
+
+      Single-Particle
+      Reconstruction of Biological
+      Molecules – Story in a Sample
+      Nobel Lecture, December 8, 2017 by Joachim Frank1,2
+      1Department of Biochemistry and Molecular Biophysics, Columbia 2Uni-
+      versity Medical Center; 2Department of Biological Sciences, Columbia
+      University, New York, NY, USA.
+
+
+      THE BACKGROUND
+      I developed an interest in electron optics when I worked with Ernst
+      Kinder on my masters thesis project in Physics at the University of
+      Munich. The subject of my thesis was backscattering of electrons on the
+      surface of liquid gold, an ambitious undertaking that forced me to con-
+      struct a vacuum chamber, a crucible to heat up the gold, a detector, and
+      an electron gun. In 1943, working with the electron microscope, Kinder
+      had studied butterfly wings, which as he realized gained their brilliant
+      colors from interference of light on gratings formed by tiny scales,
+      arranged in regular order.
+         I signed on to a graduate project with Walter Hoppe at the Max-Planck
+      Institute in Munich (Fig. 1), an X-ray crystallographer whose interest had
+      turned to electron microscopy (EM) as a means to study biomolecules. He
+      viewed the electron microscope as a diffractometer that, unlike the one
+      employed in X-ray crystallography, could record not just amplitudes of
+      diffracted electrons, but their phases as well. This was a fancy way of say-
+      ing electron microscopes were able to form images.
+
+
+                                                          Joachim Frank Lecture   233
+
+
+
+
+                                                               Figure 1. Walter
+                                                               Hoppe (1917–
+                                                               1986) with the
+                                                               Siemens El-
+                                                               miskope 102.
+
+
+
+
+   It is necessary at this point to look back at the state of the art of molec-
+ular EM in the late 60s and early 70s. During the initial years, from the
+1930s to the 1950s, the contributions of EM to biology had been confined
+mainly to the investigation of tissue at relatively low magnification. Seri-
+ous forays into the quantitative visualization of molecular structure did
+not commence until the 1960s and were concentrated in three groups:
+Aaron Klug’s at the Laboratory of Molecular Biology of the Medical
+Research Council (MRC) in Cambridge, England, my mentor Walter
+Hoppe’s at the Max-Planck Institute in Munich and Edward Kellenberger’s
+at the Biozentrum in Basel. (Photograph from archives of the Max-Planck
+Society, Berlin).
+   Unless symmetries are present, three-dimensional reconstruction of an
+object requires the combination of its projections from a wide angular
+range. The first pioneering achievements in molecular structure research
+with the electron microscope were the three-dimensional (3D) recon-
+struction of the bacteriophage tail with helical symmetry in 1968 by
+DeRosier and Klug (1968) and the first reconstruction of an icosahedral
+virus in 1970 by Tony Crowther (Crowther et al., 1970; Crowther, 1971).
+   At that time biological molecules could not be imaged in a close to
+native state. Negative staining – which amounts to embedding the mole-
+cule in a puddle of heavy metal salt as it is air-dried from solution – was
+the only means available to produce contrast. On the other hand, biologi-
+cal molecules were known to be quite fragile, and maintenance of their
+integrity would require a fully hydrated environment.
+
+
+234   THE NOBEL PRIZES
+
+
+      Graduate Studies and Harkness Fellowship
+      As I started my work as graduate student under Walter Hoppe, in 1967, I
+      was exposed to discussions in a Workshop in Hirschegg in the Tyrolean
+      Alps, co-organized by Walter Hoppe and Max Perutz in 1968, later to be
+      continued in meetings in Hirschegg in 1970 and Alpbach in 1976. These
+      were the first meetings that brought together protein crystallographers
+      and people working in EM (see Holmes, 2017).
+         In my thesis project I analyzed electron micrographs with the optical dif-
+      fractometer and explained patterns observed in case of drift in terms of
+      Thon rings (Thon, 1966) modulated by a sinc function or Young’s fringes
+      (Frank, 1969). I also examined the statistical properties of digitized micro-
+      graphs. For digitization I used a densitometer built in-house, which ren-
+      dered the images on punched tape to be fed into the computer. In my first
+      applications of digital image processing in EM, I explored the use of correla-
+      tion functions for alignment of images (Langer et al., 1970). Another topic of
+      my dissertation was the distortion of information by the contrast transfer
+      function (CTF), caused by the lens aberrations of the electron microscope
+      (Scherzer, 1948), and its recovery by CTF correction (Frank et al., 1970).
+         After finishing my Ph.D., in 1970, I went to the United States for two
+      years under a Harkness Fellowship. The visit to three labs I chose was an
+      eye-opener in several regards. The Jet Propulsion Lab (JPL) in Pasadena,
+      at the time, was arguably the most advanced place in image processing
+      hardware and software. In a project aimed to correct the contrast transfer
+      function from a defocus series, I used their scanner to digitize micro-
+      graphs of negatively stained DNA that were given to me by Walter Stoeck-
+      enius at UCSF, and I adapted my programs to interface with JPL’s VICAR
+      system. VICAR, used to process images from the Jupiter fly-by mission,
+      was a modular image processing system that would later serve as a model
+      for the development of SPIDER. The second lab I visited was the Donner
+      Lab in Berkeley, where Robert M. Glaeser studied the effects of radiation
+      damage on biological molecules under the electron beam (Glaeser, 1971).
+      He also started developing techniques to render molecules frozen-hy-
+      drated in the EM (Taylor and Glaeser, 1974). The third lab was Benjamin
+      Siegel’s at Clark Hall, Cornell University, where an experimental micro-
+      scope in the mid-voltage (600 kV) range was being built. It was here that I
+      first met Ken Downing, who worked on optical methods of information
+      retrieval such as single-side band holography, and William Goldfarb, who
+      would later join me in Albany.
+         The numerous problems faced by people attempting to image biologi-
+      cal molecules in the EM were discussed at a workshop organized by
+      Edward Kellenberger in Gais, in the Swiss Alps in 1973. The state of the art
+      at the time was reflected in the title of a proceedings paper (Beer et al.,
+      1974) as “high resolution” was equated with any results at better than
+
+
+                                                         Joachim Frank Lecture   235
+
+
+30Å. Paramount at the Workshop was the search for a method that would
+keep the molecule fully hydrated while exposed to the electron beam. In
+addition, following the pioneering studies by Glaeser (Glaeser, 1971) – just
+at the time I visited his lab as a Harkness Fellow – radiation damage was
+recognized as a major obstacle in the efforts to achieve high resolution.
+Averaging over a large number of repeats of a structure exposed to very
+low dose was seen as a general solution to this problem. Thus this meet-
+ing set the stage for a ground-breaking study by Richard Henderson and
+Nigel Unwin (1975): the reconstruction of bacteriodhopsin from the pur-
+ple membrane of Halobacter embedded in glucose under near-native con-
+ditions. The confluence of novel approaches to three areas, namely sam-
+ple preparation, data collection at extremely low electron dose (< 1 e–/A2),
+and merging a tilt series of these noisy images into a 3D image, made this
+work a towering achievement. The time after this was marked by general
+excitement in the community, and many attempts to use the same or sim-
+ilar methods in the study of other proteins amenable to 2D crystallization.
+However, the intrinsically low contrast between proteins and glucose and
+residual disorder in the crystals formed made these attempts difficult, and
+embedment in ice remained the agreed general goal.
+   In the 70s, and well into the 80s, most researchers in the field that was
+to be called Structural Biology were united in the belief that serious struc-
+ture determination required highly ordered samples, such as 2D crystals,
+helical arrangements, or viruses with high symmetry. Attempts to extract
+structural information from free-standing, single, asymmetric molecules
+were not taken seriously. One such alternative approach, pursued by Wal-
+ter Hoppe, was to tilt the EM grid to which isolated molecules were
+attached into multiple angles while collecting the projections, from which
+the molecules could then be reconstructed (Hoppe et al., 1974).
+   While the angles are exactly known in Hoppe’s “tomographic”
+approach, the accumulation of radiation damage over multiple exposures,
+to more than 1000 electron per Angstrom square, rendered the end result
+essentially meaningless (Baumeister and Hahn, 1975). The other approach
+was the one I formulated in a concept paper in 1975 (Frank, 1975), to be
+elaborated in the following.
+
+
+POSTDOCTORAL WORK AT THE CAVENDISH LAB: THE CONCEPT
+OF SINGLE-PARTICLE AVERAGING AND RECONSTRUCTION
+The concept of the single-particle approach began to take shape while I
+was working at the Old Cavendish Laboratory, Free School Lane, Cam-
+bridge, starting in 1973 – at the very place where Max Perutz had started
+the Laboratory of Molecular Biology in a courtyard barrack. I had
+accepted a postdoc position in the group of Vernon Ellis Cosslett.
+
+
+236   THE NOBEL PRIZES
+
+
+          The approach takes advantage of the fact that biological molecules puri-
+      fied from cell extracts and suspended in solution typically exist in thou-
+      sands or even millions of “copies” (that is, separate realizations) with virtu-
+      ally identical structure. Hence, if a grid to which such a sample has been
+      applied is put into the EM, a large number of projection images of the same
+      molecule lying in random orientations are encountered (Fig. 2). The impor-
+      tant point is that instead of collecting multiple images from one molecule by
+      tilting it in the EM, one merely has to take a snapshot of multiple copies of
+      that molecule with a very small radiation dose. The advantage in the latter
+      case is that the 3D image obtained relates to a molecule that has “seen”
+      only one single low exposure, and has remained practically undamaged.
+      The later-coined terms “single-particle averaging” and “single-particle
+      reconstruction” make reference to the fact that the molecules in the sample
+      are free-standing, not attached to one another as in a crystal.
+          At this point it is important to emphasize that no symmetries are
+      assumed. Rather, the idea was that entirely asymmetric molecules could
+      be reconstructed in this way. Symmetries obviously simplify the problem
+      as in those cases the image contains multiple projections of the repeating
+      unit in different, known orientations, allowing data from different mole-
+      cules to be readily merged.
+          Simple as the concept sounds, the realization of single-particle recon-
+      struction required several problems to be solved, all in the area of image
+      processing. These can be stated in the form of five questions: (1) Is it at all
+      feasible to align noisy molecule images with one another with sufficient
+      accuracy? (2) How do we estimate the resolution of an average (or recon-
+      struction) obtained by combining all images? (3) How do we sort mole-
+      cule images by appearance related to view angle or conformation? (4)
+
+
+
+
+      Figure 2. Schematic of single-particle data collection for air-dried, negatively stained
+      molecules. The molecules are randomly oriented and each is embedded in a layer of
+      heavy metal salt, which provides high contrast in the electron beam. Air-drying results in
+      partial collapse of the molecule in z-direction.
+
+
+                                                                   Joachim Frank Lecture      237
+
+
+
+
+Figure 3. Left: Cross-correlation function of two micrographs of carbon foil, taken succes-
+sively in the same area. Right: Autocorrelation function of one of the micrographs. In
+the autocorrelation function, the peak reflects superimposition of both signal and noise
+parts, hence its sharpness. In the cross-correlation function, the noise term is eliminated
+and the peak reflects only the signal part. (Reproduced from J. Frank, Ph.D. thesis 1970)
+
+
+
+How do we find the viewing angles of projections a posteriori? (5) How do
+we reconstruct the molecule from projections at randomly spaced view
+angles?
+   It was in the nature of these problems and their novelty that progress
+was slow and piecemeal, one step at a time. During the work on my Ph.D.
+thesis (1968–1970) I had already explored the use of the cross-correlation
+function for aligning electron micrographs. I discovered that two succes-
+sive images of the same area of carbon could be aligned with precision
+better than 3 Angstroms, the resolution of the electron microscope
+(Frank, 1970; Langer et al., 1970) (Fig. 3).
+   Actually, the process of 2D alignment is a bit more complicated, since
+molecules picked from the micrograph differ both in shift and in-plane
+orientation. The solution I found to determine both relative rotation angle
+and shift simultaneously makes use of the fact that the autocorrelation
+function of a molecule image is shift-invariant – it does not depend on its
+position within the image frame (Frank, 1980). Thus the determination of
+rotation can be entirely decoupled from that of shift (Fig. 4).
+   Working with Owen Saxton, I was able to show that alignment via
+cross-correlation would be accurate enough for the purpose of aligning
+noisy images of single molecules if the dose exceeded a certain level, which
+depended on the molecule’s size and contrast against the background (Sax-
+ton and Frank, 1977). Using the ribosome as an example, it became clear
+from the formula we obtained that the single-particle approach to structure
+research was indeed feasible for molecules of sufficient size:
+   PARTICLE SIZE > 3/[CONTRAST2 x RESOLUTION (in Å) x CRITI-
+CAL ELECTRON DOSE]
+
+
+238   THE NOBEL PRIZES
+
+
+
+                                                             Figure 4. Schematic of image
+                                                             alignment making use of the
+                                                             translation-invariance of the au-
+                                                             tocorrelation function. (reprodu-
+                                                             ced with permission from Kessel
+                                                             et al., 1980).
+
+
+
+
+      MOVE TO THE WADSWORTH CENTER: FROM
+      CONCEPT TO PRACTICE
+      My appointment in 1975 as Senior Research Scientist at the Division of
+      Laboratories and Research of the New York State Department of Health
+      (DLR, later named Wadsworth Center) in Albany, New York offered me the
+      opportunity to explore this idea with practical applications. (I had been
+      asked to start an image processing group at DLR by Donald Parsons, a
+      Roswell Park, Buffalo research scientist who was in the process of moving
+      the Albany and setting up a high-voltage EM facility there).
+         With the help of micrographs provided by David Eisenberg, Tim Baker,
+      Peter Zingsheim and Miloslav Boublik I was able to demonstrate the feasi-
+
+
+
+
+      Figure 5. Single-particle averages obtained from images of negatively stained glutamine
+      synthetase. Left: gallery of particles selected from the micrograph and aligned. Right:
+      averages with and without six-fold symmetrization. (Reproduced from Frank et al., 1978).
+
+
+                                                            Joachim Frank Lecture     239
+
+
+
+                                                    Figure 6. Single-particle
+                                                    averages obtained from
+                                                    images of negatively stained
+                                                    acetylcholine receptor of
+                                                    Torpedo marmorata. Top:
+                                                    examples for images selected
+                                                    from micrographs. Bottom:
+                                                    two half-averages and one full
+                                                    average (right). The average
+                                                    shows distinct departure from
+                                                    5-fold symmetry deduced
+                                                    from low-resolution 2D crys-
+                                                    tals averages by other groups.
+                                                    (Reproduced, with permission,
+                                                    from Zingsheim et al., 1980).
+
+
+
+bility of obtaining two-dimensional averages showing enhanced features
+of molecules with images of glutamine synthetase (Frank et al., 1978; Kessel
+et al., 1980) (Fig. 5), acetylcholine receptor (Zingsheim et al., 1980) (Fig. 6),
+and 40S ribosomal subunits from HeLa cells (Frank et al., 1981a) (Fig. 7).
+   Among these, the 40S subunit averages were arguably the most strik-
+ing in showing the potential of the single-particle averaging technique,
+results that proved instrumental for gaining funding from the National
+Institutes of Health. Nonetheless, presentations of the results for glu-
+tamine synthetase, acetylcholine receptor and ribosome by myself and
+two of my collaborators, Martin Kessel and Peter Zingsheim, at the meeting
+organized by Wolfgang Baumeister in Burg Gemen, Germany (1979) were
+greeted with a great deal of skepticism.
+   One issue to be addressed, as mentioned before, was the fact that due
+to the absence of crystal order, the average of aligned molecule images
+
+
+
+                                                    Figure 7. Single-particle av-
+                                                    erages obtained from images
+                                                    of 40S ribosomal subunits of
+                                                    HeLa cells. Top: micrograph
+                                                    showing 40S subunits in two
+                                                    views, left-facing (L) and
+                                                    right-facing (R). Bottom, from
+                                                    left to right: two half-aver-
+                                                    ages, variance map, and full
+                                                    average of 81 L-view particles.
+                                                    (Reproduced, with permission,
+                                                    from Frank et al., 1981a).
+
+
+240   THE NOBEL PRIZES
+
+
+
+                                                           Figure 8. Reproducibility
+                                                           of the signal content in
+                                                           two successive electron
+                                                           micrographs of carbon
+                                                           film, demonstrated for
+                                                           three different defocus
+                                                           settings. Upper row:
+                                                           optical diffraction pattern
+                                                           of one of the micrographs,
+                                                           showing Thon patterns.
+                                                           Lower row: Young’s fring-
+                                                           es obtained by first alig-
+                                                           ning the micrograph pairs
+                                                           and then translating them
+                                                           relative to each other by
+                                                           a slight amount. (Repro-
+                                                           duced from J. Frank, Ph.D.
+                                                           thesis, 1970).
+
+
+
+
+      shows no diffraction spots in its Fourier transform, and therefore lacks an
+      inherent measure of resolution. Without such a measure, progress in
+      quality could not be tracked and compared among different groups. From
+      the earlier study, during my dissertation work, on the effects of drift on an
+      electron micrograph (Frank, 1969), I realized that signal bandwidth is
+      reflected by the extent of reproducible information in Fourier space (Frank
+      and Al-Ali, 1975; Frank, 1976). This extent of reproducible information is
+      apparent from the extent of Young’s fringes that show up in the optical
+      diffraction pattern when two successive micrographs of the same speci-
+      men field are superimposed with a slight shift (Fig. 8).
+         How could this idea be translated into a quantitative measure? The
+      extent of reproducibility in Fourier space can be quantified computation-
+      ally by dividing the data going into an average randomly in half, then com-
+      paring the Fourier transforms of half-averages over rings in Fourier space.
+      Resolution is then defined as the Fourier ring radius where a measure of
+      comparison, such as phase residual, or R-factor (Frank et al., 1981a), or
+      cross-correlation (“Fourier ring correlation”) (Saxton and Baumeister,
+      1982; van Heel et al., 1982), passes a critical threshold (Fig. 9). The same
+      measures, computed over shells, would later prove important in estimat-
+      ing resolution of 3D reconstructions, as well (Harauz and van Heel, 1986).
+         These first studies of image averaging immediately brought up the
+      problem of heterogeneity – only those molecule images could be reasona-
+      bly combined in an average if they originated from molecules of identical
+      structure and presented the same view. At that time, one of Ernst van
+      Bruggen’s students, Marin van Heel, visited my lab bringing with him
+      images of Limulus polyphemus hemocyanin – an oligomer with distinct
+      architecture showing multiple preferred views when negatively stained
+
+
+                                                         Joachim Frank Lecture     241
+
+
+
+                                            Figure 9. Resolution of single-par-
+                                            ticle averages defined by reprodu-
+                                            cibility of half-averages in Fourier
+                                            space. Shown is the differential
+                                            phase residual as a function of
+                                            Fourier ring radius for the half-av-
+                                            erages of 40S ribosomal subunits
+                                            of HeLa cells. Resolution is then
+                                            defined by the ring radius where
+                                            the phase residual first exceeds 45
+                                            degrees. (Reproduced with permis-
+                                            sion from Frank et al., 1981a).
+
+
+
+
+and imaged in the electron microscope (Fig. 10a). These images therefore
+presented a perfect example of heterogeneity. Before attempting to aver-
+age those images, they had to be sorted, or classified into their subsets.
+The solution to this problem (van Heel and Frank, 1981; Frank 1984) came
+from the insight that images, once aligned with one another, may be
+regarded as vectors in a space of N dimensions, where N is the number of
+pixels. Groups of images that are similar will then show up as clusters of
+vectors in that space. Equivalent problems of finding clusters in high-di-
+mensional space had been encountered in many fields of science, and
+gave rise to multivariate statistical analysis, a procedure which deter-
+mines a compact low-dimensional subspace tailored to the problem. With
+the help of Jean-Pierre Bretaudiere, a Wadsworth Center scientist working
+in Laboratory Medicine, we were able to use a program meant to sort
+blood samples to sort images instead (see Mossman, 2007, where this epi-
+sode is recounted). Application to hemocyanin proved an immediate suc-
+cess (Fig. 10b, c).
+   Early on, as I set out on the single-particle approach to recovering
+structure, it became clear to me that in order to make systematic progress
+in the development of algorithms and computer programs with
+ever-changing and expanding goals required a workbench with a large set
+of tools. To this end I developed a modular image processing system
+called SPIDER (for System for Processing of Image Data in Electron
+microscopy and Related fields) (Frank et al., 1981b), which made it possi-
+ble to design complex programs from pre-coded building blocks using a
+simple script language. For example, the command WI would invoke a
+routine for extracting a rectangular portion of an image, FT would invoke
+Fourier transformation, and AC would compute the autocorrelation of an
+
+
+242   THE NOBEL PRIZES
+
+
+
+                                             Figure 10. Sorting of hemocyanin images
+                                            by Correspondence Analysis, a branch of
+                                            multivariate statistical analysis. Top: Make-
+                                            up of the dodecameric molecule of Limulus
+                                            polyphemus hemocyanin. The slightly
+                                            rhombic, twisted arrangement of the
+                                            subunits creates a nonplanar architecture,
+                                            reflected by the rocking of the molecule on
+                                            the grid. Middle: Micrograph of negatively
+                                            stained molecules showing them in diffe-
+                                            rent three-dimensional positions, related by
+                                            flipping and rocking. Bottom: Factorial map,
+                                            obtained by multivariate data analysis of
+                                            the aligned molecule images, separates the
+                                            images into four clusters. (Reproduced, with
+                                            permission, from van Heel and Frank, 1981).
+
+
+
+
+      image. Hundreds of commands were implemented over the course of the
+      next few years.
+         All programs were coded in FORTRAN, the most advanced language at
+      the time. In most of the initial programming I was assisted by Helen
+      Dowse, a SUNY Albany student of Computer Science, and Brian Shimkin,
+      an undergraduate. As the functionality of SPIDER expanded, its script
+      language became literally the lingua franca in my lab and, as the suite was
+      disseminated to other labs, within a growing community of users. As
+      noted earlier, I trace the idea underlying the SPIDER system and its mod-
+      ular design back to my stay at the Jet Propulsion Lab in 1970 under the
+      Harkness Fellowship, where I became familiar with JPL’s own VICAR
+      image processing system.
+
+
+      DETERMINATION OF ANGLES AND
+      THREE-DIMENSIONAL RECONSTRUCTION
+      For computing the 3D structure of an object from its projections, one
+      requires a fairly even coverage of the whole view range, and the angles of
+      each projection must be known. Thus, in the single-particle approach,
+      determination of the angles of randomly oriented molecules recorded in a
+      micrograph was the most important yet most difficult problem to be
+
+
+                                                           Joachim Frank Lecture       243
+
+
+
+                                                     Figure 11. Random-conical
+                                                     data collection geometry.
+                                                        Top: Concept. Untilted
+                                                     grid is shown with molecu-
+                                                     les attached with the same
+                                                     face but different azimuths.
+                                                     Tilting of the grid by a large
+                                                     angle results in a unique
+                                                     direction of projection for
+                                                     each molecule. In Fourier
+                                                     space these correspond to
+                                                     intersecting central sections.
+                                                     (Frank, 1979; hand-drawn
+                                                     sketch on an overhead trans-
+                                                     parency, unpublished).
+                                                        Bottom: Illustration of data
+                                                     collection, and equivalent
+                                                     conical geometry. (Repro-
+                                                     duced with permission from
+                                                     Frank, 1998).
+
+
+
+
+solved. The solution came from the insight that two micrographs, one of a
+field of untilted particles, one of the same field tilted by a large angle, con-
+tained all the information required to assign Eulerian angles to each tilted
+particle (Frank et al., 1978; Radermacher et al., 1986; 1987a). In this geom-
+etry (Fig 11a), the angles of the tilted projections lie on a cone with ran-
+dom azimuths (Fig. 11b), a feature which would later give rise to the term
+“random-conical reconstruction.”
+   In 1982 I was joined by physicist Michael Radermacher, also a student
+of Walter Hoppe, who had worked in his dissertation project on algo-
+rithms for 3D reconstruction from projections arranged in a regular coni-
+cal geometry. Thus, he had the perfect background required to develop
+computer programs that implemented the concept of the random-conical
+reconstruction. One important step was still missing, though: the general-
+ization of the 3D reconstruction algorithm, which assumed regularly
+spaced conical tilting, to the general case of random angles. Once this had
+been accomplished, as reported in a short communication in 1986
+(Radermacher et al., 1986), we obtained the first single-particle recon-
+struction using the random-conical method: the 50S subunit of the E. coli
+ribosome (Radermacher et al., 1987b) (Fig. 12). It is now on permanent
+exhibit in the Nobel Museum in Stockholm in the form of a transparent
+contour stack mounted in a wooden frame.
+   This reconstruction was limited in quality by two factors: one was the
+missing cone of information in the 3D Fourier transform, the source of
+unidirectional artifacts in the 3D density map, and the other were the arti-
+
+
+244   THE NOBEL PRIZES
+
+
+
+                                                                     Figure 12. First single-par-
+                                                                     ticle reconstruction of an
+                                                                     asymmetric molecule: the
+                                                                     50S subunit of the E. coli
+                                                                     ribosome, prepared by
+                                                                     negative staining. Scale
+                                                                     bar is 100 Å. The panels
+                                                                     A–F depict the molecule
+                                                                     with increasing density
+                                                                     threshold, using a then-no-
+                                                                     vel surface representation
+                                                                     technique (Radermacher
+                                                                     and Frank., 1984).
+
+
+
+
+      facts due to the preparation of the sample by air-drying and negative
+      staining. Both limitations were readily overcome within a short period of
+      time: the missing cone problem was solved by merging datasets obtained
+      with three or more different zero-degree views (Penczek et al., 1992), and
+      the preparation of the sample with negative staining was replaced by
+      cryo-embedding in vitreous ice, following the spectacular success of
+      Jacques Dubochet’s vitrification method by plunge-freezing into liquid
+      ethane (Dubochet and McDowall, 1981) in the application to viruses
+      (Adrian et al., 1984).
+         Yet another important problem to be addressed, which affected the
+      quality of all reconstructions from EM data, was the modulation of the
+      image transform by the CTF. I had first worked on this problem during
+      my dissertation work, then through contributions to specific issues
+
+
+
+
+      Figure 13. Schematic of single-particle data collection for molecules randomly oriented
+      and embedded in vitreous ice. The molecules are fully hydrated in an aqueous medium
+      and, in contrast to the preparation with negative staining and air-drying shown in Fig. 2,
+      they exhibit no shrinkage in the direction normal to the grid plane.
+
+
+                                                                     Joachim Frank Lecture      245
+
+
+
+                                                                Figure 14. Contrast trans-
+                                                                fer function correction
+                                                                using Wiener filtering.
+                                                                The Fourier transform of
+                                                                the corrected image is
+                                                                obtained by a weighted
+                                                                sum of Fourier transforms
+                                                                of the defocus series. The
+                                                                weights Wn are given by
+                                                                the Wiener filter, which
+                                                                is proportional to the
+                                                                CTF Hn weighted by
+                                                                the signal-to-noise ratio
+                                                                SNRn. (Damping due to
+                                                                partial coherence is not
+                                                                shown here for simpli-
+                                                                city). (Reproduced, with
+                                                                permission, from Penczek
+                                                                et al., 1997).
+
+
+
+
+(Frank, 1972; Frank, 1973; Wade and Frank, 1977). This problem and its
+resolution-limiting effects on the reconstructed density maps were even-
+tually overcome through the merging of data obtained with different defo-
+cus settings using a Wiener filtering algorithm (Zhu et al., 1997; Penczek
+et al., 1997) (Fig. 14).
+   The first molecules we visualized by cryo-EM and reconstructed in
+three dimensions with the single-particle methods described above were
+the E. coli ribosome (Frank et al., 1991; Penczek et al., 1992; Frank et al.,
+1995), hemocyanin (Lambert et al., 1994), and calcium release channel
+(Radermacher et al., 1992; Rademacher et al., 1994; Wagenknecht et al.,
+1994) (Fig. 15).
+
+
+
+
+Figure 15. Cryo-EM reconstructions of three molecules obtained with the matured
+single-particle reconstruction method: (a) E. coli ribosome (Frank et al., 1995), (b) Octopus
+hemocyanin (Lambert et al., 1994), (c) calcium release channel/Ryanodine receptor (Ra-
+dermacher et al., 1994).
+
+
+246   THE NOBEL PRIZES
+
+
+
+                                                           Figure 16. Cryo-EM re-
+                                                           construction of the large
+                                                           ribosomal subunit from
+                                                           Haloarcula marismortui,
+                                                           used for solving a phasing
+                                                           ambiguity in solving the
+                                                           X-ray structure. (Reprodu-
+                                                           ced, with permission, from
+                                                           Ban et al., 1998).
+
+
+
+
+         A cryo-EM reconstruction of the Haloarcula marismortui ribosome
+      (Fig. 16) proved to be helpful in the phasing of the first X-ray structure of
+      the large ribosomal subunit (Ban et al., 1998; Ban et al., 2000; Steitz,
+      Nobel lecture 2009).
+         The quality of final reconstructions benefits from iterative angular
+      refinement that starts out with the first rough reconstruction. In any pro-
+      ject dealing with a molecule whose structure is unknown, it is practical to
+      make a distinction between two phases, a bootstrap phase and a refine-
+      ment phase. In the bootstrap phase, a first rough reconstruction is
+      obtained – either by the random-conical method, or by an alternative
+      method, developed by Marin van Heel and others, in which common lines
+      in Fourier space are employed (Goncharov et al., 1987; van Heel, 1987;
+      Penczek et al., 1996; van Heel et al., 1997). In the refinement phase
+      (Penczek et al., 1992; 1994), an existing reconstruction (i.e., the density
+      map obtained by a bootstrap reconstruction) is used to generate a library
+      of even-spaced projections with which each of the experimental projec-
+      tions is compared to assign refined angles to it for the next round of
+      reconstruction (Fig. 17).
+         The mid-90s marked the time when a methodology of 3D reconstruc-
+      tion in EM could first be discerned in outline, as best documented in vari-
+      ous contributions to the Proceedings of the 15th Pfefferkorn Conference
+      (1997). At about that time I compiled a book for the first time summariz-
+      ing computational methods of single-particle 3D EM (Frank, 1996; re-ed-
+      ited in Frank, 2006).
+         From the time where the first refined, CTF-corrected reconstructions
+      were obtained, in the mid-90s, more than 15 years had to go by before the
+      “resolution revolution” brought us to the resolution, 2–4Å, where atomic
+
+
+                                                                   Joachim Frank Lecture    247
+
+
+
+                                                                Figure 17. Iterative ang-
+                                                                ular refinement scheme
+                                                                by projection matching,
+                                                                a scheme that underlies
+                                                                practically all cryo-EM
+                                                                reconstructions. (Repro-
+                                                                duced with permission
+                                                                from Frank, 2011).
+
+
+
+
+modeling becomes possible. The interpretation of the many low-resolu-
+tion cryo-EM reconstructions obtained during that time was often dis-
+missed as “blobology,” a characterization that was unjust and unfair in
+most instances. In the following I would like to make this point by show-
+ing a few examples just from the area I’m most familiar with – the struc-
+tural basis of protein biosynthesis. These examples demonstrate that well
+before it reached the present state of perfection, cryo-EM gave us impor-
+tant insights into pivotal processes of translation by the ribosome. This
+happened on the level of resolution that allowed the constellations and
+movements of entire domains to be described.
+   In the late 90s, one of my postdocs, Rajendra Agrawal, prepared a sam-
+ple containing elongation factor G (EF–G) bound to the ribosome as it
+
+
+
+
+Figure 18. Ratchet-like motion of the E. coli ribosome during mRNA-tRNA translocation.
+Upon binding of EF-G, the small subunit (yellow) is seen to rotate relative to the large
+subunit (blue). (Reproduced with permission from Valle et al., 2003a).
+
+
+248   THE NOBEL PRIZES
+
+
+      catalyzes translocation of mRNA and tRNAs (Agrawal et al., 1998, 1999).
+      He used a GTP analog to arrest the factor at the point where GTP hydrol-
+      ysis is normally triggered. Comparison of the cryo-EM reconstruction
+      with that of the unbound ribosome showed a dramatic change: the small
+      subunit had rotated by seven degrees with respect to the large subunit
+      (Frank and Agrawal, 2000; Valle et al., 2003a) (Fig. 20). This finding of the
+      “ratchet-like” motion provided first clues on the mechanism of mRNA-
+      tRNA translocation.
+         In 2002, Mikel Valle, another of my postdocs, found that during the
+      decoding process, aminoacyl-tRNA (aa-tRNA) enters the ribosome in
+      complex with the protein factor EF-Tu in a strongly distorted form, in the
+      so-called A/T state (Valle et al., 2002; 2003b) (Fig. 19). In this case the
+      antibiotic kirromycin was used to keep the factor from leaving the ribo-
+      some after GTP hydrolysis. This observation indicated that the tRNA acts
+      as a molecular spring, apparently setting the threshold for discrimination
+      between cognate and near-cognate codon-anticodon pairing (Yarus et al.,
+      2003). A later study in my lab confirmed that the same mechanism holds
+      for all three classes of tRNA (Li et al., 2008).
+         To give a third example, we teamed up in 2001 with Jennifer Doudna,
+      then at Yale, to visualize the mRNA from hepatitis C virus in the process
+      of hijacking the human ribosome. My postdoc Christian Spahn, working
+      alongside Jeff Kieft from the Doudna team, discovered the way the
+      so-called IRES element of the virus’ mRNA engages the small subunit of
+      the ribosome (Spahn et al., 2001).
+         Once density maps reached the sub-nanometer mark, it became possi-
+      ble to interpret them on the basis of existing structures and to build
+      “quasi-” atomic models. Over the decade following the appearance of the
+      ribosome X-ray structure, my group spearheaded three methods of such
+      interpretations: real-space refinement in which entire domains were fitted
+
+
+
+
+      Figure 19. The tRNA captured in the process of entering the ribosome. As tRNA arrives
+      in ternary complex with elongation factor Tu (EF-Tu) and GTP, it binds the ribosome in a
+      strongly distorted form, first seen by cryo-EM using kirromycin. Left: Juxtaposition of
+      ternary complex entering the ribosome, with tRNA in the distorted A/T state, and riboso-
+      me after departure of EF-Tu and accommodation of cognate tRNA. Right: tRNA confor-
+      mations in A/A and A/T states. (Reproduced with permission from Valle et al., 2003b).
+
+
+                                                         Joachim Frank Lecture     249
+
+
+
+                                                          Figure 20. (A)–(C)
+                                                          40S ribosomal
+                                                          subunit of HeLa cells
+                                                          (control) shown in
+                                                          different views; (D)–
+                                                          (F) 40S ribosomal
+                                                          subunit of HeLa cells
+                                                          with hepatitis C virus
+                                                          IRES bound; (G)–(I)
+                                                          same as (D)–(F)
+                                                          after removal of one
+                                                          domain. (Reprodu-
+                                                          ced with permission
+                                                          from Spahn et al.,
+                                                          2001).
+
+
+
+
+as rigid bodies (Gao et al., 2003; Gao and Frank, 2005), normal mode
+analysis (Tama et al., 2003), and Molecular Dynamics Flexible Fitting, or
+MDFF (Trabuco et al., 2007). More about the use of MDFF below.
+
+
+MOVE TO COLUMBIA UNIVERSITY – STORY IN A SAMPLE AND
+RESOLUTION REVOLUTION
+In 2008 I joined Columbia University and the faculties of two depart-
+ments: Biochemistry and Molecular Biophysics, and Biological Sciences.
+What attracted me particularly were opportunities for many collabora-
+tions on the two vibrant campuses at the Medical Center and Morning-
+side.
+   Two examples for MDFF fitting among many obtained in my lab fall
+into this next stage of my career: (i) a 6.7Å density map representing a
+snapshot of the decoding process (LeBarron et al., 2008) and its interpre-
+tation by Elizabeth Villa (Villa et al., 2009) (Fig. 21, left), and (ii) the
+atomic model of the ribosome from T. brucei built from a 5.5Å map by
+Yaser Hashem (Hashem et al., 2013) (Fig. 21, bottom).
+
+
+250   THE NOBEL PRIZES
+
+
+
+
+                                                     Figure 21. Top: the E. coli 70S
+                                                     ribosome bound with the
+                                                     aminoacyl-tRNA•EF-Tu•GDP
+                                                     ternary complex in the presence
+                                                     of the antibiotic kirromycin. A
+                                                     6.7-Å cryo-EM density map was
+                                                     interpreted by atomic modeling
+                                                     with the aid of MDFF (Reprodu-
+                                                     ced, with permission, from Villa
+                                                     et al., 2009).
+                                                        Bottom: structure of the T.
+                                                     brucei ribosome obtained by
+                                                     flexible fitting of a 5.5-Å cryo-
+                                                     EM density map. Left: 40S sub-
+                                                     unit, right: 60S subunit. Expan-
+                                                     sion segments are painted red.
+                                                     (Reproduced, with permission,
+                                                     from Hashem et al., 2013a).
+
+
+
+
+          These two examples illustrate the potential of modeling using flexible
+      fitting, but at the same time give a sense of the large effort that was
+      required to obtain an atomic model prior to the advent of the direct elec-
+      tron detectors, in 2013.
+          Starting at my new place, I focused on a unique advantage of single-par-
+      ticle cryo-EM that is now utilized in many applications. Here, unlike in
+      X-ray crystallography, molecules are unconstrained by crystal packing and
+      thus are able to assume the full range of conformations present in solution.
+      For a processive molecular machine such as the ribosome, unless it is
+      stopped by a chemical intervention, many different states coexist (Schme-
+      ing and Ramakrishnan, 2009; Frank and Gonzalez, 2010). The full potential
+      of single-particle cryo-EM to present an inventory of structures coexisting
+      in a sample began to be realized with the introduction of maximum likeli-
+      hood classification by Sjors Scheres, who worked as a student in the lab of
+      Jose-Maria Carazo (Scheres et al., 2007) and later, as an independent prin-
+      cipal investigator, at the Laboratory of Molecular Biology (LMB) of the
+      Medical Research Council (MRC) in Cambridge (Scheres 2012). These algo-
+      rithms, first introduced into single-particle processing by Fred Sigworth
+
+
+                                                                                       Joachim Frank Lecture            251
+
+
+
+
+                                                                 Number of particles
+                                                                                          SU- 1 2 3 4 5
+                                                                                        ML-1
+                                                                                       ML-2
+                                                                                       ML-3                      ML-4
+                                                                                       cross-correlation difference
+
+
+
+
+Figure 22. Maximum likelihood classification of ~90,000 images of the E. coli ribosome
+with and without EF–G bound. Upper row: maximum-likelihood classification into four
+classes. Lower row: supervised classification into five classes, using an EF–G-bound
+ribosome as a reference. (In this inferior method, classes ar defined and ordered by incre-
+asing similarity with the reference. Adapted, from Scheres et al., 2007).
+
+
+
+(1998), perform the seemingly impossible task of disentangling changes of
+view angle from changes in structure (Sigworth, 2007). A large well-charac-
+terized ribosome data set we supplied was correctly (i.e., conforming with
+supervised classification, as the ground truth was unknown) classified in
+the initial study by Scheres et al. (Fig. 22). Working with this toolset, multi-
+ple structures are now routinely recovered from a single sample (Agirreza-
+bala et al., 2012; Hashem et al., 2013b; Budkevich et al., 2014; des Georges
+et al., 2016; Loveland et al., 2017).
+   Four years after my move to Columbia University the field was revolu-
+tionized with the introduction of commercial direct electron detecting
+cameras already mentioned above. The fact that the poor quality of image
+recording presented a serious bottleneck in attempts to reach high resolu-
+tion was implicit in the results of an earlier study of Richard Henderson
+(Henderson, 1995). Since 2013, as a consequence of the superior perfor-
+mance of the new cameras, a large number of cryo-EM maps have been
+obtained at near-atomic resolution (2–4 Å). Cryo-EM has become a main-
+stream technique of structural biology (Nogales, 2016).
+   Again resorting to the ribosome to make a general point, I show two
+examples for the “Story in a Sample” paradigm at near-atomic resolution.
+In one study, several states of the elongation cycle are “fished out” from
+images of ribosomes purified from a cell extract of Plasmodium falci-
+parum, the malaria parasite (Sun et al., 2015) (Fig. 23 left). These states
+proved to correspond to those earlier identified by trapping the eukary-
+otic ribosome from yeast or mammals with GTP analogs. In another
+study by my group, part of the elongation cycle is visualized in a sample
+
+
+252   THE NOBEL PRIZES
+
+
+
+
+      Figure 23. Two examples for determination of multiple structures from the same sample.
+      Left: five 80S structures from Plasmodium falciparum ribosomes purified from a cell
+      extract. Four of these (upper row) bear tRNAs and one (bottom) is empty. Inventory of
+      all tRNA positions observed is on bottom right. (Reproduced, with permission, from Sun
+      et al., 2015). Right: four E. coli 70S ribosome structures obtained from a sample where
+      EF–G.GTP is present and bears a mutation H74A on the Switch 2 loop, slowing down GTP
+      hydrolysis by a large factor (Li et al., 2015). The four structures are arranged along with
+      two models in the order of the translation elongation cycle.
+
+
+      containing a mutant of EF–G (Li et al., 2015) (Fig. 23 right). Literally,
+      cryo-EM is now able to tell us a story from a single sample of molecules in
+      equilibrium, showing how the molecule changes its shape and binds or
+      sheds ligands.
+          This potential for resolving dynamic changes of molecules in equilib-
+      rium is augmented by the development of time-resolved techniques that
+      are able to trap short-lived states evolving in a non-equilibrium experi-
+      ment (Berriman and Unwin, 1994; Chen and Frank, 2015; Chen et al.,
+      2015; Fu et al., 2016; Lu et al., 2009; Shaikh et al., 2014). Ultimately, even
+      the recovery of a continuum of structures reflecting the states of a biolog-
+      ical molecule at work, and the mapping of its free-energy landscape are
+      no longer distant goals (Dashti et al., 2014; Dashti et al., 2017; Frank and
+      Ourmazd, 2016). This most recent development is made possible by our
+      ability to collect large quantities of data, ensuring that even states
+      encountered with low probability are represented in the ensemble.
+          Even though I have illustrated the progress achieved by using my
+      favorite molecule, the ribosome (best resolution thus far at 2.5 Å – Liu et
+      al., 2016; Fig. 24a), the range of applications in biology is virtually unlim-
+      ited except for some lower bound on molecule size, and, of course, the
+      necessity of having the molecule suspended in solution. My own recent
+      collaborations with the groups of Andrew Marks, Wayne Hendrickson,
+      Alexander Sobolevsky, and Filippo Mancia demonstrate the gain in knowl-
+      edge achievable now for membrane-bound channels and receptors (Zalk
+      et al., 2015; des Georges et al., 2016; Twomey et al., 2016; 2017a; 2017b;
+      Chen et al., 2016) (Fig. 24 b,c).
+
+
+                                                           Joachim Frank Lecture      253
+
+
+
+                                                        Figure 24. Three recent
+                                                        reconstructions at
+                                                        near-atomic resolution
+                                                        obtained in my lab in va-
+                                                        rious collaborations. Left:
+                                                        T. cruzi ribosome. Liu et
+                                                        al., 2016)(reproduced with
+                                                        permission, from Frank,
+                                                        2017); Center: Calcium
+                                                        release channel. (reprodu-
+                                                        ced with permission, from
+                                                        des Georges et al., 2016);
+                                                        Right: AMPA receptor
+                                                        (reproduced, with permis-
+                                                        sion, from Twomey et al.,
+                                                        2017b).
+
+
+
+CONCLUSIONS
+Structural Biology, as a field, is in the process of being remade as the rela-
+tive contributions of X-ray crystallography, NMR and cryo-EM are being
+reevaluated and repositioned. This is a process that will go on for a num-
+ber of years, whose dynamics are difficult to predict. Right now there are
+three points to be made: (i) As there is no need for crystals, a large gap in
+structural knowledge can be filled now, particularly concerning mem-
+brane-bound channels and receptors, but also large molecular assemblies
+with high flexibility. (ii) The lower size limit on molecules is rapidly reced-
+ing as phase plates improve contrast and cameras promise to become
+even more powerful. The recent determination of the structure of hemo-
+globin (Koshouei et al., 2017), with 64 kD molecular weight, is a feat once
+unthinkable. (iii) The ability to recover multiple structures, or even a con-
+tinuum of structures, from a single sample sets off cryo-EM sharply from
+X-ray crystallography, and promises to give us very detailed information
+on molecular mechanisms of ligand binding, allosteric switching, and gat-
+ing events.
+   To conclude this account of a 40-year journey, I must confess that even
+though I was always a firm believer in the technique I dreamed up many
+years ago, I never thought I would see it come to fruition in this spectacular
+way – let alone that it would earn me a share of the highest prize coveted
+by scientists all over the world. It has been a truly fantastic journey overall.
+   Knowing that Human Medicine as a whole stands to benefit from the
+new technology is ultimately the best reward.
+
+
+ACKNOWLEDGMENTS
+In my account of more than four decades of work I have focused on con-
+tributions of my own lab. It goes without saying that as the field devel-
+
+
+254   THE NOBEL PRIZES
+
+
+
+
+      Figure 25. Albany reunion picture of then-current and former postdocs and colleagues,
+      at the 1999 Gordon Conference for 3D Electron Microscopy. Upper row: Nicolas Boisset,
+      Michael Radermacher, Joachim Frank, Carmen Mannella, Roland Beckmann, Martin Kes-
+      sel, Pawel Penczek, Bruce McEwen, Jose-Maria Carazo. Lower row: Rasmus Schroeder,
+      Montsertat Samso, Rajendra Agrawal, Bob Grassucci, and Holland Cheng.
+
+
+
+      oped many people have contributed to it worldwide, in areas reaching
+      from sample preparation over instrument design and the development of
+      computational tools, as recounted in many recent reviews (e.g., Nogales,
+      2016). As a community the cryo-EM crowd is unusual in its spirit of
+      cooperation and mutual respect, as reflected in the cordial atmosphere at
+      topical meetings such as the Gordon Conference on 3DEM and the
+      so-called Hybrid Meetings at Lake Tahoe.
+         I should at this point give tribute to all the people who have made this
+      development possible over the years. First of all, without the pivotal con-
+      tributions and leadership of my co-laureates Jacques Dubochet and Rich-
+      ard Henderson the field would not have come together and prospered in
+      this way. My thanks go to my students, postdocs, and collaborators who
+      shared my vision and put in so much hard work to make it all happen
+      (Fig. 25). Bob Grassucci has been with my group for more than 30 years in
+      management and support of instruments of ever-increasing complexity.
+         My very special thanks goes to my wife Carol Saginaw who has steadily
+      supported me for close to 40 years and never lost faith in me, and my
+      family and non-scientist friends who have cheered me on at every turn.
+         Much of the earlier developments of the technique took place at the
+      Wadsworth Center in Albany, which provided a sheltered, supportive
+
+
+                                                                Joachim Frank Lecture    255
+
+
+environment with generous funding by the State of New York, particularly
+in the starting phase when it counted most. In my expression of gratitude
+to the Wadsworth Center I would like to single out Carmen Mannella, who
+supported me throughout those years as a colleague, collaborator and
+friend. My affiliation with the Department of Biomedical Sciences of the
+University at Albany since 1985 allowed me to foster academic interac-
+tions with the SUNY faculty at large. Since 2008, when I joined the facul-
+ties of Columbia’s Department of Biochemistry and Molecular Biophysics
+and Department of Biological Sciences, I enjoyed the multifaceted intel-
+lectual environment fostered and nurtured by one of the country’s great-
+est universities.
+   My work has been generously supported by the National Institute of
+General Medical Sciences of NIH almost without interruption since 1981.
+Funding for two inspiring Sabbatical stays in England and Germany was
+provided, respectively, by the Fogarty Foundation and the Humboldt Foun-
+dation. Over the years, I received sizeable awards from the National Science
+Foundation for several instrument purchases. Support by the Howard
+Hughes Medical Institute for almost 20 years has allowed me to build up a
+state-of-the-art, professionally supported cryo-EM facility first at the Wad-
+sworth Center and later at Columbia University. It is important to point out
+in these times that Government support is absolutely necessary for science
+to prosper and, with it, the chances of success in fighting disease.
+
+
+
+
+references
+Adrian, M., Dubochet, J., Lepault, J., and McDowall, A.W. (1984). “Cryo-electron
+  microscopy of viruses,” Nature 308, 32–36.
+Agirrezabala, X., Liao, H., Schreiner, E., Fu, J., Ortiz-Meoz, R.F., Schulten, K.,
+  Green, R., and Frank, J. (2012). “Structural characterization of mRNA-tRNA
+  translocation intermediates,” Proc. Natl. Acad. Sci. USA 109, 6094–6099.
+Agrawal, R.K., Penczek, P., Grassucci, R.A., and Frank, J. (1998). Visualization of
+  elongation factor G on the Escherichia coli 70S ribosome: the mechanism of
+  translocation. Proc. Natl. Acad. Sci. USA 95, 6134–6138.
+Agrawal, R.K., Heagle, A.B., Penczek, P., Grassucci, R.A., and Frank, J. (1999).
+  EF-G-dependent GTP hydrolysis induces translocation accompanied by large
+  conformational changes in the 70S ribosome. Nat. Struct. Biol. 6, 643–647.
+Ban, N., Freeborn, B., Nissen, P., Penczek, P., Grassucci, R.A., Sweet, R., Frank, J.,
+  Moore, P.B., and Steitz, T.A. (1998). “A 9 Å resolution X-ray crystallographic
+  map of the large ribosomal subunit,” Cell 93, 1105–1115.
+Ban, N., Nissen, P., Hansen, J., Moore, P.B., Steitz, T.A. (2000). “The complete
+  atomic structure of the large ribosomal subunit at 2.4 Å resolution,” Science
+  289, 905–920.
+Baumeister and Hahn (1975). “Relevance of of three-dimensional reconstruction
+  of stain distributions for structural analysis of biomolecules,” Hoppe-Seyler’s Z.
+  Physiol. Chem. 356, 1313–1316.
+
+
+256   THE NOBEL PRIZES
+
+      Beer, M., Frank, J., Hanszen, K.J., Kellenberger, E., and Williams, R.C. (1974). “The
+         possibilities and prospects of obtaining high-resolution information (below 30
+         Å) on biological material using the electron microscope.” Some comments and
+         reports inspired by an EMBO workshop held at Gais, Switzerland, October
+         1973. Quart. Rev. Biophys. 7, 211–238.
+      Berriman, J. and Unwin, P.N.T. (1994). “Analysis of transient structures by
+         cryo-microscopy combined with rapid mixing of spray droplets,” Ultramicros-
+         copy 56, 241–252.
+      Budkevich, T.V., Giesebrecht, J. Behrmann, E., Loerke, J., Ramrath, D.J., Mielke, T.,
+         Ismer, J., Hildebrand, P.W., Tung, C.S., Nierhaus, K.H., Sanbonmatsu, K.Y. and
+         Spahn, C.M. (2014). “Regulation of the mammalian elongation cycle by subunit
+         rolling: a eukaryotic-specific ribosome rearrangement,” Cell 158, 121–131.
+      Chen, B., Kaledhonkar, S., Sun, M., Shen, B., Lu, Z., Barnard, D., Lu, T., Gonzalez,
+         R.L., and Frank, J. (2015). “Structural dynamics of ribosome subunit association
+         studied by mixing-spraying time-resolved cryo-EM,” Structure 23, 1097–1105.
+      Chen, B., and Frank, J. (2015). “Two promising future developments of cryo-EM:
+         capturing short-lived states and mapping a continuum of states of a macromol-
+         ecule,” Microscopy 65, 69–79.
+      Chen, Y., Clarke, O.B., Kim, J., Stowe, S., Kim, Y.-K., Assur, Z., Cavalier, M., Godoy-
+         Ruiz, R., von Alpen, D.C., Manzini, C., Blaner, W.S., Frank, J., Quadro, L., Weber,
+         D.J., Shapiro, L., Hendrickson, W.A., and Mancia, F. (2016). “Structure of the
+         STRA6 receptor for retinol uptake,” Science 353. DOI: 10.1126/science.aad8266 .
+      Crowther, R.A., Amos, L.A., Finch, J.T., De Rosier, D.J., and Klug, A. (1970). “Three
+         dimensional reconstructions of spherical viruses by Fourier synthesis from
+         electron micrographs,” Nature 226, 421–425.
+      Crowther, R.A. (1971). “Procedures for three-dimensional reconstruction of spher-
+         ical viruses by Fourier synthesis from electron micrographs.,” Phil. Trans. R.
+         Soc. Lond. B 261, 221–230.
+      Dashti, A., Schwander, P., Langlois, R., Fung, R., Li, W., Hosseinizadeh, A., Liao,
+         H.Y., Pallesen, J., Sharma, G., Stupina, V.A., Simon, A.E., Dinman, J., Frank, J.,
+         and Ourmazd, A. (2014). “Trajectories of the ribosome as a Brownian nanoma-
+         chine,” Proc. Natl. Acad. Sci. USA 111, 17492–17497.
+      Dashti, A., Hail, D.B., Mashayekhi, G., Schwander, P., des Georges, A., Frank, J.,
+         and Ourmazd, A. (2017). “Conformational dynamics and energy landscapes of
+         ligand binding in RyR1,” bioRxiv. DOI: 10.1101/167080.
+      DeRosier, D.J. and Klug, A. (1968). “Reconstruction of 3-dimensional structures
+         from electron micrographs,” Nature 217, 130–134.
+      Des Georges, A., Clarke, O.B., Zalk, R., Yuan, Q., Condon, K.J., Grassucci, R.A.,
+         Hendrickson, W.A., Marks, A.R., and Frank, J. (2016). “Structural basis for gat-
+         ing and activation of RyR1,” Cell 167, 145–157.
+      Dubochet, J., and McDowall, A. W. (1981). “Vitrification of pure water for electron
+         microscopy,” J. Microsc. 124, 3–4.
+      Frank, J. (1969). Nachweis von Objektbewegungen im lichtoptischen Diffrakto-
+         gramm von elektronenmikroskopischen Aufnahmen. Optik 30, 171–180.
+      Frank (1970) Untersuchungen von elektronenmikroskopischen Aufnahmen mit
+         hoher Auflösung mit Bilddifferenz- und Rekonstruktionsverfahren. [Analysis of
+         electron micrographs using image subtraction and reconstruction methods].
+         Thesis. Re-printed by TUM University Press, Muenich 2019.
+      Frank, J. (1972). “A study on heavy/light atom discrimination in bright field elec-
+         tron microscopy using the computer,” Biophys J 12, 484–511.
+
+
+                                                                 Joachim Frank Lecture     257
+
+Frank, J. (1973). “The envelope of electron microscopic transfer functions for par-
+   tially coherent illumination,” Optik 38, 519–539
+Frank, J. (1976). Determination of source size and energy spread from electron
+   micrographs using the method of Young’s fringes. Optik 44, 379–391.
+Frank, J. (1980). The role of correlation techniques in computer image processing.
+   In Computer Processing of Electron Microscope Images, Topics in Current Physics.
+   Vol. 13. P.W. Hawkes, editor. Springer, Berlin. 187–222.
+Frank, J. (1984). “The role of multivariate image analysis in solving the architec-
+   ture of the Limulus polyphemus hemocyanin molecule,” Ultramicroscopy 13,
+   153–164.
+Frank, J. (1996). Three-dimensional Electron Microscopy of Macromolecular Assem-
+   blies, San Diego, Academic Press. (2nd edition: Frank, J. (2006), New York,
+   Oxford U. Press).
+Frank, J. (1998). “How the ribosome works,” American Scientist 86, 428–439.
+Frank, J. (2011). “Visualization of molecular machines by electron microscopy,” In:
+   Molecular Machines in Biology – Workshop of the Cell. J. Frank, ed. Cambridge
+   University Press, Cambridge, UK, pp. 20–37.
+Frank, J. (2017). Advances in the field of single-particle cryo-electron microscopy
+   over the last decade. Nature Protocols 12, 209–212.
+Frank, J., and Al-Ali, L. (1975). “Signal-to-noise ratio of electron micrographs
+   obtained by cross correlation,” Nature 256, 376–379.
+Frank, J., and Gonzalez, R.L. (2010). “Structure and dynamics of a processive
+   Brownian motor: The translating ribosome,” Ann. Rev. Biochem. 79, 381–412.
+Frank, J., and Ourmazd, A. (2016). “Continuous Changes in Structure Mapped by
+   Manifold Embedding of Single-Particle Data in Cryo-EM,” Methods 100, 61–67.
+Frank, J., Bußler, P., Langer, R., and Hoppe, W. (1970). Einige Erfahrungen mit der
+   rechnerischen Analyse und Synthese von elektronenmikroskopischen Bildern
+   höher Auflösung. [Experience gained from digital analysis and synthesis of
+   high-resolution electron micrographs]. Ber. Bunsenges. Phys. Chem. 74, 1105–1115.
+Frank, J., Goldfarb, W., Eisenberg, D., and Baker, T.S. (1978). “Reconstruction of
+   glutamine synthetase using computer averaging,” Ultramicroscopy 3, 283–290.
+Frank, J., Verschoor, A., and Boublik, M. (1981a). “Computer averaging of electron
+   micrographs of 40S ribosomal subunits,” Science 214, 1353–1355.
+Frank, J., Shimkin, B., and Dowse, H. (1981b). “SPIDER – A modular software sys-
+   tem for image processing,” Ultramicroscopy 6, 343–358.
+Frank, J., Penczek, P., Grassucci, R., and Srivastava, S. (1991). Three-dimensional
+   reconstruction of the 70S Escherichia coli ribosome in ice: The distribution of
+   ribosomal RNA. J. Cell Biol. 115, 597–605.
+Frank, J., Zhu, J., Penczek, P., Li, Y., Srivastava, S., Verschoor, A., Radermacher, M.,
+   Grassucci, R., Lata, R.K., and Agrawal, R.K. (1995). “A model of protein synthe-
+   sis based on cryo-electron microscopy of the E. coli ribosome,” Nature 376,
+   441–444.
+Fu, Z., Kaledhonkar, S., Borg, A., Sun, M., Chen, B., Grassucci, R.A., Ehrenberg, M.,
+   and Frank, J. (2016). “Key intermediates in ribosome recycling visualized by
+   time-resolved cryo-electron microscopy,” Structure 24, 2092–2101.
+Glaeser, R.M. (1971). “Limitations to significant information in biological electron
+   microscopy as a result of radiation damage,” J. Ultrastruct. Res. 36, 466–482.
+Gao, H., and Frank, J. (2005). “Molding atomic structures into intermediate-reso-
+   lution cryo-EM density maps of ribosomal complexes using real-space refine-
+   ment,” Structure 13, 401–406.
+
+
+258   THE NOBEL PRIZES
+
+      Gao, H., Sengupta, J., Valle, M., Korostelev, A., Eswar, N., Stagg, S.M., Van Roey, P.,
+          Agrawal, R.K., Harvey, S.C., Sali, A., Chapman, M.S., and Frank, J. (2003). Study
+          of the structural dynamics of the E. coli 70S ribosome using real-space refine-
+          ment. Cell 113, 789–801.
+      Goncharov, A.B., Vainshtein, B.K., Ryskin, A.I., and Vagin, A.A. (1987). “Three-di-
+          mensional reconstruction of arbitrarily oriented particles from their electron
+          photomicrographs,” Sov. Phys. Crystallogr. 32, 504–509.
+      Harauz, G. and van Heel, M. (1986). “Exact filters for general geometry three-di-
+          mensional reconstruction,” Optik 73, 146–156.
+      Hashem, Y., des Georges, A., Fu, J., Buss, S.N., Jossinet, F., Jobe, A., Zhang, Q.,
+          Liao, H.Y., Grassucci, R.A., Bajaj, C., Westhof, E., Madison-Antenucci, S., and
+          Frank, J. (2013a). “High-resolution cryo-electron microscopy structure of Tryp-
+          anosoma brucei ribosome,” Nature 494, 385–389.
+      Hashem, Y., des Georges, A., Dhote, V., Langlois, R., Liao, H.L., Grassucci, R.A.,
+          Hellen, C.U.T., Pestova, T.V., and Frank, J. (2013b). “Structure of the mammalian
+          ribosomal 43S preinitiation complex bound to the scanning factor DHX29,” Cell
+          153, 1108–1119.
+      Henderson, R. and Unwin, P.N.T. (1975). “Three-dimensional model of purple
+          membrane obtained by electron microscopy,” Nature 257, 28–32.
+      Henderson, R. (1995). “The potential and limitations of neutrons, electrons and
+          X-rays for atomic resolution microscopy of unstained biological molecules,” Q.
+          Rev. Biophys. 28, 171–193.
+      Holmes, K. C. (2017). Aaron Klug – A Long Way from Durban: A Biography. Cam-
+          bridge University Press.
+      Hoppe, W., Gassmann, J., Hunsmann, N., Schramm, H.J. and Sturm, M. (1974).
+          “Three-dimensional reconstruction of individual negatively stained yeast fat-
+          ty-acid synthetase molecules from tilt series in the electron microscope,” Hoppe
+          Seylers Z. Physiol. Chem. 355, 1483–1487.
+      Kessel, M., Frank, J., and Goldfarb, W. (1980). “Averages of glutamine synthetase
+          molecules as obtained with various stain and electron dose conditions,” J.
+          Supramol Struct. 14, 405–422.
+      Khoshouei, M., Radjainia, M., Baumeister, W., and Danev, R. (2017). “Cryo-EM
+          structure of haemoglobin at 3.2 Å determined with the Volta phase plate,”
+          Nature Communications 8, doi:10.1038/ncomms16099
+      Lambert, O., Boisset, N., Penczek, P., Lamy, J., Taveau, J.C., Frank, J., and Lamy,
+          J.N. (1994). “Quaternary structure of Octopus vulgaris hemocyanin. Three-di-
+          mensional reconstruction from frozen-hydrated specimens and intramolecular
+          location of functional units Ove and Ovb,” J. Mol. Biol. 238, 75–87.
+      Langer, R., Frank, J., Feltynowski, A., and Hoppe, W. (1970). Anwendung des Bild-
+          differenzverfahrens auf die Untersuchung von Strukturänderungen dünner
+          Kohlefolien bei Elektronenbestrahlung. [Application of the image difference
+          method to the analysis of structural changes of thin carbon films during electron
+          exposure]. Ber Bunsenges Phys Chem 74, 1120–1126.
+      LeBarron, J., Grassucci, R.A., Shaikh, T.R., Baxter, W.T., Sengupta, J., and Frank, J.
+          (2008). “Exploration of parameters in cryo-EM leading to an improved density
+          map of the E. coli ribosome,” J. Struct. Biol. 164, 24–32.
+      Li, W., Agirrezabala, X., Lei, J., Bouakaz, L., Brunelle, J.L., Ortiz-Meoz, R.F., Green,
+          R., Sanyal, S., Ehrenberg, M., and Frank, J. (2008). “Recognition of aminoa-
+          cyl-tRNA: A common molecular mechanism revealed by cryo-EM,” EMBO J 27,
+          3322–3331.
+
+
+                                                                  Joachim Frank Lecture     259
+
+Li, W., Liu, Z., Koripella, R.K., Langlois, R., Sanyal, S., and Frank, J. (2015). Activa-
+    tion of GTP hydrolysis in mRNA-tRNA translocation by Elongation Factor G.
+    Science Advances 1 e1500169.
+Liu, Z., Gutierrez-Vargas, C., Wei, J., Grassucci, R.A., Ramesh, M., Espina, N., Sun,
+    M., Tutuncuoglu, B., Madison-Antenucci, S., Woolford, J.L., Tong, L., and Frank,
+    J. (2016). “Structure and assembly model for the Trypanosoma cruzi 60S ribo-
+    somal subunit,” Proc. Natl. Acad. Sci. USA 113, 12174–12179.
+Loveland, A.B., Demo, G., Grigorieff, N., and Korostev, A.A. (2017). “Ensemble
+    cryo-EM elucidates the mechanism of translational fidelity,” Nature 546, 113–
+    117.
+Lu, T.R., Barnard, D., X., Mohamed, H., Yassin, A., Mannella, C.A., R.K., Lu, T.-M.
+    and Wagenknecht, T. (2009). “Monolithic microfluidic mixing-spraying devices
+    for time-resolved cryo-electron microscopy,” J. Struct. Biol. 168, 388–395.
+Mossman, K. (2007). “Profile of Joachim Frank,” Proc. Natl. Acad. Sci. USA 104,
+    19668–19670.
+Nogales, E. (2016). “The development of cryo-EM into a mainstream structural
+    biology technique,” Nature Methods 13, 24–27.
+Penczek, P., Radermacher, M., and Frank, J. (1992). “Three-dimensional recon-
+    struction of single particles embedded in ice,” Ultramicroscopy 40, 33–53.
+Penczek, P.A., Grassucci, R.A., and Frank, J. (1994). “The ribosome at improved
+    resolution: new techniques for merging and orientation refinement in 3D
+    cryo-electron microscopy of biological particles,” Ultramicroscopy 53, 251–270.
+Penczek, P.A., Zhu, J., and Frank, J. (1996). “A common-lines based method for
+    determining orientations for N > 3 particle projections simultaneously,” Ultra-
+    microscopy 63, 205–218.
+Penczek, P.A., Zhu, J., Schröder, R., and Frank, J. (1997). “Three -dimensional
+    reconstruction with contrast transfer compensation from defocus series,”
+    Scanning Microscopy 11, 147–154.
+Radermacher, M., and Frank, J. (1984). “Representation of three-dimensionally
+    reconstructed objects in electron microscopy by surfaces of equal density,” J.
+    Microsc. 136, 77–85.
+Radermacher, M., Wagenknecht, T., Verschoor, A., and Frank, J. (1986). “A new 3-D
+    reconstruction scheme applied to the 50S ribosomal subunit of E. coli,” J.
+    Microsc. 141, RP1-2.
+Radermacher, M., Wagenknecht, T., Verschoor, A., and Frank, J. (1987a). “Three-di-
+    mensional reconstruction from a single-exposure, random conical tilt series
+    applied to the 50S ribosomal subunit of Escherichia coli,” J. Microsc. 146, 113–136.
+Radermacher, M., Wagenknecht, T., Verschoor, A., and Frank, J. (1987b).
+    “Three-dimensional structure of the large ribosomal subunit from Escherichia
+    coli,” EMBO J. 6, 1107–1114.
+Radermacher, M., Wagenknecht, T., Grassucci, R., Frank, J., Inui, M., Chadwick,
+    C., and Fleischer, S. (1992). “Cryo-EM of the native structure of the calcium
+    release channel/ryanodine receptor from sarcoplasmic reticulum,” Biophys. J.
+    61, 936–940.
+Radermacher, M., Rao, V., Grassucci, R., Frank, J., Timerman, A.P., Fleischer, S.,
+    and Wagenknecht, T. (1994). “Cryo-electron microscopy and three-dimensional
+    reconstruction of the calcium release channel/ryanodine receptor from skeletal
+    muscle,” J Cell Biol 127, 411–423.
+Saxton, W.O., and Frank, J. (1977). “Motif detection in quantum noise-limited elec-
+    tron micrographs by cross-correlation,” Ultramicroscopy 2, 219–227.
+
+
+260   THE NOBEL PRIZES
+
+
+      Saxton, W.O. and Baumeister, W. (1982). The correlation averaging of a regularly
+         arranged bacterial cell envelope protein. J. Microscopy 127, 127–138.
+      Scheres, S.H., Gao, H., Valle, M., Herman, G.T., Eggermont, P.P., Frank, J., and
+         Carazo, J.M. (2007). “Disentangling conformational states of macromolecules
+         in 3D-EM through likelihood optimization,” Nat Methods 4, 27–29.
+      Scheres, S.H. (2012). “A Bayesian view on cryo-EM structure determination,” J.
+         Mol. Biol. 415, 406–418.
+      Scherzer, O. (1948). “The theoretical resolution limit of the electron microscope,”
+         J. Appl. Phys. 20, 20–29 (1948).
+      Schmeing, T. and Ramakrishnan, V. (2009). “What recent ribosome structures
+         have revealed about the mechanism of translation. Nature 461, 1234–1242.
+      Shaikh, T.R., Yassin, A.S., Lu, Z., Barnard, D., Meng, X., Lu, T.M., Wagenknecht, T.
+         and Agrawal, R.K. (2014). “Initial bridges between two ribosomal subunits are
+         formed within 9.4 milliseconds, as studied by time-resolved cryo-EM,” Proc.
+         Natl. Acad. Sci. USA 111, 9822–9827.
+      Sigworth F.J. (1998). “A maximum-likelihood approach to single-particle image
+         refinement,” J. Struct. Biol. 122, 328–339.
+      Sigworth, F. J. (2007). “From cryo-EM, multiple protein structures in one shot,”
+         Nature Methods 4, 20–21.
+      Spahn, C.M.T., Kieft, J.S., Grassucci, R.A., Penczek, P.A., Doudna, J.A., and Frank,
+         J. (2001). “Hepatitis C Virus IRES RNA–induced changes in the conformation
+         of the 40S ribosomal subunit,” Science 291, 1959–1962.
+      Steitz, T. (2009) “From the Structure and Funktion of the Ribosome to new Anti-
+         biotics”, Les Prix Nobel, 179–204.
+      Sun, M., Li, W., Blomqvist, K., Das, S., Hashem, Y., Dvorin, J.D., and Frank, J.
+         (2015). Dynamical features of the Plasmodium falciparum ribosome during
+         translation. Nucleic Acids Res. 43, 10515–10524.
+      Tama, F., Valle, M., Frank, J., and Brooks, C.L., 3rd (2003). “Dynamic reorganiza-
+         tion of the functionally active ribosome explored by normal mode analysis and
+         cryo-electron microscopy,” Proc Natl Acad Sci USA 100, 9319–9323.
+      Taylor, K.A. and Glaeser, R.M. (1974). “Electron diffraction from Frozen, hydrated
+         protein crystals,” Science 186, 1036–1037.
+      Thon, F. (1966). “Zur Defokussierunsabhängigkeit des Phasenkontrastes bei der
+         elektronenmikroskopischen Abbildung,” Z. Naturforsch. 21a, 476–478.
+      Trabuco, L.G., Villa, E., Mitra, K., Frank, J., and Schulten, K. (2008). “Flexible fit-
+         ting of atomic structures into electron microscopy maps using molecular
+         dynamics,” Structure 16, 673–683.
+      Twomey, E.C., Velshanskaya, M.V., Grassucci, R.A., Frank, J., and Sobolevsky, A.I.
+         (2016). “Elucidation of AMPA receptor–stargazin complexes by cryo–electron
+         microscopy,” Science 353, 83–86.
+      Twomey, E.C., Yelshanskaya, M.V., Grassucci, R.A., Frank, J., and Sobolevsky, A.I.
+         (2017a). “Channel opening and gating mechanism in AMPA-subtype glutamate
+         receptors,” Nature 549, 60–65.
+      Twomey, E.C., Yelshanskaya, M.V., Grassucci, R.A., Frank, J., and Sobolevsky, A.I.
+         (2017b). “Structural bases of desensitization in AMPA receptor-auxiliary subu-
+         nit complexes,” Neuron 94, 569–580.
+      Valle, M., Sengupta, J., Swami, N.K., Grassucci, R.A., Burkhardt, N., Nierhaus,
+         K.H., Agrawal, R.K., and Frank, J. (2002). “Cryo-EM reveals an active role for
+         aminoacyl-tRNA in the accommodation process,” EMBO J 21, 3557–3567.
+      Valle, M., Zavialov, A., Sengupta, J., Rawat, U., Ehrenberg, M., and Frank, J.
+         (2003a). “Locking and unlocking of ribosomal motions,” Cell 114, 123–134.
+
+
+                                                                Joachim Frank Lecture     261
+
+
+Valle, M., Zavialov, A., Li, W., Stagg, S.M., Sengupta, J., Nielsen, R.C., Nissen, P.,
+   Harvey, S.C., Ehrenberg, M., and Frank, J. (2003b). “Incorporation of aminoa-
+   cyl-tRNA into the ribosome as seen by cryo-electron microscopy,” Nat. Struct.
+   Biol. 10, 899–906.
+van Heel, M. and Frank, J. (1981). “Use of multivariate statistics in analysing the
+   images of biological macromolecules,” Ultramicroscopy 6, 187–194.
+van Heel, M., Keegstra, W., Schutter, W. and van Bruggen, E.F.J. (1982), in: Life
+   Chemistry Reports, Suppl. 1, The Structure and Function of Invertebrate Respira-
+   tory Proteins, EMBO Workshop, Leeds, ed. E.J. Wood, pp. 69–73.
+van Heel, M. (1987). “Angular reconstitution: a posteriori assignment of projection
+   directions for 3D reconstruction,”Ultramicroscopy 21, 111–124.
+van Heel, M., Orlova, E.V., Harauz, G., Stark, H., Dube, P., Zemlin, F. and Schatz,
+   M. (1997). “Angular reconstitution in three-dimensional electron microscopy:
+   Historical and theoretical aspects,” Scanning Microsc. 11, 195–210.
+Villa, E., Sengupta, J., Trabuco, L.G., LeBarron, J., Baxter, W.T., Shaikh, T.R., Gras-
+   succi, R.A., Nissen, P., Ehrenberg, M., Schulten, K., Frank, J. (2009). “Ribo-
+   some-induced changes in elongation factor Tu conformation control GTP
+   hydrolysis,” Proc. Natl. Acad. Sci. USA 106, 1063–1068.
+Wade, R.H., and Frank, J. (1977). “Electron microscopic transfer functions for par-
+   tially coherent axial illumination and chromatic defocus spread,” Optik 49,
+   81–92.
+Yarus, M., Valle, M., and Frank, J. (2003). “A twisted tRNA intermediate sets the
+   threshold for decoding,” RNA 9, 384–385.
+Zalk, R., Clarke, O.B., des Georges, A., Grassucci, R.A., Reiken, S., Mancia, F., Hen-
+   drickson, W.A., Frank, J., and Marks, A.R. (2015). “Structure of a mammalian
+   ryanodine receptor,” Nature 517, 44–49.
+Zhu, J., Penczek, P.A., Schröder, R., and Frank, J. (1997). “Three-dimensional
+   reconstruction with contrast transfer function correction from energy-filtered
+   cryoelectron micrographs: procedure and application to the 70S Escherichia
+   coli ribosome,” J. Struct. Biol. 118, 197–219.
+Zingsheim, H.P., Neugebauer, D.C., Barrantes, F.J., and Frank, J. (1980). “Structural
+   details of membrane-bound acetylcholine receptor from Torpedo marmorata,”
+   Proc. Natl. Acad. Sci. USA 77, 952–956.
+

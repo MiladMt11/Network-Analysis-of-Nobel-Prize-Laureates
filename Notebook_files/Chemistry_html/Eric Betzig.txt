@@ -1,0 +1,1001 @@
+Single Molecules, Cells, and
+Super-Resolution Optics
+Nobel Lecture, December 8, 2014
+
+by Eric Betzig
+Janelia Research Campus, Howard Hughes Medical Institute,
+19700 Helix Dr., Ashburn, VA 20147, USA.
+
+
+
+
+O       ne of the nicest things about winning the Nobel Prize is hearing from all
+        of the people in my past and having the time to reflect on the important
+role they’ve each played in getting me to the happy and fulfilling life I have now.
+To all of my friends and colleagues from grade school up to my peers who nomi-
+nated me for this honor, you have my deepest thanks.
+     I was first introduced to super-resolution back in 1982 when I went to Cor-
+nell University for graduate school and met my eventual thesis advisors, Mike
+Isaacson and Aaron Lewis. Mike had recently developed a means of using elec-
+tron beams to fabricate holes as small as 30 nanometers (Figure 1A). He and
+Aaron figured that if we could shine light on one side of the screen, then the
+light that initially comes out of the hole from the other side would create a sub-
+wavelength light source that we could then scan point-by-point over a sample
+and generate a super-resolution image [1] (Figure 1B). The ultimate goal was to
+try to create an optical microscope that could look at living cells with the resolu-
+tion of an electron microscope. I wanted to become a scientist to do big, impact-
+ful things, and that certainly fit the bill, so I said, “Please sign me up.”
+     At the time, many people told us that this idea would never work, either
+because it violated Abbé’s law, or even worse, the Uncertainty Principle. I didn’t
+find their arguments compelling, but all doubt was removed from my mind in
+1984 when we learned about the work of Ash and Nicholls. In 1972, they used
+
+                                                                                111
+
+
+112                                                                 The Nobel Prizes
+
+
+
+
+FIGURE 1. Apertures and near-field optics. (A) Electron beam-fabricated apertures in a
+silicon nitride membrane, with diameters as shown. Column at left shows light transmis-
+sion through these apertures [1]. (B) The concept of near-field scanning optical micros-
+copy (NSOM) as a path to super-resolution [2]. (C) 50 nm aperture in a tapered glass
+pipette coated with opaque aluminum [3], made using techniques developed for patch
+clamp recording [4].
+
+
+3-centimeter microwaves and were able, by near-field techniques, to get resolu-
+tion of 1/60 of the wavelength λ in test patterns in a beautiful paper in Nature
+[5] (Figure 2). In fact, the idea for near-field microscopy goes back even further,
+to E.H. Synge in 1928 [6], and many people have independently come up with
+the idea since.
+    The first far field demonstration of breaking the Abbe limit of λ/(2NA) (NA
+being the numerical aperture of the objective) in the far field goes back even
+further, to the work of Lukosz [7]. By introducing grating masks at planes con-
+jugate to the object and the image, he was able to image test patterns at three
+times Abbe’s limit [8] (Figure 3A). This was the forerunner of what is known
+today as structured illumination microscopy. Lukosz’ demonstration was at very
+
+
+
+
+FIGURE 2. Breaking the diffraction barrier in the near field. (A) Microwave resonator
+with sub-wavelength aperture as used by Ash and Nichols in 1972 [5]. (B) Resolved grat-
+ings having periods of 1/30, 1/40, and 1/60 (top to bottom) of the 3 cm microwave wave-
+length. (C) Images of letters having linewidths of 1/15 of the wavelength.
+
+
+Single Molecules, Cells, and Super-Resolution Optics113
+
+
+
+
+FIGURE 3. Breaking the diffraction barrier in the far field. (A) Diffraction-limited (top)
+and super-resolved test patterns in 1D (middle) and 2D (bottom) as seen by Lukosz in
+1967, using linear grating or square grid masks inserted in the image path [8]. Resolu-
+tion is increased to three times the Abbé limit. (B) Exploiting nonlinearity in photoresist
+development and double patterning to create features beyond the Abbé limit during the
+production of integrated circuits [9]. (C) Exploiting the a priori knowledge of a desired
+circuit pattern, and comparing the distribution of scattered light from the actual pattern
+to the predicted distribution, to measure features sub-nm features to sub-Å precision in
+high volume semiconductor manufacturing [9].
+
+
+
+low NA, so the features were still much larger than the wavelength of light, but
+it nevertheless demonstrated that Abbé’s law was not inviolate.
+    In fact, far-field super-resolution has a very long history, particularly in the
+semiconductor business, where the nonlinear interaction of light with photo-
+resist has been a staple of making linewidths far smaller than the Abbé for a
+generation (Figure 3B) [9]. Even more impressive, though, is how visible light
+is used to inspect semiconductor wafers, and how by having a priori knowledge
+of the pattern you hope to create, developing a model for the diffraction of light
+from that pattern, and comparing the actual data you get against the model,
+people today are able to measure features in the pattern down to about 1/1000
+of the wavelength of light (Figure 3C) [9]. This is used day in and day out in high
+volume semiconductor manufacturing.
+    So really, at some level, super-resolution is not new at all, and there are peo-
+ple in Silicon Valley who are probably laughing at us here today for thinking
+that we’re the guys who invented this, when it has been a staple for such a very
+long time. Nevetheless, in my mind Ash and Nichols deserve the lion’s share of
+the credit for being the first to not just push slightly beyond the NA-dependent
+Abbé limit of λ/(2NA), but to shatter the diffraction barrier completely by going
+way beyond the seemingly more fundamental limit of seeing beyond half the
+wavelength of light, and getting to λ/60 with the near-field technique.
+    Speaking of shattering, the types of apertures we were making in those thin
+membranes would break all the time; they were hard and time-consuming to
+make, and they were costly. So eventually we abandoned that and, using an idea
+
+
+114                                                                The Nobel Prizes
+
+
+from my fellow grad student Alec Harootunian, we instead pulled glass micro-
+pipettes, similar to the method that was developed just a few years before in
+patch clamping for single ion channel recording. We would then coat these with
+aluminum to create an opaque structure, except for the little hole at the end that
+would then be our aperture [3] (Figure 1C).
+     So with that, I built the monstrosity you see here (Figure 4A), which was my
+first near-field optical microscope. I cringe now at how complex and crazy this
+thing was, but at least it gave me the ability to learn the system-engineering skills
+I would need to become a true engineering physicist, and eventually I was able
+to surpass the diffraction limit [10] (Figures 4B,C [11]) with this microscope
+that I built for my Ph.D. thesis.
+     That microscope was frankly a pain in the ass to work with, and reliably the
+resolution gain was about a factor of two beyond Abbé’s limit. But it was good
+enough to get me my dream job at Bell Labs. I started trying to develop the tech-
+nique further and, for the first two years, progress was really slow. But thanks to
+the patience and encouragement of my boss, Horst Störmer, I eventually came
+to realize that that pipette probe was not a really good design, because the light
+that was sent down the taper was largely retro-reflected back before it ever got to
+the tip, and the little bit of light that did make it to the tip was in electromagnetic
+modes that didn’t couple well to the aperture.
+     Postdoc Jay Trautman and I, then, instead created a probe that consisted
+of an adiabatically-tapered optical fiber, which would guide the light very ef-
+ficiently to the tip region, and then efficiently couple that light to the evanescent
+modes in the aperture (Figure 5A,B). This made a probe that was 10,000 times
+brighter than the earlier ones, and also then allowed us to routinely get to about
+50-nanometer resolution [12] (Figure 5C). In the following year I also invented
+a means to dither the probe back and forth sideways—oscillate it—and then as it
+would come close the surface, the oscillation would be damped. By that, I could
+regulate the distance of the tip from the sample [13] (Figure 5D).
+
+
+
+
+FIGURE 4. My first near-field microscope. (A) The microscope itself. (B) Test-pattern
+comparison of diffraction-limited imaging versus super-resolved NSOM. (C) Another
+resolved test pattern, i.e., an early lesson in learning how to sell my work [11].
+
+
+Single Molecules, Cells, and Super-Resolution Optics115
+
+
+
+
+FIGURE 5. Making NSOM a real tool. (A) Electron micrograph and (B) Optical micro-
+graph of an adiabatically tapered, aluminum coated single mode optical fiber used as a
+near-field probe [14]. (C) Resolution comparisons with the probe. Left to right: electron,
+conventional optical, and near-field optical micrographs [12]. (D) Schematic diagram of
+shear force feedback for regulating, at the nm scale, the distance from the aperture at the
+end of the probe to the specimen [13].
+
+
+
+    With these two innovations, near-field became fairly routine. In 1992, we
+had the world record for data-storage density, when we could read and write bits
+as small as 60 nanometers in a magneto-optic material [15] (Figure 6A). We also
+demonstrated super-resolution photolithography (Figure 6B) and nanoscale
+spectroscopy [16], and exploited various contrast mechanisms [14], including
+
+
+
+
+FIGURE 6. The golden age of NSOM. (A) Single bits of information (top) in a magneto-
+optic film recorded and read out by NSOM, compared with bits (white) recorded with
+conventional optics [15]. (B) Near-field photolithography [14]. (C) Fluorescence imag-
+ing of phase transitions in phospholipid monolayers [17]. (D) Histological stained sec-
+tion from the monkey hippocampus [14].
+
+
+116                                                                The Nobel Prizes
+
+
+
+
+FIGURE 7. Super-resolution fluorescence imaging of cells. Conventional widefield (left)
+and super-resolved NSOM (right) images of cytoskeletal actin in the same region of a
+fixed mouse fibroblast cell [18].
+
+
+
+refractive index, absorption (Figure 6C), polarization, and fluorescence [17]
+contrast (Figure 6D). In fact, to this day, near-field remains the only diffraction-
+unlimited technique which can use the full panoply of optical contrast mecha-
+nisms and isn’t dependent on a switching mechanism in fluorescence.
+     Nevertheless, the mechanism that’s probably most important for biology is
+fluorescence, because it offers protein-specific contrast. In 1993, we were the
+first to demonstrate super-resolution fluorescence imaging of cells when we
+looked at the actin cytoskeleton in the flat lamellar region of fixed fibroblasts
+[18] (Figure 7). What was particularly exciting about this, though, was that the
+signal-to-noise ratio we achieved on these single actin filaments, coupled with
+our knowledge of the aperture diameter, suggested that it should be possible to
+image single fluorescent molecules. This was a very hot topic at the time, be-
+cause just a few years previously W.E. Moerner [19] and Michel Orrit [20] had
+broken to this ultimate level of sensitivity at cryogenic temperatures, and several
+groups, such as those of Dick Keller [21] and Rudolf Rigler [22], had already
+shown at room temperature in solution that you could see bursts of fluorescence
+from single molecules.
+     The key to these later experiments was the idea that you had to restrict the
+excitation volume to reduce the background. That’s what near-field excels at—
+confining the excitation volume. As soon as Rob Chichester and I decided to
+try to look at single molecules, on our very first try we got really great results.
+But the weird thing was, instead of seeing a bunch of round spots, they would
+instead look like these crazy arcs or ellipses or other things, and these would
+
+
+Single Molecules, Cells, and Super-Resolution Optics117
+
+
+
+
+FIGURE 8. Single molecule microscopy at room temperature. (A) Three views of the same
+field of carbocyanine dye molecules on PMMA as imaged by NSOM with three different
+polarizations as shown at top. (B) 1D schematic of the interaction of the electric field
+e emerging from the near-field aperture with the electric dipole moment p of a single
+molecule. (C) Resulting intensity I(x) ∝ ⎪e(x) ⋅ p⎪2 recorded as the aperture is scanned
+across the molecule [23].
+
+
+
+
+change as we changed the polarization of the light [23] (Figure 8A). I still re-
+member running excitedly to Horst’s office and trying to understand this, and
+together with his help, realizing that what we were seeing was the interaction of
+the electric dipole moment of the molecule with the evanescent fields inside of
+the near-field aperture (Figure 8B,C). And that was what was giving rise to these
+patterns.
+    And so, what that means is that we could turn the experiment around and
+think of the molecule as the light source and the aperture as the sample. By
+choosing molecules that were oriented along the x, y, and z axes, we could then
+map out the nanoscopic electric fields inside the aperture (Figure 9A, center
+column). We then compared this to a theory for near-field diffraction that Hans
+Bethe had developed back in 1944 [24] and were able to show very good agree-
+ment (Figure 9A, other columns). Once we had that, then we could use Bethe’s
+model to predict what kind of pattern we would see for any orientation of mole-
+cule, compare that to our data, and hence find the dipole orientation (Figure 9C)
+
+
+
+
+FIGURE 9. Mapping nanometric electric fields and measuring single dipole orientations.
+(A) Electric field components (rows) predicted near a sub-wavelength sized aperture at
+different distances (columns) from the aperture, compared to experimental components
+(center column) measured with single molecules. (B, C) Orientations of single molecules
+determined by matching measured to predicted emission patterns [23].
+
+
+118                                                                    The Nobel Prizes
+
+
+of every molecule in the field of view (Figure 9B). And given that information,
+we were then able to fit these crazy shapes to the theory and find the positions of
+these molecules down to about 12 nanometers in x and y, and about 6 nanome-
+ters in z. This became very influential for what was to happen later.
+    In another pivotal experiment, I joined forces with my best friend and col-
+league at Bell, Harald Hess. Harald had made a name for himself at Bell a few
+years earlier by building a world-class cryogenic scanning tunneling microscope
+with which, among other things, he discovered the core states at the centers of
+the vortices in the Abrikosov flux lattice of type-II superconductors. Harald’s
+and my interest was to combine my near-field probe with his low-temperature
+scope to be able to study excitons, which are the sources of light generation in
+semiconductor heterostructures, such as in this laser pointer, that won the No-
+bel Prize in 2000. Our goal was to combine the high spatial resolution obtain-
+able with my near-field probes with the high spectral resolution we could get in
+Harald’s rig by running near absolute zero (Figure 10A).
+    When we did this [25], we were surprised to find that the normally smooth
+spectrum that you see instead would break up into these crazy sharp lines. And
+furthermore, as we drove the probe even small distances from point to point,
+this spectrum would change completely (Figure 10B). What we eventually real-
+ized is that we were seeing that the excitons could not emit anywhere, but were
+confined to only certain specific points of exciton recombination, and the color
+of the light emitted at one of these points was based on the local thickness of
+the quantum well at that point. What was probably more important later on was
+that even though there might be a dozen or more of these emitting sites under-
+neath our tiny near-field probe, we could still study them individually because
+they glowed in different wavelengths. So if we built up this higher dimensional
+
+
+
+
+FIGURE 10. Near-field cryogenic spectroscopy of quantum wells. (A) Experimental sche-
+matic, showing a near-field probe (left) exciting a multiple quantum well structure (bot-
+tom), with the resulting emission measured at a spectrometer (right). (B) Comparative
+near-field and far-field spectra at a single point (top), and spectral changes with position
+(bottom). (C) Images of emission from single exciton recombination sites isolated form
+one another in a 3D space of position x,y and wavelength λ [25].
+
+
+Single Molecules, Cells, and Super-Resolution Optics119
+
+
+space of x, y and emission wavelength, we could study them individually (Figure
+10C).
+    By this time in 1994, the limitations of the near-field technique were incred-
+ibly obvious. Some of these were just engineering challenges, but some were
+truly fundamental. The foremost of these is that the near-field is ridiculously
+short. It was clear that, because of this short depth of focus, there was no way
+I was going to realize my ultimate dream of looking at live cells with the reso-
+lution of an electron microscope, so I got very frustrated. At the same time,
+though, near-field got to be a big fad, and like all scientific fads, you get a lot of
+people jumping into the field. They publish sloppy results, sweep all the prob-
+lems underneath the rug, and over-hype the capabilities. All of that made me
+very uncomfortable. And the third thing that tipped the balance for me was Bell.
+You had to work really hard to succeed at Bell, but by 1994 you could sense the
+changes that were happening in the company, and they would no longer value
+basic science in the way they used to. All these things together took two young
+and innocent guys like me and Harald in 1989 and turned us into two stressed
+and worn-out guys just five years later.
+    So with all of that combined, I said, “Screw it, I’m sick of science. I really
+hate academia. I quit.” So that’s just what I did. I really had no idea what I was
+going to do next. But after a few months of trying to flush near-field microscopy
+out of my head, I was walking my daughter around in a stroller and it hit me—I
+don’t know how or where from—that you could combine that single-molecule
+
+
+
+
+FIGURE 11. The concept of super-resolution localization microscopy. (A) A field of close-
+packed molecules unresolved, because their diffraction-limited images overlap. (B) The
+same molecules, after their mutual isolation in a higher dimensional space. (C) Super-
+resolution map of molecular positions after localization of each isolated molecule [26].
+
+
+120                                                                   The Nobel Prizes
+
+
+experiment I did with the spectroscopy experiment Harald and I did to come up
+with a different far-field way of doing super-resolution imaging.
+    The idea is that if you have a bunch of molecules that are too close together,
+their diffraction-limited spots overlap (Figure 11A). We’ve already heard about
+this in W.E.’s talk. However, if you can find some way in which they differ from
+one another—and it can be anything—then you can isolate them in a higher di-
+mensional space (Figure 11B). But once they’re isolated, you can find the centers
+of each one of their diffraction-limited spots to much better than the width of
+the spot, and hence, you plot all the coordinates of the molecules (Figure 11C).
+    I published that idea in 1995 [26]. In 1999, van Oijen and colleagues first
+demonstrated this by spectral isolation at low temperature and resolved seven
+molecules in one diffraction-limited volume in 3-D [27]. In the 2000s, several
+groups extended this to room temperature, by various means—photobleaching
+[28,29], lifetime [30], or blinking [31]. This was really a general concept I was
+trying to get across here.
+    The problem with all of these methods, though, is based on something called
+the Nyquist criterion (Figure 12). If you want to make any microscope image of
+
+
+
+
+FIGURE 12. The Nyquist criterion and the labeling density problem. With many local-
+ized molecules per period, any spatial frequency is easily detectable (center left), but
+when the number drops to two per period or less, the frequency might be missed. As a
+result, resolution in localization microscopy is limited more by density of single molecule
+labels than by the precision their localization (top right). The minimum number of local-
+izations required per diffraction-limited region increasing rapidly with dimensionality
+(lower right).
+
+
+Single Molecules, Cells, and Super-Resolution Optics121
+
+
+a certain resolution, you have to sample every resolution element divided by
+two. For example, if I sample only once every half period of this sine pattern
+(Figure 12), I can miss it completely (Figure 12, lower left). What that means is
+that if you want to get 20 nm resolution in two dimensions by this method, you
+have to have the ability to see one molecule on top of 500 that could be glowing
+at the same time. And none of the methods I just described were at the point of
+having that much isolation in that third dimension to get very much beyond the
+diffraction limit. I didn’t have a really good idea in 1995 about how to get around
+this problem, other than running at cryogenic temperatures with a near-field
+microscope. That was going to be a hero experiment, and I was sick of science,
+so I just published the idea and left it at that.
+     Eventually I ended up working for my Dad’s machine tool company in
+Michigan, where I did a number of things, but my baby, the one I’m proudest
+of, was a servo-hydraulic machine tool that married old hydraulic technology
+to modern control algorithms and the sort of energy storage principles that you
+find in hybrid cars today. It would move 4 tons at 8gs of acceleration and posi-
+tion it to 5 microns, while collapsing the size of the machine from the size of this
+stage to something about the size of a car, making it much cheaper, much faster,
+much more productive. I spent four years developing that idea, and three years
+trying to sell it, and in the end I sold two. So what I learned is that I may be a bad
+scientist, but man, am I a worse businessman.
+     By 2002, I said, “Dad, I’m tired of wasting your money. You know, I’m sorry,
+this just isn’t going to work.” And so I quit. As usual, I had no plan B. This was
+the darkest time in my life, because not only had I pissed away my academic
+career, I had also blown up my backup plan of following in my Dad’s footsteps.
+I’m 42 years old with two young kids and no job and no prospect of a job.
+     But I did something smart. Harald had also gone into industry, where he was
+considerably more successful than I was, working for a startup in San Diego. So
+I reconnected with him and we just started getting together in different parts of
+the country, like the national parks, and just talked . . . What’s the meaning of
+life? How can we have an impact before we die? What’s interesting? What we
+realized is that while neither one of us fits well in the normal academic scheme
+of things, we both really love science and we love the ability to be able to pursue
+our curiosity. So we started trying to think about what we could do to have an
+impact in science again.
+     That caused me to start reading the scientific literature, which I hadn’t done
+for 10 years. The first thing I ran across was green fluorescent protein [32]. It was
+a revelation to me—a shock—because it was such a big problem in the near-field
+days, how to label cells to get high enough labeling density and specificity. The
+
+
+122                                                                  The Nobel Prizes
+
+
+notion that you could coax a live cell with a little bit of jellyfish DNA to be able
+to get it to produce any protein you want with a fluorescent tag on it. My jaw was
+hanging down for a week in astonishment at this. Initially when I was casting
+around for an idea, I didn’t want to do microscopy, but as soon as I saw this I
+said, “Oh, shit, I’ve got to do microscopy again.”
+    While Harald and I continued to look around during my holiday from sci-
+ence, science itself wasn’t standing still. Right after GFP appeared on the scene,
+a lot of people wanted to understand its photophysics, in part to be able to do
+mutagenesis to get different colors so they could do multicolor imaging.
+    Steven Boxer’s group in 1996 noticed that there isn’t just one absorption
+hump for GFP but two. And what was even crazier is that if you would excite
+at this near-UV peak for a while, it would go down, but the peak at 488 would
+go up [33] (Figure 13A). In other words, there was some kind of weird photo-
+activation effect happening in GFP.
+    Then Tobias Meyer’s group actually exploited this for what was the first
+photo-activated pulse-chase experiment, where they used wild-type GFP and
+focused UV light to enhance the brightness of GFP in a certain part of the cell,
+and then watched how those proteins go to other parts of the cell [34] (Figure
+13B). The following year, W.E. was able to show the same phenomenon with Rob
+Dickson in GFP at the single molecule level [35] (Figure 13C). Then, around
+2000, George Patterson in Jennifer Lippincott-Schwartz’s group at NIH was very
+
+
+
+
+FIGURE 13. The development of photoactivatable GFP. (A) UV-visible double absorp-
+tion peaks of wt-GFP [33]. (B) Pulse chase experiment to trace the fate of wt-GFP lo-
+cally photoactivated in one region of a cell [34]. (C) Energy state diagram from single
+molecule photoactivation of GFP [35]. (D) Improved on/off contrast ratio of PA-GFP
+[36]. (E) Pulse chase experiment of the relative rates of nuclear and cytosolic diffusion
+of PA-GFP [36].
+
+
+Single Molecules, Cells, and Super-Resolution Optics123
+
+
+interested in following up on what Tobias had done. The problem was that the
+on/off contrast ratio for wild-type GFP was very low, so he applied directed
+mutagenesis and eventually came up with what was called PA-GFP [36]. With
+this, you could turn on the fluorescence of molecules with a much higher con-
+trast ratio (Figure 13D), and use them in much better pulse-chase experiments
+(Figure 13E).
+     In 2005, Harald recommended that we go visit the National High Magnetic
+Field Lab that was headed by our buddy from Bell, Greg Boebinger, so that we
+could meet some guy named Mike Davidson. Mike was a microscopist who had
+made a fortune selling neckties that were emblazoned with photomicrographs
+of cocktail mixes, and he channeled that money into creating the website tuto-
+rials for the major microscope companies. He made a lot of money from that,
+and then used that to follow his passion of doing live-cell imaging. Eventually
+he developed a library of 3,500 different fluorescent protein fusions. When we
+visited Mike, Harald and I learned about photo-activated GFP and the other
+photo-activated proteins that had come along. I vividly remember Harald and
+I sitting in the airport in Tallahassee and then both of us being thunderstruck
+when we realized that this idea of being able to turn on molecules one at a time
+was the missing link to make that idea I had pitched 10 years earlier to work.
+     I had been pursuing another microscope idea at the time [37,38]. We
+dropped that like a hot potato. We thought, this is easy—let’s do it and do it
+now. The problem is that Harald had quit his job a few months before. So now
+you have two guys who are unemployed—how the hell are we going to do this?
+It’s going to take too long to get a grant, too long to get VC funding. So because
+Harald doesn’t burn his bridges as effectively as I do, he was able to take a lot of
+
+
+
+
+FIGURE 14. The development of PALM. (A) La Jolla Labs, also known as Harald’s living
+room. (B) The PALM team. Clockwise from upper left: Harald Hess, Mike Davidson,
+George Patterson, and Jennifer Lippincott-Schwartz.
+
+
+124                                                                The Nobel Prizes
+
+
+his equipment from Bell. We pulled that out of the storage shed, and put $25,000
+each of our own money into it. Normally you would do it in the garage like Jobs
+and Wozniak, but we were able to put it together in Harald’s living room (Figure
+14A) because he wasn’t married. So there was nobody in the way to prevent that
+from happening. But we knew we had to work fast because this idea was going to
+be ripe and in the air, so we worked around the clock day and night in order to
+do this—or at least Harald worked day and night. I found the couch sometimes
+too comfortable, so Harald would tease me and keep taking pictures of me while
+I was asleep.
+     We were still missing one thing, though, as you had two physicists who were
+totally naïve about biology. We needed a good partner in that regard. So, shortly
+after the visit to Mike Davidson, I gave a talk at NIH that I wangled after con-
+tacting another Bell Labs friend, Rob Tycho. In the talk, I pitched the other
+microscope idea, but I asked—when I’m there could I please, please, please meet
+George Patterson and Jennifer Lippincott-Schwartz?
+     I took George and Jennifer to lunch and I swore them to secrecy and told
+them the idea that Harald and I were working on. Many people would have
+blown us off because we were two crazy guys who hadn’t published a paper in
+10 years. Jennifer doesn’t think that way, and I owe a lot of my success to her as
+well as Harald. She said, “Fantastic, bring it here.” Great! Now we had the team
+we needed (Figure 14B). After building the instrument in Harald’s living room,
+we packed it up and started working in the darkroom in Jennifer’s lab, which
+was a lot less comfortable.
+     We started doing experiments very quickly after we brought it in. George
+did all the cell culture, transfections, and molecular biology to try out a whole
+bunch of different protein fusions. We turned down the violet light so low that
+a few molecules at a time would come on. If we summed up those spots, we got
+the diffraction-limited image. But instead, if we found the center of each spot
+first and then plotted those, we started building the PALM image (Figure 15A).
+After 20,000 frames, we went from the diffraction-limit to a super-resolution
+image [39] (Figure 15B). With high enough labeling density you can get down
+to 20 nm resolution in your living room by this technique. It’s a fairly simple
+method.
+     In a way, Harald and I got lucky, because it wasn’t certain that we’d be able
+to localize enough molecules to meet the Nyquist criterion at very high resolu-
+tion. We got lucky in the sense that we found certain photo-activated proteins
+(Figure 16A) and caged dyes (Figure 16B) that had enormous on/off contrast
+ratios. There’s now a lot of work in this field, and I feel many people still don’t ap-
+preciate how important that on/off contrast ratio is to get from smushy looking
+
+
+Single Molecules, Cells, and Super-Resolution Optics125
+
+
+
+
+FIGURE 15. Photoactivated localization microscopy (PALM). (A) Repeated rounds of
+weak photoactivation with violet light activates different subsets of molecules in a speci-
+men. Summing their diffraction-limited spots produces a diffraction-limited image (left
+column), but summing the measured centers of all such spots produces the super-reso-
+lution PALM image (right column). (B) Diffraction-limited (upper left) and super-res-
+olution PALM images in different regions, showing the distribution of transmembrane
+protein CD-63 in a 70 nm section cut through lysosomes in a COS-7 cell [39].
+
+
+
+
+FIGURE 16. The importance of high molecular on/off contrast. (A) PA-GFP (left), with a
+poor contrast ratio, yields poor resolution in a PALM image of a focal adhesion, due to
+imprecise molecular localizations from surrounding background. The photoactivatable
+fluorescent protein Eos (right), with a high contrast ratio, achieves better resolution [40].
+(B) Diffraction-limited (left) and higher magnification PALM images (right) of islands
+of high contrast caged Q-rhodamine dye [39], demonstrating that PALM is not limited
+to just fluorescent proteins.
+
+
+126                                                            The Nobel Prizes
+
+
+results like that to much crisper results because of the background problems that
+you face [40].
+    We went from the idea of PALM to having the data for our Science paper that
+got me on this stage today in six months. That’s what we could do because we
+were working alone in a living room, which is a very effective environment. But
+2005 was the luckiest year of my life, and not only because of PALM. In the same
+year, by a different, crazy set of circumstances, I got introduced to Gerry Rubin.
+HHMI (Howard Hughes Medical Institute) was starting to build a freestand-
+ing research institution modeled on Bell Labs. The rebirth of Bell Labs caught
+Harald’s and my interest. Gerry was farsighted enough to hire two guys who
+hadn’t published a paper in 10 years—this was before the PALM paper came out.
+And so we went from rags to riches.
+    Once the institution (Janelia Farm) opened, we went and built the next gen-
+eration scopes. I hired postdoc Hari Shroff, Harald hired Senior Scientist Gleb
+Shtengel, and then we went to work. In my group, we focused on applications
+for the first few years. With Jan Liphardt’s group at Berkeley, we looked at che-
+motaxis receptors in E. coli [41] (Figure 17A), and were able to show that the
+various cluster sizes you see and their positions along the poles are completely
+predictable in terms of stochastic model of self-assembly, where the proteins are
+randomly inserted in the membrane and then diffuse until they stick to an exist-
+ing cluster. We also showed that many proteins, such as those in focal adhesions
+that attach the cell to the substrate, might look colocalized at the diffraction
+limit are definitely not colocalized at high resolution [42] (Figure 17B). With
+Bob Tijan’s group at Janelia, we were able to show a mechanism of gene silenc-
+ing, where core promoters (green) are spatially segregated from genes that hug
+up against the nuclear membrane [43] (red, Figure 17C). With Tom Blanpied’s
+group at Maryland we were able to look at live cultured neurons by sptPALM
+(single particle tracking PALM [44]) and show that the actin that gives rise to
+the shapes of dendritic spines is only polymerized at certain discrete locations
+[45].
+    At the same time, Harald, being the better physicist than I am, built the
+ultimate PALM microscope that uses a three-phase interfereometer he origi-
+nally developed in industry to measure the fly height of recording heads above
+a magnetic disk, that has even better sensitivity in z than in x and y [46]. He
+and Gleb then worked with Clare Waterman’s group at NIH to unravel the en-
+tire architecture of focal adhesion proteins vertically from the substrate up to
+the actin cytoskeleton [47]. In a recent paper with Jennifer’s group, they were
+able to resolve a question about ESCRT proteins which are involved in HIV
+
+
+Single Molecules, Cells, and Super-Resolution Optics127
+
+
+
+
+FIGURE 17. Applications of PALM. (A) Chemotaxis receptor clusters in E. coli [41]. (B)
+Two-color diffraction-limited and PALM views of the spatial relationship of vinculin and
+paxillin in focal adhesions [42]. (C) Spatial relationship of core promoters of transcrip-
+tion (green) relative to the nuclear membrane (red) at different stages of myogenesis
+[43]. (D) Tracks of actin polymerization in dendritic spines of live cultured neurons [45].
+
+
+
+
+budding—whether these act outside of the bud or inside of the bud—and they
+showed that the latter is true [48].
+    Harald has a lot of background from his time in industry in electron micros-
+copy, so he’s also worked at correlating electron microscopy with PALM in three
+dimensions—in one case, looking at mitochondrial nucleoids and their location
+inside of the mitochondria [49], and in another looking at clathrin-coated pits
+[50].
+    I think a lot of my success is attributable to the fact that I’m a pessimist. I like
+to focus on problems because I think problems are opportunities. Therefore, I’d
+like to say a bit about what are the problems with super-resolution microscopy
+instead of extolling its virtues. First is that, as I said earlier, based on the Nyquist
+criterion you need an insanely high density of labels [51] (Figure 12). These can
+cause overexpression of proteins to get to those levels (Figure 18A), or if you
+use exogenous dyes it’s hard enough to get enough specificity without a bunch
+of background (Figure 18B). Second, ninety-five percent of what we look at in
+super-resolution is fixed cells, but it’s known that chemical fixatives alter the
+
+
+128                                                                   The Nobel Prizes
+
+
+
+
+FIGURE 18. Problems in super-resolution. (A) Overexpression of the target protein can
+alter the physiological state of the cell [41]. (B) Exogenously-introduced dyes often have
+limited affinity for the desired target (left, actin cytoskeleton) and high residual back-
+ground (right, focal adhesion). (C) Chemical fixation can alter the ultra-structure, as
+seen here in the endoplasmic reticulum, before and after fixation.
+
+
+
+
+ultrastruture at the nanoscale (Figure 18C), so we have to put an asterisk next to
+almost everything that we learn by chemical fixation. These problems must be
+confronted by all super-resolution methods, not just PALM.
+     In what I think was a very important innovation a year ago was to get around
+the labeling density problem, Jan Ellenberg’s group studied the nuclear pore.
+Even though it was difficult to get perfect labeling of every structure, by looking
+at thousands of these stereotypical structures, they could do particle averag-
+ing techniques borrowed from cryo-electron microscopy, and then were able to
+determine the radial positions of several key proteins in the nuclear pore to less
+than 1 nm by super-resolution optics [52]. There was an ambiguity in the cryo-
+EM data as to which way a subunit was oriented inside the pore, and that was
+addressed by super-resolution microscopy in this way. A really great example.
+     Of course, we heard in Sven Lidin’s introduction that that the real promise of
+super-resolution, though, is the ability and the hope to look at living cells. But it’s
+still largely a promise. Even though there have been technical demonstrations,
+there’s been very little in terms of, I’d say, real biology learned. One problem is
+that if you want to get to higher and higher resolution, you have to collect many
+more photons than you’ve ever had to do at the diffraction limit (Figure 19,
+second column). Another is that life evolved under a solar flux of one-tenth of
+a watt per square centimeter. The super-resolution methods we’re talking about
+
+
+Single Molecules, Cells, and Super-Resolution Optics129
+
+
+
+
+FIGURE 19. Problems in live cell super-resolution. Compared to diffraction-limited live
+imaging techniques, the various super-resolution methods [53] require: large increases
+in the amount of the fluorescence the specimen must produce (leading to rapid photo-
+bleaching); much higher illumination intensities (leading to rapid phototoxicity); and
+much longer acquisition times (leading to motion-induced artifacts and restricting in-
+vestigations to slow dynamic processes).
+
+
+
+
+today require intensities anywhere from a gigawatt per square centimeter to a
+kilowatt per square centimeter (third column). You have to ask yourself what
+are you doing to the poor cell when you’re trying to look at it live? Finally, the
+acquisition times of many of these methods (fourth column) are far slower than
+the rate at which dynamics is happening in cells, so you get motion-induced
+artifacts or can’t follow the thing you want to do.
+    The one technique which can do much better, because it doesn’t offer as
+much resolution gain, is SIM [54] (structured illumination microscopy). It usu-
+ally gets only twice beyond the diffraction limit, but it really offers a lot of other
+benefits, particularly for live imaging [55] (Figure 20). It’s a shame that you can’t
+have four people win a Nobel Prize, because I think SIM is totally justified to be
+a part of this.
+    One of the pioneers of this technology was Swedish native Mats Gustafs-
+son, who eventually became my colleague at Janelia, before passing away from a
+brain tumor in 2011. We’ve been working with Mats’ SIM technique for a while
+now, and eventually found ways to push beyond this 100 nm barrier, first to 80
+nm and, with nonlinear SIM [57], down to 60 nm, while still capable of looking
+
+
+130                                                                  The Nobel Prizes
+
+
+
+
+FIGURE 20. Structured illumination microscopy excels for live imaging. (A) 2D live SIM
+image of the endoplasmic reticulum in an LLC-PK1 cell, taken from a movie of 1800 time
+points at 0.75 sec intervals [56]. (B) 3D live SIM images of mitochondria in a HeLa cell,
+showing internal structure and the dynamics of fission/fusion events [55].
+
+
+at the dynamics of living cells. I think PALM is a great tool to image structure
+at the nanoscale, but I think SIM is going to be the real winner for being able to
+look at the dynamics of living cells beyond the diffraction limit.
+    Despite this, it’s still true that no matter what you do, and no matter what
+method you want to use, the higher the spatial resolution you want to have,
+the more measurements you have to take, which takes more time, and means
+throwing more potentially damaging light at the cell. The moral of the story of
+SIM is that by backing off a bit in terms of the resolution we’re asking for, we can
+learn a lot more about cellular dynamics.
+    So, what if we back off all the way to the diffraction limit? Why would you
+want to do that? Well, the hallmark of life is that it’s animate. Every living thing
+is a complex thermodynamic pocket of reduced entropy through which mat-
+ter and energy is flowing continuously. While structural imaging will always be
+important, a complete understanding of life requires high resolution imaging
+across all four dimensions of space-time at the same time. So another focus
+of my group has been to push in this direction of 4D imaging. Over the last
+10 years, there’s been tremendous growth in light sheet microscopy [58]. We’ve
+adapted to this concept the idea of using non-diffracting beams, and particularly
+optical lattices, which was the crazy idea I was working on before Harald and I
+dropped it for PALM. Adapted instead to light sheet microscopy, now we have
+a wonderful tool to look at high-speed 3D dynamics of everything from single
+molecules to whole embryos over four orders of magnitude of space and time
+by this method, noninvasively, for very long periods of time [59] (Figure 21).
+
+
+Single Molecules, Cells, and Super-Resolution Optics131
+
+
+
+
+FIGURE 21. Rapid, noninvasive 3D live imaging with lattice light sheet microscopy [59].
+(A) Tracks denoting the plus ends of growing microtubules, color coded by velocity, dur-
+ing different stages of mitosis, seen in relationship to chromosomes (orange). (B) Com-
+putationally extracted slices at different time points through a dividing LLC-PK1 cell,
+showing the 3D spatial relationship of chromosomes (green), endoplasmic reticulum
+(magneta), and mitochondria (yellow). (C) Rapid 3D shape changes in the protozoan
+Tetrahymena thermophila at 0.31 sec intervals.
+
+
+
+
+     That got us back, finally, to super-resolution, because in the same year that
+we published the PALM paper, Robin Hochstrasser’s group published a different
+way of doing single-molecule localization, which doesn’t involve photo-activa-
+tion, but just the transient binding of molecules to cells [60]. The advantage of
+this method is you can have your whole imaging bath labeled with fluorophores
+that just keep coming, so you have an infinite army of molecules and can get
+higher and higher localization density. By pushing in that direction with our
+lattice light sheet, which allows us to get high signal-to-noise, single molecule
+imaging, even in the background of all of these molecules in the bath, we’ve
+been able to take 3-D localization microscopy up about two orders of magnitude
+in the number of localizations you can get. Plus we can look at much thicker
+samples than with wide-field localization, such as a whole dividing cell about 15
+microns thick, where we localized 300 million distinct molecules.
+
+
+132                                                                    The Nobel Prizes
+
+
+    The final challenge going forward is how to take cell biology away from
+the cover slip. That’s not where cells evolved, we need to look at them inside
+the whole organism. The problem is that the light rays are scrambled as you go
+in, and so we’re now borrowing adaptive optics techniques first developed by
+astronomers to make ground-based telescopes have resolution as good as or
+better than the Hubble space telescope. Moving deep into the brain of a living
+zebrafish embryo with this adaptive optics technique, we see low resolution and
+weak signal with the adaptive optics off (Figure 22A). That’s what you would see
+with a normal microscope. Then, when we turn the adaptive optics on (Figure
+22B,C), we see the recovered performance when we correct for the aberrations
+and return to diffraction-limited resolution [61]. Such recovery is possible even
+
+
+
+
+FIGURE 22. Adaptive optics enables deep imaging at high resolution. (A) Two-photon
+image of membrane-labeled neurons in the spinal cord of a live zebrafish embryo, 72
+hours post fertilization. (B) Same region after adaptive optical correction using direct
+wavefront sensing [61], demonstrating recovery of signal and spatial resolution. (C)
+Adaptive optical correction of a sparse subset of neurons over a large portion of the ze-
+brafish brain. (D) In vivo two-photon lateral and axial views of neural processes deep in
+the mouse cortex, before (left) and after (right) adaptive optical correction using indirect
+wavefront sensing [63].
+
+
+Single Molecules, Cells, and Super-Resolution Optics133
+
+
+in the scattering brain tissue of the mouse (Figure 22D) [62–64]. The ultimate
+goal of my group is to try to combine these technologies to be able to look deep
+in a multi-cellular context, to be able to look noninvasively and fast with meth-
+ods like lattice light sheet, and then bring in super-resolution techniques such
+as SIM and PALM to then add the high spatial resolution on top of that. At that
+point, I’m done and I’m out of microscopy and I’ll be back into that black phase
+and trying to figure out something else that I want to do.
+    I’d just like to end with a couple of things. First, there are many, many people
+to thank, but the guy I have to single out is Harald (Hess). I would have flamed
+out of Bell Labs in my first few years if I hadn’t latched onto him as a friend and a
+mentor. There’s no way I would’ve had the courage to pursue PALM on my own
+without him by my side. One of the bittersweet things about winning this award
+is not having him here by my side up on the stage. But I feel this award is very
+much as much his as it is mine.
+    The last thing I would like to say is a lot of what you heard this morning, like
+in Shuji Nakamura’s talk and Stefan Hell’s talk, and my talk, is about taking risks.
+People are always exhorted to take risks, and that’s fine. But you’re hearing that
+from guys whose risks paid off. It’s not a risk unless you fail most of the time.
+And so I’d like to dedicate my talk to all of the unknown people out there in any
+walk of life who have gambled their fortunes, their careers, and their reputations
+to take a risk but, in the end, failed. I’d just like to say that they should remember
+that it’s the struggle itself that is its own reward, and the satisfaction that you
+knew that you gave everything you had to make the world a better place. Thank
+you for your time.
+
+
+REFERENCES
+ 1. Lewis, A., Isaacson, M., Harootunian, A., Muray, A., “Development of a 500Å spa-
+    tial resolution light microscope,” Ultramicroscopy 13, 227–232 (1984).
+ 2. Betzig, E., Harootunian, A., Lewis, A., Isaacson, M., “Near-field diffraction by a slit:
+    implications for superresolution microscopy,” Appl. Opt. 25, 1890–1900 (1986).
+ 3. Betzig, E. Lewis, A., Harootunian, A., Isaacson, M., Kratschmer, E., “Near-field
+    scanning optical microscopy: development and biophysical applications,” Biophys.
+    J. 49, 269–279 (1986).
+ 4. Hamill, O.P., Marty, A., Neher, E., Sackmann, B., Sigworth, F.J., “Improved patch-
+    clamp techniques for high-resolution current recording from cells and cell-free
+    membrane patches,” Pflügers Arch. 391, 85–100 (1981).
+ 5. Ash, E.A., Nicholls, G., “Super-resolution aperture scanning microscope,” Nature
+    237, 510–512 (1972).
+ 6. Synge, E.H., “A suggested method for extending microscopic resolution into the
+    ultra-microscopic region,” Phil. Mag. 6, 356–358 (1928).
+
+
+134                                                                     The Nobel Prizes
+
+
+ 7. Lukosz, W., “Optical systems with resolving powers exceeding the classical limit,” J.
+    Opt. Sci. Am. 56, 1463–1472 (1966).
+ 8. Lukosz, W., “Experiments on superresolution imaging of a reduced object field,” J.
+    Opt. Sci. Am. 57, 163–169 (1967).
+ 9. Images courtesy of Dr. Mehdi Vaez-Iravani, Applied Materials, Inc.
+10. Betzig, E., Isaacson, M., Lewis, A., “Collection mode near-field scanning optical
+    microscopy,” Appl. Phys. Lett. 51, 2088–2090 (1987)
+11. Betzig, E., Non-destructive optical imaging of surfaces with 500Å resolution, Ph.D.
+    Thesis, Cornell University (1988).
+12. Betzig, E., Trautman, J.K., Harris, T.D., Weiner, J.S., Kostelak, R.L., “Breaking the
+    diffraction barrier: optical microscopy on a nanometric scale,” Science 251, 1468–
+    1470 (1991).
+13. Betzig, E., Finn, P.L., Weiner, J.S., “Combined shear force and near-field scanning
+    optical microscopy,” Appl. Phys. Lett. 60, 2484–2486 (1992).
+14. Betzig, E., Trautman, J.K., “Near-field optics: microscopy, spectroscopy, and surface
+    modification beyond the diffraction limit,” Science 257, 189–195 (1992).
+15. Betzig, E., Trautman, J.K., Wolfe, R., Gyorgy, E.M., Finn, P.L., Kryder, M.H., Chang,
+    C.H., “Near-field magneto-optics and high density data storage,” Appl. Phys. Lett.
+    61, 142–144 (1992),
+16. Trautman, J.K., Macklin, J.J., Brus, L.E., Betzig, E., “Near-field spectroscopy of single
+    molecules at room temperature,” Nature 369, 40–42 (1994).
+17. Hwang, J., Tamm, L.K., Böhm, C., Ramalingham, T.S., Betzig, E., Edinin, M.,
+    “Nanoscale complexity of phospholipid monolayers investigated by near-field scan-
+    ning optical microscopy,” Science 270, 610–614 (1995).
+18. Betzig, E., Chichester, R.J., Lanni, F., Taylor, D.L., “Near-field fluorescence imaging
+    of cytoskeletal actin,” Bioimaging 1, 129–135 (1993).
+19. Moerner, W.E., Kador, L., “Optical detection and spectroscopy of single molecules
+    in a solid,” Phys. Rev. Lett. 62, 2535–2538 (1989).
+20. Orrit, M., Bernard, J., “Single pentacene molecules detected by fluorescence excita-
+    tion in a p-Terphenyl crystal,” Phys. Rev. Lett. 65, 2716–2719 (1990).
+21. Shera, E.B., Seitzinger, N.K., Davis, L.M., Keller, R.A., Soper, S.A., “Detection of
+    single fluorescent molecules,” Chem. Phys. Lett. 174, 553–557 (1990).
+22. Rigler, R., Widengren, J., “Ultrasensitive detection of single molecules by fluores-
+    cence correlation spectroscopy,” BioScience 3, 180–183 (1990).
+23. Betzig, E., Chichester, R.J., “Single molecules observed by near-field scanning opti-
+    cal microscopy,” Science 262, 1422–1425 (1993).
+24. Bethe, H.A., “Theory of diffraction by small holes,” Phys. Rev. 66, 163–166 (1944).
+25. Hess, H.F., Betzig, E., Harris, T.D., Pfeiffer, L.N., West, K.W., “Near-field spectros-
+    copy of the quantum constituents of a luminescent system,” Science 264, 1740–1745
+    (1994).
+26. Betzig, E., “Proposed method for molecular optical imaging,” Opt. Lett. 20, 237–239
+    (1995).
+27. van Oijen, A.M., Köhler, J., Schmidt, J., Müller, M., Brakenhoff, G.J., “Far-field fluo-
+    rescence microscopy beyond the diffraction limit,” JOSA A 16, 909–915 (1999).
+
+
+Single Molecules, Cells, and Super-Resolution Optics135
+
+
+28. Qu, X., Wu, D., Mets, L., Scherer, N.F., “Nanometer-localized multiple single-mole-
+    cule fluorescence,” Proc. Natl. Acad. Sci. USA 101, 11298–11303 (2004).
+29. Gordon, M.P., Ha, T., Selvin, P.R., “Single-molecule high-resolution imaging with
+    photobleaching,” Proc. Natl. Acad. Sci. USA 101, 6462–6465 (2004).
+30. Heilmann, M., Herten, D.P., Heintzmann, R., Cramer, C., Müller, C., et al., “High-
+    resolution colocalization of single dye molecules by fluorescence lifetime imaging
+    microscopy,” Anal. Chem. 74, 3511–3517 (2002).
+31. Lidke, K., Rieger, B., Jovin, T., Heintzmann, R., “Superresolution by localization of
+    quantum dots using blinking statistics,” Opt. Express 13, 7052–7062 (2005).
+32. Chalfie, M., Tu, Y., Euskirchen, G., Ward, W.W., Prasher, D.C., “Green fluorescen
+    protein as a marker for gene expression,” Science 263, 802–805 (1994).
+33. Chattoraj, M., King, B.A., Bublitz, G.U., Boxer, S.G., “Ultra-fast excited state dynam-
+    ics in green fluorescent protein: multiple states and proton transfer.” Proc. Natl.
+    Acad. Sci. USA 93, 8362–8367 (1996).
+34. Yokoe, H., Meyer, T., “Spatial dynamics of GFP-tagged proteins investigated by local
+    fluorescence enhancement,” Nat. Biotech. 14, 1252–1256 (1996).
+35. Dickson, R.M., Cubitt, A.B., Tsien, R.Y., Moerner, W.E., “On/off blinking and
+    switching behavior of single molecules of green fluorescent protein,” Nature 388,
+    355–358 (1997).
+36. Patterson, G.H., Lippincott-Schwartz, J., “A photoactivable GFP for selective photo-
+    labeling of proteins and cells,” Science 297, 1873–1877 (2002).
+37. Betzig, E., “Sparse and composite coherent lattices,” Phys. Rev. A 71, 063406 (2005).
+38. Betzig, E., “Excitation strategies for optical lattice microscopy,” Opt. Express 13,
+    3021–3036 (2005).
+39. Betzig, E., Patterson, G.H., Sougrat, R., Lindwasser, O.W., Olenych, S., et al.,
+    “Imaging intracellular fluorescent proteins at nanometer resolution,” Science 313,
+    1642–1645 (2006).
+40. H. Shroff, H. White, E. Betzig, “Photoactivated localization microscopy (PALM) of
+    adhesion complexes,” Curr. Protocols in Cell Biol. 4.21.1–4.21.27 (2008).
+41. Greenfield, D., McEvoy, A.L., Shroff, H., Crooks, G.E., Wingreen, N.S., Betzig, E.,
+    Liphardt, J., “Self-organization of the Escherichia coli chemotaxis network imaged
+    with super-resolution light microscopy,” PLoS Biol. 7, e1000137 (2009).
+42. Shroff, H., Galbraith, C.G., Galbraith, J.A., White, H., Gillette, J., Olenych, S.,
+    Davidson, M.W., Betzig, E., “Dual-color superresolution imaging of genetically
+    expressed probes within individual adhesion complexes,” Proc. Natl. Acad. Sci. 104,
+    20308–20313 (2007).
+43. Yao, J., Fetter, R.D., Hu, P., Betzig, E., Tijan, R., “Subnuclear segregation of genes and
+    core promotor factors in myogenesis,” Genes Dev. 25, 569–580 (2011).
+44. Manley, S., Gillette, J.M., Patterson, G.H., Shroff, H., Hess, H.F., et al., “High-denisty
+    mapping of single molecule trajectories with photoactivated localization micros-
+    copy,” Nat. Methods 5, 155–157 (2008).
+45. Frost, N.A., Shroff, H., Kong, H., Betzig, E., Blanpied, T.A., “Single-molecule dis-
+    crimination of discrete perisynaptic sites of actin filament assembly within den-
+    dritic spines,” Neuron 67, 86–99 (2010).
+
+
+136                                                                    The Nobel Prizes
+
+
+46. Shtengel, G., Galbraith, J.A., Galbriath, C.G., Lippincott-Schwartz, J., Gillette, J.M,
+    et al., “Interferometric fluorescent super-resolution microscopy resolves 3D cellular
+    ultrastructure,” Proc. Natl. Acad. Sci. USA 106, 3125–3130 (2009).
+47. Kanchanawong, P., Shtengel, G., Pasapera, A.M., Ramko, E.B., Davidson, M.W.,
+    Hess, H.F., Waterman, C.M., “Nanoscale architecture of integrin-based cell adhe-
+    sions,” Nature 468, 580–584 (2010).
+48. Van Engelenburg, S.B., Shtengel, G., Sengupta, P., Waki, K., Jamik, M., et al.,
+    “Distribution of ESCRT machinery at HIV assembly sites reveals virus scaffolding
+    of ESCRT subunits,” Science 343, 653–656 (2014).
+49. Kopek, B.G., Shtengel, G., Xu, C.S., Clayton, D.A., Hess, H.F., “Correlative 3D super-
+    resolution fluorescence and electron microscopy reveal the relationship of mito-
+    chondrial nucleoids to membranes,” Proc. Natl. Acad. Sci. USA 109, 6136–6141
+    (2012).
+50. Sochacki, K.A., Shtengel, G., van Engelenburg, S.B., Hess, H.F., Taraska, J.W.,
+    “Correlative super-resolution fluorescence and metal replica transmission electron
+    microscopy,” Nat. Methods 11, 305–308 (2014).
+51. Shroff, H., Galbraith, C.G., Galbraith, J.A., Betzig, E., “Live-cell photoactivated
+    localization microscopy of nanoscale adhesion dynamics,” Nat. Methods 5, 417–423
+    (2008).
+52. Szymborska, A., de Marco A., Daigle N., Cordes, V.C., Briggs, J.A., Ellenberg, J.,
+    “Nuclear pore scaffold structure analyzed by super-resolution microscopy and par-
+    ticle averaging,” Science 341, 655–658 (2013).
+53. Schermelleh, L., Heintzmann, R., Leonhardt, H., “A guide to super-resolution fluo-
+    rescence microscopy,” J. Cell Biol. 190, 165–175 (2010).
+54. Gustafsson, M.G., “Surpassing the lateral resolution limit by a factor of two using
+    structured illumination microscopy,” J. Microsc. 198, 82–87 (2000).
+55. Shao, L., Kner, P., Rego, E.H., Gustafsson, M.G.L., “Super-resolution 3D micros-
+    copy of live whole cells using structured illumination,” Nat. Methods 8, 1044–1046
+    (2011).
+56. Image courtesy of Dr. Dong Li, Janelia Research Campus, HHMI
+57. Rego, E.H., Shao., L., Macklin, J.J., Winoto, L., Johansson, G.A., et al., “Nonlinear
+    structured-illumination microscopy with a photoswitchable protein reveals cellular
+    structures at 50-nm resolution,” Proc. Natl. Acad. Sci. USA 109, E135–E143 (2012).
+58. Huisken, J., Swoger, J., Del Bebe, F., Wittbrodt, J., Stelzer, E.H., “Optical sectioning
+    deep inside live embryos by selective plane illumination microscopy,” Science 305,
+    1007–1009 (2004).
+59. Chen, B-C, Legant, W.R., Wang, K., Shao, L., Milkie, D.E., et al., “Lattice light sheet
+    microscopy: imaging molecules to embryos at high spatiotemporal resolution,”
+    Science 346, 1257998 (2014).
+60. Sharonov, A., Hochstrasser, R.M., “Wide-field subdiffraction imaging by accumu-
+    lated binding of diffusing probes,” Proc Natl. Acad. Sci. USA 103, 18911–18916
+    (2006).
+61. Wang, K., Milkie, D.E., Saxena, A., Engerer, P., Misgeld, T., et al., “Rapid adaptive
+    optical recovery of optimal resolution over large volumes,” Nat. Methods 11, 625–
+    628 (2014).
+
+
+Single Molecules, Cells, and Super-Resolution Optics137
+
+
+62. Ji, N., Milkie, D.E., Betzig, E., “Adaptive optics via pupil segmentation for high reso-
+    lution imaging in biological tissues,” Nat. Methods 7, 141–147 (2009).
+63. Ji, N., Sato, T.R., Betzig, E., “Characterization and adaptive optical correction of
+    aberrations during in vivo imaging in the mouse cortex,” Proc. Natl. Acad. Sci. USA
+    109, 22–27 (2012).
+64. Wang, C., Liu, R., Milkie, D.E., Sun, W., Tan, Z., et al., “Multiplexed aberration mea-
+    surement for deep tissue imaging in vivo,” Nat. Methods 11, 1037–1040 (2014).
+
+Portrait photo of Eric Betzig by photographer Alexander Mahmoud.
+

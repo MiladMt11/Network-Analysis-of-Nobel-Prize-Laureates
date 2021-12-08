@@ -1,0 +1,1115 @@
+Fascinated Journeys into Blue Light
+Nobel Lecture, December 8, 2014
+
+by Isamu Akasaki
+Meijo University, 1-501 Shiogama-guchi, Tempaku-ku, Nagoya 468-8502 Japan, and
+Nagoya University Akasaki Research Center, Furo-cho, Chikusa-ku, Nagoya 464-8601 Japan
+
+
+
+
+1. INTRODUCTION
+
+“In the beginning there was light,” emphasizes how closely light is tied to our
+lives. Light is indispensable for mankind and for many other creatures, and
+humans have pursued light sources since ancient times. Starting with flame,
+humans have developed electric light bulbs, fluorescent lamps, and then semi-
+conductor light-emitting devices (light-emitting diodes (LEDs) and laser di-
+odes (LDs)) in the second half of the last century. Although these light sources
+cover a wide wavelength range, the development of high-energy light sources
+has largely lagged behind. Development of an efficient blue LED had been a
+long-term dream for researchers worldwide, since it is indispensable for real-
+izing LED-based full-color displays and general lighting applications.
+    Drastic improvements in the crystal quality of gallium nitride (GaN) [1] and
+the ability to control the conductivity in both p- and n-type nitride semicon-
+ductors [2, 3] in the late 1980s, have enabled the production of high-brightness
+GaN-based p-n junction blue/ultraviolet (UV) LEDs [2], high-performance
+blue-violet LDs [4] and many other novel devices. These successes triggered the
+opening of an entirely new field of electronics.
+    In this paper, I would like to describe the historical progress that led to the
+invention of the first p-n junction blue/UV LED and related optical devices.
+
+
+
+                                                                                         7
+
+
+8                                                                 The Nobel Prizes
+
+
+2. LED RESEARCH IN THE EARLY DAYS
+
+In 1962, a red LED based on gallium arsenide phosphide (GaAsP) alloys was
+developed by N. Holonyak Jr. and S. F. Bevacqua [5]. This was the first LED
+in the world to emit visible light. In 1968, a green LED was produced by R. A.
+Logan and his colleagues based on nitrogen-doped gallium phosphide (GaP: N)
+[6]. At that time, however, there was no prospect of developing practical blue-
+light-emitting devices, which operate at the shortest wavelength in the visible
+spectrum and produce the highest energy.
+    The energy of photons from light-emitting semiconductor devices, such as
+LEDs, is approximately equal to the bandgap energy (Eg) for the semiconductor
+that is being used. The wavelength of blue light is in the range 445–480 nano-
+meters (nm), which is equivalent to a bandgap energy of 2.6–2.8 eV. There were
+therefore two requirements for creating blue-light-emitting devices.
+
+Requirement [A]: it is essential to use semiconductors with an Eg of approximately
+   2.6 eV or larger, equivalent to a wavelength of 480 nm or shorter (blue light).
+   Semiconductors that have such a large Eg are referred to as “wide-bandgap
+   semiconductors.” In contrast, the Eg for the most commonly used semicon-
+   ductor, silicon, is 1.1 eV.
+Requirement [B]: it is advantageous to use direct bandgap semiconductors in
+   which the momentum of electrons at the bottom of the conduction band
+   is almost equal to that of holes at the top of the ground state valance band,
+   as shown in Fig. 1, yielding a high radiative recombination probability. In
+
+
+
+
+FIGURE 1. Band structures of GaN (direct transition type) and Si (indirect transition
+type).
+
+
+Fascinated Journeys into Blue Light9
+
+
+    contrast, indirect bandgap semiconductors exhibit a lower radiative recom-
+    bination probability, because the momentum of these electrons and holes is
+    different.
+
+    However, requirements [A] and [B] are not always sufficient conditions.
+To realize high-performance LEDs, it is essential to (1) grow high-quality sin-
+gle crystals, and (2) successfully produce p-n junctions (Fig. 2). Semiconduc-
+tors that have more holes (electron deficiency) than electrons are referred to
+as p-type semiconductors, whereas those with more electrons than holes are
+referred to as n-type semiconductors. A p-n junction is an atomically continu-
+ous boundary between a p- and n-type semiconductor, and is necessary for
+the fabrication of devices such as highly-efficient light-emitters, solar cells, and
+transistors.
+    It is, however, extremely difficult to achieve (1) and (2) in wide-bandgap
+semiconductors, and this prevented the development of high-performance
+blue-light-emitting devices for many years.
+    In the late 1960s and the 1970s, candidate materials for blue-light-emitting
+devices included silicon carbide (6H-SiC) with an Eg of 3.0 eV, zinc selenide
+(ZnSe) with an Eg of 2.7 eV, and GaN with an Eg of 3.4 eV. Of those, SiC was
+the only wide-bandgap semiconductor for which p-n junctions could be created
+in those days, and some researchers attempted to develop blue LEDs based on
+this material [7]. I had, however, absolutely no interest in this material for pho-
+tonic device applications because of its indirect band structure which prevented
+
+
+
+
+FIGURE 2. A schematic structure of a p-n junction LED.
+
+
+10                                                                   The Nobel Prizes
+
+
+TABLE 1. A comparison between ZnSe and GaN.
+
+                                         ZnSe                   GaN
+[A]   Energy gap (Eg)                    2.7 eV                 3.4 eV
+[B]   Energy band structure              direct                 direct
+[1]   Crystal growth                     straightforward        too difficult
+      Substrate                          GsAs                   sapphire
+      Lattice mismatch                   0.26%                  16%
+[2]   p-n junction                       not realized at that time
+      Number of researchers              many                   few
+      Physical & chemical stabilty       low                    high
+
+
+
+
+efficient light emission. Meanwhile, although ZnSe and GaN as summarized
+in Table 1 were known to be direct bandgap semiconductors, it was difficult
+to grow large bulk crystals of these materials, and no p-type crystals had been
+realized at that time. When it is difficult to produce large bulk crystals, epitaxial
+growth of single-crystal thin films is generally used. In vapor-phase epitaxial
+growth, source materials for a crystal growth are provided to the substrate in
+a form of a gas. Growth then takes place such that there is general alignment
+between the crystallographic axes of the grown crystals and the substrate. This
+method has been widely used in the growth of high-quality semiconductor with
+nanostructures. The terms “homoepitaxy” or “heteroepitaxy” are used when the
+grown crystal is the same as or different from the substrate crystal, respectively.
+In the latter case, it is necessary for the lattice constants of the two crystals to be
+as similar as possible to each other.
+     ZnSe emits bright light under excitation by an electron beam. Good-quality
+single-crystal ZnSe film can be grown using vapor-phase epitaxial growth on
+GaAs single-crystal substrates because the lattice constants are very similar.
+Thus, many researchers had been working on ZnSe, aiming to develop blue-
+light-emitting devices.
+     I myself, however, worried about the instability of ZnSe due to its low co-
+hesive energy (bonding energy), and its poor crystallinity because of the low
+growth temperature required. In fact a technique for p-type doping of ZnSe was
+developed later in 1988 [8], and a lasing operation in a zinc cadmium selenide
+(ZnCdSe)/ZnSe heterostructure was demonstrated in 1991 [9]. However, the
+lifetime of ZnSe-based optical devices was found to be very short, and the re-
+searchers gave up attempting to develop this material further.
+
+
+Fascinated Journeys into Blue Light11
+
+
+3. BRIEF HISTORY OF RESEARCH ON GaN-BASED MATERIALS AND DEVICES
+
+3.1. Early attempts at development of GaN blue LED
+During the early stages of group-III nitride semiconductor research, I had an
+insight into the great potential of this material for blue-light-emitting devices,
+and yearned to pioneer a new field founded on the unique properties of nitrides,
+such as their toughness, wider direct energy gaps, and non-toxicity, while I was
+working from 1964 to 1981 at Matsushita Research Institute Tokyo, Inc. (MRIT).
+     In 1967, I and Masafumi Hashimoto at MRIT grew aluminum nitride (AlN)
+crystals by vapor phase reaction, and determined the angular frequencies of lon-
+gitudinal and transverse optical phonons by fitting the calculated reflectivity to
+Reststrahlen (residual ray) [10]. It was very difficult, however, to use AlN as an
+electroluminescent material, because of its excessively large Eg of about 6.2 eV.
+     In the meantime (in 1969), H. P. Maruska and J. J. Tietjen successfully grew
+single-crystal GaN films on sapphire substrates using hydride vapor phase epi-
+taxy (HVPE) and found that GaN is a direct bandgap semiconductor with an
+Eg of 3.34 eV at room temperature (RT) [11]. Then, in 1971, J. I. Pankove et
+al. developed GaN-based metal-insulator-semiconductor (MIS) type blue LEDs
+[12]. R. Dingle et al. observed stimulated emission and laser action in single
+crystal needles of GaN at 2–4 K [13]. These achievements intensified research
+and development of blue-light-emitters based on GaN (period (A) in Fig. 3).
+     In the mid-to-late 1970s, however, GaN researchers almost withdrew from
+the field, and activity on GaN-based devices declined (period (B) in Fig. 3),
+because they could neither grow high-quality semiconductor-grade GaN single
+crystal nor control the electrical conductivity of the material (realize p-type
+conduction in particular), both of which are indispensable for producing high-
+performance light-emitters based on a semiconductor p-n junction, although
+some researchers had continued to work on the basic and physical properties
+of GaN [14, 15].
+     Besides, at that time, theoretical studies indicated the impossibility of
+achieving p-type conduction in wide-bandgap semiconductors such as GaN
+and ZnSe due to the “self-compensation effect” [16].
+     Despite this stalemate, I started to work on the growth of GaN single crystal
+film by molecular beam epitaxy (MBE) in 1973, and then by HVPE in 1975,
+aiming at the development of GaN-based p-n junction LEDs and LDs. In 1978,
+by utilizing HVPE, my group at MRIT developed a MIS-type GaN blue LED
+with a unique device structure of as-grown highly n-type (n+) GaN pillars bur-
+ied in a thick n-GaN/a thin insulating GaN structure as shown in Fig. 4. The
+n+-pillars could be used as cathodes, which greatly simplified the fabrication
+
+
+12                                                                   The Nobel Prizes
+
+
+
+
+FIGURE 3. Number of publications (INSPEC) and activities related to nitrides from 1969
+to 2002. All events are marked in the years when they were first achieved. Most of the
+important results were achieved by MOVPE using LT-buffer layer after 1986. It is clear
+that the start of the steep increase in number of publications and accomplishments is due
+to the key inventions (high-quality GaN, p- and n-type conductivity control, and p-n
+junction blue/UV LED) in the late 1980s and 1990. Achievements with underlines are
+works done by Akasaki’s group. Green: Crystal Growth, Blue: Devices, Red: Conductivity
+Control and Physics.
+
+
+of MIS-type LEDs [17, 18]. The external efficiency was 0.12%, which was the
+highest ever reported at that time. However, due to the use of a MIS structure,
+the operating voltage was high and the brightness was low, in contrast to p-n
+junction LEDs that we invented later [2].
+
+
+Fascinated Journeys into Blue Light13
+
+
+
+
+FIGURE 4. A schematic and a photograph of a MIS-type GaN blue LED developed in 1978.
+
+
+
+3.2. Reconsideration of growth technology
+In parallel with the work described above [18], I also recognized the great po-
+tential of GaN as a blue luminescent material, when I found tiny but high-qual-
+ity crystallites embedded in HVPE-grown crystals containing many cracks and
+pits in the field of view of microscopes. I was intuitively convinced that it would
+be possible to achieve conductivity control (even p-type GaN) if this kind of
+quality could be obtained over an entire wafer.
+     Thus, in 1978, I made up my mind to go back one more time to the begin-
+ning, i.e., “crystal growth,” which is an interdisciplinary sciences and essential
+for the realization of quantum devices with nanostructure.
+
+This decision, I think of, as a major turning point not only in my own GaN re-
+search, but also GaN research and development throughout the world, which had
+been stagnating at that time (Period (B) in Fig. 3).
+
+    It is known that the quality of crystal is greatly affected by the nature of the
+chemical reactions involved in their production, in other words, the growth
+method and condition. Hence, the choice of growth method was critical for de-
+termining the future of the research. Epitaxial GaN can be grown by MBE, HVPE
+or metalorganic vapor phase epitaxy (MOVPE), the latter of which is also known
+as metalorganic chemical vapor deposition (MOCVD), as described in Table 2.
+    On the basis of my crystal growth experience, I realized that MBE was prone
+to introducing a nitrogen deficiency and the growth rate was very slow at that
+time. In the case of HVPE, the crystal quality was degraded by appreciable
+
+
+14                                                               The Nobel Prizes
+
+
+TABLE 2. Crystal growth methods for GaN.
+
+                                                      I. Akasaki: (1974)
+Molecular Beam Epitaxy (MBE)                          (in Japanese).
+Ga (g) + NH3 (g) = GaN (s) + 3⁄2 H2 (g)
+Issues: Prone to nitrogen deficiency, slow growth rate
+(at that time)
+                                                      H. P. Maruska and
+Hydride Vapor Phase Epitaxy (HVPE)                    J. J. Tietjen: (1969).
+GaCl(g) + NH3 (g) = GaN (s) + HCl (g) + H2 (g)
+Issues: Susceptible to reverse reactions, too fast growth rate
+                                                      H. M. Manasevit et al:
+Metalorganic Vapor Phase Epitaxy (MOVPE)              (1971).
+Ga(CH3)3 (g) + NH3 (g) → GaN (s) + 3CH4 (g)
+Advantages:
+• No reverse reactions
+• Easy to control growth rate, allow composition, and impurity-doping
+
+
+
+
+reverse reactions, and the growth rate was too high to fabricate devices with
+layer thicknesses on the order of nanometers. Therefore, these methods were
+not suitable for producing well-controlled devices based on high-quality GaN
+crystals.
+    On the other hand, MOVPE, which was firstly applied to the growth of GaN
+by H. M. Manasevit et al. in 1971 [19], but almost never employed for this pur-
+pose thereafter, seemed to be more suitable, because of the absence of reverse
+reactions. Furthermore, the composition of alloys such as aluminum gallium
+nitride (AlGaN) and gallium indium nitride (GaInN) and the level of impurity
+doping could be readily controlled by varying the flow rates of the source gases
+in MOVPE. Thus, in 1979, I decided to adopt MOVPE as the optimal crystal
+growth method for GaN. It was a crucial decision. As for the substrate for GaN
+growth, I tentatively (until a more suitable substrate would become available)
+chose the c-face of sapphire as before, because it was stable even under the harsh
+MOVPE conditions, namely a temperature above 1000 °C and an ammonia
+(NH3) atmosphere, and is similar to GaN in terms of crystallographic symmetry.
+
+The fact that, even today, GaN-based crystals and devices are mainly grown on sap-
+phire substrates by MOVPE is a clear indication that my choices were not wrong.
+
+
+Fascinated Journeys into Blue Light15
+
+
+4. CREATION OF GaN SINGLE CRYSTAL WITH EXCELLENT QUALITY
+
+4.1. Development of low-temperature buffer layer technology in MOVPE
+After making these crucial decisions, I returned to my old nest, Nagoya Uni-
+versity, where I started anew to drastically improve the crystal quality of GaN
+grown by MOVPE in collaboration with my graduate students: Yasuo Koide
+and Hiroshi Amano, who put a lot of effort into crystal growth. Even with the
+MOVPE method, however, it was not easy for us to develop homogeneous GaN
+films. After many trials and errors, we made drastic innovations and improve-
+ments to the reactor tube and growth conditions.
+     The first improvement was that Koide mixed organometallic compounds
+such as trimethylgallium (TMGa) (and trimethylaluminum (TMAl) in the case
+of AlGaN growth) with NH3 and hydrogen (H2) gas as a carrier right in front
+of the opening of the reactor tube, and blew this mixture through a gas delivery
+tube onto a substrate that was inclined at a 45 degree angle rather than being
+placed horizontally as in previous attempts as shown in Fig. 5. We also drasti-
+cally increased the flow velocity of the gases in the reactor tube from only 2 cm
+per second to approximately 110 cm per second. We were thus able to reduce
+the formation of adducts of NH3 and the organometallic sources, and to sup-
+press convective gas flows on the high-temperature substrate, which resulted in
+a uniform gas flows and the production of homogeneous GaN films.
+     Even though the film thickness was fairly constant over the entire wafer, this
+did not mean that there were no pits or cracks. There was also no substantial im-
+provement in the electrical or optical properties, which suggested the presence
+of lattice defects and unintentionally incorporated impurities.
+     I suspected that for the most part, this was due to the large interfacial free
+energy between GaN and sapphire caused by the huge lattice mismatch of 16%
+
+
+
+
+FIGURE 5. Schematic drawings of the reactor part of the MOVPE system before and after
+the reactor design was changed.
+
+
+16                                                                The Nobel Prizes
+
+
+between the two crystals as in Fig. 6. In fact, for epitaxial growth of semiconduc-
+tor crystals, it was considered to be “gospel” to have complete lattice matching as
+in the case of GaAs growth on a GaAs substrate. For heteroepitaxial growth, even
+a mismatch of about 1% would make it difficult to grow good-quality crystals.
+    To overcome this issue, we developed low-temperature (LT-) buffer layer
+technology in 1985 [1, 18, 20]. Specifically, this is a method for producing a thin
+buffer layer from a material with physical properties similar to those of GaN and
+sapphire with a thickness of 20–50 nm, which is thin enough not to interfere
+with the transmission of crystallographic information from the substrate to the
+epitaxial layer as shown in Fig. 7. Temperature for the deposition of the buffer
+layer might suitably be several hundred °C, which is considerably lower than
+the typical growth temperature for single crystal GaN. The temperature would
+then be raised to that required for epitaxy growth of GaN single crystal, which
+is approximately 1000° C.
+    This is based on the idea of having a soft or flexible thin layer without a rigid
+structure like that of a single crystal, inserted between the substrate and the
+GaN film. The purpose of the buffer layer is to create conditions as close as pos-
+sible to those for homoepitaxy, where no interfacial free energy exists in prin-
+ciple. For the buffer layer materials, I considered AlN, GaN, zinc oxide (ZnO),
+and SiC. First, we tried AlN, with which I was already familiar [10].
+    In addition to the first improvement by Koide, Amano used the LT-AlN
+buffer layer technology combined with a further accelerated gas flow velocity
+of about 430 cm per second. By using this approach, in 1985, we eventually
+succeeded in growing the world’s first extremely high-quality (semiconductor
+
+
+
+
+FIGURE 6. Schematics of homoepitaxy (ex. GaN on GaN case) and heteroepitaxy (ex.
+GaN on sapphire case).
+
+
+Fascinated Journeys into Blue Light17
+
+
+
+
+FIGURE 7. A procedure with newly developed low-temperature buffer layer technology
+for high-quality GaN.
+
+
+
+grade) epitaxial GaN film [1], which has been the drastic innovation in the GaN
+research.
+    Scanning electron micrographs (SEM) of surfaces of GaN films grown on a
+sapphire substrate showed the surface morphology of the films to be markedly
+improved by the LT-AlN buffer layer [1, 22] as shown in Fig. 8. The GaN film
+had a specular surface with no pits or cracks, and was so transparent that letters
+written on the underlying paper could be clearly seen as shown in Fig. 8 (c).
+
+
+
+
+FIGURE 8. Scanning electron micrographs of GaN on sapphire (a) without LT-buffer
+layer and (b) with LT-buffer layer. (c) a photograph of specular and transparent GaN film
+grown on sapphire with LT-buffer layer.
+
+
+18                                                               The Nobel Prizes
+
+
+     Cross-sectional transmission electron microscopy (TEM) showed that the
+density of crystal defects such as dislocations markedly decreased with the use
+of the LT-AlN buffer layer [21]. X-ray diffraction profiles also showed that the
+crystal quality of GaN was significantly improved by this method [1, 22]. The
+residual donor (electron) concentration for GaN grown with the LT-AlN buf-
+fer layer decreased to the order of 1017 cm–3, which is more than two orders of
+magnitude lower than that for GaN grown without the LT-AlN buffer layer [22].
+Soon after, the electron concentration was further reduced to less than 1015 cm–3
+[18]. Simultaneously, the electron mobility markedly increased to several hun-
+dred cm2 V–1 s–1 [22, 23].
+     Figure 9 shows that near-band-edge emission dominated the photolumines-
+cence (PL) spectrum of the undoped GaN grown with the LT-AlN buffer layer,
+whereas deep-level-related yellow emission was the major emission from GaN
+grown without the LT-AlN buffer layer [22]. In the spectrum from another GaN
+film grown with a LT-AlN buffer layer, free exciton lines (FEA and FEB) and
+impurity-bound excitons (DBE and ABE) were clearly observed showing that
+the crystal quality was drastically improved [24]. By using the LT-AlN buffer
+layer deposited under optimum conditions, not only the crystal quality but also
+the electrical and luminescence properties of GaN were greatly improved [1, 22,
+23, 24], as already seen in Figs. 8 and 9.
+
+The thrill I felt when I finally saw transparent and specular GaN crystals is simply
+unforgettable. It was something that I had dreamed of realizing ever since the early
+1970s.
+
+
+
+
+FIGURE 9. 4.2K Photoluminescence spectra of undoped GaN films on sapphire substrates
+(a) without (dashed line in the inset) and (b) with (solid line) LT-buffer layer.
+
+
+Fascinated Journeys into Blue Light19
+
+
+    This technology is an epochal concept that provides control over the growth
+of GaN, dramatically improving the quality of GaN and its alloys, which in turn
+has resulted in conductivity control for both p- and n-type nitrides, p-n junc-
+tion blue-light-emitting device applications and a revival in the materials sci-
+ence of nitrides.
+    In 1991, S. Nakamura reported that a LT-GaN buffer layer had the same ef-
+fect as a LT-AlN buffer layer [25].
+
+Today, this LT-buffer layer technology in MOVPE has become the standard ap-
+proach to growing high-quality GaN and nitride alloys.
+
+
+4.2. Model for the growth mode
+In order to clarify the role of the LT-AIN buffer layer, different stages of GaN
+growth on the c-face of sapphire were studied by SEM and reflection high-en-
+ergy electron diffraction (RHEED) [21, 22, 23].
+    Figure 10 taken by Kazumasa Hiramatsu et al. shows (a) SEM images of
+the changes in surface morphologies during growth and (b) the corresponding
+RHEED patterns from the same region. Image (1) in Fig. 10(a) was obtained
+for the deposited AIN buffer layer, whose thickness was about 50 nm; the layer
+appears uniform and featureless. However, the image in the inset, which was
+taken at high magnification, appears to show fine particles with sizes of several
+nanometers, which seem to be embedded in the featureless structure.
+    The corresponding RHEED pattern in Fig. 10(b) shows somewhat diffuse
+spots together with a halo-like pattern, which is in agreement with the SEM
+results. The AIN buffer layer is thought to consist of fine crystallites in an amor-
+phous-like matrix. After 5 min of growth, as seen in image (2) in Fig. 10(a),
+many truncated hexagonal pyramidal mesas (trapezoidal crystals) are seen to
+have formed. Two-dimensional lateral growth then occurs for a certain period,
+as shown in image (3). Subsequently, quasi-lateral growth dominates when the
+GaN film reaches a certain thickness, as seen in image (4). Finally, the entire sub-
+strate is covered by a flat GaN film, as seen in image (5). In Fig. 10(b), RHEED
+pattern (2), obtained after 5 min of growth, is spot-like, indicating that the GaN
+islands are three-dimensional. Subsequently, the pattern becomes streaky, as the
+surface becomes flatter.
+    Figure 11 shows a low-magnification cross-sectional bright-field TEM im-
+age of a wide region of a GaN film grown using a LT-AlN buffer layer [21]. It
+can be seen that three zones with different microstructures exist within the GaN
+layer. The zone nearest to the AlN buffer layer has fine image contrasts due to a
+
+
+20                                                               The Nobel Prizes
+
+
+
+
+FIGURE 10. (a) scanning electron micrographs and (b) reflection high-energy electron
+diffraction patterns during the GaN growth on sapphire with LT-buffer.
+
+
+
+number of defects. Consequently, this zone is referred to as the “faulted zone”
+(ZF) and is about 50 nm thick. Above the faulted zone, there is another zone,
+which contains a number of trapezoid crystals, corresponding to the truncated
+hexagonal pyramidal GaN islands observed by SEM, as shown in image (3) in
+Fig. 10(a). Since the defect density in this zone is much lower than that in the
+faulted zone, it is called here the “semi-sound zone” (Zss), and is about 150 nm
+thick. The upper zones is referred to as the “sound zone” (Zs), as it contains
+only a small number of defects. In the sound zone, the defect density decreases
+abruptly for GaN layers thicker than about 300 nm, resulting in high-quality
+uniform GaN.
+
+
+Fascinated Journeys into Blue Light21
+
+
+
+
+FIGURE 11. A bright field image of GaN on sapphire with LT-AlN buffer by cross-­
+sectional TEM.
+
+
+    Figure 12 shows a dark-field cross-sectional TEM image with a little higher
+magnification in order to clarify the microstructure of the AlN layer and the
+different zones in the GaN layer. The image contrasts in the figure reveal that
+the AlN layer is composed of columnar fine crystals like frost columns. The
+diameter is of the order of 10 nm, which corresponds to the front of the colum-
+nar crystals. The AlN layer has an amorphous-like structure at the deposition
+
+
+
+
+FIGURE 12. A dark field image of GaN on sapphire with LT-AlN buffer by cross-sectional
+TEM.
+
+
+22                                                                The Nobel Prizes
+
+
+temperature, as shown in Fig. 10 (1). However, as the temperature is ramped
+from the low AlN deposition temperature to the GaN epitaxial temperature
+of about 1000° C, solid-phase regrowth occurs, and a fine columnar structure
+forms in the AlN. Similar contrast is seen in the faulted zone of the GaN, which
+suggests that GaN in the faulted zone is also composed of columnar fine crys-
+tals. It is likely that each GaN column from a GaN nucleus has formed on top of
+a columnar AlN crystal. Therefore, it is thought that high-density nucleation of
+GaN occurs owing to the much higher density of AlN columns as described in
+Fig. 13 (1)–(3), compared to the case where GaN is grown directly on a sapphire
+substrate as seen in Fig. 8 (a).
+     Figure 13 shows the proposed growth model for a GaN film on a c-face sap-
+phire substrate with a LT-AlN buffer layer. Each fine GaN crystal begins to grow
+along the c-axis, forming a columnar structure. Each of the columns is slightly
+tilted or twisted at this stage, order to absorb the strain due to the large lattice
+mismatch. This suggests that geometric selection [26] of the GaN fine crystals
+occurs, and the columnar fine GaN crystals increase accordingly in size during
+the growth, as shown in Fig. 13 (4). The number of columns emerging at the
+front gradually decrease with the front area of each column increasing accord-
+ingly. Because the only columns that survive are those that grow along the fastest
+growth directions, which is the c-axis, all columns eventually have their c-axis
+oriented normal to the substrate, as indicated by arrows in Fig. 13 (4), which
+shows the growth model for GaN film on c-face sapphire with the LT-AlN buffer
+layer. In the faulted zone, trapezoidal islands are formed on top of the columnar
+crystals, as seen in Fig. 11. At this stage, all of the columnar crystals are c-axis
+oriented, and this orientation is transferred to the trapezoidal islands, as shown
+in Fig. 13 (5). These islands preferentially grow up to become lager trapezoid
+crystals, which cover the minor island nearby, and form the semi-sound zone.
+     Subsequently, “lateral growth and coalescence” of the islands occur in the
+stages shown in SEM images (3) and (4) in Fig. 10(a). The trapezoid crystals
+grow at a higher rate in the lateral direction, as shown in image (6) in Fig. 13,
+because the growth rate of the c-face is much lower. This lateral growth contin-
+ues until the islands fully coalesce to form a continuous layer.
+     Since the crystallographic orientation of all of the islands is almost the same,
+a smooth well-oriented GaN layer with a low defect density is formed, as seen in
+Fig. 8(b). Thus, the uniform growth due to layer-by-layer growth occurs creating
+the sound zone.
+     On the other hand, in the case of direct growth without an LT-buffer layer,
+hexagonal GaN columns with many different sizes and heights are formed.
+These grow three-dimensionally resulting in a rough surface, and with many
+
+
+Fascinated Journeys into Blue Light23
+
+
+
+
+FIGURE 13. A growth model of GaN on sapphire with LT-buffer layer. “Geometric selec-
+tion” of the GaN fine crystals was suggested.
+
+
+
+
+pits at their boundaries, exposing the bare sapphire substrate, as shown in Fig.
+8(a). The optimum thickness of the deposited AIN layer was found to be around
+50 nm. If it was too thick (for example, 150 nm), the GaN film became poly-
+crystalline. Also, if the deposition temperature of the AIN buffer layer was close
+
+
+24                                                             The Nobel Prizes
+
+
+to the temperature at which AlN crystal could be grown, the surface of GaN
+showed many hexagonal hillocks [23].
+
+
+5. DISCOVERY OF p-TYPE GaN AND DEMONSTRATION OF p-n JUNCTION BLUE/
+UV LED
+
+With the successful control of the quality of GaN, we could start working on p-
+type doping. Despite repeated efforts on Zn-doping of high-quality GaN films
+grown with a LT-AlN buffer layer, no successful results were obtained (although
+the film resistivity was increased). In 1988, Amano found that the Zn-related
+luminescence intensity was greatly increased with no change in spectral shape,
+when a high-quality Zn-doped GaN film was irradiated with low-energy elec-
+tron-beam (LEEBI) at RT or lower [27]. We suspected that the Fermi level of
+the sample was changed, which potentially led to a shift towards the p-type.
+However, the samples did not exhibit p-type conduction. We then realized
+that Mg was a potentially shallower acceptor than Zn, since the difference in
+electro-negativity between Mg and Ga is smaller than that between Zn and Ga
+[28]. In early 1989, graduate student Masahiro Kito carried out Mg-doping of
+high-quality GaN grown by the LT-buffer technology. For Mg-doping, bis-cy-
+clopentadienyl Mg (CP2Mg) or methyl-CP2Mg (MCP2Mg) was used as a dopant
+precursor [29, 30].
+    Then we applied the LEEBI treatment to the sample and found that the Mg-
+related blue-luminescence intensity was markedly enhanced, while the spectral
+shape remained unchanged, and that the sample had been converted to a low-
+resistivity p-type crystal, as confirmed by Hall effect measurement [2] and later
+by electron beam induced current (EBIC) measurement [31].
+
+We immediately produced a high-performance GaN p-n junction blue/UV-LED
+with encouraging current-voltage (I–V) characteristic. This was demonstrated in
+1989 and was the first such device in the world [2] (Fig. 14(a)(b)). This LED ex-
+hibited blue light emission with a low current injection (<20 mA), and additional
+near UV light emission with a high current injection [31] (Fig. 14(c)).
+
+    As a possible mechanism for the LEEBI effect, we proposed the “Coulombic
+explosion” model [32]. In this model, electron-beam excitation generates many
+free electrons and holes (Coulombic explosion) which stimulate the breaking of
+Mg-H bonds, and create active Mg as an acceptor impurity. The validity of this
+mechanism was later confirmed by researchers at the University of Illinois [33],
+and it was found to occur even at low temperatures [27, 33].
+
+
+Fascinated Journeys into Blue Light25
+
+
+
+
+FIGURE 14. (a) GaN p-n junction blue/UV LEDs (black dots). An electric current is only
+being passed through the centered LED that is emitting blue light. (b) I-V characteristics
+of p-n junction LED (left) and MIS LED (right). (c) EL spectra of GaN p-n junction blue/
+UV LED.
+
+
+
+    In 1992, S. Nakamura and his group obtained p-type GaN by thermal an-
+nealing above 400° C in a H2-free atmosphere, rather than by electron irradi-
+ation of Mg-doped GaN using CP2Mg. It was clarified that the Mg becomes
+passivated by forming a Mg-H complex [34]. To realize p-type nitrides, it is
+therefore essential to activate the Mg acceptor by releasing the hydrogen [35].
+Indeed, there is a high concentration of hydrogen atoms in MOVPE-grown ni-
+trides. It should be noted, however, that the concentration of residual donors
+should be drastically reduced before solving problems related to hydrogen pas-
+sivation of acceptors [36], which is also a well-known issue with regard to both
+III–V compounds and Si.
+
+These results clearly shows that improving crystal quality by the LT-buffer layer
+technology, Mg-doping and its activation are the keys for the development of the
+p-type conduction in wide-bandgap nitrides.
+
+   We later went on to develop p-type nitride alloys; p-AlGaN in 1991–92 [37]
+and p-GaInN in 1995 [38] for the first time.
+
+
+6. CONDUCTIVITY CONTROL OF n-TYPE GaN AND NITRIDE ALLOYS
+
+Control of electric conductivity of n-type GaN grown without the LT-buffer
+layer had been quite difficult, because of the high residual donor concentration
+of greater than 1019 cm–3. On the other hand, when an LT-AlN buffer layer was
+used, the conductivity of n-type GaN became extremely low due to the drastic
+
+
+26                                                             The Nobel Prizes
+
+
+
+
+FIGURE 15. Electron concentrations in GaN (●) and AlGaN (○) as a function of SiH4
+flow rate.
+
+
+
+reduction in the residual donor concentration. Control of n-type conductivity is
+extremely important for many types of nitride-based devices. In 1990, we suc-
+ceeded in controlling the conductivity of n-type GaN [3] (and AlGaN in 1991
+[39]), over a range of about two orders of magnitude, by Si doping using SiH4,
+as shown in Fig. 15. High crystalline quality was again maintained by the use of
+the LT-buffer layer technology.
+
+This conductivity-control method now enjoys widespread use around the world.
+
+The conductivity control of high-quality p-type and n-type GaN and nitride alloys
+has allowed the use of heterostructure and multi-quantum wells (MQWs) for more
+efficient p-n junction light-emitting structures.
+
+
+7. BRIEF HISTORY OF NITRIDE-BASED BLUE LEDs
+
+In 1992, we improved the external quantum efficiency of the blue/UV LED to
+1.5% (power conversion efficiency of more than 1%) by employing an AlGaN/
+GaN double heterostructure (DH) [40]. And in 1994, the first commercial Al-
+GaN/GaInN: Zn, Si DH blue LED with the external quantum efficiency of 2.7
+% was launched [41]. In 1992, we also developed the first UV LEDs based on
+p-AlGaN/GaN/n-AlGaN DH with an output power of several mW at RT [42].
+
+
+Fascinated Journeys into Blue Light27
+
+
+
+
+FIGURE 16. Chronological developments in external quantum efficiency, ηext of nitride-
+based blue LEDs (1971–2000).
+
+
+
+
+    Chronological developments in the external quantum efficiency, ηext of
+nitride-based blue LEDs between 1971 and 2000 are shown in Fig. 16 [43]. It
+can be seen that ηext was relatively constant at about 0.1%, before the break-
+throughs described in this paper. It began to increase steeply soon after suc-
+cess was achieved in growing high-quality nitride crystals, which resulted in
+the GaN p-n junction LED [2]. To improve the emission efficiency of blue LEDs
+and the performance of violet LD, the use of GaInN alloy as an active layer
+is essential. The first successful growth of single-crystal GaInN alloy was re-
+ported in 1989–1991 [44, 45]. Although it was soon used as the active layer of
+blue DH-LEDs, the devices functioned via donor-acceptor-pair emission rather
+than band-edge emission because of the low quality of GaInN. Growth of high-
+quality GaInN/GaN quantum wells (QWs) [46] and multiple QWs (MQWs)
+[47] exhibiting distinct band-edge emission, which is currently used as an active
+layer in blue LEDs, was first reported in 1995. In 2002, M. Yamada et al. reported
+that blue LEDs using such high-quality GaInN/GaN MQWs exhibited a ηext of
+higher than 36% [48]. They have been used as an excitation source for yellow
+phosphors in white LEDs [49, 50].
+
+
+28                                                                 The Nobel Prizes
+
+
+8. DEVELOPMENT OF NITRIDE-BASED LDs AND OTHER DEVICES
+
+In 1990, we also succeeded for the first time in achieving RT stimulated emis-
+sion in the UV range by optical excitation at a power that was one order of mag-
+nitude lower than before that previously required [51], showing that GaN is of
+high-quality as shown previously. Figure 17 [42, 43] shows the threshold power,
+Pth for stimulated emission from nitrides over the years. Before 1986, stimulated
+emission with optical excitation could only be achieved at low temperatures and
+Pth was very high. We proposed that a significant reduction in Pth would be
+possible with the use of DHs or separate-confinement heterostructures (SCHs).
+This is due to the fact that the refractive index of the nitride system decreases
+with increasing bandgap energy [52]. Similar to the increase in blue LED effi-
+ciency shown in Fig. 16, Pth began to decrease exponentially immediately after
+
+
+
+
+FIGURE 17. Chronological developments in threshold power for stimulated emission
+by optical pumping (before 1995) and current injection (after late 1995) from nitrides
+(1971–2000).
+
+
+Fascinated Journeys into Blue Light29
+
+
+the marked improvement in the crystal quality of nitrides, described in the pre-
+vious section. By optimizing the heterostructure, we obtained a new record of
+the lowest Pth almost every year between 1990 and 1995.
+    In 1995, we found that band-edge emission for GaInN/GaN MQWs with
+well widths of less than 3 nm, which roughly corresponds to the Bohr radius
+for excitons or electrons in GaN, was three orders of magnitude higher than
+that for a thick GaInN QW as shown in Fig. 18 [53]. In 1997, this phenomenon
+was qualitatively attributed to suppression of the quantum confined Stark effect
+(QCSE) [54, 55] in such narrow wells. The QCSE is caused by the presence of
+a large piezoelectric field [54] in the GaInN well, which was found to be about
+1 MV/cm for an InN molar fraction of 0.1. By adopting such thin QWs as the
+active layer, we succeeded in demonstrating the first stimulated emission at 388
+
+
+
+
+FIGURE 18. 77K PL intensities of GaInN/GaN QWs as a function of GaInN well width.
+
+
+30                                                             The Nobel Prizes
+
+
+
+
+FIGURE 19. A stimulated emission spectrum from a GaInN/GaN QW device under
+pulsed current injection at room temperature.
+
+
+
+
+nm from a GaInN/GaN QW device with well width of 2.5 nm under pulsed cur-
+rent injection at RT as shown in Fig. 19 [56].
+    Shortly after that, a group at Nichia Corporation reported a distinct pulsed
+lasing operation at 405 nm using an active layer composed of thin QWs [57].
+We achieved pulsed laser oscillations from a diode with a single quantum well
+at 376 nm in 1996 [58] and at 350.9 nm in 2004 [59], which were the shortest
+wavelengths at that time. The first RT continuous-wave operation of a 405 nm
+blue-violet LD was reported in 1996 [60], and such devices were later adapted
+as the light source for high density digital disk systems. In 2000, we developed a
+high-sensitivity solar-blind UV sensor with low dark current [61], and in 2006
+a high on-off ratio, low on-resistance, and normally-off mode AlGaN/GaN het-
+erostructure field effect transistors [62].
+    With regard to quantum effects in the nitride system, we verified quantum
+size effect in 1991 [63], and the piezoelectric and quantum confined Stark ef-
+fects in 1997 [54] as described above. In 2000 [64], Tetsuya Takeuchi et al. theo-
+retically determined the orientation dependence of the piezoelectric field and
+showed the existence of non-/semi-polar nitride crystal planes (see Fig. 20).
+This has triggered world-wide efforts to grow such crystals in order to produce
+
+
+Fascinated Journeys into Blue Light31
+
+
+
+
+FIGURE 20. Calculated longitudinal piezoelectric field in strained Ga0.9In0.1N on GaN as
+a function of the polar angle from (0001).
+
+
+more efficient light-emitters such as high-efficiency green/yellow-green LEDs
+[65], high-power blue-violet LEDs [66], and high-power green LDs [67].
+
+
+9. SUMMARY AND FUTURE EXPECTATIONS
+
+The creation of high-quality semiconductor-grade single crystals of GaN and
+related alloys, realization of low-resistivity p-type GaN, and conductivity con-
+trol in n-type nitrides are all of great practical importance, and by 1991, these
+final pieces of the puzzle were in place. Stretching back to the late 1980s to the
+early 1990s, the remarkable achievements in GaN-based materials and devices
+have caught the eye of many scientists around the world, who become engaged
+in research in this field. Many topics relating to GaN-based LEDs and LDs have
+been published in scientific journals and presented at international conferences.
+Nitride research has become one of the most exciting themes in the world.
+     Turning back to Fig. 3, it shows the number of publications per year re-
+ferred from INSPEC using the keyword GaN; major events in the history of
+nitride research are indicated. Events are labeled by the year when they were
+first achieved, anywhere in the world. As can be seen, the number of papers in
+1969 is only 4 but it increased to 34 in 1975, inspired by the first GaN single
+crystal [11], the MIS LED [12], and stimulated emission from GaN at 2K [13]
+(period (A)).
+     The number then decreased until the year 1985, indicating that GaN research
+activity declined (period (B)), since the difficulty in achieving high-quality GaN
+
+
+32                                                              The Nobel Prizes
+
+
+and p-type conduction had come to be realized. However, after we succeeded
+in creating GaN single crystal with excellent quality (1986) and creating a GaN
+p-n junction blue/UV LED (1989), the number of published papers began to
+increase. The increase was exponential to 60 in 1991 after a short incubation
+period (period (C)), to 370 in 1995, to 1200 in 1997, and to 2040 in 2000 (period
+(D)).
+    At present, the aforementioned innovations of blue LEDs allow us to com-
+plete the set of three primary colors of light using semiconductors. Coupled
+with existing high-brightness red LEDs, blue/green LEDs are leading to the
+development of completely solid-state full-color displays, traffic lights, signals,
+signage, and specialized lighting applications. White LEDs composed of nitride-
+based blue/UV LEDs and yellow phosphor are two times more efficient than
+fluorescent lamps, and as such, white LEDs are now being used in TVs, mobile
+phones, computer displays and general lighting equipment. The white and UV
+LEDs are expected to be used for bio-medical applications, such as sterilization,
+microscopic level diagnoses, and medical treatments. Blue LEDs, combined
+with existing red LEDs are also being used for agricultural lighting sources.
+GaN-based LED lamps can operate for many hours on electricity produced by
+a solar battery, and can be used in places on Earth where there is no electrical
+power supply.
+    Long-lifetime nitride-based violet LDs are being used to read and write data
+in optical disc systems. Coupled with existing red LDs, GaN-based blue and
+green LDs are expected to be used in mini-projectors.
+    GaN-based group-III nitride semiconductors are also promising for high-
+speed/high-power electronic devices, due to their high electron saturation ve-
+locities and high breakdown voltages. Such devices are important in the mobile
+telecommunications industry, for energy saving in vehicles such as trains and
+automobiles, and also for home electrical appliances such as air conditioners
+and refrigerators.
+    All of these nitride-based devices are robust in harsh environments, allow
+a significant amount of energy to be saved, and provide a route to avoid the use
+of hazardous materials. The use of nitride-based devices will be one of our most
+powerful tools in the fight against global warming.
+
+
+ACKNOWLEDGEMENTS
+
+The author wishes to express his sincere appreciation to many collaborators: M.
+Hashimoto, Y. Ohki, Y. Toyoda, M. Ohshima, N Mazda, H. Kobayasi, and M.
+Matsuki at Matsushita Research Institute Tokyo, Inc., numerous students and
+
+
+Fascinated Journeys into Blue Light33
+
+
+co-researchers: N. Sawaki, K. Hiramatsu, Y. Koide, H. Amano, M. Kito, and H.
+Murakami at Nagoya University and S. Kamiyama, T. Takeuchi, and M. Iwaya
+at Meijo University, and B. Monemar at Linköping/Lund Universities, for their
+great contributions throughout this research.
+    His special thanks are extended to Toyoda Gosei Company Ltd., Toyota
+Central Research Laboratory, and Japan Science and Technology Agency for
+their co-operation in the development and production of GaN-based blue LEDs
+and related materials.
+    This work received financial supports from the Ministry of International
+Trade and Industry, Japan (at that time), the Ministry of Education, Culture,
+Sports, Science and Technology, Japan, and the Japan Society for Promotion of
+Science.
+    Finally, the author would like to thank the Nobel Foundation and mem-
+bers of the Royal Swedish Academy of Sciences for honouring our “invention
+of efficient blue-LEDs which has enabled bright and energy-saving white light
+sources.”
+
+
+
+
+REFERENCES
+ 1. H. Amano, N. Sawaki, I. Akasaki, and Y. Toyoda, “Metalorganic vapor phase epi-
+    taxial growth of a high quality GaN film using an AlN buffer layer,” Appl. Phys. Lett.,
+    48, 5, 353 (1986).
+ 2. H. Amano, M. Kito, K. Hiramatsu, and I. Akasaki, “P-Type conduction in Mg-doped
+    GaN treated with low-energy electron beam irradiation (LEEBI),” Jpn. J. Appl. Phys.,
+    28, 12, L2112 (1989).
+ 3. H. Amano and I. Akasaki, “Fabrication and properties of GaN p-n junction LED,”
+    Ext. Abstr. Mat. Res. Soc., (EA-21), 165 (1990).
+ 4. S. Nakamura, M. Senoh, S. Nagahama, N. Iwasa, T. Yamada, T. Matsushita, H.
+    Kiyoku, and Y. Sugimoto, “InGaN-based multi-quantum-well-structure laser
+    diodes,” Jpn. J. Appl. Phys., 35, L74 (1996).
+ 5. N. Holonyak Jr. and S. F. Bevacqua, “Coherent (visible) light emission from Ga(As1-
+    xPx) junctions,” Appl. Phys. Lett., 1, 82 (1962).
+ 6. R. A. Logan, H. G. White, and W. Wiegman, “Efficient green electroluminescence in
+    nitrogen-doped GaP p-n junctions,” Appl. Phys. Lett., 13, 139 (1968).
+ 7. H. Matsunami, M. Ikeda, A. Suzuki, and T. Tanaka, “SiC blue LED’s by liquid phase
+    epitaxy,” IEEE Trans. Electron Devices, ED-24, 958 (1977).
+ 8. R. M. Park, M. B. Troffer, C. M. Rouleau, J. M. DePuydt, and M. A. Haase, “p-type
+    ZnSe by nitrogen atom beam doping during molecular beam epitaxial growth,”
+    Appl. Phys. Lett., 57, 2127 (1990).
+ 9. M. A. Hasse, J. Qiu, J. M. DePuydt, and H. Cheng, “Blue-green laser diodes,” Appl.
+    Phys. Lett., 59, 1272 (1991).
+
+
+34                                                                    The Nobel Prizes
+
+
+10. I. Akasaki and M. Hashimoto, “Infrared lattice vibration of vapor-grown AlN,” Solid
+    State Commun., Vol. 5, pp. 851–853, (1967).
+11. H. P. Maruska and J. J. Tietjen, “The preparation and properties of vapor-deposited
+    single-crystalline GaN,” Appl. Phys. Lett., 15, 327 (1969).
+12. J. I. Pankove, E. A. Miller, and J. E. Berkeyheiser, “GaN electroluminescent diodes,”
+    RCA Review, 32, 383 (1971).
+13. R. Dingle, K. L. Shaklee, R. F. Leheny, and R. B. Zetterstrom, “Stimulated emission
+    and laser action in gallium nitride,” Appl. Phys. Lett., 19, 5 (1971).
+14. e.g. E. Ejder, “Refractive index of GaN,” Physica Status Solidi, A6, 445 (1971).
+15. e.g. B. Monemar, “Fundamental energygap of GaN from photoluminescence excita-
+    tion stectra,” Phys. Rev., B10, 676 (1974).
+16. G. Mandel, “Self-compensation limited conductivity in binary semiconductors.
+    I. Theory,” Phys. Rev., 134, A1073 (1964).
+17. Y. Ohki, Y. Toyoda, H. Kobayasi and I. Akasaki, “Fabrication and properties of a
+    practical blue-emitting GaN m-i-s diode,” Inst. Phys. Conf. Ser., 63, 479 (1981).
+18. I. Akasaki and H. Amano (Invited Review Paper), “Breakthroughs in improving
+    crystal quality of GaN and invention of the p-n junction blue-light-emitting diode,”
+    Jpn. J. Appl. Phys., 45, 9001 (2006), I. Akasaki and H. Amano: Erratum, “[Jpn.
+    J. Appl. Phys. 45, 9001],” Jpn. J. Appl. Phys., 47, 3781 (2008).
+19. H. M. Manasevit, F. M. Erdmann and W. I. Simpson, “The use of metalorganics in
+    the preparation of semiconductor materials: IV. The nitrides of aluminum and gal-
+    lium,” J. Electrochem. Soc., 118, 1864 (1971).
+20. I. Akasaki and N. Sawaki, Jpn. Patent 1,708,203 (appl:1985.11.18), U.S. Patent
+    4,855,249, and later K. Manabe, H. Kato, I. Akasaki, K. Hiramatsu and H. Amano,
+    Jpn. Patent 3,026,087 (appl:1989.3.1), U.S. Patent 5,122,845 etc.
+21. K. Hiramatsu, S. Itoh, H. Amano, I. Akasaki, N. Kuwano, T. Shiraishi and K. Oki,
+    “Growth mechanism of GaN grown on sapphire with A1N buffer layer by MOVPE,”
+    J. Crystal Growth, 115, 628 (1991).
+22. I. Akasaki, H. Amano, Y. Koide, K. Hiramatsu and N. Sawaki, “Effects of AlN
+    buffer layer on crystallographic structure and on electrical and optical properties of
+    GaN and Ga1–xAlxN (0 < x ≦ 0.4) films grown on sapphire substrate by MOVPE,”
+    J. Crystal Growth, 98, 209 (1989).
+23. H. Amano, I. Akasaki, K. Hiramatsu, N. Koide and N. Sawaki, “Effects of the buffer
+    layer in metalorganic vapor phase epitaxy of GaN on sapphire substrate,” Thin Solid
+    Films, 163, 415 (1988).
+24. B. Monemar, J. P. Bergman, I. A. Buyanova, W. Li, H. Amano and I. Akasaki, “Free
+    excitons in GaN,” MRS Internet Journal of Nitride Semiconductor Research, 1, Art.
+    2 (1996).
+25. S. Nakamura, “GaN growth using GaN buffer layer,” Jpn. J. Appl. Phys., 30, L1705
+    (1991).
+26. A. A. Chernov, Modern Crystallography III, Crystal Growth (Springer series in
+    Solid-State Science, vol. 6, Springer-Verlag, Berlin, 1984) p. 64.
+27. H. Amano, I. Akasaki, T. Kozawa, K. Hiramatsu, N. Sawaki, K. Ikeda and Y. Ishii,
+    “Electron beam effects on blue luminescence of zinc-doped GaN,” Journal of
+    Luminescence, 40/41, 121 (1988).
+
+
+Fascinated Journeys into Blue Light35
+
+
+28. J. C. Phillips, Bonds and bands in semiconductors, Academic Press, New York and
+    London (1973).
+29. I. Akasaki, H. Amano, M. Kito, K. Hiramatsu, and N. Sawaki, “Pure-blue electro-
+    luminescence from Mg-doped GaN grown by MOVPE,” Electrochem. Soc. 175th
+    Meeting (SOTAPOCS-X) 673-SOA, 1989.
+30. H. Amano, M. Kitoh, K. Hiramatsu and I. Akasaki, “Growth and luminescence
+    properties of Mg-doped GaN prepared by MOVPE,” J. Electrochem. Soc., 137, 1639
+    (1990).
+31. I. Akasaki, H. Amano, M. Kito and K. Hiramatsu, “Photoluminescence of Mg-doped
+    p-type GaN and electroluminescence of GaN p-n junction LED,” J. Luminescence,
+    48/49, 666 (1991).
+32. T. A. Carlson and R. M. White, “Measurement of the relative abundances and recoil-
+    energy spectra of fragment ions produced as the initial consequences of x-ray inter-
+    action with CH3I, HI, and DI,” J. Chem. Phys., 44, 4510 (1966).
+33. X. Li and J. J. Coleman, “Time-dependent study of low energy electron beam irradi-
+    ation of Mg-doped GaN grown by metalorganic chemical vapor deposition,” Appl.
+    Phys. Lett., 69, 1605 (1996).
+34. S. Nakamura, T. Mukai, M. Senoh and N. Iwasa, “Thermal annealing effects on
+    p-type Mg-doped GaN films,” Jpn. J. Appl. Phys., 31, L139 (1992).
+35. J. A. Van Vechten, J. D. Horning and B. Goldenberg, “Defeating compensation in
+    wide gap semiconductors by growing in H that is removed by low temperature de-
+    ionizing radiation,” Jpn. J. Appl. Phys., 31, 3662 (1992).
+36. “Hydrogen in Semiconductors II,” ed. by N. H. Nickel in Semiconductors and
+    Semimetals, Vol. 61, Academic Press, San Diego, USA and others (1999).
+37. I. Akasaki and H. Amano, “Conductivity Control of AlGaN, fabrication of AlGaN/
+    GaN multi-heterostructure and their application to UV/blue light emitting
+    devices,” Mat. Res. Soc. Symp. Proc., 242, 383 (1992) (Symposium held December
+    2–6,1991,Boston).
+38. S. Yamasaki, S. Asami, N. Shibata, M. Koike, K. Manabe, T. Tanaka, H. Amano and
+    I. Akasaki, “p-type conduction in Mg-doped Ga0.91In0.09N grown by metalorganic
+    vapor-phase epitaxy,” Appl. Phys. Lett., 66, 9, 1112 (1995).
+39. H. Murakami, T. Asahi, H. Amano, K. Hiramatsu, N. Sawaki and I. Akasaki,
+    “Growth of Si-doped AlxGa1–xN on (0001) sapphire substrate by metalorganic vapor
+    phase epitaxy,” J. Crystal Growth, 115, 648 (1991).
+40. I. Akasaki, H. Amano, K. Itoh, N. Koide and K. Manabe: “GaN-based UV/blue light
+    emitting devices,” Inst. Phys. Conf. Ser., 129, 851 (1992)
+41. S. Nakamura, T. Mukai and M. Senoh, “Candelaclass highbrightness InGaN/AlGaN
+    double heterostructure blue light emitting diodes,” Appl. Phys. Lett., 64, 1687 (1994).
+42. I. Akasaki and H. Amano, “Room temperature ultraviolet/blue light emitting
+    devices based on AlGaN/GaN multi-layered structure,” Ext. Abstr. 24th Int. Conf.
+    Solid State Devices and Mater., p. 327 (1992).
+43. I. Akasaki and H. Amano, “Crystal growth and conductivity control of group III
+    nitride semiconductors and their application to short wavelength light emitters,”
+    Jpn. J. Appl. Phys., 36, 5393 (1997).
+
+
+36                                                                      The Nobel Prizes
+
+
+44. T. Nagatomo, T. Kuboyama, H. Minamino and O. Otomo, “Properties of Ga1–xInxN
+    films prepared by MOVPE,” Jpn. J. Appl. Phys., 28, L1334 (1989).
+45. N. Yoshimoto, T. Matsuoka, T. Sasaki and A. Katsumi, “Photoluminescence of
+    InGaN films grown at high temperature by metalorganic vapor phase epitaxy,” Appl.
+    Phys. Lett., 59, 2251 (1991).
+46. S. Nakamura, M. Senoh, N. Iwasa, S. Nagahama, T. Yamada and T. Mukai,
+    “Superbright green InGaN single-quantum-well-structure light-emitting diodes,”
+    Jpn. J. Appl. Phys., 34, L1332 (1995).
+47. H. Amano and I. Akasaki, “Fabrication and properties of GaN-based quantum well
+    structure for short wavelength light emitter,” Ext. Abstr. Int. Conf. Solid State Devices
+    and Materials, V-7, 683(1995).
+48. M. Yamada, T. Mitani, Y. Narukawa, S. Shioji, I. Niki, S. Sonobe, K. Deguchi, M.
+    Sano and T. Mukai, “InGaN-based near-ultraviolet and blue-light-emitting diodes
+    with high external quantum efficiency using a patterned sapphire substrate and a
+    mesh electrode,” Jpn. J. Appl. Phys., 41, L1431 (2002).
+49. K. Bando, K. Sakano, Y. Nobuchi, and Y. Shimizu, “Development of high-bright and
+    pure-white LED lamp,” Journal of Light and Visual Environment, 22, 2 (1998).
+50. Y. Shimizu, A. Banno, Jpn. Pat, 2,927,279 (1999) “Light-emitting diode” [in
+    Japanese].
+51. H. Amano, T. Asahi and I. Akasaki, “Stimulated emission near ultraviolet at room
+    temperature from a GaN film grown on sapphire by MOVPE using an AlN buffer
+    layer,” Jpn. J. Appl. Phys., 29, 2, L205 (1990).
+52. I. Akasaki and H. Amano, “MOVPE growth of high quality AlxGa1–xN/GayIn1–yN (x
+    ≥ 0, y ≤ 1) heterostructure for short wavelength light emitter,” Mat. Res. Soc. Symp.
+    Proc., 339, 443 (1994).
+53. I. Akasaki, H. Amano, and I. Suemune, Inst. Phys. Conf. Ser., 142, 7 (1996).
+54. T. Takeuchi, S. Sota, M. Katsuragawa, M. Komori, H. Takeuchi, H. Amano and
+    I. Akasaki, “Quantum-confined stark effect due to piezoelectric fields in GaInN
+    strained quantum wells,” Jpn. J. Appl. Phys., 36, 2, 4A, L382 (1997).
+55. T. Takeuchi, C. Wetzel, S. Yamaguchi, H. Sakai, H. Amano and I. Akasaki,
+    “Determination of piezoelectric fields in strained GaInN quantum wells using the
+    quantum-confined Stark effect,” Appl. Phys. Lett., 73, 1691 (1998).
+56. I. Akasaki, H. Amano, S. Sota, H. Sakai, T. Tanaka and M. Koike, “Stimulated
+    Emission by Current Injection from an AlGaN/GaN/GaInN Quantum Well Device,”
+    Jpn. J. Appl. Phys., 34, 11B, L1517 (1995).
+57. S. Nakamura, M. Senoh, S. Nagahama, N. Iwasa, T. Yamada, T. Matsushita, H.
+    Kiyoku, Y. Sugimoto, “InGaN-Based Multi-QuantumWell-Structure Laser Diodes,”
+    Jpn. J. Appl. Phys., 35, 1B, L74 (1996).
+58. I. Akasaki, S. Sota, H. Sakai, T. Tanaka, M. Koike and H. Amano, “Shortest wave-
+    length semiconductor laser diode,” Electronics Letters, 32, 12, 1105 (1996).
+59. K. Iida, T. Kawashima, A. Miyazaki, H. Kasugai, S. Mishima, A. Honshio, Y. Miyake,
+    M. Iwaya, H. Amano and I. Akasaki, “350.9nm UV laser diode grown on low-dislo-
+    cation-density AlGaN,” Jpn. J. Appl. Phys., 43, 4A, L499 (2004).
+60. S. Nakamura, M. Senoh, S. Nagahama, N. Iwasa, T. Yamada, T. Matsushita, Y.
+    Sugimoto and H. Kiyoku, “Room-temperature continuous-wave operation of
+
+
+Fascinated Journeys into Blue Light37
+
+
+      InGaN multi-quantum-well structure laser diodes,” Appl. Phys. Lett., 69, 4056
+      (1996)
+61.   C. Pernot, A. Hirano, M. Iwaya, T. Detchprohm, H. Amano and I. Akasaki, “Solar-
+      blind UV photodetectors based on GaN/AlGaN p-i-n photodiodes,” Jpn. J. Appl.
+      Phys., 39, 2, 5A, L387 (2000).
+62.   T. Fujii, N. Tsuyukuchi, M. Iwaya, S. Kamiyama, H. Amano and I. Akasaki, “High
+      on/off ratio in enhancement-mode AlxGa1–xN/GaN junction heterostructure field-
+      effect transistors with p-Type GaN gate contact,” Jpn. J. Appl. Phys., 45, 39, L1048
+      (2006).
+63.   K. Itoh, T. Kawamoto, H. Amano, K. Hiramatsu and I. Akasaki, “Metalorganic
+      vapor phase epitaxial growth and properties of GaN/Al0.1Ga0.9N layered structures,”
+      Jpn. J. Appl. Phys., 30, 9A, 1924 (1991).
+64.   T. Takeuchi, H. Amano and I. Akasaki, “Theoretical study of orientation depen-
+      dence of piezoelectric effects in wurtzite strained GaInN/GaN heterostructures and
+      quantum wells,” Jpn. J. Appl. Phys., 39, 413 (2000).
+65.   S. Yamamoto, Y. Zhao, C. C. Pan, R. B. Chung, K. Fujito, J. Sonoda, S. P. DenBaars,
+      and S. Nakamura, “High-efficiency single-quantum-well green and yellow-green
+      light-emitting diodes on semipolar (202̅ 1) GaN substrates,” Appl. Phys. Exp., 3,
+      122102 (2010).
+66.   Y. Zhao, S. Tanaka, C.-C. Pan, K. Fujito, D. Feezell, J. S. Speck, S. P. DenBaars, and S.
+      Nakamura, “High-Power Blue-Violet Semipolar (202̅ 1̅ ) InGaN/GaN Light-Emitting
+      Diodes with Low Efficiency Droop at 200 A/cm2,” Appl. Phys. Exp., 4, 082104 (2011).
+67.   S. Takagi, Y. Enya, T. Kyono, M. Adachi, Y. Yoshizumi, T. Sumitomo, Y. Yamanaka,
+      T. Kumano, S. Tokuyama, K. Sumiyoshi, N. Saga, M. Ueno, K. Katayama, T. Ikegami,
+      T. Nakamura, K. Yanashima, H. Nakajima, K. Tasai, K. Naganuma, N. Fuutagawa,
+      Y. Takiguchi, T. Hamaguchi, and M. Ikeda, “High-power (over 100 mW) green
+      laser diodes on semipolar {202̅ 1} GaN substrates operating at wavelengths beyond
+      530nm,” Appl. Phys. Exp., 5, 082102 (2012).
+
+Portrait photo of Isamu Akasaki by photographer Alexander Mahmoud.
+

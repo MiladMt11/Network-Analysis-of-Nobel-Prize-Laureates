@@ -1,0 +1,1583 @@
+DEFINING AND MEASURING OPTICAL
+FREQUENCIES: THE OPTICAL CLOCK
+OPPORTUNITY – AND MORE
+Nobel Lecture, December 8, 2005
+by
+John L. Hall
+
+JILA, NIST, and University of Colorado, Boulder, CO 80309-0440, USA.
+
+
+
+ABSTRACT
+Four long-running currents in laser technology met and merged in 1999–
+2000. Two of these were the quest toward a stable repetitive sequence of
+ever-shorter optical pulses and, on the other hand, the quest for the most
+time-stable, unvarying optical frequency possible. The marriage of UltraFast-
+and UltraStable lasers was brokered mainly by two international teams and
+became exciting when a special “designer” microstructure optical fiber was
+shown to be nonlinear enough to produce “white light” from the femto-
+second laser pulses, such that the output spectrum embraced a full optical
+octave. Then, for the first time, one could realize an optical frequency in-
+terval equal to the comb’s lowest frequency, and count out this interval as
+a multiple of the repetition rate of the femtosecond pulse laser. This “gear-
+box” connection between the radio frequency standard and any/all optical
+frequency standards came just as Sensitivity-Enhancing ideas were maturing.
+The four-way Union empowered an explosion of accurate frequency meas-
+urement results in the standards field and prepares the way for refined tests
+of some of our cherished physical principles, such as the time-stability of
+some of the basic numbers in physics (eg., the “fine-structure” constant, the
+speed of light, certain atomic mass ratios ...), and the equivalence of time-
+keeping by clocks based on different physics. The stable laser technology
+also allows time-synchronization between two independent femto-second
+lasers so exact they can be made to appear as if the source were a single laser.
+By improving pump/probe experiments, one important application will be
+in bond-specific spatial scanning of biological samples. This next decade in
+optical physics should be a blast!
+
+
+OVERVIEW AND SUMMARY
+The view backward over some momentous developments often suggests a
+kind of certainty and inevitability that may not have been evident, even in the
+slightest form, when the story was going on. One modern trend is to focus
+on some particular research project – one which is so simple and transparent
+that the Manager can expect to be successful in the chosen research task. But
+
+                                                                            103
+
+
+such a project will likely have modest consequences: Surely its consequences
+were at least dimly visible from the beginning. By contrast, this “Optical
+Frequency Comb” capability has come “out of the blue” from a remarkable
+synthesis of independent “state-of-the-art” developments in four distinct
+fields: UltraStable Lasers, UltraFast Pulse Lasers, Ultra-NonLinear Materials
+and Responses, and UltraSensitive Laser Spectroscopy. These separate fields
+were alike in their shared – but independent – pursuit of advancing simple
+and effective technology for using electromagnetic signals for their own
+spectroscopic and other optical physics interests in the visible domain. After
+the Great Laser Technology Synthesis of 1999–2000, celebrated by the brief
+name of “Optical Frequency Comb,” the Optical Toolbox has really blos-
+somed. In respecting our Patron, Dr. Nobel, we may be more expansive and
+clear: the field of optics has blossomed explosively!
+   The resulting new capabilities are unbelievably rich in terms of the tools
+and capabilities that have been created, and these in turn are reinforcing
+progress in these related contributing fields. For example, after the frenzy
+of the first generation frequency measurements, some of the Generation II
+comb applications now include: low-jitter time synchronization between ultra-
+fast laser sources, coherent stitching-together of the spectra of separate fs
+laser sources so as to spectrally broaden and temporally shorten the compos-
+ite pulse, optical waveform synthesis for Coherent Control experiments, pre-
+cision measurement of optical nonlinearities using the phase measurement
+sensitivity of rf techniques, coherently storing a few hundred sequential pulses
+and then extracting their combined energy to generate correspondingly
+more intense pulses at a lower repetition rate… . Attractive topics of research
+for Generation III applications include precise remote synchronization of
+accelerator cavity fields and the stable reference oscillators for Large Array
+Microwave Telescopes; and potential reduction of the relative phase-noise of
+the oscillator references used for deep space telescopes. (NASA, VLBI …)
+That’s just part of the first five years.
+   So in the precision metrology field, what exactly could one say is different
+now? In the same way we have enjoyed for the last half-century powerful spec-
+troscopy methods with radiofrequency signals (consider Magnetic Resonance
+Imaging as one of its useful forms!), we now can use frequency-control methods
+for optical spectroscopy. But there is a really important difference: the
+number of cycles per second in the optical domain is roughly 10-million-fold
+greater than in the rf domain, even as the rf processes themselves are still a
+few million-fold faster than human perception scales. In essence, these large
+factors map into a corresponding improvement in resolution – our meas-
+urement capability. See the discussion below. With human senses we can
+perceive halves and quarters and tenths, and perhaps a little better. These
+capabilities are enhanced approximately by the product of these two large
+numbers, bringing us immediately into the garden of a few parts in 1014 me-
+trology. We can do even better by averaging independent measurements.
+
+
+
+
+104
+
+
+METROLOGICAL STANDARDS AND SCIENCE
+A Close and bi-directional Connection
+On occasion, accumulation of progress in the details of some scientific
+enquiry leads us to a glorious new vision of some parts of our experience:
+basically a new insight or organizing principle becomes available. But behind
+this revelation normally is a huge amount of painstaking work, quantitatively
+stating experimental results, which normally are expressed in absolute units.
+Sometimes an experiment can provide its own internal calibration, but in the
+main we really need to have practical standards to reference the measure-
+ments against. Of course the Standards must themselves be reproduced and
+distributed before the scientific results can be confirmed by several labs. The
+best case is that the needed Standard is based on some fundamental physical
+effect, ideally a quantum effect, so it can be independently realized by different
+laboratories at the same accuracy. This standards-realization process is in a
+revolution itself! [1]
+
+The Length Standard and its Relationship to Frequency/Time
+It’s useful to discuss a bit about metrological Standards, which we can initially
+take to be the seven base quantities of the Système International d’Unités
+(International System of Units), or more briefly the SI, or “the Metric System”
+[2]. From these seven base units, another ~30 useful derived units can be
+defined. For our purposes of stretching measurement precision to the ultimate
+limits, clearly Time and Length are the two quantities offering the highest po-
+tential precision. For eons the day was a natural unit for Time, but standards
+for Length have seemed artificial and arbitrary. In 1791 the Metric System
+was first discussed but, lacking serious metrology experience, these Age of
+Enlightenment gentlemen of the French Academy of Sciences decided that
+the Metre would be defined as some small fraction (¼ x10 –7) of the earth’s
+circumference on a great circle passing through the poles and France. Of
+course, having the standard based on surveying had some limitations in prac-
+tical lab work, but at least the unit of length was finally a definite and basically
+absolute distance. This was welcome change since public exhibits in places
+such as Braunschweig, Germany and on Santorini Island, Greece show there
+was a succession of length standards in sequential use, as a new Duke of differ-
+ent personal arm length came into power. But by 1875, with the Treaty of the
+Metre Convention, a stable metal bar began to look like a good idea. While
+not fully universal and independently realizable, the factory could make many
+of these prototype Metre bars, and could confirm their equivalence.
+   The community of Metric countries in 1889 welcomed the improved X-
+cross-section meter bars known as the “International Prototype Metre” length
+standard. This design used graduations (lines) engraved onto a platinum-
+iridium bar, with a Meter defined as the separation between two graduation
+lines at 0 °C, measured with a specified mounting arrangement, and under
+atmospheric pressure. The 30 new bars were calibrated using an optical com-
+parator technique, before dissemination of two to each country.
+
+                                                                                105
+
+
+   By 1890 A. A. Michelson had identified the exceptional coherence of the
+Cd red line, and by 1892 had used it with his new interferometer to deter-
+mine the length of the International Prototype Metre. His measurements
+showed the defined Metre contained 1,553,164.13 units of the wavelength of
+the cadmium red line, measured in air at 760 mm of atmospheric pressure
+at 15 °C. For this and other contributions, Michelson was awarded the Nobel
+Prize in 1907. Of course thermal expansion was a limiting problem, such
+that when the low-expansion steel alloy <<Invar>> was invented, the creator
+(and Director of the BIPM), C. D. Guillaume, was awarded the Nobel Prize
+for 1920. However, the SI Metre definition was unchanged for 85 years: the
+Meter Bars worked well and optical comparitors got fatigueless photo-electric
+eyes.
+   Spectroscopic experiments and supporting Quantum Theory led to im-
+proved understanding and improved light sources. The metrological needs of
+the World Wars changed the Science climate, and transportation disruptions
+emphasized the advantage of having independently-reproducible standards based
+on quantum physics. Eventually, in 1960 the Eleventh General Conference
+on Weights and Measures was able to redefine the International Standard of
+Length as 1,650,763.73 vacuum wavelengths of orange light resulting from
+transitions between specified atomic energy levels of the krypton isotope of
+atomic weight of 86. Going forward with a new definition, one would say the
+Kr wavelength is ɇ = 1 m / 1,650,763.73 = 0.605,780,211 µm. While the ad-
+opted Definition speaks about unperturbed atoms, in fact several shifts were
+observed in light from the discharge lamp used for realizing this Metre in
+practice. Pressure shifts and discharge operating conditions were stabilized
+by operating the lamp at a specified discharge current and at a fixed pressure
+and temperature (using the triple-point of liquid nitrogen). A field-induced
+gas flow of Kr+ led to a wavelength difference of light viewed from the two
+cell ends. When laser comparisons with this standard were performed, the
+additional problem of radially-dependent Doppler shifts of the emitted light
+was discovered.
+   The 1960’s and 1970’s saw a number of different stabilized lasers systems
+introduced, refined, and the wavelengths measured and compared between
+various national labs. Basically, all these laser systems were entered into the
+competition to be the next International Length Standard. There were
+then 48 nations involved in the Metre Convention, so politically speaking,
+choosing one out of the many offered candidate lasers would be difficult.
+In addition, none of these approaches were overwhelmingly superior, when
+performance, cost and complexity were all considered. And scientifically, it
+seemed attractive for the new Length Standard definition to be based on the
+Speed of Light, introduced as a defined quantity. On the basis of a number
+of laser-based measurements, this value was taken as 299,792,458 m/s exactly,
+a rounded value in accord with the measurements of the several standards
+labs. This redefinition of 1983 took the form:
+
+
+
+
+106
+
+
+      “the Meter is the length of the path traveled by light in vacuum during
+      a time interval of 1/299,792,458 of a second. The speed of light is
+      c = 299,792,458 m/s , exactly.
+      The second is determined to an uncertainty, U = 1 part in 1014 by the
+      Cesium clock.”
+
+The General Conference also suggested several recommended radiations for
+realizing the meter at that time, eg.:
+      “The wavelength of the iodine-stabilized Helium-Neon laser is
+      λHeNe = 632.99139822 nm ,
+      with an estimated relative standard uncertainty (U) of ± 2.5 x 10–11.”
+
+In all of these changes in definition, the goal was not only to improve the
+precision of the definition, but also to change its actual length as little as pos-
+sible. See [3]. With the speed of light defined, an optical frequency (linked
+to time) can thus serve as a length unit.
+
+Fundamental Physics Issues in the Re-Definition of Length
+At the times of these redefinitions, there were some concerns that we were
+switching the physical basis for the Metre definition. For example, if in the
+future we discover that some of the “constants of Physics” actually are slowly
+changing, one could worry that the new definition might impact or even limit
+our discovery process. In any case, we would be unaware of a global change
+that would conserve the physical relationships we have discovered. But could
+there be a differential effect that might be observable? Before 1960 we were
+accepting the spacing of some lattice planes in the Pt-Ir alloy of the Meter
+Bar as our measurement basis for length: this length certainly would funda-
+mentally involve Quantum Mechanics, and Electricity and Magnetism. And,
+considering the thermal vibration of molecules in the somewhat-anharmonic
+interatomic potentials, we can suppose that the nuclear masses – and thus
+the Strong Interactions – will also play a role in length via the thermal expan-
+sion. With the 1960 redefinition of the Metre in terms of a Krypton atom’s
+radiation’s wavelength, perhaps we were opening some opportunity for con-
+fusion? Now Quantum Mechanics and Electricity and Magnetism are still fun-
+damentally involved, but the atom’s mass is involved only in a reduced-mass
+correction, rather than via thermal effects. Certainly a new “constant,” the
+speed of light, is linearly serving as the dimensioned scale constant. Initially
+the 1983 redefinition appears to be still a different sort compared with the
+1960 Kr definition, but really it just repeats the energy level difference idea
+(now it is Cs in defining the second rather than Kr defining an optical en-
+ergy) followed by a conversion of dimensions. Who knows if there is some
+fun hidden in here?
+   Where we have come to is that the SI is now functioning with six, rather
+
+                                                                                107
+
+
+than seven, basic units. The Metre has been demoted to a derived unit, and
+the significance of Time and Frequency have been further elevated. This
+begins a long story, with the SI base units being challenged by spectacular
+advances “at the bottom of a Dewar” [4], giving us a Josephson-effect based
+voltage standard (Nobel Prize of 1973), while the von-Klitzing-effect defines a
+quantum resistance standard (Nobel Prize of 1985). Taken together as V2 /R,
+an electrical Watt unit is apparent, while an SI Watt – defined as a Joule per
+second – would be represented as ½ kg (m/s)2 /s . The relationship between
+these is established by a “Watt Balance” experiment [5]. Recently the Single
+Electron Transistor begins to enable digital counting of electron charges per
+second, contacting the SI Ampere, the unit of electric current. This interface
+between metrology and quantum physics is becoming a “Hot Topic” of our
+time [1, 6]. The remarkable advances in Metrology also allow – and advances
+in Cosmology and Astronomy strongly motivate – curiosity about the “exact-
+ness” and “time-invariance” of the various physics numbers used in our de-
+scription of physical reality.
+
+
+CLOCKS AND TIME
+Time represents our most precisely measurable quantity and so it always has
+attracted certain kinds of devoted researchers. But also, now with various sen-
+sors and microprocessor control, many physical parameters can be read out
+by frequency measurements, and so we add a huge number of scientists in
+other fields who want to recover the finest details within their measurements.
+(Still, many really important research subjects are not yet so well developed
+that these frequency tools are useful: for example, world-changing decisions
+about air pollution management are being made even though we scarcely are
+sure about the sign of some effects.)
+   But for technology people, the improvement of time measurement preci-
+sion grows as a field of intense interest and competition worldwide. In no
+small part this is because of the very advances singled out by this year’s Prize:
+a capability jump by several decades is uncommon in any field, let alone the
+field where the precision of measurement was already at the highest level,
+and had already been driven to near its apparently basic limits.
+   Of course interest in time has been part of man’s history from our begin-
+nings, but only in the last several recent centuries have some lucky subsets of
+people been somewhat isolated from seasonal variations, with leisure to think
+about Nature, and so time as an experimental parameter began to emerge.
+Nowadays we can look from the scientific and experimental point at the
+question: why would one be interested in time? For those who love precision,
+the clear reason is that time is the most powerful metrological variable.
+
+Scaling of Precision Attainable when we are Measuring Time
+The precision of time measurements can be increased essentially without
+limit, by increasing the measurement duration and simply counting the in-
+creased number of cycles of some regularly-spaced events. However a strong-
+
+108
+
+
+er information growth with measurement duration is possible if we have a
+nice source that has coherence from the beginning of the measurement until
+the end. (For the present purpose we may take this “coherence” to mean that
+if we know the oscillation cycle’s phase early in the measurement, the coher-
+ent source is so steady that the oscillation phase could be predicted at later
+times near the measurement’s end to a precision of 1 radian of phase.) In
+this case we can have a measurement precision which will grow with the meas-
+urement interval τ according to τ3/2. A simple way to explain this assertion
+is to suppose we divided the measurement duration into 3 equal sections,
+each with N/3 measurements. In the starting zone we compare the reference
+clock and the unknown clock, with a relative phase precision which scales as
+(N/3)1/2. Next, in the middle section, we merely note the number of events,
+N/3. In the last section we again estimate the analog phase relationship
+between test and reference waves, with a relative imprecision which is again
+(N/3)1/2. Subtracting the two analog phases increases the uncertainty of one
+measurement by a factor 21/2 so, altogether, the relative precision increases
+as (1/21/2) * (N/3)3/2 . Thinking of a microwave frequency measurement,
+with a base frequency of 1010 Hz, in a 1 s measurement we have a factor of
+105 potentially to win. Commercial counters already can register 12 digits
+in 1 s for a reasonable input signal. One can see there is just a huge gain in
+measurement precision if we can measure a coherent frequency source in a
+proper way: No wonder we have the situation where metrology scientists as
+well as philosophers, sailors, and farmers are interested in clocks and time
+and seasons [7]. Indeed our most powerful test of the existence of Einstein’s
+predicted gravitational radiation comes from the observed shortening of the
+year of the Hulse-Taylor binary pulsar: orbital clock physics vs. quantum fre-
+quency standard physics on the earth. This marvelous work was celebrated by
+the Nobel Prize of 1993.
+
+What makes a clock?
+The three essentials of clocks are: a source of regular events, a counter/inte-
+grator to totalize the events, and a suitable readout mechanism to present the
+current result to an interested human or machine. In many ways the frequen-
+cy source is the most interesting part since it is intrinsically an analog system,
+where the design goal is to diminish as little as possible the intrinsic stability
+of some physical oscillation, in the course of reading out its information. In
+this game, nuance and subtlety count for a lot. It is customary that the per-
+formance of clocks based on some well-known source of regular “clicks” will
+be improved several orders of magnitude by the work of many people over
+many years, with the ultimate fate of becoming suddenly obsolete due to the
+introduction of a better kind of stable oscillator. The new idea must be a ser-
+ious advance, since it must be competitive at the start of its life with the previ-
+ous technology which has been enhanced and improved in many stages. Still,
+some technologies have had a long lifetime – for example one can still buy
+a good wristwatch based on a torsional oscillator, even though this balance
+wheel concept was used by Ch. Huygens in 1675.
+
+                                                                               109
+
+
+   Keeping time has been of serious interest since man turned agrarian, but
+became of critical interest with the expansion of lucrative international trade:
+“inevitable” shipwrecks could be avoided by better knowledge of position
+(mainly longitude) at sea. Parliament’s Longitude Prize of 1714 (above $10
+M in current terms) attracted John Harrison’s attention and some 40 years of
+his inventive work. In 1761 his H-4 clock demonstrated 1/5 s/d , δν/ν ~2.5
+x10–6 even while at sea. This was several-fold better that the requirement, but
+only half the Prize was initially paid: in part the controversy was about the
+Intellectual Property! A second problem was conflict of interest within the
+judging Committee. (This story is well-told in [7].) Present customers of
+precise timekeeping include TV Networks (for synchronization), cellular
+telephone companies, the GPS users who need the limiting performance, ra-
+dio astronomers, NASA Deep Space Tracking, and various other branches of
+Science in which a physical variable has been read out by frequency methods.
+
+Evolution of Frequency Sources: Distinguishing Precision and Accuracy
+In discussing the performance of a mechanical clock, or the electronic oscil-
+lators based on vibrational modes of quartz crystals, it is clear that the basic
+frequency is set by mechanical dimensions. Such a device could be stable
+and have good precision, in that its readout could be determined with many
+digits, but there can be no claim to any particular fixed or natural frequency.
+Still the stability of any particular crystal device could be remarkable: a drift
+of >10–6 /day gradually improved to the present <          –10
+                                                    ~1 x10 /day, while the shift
+                                     –9
+with acceleration remains near 10 per “g”. The high frequency of electronic
+oscillators served well for convenient interpolation between “clicks” of the
+absolute standard, provided by zenith sightings of the daily motion of the
+Sun, as codified by the 1875 Metre Convention. (Later the earth rotation data
+series were based on telescopic observations of the lunar occulation starts
+of various stars and planets.) By the 1950’s the electronic oscillators were
+refined enough that variability ~10–8 was inferred in the earth’s spin rate,
+and was associated with changes of the earth-atmosphere system’s moment
+of inertia due to North-South ocean tides, and large storms. The community
+wished to eliminate the variability, but still needed an absolute and univer-
+sal (rather than local artifact) standard. The new choice in 1960 adopted a
+stated number of seconds in the “Tropical Astronomical Year 1900”. Perhaps
+this was good in its motivation, in that the rotation of the earth around the
+sun would have a lower level of perturbation. However, a clock/oscillator
+that has only a single click per year will be hard to enjoy at its full precision.
+As a metrology principle we rather would prefer the basic frequency source
+to be at a very high frequency so that the integer multiple of the standard’s
+clicks will be a huge digital number in our measurement of some interesting
+phenomenon, and the unavoidable noise and uncertainty of the remaining
+analog subdivision of the unit will be as insignificant as possible.
+
+
+
+
+110
+
+
+Electronic Clocks based on Quantum Transitions
+Based on Otto Stern’s atomic beam method, which had resulted in his Nobel
+Prize of 1943, I. I. Rabi introduced atomic beam resonance methods which
+allowed probing internal (hyperfine) quantum energy states of atoms such as
+Cesium with greater precision. This work was recognized by the Nobel Prize
+of 1944. Using atoms in this way, the independent realizability and universality
+requirements for a Primary Standard could be well addressed. In addition,
+the transition frequencies were near the high-frequency-end of the usable rf
+spectrum, so the Metrology aspects were optimized as well. The first Atomic
+Beam Clock was developed at NBS in 1949 based on microwave transitions
+in Ammonia, and by 1955 Cs beam clocks were in operation at the NPL and
+NBS. The powerful Method of Separated Oscillating Fields was invented by
+N. F. Ramsey, reported in 1955, and later recognized by the Prize in 1989. In
+this dual-excitation concept, suitable atoms were excited once, and then left
+to evolve their internal phase (ideally) free of perturbation, until a second
+excitation pulse effectively completed the interferometric comparison of the
+phase evolution rates between the atomic and laboratory oscillating systems.
+Progress on the Cs beam atomic frequency standard was widespread and
+rapid, allowing redefinition in 1967 of the SI Second as 9 192 631 770 units
+of the Cs hyperfine oscillation period. Correspondingly, the Cs oscillation
+frequency is defined as (exactly) 9 192 631 770 Hertz (cycles of per second).
+The specialists involved in this redefinition of Time and Frequency wisely did
+not specify exact details of the measurement process, leaving room for con-
+siderable progress. For example when laser-based optical pumping of atoms
+between hyperfine states became feasible and popular in the early 1990’s,
+NIST colleagues built a new atomic beam cesium standard, NIST-7, based on
+optically transferring most of the population from the 16 available hyperfine
+levels into the special (| 3,0> ) lower state involved in the clock transition.
+Along with this factor, ~16x, improvements of the atom source itself, and bet-
+ter frequency source and readout electronics were helpful. Above all, com-
+puter-based signal processing and active control of measurement systematic
+offsets made it possible to reduce the inaccuracy of realizing the Cs second
+at NIST to ~5 x10–15 . But as usual in the art-form of Precision Measurement,
+this “tour de force” system was soon made obsolete in a single step by a quali-
+tatively better technology.
+   As shown by Kasevich and Chu [8], laser cooling of the Cs atoms made
+it possible to successfully implement the “atomic fountain” concept for the
+realization of the Cs-based frequency definition. By shifting laser frequen-
+cies or powers, a slowly moving ball of atoms could be dispatched vertically
+upward through the excitation rf cavity, reaching apogee a good part of a
+meter above the cavity, and then beginning the return trip to pass through
+the excitation cavity a few 100 ms later. With such a long coherent interac-
+tion time, instantly the resonance linewidth dropped to ~ 1 Hz, down from
+~300 Hz in the previous epoch of thermal beam of atoms. Optical probing of
+the atoms below (and temporally after) the cavity could yield the excitation-
+
+
+                                                                            111
+
+
+probability vs. probe-frequency-tuning curve needed to control the source
+oscillator’s frequency. By using suitably-closed optical transitions for readout,
+one can have many photons emitted per atom so that, even after solid angle
+and detection inefficiencies are considered, the measurement noise is not
+much larger than the minimum associated with the finite number of atoms.
+Andre Clairon and his colleagues made the first real Cs Fountain Frequency
+Standard, in 1995 [9] at the Paris Institute now known as LNE-SYRTE [10].
+Even without the contemporary schemes to break this atom-shot-noise limit,
+the fountain clocks at NIST and SYRTE now achieve accuracy levels below
+1 x10–15 when all the known measurement and perturbation issues are taken
+into account [11]. Of course with the resolution improvement one hopes for
+more potential accuracy, but will have beforehand an expanded list of small
+shifts and niggling concerns to consider. After all, even with the extended in-
+teraction time, fewer tha n 1010 oscillation cycles are counted, so the achieved
+inaccuracy of 1 x10–15 already corresponds to 10 ppm splitting of the atomic
+fountain’s resonance linewidth. Fountain Cs clocks are limited by two newly
+important effects, collisionally induced frequency shifts due to the hugely
+increased atom density [12], and shifts due to the effects of the ambient ther-
+mal radiation associated with the vacuum system’s walls. Attempting to split
+lines further always brings a diverging list of new small problems, leading to
+an effective barrier.
+   An important observation is that for many types of Quantum Absorber
+samples the line broadening processes will be the same for both radio and
+optical frequency domains. For example, the atomic fountain apparatus
+could explore optical transitions, rather than microwave ones, with the same
+interaction time. Clearly we would prefer the higher base frequency of the
+optical world, since the resonance feature of interest will then display a rela-
+tive sharpness increased by roughly the same huge factor of optical/micro-
+wave frequency ratio. With sharper line shapes we can expect more precise
+measurements that will let us better see the small effects of various experi-
+mental parameters, leading to better independent reproducibility which, with
+major investment of efforts, can often be parlayed into nearly a correspond-
+ing increase in measurement accuracy capability as we come more fully to char-
+acterize the offset processes. But before the Millennium Year of the Optical
+Comb, just how did you plan to measure the absolute optical frequency?
+   This repeatability idea seems weaker than the gold standard of accuracy,
+which additionally conveys our being able to connect the measured result
+with the base units of the Systeme International. But in fact we now know
+several optical clock systems that have 10-fold smaller uncertainty than the Cs
+standard. So before a redefinition is appropriate, their comparisons will be
+most interesting, especially as an entry point for one of the most interesting
+branches of Science, trying to figure out which physical “laws” are essentially
+exact, which ones are ignoring some details to have a tidy presentation, and
+which are in fact stating “facts” about Nature which are not exactly actually
+true. Celestial mechanics, ideal gas laws ignoring molecular volumes, and
+parity conservation in atomic physics could be my examples.
+
+112
+
+
+STARTING THE DREAM OF OPTICALLY-BASED CLOCKS
+The Laser Arrives
+The future of metrology was changed fundamentally on 12 December 1960
+when a small team at Bell Labs, led by Ali Javan, eventually found the right
+conditions for their Optical Maser to generate self-sustained optical oscilla-
+tions. Their specially crafted gas discharge tube had the improbable situation
+in which the populations in two particular Neon atomic levels were reversed
+from the thermal norm: by means of the discharge in the more-abundant He
+gas, collisional energy transfer set up a population inversion, whereby more
+atoms were in the higher energy state. It is impressive that these conditions
+were established on the basis of careful measurements and modeling of the
+discharge conditions! Having the populations inverted from the usual case
+reverses the sign of the absorption that experience teaches us is a universal
+property of (normal) matter. Accordingly, with an inverted population,
+rather than absorption, Javan’s group had optical emission. The atoms would
+provide amplification of any resonant optical signal passing down the dis-
+charge cell. A few percent gain wouldn’t be very exciting normally, except
+that the utilized multilayer mirrors were designed and fabricated to have
+reflection losses that could be even smaller, setting the stage for a buildup
+of power on every pass. So finally they did obtain a self-sustained continuous
+optical oscillation, and observed the collimated beam that was anticipated by
+Charles Townes and Arthur Schawlow in a classic paper of 1958. Similar ideas
+were also considered in the Former Soviet Union, leading to the Nobel Prize
+of 1964 being shared by N. Basov, A. Prokhorov, and Townes.
+
+Connection to Glauber’s Quantum Coherent States of Light
+In planning a theoretical study of optical fields, perhaps one can understand
+starting with known results for single-photon fields, then adding a few pho-
+tons cautiously to see what happens. Actually, for all of us following Professor
+Glauber’s work it was surprising just how few photons were needed for the
+new photon density distribution functions to change fundamentally from the
+customary Poisson limit: with increasing number of photons in a mode the
+fields start showing the small fractional fluctuations that would characterize a
+classical field. On the experimental side, for Javan’s very first laser, the output
+laser power was ~ 1 milliWatt, about 1016 photons per second! We can proceed
+to estimate the expected fractional variation of 1/Sqrt(N), but with such an
+incredibly large number of coherent photons in one mode, the result is an
+unphysically small variation. Thousands of merely technical processes would
+cause fluctuations larger than the predicted 1:108 ! An equivalent statement
+is that these lasers were operating strongly, very far into the domain of classic-
+al fields, and quantum fluctuations would be very hard to observe. Indeed
+it was not until the end of the 1970’s that people began again to appreciate
+how to study manifestly quantum fields with just a few photons in them. At
+this vastly-reduced intensity, quantum correlations are a bit challenging to
+observe, but they are very interesting, since they correspond to rather signifi-
+
+                                                                               113
+
+
+cant fractional effects. For example, H. J. Kimble’s group used phase-depen-
+dent Squeezed Light to make a spectroscopic measurement with about 2-fold
+better Signal/Noise than the naïve shotnoise limit [13]. To observe strong
+Squeezed Light effects, it is essential to minimize optical losses, as they work
+to revert the statistics toward the thermal limit. Regrettably, noise from tech-
+nical sources will grow linearly in the laser power, while the advantage due to
+squeezing will grow more slowly. It seems that getting a factor 10 amplitude
+S/N improvement appears to be incredibly difficult.
+
+Coherence of the Laser Field Enables Frequency-Diagnostics
+The Bell Labs laser design success had grown out a semiclassical view of how
+Optical Masers would operate. Yes, amplification would be provided by quan-
+tum mechanical atomic systems, rather than radio tubes or klystrons, and yes
+each atom could contribute just one photon to the field in each event. But
+still, considering how huge is the number of photons in the field, the dis-
+creteness probably will hardly matter. Almost immediately the Bell-Labs team
+was testing this understanding by combining two separate laser beams into
+a single coaxial beam, and shining this onto the sensitive surface of a high-
+speed photodetector. They already were thinking of each laser oscillation as
+being an essentially classical field, satisfying reflection boundary conditions
+at the two mirrors. So this stable-and-repeating bouncing specification would
+define the possible wavelength(s) of the generated laser light. By luck and
+design the discharge was wonderfully calm, so one could expect the gas’
+refractive index would be essentially constant. Thus the interferometric
+boundary conditions would essentially define the oscillation frequency and,
+accordingly, one would expect to see a sharp optical frequency come out of
+this device. With two lasers’ sharp frequencies on the nonlinear detector’s
+surface, one should expect the difference frequency to be generated, which
+it was. I can still remember hearing the audio beat whistle that Javan had re-
+corded when his two lasers were tuned almost to the same optical frequency.
+It was a ~1 kHz difference between two sources at 260 THz!
+   Actually the linewidth of these beats was remarkably narrow. We already
+expected that based on the numbers noted above: a stream of ~1016 pho-
+tons/s would have random power fluctuation of ~10–8 relative to the full
+power. So the optical phase could be extremely well defined. However, the
+laser’s Schawlow-Townes linewidth calculation includes the role of optical
+loss, which actually limits the laser coherence, giving ~ milliHz linewidth
+expectation.
+   In principle then we have a radiation of incredible sharpness, and should
+be ready to seek interesting physical effects. The immediate disappointing
+truth is that this tiny predicted laser phase fluctuation will be completely
+masked by noise of technical origins. We already noted that the strongest
+definition of the oscillation’s frequency is fixed by the interferometric stand-
+ing-wave condition bouncing on the laser cavity mirrors. But the lab is a noisy
+place, seismically speaking, with a quiet lab having a ground noise of ~3 x10–9
+m/Sqrt(Hz) in the vibration frequency band say 1–30 Hz. A laser cavity is
+
+114
+
+
+some fraction of a meter in length, so it will be difficult to make a system arbi-
+trarily stiff. Rather, some important fraction of the ground noise will appear
+as cavity length variations, and therefore laser frequency variations. Suppose
+we say only 1% couples in to relative length changes. One can instantly see
+the scale of the problem: ~10–10 fractional frequency variations will be our
+apriori scale. Even temperature variations will be painful, since the 10–10 scale
+already corresponds to a few milliKelvin temperature change for low expan-
+sion materials like fused silica. We can make progress by locking the laser to
+a stable reference cavity [14]. Optimizing for vibrational integrity, we will use
+a stiff structure for mounting the reference cavity mirrors, and then mount
+the assembly with a horizontally soft suspension. By focusing on the vibration
+isolation, Bergquist has obtained [15] a record narrow laser linewidth ~0.16
+Hz! Another approach seeks to minimize the cavity acceleration sensitivity.
+By use of a vertically-symmetric mounting [16] of the reference cavities, our
+group recently reported Hz-level laser linewidths.
+
+Coherence of the Laser Beats Enables Frequency-Based Laser Control
+Considering the small intrinsic phase noise of the laser source, and the ra-
+ther high power ~ mW, heterodyne detection of the beat frequency between
+two laser sources yields an interestingly high Signal/Noise ratio. Even with
+very short averaging times, say 1 µs, we have generous S/N performance.
+Additionally, for such short times a well-engineered laser will scarcely re-
+spond to the “garbage effects” of real life in the lab (temperature variations,
+power-supply variations, vibrations …) – within 1 µs these have not changed
+the system very much. The duration of the perturbations is too small for
+them to begin to wreak havoc with the stability of the frequency-defining
+cavity. So we actually can make useful measurements of the laser’s phase in
+such a quick time frame that the problems are not yet apparent! One begins
+to see a strategy coming up: We will quickly measure what the laser actually is
+doing, compared with our desired behavior, and then use feedback onto suit-
+able actuators to control the laser’s frequency. If we can make the corrections
+quickly enough and accurately enough, then the controlled laser will very
+closely approximate the ideal frequency-stable laser we need.
+Implementation of this servo-control feedback concept is a multi-nuanced thing, in the
+perfection of which this author has invested something over 40 years of active work. It
+has led to a lot of interesting and useful electro-optic tools and techniques.
+
+The Relative High Power of Lasers Empowers Nonlinear Spectroscopy and
+Sharp Resonances
+Let’s begin with the first approach to observation of narrow atomic reso-
+nances, using Saturated Absorption Spectroscopy. These phenomena were
+studied first within a laser cavity by Bill Bennett using the dispersion effects
+associated with the active Neon laser gas. Owing to the Doppler effect, the
+Neon atom’s natural resonance linewidth of ~10 MHz becomes masked and
+broadened to ~1500 MHz. Thus most of the gas atoms are detuned, and in
+
+                                                                                  115
+
+
+a velocity-specific way. Some atoms have velocities near the special one giv-
+ing the Doppler shift that will bring them into resonance with the intracavity
+laser field. Actually there are two such velocities to consider, since the laser
+beam goes both directions as it is bouncing back and forth between the mir-
+rors. These resonant atoms will interact rather strongly with the field, lead-
+ing to an increased decay rate for excited state atoms of that velocity – their
+inverted population gets converted into cavity photons! If we imagine a plot
+of the population difference (upper state minus lower state populations) we
+can expect to see a local and rather narrow dip around the velocity which
+is being converted from population inversion into light quanta. Actually
+there are the two mirror-symmetric dips as noted before. The interesting
+effects come when we let the laser frequency be tuned toward the atom’s
+rest-frame frequency. Then the resonant atoms will have lower and lower
+Doppler velocities, until finally the selected velocity is zero. Now a new thing
+happens: when detuned, we had two groups of active atoms contributing
+their power to the laser output. When we reach the central tuning, both
+running-wave fields interact with a single atom velocity group. So with fewer
+atoms contributing, the laser power decreases conspicuously, but only at the
+central tuning. This feature in the power output with laser tuning could be
+used for locking the laser to this central tuning dip, which is called “Lamb’s
+dip” after Willis Lamb whose early theoretical work made clear this origin
+of the experimentally-observed effect. (His Nobel Prize in 1955 was for his
+work on the new sub-hyperfine structure in the Hydrogen spectrum.) As it
+turns out, operating pressures for optimum laser operation were rather large
+(~3 Torr, 400 Pa), which led to substantial probability of atom-atom col-
+lisions, even during the few 10’s of ns optical lifetimes. So the Lamb dips
+would be broader and less deep, and had to be observed against a somewhat-
+peaked Doppler profile representing the distribution of available atom vel-
+ocities. In addition to reducing the Lamb-dip contrast, significant frequency
+shifts were generated [17]. One could not arbitrarily reduce the gas pressure
+since the discharge pumping mechanism actually populated a metastable
+He* level, and collisions were needed to transfer this excitation to the Neon
+atom component in the discharge. So even though the wavelength of the
+laser’s characteristic coherent light was more-readily-measurable than the
+incoherent light from the krypton discharge lamp (the existing wavelength
+standard), in fact the lasers’ pressure shifts were simply too large to accept.
+Particularly this was the case since the discharge technology of the day led
+to important change of the fill gas pressure and species ratio with operation,
+due to electrode sputter-pumping.
+   The clearly important idea of separating the amplifier and the reference
+gas cells’ functions was soon introduced by Lee and Skolnick. More discus-
+sion of those interesting developments is available elsewhere [18, 19], but for
+our present purposes we do need to consider some of the essentials. Since
+the purpose was to have a sheltered life for our reference atoms, it was at-
+tractive to be thinking in terms of absorption, rather than amplification. Then
+we didn’t need any discharge or optical pumping of the reference quantum
+
+116
+
+
+Figure 1. Saturated absorption peak in CH4 molecules. HeNe laser at 3.39 µm is excited by
+rf discharge. CH4 cell at 12 mTorr (16 mBar) is located inside laser cavity. Power output is
+300 ~µW and peak contrast is ~12%. Peak width is ~270 kHz HWHM. At maximum power
+(~0.8 mW) contrast is ~15%. Cavity free spectral range is 250 MHz. Note cross-over reso-
+nances in two-mode region near cusps. Hysteresis of scan causes trace doubling.
+
+
+
+
+resonators. Of course, to be able to use Lamb’s nonlinear resonance for
+frequency stabilization, we certainly needed to be able to tune the laser to
+the reference cell’s resonance frequency. Nowadays, this is no big problem,
+by just using tunable lasers. At that time, the best idea to get a wavelength
+coincidence would be to use molecules as the absorbers – then we would
+have zillions of absorption lines to choose from. The modern champion for
+this approach is molecular Iodine, with narrow useful absorption lines from
+the Near IR down to ~500 nm. For other molecules, utilizing transitions only
+between vibrational-rotational states, typical wavelengths are in the IR from
+∼2–10 micrometers range.
+   The first such dual-component optical frequency reference system, and
+still one of the better ones, uses a HeNe discharge cell to provide gain and
+laser oscillation at 3392 nm [18]. Also contained in the laser cavity is a cell
+containing CH4 molecules, plain old tetrahedrally-symmetric methane,
+which has interesting lines that can be reached with the HeNe laser. To be
+brief, the necessary emitter/absorber spectral overlap is arranged by selec-
+tion, based on good luck! The IR absorption band utilized, ν3 , is a strong
+fundamental vibration band, providing 0.18 cm–1 absorption coefficient per
+Torr. Of course having the absorber gas inside the cavity means we don’t
+need very much absorption to have an impact on the laser dynamics – just a
+few percent would be fine, since it would then be roughly ½ the loss associ-
+ated with the output-coupling mirror. At 10 milliTorr, the associated pressure
+broadening of the CH4 resonance would then be ~160 kHz, similar to the
+130 kHz broadening associated with the molecular free-flight through the
+intracavity light beam, of 0.3 mm typical diameter. Importantly, the pressure-
+
+                                                                                       117
+
+
+induced shift turns out to be very small for these transitions, only ~1 kHz
+under these conditions.
+    So we are talking about a system with a resonance in the power curve of
+~0.6 MHz FWHM, with perhaps 5% relative contrast on the total laser output
+of say 200 µW. A little calculation leads one to a Signal/ShotNoise ratio ~106
+in a 1 Hz measuring BW, while we’re looking at the sub-MHz – wide peak
+produced at the central tuning, when both cavity running waves are bleach-
+ing the same absorbing molecules and thereby reducing the intracavity ab-
+sorption losses. If this S/N were optimally used, the laser could be stabilized
+to have sub-Hz frequency deviations measured in 1 s intervals. In 1968 when
+this Saturated Absorption Optical Frequency Reference business began, our
+detectors and preamplifiers were not so good, and we didn’t begin to ap-
+proach the shot noise limit – that would have been a frequency (in)stability
+of ~2 x10–14 at 1s. Early on, we did get δν/ν ~1 x10–12 , which was soon im-
+proved to 3 x10–13 with better detectors and signal processing.
+   By locating the sample cell outside the laser resonator, the physical situ-
+ation could be more-readily analyzed, and this arrangement was employed
+by Bordé, and by Hänsch, and by Chebotayev’s group in early experiments.
+The interesting details are discussed in textbooks: see eg. Letokhov and
+Chebotayev [20], and Stenholm [21], Levenson and Kano [22]. Now we
+consider the transit-time linewidth issue.
+
+Free-flying Molecules see a Light Pulse: two views of the Uncertainty Principle
+For these transitions, the radiative lifetime (~ ms) was much larger than the
+transit time of the essentially free-flying molecules in crossing the laser beam.
+At low pressure the saturated absorption linewidth was not collisionally nor
+Doppler limited, so it could be immediately observed that the resonance
+linewidths could be reduced by increasing the field/molecule interaction
+time. Larger beams helped. So did liquid Nitrogen cooling of the glass cell.
+So a serious study began to really understand the lineshape in the free-flight
+regime. Chebotayev and his colleagues developed the theory analytically
+near the low-pressure, low optical power limit [23]. The JILA theory was
+based on computer integrations of the Density Matrix for absorbers making
+a free transit through the assumed Gaussian light beam mode [24]. Low in-
+tensity and weak interactions were assumed to simplify the calculations, but
+soon it became clear that most of the observed signal would be contributed
+by a very small number of slow molecules. The theoretical result is a logarith-
+mic cusp at the exact line center. With long interaction times, even a “weak”
+power would lead to saturation and other strong-field effects.
+   We need low velocity in the longitudinal direction so that the molecule
+wouldn’t cross wavefronts axially, and thereby begin to develop Doppler-
+related phase modulation. Effectively molecules should fly perpendicular
+to the axis, and leave the wavefront after the transit with only <1 radian geo-
+metrical phaseshift. We also need low transverse velocities, since a longer
+transit time will be directly imaged into a narrower line. We can see δν ⋄ τ ≈
+1 will yield δν = β vth/w0 , δν is the HWHM of the observable resonance, vth
+
+118
+
+
+is the thermal velocity, w0 is the Gaussian beam radius, and β is a measured
+parameter. Experimentally we found β vth = 88 kHz mm for Methane at
+room temperature. Laser mode radius w0 values from 56 µm to 9 cm were
+measured, with corresponding HWHM values from 1.6 MHz down to 940
+Hz. (The interesting substructure will be addressed momentarily.) First it is
+useful to consider the transit-time broadening in the Fourier-dual domain:
+angular divergence. Corresponding to a Gaussian beam radius w0 there is a
+minimum angular divergence of the collimated laser beam of δθ = λ/ 2πw0.
+The k-vector spread, particularly the non axial components lead to a velocity-
+dependent Doppler shift of the same sign for both running waves, which will
+appear as broadening and shift of the resonance. Of course with a smaller
+mode diameter, the angular content is increased, and more broadening will
+appear spectrally.
+   While molecules typically do not have the “closed” optical transitions
+analogous to those needed for normal laser atom cooling, polar molecules
+do have a dipole moment. So with some electrical effort, one can arrange
+Sisyphus-like molecule slowing by switching the sign of the strong applied
+electric field, as shown by Meijer’s group [25]. More recently Ye’s group has
+achieved unprecedented high resolution microwave spectroscopy on Stark-
+slowed OH free radicals [26]. Certainly this will be an interesting frontier!
+   Other important directions are high sensitivity detection and improving
+the accuracy of locking to the molecular signals. For example some JILA
+work (“NICE-OHMS”) shows a road to sensitivity increase by combining
+cavity enhancement and rf sideband techniques [27]. A fascinating phys-
+ics avenue is the search for a parity-related frequency shift between suitable
+enantiomers [28]. Other important laser applications are considerred in
+Svanberg’s book [29].
+
+Momentum transfer from Light to Molecules – the Recoil Splitting
+A full treatment of radiative interactions must include the field and mo-
+lecular momenta, as well as the photon numbers and internal states of the
+quantum system. Such a treatment is essential for the case of pumping atoms
+with closed energy levels, which can allow the repeated interactions and
+deep velocity cooling celebrated by the 1997 Atom Cooling Prize of Phillips,
+Chu, and Cohen-Tannoudji. For the molecular sample of interest here, there
+are many decay channels, and likely even impact on the vacuum chamber
+walls before any particular molecule reappears in the laser fields: so a single
+interaction picture is reasonable. A clear observation of the transfer of mo-
+mentum from field to atomic system is available with Saturated Absorption
+Spectroscopy, basically because it is a two-step process. Let’s consider absorb-
+ers that initially have essentially zero velocity along the light beam. Then the
+                                                      hv
+                                                (
+left-running light beam can be tuned to v = v0 1 +
+                                                     2Mc 2 )
+                                                           , the extra (recoil)
+
+energy being needed beyond the transition energy ν0 to provide the kinetic
+energy associated with the recoil momentum the molecule will have after
+
+                                                                            119
+
+
+the transition occurs. The opposite-running beam will also deplete this zero-
+velocity group. So at this resonance tuning, the resulting nonlinear decrease
+of molecular opacity will lead to a peak in the transmission spectrum, and it
+is shifted slightly to the blue of the rest frequency. Another interesting case
+occurs when the molecules have a velocity v = h/Mλ, ie., there is enough mo-
+lecular momentum initially so that when the red-detuned laser interacts with
+this molecule, the photon and molecular momenta just cancel, and the origi-
+nal kinetic energy can make up for the photon’s energy deficit. The result is
+an excited molecule with zero axial velocity. Now the laser beam in the other
+running direction will experience amplification from this particular tuning
+condition, again leading to a relative peak in the sample’s transmission. With
+the molecule initially possessing some kinetic energy, the laser tuning for this
+                                                          nhv
+upper-state resonant condition will be v = v0 1 –   (     2Mc 2 )
+                                                                . So considering pho-
+
+ton recoil, the nonlinear interaction is associated with either the ground or
+excited state population being accessed by both beams for the same detun-
+ing, namely zero velocity in either one of the two states. For methane the
+splitting between the two peaks is 2.163 kHz and may be seen clearly in
+Figure 2 [30].
+   While the JILA and University of Paris Nord work exploited mainly the
+large diameter optical beams to gain a longer molecular interaction time,
+Chebotayev, Bagayev, and colleagues in the Novosibirsk group made good
+use also of another physical idea, namely the use of super-slow molecules to
+contribute the main part of the observed signal. In this way an additional 20-
+fold linewidth reduction to <50 Hz was achieved [31]. An important aspect
+of this approach is that the total 3-D effective molecular temperature is below
+0.1 K, leading to a much-reduced second-order Doppler shift, of << 1 Hz. An
+average velocity 13x below thermal for slow C2HD molecules was shown by Ye
+et al. [27], and was feasible only because of the very large sensitivity provided
+by the NICE-OHMS technique.
+
+
+
+
+Figure 2. Recoil Splittings of Hyperfine-Structure Peaks in free-flight Methane Molecules.
+The vertical strokes indicate the positions of the two recoil components in one of the
+Hyperfine components.
+
+
+120
+
+
+Other Optical Frequency References Based on NonLinear Spectroscopy
+Many research groups have been attracted to working with laser stabilization
+for Measurement Standards applications, such as interferometric calibration
+of gage blocks that serve to check reference standards used by industry. For
+this kind of application it is highly desirable that the reference laser beam be
+visible, as well as stable enough and reproducible enough. A huge success in
+this area is the 633 nm HeNe laser with an intracavity Iodine cell, and well
+developed systems of this type are even available commercially. This HeNe/I2
+system was the one whose frequency was measured by the NBS efforts in the
+early 1980’s, with an uncertainty of 70 kHz. (Being the first measurement of
+such a visible system, it is perhaps understandable that several of the uncer-
+tainties were far from fundamental in their origins). Other labs joined in and
+over the next decade many labs gained experience and a few had frequency
+measurements confirming the NBS result, so that it became attractive to
+reconsider the definition of the International Unit of Length, the SI Metre.
+   As may be seen, the world of spectroscopy offers us an unending garden
+of fascinating details. Presumably Parity-Non-Conservation will lead to a
+next generation of fine structures in chiral molecules, particularly with the
+development of cold-molecule techniques. But enough about the “ticks”
+of the clock: now we must return to the main story, the development of
+frequency stabilization and cycle-counting measurement tools – The inside
+Gear-Works of the Optical Clock!
+
+
+MEASURING OPTICAL FREQUENCIES WITH OPTICAL COMBS
+The Metre redefinition of 1983 was not really a kindness to metrologists
+tasked with actually measuring some physical parts, because the practical
+methods for application to measurements were not yet spelled out. But it was
+a boon to the metrology researchers: it became their task to explore just which
+good stabilized laser system would have the optimal properties for precision
+interferometry, for outdoor surveying, for servo-loop guidance of milling
+
+
+
+
+                                                   Frequency
+                0     88     192.    266.2 281.   385. 456 473.    563 617
+                              Rb/2        I2/2
+                      CH4     C2H2    Hg+ C2HD     Rb    Ca HeN      I2   H
+
+
+
+            λ         3390     1556 1126           778   657       532    486
+                                       1064                 633
+
+Figure 3. Stable Lasers based on NonLinear Doppler-free Resonances in Gases (1995). The
+frequency axis (above) is in THz units, the wavelength scale (below) is in nm.
+
+
+                                                                                  121
+
+
+machines, for … ? So within a dozen years after the redefinition there were at
+least 10 well-developed optical frequency standards, as illustrated in Figure 3.
+   As may be seen in Figure 3, there are stable frequency sources available
+from roughly 10 µm (30 THz) to ~280 nm (~1PHz), well beyond the visible
+range. It was striking that the difference between lines were surprisingly simi-
+lar frequency intervals, ~88 THz, approximately the frequency of the CH4
+– stabilized laser. This led to schemes where doubled frequency of one laser
+would be compared with the sum of the two straddling lasers. Some “pocket
+change” of frequency, a few THz, could be synthesized as sidebands using
+a Kourogi comb, based on a microwave modulator in a cavity whose length
+provided resonance enhancement of all the generated sidebands [32]. In
+such a way we measured the 532 nm Iodine standard in terms of the differ-
+ence of frequency between twice the HeNe Iodine system at 633 nm, and the
+Rb two photon line at 782 nm [33].
+   This was our introduction to the elegance of having an optical comb – a
+coherent ensemble of spectral lines whose frequencies are accurately repre-
+sented by a simple formula. Our system covered just a few nm wavelength.
+How sweet it would be to cover the entire visible band, giving several million
+accurately known frequency reference lines all at once!
+   One way to broaden this comb’s spectral width would be to provide intra-
+cavity gain, to compensate the modulator’s optical losses, a scheme which
+was demonstrated by Diddams using an OPO crystal also inside the resona-
+tor. Oscillation and generation of hundreds of FM sidebands were easily
+observed [34]. For some tuning conditions the phase of the several spectral
+components led to pulse generation, rather than pure FM emission. In many
+ways this was just the hard way to do what the Ultra-Fast Laser scientists ap-
+preciated about the Ti:Sapphire self-mode-locked lasers: stable, self-orga-
+nized, ultra-short high repetition rate pulse trains. Elsewhere our group’s
+papers discuss the technical richness of these lasers and the comb business
+[35]. This is just one further note about the mutual coupling between “in-
+dependent” research streams: we switched to Ti:Sapphire fs lasers and never
+looked back.
+   Coincidentally, in these final days of the last Millennium, this laser com-
+munity received a fundamentally-important gift from the laser industry.
+There would probably be no widely-used frequency combs without it. This
+“gift” was the introduction of high-power visible lasers, based on frequency-
+doubling the output of a laser-diode-pumped Nd solid state laser. These were
+immediately put to use replacing the fussy and quite noisy Argon Ion laser
+in wide use for pumping the Solid State lasers. Competitive forces led these
+new pump lasers to be well engineered, with intensity stabilization to yield
+exceedingly low levels of residual amplitude noise. This property is crucial
+because of the way a self-mode-locked laser operates – these Ti:Sapphire
+lasers are self mode-locked by a self-induced optical lens which makes the
+cavity less lossy when the laser modes are all synchronized to form an “opti-
+cal bullet” in the laser medium [36]. This temporary lens is formed by the
+radial index gradient, induced and present only if a light bullet is present.
+
+122
+
+
+So the laser cavity is originally set up to need this extra focusing to produce
+low-loss cavity modes, and after the laser is started in the pulse regime, stable
+self-mode-locking is maintained. Consider that the pulse lengths are only
+~10 fs, while the repetition periods are ~10 ns. With ideal synchronization,
+the peak power/average power ratio is ~106 . A typical laser will emit ~0.5
+W through an output mirror of 5% transmission. So we have 10 W average
+internal power, and 10 MW peak power, which is focused to a ~14 µm radius
+spot in the Ti:Sapphire laser crystal. This active area is only 3 x10–6 cm2 , so
+with 10 MW peak power we have 3 TW/cm2 ! The associated electric field is
+~10% of the interatomic fields in the crystal, so it is not so surprising that a
+significant optically-induced increase of the index of refraction occurs (opti-
+cal Kerr effect). The low amplitude noise of the pump laser is now seen to be
+critical: an intensity-dependent phase-shift though the laser crystal will pro-
+duce amplitude → frequency conversion and thus unacceptable phase noise
+if the pump is noisy. In a good case the linewidth of laser comb-lines without
+frequency control is ~3 – 10 kHz due to this cause, before the servo is used.
+Details of the process have been studied [37].
+   So leaving the laser is a pulse train of ~500 kW peak power, much of which
+we will focus into the special nonlinear fibers that brought in the age of
+the Optical Comb. Because of the microstructure design of the fiber, full
+light guiding is possible even with fiber core sizes of 1.5–2 µm diameter. So
+now when we calculate the fiber’s active area, it is roughly 200-fold smaller
+than the laser’s, while the power level is ~20-fold lower. The 10-fold higher
+intensity produces a 3-fold higher electric field in the silica fiber, being
+now essentially comparable with interatomic field and setting the stage for
+SERIOUS NonLinear interactions. Forget Mr. Taylor’s expansion here: this
+is strong signal NonLinear physics! All frequency components from the laser
+are mixed with each other, resulting in a drastic spectral broadening. By the
+fiber’s optical design, a broad range of optical frequencies can travel through
+the fiber with little speed variation, which allows these frequency conversion
+processes to remain phase-matched and accumulate power into the newly
+created frequencies. Essentially, in a few cm of length, the input spectrum is
+converted to white light and covers an octave or more of optical bandwidth.
+Actually the light is not quite “white” since it still carries the basic heartbeat
+of the original fs laser, for example 100 MHz. As explained previously, this in-
+trinsically generates a comb spectrum with component widths just connected
+to the spectral resolving power employed. Eventually, at the kHz level and
+below, the broadly-active phase modulation processes that affect all lasers will
+broaden these lines also (before the servo control is ON).
+
+
+
+COMPLEMENTARITY, COOPERATION, AND COMPETITION
+The Basics
+The remarkable insights of Professor Hänsch’s Stanford work [38] were pub-
+lished in ~1978, and already demonstrated using a repetitively-pulsing laser
+
+                                                                              123
+
+
+to generate an optical comb which could serve as a spectral ruler. However,
+the bandwidth of the covered spectrum was too small for general frequency
+measurements – only a GHz or two. Since these intervals could be spanned
+in other ways, the methods were not widely adopted. Basically there was not a
+technical growth path available at the time. Principle, yes; Tool, no.
+   The hard work, straight-ahead “government” approach to frequency
+measurement had been demonstrated at NBS in 1972 [39], following the
+pioneering work of Ali Javan’s MIT frequency measurement group (See ref-
+erences in [40]). But this was a heroic effort and mainly only national stan-
+dards laboratories took much interest. Laser after different laser had to be
+lined up and frequency-related to the doubled frequency of its predecessor,
+to step-by-step build up the frequency measurement chain. This kind of work
+required development of frequency- and phase-locking schemes now in wide
+use. We also got a “one-of-a-kind” physical result: a single laser frequency was
+measured by the cooperative and extended work of the NBS group [41]. But
+it was enough to get the Metre redefinition process started.
+
+The Divide and Conquer Scheme
+In a notable paper (1990), Professor Hänsch and his colleagues suggested an
+excellent way to simplify the frequency chains: one should use the difference
+frequencies between lasers as the entities that were harmonically marching up
+the spectrum [42]. In this way, the ensemble of lasers would all have nearly
+the same wavelength, and could be built essentially by duplication of a basic
+diode laser unit. Then with nonlinear crystals, fast photodetectors, and suit-
+able phase-locking electronics one could progress from microwaves to optical
+frequencies. This system also felt rather elaborate and specialized, but was
+used with good results in Garching. A related strategy was developed at NRC
+[43], based on difference frequencies, using CO2 lasers. Inspecting such a
+system, one came to see that the first 9 or 10 of the 14 stages served only to
+get the frequency up into the low THz range.
+   Then in 1994 came Kourogi and Ohtsu’s multiply-resonant cavity ap-
+proach, allowing one to reach a few THz in a single step [32]. Eventually the
+buildup of phase noise – according to the high harmonic of the original micro-
+wave source – would have been a problem in going into the visible range. But
+the fs laser Comb arrived and offers an easier and better way. See below.
+
+
+A Brief History of the Optical Miracle of 1999–2000
+Fibers for Spectral Broadening
+By now the JILA group had accepted the fs laser as a great source of pulsed
+laser light. Ours had ~ 80 nm bandwidth at 800 nm. But the optical frequen-
+cy standards we wanted to connect were at 1064 nm (fundamental of Iodine-
+stabilized Nd laser) and 778 nm (Rb two-photon-stabilized diode laser). An
+ordinary communication fiber was found to be just barely capable of spectral
+broadening the necessary amount – 104 THz. This paper was submitted at
+the end of September 1999 [44].
+
+124
+
+
+MicroStructure Fibers for Serious Nonlinearity
+The Conference on Laser and Electro-Optics of June 1999 had a spectacular
+postdeadline presentation by a Bell Labs team [45], wherein a normal fs
+laser pulse evolved its color in a dramatic way in propagating through a few
+meters of a special fiber. Such a fiber did make collimated white light, in the
+form of stably-repeating pulses, just as Ted Hänsch had postulated for his
+(unpublished) frequency measurement proposal. Using that previously-un-
+known light source, most of the rest should be possible. (Seeing the repeti-
+tively-pulsed laser-like white light the fiber generated instantly convinced me
+that Ted’s Concept actually could be a real and physical possibility! Without
+a repetitive white-light laser, there was no chance.) Lengthy appeals for scien-
+tific collaboration with the fiber owners’ organization ultimately became ir-
+relevant due to the miraculous appearance in JILA of a sample of this Magic
+Fiber. The concept of “band-gap” or “Photonic-Crystal” fibers was introduced
+in 1996 by Knight et al., pointing out the possibility of controlling the spatial
+modes and effective group velocity dispersion by the mechanical design
+of the air holes [46]. Our first JILA experiments were made using micro-
+structured fiber drawn from a preform prepared on September 10, 1997 by
+Robert S. Windeler of Bell Labs [47], using a construction technique of his
+own devising. A broad range of fiber designs was investigated in Bath, UK, by
+P. St. J. Russell and colleagues.
+
+
+
+The Race is ON
+Of course in JILA we didn’t know that the Garching team had already gone
+from a plan to the first demonstration of a comb-based phase coherent link
+from microwaves to the visible, and had submitted their Phys. Rev. Letter in
+November 1999. Even before we got the Magic Fiber! They used a comb of
+somewhat limited bandwidth, 44 THz, but their divider stages could con-
+nect the optical frequency with the 28th harmonic of the difference between
+the comb’s edges. It is a beautiful result, and appeared finally on 10 April
+2000 [48]. In the meantime the JILA team was working hard with the Magic
+Fiber’s white light output to implement and demonstrate our phase-coherent
+locking of the carrier-envelope offset frequency in terms of the laser’s repeti-
+tion rate. Our Disclosure of the scheme called this “Self-Referencing”. The
+control electronics we built had a digital click switch so the phase could be
+set on any integer multiple of 1/16 of a phase-slip cycle per pulse. The JILA
+experimental demonstration was based on interferometrically determining
+the carrier-envelope phase difference between two optical pulses, separated
+by one intervening pulse. Finally the new electronics worked, the experimen-
+tal data were clear and our report [49] appeared in Science on 28 April 2000.
+A PRL joint article celebrating the success of the combined Garching, Bell
+Labs, and JILA teams appeared on 29 May 2000 [50]. Within the next year
+there was an avalanche of absolute optical frequency measurements from
+labs all over the world. This was a glorious chapter in optical physics history,
+
+                                                                             125
+
+
+in no small part because of the high mutual respect of the two teams for each
+other, aided by the complete openness fostered by the frequent exchange of
+postdocs Scott Diddams and Thomas Udem between the two hotly-compe-
+ting groups.
+
+Some Frequency Measurement Results
+Many laser frequency standards were being actively studied worldwide so
+that, when the Comb breakthrough came, there were many things to be ac-
+curately measured – many for the first time. A few of the world-wide results
+include the work shown in the following Table.
+   The comb technology spread explosively in 2000, bringing vast simplifica-
+tion of optical frequency measurements, along with a steady improvement
+in the accuracy. Very soon after the initial measurements, it has become the
+case that the comb’s measurement precision can exceed that of the standards
+being measured. Recent tests at NIST, BIPM, and ECNU [51] confirm the
+earlier MPQ experiments [52] showing that the comb principle is strictly cor-
+rect up to a measurement precision of more than 18 digits.
+
+
+
+
+   Ca           657 nm    Schnatz         PTB        PRL                 1 Jan ‘96
+   Rb           780 nm    Ye             JILA        Opt. Lett.          August ‘96
+   C2H2         1500 nm   Nakagawa       NRLM        JOSA-B              Dec ‘96
+   I2           532 nm    Hall           JILA        IEEE Instr,Meas     April ‘99
+   Sr+          674 nm    Bernard        NRC         PRL                 19 Apr ‘99
+        +
+   In           236 nm    v. Zanthier    MPQ         Opt.Comm.           Aug’99
+   H            243 nm    Reichert       MPQ         PRL                 10 Apr ’00
+   Rb           778 nm    D. Jones       JILA        Science             28 Apr '00
+   I2           532 nm    Diddams        JILA        PRL                  29 May ’00
+   H            243 nm    Niering        MPQ         PRL                 12 June ‘00
+        +
+   Yb           467 nm    Roberts        NPL         PRA                 7 July ‘00
+   In+          236 nm    v. Zanthier    MPQ         Opt. Lett.          1 Dec.‘00
+   Ca           657 nm    Stenger        PTB         PRA                 17 Jan ‘01
+            +
+   Hg           282 nm    Udem           NIST        PRL                 28 May ‘01
+   Ca           657 nm    Udem           NIST        PRL                 28 May ‘01
+   Yb+          435 nm    Stenger        PTB         Opt. Lett.          5 Oct ‘01
+
+Table I. Measured Optical Frequencies. The reference atom/molecule and its transition
+wavelength are indicated, followed by lead author and institution, the journal name and
+date. The first fs Comb measurement was Hydrogen, by Reichert et al. The first direct fs
+optical measurements were by the JILA team (Jones). Note the brevity of time between
+publications!
+
+
+126
+
+
+Figure 4. Long-term frequency stability of Iodine-based Optical Clock. This figure conveys
+the refinement and small frequency offset of this stable optical clock’s frequency from
+previous, much less accurate measurements. With improved technology in 2002 the uncer-
+tainty was further reduced to ~6 x10–14 .
+
+
+
+Molecular Iodine Optical Frequency Standard
+The Iodine-stabilized Nd:YAG laser is a sweet spot in the stabilized laser
+domain, counting on its excellent performance and relative simplicity. One
+system was made in Japan that met airlines cabin baggage limitations and still
+delivered excellent performance [53]. Because of the Iodine’s great atomic
+mass, the second-order Doppler correction for this system is only ~5 x10–13
+and it is likely that independent reproducibility perhaps 5-fold superior to
+this can come with improved technical realizations. In particular, providing
+an offset-free modulation strategy is still a challenge. The advantage of this
+system is its compactness and potentially reasonable cost. Taken with an opti-
+cal comb, one can have an attractive clock [54]. See Figure 4. The frequency
+(in-)stability of all the 1 million optical comb lines is ~ 4 x10–14 /√τ .
+   Recently stable Yb:YAG single frequency lasers became available, with
+output tunable to 1029 nm. When frequency doubled, excellent stabilization
+performance should be possible with the I2 transitions at 514.5 nm, consider-
+ing that the linewidth is at least 5-fold smaller than for the 532 nm line [55].
+Single frequency fiber systems can also offer this wavelength.
+
+
+SO WHAT COMES NEXT ?
+In addition to the simplification of optical frequency measurements, the
+resulting new capabilities are unbelievably rich in terms of the tools and
+capabilities that have been created, and these in turn are reinforcing pro-
+gress in these contributing fields. This paper can’t even attempt to present a
+myriad of delicious physical effects, which are normally understood as being
+in different fields, but which in their now-unified relationships can be seen as
+creating a truly remarkable and enabling advance of the research tools avail-
+able in optical science. But let me still give a few examples.
+   After the frenzy of Generation I frequency measurements of Table I, some
+
+                                                                                     127
+
+
+of the Generation II comb applications in Jun Ye’s group include: low-jitter
+time synchronization (~fs) between ultrafast laser sources [56]; coherent
+stitching-together the spectrum of separate fs laser sources so as to spectrally
+broaden and temporally shorten the composite pulse [57]; precision meas-
+urement of optical nonlinearities using the phase measurement sensitivity of
+rf techniques [58] ; coherently storing a few hundred sequential pulses and
+then extracting their combined energy to generate correspondingly more
+intense pulses at a lower repetition rate [59]; and searching for a change in
+the physical constants by the Garching team [60]. Exciting topics of research
+for Generation III applications now include connecting optical frequency in-
+terim standards at the sub-Hz level (in spite of their different locations spec-
+trally and physically), allowing precise remote synchronization of accelerator
+cavity fields, providing stable reference oscillators for Large Array Microwave
+Telescopes, and potentially reducing the relative phase-noise of the oscillator
+references used for deep space telescope arrays (NASA, VLBI …) That’s part
+of the first five years.
+   And the next projects? What about 14.4 keV comb-line harmonics to look
+at Mössbauer 57Fe nuclear resonances? Another sharp line is in 181Ta at 6.2
+keV. How about parallel processing to determine biological activity of a
+candidate drug, by means of CARS using synchronized pulse lasers to excite
+specific ligand Raman resonances of a single molecule that was attracted to
+and stuck by a particular test protein patch on a surface?
+   In a larger framework, we now find ourselves at an almost unique point in
+the development of Science, where we the have remarkable ability to “under-
+stand” practically all phenomena, to compute accurate predictions from our
+equations, and to integrate a variety of details into our models. Consider for
+example the GPS system, in which different kinds of physics such as gravity
+and relativity are successfully merged with our sophisticated atomic clocks
+– not to forget satellite dynamics and radio engineering and computer soft-
+ware – so that in the total we have a coherent and highly useful practical tool.
+Remarkably, the system is simple for the end user to apply. We must count
+this GPS achievement as one of the all-time ultimate technical success levels
+ever achieved.
+   The work recognized by the 2005 Nobel Physics Prize represents entry of
+another dramatic, major and enabling advance, and one which we can expect
+to show some flavors of the same breadth and character just noted regarding
+GPS. But in these first moments after its birth, our opto-electronic technol-
+ogy is new and is barely illustrated, not much beyond the first cases of interest
+to frequency-standards people and metrologists. We know that the accuracy of
+optical frequency measurements is now limited to “just” 15 digits by the pres-
+ent microwave standard of frequency, but the “Comb” technology actually
+allows two optical frequencies to be compared with several orders of magni-
+tude more precision. If the history of physics is any guide, we realistically can
+expect to find some nice surprises ahead as these capabilities become even
+more widespread, and are applied to ingenious fundamental measurements
+by a growing and imaginative community of “fundamental physics” scientists.
+
+128
+
+
+After considering all the known progress in Science, would you bet that we
+have already opened the Russian Matryoshka doll of Nature and already
+found the ultimate inside limit?
+
+
+ACKNOWLEDGEMENTS
+The joy of interacting with superb young scientists is clearly one of life’s trea-
+sures. Among these many I must single out for special thanks Jim Bergquist,
+Leo Hollberg, Miao Zhu, and Jun Ye for their enthusiasm and unique con-
+tributions to the JILA program. The NIST management is enthusiastically
+thanked for accepting and sponsoring over the years a series of risky pro-
+posals in Laser Spectroscopy. Particularly Leo Hollberg, Steve Cundiff and I
+were glad they accepted the fs comb frequency synthesizer proposal in Spring
+1999. Scott Diddams and David Jones were the excellent colleagues addition-
+ally involved in these experiments, and JILA’s research force was hugely ex-
+panded when Jun Ye rejoined JILA in 1999 to start his own group. As always,
+whenever Professor Long Sheng Ma was visiting us from Shanghai our pace
+was strongly advanced. Visiting scientists such as Christian Bordé continue to
+be collaborators even three decades after their JILA time. I am pleased and
+grateful to acknowledge that the work has been supported in part by the NSF,
+ONR, AFOSR, and NASA, and for over 4 decades by the NIST. I benefited
+greatly from the knowledge and generous sharing of ideas and opportunities
+by my NBS mentor, Peter L. Bender. Above all I am indebted to my patient
+and insightful lifetime friend Lindy Hall for her understanding, her great
+efforts and contributions to this scientific work and, more importantly, to
+our joyous and fun life together. It has been wonderful in the course of these
+45 years to see a progression of experiments and technical advances make
+possible this ultimate payoff in the optical comb. Now we’re discussing if it’s
+almost time to clean my office at JILA and pack up into a new camper unit to
+go out and further explore another domain in the world.
+
+Appendix: The Full Comb Story in an Undergraduate’s World
+I’m glad you asked how to think about frequency combs. Suppose you have a
+sinewave voltage or field. Then a plot in time shows a smooth oscillation and
+a plot in frequency shows a single Fourier component, namely a sharp line.
+Now add a few harmonics onto this wave. The spectrum now has a few more
+lines at exact harmonic frequencies, while the time picture has a rather com-
+plicated shape. By adjusting the phases of the harmonics, we can begin to
+synthesize some disturbance in time that begins to remind one of a pulse, or
+more exactly, a series of identical pulses. Carry this a step forward by having
+a large number of harmonics. The more we add, the sharper is the pulse we
+can synthesize, and of course the richer is the spectrum of this wave. Going
+further in this direction of adding coherent harmonics, the spectrum now
+has zillions of spectral lines, all at the harmonics of our original sinewave.
+Carrying this concept to the visible will require a few million (106) harmon-
+ics for a source with 100 MHz basic repetition rate. With the proper phase
+
+                                                                              129
+
+
+adjustments, the time domain pulse can be 106 times sharper in time than
+the original sinewave. So we can expect really narrow temporal pulses, and
+really wide spectral bandwidths.
+   This situation fits well with what we would expect from Fourier analysis of
+a single pulse: such an impulse will have Fourier components at all frequen-
+cies, with their nearly-constant amplitudes gradually decreasing for frequen-
+cies above the reciprocal temporal pulsewidth. If we have a repetitive pulse
+train in time, but insist to ask about its spectrum, we will need an analyzer
+with a narrower passband compared with the repetition frequency, otherwise
+it couldn’t resolve the harmonic structure. But a narrow spectral passband
+corresponds to a long temporal response time. So the output of the spec-
+trometer at any particular wavelength or frequency setting will be the result
+of coherent addition of the contributions of many pulses. While an individual
+pulse has a broad and continuous spectrum, when we coherently add their
+spectral amplitudes we can expect to have interferences that will modulate
+the spectrum. Adding more pulses temporally (narrower spectral resolution)
+will give deeper modulation. Eventually we arrive at very sharp spectral lines,
+evenly arranged as Fourier harmonics. Until we encounter technical issues
+such as phase-noise of the repetition rate, the sharper an analysis resolution
+we apply to the waveform, the sharper will be the spectral lines we observe.
+So the spectrum does indeed remind one of a “comb.” You can demonstrate
+these ideas safely at home for yourself easily in the electronics domain, but of
+course the optical and electronics worlds should work the same …
+   In fact, with the fs lasers used to generate these pulses, there is one more
+little item of interest. That is that the laser can oscillate in any one of its cav-
+ity modes, defined by having a repeating phase after going one loop around
+the cavity. All the many modes involved have their own longitudinal quantum
+numbers, essentially how many full optical cycles are contained in the closed
+loop. This calculation clearly involves the wavelength-dependent phase vel-
+ocity, and some average of the propagation through the many optical compo-
+nents. Another reality is that the laser operates in a self-organized repetitive
+pulsing mode. Effectively the laser’s optical losses can be made large enough
+to inhibit laser action, unless all the cavity modes can adjust their phases
+to synthesize a delta-function spatially. The critical thing is to have a short
+pulse when passing through the Ti:Sapphire crystal, since the short pulse
+will correspond to very high peak power, and that will interact with the laser
+rod’s material in a quadratic way (optical Kerr effect) to produce a positive
+lens: a bigger index on the axis where the intensity is maximum. So the self-
+organized pulse situation is stable in which the laser’s cavity has a high dif-
+fraction-loss (doesn’t have quite enough positive lens power), but the losses
+are periodically remedied by a bullet of light which uses its self-action on the
+crystal to produce the needed extra refraction that makes the cavity losses be
+suitably less.
+   Now the pulse envelope that describes this light “bullet” results from
+superposition of many cavity modes, and the shape will evolve if there are
+temporal delay differences with wavelength. We are now just discussing the
+
+130
+
+
+group velocity concept, whereby the shape of a disturbance will evolve unless
+all the frequencies have the same propagation speed. In the physical laser
+we must include some optical elements specifically to deal with the fact that
+blue light in the laser crystal will travel more slowly than red light. To get
+the shortest pulses the time delays around the loop need to be essentially
+the same, although you can see this becomes a little complicated in that the
+laser pulses themselves act to influence the time delays. In any case, the light
+which comes out of the laser’s coupling mirror will be a regular time series of
+sharp pulses, and will display a comb-like structure under frequency analysis.
+However the underlying fast optical oscillations will in general have a differ-
+ent phase each time the pulse hits the mirror’s surface. The fast oscillation’s
+phase will shift a bit forward or backward from one pulse to the next, and
+so the optical frequency comb may be offset a bit from the strictly Fourier
+harmonic case we first imagined. The usual case is a constant phase shift for
+each pulse, and so a constant rate of accumulating a phase beyond the repeti-
+tion-rate’s harmonic. We have developed an electro-optic scheme called “self-
+referencing” in which this additional frequency, the Carrier-Envelope Offset
+Frequency, is stably locked to the repetition frequency in a digital ratio. For
+example one could choose zero for the setpoint ratio and thereby have a
+strictly harmonic comb. With the offset = 1/2, one generates a comb offset by
+1/2 the basic repetition rate, which itself is of course the frequency comb’s
+tooth spacing. See Ref [48–52].
+
+
+REFERENCES
+[1]  BIPM, “http://www.bipm.org/en/si/si_constants.html.”
+[2]  These are Mass, kg; Time, s; Length, m; Current, A; Temperature, K; Quantity of
+     Matter, mol; Unity of Light Intensity (Candela), cd.
+[3] NIST, “http://www.mel.nist.gov/div821/museum/timeline.htm.”
+[4] J. L. Flowers and B. W. Petley, “Progress in our knowledge of the fundamental con-
+     stants of physics,” Reports on Progress in Physics, vol. 64, pp. 1191–1246, 2001.
+[5] R. Steiner, E. R. Williams, D. B. Newell, and R. Liu, “Towards an electronic kilogram:
+     an improved measurement of the Planck constant and electron mass,” Metrologia,
+     vol. 42, pp. 431–441, 2005.
+[6] C. J. Bordé, “Base units of the SI, fundamental constants and modern quantum
+     physics,” Philosophical Transactions of the Royal Society a-Mathematical Physical and
+     Engineering Sciences, vol. 363, pp. 2177–2201, 2005.
+[7] D. Sobel, Longitude, the True Story of a Lone Genius Who Solved the Greatest Scientific
+     Problem of His Time. New York: Penguin Books, 1995.
+[8] M. A. Kasevich, E. Riis, S. Chu, and R. G. Devoe, “Rf Spectroscopy in an Atomic
+     Fountain,” Physical Review Letters, vol. 63, pp. 612–616, 1989.
+[9] A. Clairon, P. Laurent, G. Santarelli, S. Ghezali, S. N. Lea, and M. Bahoura, “A
+     Cesium Fountain Frequency Standard – Preliminary-Results,” IEEE Transactions on
+     Instrumentation and Measurement, vol. 44, pp. 128–131, 1995.
+[10] T. P. Heavner, S. R. Jefferts, E. A. Donley, J. H. Shirley, and T. E. Parker, “NIST-F1:
+     recent improvements and accuracy evaluations,” Metrologia, vol. 42, pp. 411–422,
+     2005.
+[11] K. Gibble and S. Chu, “Laser-Cooled Cs Frequency Standard and a Measurement of
+     the Frequency-Shift Due to Ultracold Collisions,” Physical Review Letters, vol. 70, pp.
+     1771–1774, 1993.
+
+
+                                                                                       131
+
+
+[12] E. S. Polzik, J. Carri, and H. J. Kimble, “Atomic Spectroscopy With Squeezed Light
+     For Sensitivity Beyond the Vacuum-State Limit,” Applied Physics B-Photophysics and
+     Laser Chemistry, vol. 55, pp. 279–290, 1992.
+[13] R. W. P. Drever, J. L. Hall, F. V. Kowalski, J. Hough, G. M. Ford, A. J. Munley, and
+     H. Ward, “Laser Phase and Frequency Stabilization Using an Optical-Resonator,”
+     Applied Physics B-Photophysics and Laser Chemistry, vol. 31, pp. 97–105, 1983.
+[14] B. C. Young, F. C. Cruz, W. M. Itano, and J. C. Bergquist, “Visible lasers with subhertz
+     linewidths,” Physical Review Lett., vol. 82, pp. 3799–3802, 1999.
+[15] B. C. Young, R. J. Rafac, J. A. Beall, F. C. Cruz, W. M. Itano, D. J. Wineland, and J. C.
+     Bergquist, “Hg+ OPTICAL FREQUENCY STANDARD: Recent Progress,” in ICOLS
+     2005, vol. XVII, LASER SPECTROSCOPY. Cairngorm, Aviemore, Scotland: World
+     Scientific, 2005, pp. 433.
+[16] M. Notcutt, L. S. Ma, J. Ye, and J. L. Hall, “Simple and compact 1-Hz laser system via
+     an improved mounting configuration of a reference cavity,” Optics Letters, vol. 30, pp.
+     1815–1817, 2005.
+[17] J. L. Hall, “The laser absolute wavelength standard problem,” IEEE Journal of
+     Quantum Electronics, vol. QE-4, pp. 638–41, 1968.
+[18] R. L. Barger and J. L. Hall, “Pressure shift and broadening of methane line at 3.39
+     um studied by laser-saturated molecular absorption,” Physical Review Letters, vol. 22,
+     pp. 4–8, 1969.
+[19] J. L. Hall, “Optical frequency measurement: 40 years of technology revolutions,”
+     IEEE Journal of Selected Topics in Quantum Electronics, vol. 6, pp. 1136–44, 2000.
+[20] V. S. Letokhov and V. P. Chebotayev, NonLinear Laser Spectroscopy. Berlin: Springer-
+     Verlag, 1977.
+[21] S. Stenholm, Foundations of Laser Spectroscopy. New York, Wiley, 1984.
+[22] M. D. Levenson and S. S. Kano, Introduction to NonLinear Laser Spectroscopy. San
+     Diego: Academic, 1988.
+[23] S. N. Bagaev, L. S. Vasilenko, A. K. Dmitriev, M. N. Skvortsov, and V. P. Chebotaev,
+     “Narrowing of Nonlinear Resonances in Low Pressure Gases,” JETP Letters, vol. 23,
+     pp. 360–363, 1976.
+[24] C. J. Bordé, J. L. Hall, C. V. Kunasz, and D. G. Hummer, “Saturated absorption line
+     shape: Calculation of the transit-time broadening by a perturbation approach,”
+     Physical Review A (General Physics), vol. 14, pp. 236–63, 1976.
+[25] H. L. Bethlem, G. Berden, and G. Meijer, “Decelerating neutral dipolar molecules,”
+     Physical Review Letters, vol. 83, pp. 1558–1561, 1999.
+[26] E. R. Hudson, H. J. Lewandowski, B. C. Sawyer, and J. Ye, “Cold molecule spectro-
+     scopy for constraining the evolution of the fine structure constant,” Physical Review
+     Letters, vol. 96, 2006.
+[27] L. S. Ma, J. Ye, P. Dubé, and J. L. Hall, “Ultrasensitive frequency-modulation spec-
+     troscopy enhanced by a high-finesse optical cavity: theory and application to over-
+     tone transitions of C2H2 and C2HD,” Journal of the Optical Society of America B-Optical
+     Physics, vol. 16, pp. 2255–2268, 1999.
+[28] M. Ziskind, C. Daussy, T. Marrel, and C. Chardonnet, “Improved sensitivity in the
+     search for a parity-violating energy difference in the vibrational spectrum of the
+     enantiomers of CHFCIBr,” European Physical Journal D, vol. 20, pp. 219–225, 2002.
+[29] S. Svanberg, Atomic and Molecular Spectroscopy, 2nd Edition, Berlin, Springer-Velag,
+     1992..
+[30] J. L. Hall, C. J. Bordé, and K. Uehara, “Direct Optical Resolution of Recoil Effect
+     Using Saturated Absorption Spectroscopy,” Physical Review Letters, vol. 37, pp. 1339–
+     1342, 1976.
+[31] S. N. Bagayev, V. P. Chebotayev, A. K. Dmitriyev, A. E. Om, Y. V. Nekrasov, and B. N.
+     Skvortsov, “2nd-Order Doppler-Free Spectroscopy,” Applied Physics B-Photophysics and
+     Laser Chemistry, vol. 52, pp. 63–66, 1991.
+[32] M. Kourogi, T. Enami, and M. Ohtsu, “A coupled-cavity monolithic optical frequency
+     comb generator,” IEEE Photonics Technology Letters, vol. 8, pp. 1698–1700, 1996.
+
+132
+
+
+[33] J. L. Hall, L.-S. Ma, M. Taubman, B. Tiemann, F.-L. Hong, O. Pfister, and J. Ye,
+     “Stabilization and frequency measurement of the I/sub 2/-stabilized Nd:YAG laser,”
+     IEEE Transactions on Instrumentation and Measurement, vol. 48, pp. 583–6, 1999.
+[34] S. A. Diddams, L.-S. Ma, J. Ye, and J. L. Hall, “Broadband optical frequency comb
+     generation with a phase-modulated parametric oscillator,” Optics Letters, vol. 24, pp.
+     1747–9, 1999.
+[35] J. L. Hall, J. Ye, S. A. Diddams, L.-S. Ma, S. T. Cundiff, and D. J. Jones, “Ultrasensitive
+     spectroscopy, the ultrastable lasers, the ultrafast lasers, and the seriously nonlinear
+     fiber: a new alliance for physics and metrology,” IEEE Journal of Quantum Electronics,
+     vol. 37, pp. 1482–92, 2001.
+[36] F. Salin, J. Squier, and M. Piche, “Mode locking of Ti:Sapphire lasers and self-focus-
+     ing: a Gaussian approximation,” Opt. Lett., vol. 16, pp. 1674–1678, 1991.
+[37] K. W. Holman, R. J. Jones, A. Marian, S. T. Cundiff, and J. Ye, “Detailed studies and
+     control of intensity-related dynamics of femtosecond frequency combs from mode-
+     locked Ti : Sapphire lasers,” IEEE Journal of Selected Topics in Quantum Electronics, vol.
+     9, pp. 1018–1024, 2003.
+[38] J. N. Eckstein, A. I. Ferguson, and T. W. Hänsch, “ High-resolution 2-photon spec-
+     troscopy with picosecond light-pulses,” Physical Review Letters, vol. 40, pp. 847–850,
+     1978.
+[39] K. M. Evenson, J. S. Wells, F. R. Petersen, B. L. Danielson, G. W. Day, R. L. Barger,
+     and J. L. Hall, “Speed of light from direct frequency and wavelength measurements
+     of the methane-stabilized laser,” Physical Review Letters, vol. 29, pp. 1346–9, 1972.
+[40] A. Sanchez, C. F. Davis, K. C. Liu, and A. Javan, “Mom Tunneling Diode – Theoretical
+     Estimate of Its Performance at Microwave and Infrared Frequencies,” Journal of
+     Applied Physics, vol. 49, pp. 5270–5278, 1978.
+[41] D. A. Jennings, C. R. Pollock, F. R. Petersen, R. E. Drullinger, K. M. Evenson, J. S.
+     Wells, J. L. Hall, and H. P. Layer, “Direct Frequency-Measurement of the I/sub 2/-
+     Stabilized He-Ne 473-THz (633-nm) Laser,” Optics Letters, vol. 8, pp. 136–138, 1983.
+[42] H. R. Telle, D. Meschede, and T. W. Hänsch, “Realization of a New Concept for
+     Visible Frequency-Division – Phase Locking of Harmonic and Sum Frequencies,”
+     Optics Letters, vol. 15, pp. 532–534, 1990.
+[43] B. G. Whitford, “Measurement of the Absolute Frequencies of CO2-Laser Transitions
+     by Multiplication of CO2-Laser Difference Frequencies,” IEEE Transactions on
+     Instrumentation and Measurement, vol. 29, pp. 168–176, 1980.
+[44] S. A. Diddams, D. J. Jones, L. S. Ma, S. T. Cundiff, and J. L. Hall, “Optical frequency
+     measurement across a 104-THz gap with a femtosecond laser frequency comb,”
+     Optics Letters, vol. 25, pp. 186–188, 2000.
+[45] R. W. J. Ranka, and A. Stentz, “Visible continuum generation in air-silica microstructure
+     optical fibers with anomalous dispersion at 800 nm,” Opt. Lett., vol. 25, p. 25, 2000.
+[46] J. C. Knight, T. A. Birks, P. S. Russell, and D. M. Atkin, “All-silica single-mode optical
+     fiber with photonic crystal cladding,” Optics Letters, vol. 21, pp. 1547–1549, 1996.
+[47] R. S. Windeler, private communication to J. L. Hall, May 2006.
+[48] J. Reichert, M. Niering, R. Holzwarth, M. Weitz, T. Udem, and T. W. Hänsch, “Phase
+     coherent vacuum-ultraviolet to radio frequency comparison with a mode-locked
+     laser,” Physical Review Letters, vol. 84, pp. 3232–3235, 2000.
+[49] D. J. Jones, S. A. Diddams, J. K. Ranka, A. Stentz, R. S. Windeler, J. L. Hall, and S. T.
+     Cundiff, “Carrier-envelope phase control of femtosecond mode-locked lasers and
+     direct optical frequency synthesis,” Science, vol. 288, pp. 635–639, 2000.
+[50] S. A. Diddams, D. J. Jones, J. Ye, T. Cundiff, J. L. Hall, J. K. Ranka, R. S. Windeler, R.
+     Holzwarth, T. Udem, and T. W. Hänsch, “Direct link between microwave and optical
+     frequencies with a 300 THz femtosecond laser comb,” Physical Review Letters, vol. 84,
+     pp. 5102–5, 2000.
+[51] L. S. Ma, Z. Y. Bi, A. Bartels, L. Robertsson, M. Zucco, R. S. Windeler, G. Wilpers, C.
+     Oates, L. Hollberg, and S. A. Diddams, “Optical frequency synthesis and compari-
+     son with uncertainty at the 10(–19) level,” Science, vol. 303, pp. 1843–1845, 2004.
+
+                                                                                           133
+
+
+[52] T. Udem, R. Holzwarth, and T. W. Hänsch, “Optical frequency metrology,” Nature,
+     vol. 416, pp. 233–237, 2002.
+[53] F. L. Hong, J. Ishikawa, K. Sugiyama, A. Onae, H. Matsumoto, J. Ye, and J. L. Hall,
+     “Comparison of independent optical frequency measurements using a portable iod-
+     ine-stabilized Nd : YAG laser,” IEEE Transactions on Instrumentation and Measurement,
+     vol. 52, pp. 240–244, 2003.
+[54] J. Ye, L. S. Ma, and J. L. Hall, “Molecular iodine clock,” Physical Review Letters, vol. 87,
+     pp. 270801–4, 2001.
+[55] W. Y. Cheng, L. S. Chen, T. H. Yoon, J. L. Hall, and J. Ye, “Sub-Doppler molecular-
+     iodine transitions near the dissociation limit (523–498 nm),” Optics Letters, vol. 27,
+     pp. 571–573, 2002.
+[56] R. K. Shelton, S. M. Foreman, L. S. Ma, J. L. Hall, H. C. Kapteyn, M. M. Murnane, M.
+     Notcutt, and J. Ye, “Subfemtosecond timing jitter between two independent, actively
+     synchronized, mode-locked lasers,” Optics Letters, vol. 27, pp. 312–314, 2002.
+[57] R. K. Shelton, L. S. Ma, H. C. Kapteyn, M. M. Murnane, J. L. Hall, and J. Ye, “Phase-
+     coherent optical pulse synthesis from separate femtosecond lasers,” Science, vol. 293,
+     pp. 1286–9, 2001.
+[58] T. M. Fortier, D. J. Jones, J. Ye, and S. T. Cundiff, “Highly phase stable mode-locked
+     laser’s,” IEEE Journal of Selected Topics in Quantum Electronics, vol. 9, pp. 1002–1010,
+     2003.
+[59] R. J. Jones and J. Ye, “High-repetition-rate coherent femtosecond pulse amplifica-
+     tion with an external passive optical cavity,” Optics Letters, vol. 29, pp. 2812–2814,
+     2004.
+[60] M. Fischer, N. Kolachevsky, M. Zimmermann, R. Holzwarth, T. Udem, T. W.
+     Hänsch, M. Abgrall, J. Grunert, I. Maksimovic, S. Bize, H. Marion, F. P. Dos Santos,
+     P. Lemonde, G. Santarelli, P. Laurent, A. Clairon, C. Salomon, M. Haas, U. D.
+     Jentschura, and C. H. Keitel, “New limits on the drift of fundamental constants from
+     laboratory measurements,” Physical Review Letters, vol. 92, 2004.
+
+Portrait photo of John L. Hall by photographer Sears. P. Studio.
+
+
+
+
+134
+

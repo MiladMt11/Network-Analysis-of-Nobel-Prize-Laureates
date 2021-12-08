@@ -1,0 +1,1008 @@
+FROM THE STRUCTURE AND FUNCTION OF THE
+RIBOSOME TO NEW ANTIBIOTICS
+
+Nobel Lecture, December 8, 2009
+by
+THOMAS A. STEITZ
+Department of Molecular Biophysics and Biochemistry, Department of
+Chemistry, Yale University and the Howard Hughes Medical Institute, 266
+Whitney Avenue, New Haven, CT 06520-8114, USA.
+
+
+My passion for pursuing structural studies of biological macromolecules in
+order to understand how they carry out their functions was initiated by a
+Dunham lecture that Max Perutz presented at Harvard Medical School in the
+spring of 1963, a year after he shared the Nobel Prize in Chemistry with John
+Kendrew for determining the first protein structures. He showed a very large
+audience the first stereo slide of an atomic structure of a protein, myoglobin,
+that any of us had ever seen. When the myoglobin structure popped into
+three dimensions over his head, a loud “oh” came from the audience. I knew
+then how I wanted to understand the chemistry of biology.
+   I began my thesis research at Harvard by working with a team in the
+laboratory of William N. Lipscomb, a Nobel chemistry Laureate in 1976,
+on the structure of carboxypeptidase A. I did postdoctoral studies with
+David Blow at the MRC lab of Molecular Biology in Cambridge studying
+chymotrypsin. My interactions with Jim Watson and with Wally Gilbert while
+I was at Harvard and the numerous contacts that I had with Francis Crick
+and Sydney Brenner while I was at Cambridge stimulated my three decade
+long interest in obtaining the structural basis of Crick’s Central Dogma:
+“DNA makes DNA makes RNA makes Protein”. This trail ultimately led to
+our determining the atomic structure of the large ribosomal subunit, which
+catalyzes peptide bond formation, as well as the structures of its complexes
+with substrate analogs and antibiotics.
+   In the early 1960s, when I was a graduate student, Watson published a fig-
+ure that summarized what was known about the ribosome structure (Watson,
+1963). It showed the A site for the positioning of the aminoacyl-tRNA,
+though nothing was known about the tRNA structure. The P site located next
+to the A site had the peptidyl-tRNA, but the pathway taken by the polypep-
+tide product was unknown. Also, the existence of the E site, the exit site, was
+unknown. In 1976, Jim Lake used electron microscopic studies of negative
+large and small ribosome subunits as well as the 70S ribosome to obtain the
+first views of the shapes of the ribosome and its subunits (Lake, 1976). By 1995
+Joachim Frank was able to use the single particle cryo-EM methods that he
+and coworkers had developed to obtain a 25 Å resolution reconstruction of
+the 70S ribosome with 3 bound tRNA molecules (Frank et al., 1995).
+
+
+                                                                            179
+
+
+   By 1995, my lab had obtained structural insights into the mechanisms
+of most of the steps of “The Central Dogma”, except the last one: protein
+synthesis by the ribosome. The mid-90s seemed to be the right time to take
+on this largest of structural biology challenges. Computational power and
+x-ray crystallographic methodologies including synchrotron x-ray sources
+and CCD detectors had reached a sufficiently high level to allow x-ray data
+collection from crystals of such a large assembly. Importantly, Ada Yonath
+and Wittmann had shown in 1985 that the 50S ribosomal subunit could be
+crystallized (Shevack et al., 1985), and in 1991 crystals of the Haloarcula maris-
+mortui (Hma) 50S subunit were obtained that diffracted to 3.0 Å resolution
+(von Böhlen et al., 1991). The growth of these well-diffracting crystals meant
+that obtaining the atomic structure of the ribosome was in principle possible.
+However, while crystals are a necessary condition for determining a crystal
+structure, they are not sufficient: a large challenge remained – the phasing
+problem. The 7 Å resolution electron density a map of the Hma 50S subunit
+that was published in 1995 (Schluenzen et al., 1995) suggested to me (and
+some others) that the challenge had not yet been correctly met, since the
+map did not look like RNA. Another approach was needed.
+   In the fall of 1995 Nenad Ban joined my lab and was interested in pursuing
+the structure of the ribosome or its component large subunit – the right
+person at just the right time. I suggested that he tackle the Hma large sub-
+unit structure, which he did. I also decided that we should collaborate with
+a close friend and colleague, as well as one of the pillars of the ribosome
+research community, Peter Moore. Peter is an avid fisherman who likes to
+catch big fish, and the ribosome was indeed a big fish. Nenad embarked
+on determining the structure of the Hma 50S ribosomal subunit with the
+assistance of Peter’s technician, Betty Freeborn, for preparing the subunit.
+A student in Peter’s lab concurrently pursued the objective of crystallization
+of the 30S subunit or domains of it. By early 1997, Nenad had successfully
+initiated very low resolution crystallographic studies of the large subunit
+including the correct location of the heavy atoms in several heavy atom de-
+rivatives, when he was then joined in his efforts by Poul Nissen. Through the
+next three years these two spearheaded the structure determination of the
+Hma 50S subunit.
+   While the crystals obtained using the published procedures (von Böhlen
+et al., 1991) diffracted to 3 Å resolution, they were extremely thin and often
+multiple. Indeed, Yonath and Franceschi (1998) and Harms et al. (1999)
+described these crystal defects, which included severe nonisomorphism, high
+radiation sensitivity, nonuniform mosaic spread, uneven reflection shape
+and high fragility, as well as unfavorable crystal habit. Nissen introduced a
+back extraction procedure that resulted in isometric and uniform crystals
+that occasionally diffracted to 2.4 Å resolution (Ban et al., 1999; 2000). Later,
+Martin Schmeing found an approach that extended the resolution to 2.2 to
+2.4 Å more reproducibly (Schmeing et al., 2005a,b). At this resolution the
+structures, when obtained, can inform on the chemistry of the processes
+involved in protein synthesis.
+
+180
+
+
+   What then was the major challenge that needed to be overcome? Why
+was the determination of the atomic structure of the ribosome perceived
+to be a very high mountain to climb? The major challenge in determining
+any crystal structure (once crystals have been obtained) is what is called the
+“phase problem”. Each diffraction spot has an intensity, which can be directly
+measured, and a phase, which is not directly measurable. Max Perutz was
+awarded the Nobel Prize in 1962, in part because he developed the method
+of heavy atom isomorphous replacement to solve the phasing problem for
+macromolecules. Heavy atoms are bound specifically to the crystal, and their
+positions in the crystal need to be determined; information that can then be
+used to obtain the phase angles, which when combined with the diffraction
+amplitudes allow the calculation of an electron density map.
+   The phasing challenge presented by the ribosome arises from its large
+size. Consequently, a single heavy atom provides too weak a diffraction signal
+to measure and 100 heavy atoms are difficult, if not impossible, to locate. I
+compare the problem with the challenge of trying to measure the weight of a
+ship captain by subtracting the weight of the boat from the weight of the boat
+plus the ship captain. While this can be done with some accuracy for a small
+sailboat, subtracting the weight of the Queen Mary from that of the Queen
+Mary plus the captain would give a very small signal, and the ribosome is the
+Queen Mary of macromolecular assemblies. It is about 100 times heavier
+than lysozyme.
+   In order to obtain a super heavy ship captain, Ban used several heavy atom
+cluster compounds, most importantly one containing 18 tungsten atoms
+(W18) which together with the other atoms in the compound has about 2,000
+electrons. At very low resolution, 20 Å or lower, it scatters almost as one heavy
+atom. Since the x-ray scatter is proportional to the square of the number of
+electrons, the scattering signal from the W18 cluster compound is over 600
+times larger than that from a single 78 electron Tungsten atom. Indeed, its
+scatter at low resolution is very much larger than that from more than 100
+bound Osmium hexamine complexes (Fig. 1).
+
+
+
+
+                                                                             181
+
+
+Figure 1. The calculated radial distribution of the scattering intensities produced by four
+of the heavy atom compounds used for phasing as a function of resolution. At very low
+resolution the scattering from the cluster compounds, including the W18 cluster which
+contains 2,000 electrons, is extremely large compared with the scatter from more than 100
+bound osmium hexamines.
+
+
+Nenad Ban located the position of a W18 cluster compound that was bound
+to a single site using a 20 Å resolution difference Patterson map (Ban et al.,
+1998). He then confirmed its location by calculating a difference electron
+density map, phased using molecular replacement phases derived from a
+20 Å resolution cryo-EM map of the Hma 50S subunit provided by Joachim
+Frank (Fig. 2a). Ban then solved several additional heavy atom cluster
+compound derivatives using phases derived from the W18 derivative. By the
+end of 2007 he had a very nice 9 Å resolution map of the 50S subunit (Fig.
+2b), obtained using only x-ray data, that showed the expected RNA duplex
+helices and had the same overall shape as seen in the cryo-EM map (Ban et
+al., 1998).
+
+
+
+
+182
+
+
+Figure 2. The progressive increase in the resolution of the electron density maps of the
+50S ribosomal subunit obtained, beginning with the 20 Å resolution cryo EM map from
+Joachim Frank (1996) and progressing to our 9 Å resolution map (Ban et al., 1998), which
+showed the first of the RNA helices, to the 5 Å resolution map (Ban et al., 1999), into which
+known protein structures could be fitted, and ending with a 2.4 Å resolution map (Ban et
+al., 2000), which allowed the building of a complete atomic model.
+
+
+Our strategy during the first four years of our crystallographic studies of the
+50S subunit was to work at lower resolutions than 4.5 Å, which could be done
+using a bending magnet beam line X12C at Brookhaven National Laboratory
+on Long Island, New York. It was not possible to use the laboratory rotating
+anode x-ray source because it was too weak, but the X12C source worked fine
+at low resolutions and was generally very accessible for our use. When finally
+all of our heavy atom derivatives were made and the heavy atoms correctly
+located, our first trip to the high intensity insertion device beam line X25 at
+Brookhaven was made at the end of 1999. Within 4 days, data were collected
+that allowed calculation of a 3.0 Å resolution map and the initiation of the
+building of the atomic model.
+   The resolution of our maps gradually increased from the initial 9 Å reso-
+lution (Fig. 2). In 1999, we published a 5 Å resolution map of the 50S Hma
+subunit in which known r-protein (ribsome protein) structures could be
+positioned (Ban et al., 1999). In 2000, we published the atomic structure of
+
+                                                                                        183
+
+
+the 50S ribosomal subunit derived from a 2.4 Å resolution map calculated
+using data collected at Argonne National Laboratory (Ban et al., 2000) (Fig.
+2d) and that of its complex with a substrate analogue of the transition state
+of the peptidyl transferase reaction (Nissen et al., 2000). At the same time in
+1999 that we published our 5 Å resolution map, the Ramakrishnan group
+published a 5.5 Å resolution map of the 30S subunit (Clemons et al., 1999)
+and the Noller group published a 7 Å resolution map of the 70S ribosome
+(Cate et al., 1999), using phasing approaches that were similar to the cluster
+approach we published in 1998. Shortly after the appearance of our papers
+on the 2.4 Å resolution structures of the 50S subunit, two models of the 30S
+subunit were published (Wimberly et al., 2000; Schleunzen et al., 2000). A
+year later Noller and colleagues obtained a model of the 70S ribosome with
+three bound tRNA molecules using a 5.5 Å resolution map into which were
+fitted the atomic models of the 30S subunit of Ramakrishnan et al. and the
+Hma 50S subunit modified to reflect the eubacterial differences (Yusupov et
+al., 2001).
+
+
+
+
+Figure 3. A space filling model of the Hma 50S ribosomal subunit cut in half through its
+polypeptide exit tunnel at the PTC (PT) and opened up like a book. The tightly packed
+RNA in the interior is shown in white and the penetrating protein loops in green. A
+hypothetical model of the exiting polypeptide in the tunnel is shown in white (Nissen et
+al., 2000).
+
+The 3,000 nucleotides of RNA observed in the Hma 50S subunit exhibited
+a compact structure with the globular domains of the r-proteins imbedded
+in its surface, except in the deep cleft where the substrate analogue binds.
+Splitting the subunit down the middle like an apple and opening it out
+reveals a 100 Å long polypeptide exit tunnel emanating from the peptidyl
+transferase center (PTC). It is wide enough to accommodate an alpha-helix
+
+
+184
+
+
+(Nissen et al., 2000; Voss et al., 2006), but not large enough to accommodate
+any formation of protein tertiary structure as had been proposed (Gilbert
+et al., 2004). Not only is the packing of the 23S rRNA relatively tight, but
+extended peptides from many r-proteins are seen to fill the crevices that lie
+between the RNA helices (Fig. 3). Indeed, when the structures of many of
+the r-proteins are examined in isolation, they are seen to consist of globular
+domains and idiosyncratically-folded extended loops and strands that contain
+many Lys and Arg residues. Two particularly striking examples of extended
+chains that penetrate deeply into the RNA interior are from r-proteins L2
+and L3, which approach the PTC as marked by the bound substrate analogue
+(Fig. 4).
+
+
+
+
+Figure 4. A ribbon representation of the 23S rRNA in white and proteins L2 and L3 in yel-
+low showing the extended peptide chains penetrating into the ribosome interior towards
+the PTC but not reaching a bound substrate analogue (orange).
+
+
+Our subsequent analyses of the structural features of the rRNA of the large
+subunit revealed a novel long-range RNA tertiary structure interaction, the
+A-minor motif, and a previously unrecognized secondary structure motif,
+the kink turn (Nissen et al., 2001; Klein et al., 2001). The A-minor motif
+involves the insertion of the smooth, minor groove (C2-N3) edges of adenine
+bases within single stranded regions into the minor grooves of neighboring
+helices, primarily at C-G base pairs. There are 186 adenines in the large
+subunit observed to make A-minor interactions that stabilize helix-helix,
+helix-loop, and junction interactions. Ramakrishnan et al. subsequently
+
+                                                                                    185
+
+
+observed that A-minor interactions are important to decoding by stabilizing
+correct codon-anticodon interactions (Ogle et al., 2001). The kink-turns
+(K-turns) are asymmetric internal loops imbedded in RNA double helices.
+The six K-turns in the Hma 50S subunit have a kink in the phosphodiester
+backbone that causes a sharp turn in the RNA helix, and they superimpose
+on each other with an rmsd of 1.7 Å.
+   Francis Crick had wondered in 1968 whether the catalytic heart of the
+ribosome was all RNA. Realizing that evolution had faced the “chicken or
+the egg problem” (which came first?) because the first machine to make a
+protein could not have been a protein, he wrote “it is tempting to wonder
+if the first ribosome was made entirely of RNA” (Crick, 1968). Noller and
+coworkers attempted to establish that indeed the ribosomal RNA is respon-
+sible for its catalytic activity by using proteases to digest the r-proteins (Noller
+et al., 1992). However, many peptides in the 10K molecular weight range, as
+well as intact L2 and L3, remained. Consequently, this experiment did not
+confirm the hypothesis that the catalysis is done by the RNA component of
+the ribosome.
+When we examined the positions of all of the proteins that have portions
+
+
+
+
+Figure 5. Four proteins whose non-globular extensions into the ribosome interior come
+the closest to the PTC shown as a red ball, with distances to the PTC given in angstroms
+(Nissen et al., 2000).
+
+
+186
+
+
+that approach the heart of the PTC, we observed (Fig. 5) in 2000 that the
+closest protein component lies 18 Å from the PTC (Nissen et al., 2000). Even
+taking into account that a loop of protein L10e is disordered in this crystal
+and located in the neighborhood of the PTC, it cannot even hypothetically
+be extended into the PTC. Therefore, we were led to conclude in 2000 that
+“The ribosome is a ribozyme”. This was the first experimental verification of
+the hypothesis that had been advocated by many in previous years.
+
+
+The mechanism of peptide bond formation
+As with any enzyme the important question is how catalysis is achieved,
+and in the case of the ribosome it is of particular interest how RNA can be
+effective in this process. Of course, as it the case with all enzymes, a major
+component, if not by far the largest contributor, is the enzyme’s capacity to
+correctly orient the substrates in order that chemistry can occur (Page and
+Jencks, 1971). This has been shown to be an important component also
+in ribosome catalysis (e.g., Sievers et al., 2004) . But what other specific chem-
+ical mechanisms are utilized?
+   To address this question, many structures of the Hma large ribosomal
+subunit complexed with substrate, intermediate and product analogues
+were determined by Jeff Hansen (Nissen et al., 2000; Hansen et al., 2002)
+initially and then subsequently by Martin Schmeing (Schmeing et al., 2005a;
+Schmeing et al., 2005b). The reaction that is catalyzed is the attack of the
+alpha-amino group of the aminoacyl-tRNA bound in the A site on the
+carbonyl carbon of the peptidyl-tRNA bound in the P site. This leads to
+the formation of a tetrahedral carbon that contains an oxyanion; this inter-
+mediate then breaks down to form the product peptidyl-tRNA now in the A
+site and a deacylated P-site tRNA. Since it was not possible to bind full length
+tRNA substrates to existing crystals of the 50S subunit, we made complexes
+with fragments of the 3’ end of tRNA containing either A, CA or CCA linked
+to either the amino acid, peptide or analogue of the tetrahedral intermediate.
+Biochemists had for many years used these kinds of substrate analogues to
+carry out what is called a “fragment assay” to study the reaction.
+
+
+
+
+                                                                              187
+
+
+Figure 6. A model of the A-site and P-site substrates bound to the PTC constructed from
+the structures of the CCA phe cap bio bound to the P site (with sparsomycin, not shown)
+and C-puromycin bound to the A site, as well as models of the tRNA acceptor stems. The
+CCA of the P- site substrate makes two base pairs with G2285 and G2284 of the P loop, and
+C-puromycin makes one base pair with the A loop. The models of the acceptor stems of the
+A-site and P-site tRNAs are taken from the Yusopov et al. (2001) model of the 70S ribosome
+with tRNAs bound to the A and P sites. The acceptor stems of the two tRNAs are related by
+a translation, while the 2 CCAs are related by a 180o rotation.
+
+
+Initially, we determined the structures of substrate complexes with either
+CC-puromycin bound in the A site or CCA-phe-caproic acid-biotin bound in
+the P site, which was stabilized in the P site by the simultaneous binding of
+sparsomycin (Hansen et al., 2002). To construct a model of the structure of a
+complex with aminoacyl-tRNA bound to the A site and peptidyl-tRNA bound
+to the P site, the structures of the complexes with the two substrate analogues
+were built onto the same model of the large subunit. The A- and P-site tRNAs
+from the Noller et al. model of the 70S complex with tRNAs (Yusupov et al.,
+2001) were also superimposed and joined to the fragment structures (Fig. 6).
+As had been noted earlier (Nissen et al., 2000), the two tRNA molecules from
+residue 1 to residue 73 were related by a translation, while their CCA ends
+were related to each other by a 180o rotation. In the A site, C75 is Watson-
+Crick base paired to G2588 of the ribosomal A-loop, while in the P site both
+C74 and C75 make Watson-Crick base pairs to G2285 and G2284 of the P
+loop. It was suggested (Hansen et al., 2002) that the additional base pair
+between the CCA and the P loop in the P site as well as base stacking would
+increase the affinity of the CCA for the P site compared with the A site and
+
+188
+
+
+thereby might facilitate the movement of the CCA and of the peptide linked
+A-site tRNA to the P site once the deacylated P-site tRNA had moved to the
+E site. These changes in the positions of the CCA ends of the tRNA may be
+responsible for formation of the hybrid state.
+  Martin Schmeing then determined the structures of many complexes
+of the large subunit with substrate analogues of A- and P-site substrates
+bound simultaneously to the PTC. Together, these suggested the mecha-
+nism of peptide bond formation and showed that the premature hydrolysis
+of the peptidyl-tRNA in the absence of an A-site substrate is suppressed by
+an induced fit mechanism (Schmeing et al., 2005b). To prepare a stable
+pre-reaction state complex, the A site substrate used was CC-
+hydroxypuromycin in which the alpha-amino group is replaced by a less re-
+active hydroxyl group. In the absence of an A-site substrate, the ester linked
+carbonyl carbon of peptide linked to the P-site tRNA is protected from a
+nucleophilic attack by water on both sides by rRNA bases. Addition of the
+CC-hydroxypuromycin, however, causes a series of conformational changes
+in the rRNA that lead to the repositioning of the protective base and the
+reorientation of the carbonyl group positioning it for attack by the alpha-
+amino group. The structures of these complexes confirm that only the N3
+of A2486 (2451 in E. coli) and the 2’ OH of A 76 of the P-site tRNA contact
+the attacking alpha-amino group of aminoacyl-tRNA and could be possible
+candidates for functioning as a general base to activate the nucleophilic at-
+tack of the alpha-amino group (Fig. 7). Rachel Green and coworkers showed
+most conclusively that mutation of A2486 (2451) to any of the three other
+bases had no effect on the rate of peptide bond formation when full length
+substrates are used, thereby establishing that A2486 (2451) is not involved in
+catalyzing peptide bond formation (Youngman et al., 2004).
+
+
+
+
+                                                                          189
+
+
+Figure 7. The orientations of two fragment substrates bound to the PTC. The 2’OH of A76
+of the P-site substrate in green is the H-bonded to the analogue of the alpha-amino group
+of the aminoacyl CCA in red. Only the 2’OH of A76 and the N3 of A2486 (2451) interact
+with the attacking alpha-amino group (Schmeing et al., 2005b).
+
+
+
+
+In contrast, removal of the 2’OH of A76 of the P-site tRNA greatly re-
+duces the rate of the peptidyl transferase reaction. Barta et al. found using
+fragment substrates that remove the 2’ OH of A76 of the P-site substrate
+reduced the rate of peptide bond formation by several hundred-fold (Dorner
+et al., 2004). Based on this observation and on structures of the Hma 50S
+subunit complexed with either a P-site substrate analogue or an A-site ana-
+logue, Barta proposed that the mechanism of peptide bond formation could
+be facilitated by a proton shuttle mechanism in which the 2’ OH of A76 acts
+as a general base to receive a proton from the alpha-amino group of the
+aminoacyl-tRNA to facilitate its nucleophilic attack while simultaneously
+acting as a general acid to provide a proton to the leaving 3’ OH of the
+P-site A76 upon its deacylation. Strobel and colleagues demonstrated that
+if full tRNA substrates are used in these studies, then a 2’ deoxy-A76 in the
+peptidyl-tRNA resulted in a rate reduction in peptide bond formation of
+greater than 106 fold (Weinger et al., 2004). Thus, the 2’ OH of the P-site
+tRNA A76 is critical to peptide bond formation.
+
+
+
+
+190
+
+
+To explore whether the rate of peptide bond formation is also enhanced
+by stabilization of the tetrahedral transition state intermediate, Schmeing
+obtained a 2.3 Å resolution structure of a complex between the Hma 50S
+subunit and an analogue of the transition state that was synthesized by Kevin
+Huang in Scott Strobel’s laboratory (Schmeing et al., 2005a,b). This analogue
+had a phosphate mimic of the tetrahedral carbon with an amino acid side
+chain mimic in place of one of the phosphate oxygens and a sulfur mimic of
+the oxyanion replacing the second oxygen. Hydrogen bonded to the phos-
+phate oxygen mimic of the oxyanion is a water molecule that is positioned
+by two rRNA bases (Fig. 8). This water molecule could indeed be assisting in
+catalysis by partially compensating for the negative charge on the oxyanion.
+
+
+
+
+Figure 8. Difference electron density in an Fo-Fc map shows a presumed water molecule
+H-bonded to the oxyanion mimic of the transition state analogue, as well as to the N6 of
+A2637 (2502) and to the 2’OH of mU2619 (2585) (Schmeing et al., 2005a).
+
+
+Consequently, there appear to be at least three contributors to the ribosome’s
+ability to enhance the rate of peptide bond formation. First, it correctly
+orients the two substrates. Second, it provides substrate assisted catalysis by the
+2’ OH of A76 of the P-site tRNA that functions as a proton shuttle acting as
+both a general base and a general acid. Finally, a bound water molecule inter-
+acting with the oxyanion may be functioning to stabilize the transition state.
+
+                                                                                   191
+
+
+Antibiotic inhibition of the 50S ribosomal subunit
+About 50% of pharmaceutically useful antibiotics target the ribosome and
+the majority of these bind to the large ribosomal subunit. Our determination
+of the structure of the Hma large ribosomal subunit has enabled us to obtain
+the structures of its complexes with many families of antibiotics that bind
+in or near to the PTC, as well as those that bind in the E site (Hansen et al.,
+2002; Hansen et al., 2003; Ippolito et al., 2008). Since H. marismortui is an
+archaeon, the antibiotic binding sites of its ribosomes are more similar
+to those of eukaryotic ribosomes than those of eubacterial ribosomes.
+Fortunately, at millimolar concentrations many antibiotics that target
+eubacteria will bind to the Hma large subunit, and our crystal structures of
+their complexes have enabled the structure-based design of more deriva-
+tive compounds that are proving effective against resistant bacterial strains.
+Furthermore, complexes with Hma subunits that have been mutated to
+contain a eubacterial base bind these antibiotics at pharmacologically
+relevant concentrations and bind at a position that is displaced by less than an
+angstrom from that observed for the wild type Hma subunit. Consequently,
+these observations plus the high resolution of the structural studies that is
+possible with the Hma crystals have made the Hma large subunit structure
+a very effective tool in providing structural insights for the design of new
+antibiotics.
+   The macrolide family contains many members that have been pharmaceu-
+tically important over many years, e.g., erythromycin. The macrolides consist
+of 14- to 16-membered lactone rings to which various sugar substituents are
+attached. We were able to establish the structures of complexes with several
+16 member macrolides and one 15-member macrolide bound to wild-type
+50S subunit (Hansen et al., 2002). The macrolides bind just below the PTC in
+the polypeptide exit tunnel with the hydrophobic side of the macrolide ring
+stacking on two splayed-out bases that form a hydrophobic pocket. Although
+the oligosaccaride substitution on some macrolides, e.g., carbomycin A,
+overlap the substrate binding sites, most do not. They appear to be function-
+ing by blocking the polypeptide exit tunnel thereby preventing the extension
+of the elongating polypeptide (Fig. 9). I refer to this process as “molecular
+constipation”. Most of the macrolides interact only with the 23S rRNA and
+the positions of their macrolide rings superimpose on each other very well.
+Although there are almost no conformational changes induced in the RNA
+upon macrolide binding, the 16-member macrolides cause a rotation of the
+base A 2103 (2100) and form a covalent bond with it.
+
+
+
+
+192
+
+
+Figure 9. (A) The structure of the macrolide carbomycin (red) bound to the 50S subunit,
+which is split in half with the 23S rRNA shown in white and the penetrating protein loops
+in blue (Hansen et al., 2002). The tRNA molecules are derived from combining the tRNA
+fragment structures complexed with the 50S subunit and the model of the tRNAs bound
+to the large subunit (Yusupov et al., 2001). (B) A view up the tunnel towards the PTC; the
+bases whose mutation render the ribosome resistant to inhibition by macrolides are shown
+in green. (C) The same view as in (B) with the macrolide shown in red in a position that
+blocks the polypeptide exit.
+
+
+
+Aligning the structure of the Hma subunit complexed with azithromycin with
+that of the D. radiodurans subunit bound to erythromycin (Schleunzen et al.,
+2001) by superimposing their homologous rRNAs shows that the macrolide
+rings were positioned orthogonally in the two models which seemed surpris-
+ing for two compounds that are chemically so similar (Hansen et al., 2002).
+Two possible explanations were posited for this difference initially. One pos-
+sible cause might be the species differences; the second might be that the
+erythromycin was mis-positioned in the lower resolution map (3.5 Å) of the
+Dra complex. Subsequent studies have established that the latter explanation
+is correct (Tu et al., 2005).
+
+
+
+
+                                                                                     193
+
+
+Figure 10. A difference electron density map between the wild-type 50S subunit containing
+G2099 soaked in 3 mM erythromycin and the apo 50S subunit (left) is compared to a
+difference map between a G2099A mutant 50S subunit soaked in 0.003 mM erythromycin
+and the apo-50S subunit (right) (Tu et al., 2005).
+
+
+Since the major difference between the eubacterial and archaeal binding
+sites for macrolides is residue A2058 in eubacteria, which is G2099 in archaea
+and eucaryotes, mutation of A2058 to G in eubacteria reduces the affinity of
+the ribosomes for erythromycin by about 104 fold. Therefore, to better mimic
+the eubacterial ribosome, G2099 in the Hma 23S rRNA was mutated to an
+A (Tu et al., 2005). While erythromycin does not bind to the Hma wild-type
+subunit at 1 mM concentration, it saturates the site of the mutant subunit at
+0.001 mM concentration (Fig. 10). Indeed, all antibiotics belonging to the
+MLSBK category that do not bind to the wild-type Hma subunit or to a eubac-
+terial 50S subunit having an A2058G mutation bind to the G2099A-mutated
+Hma 50S subunit. Azithromycin likewise binds at a lower, more physiologi-
+cally relevant concentration. Its orientation is the same as that observed in
+the complex with the wild-type 50S subunit, but it is positioned about 1 Å
+closer to the A2099 (2058) residue due to the lack of steric interference of
+the N2 of a G residue in that position. Very recently, we have determined
+the structure at 3.1 Å resolution of erythromycin bound to a 70S Thermus
+thermophilus ribosome and find that it binds identically as erythromycin binds
+to the mutated Hma 50S subunit (Bulkley, Innis, Blaha, Steitz, unpublished).
+This further confirms the earlier conclusion that the erythromycin was mis-
+oriented in the initial model of the Dra 50S subunit complex (Schluenzen et
+al., 20001), due presumably to the lower resolution of the electron density
+map into which the erythromycin was fit.
+
+194
+
+
+Figure 11. Seven different antibiotics are shown binding to adjacent but distinct binding
+sites in the PTC. The A site substrate is in red; the P site substrate with an extended peptide
+model is in orange.
+
+The structures of numerous other complexes between the Hma 50S
+subunit and different families of antibiotics that bind to the PTC have been
+determined (Tu et al., 2005; Hansen et al., 2003). Many bind to nearby, but dis-
+tinct binding sites (Fig. 11) and most inhibit protein synthesis by interfering
+with the binding of either the P-site or the A-site tRNA. The adjacent
+locations of these different antibiotic binding sites has provided the oppor-
+tunity to create novel inhibitors by chemically tying a piece of one antibiotic
+to a piece of an adjacently-bound one to create hybrid molecules that bind
+more tightly and provide the starting point for the creation of new antibiotics
+using computation and structure based design.
+
+                                                                                          195
+
+
+Development of new antibiotics by Rib-X Pharmaceuticals,
+Inc.
+At a tRNA meeting held in Cambridge, England, in April of 2000, I had a
+fish and chips lunch with John Abelson at the Eagle Pub, where Francis Crick
+is reported to have first announced his and Jim Watson’s discovery of the
+structure of double-stranded DNA and its significance for replication. John
+was a co-founder of Agouron Pharmaceuticals, which in the 1990s used a
+structure-based drug design approach to create one of the first HIV protease
+inhibitors; it became an approved pharmaceutical and has been used to
+successfully treat AIDS as part of combination drug therapy. I asked John if
+he thought we should start a biotech company to use our structural informa-
+tion on antibiotic complexes with the 50S subunit to design new antibiotic
+pharmaceuticals effective against resistant bacterial strains, and if so, would
+he be willing to participate in the founding of such a company? John very
+excitedly and enthusiastically said yes to both questions. We toasted the
+future and finished our meal while discussing strategies to explore.
+   In the following months we began to develop a plan. I asked Peter Moore
+to join in, which he did, and we decided that we should ask Bill Jorgensen
+to join the team because of his skills and accomplishments in computational
+methods of drug design. Susan Froshauer agreed to take on the role of CEO,
+which she has successfully done to the present time. After raising Angel fund-
+ing mostly from friends, the company began in the summer of 2001 to use
+our structures of complexes between the Hma 50S subunit and antibiotics
+along with Bill Jorgensen’s computational methods to carry out
+structure- and computation-based drug design. The company was named
+Rib-X Pharmaceuticals, to reflect the ribosome target and the use of X-ray
+crystallography to obtain structures. After eight years, their first drug
+candidate, radezolid, has successfully completed Phase II clinical trials for
+use against skin and soft tissue infections and to treat mild-to-moderate
+community-acquired pneumonia. Other disease applications of radezolid are
+in Phase II trials and a pipeline of additional compounds is nearing comple-
+tion of preclinical trials.
+
+
+
+
+196
+
+
+                                                            O
+                                                                    H
+                                                                    N
+                                                        HN                  O
+
+                                                                                                                                O
+                                                                                    H
+                                                                                    N
+                                                                                             bridge                                     O
+                                                                            O                                                   N
+                                                                                            element
+                                                                H
+                                                                N                                               F
+                                                                                                                                        HN      O
+                                                        O                               O
+                                                                N                           H
+                                                                H
+                                                                        O               N                               O
+                                                                                        H
+                    Bridge 1                                                                                                    O
+                                                                                                    N                   N
+
+                                                                                                        F
+                                                                                            T1A                                 HN          O
+
+
+
+                               O
+                                        H
+                                        N
+                                                                                                            N
+                               HN               O
+
+                                                                                                                                    H
+                                                        H                                                                           N
+                                                        N
+                                                                                                                            O                             O
+                    Bridge 2                    O                                           O
+                                                                                                                                                              O
+                                                                                                    O                                                     N
+                                                                                            N                                           T2B
+                                                                T2A
+                                                                                                                                                      F
+                                                                                F                                                                             HN       O
+                                                                                                    HN          O
+
+
+
+                                    O
+                                            H
+                                            N
+                                                                                                                            N
+                                HN                  O
+
+                                                                                                                                                                   O
+                                                                                                O                                               H
+                                                            H                                                                                   N
+                    Bridge 3                                N
+                                                                                                        O                                   O                      N
+                                                                                                                                                                           O
+                                                    O                                           N
+
+                                                                                                                                                T3B       F
+                                                                                    F                                                                                      HN   O
+                                                                T3A                                     HN          O
+
+
+
+
+Figure 12. The creation of new hybrid antibiotic compounds by combining (A) sparsomycin
+on the left (green) with linezolid on the right (orange). The ribosomal RNA to which they
+bind is shown in a surface representation (grey). (B) These compounds can be chemically
+linked using various bridge elements to create hybrid compounds.
+
+
+The design procedures used by Rib-X to ultimately obtain radezolid nicely
+exemplify how the structures of antibiotic complexes with the 50S subunit
+and computational methods can be effectively combined with pharmaceuti-
+cal chemistry and microbiology to create new antibiotics that are effective
+against antibiotic resistant bacterial strains (Franceschi and Duffy, 2006;
+Skripkin et al., 2008). Linezolid, an antibiotic sold by Pfizer, binds to the
+PTC (Ippolito et al., 2008) adjacent to the binding site of the antibiotic spar-
+somycin (Hansen et al., 2003), which is not selective between eubacteria and
+eucaryotes (Fig. 12a). In this example, portions of the two antibiotics are
+chemically linked together to create five new compounds whose intrinsic af-
+finity, kingdom selectivity and minimum inhibitory concentrations (MIC) are
+measured (Fig. 12b; Table 1). Two of the five were selective for eubacteria,
+showing that replacement of the key sparsomycin affinity element could alter
+
+                                                                                                                                                                                    197
+
+
+the selectivity without completely losing ribosomal binding. Furthermore,
+the pair on the right (T3A and T3B) featuring the biaryl template showed
+not only substantially improved intrinsic affinity, but also dramatic improve-
+ment in antibacterial activity against representative community and nosoco-
+mial drug-resistant strains. With this proof-of-concept established, completely
+new molecules were designed. These took advantage of the ribosomal space
+defined by the chimeras, and they were optimized within these boundar-
+ies using computational methods to balance the molecular features so that
+Gram-positive and Gram-negative membranes could be penetrated, solubility
+and permeability could be maximized for oral bioavailability, and liabilities
+that might relate to toxicity were avoided. After synthesis of fewer than 700
+compounds within less than one year’s time, two drug candidates emerged:
+these featured greater than 103 lower inhibitory concentration for eubac-
+teria than eucaryotes, very low MICs (0.25 and 2) against drug-resistant S.
+pneumoniae and H. influenzae, and oral efficacy in a variety of rodent models
+of infection. The final selected compound, radezolid, was found to be signifi-
+cantly more effective against many antibiotic resistant strains than the parent
+linezolid compound.
+                    Linezolid Sparsomycin        RX-     RX-      RX-     RX-     RX-
+                      (Lin)      (Spa)           154     190      209     212     213
+
+              Intrinsic Affinity (Cell-Free Translation Inhibition)
+E. coli D10 IC50
+                        4.6         <0.02       0.26     0.03     16      0.03    0.58
+(µM)
+Bacterial
+                         Y            N           N       N        Y       N        Y
+Selectivity
+                     Antibacterial Activity (MICs in µg/mL)
+S. pneumoniae
+O2J1175                  2            2           4        1       8     <0.25     0.5
+(MacR, efflux)
+S. pyogenes
+Msr610 (MacR,
+                         1            2           4        1       4     <0.25     0.5
+rRNA methyla-
+tion)
+E. faecalis
+P5 (LinR,              >32          >128        >128      32     >128      16      16
+G2576U)
+Table 1. The minimum inhibitory concentrations (MICs) against three bacterial strains ex-
+hibited by five compounds created by chemically combining sparsomycin with linezolid.
+
+
+An analogous approach has led to the creation of a family of enhanced mac-
+rolides. This family features representatives of the 14-, 15- and 16-membered
+macrolide families that have been augmented in novel ways to access adja-
+cent, validated binding sites in the Hma 50S ribosome. By so doing, they not
+
+198
+
+
+only restore activity against bacterial strains that are macrolide-resistant (e.g.,
+the streptococci and the staphylococci, including community- and hospital-
+acquired MRSA), but also extend the spectrum to be effective against other
+drug-resistant Gram-positive bacteria such as the vancomycin-resistant en-
+terococci. These compounds are in the late-stages of preclinical testing.
+   Building on the knowledge that was derived from those programs, the
+Rib-X team undertook the de novo design of completely new antibiotics that
+target the 50S ribosomal subunit. Not only do they represent new classes for
+this important target, but also they have been optimized computationally
+to show potency against strains of multidrug-resistant Gram-negative organ-
+isms like Escherichia coli, Psuedomonas aeruginosa and Acinetobacter baumannii.
+Additionally, because these compounds represent new chemical classes, they
+should not be affected by known resistance mechanisms seen clinically for
+other antibiotics. Thus, it appears that the structure of the Hma large ribo-
+somal subunit and those of its complexes with antibiotics are enabling the
+development of a pipeline of new potential antibiotics.
+
+
+New antibiotics against tuberculosis?
+Tuberculosis (TB) continues to be a major disease that causes over a million
+deaths a year, primarily in the poorest regions of the world. Also troubling is
+the recent emergence of strains, called XDR, that are resistant to all anti-TB
+antibiotics regardless of their specific molecular target. The possible spread
+of the XDR strains poses a potential medical problem for the rest of the
+world as well.
+
+Viomycin binds between subunits, interacting with B2A bridge &tRNA
+
+
+
+
+Figure 13. The binding site for viomycin at the decoding center interacting with RNA from
+both subunits (Stanley et al., 2010). Shown on the left is a surface rendition of the 70S
+ribosome with the 50S subunit in blue, the 30S subunit in tan, the A-site tRNA in yellow
+and viomycin in red. A close-up view of viomycin bound to the large subunit helix 69 and
+small subunit helix 44 at the decoding center; stabilizing bases 1492 and 1493 are in their
+“flipped out” conformation, making A minor interactions with the codon of the mRNA
+(green) base-paired with the anticodon of the tRNA (yellow).
+
+
+                                                                                      199
+
+
+We have recently (Stanley et al., 2010) determined the structures of the 70S
+Thermus thermophilus ribosome complexed with tRNA molecules bound to the
+A, P and E sites as well as capreomycin and viomycin, two tuberactinomycin
+cyclic peptide antibiotics effective against TB. They were known to bind only
+to the 70S ribosome and we observe them between the two subunits near
+the decoding center, interacting with tRNA and the beta 2A intersubunit
+bridge, which is formed by the contact between large subunit helix 69 and
+small subunit helix 44. The drugs interact with bases A1492 and A1493,
+stabilizing them in the “flipped out” orientation that they assume when
+assisting in mRNA decoding. It appears that the drugs stabilize the tRNA in the
+pre-translocation state (Fig. 13).
+   Importantly, the capreomycin/viomycin binding site lies adjacent to the
+binding sites for two antibiotics that bind the small subunit, paromomycin
+(Voorhees et al., 2009) and hygromycin B (Borovinsaya et al., 2008) (Fig. 14).
+This provides the opportunity to apply the same approach that Rib-X has
+been successfully employing to develop new anti-TB antibiotics by chemically
+tying a portion of either hygromycin B or paromomycin to capreomycin.
+Since the XDR strain may be the consequence of a mutation in an ionpump
+a new, larger compound might prove effective.
+
+
+
+
+Viomycin, hygromycin & paromomycin bind to adjacent sites
+
+
+
+
+Figure 14. The adjacent binding sites of viomycin (purple), hygromycin B (green) and
+paromomycin (yellow) at the decoding center open the possibility of combinational drug
+design of new anti-TB antibiotics (Stanley et al., 2010).
+
+
+200
+
+
+CONCLUSION
+We began our structural studies of the ribosomal large subunit in order to
+learn how this largest of RNA machines is built and how it is able to catalyze
+peptide bond formation. These basic science questions and answers have
+led to a practical and applied outcome that uses the power of structural and
+computational methods to design new potential antibiotics that are effective
+against antibiotic resistant bacterial strains. Our work reinforces my view of
+the importance of research funding agencies continuing to emphasize their
+support of basic research rather than divert their efforts to “translational”
+research, which I believe has a more limited horizon for novel discoveries.
+
+
+Acknowledgments
+I acknowledge the important contributions to the structural studies of the
+ribosome of all of the members of my research group as well as Peter Moore’s
+group, during the past 15 years in addition to the four who are specifically
+mentioned in the text. I also wish to acknowledge the unique and enabling
+research environment created by the seven Center for Structural Biology
+(CSB) laboratories at Yale between 1995 to 2000 (Richards, Engelman,
+Moore, my lab, Sigler, Brünger and Doudna). Importantly, the long term
+and major support of my lab research and of the CSB by the Howard Hughes
+Medical Institute has been vital to the success of our studies of the ribosome.
+Support was also provided by a program project grant from the NIH. Finally,
+Erin Duffy assisted in the writing of the summary of drug development by
+Rib-X Pharmaceuticals, Inc.
+
+
+
+
+                                                                           201
+
+
+REFERENCES
+ 1.   Ban, N., Freeborn, B., Nissen, P., Penczek, P., Grassucci, R. A., Sweet, R., Frank, J.,
+      Moore, P. B. and Steitz, T. A. (1998), “A 9 Å resolution X-ray crystallographic map of
+      the large ribosomal subunit,” Cell 93, 1105–1115.
+ 2.   Ban, N., Nissen, P., Hansen, J., Capel, M., Moore, P.B. and Steitz, T.A. (1999),
+      “Placement of protein and RNA structures into a 5 Å resolution map of the 50S
+      ribosomal subunit,” Nature 400, 841–847.
+ 3.   Ban, N., Nissen, P., Hansen, J., Moore, P. B. and Steitz, T. A. (2000), “The complete
+      atomic structure of the large ribosomal subunit at 2.4 Å resolution,” Science 289,
+      905–920.
+ 4.   Borovinsaya, M.S., Shoji, S., Fredrick, K., and Cate, J.H. (2008), “Structural basis of a
+      hygromycin B inhibition of protein biosynthesis,” RNA 14, 1590–1599.
+ 5.   Carter, A. P., Clemons, W. M., Brodersen, D. E., Morgan-Warren, R. J., Wimberly, B.
+      T. and Ramakrishnan, V. (2000), “Functional insights from the structure of the 30S
+      ribosomal subunit and its interactions with antibiotics,” Nature 407, 340–348.
+ 6.   Cate, J. H., Yusupov, M. M., Yusupova, G. Z., Earnest, T. N. and Noller, H. F. (1999),
+      “X-ray crystal structures of 70S ribosome functional complexes,” Science 285,
+      2095–2104.
+ 7.   Clemons, W.M., May, J.L.C., Wimberly, B.T., McCutcheon, J.P., Capel, M.S.,
+      Ramakrishnan, V. (1999), “Structure of a bacterial 30S ribosomal subunit at 5.5 Å
+      resolution,” Nature 400: 833–840.
+ 8.   Crick, F. H. C. (1968), “The origin of the genetic code,” J. Mol. Biol. 38, 367–379.
+ 9.   Dorner, S., Panuschka, F., Schmid, W. and Barta, A. (2003), “Mononucleotide
+      derivatives as ribosomal P-site substrates reveal an important contribution of the 2’-
+      OH activity,” Nucl. Acids Res. 31, 6536–6542.
+10.   Franceschi, F., Duffy, E.M. (2006), “Structure-based drug design meets the ribosome,”
+      Biochemical Pharmacology 71, 1016–1025.
+11.   Frank, J., Zhu, J., Penczek, P., Li, Y., Srivastava, S., Verschoer, A., Radermacher, M.,
+      Grassucci, R., Lata, R.K., Agrawal, R.K. (1995), “A model of protein synthesis based
+      on cryo-electron microscopy of the E. coli ribosome,” Nature 376, 441–444.
+12.   Hansen, J.L., Schmeing, T.M., Moore, P.B. and Steitz, T.A. (2002), “Structural insights
+      into peptide bond formation,” Proc. Natl. Acad. Sci. USA 99, 11670–11675.
+13.   Hansen, J.L., Moore, P.B. and Steitz, T.A. (2003), “Structure of five antibiotics bound
+      at the peptidyl transferase center of the large ribosomal subunit,” J. Mol. Biol. 330,
+      1061–1075.
+14.   Harms, J., Tocilj, A., Levin, I., Agmon, I., Stark, H., Kölln, I., van Heel, M., Cuff, M.,
+      Schlünzen, F., Bashan, A., Franceschi, F. and Yonath, A. (1999), “Elucidating the
+      medium-resolution structure of ribosomal particles: an interplay between electron
+      cryo-microscopy and X-ray crystallography,” Structure 7, 931–941.
+15.   Ippolito, J.A., Kanyo, Z.F., Wang, D., Franeschi, F.J., Moore, P.B., Steitz, T.A., and
+      Duffy, E.M. (2008), “Crystal structure of the oxazolidinone antibiotic linezolid bound
+      to the 50S ribosomal subunit,” J. Med. Chem. 51, 3353–3356.
+16.   Klein, D.J., Schmeing, T.M., Moore, P.B. and Steitz, T.A. (2001), “The kink-turn: a
+      new RNA secondary structure motif,” The EMBO J. 4214–4221.
+17.   Lake, J.A. (1976), “Ribosome structure determined by electron microscopy of
+      Escherichia coli small subunits, large subunits and monomeric ribosomes,” J. Mol. Biol.
+      105, 131–159.
+18.   Nissen, P., Ban, N., Hansen, J., Moore, P. B. and Steitz, T. A. (2000), “The structural
+      basis of ribosome activity in peptide bond synthesis,” Science 289, 920–930.
+19.   Nissen, P., Ippolito, J. A., Ban, N., Moore, P. B. and Steitz, T. A. (2001), “RNA tertiary
+      interactions in the large ribosomal subunit: the A-minor motif,” Proc. Natl. Acad. Sci.
+      USA 98, 4899–4903.
+20.   Noller, H.F., Hoffarth, V. and Zimniak, L. (1992), “Unusual resistance of peptidyl
+      transferase to protein extraction procedures,” Science 256, 1416–1419.
+
+
+202
+
+
+21.   Ogle, J. M., Brodersen, D. E., Clemons, W. M., Tarry, M. J., Carter, A. P. and
+      Ramakrishnan, V. (2001), “Recognition of cognate transfer RNA by the 30S ribos-
+      omal subunit,” Science 292, 897–902.
+22.   Page, M.I. and Jencks, W.P. (1971), “Entropic contributions to rate acceleration in
+      enzymatic and intramolecular reactions and the chelate effect,” Proc. Natl. Acad. Sci.
+      USA 68, 1678–1683.
+23.   Schlünzen, F., Hansen, H.A.S., Thygesen, J., Bennett, W.S., Volkmann, N., Levin, I.,
+      Harms, J., Bartels, H., Zaytzev-Bashan, A., Berkovitch-Yellin, Z., Sai, I., Franceschi, F.,
+      Krumbholz, S., Geva, M., Weinstein, S., Agmon, I., Böddeker, N., Morlang, S., Sharon,
+      R., Dribin, A., Maltz, E., Peretz, M., Weinrich, V. and Yonath, A. (1995), “A milestone
+      in ribosomal crystallography: the construction of preliminary electron density maps
+      at intermediate resolution,” Biochem. Cell Biol. 73, 739–749.
+24.   Schluenzen, F., Tocilj, A., Zarivach, R., Harms, J., Gluehmann, M., Janell, D., Bashan,
+      A., Bartles, H., Agmon, I., Franceschi, F. et al. (2000), “Structure of functionally acti-
+      vated small ribosomal subunit at 3.3 Å resolution,” Cell 102, 615–623.
+25.   Schleunzen, F., Zarivach, R., Harms, J., Bashan, A., Tocilj, A., Albrecht, R., Yonath, A.
+      and Franceschi, F. (2001), “Structural basis for the interaction of antibiotics with the
+      peptidyl transferase centre in eubacteria,” Nature 413, 814–821.
+26.   Schmeing, T.M., Kitchen, D., Scaringe, S.A., Strobel, S.A. and Steitz, T.A. (2005a),
+      “Structural insights into the roles of water and the 2’ hydroxyl of the P-site tRNA in
+      the peptidyl transferase reaction,” Molec. Cell 20, 437–448.
+27.   Schmeing, T.M., Huang, K.S., Strobel, S.A., and Steitz, T.A. (2005b), “An induced-fit
+      mechanism to promote peptide bond formation and exclude hydrolysis of peptidyl
+      tRNA,” Nature 438, 520–524.
+28.   Shevack, A., Gewitz, H.S., Hennemann, B., Yonath, A. and Wittmann, H.G. (1985),
+      “Characterization and crystallization of ribosomal particles from Halobacterium maris-
+      mortui,” FEBS 184, 68–71.
+29.   Sievers, A., Beringer, M., Rodnina, M.V., Wolfenden, R. (2004), “The ribosome as an
+      entropy trap,” Proc. Natl. Acad. Sci. USA 101, 7897–7901.
+30.   Skripkin, E., McConnell, T.S., Devito, J., Lawrence, L., Ippolito, J.A., Duffy, E.M.,
+      Sutcliffe, J., Franceschi, F. (2008), “Rχ-01, a new family of oxazolidinones that
+      overfcome ribosome-based linezolid resistance,” Antimicrobial Agents and Chemotherapy
+      52, 3550–3557.
+31.   Stanley, R.E., Blaha, G., Grodzicki, R.L., Strickler, M.D. and Steitz, T.A. (2010), “The
+      structures of the anti-tuberculosis antibiotics viomycin and capreomycin bound to the
+      70S ribosome,” Nature Struct. and Molec Biol. 17, 289−293.
+32.   Tu, D., Blaha, G, Moore, P.B. and Steitz, T.A. (2005), “Structures of MLSbK anti-
+      biotics boundto mutated large ribosomal subunits provide a structural explanation
+      for resistance,” Cell 121, 257–270.
+33.   von Böhlen, K., Makowski, L., Hansen, H.A.S., Bartels, H., Berkovitch-Yellin, Z.,
+      Zaytzev-Bashan, A., Meyer, S., Paulke, C., Franceschi, F., and Yonath, A. (1991),
+      “Characterization of preliminary attempts for derivatization of crystals of large ribos-
+      omal subunits from Haloarcula marismortui, diffraction to 3 Å resolution,” J. Mol. Biol.
+      222, 11–15.
+34.   Voorhees, R.M., Weixlbaumer, A., Loakes, D., Kelley, A.C. and Ramakrishnan,
+      V. (2009), “Insights into substrate stabilization from snapshots of the peptidyl
+      transferase center of the intact 70S ribosome,” Nature Struc. Biol. 16, 528–533.
+35.   Voss, N.R., Gerstein, M., Steitz, T.A., and Moore, P.B. (2006), “The geometry of the
+      ribosomal polypeptide exit tunnel,” J. Mol. Biol. 360, 893–906.
+36.   Watson, J. D. (1963), “Involvement of RNA in the synthesis of proteins,” Science 140,
+      17–26.
+37.   Weinger, J.S., Parnell, K.M., Dorner, S., Green, R. and Strobel, S.A. (2004), “Substrate-
+      assisted catalysis of peptide bond formation by the ribosome,” Nature Struc. Biol. 11,
+      1101–1106.
+
+
+                                                                                            203
+
+
+38.  Wimberly, B. T., Brodersen, D. E., Clemons, W. M., Morgan-Warren, R. J., Carter,
+     A. P., Vonrhein, C., Hartsch, T. and Ramakrishnan, V. (2000), “Structure of the 30S
+     ribosomal subunit,” Nature 407, 327–339.
+39. Youngman, E.M., Brunelle, J.L., Kochaniak, A.B., and Green, R. (2004), “The active
+     site of the ribosome is composed of two layers of conserved nucleotides with distinct
+     roles in peptide bond formation and peptide release,” Cell 117, 589–599.
+40. Yonath, A., Franceschi, F. (1998), “Functional universality and evolutionary diversity:
+     insights from the structure of the ribosome,” Structure 6, 679–684.
+41. Yusupov, M. M., Yusupova, G. Z., Baucom, A., Lieberman, K., Earnest, T. N., Cate, J.
+     H. D. and Noller, H. F. (2001), “Crystal structure of the ribosome at 5.5 Å resolution,”
+     Science 292, 883–896.
+Portrait photo of Professor Steitz by photographer Ulla Montan.
+
+
+
+
+204
+

@@ -1,0 +1,414 @@
+THE FIRST HIGH ENERGY NEUTRINO
+EXPERIMENT
+
+Nobel Lecture, December 8, 1988
+
+by
+MELVIN SCHWARTZ
+Digital Pathways, Inc., 201 Ravendale Avenue, Mountain View, CA 94303,
+USA.
+
+
+
+
+In the first part of my lecture I would like to tell you a bit about the state of
+knowledge in the field of Elementary Particle Physics as the decade of the
+1960’s began with particular emphasis upon the Weak Interactions. In the
+second part I will cover the planning, implementation and analysis of the
+first high energy neutrino experiment. My colleagues, Jack Steinberger and
+Leon Lederman, will discuss the evolution of the field of high energy
+neutrino physics beyond this first experiment and the significance of this
+effort when seen in the context of today’s view of elementary particle
+structure.
+
+I. HISTORICAL REVIEW
+By the year 1960 the interaction of elementary particles had been classified
+into four basic strengths. The weakest of these, the gravitational interaction
+does not play a significant role in the laboratory study of elementary
+particles and will be ignored. The others are:
+
+1. Strong Interactions
+This class covers the interactions among so-called hadrons. Among these
+hadrons are the neutrons and protons that we are all familiar with along
+with the pions and other mesons that serve to tie them together into nuclei.
+Obviously, the interaction that ties two protons into a nucleus must over-
+come the electrostatic repulsion which tends to push them apart. The
+strong interactions are short range, typically acting over a distance of l0 -13
+cm, but at that distance are some two orders of magnitude stronger than
+electromagnetic interactions.
+   In general, as presently understood, hadrons are combinations of the
+most elementary strongly interacting particles, called quarks. You will hear
+more about them later.
+
+
+5468                                    Physics 1988
+
+
+2 . Electromagnetic   Interacticms
+You are all familiar with electromagnetic interactions from your daily
+experience. Like charges repel one another. Opposite charges attract. The
+earth acts like a giant magnet. Indeed matter itself is held together by the
+electromagnetic interactions among electrons and nuclei. With the excep-
+tion of the neutrinos, all elementary particles have electromagnetic interac-
+tions either through charge, or magnetic property, or the ability to directly
+interact with charge or magnetic moment. In 1960, the only known elemen-
+tary particles apart from the hadrons were the three leptons        electron,
+muon and neutrino with some suspicion that there might be two types of
+neutrinos. Both the electron and muon are electromagnetically interacting.
+
+3. Weak Interactions
+Early in the century it was discovered that some nuclei are unstable against
+decay into residual nuclei and electrons or positrons. There were two
+important characteristics of these so-called decays.
+   a. They were “slow”. That is to say, the lifetimes of the decaying nuclei
+corresponded to an interaction which is much weaker than that characteris-
+tic of electromagnetism.
+   b. Energy and momentum were missing.
+   If one examined the spectrum of the electrons which were emitted, then
+it was clear that to preserve energy, momentum and angular momentum in
+the decay it was necessary that there be another decay product present.
+That decay product needed to be of nearly zero mass and have half integral
+spin. This observation was first made by Pauli. Fermi later gave it the name
+of neutrino.
+   The development of the Fermi theory of weak interactions in fact made
+the neutrino’s properties even more specific. The neutrino has a spin of l/2
+and a very low probability of interacting in matter. The predicted cross-
+                                                                          -43
+section for the interaction of a decay neutrino with nucleons is about 10
+   2
+cm . Thus, one of these neutrinos would on the average pass through a light
+year of lead without doing anything.
+   The β-decay reactions can be simply written as:
+                                     Z→ (Z+l)+e-+v
+                                     Z→ (Z-1) + e+ + v
+By the failure to detect neutrino-less double B decay, namely the process
+     (Z+2) +           it was established that the neutrino and anti-neu-
+trino were indeed different particles. In the 1950’s, by means of a series of
+experiments associated with the discovery of parity violation it was also
+established that the neutrinos and anti-neutrinos were produced in a state
+of complete longitudinal polarization or helicity, with the neutrinos being
+left-handed and anti-neutrinos right-handed.
+   In the 1940’s and 1950’s, a number of other weak interactions were
+discovered. The pion, mentioned earlier as the hadron which serves to hold
+the nucleus together, can be produced in a free state. Its mass is about 273
+
+
+                                  M. Schwartz                             469
+
+
+times the electron mass and it decays in about 2.5 X 10 -8 seconds into a
+muon and a particle with neutrino-like properties. The muon in turn
+exhibits all of the properties of a heavy electron with a mass of about 207
+times the electron mass. It decays in about 2.2 X 10-6 seconds into an
+electron and two neutrinos. The presumed reactions, when they were
+discovered, were written as:
+
+
+
+
+It was also known by 1960 that these decays were parity violating and that
+the neutrinos here had the same helicity as the neutrinos emitted in β decay.
+   Needless to say, there was a general acceptance in 1959 that the neutrinos
+associated with β decay were the same particles as those associated with pion
+and muon decay. The only hint that this may not be so came from a paper by
+G. Feinberg in 1958 in which he showed that the decay µ →e + should
+occur with a branching ratio of about 10 - 4, if a charged intermediate boson
+(W) moderated the weak interaction. Inasmuch as the experimental limit
+was much lower (~ 10 -8) this paper was thought of as a proof that there was
+no intermediate boson. Feinberg did point out, however, that a boson
+might still exist if the muon neutrino and the electron neutrino were
+different.
+   One final historical note with respect to neutrinos. In the mid-nineteen
+fifties Cowen and Reines in an extremely difficult pioneering experiment
+were able to make a direct observation of the interaction of neutrinos in
+matter. They used a reactor in which a large number of are produced and
+observed the reaction +           + e+. The cross-section observed was con-
+sistent with that which was required by the theory.
+
+II. CONCEPTION, PLANNING AND
+IMPLEMENTATION OF THE EXPERIMENT
+The first conception of the experiment was in late 1959. The Columbia
+University Physics Department had a tradition of a coffee hour at which the
+latest problems in the world of Physics came under intense discussions. At
+one of these Professor T. D. Lee was leading such a discussion of the
+possibilities for investigating weak interactions at high energies. A number
+of experiments were considered and rejected as not feasible. As the meeting
+broke up there was some sense of frustration as to what could ever be done
+to disentangle the high energy weak interactions from the rest of what takes
+place when energetic particles are allowed to collide with targets. The only
+ray of hope was the expectation that the cross sections characteristic of the
+weak interactions increased as the square of the center of mass energy at
+least until such time as an intermediate boson or other damping mechanism
+took hold.
+   That evening the key notion came to me - perhaps the neutrinos from
+pion decay could be produced in sufficient numbers to allow us to use them
+
+
+470                              Physics 1988
+
+
+in an experiment. A quick “back of the envelope” calculation indicated the
+feasibility of doing this at one or another of the accelerators under con-
+struction or being planned at that time. I called T. D. Lee at home with the
+news and his enthusiasm was overwhelming. The next day planning for the
+experiment began in earnest. Meanwhile Lee and Yang began a study of
+what could be learned from the experiment and what the detailed cross-
+sections were.
+   Not long after this point we became aware that Bruno Pontecorvo had
+also come up with many of the same ideas as we had. He had written up a
+proposed experiment with neutrinos from stopped pions, but he had also
+discussed the possibilities of using energetic pions at a conference in the
+Soviet Union. His overall contribution to the field of neutrino physics was
+certainly major.
+    Leon Lederman, Jack Steinberger, Jean-Marc Gaillard and I spent a great
+deal of time trying to decide on an ideal neutrino detector. Our first choice,
+if it were feasible, would have been a large Freon bubble chamber that Jack
+Steinberger had built. (In the end that would have given about a factor of 10
+fewer events at the Brookhaven A.G.S. than the spark chamber which we
+did use. Hence it was not used in this experiment).
+    Fortunately for us, the spark chamber was invented at just about that
+time. Gaillard, Lederman and I drove down to Princeton to see one at
+Cronin’s laboratory. It was small, but the idea was clearly the right one. The
+three of us decided to build the experiment around a ten ton spark chamber
+design.
+    In the summer of 1960, Lee and Yang again had a major impact on our
+thinking. They pointed out that it was essentially impossible to explain the
+absence of the decay         + without positing two types of neutrinos. Their
+argument as presented in the 1960 Rochester Conference was more or less
+as follows:
+ 1. The simple four-fermion point model which explains low energy weak
+     interactions leads to a cross-section increasing as the square of the
+     center of mass energy.
+ 2. At the same time, a point interaction must of necessity be S-wave and thus
+      the cross-section cannot exceed λ2/4π without violating unitarity. This
+     violation would take place at about 300 GeV.
+ 3. Thus, there must be a mechanism which damps the total cross-section
+     before the energy reaches 300 GeV. This mechanism would imply a
+     “size” to the interaction region which would in turn imply charges and
+     currents which would couple to photons. This coupling would lead to
+     the reaction       + through the diagram.
+
+
+                                                                               471
+
+
+4. The anticipated branding ratio for         + should not differ appreciably
+    from 10-5. The fact that the branching ratio was known to be less than
+    10-8 was then strong evidence for the two-neutrino hypothesis.
+   With these observations in mind the experiment became highly motivated
+toward investigating the question of whether              If there were only one
+type of neutrino then the theory predicted that there should be equal
+numbers of muons and electrons produced. If there were two types of
+neutrinos then the production of electrons and muons should be different.
+Indeed, if one followed the Lee-Yang argument for the absence of               +
+then the muon neutrino should produce no electrons at all.
+   We now come to the design of the experiment. The people involved in the
+effort were Gordon Danby, Jean-Marc Gaillard, Konstantin Goulianos,
+Nariman Mistry along with Leon Lederman, Jack Steinberger and myself.
+The facility used to produce the pions was the newly completed Alternate
+Gradient Synchrotron (A.G.S.) at the Brookhaven National Laboratory.
+Although the maximum energy of the accelerator was 30 GeV, it was necessary
+to run it at 15 GeV in order to minimize the background from
+energetic muons.
+   Pions were produced by means of collisions between the internal proton
+beam and a beryllium target at the end of a 3-meter straight section (see
+Figure 1). The detector was set at an angle of 7.5º to the proton direction
+behind a 13.5-meter steel wall made of the deck-plates of a dismantled
+cruiser. Additional concrete and lead were placed as shown.
+   To minimize the amount of cosmic ray background it was important to
+minimize the fraction of time during which the beam was actually hitting the
+target. Any so-called “events ” which occurred outside of that window could
+then be excluded as not being due to machine induced high energy radi-
+ation.
+  The A.G.S. at 15 GeV operator at a repetition rate of one pulse per I.2 seconds.
+The beam RF structure consisted of 20 ns bursts every 220 ns.
+The beam itself was deflected onto the target over the course of 20-30
+for each cycle of the machine. Thus, the target was actually being bombard-
+ed for only 2 × 10 -6 sec. for each second of real time.
+
+
+472
+
+
+    In order to make effective use of this beam structure it was necessary to
+gate the detector on the bursts of pions which occurred when the target was
+ actually being struck. This was done by means of a 30 ns time window which was
+ triggered through the use of a Cerenkov counter in front of the
+shielding wall. Phasing of the Cerenkov counter relative to the detector was
+accomplished by raising the A.G.S. energy and allowing muons to penetrate
+the shield.
+   Incidentally, this tight timing also served to exclude 90 % of the backgro-
+und induced by slow neutrons.
+   The rate of production of pions and kaons was well known at the time and
+it was quite straightforward to calculate the anticipated neutrino flux. In
+Figure 2 we present an energy spectrum of the neutrino flux for a 15 GeV
+proton beam making use of both pion and kaon decay. It is clear that kaon
+decay is a major contributor for neutrino energies greater than about 1.2 GeV.
+ (These neutrinos come from the reaction               +(
+    Needless to say, the main shielding wall is thick enough to suppress all
+ strongly interacting particles. Indeed, the only hadrons that were expected
+ to emerge from that wall were due to neutrino interactions in the last meter
+ or so. Muons entering the wall with up to 17 GeV would have been stopped by
+ ionization loss. The only serious background was due to neutrons leaking
+ through the concrete floor; these were effectively eliminated in the second
+ half the experiment.
+
+
+
+
+                            FROM PIONS
+
+
+
+
+Figure 2. Energy spectrum of neutrinos as expected for A.G.S. running at 15 GeV.
+
+
+                                        M. Schwartz
+
+
+
+
+Figure 3. Spark chambcr and countcr arrangement. This is the front view with neutrinos
+cntcring on the left. A arc the trigger counters. B, C and D are used in anti-coincidcnce.
+
+
+
+
+Figure 4. A photograph of the chambers and counters
+
+
+474                             Physics 1988
+
+
+  The spark chamber is shown in Figure 3 and 4. It consisted of ten
+modules, each of 9 aluminum plates, 44 in. x 44 in. x 1 in. thick separated
+by 3/8 in. Lucite spacers. Anticoincidence counters covered the front, top
+and rear of the assembly, as shown, to reduce the effect of cosmic rays and
+muons which penetrate the shielding wall. Forty triggering counters were
+inserted between modules and at the end of the assembly. Each triggering
+counter consisted of two sheets of scintillator separated by 3/4 in. of
+aluminum. The scintillators were put in electronic coincidence.
+
+
+                                     M. Schwartz                                 475
+
+
+   Events were selected for further study if they originated within a fiducial
+volume which excluded the first two plates, two inches at top and bottom
+and four inches at front and rear of the assembly. Single track events also
+needed to stay within the fiducial volume if extrapolated back for two gaps.
+Single tracks were not accepted unless their production angle relative to the
+neutrino direction was less than 60º.
+   A total of 113 events were found which satisfied these criteria. Of these,
+49 were very short single tracks. All but three of these appeared in the first
+half of the experiment before the shielding was improved and they were
+considered to be background. In retrospect, some of these were presumably
+neutral current events, but at the time it was impossible to distinguish them
+from neutron induced interactions due to leakage over and under the
+shield.
+   The remaining events included the following categories.
+a) 34 “single muons” of more than 300 MeV/c of visible momentum. Some
+    of these are illustrated in Figure 5. Among them are some with one or
+    two extraneous sparks at the vertex, presumably from nuclear recoils.
+b) 22 “vertex” events. Some of these show substantial energy release. These
+    events are presumably muons accompanied by pions in the collision. (See
+    Figure 6)
+c) 8 “shower” candidates. Of these 6 were selected so that their potential
+    range, had they been muons would correspond to more than the 300 MeV/c.
+    These were the only candidates for single electrons in the experiment.
+    We will consider them in detail shortly.
+   It was quite simple to demonstrate that the 56 events in categories (a) and
+(b) were almost all of neutrino origin.
+   By running the experiment with the accelerator off and triggering on
+cosmic rays it was possible to place a limit of 5 ± 1 on the total number of
+the single muon events which could be due to such background. Indeed, the
+slight asymmetry in Figure 7 is consistent with this hypothesis.
+   It was simple to demonstrate that these events were not neutron induced.
+Referring to Figure 7 we see how they tend to point toward the target
+through the main body of steel shielding. No more than 10 -4 events should
+have arisen from neutrons penetrating the shield (other than from neutrino
+induced events in the last foot of the shield itself). Indeed, removing four
+feet of steel from the front would have increased the event rate by a factor
+of 100; no such increase was seen. Futhermore, if the events were neutron
+induced they would have clustered toward the first chambers. In fact they
+were uniformly spread throughout the detector subject only to the 300 MeV/c
+requirement.
+    The evidence that the single particle tracks were primarily due to muons
+ was based on the absence of interactions. If these tracks were pions we
+ would have expected 8 interactions. Indeed, even if all of the stopping
+ tracks were considered to be interacting, it would still lead to the conclusion that
+ the mean free path of these tracks was 4 times that expected for hadrons.
+    As a final check on the origin of these events we effectively replaced four
+
+
+476
+
+
+feet of the shield by an equivalent amount as close as possible to the beryllium
+target. This reduced the decay distance by a factor of 8. The rate
+of events decreased from 1.46 ± .02 to 0.3±0.2 per 1016 incident protons.
+  All of the above arguments convinced us that we were in fact looking at
+neutrino induced events and that 29 of the 34 single track events were
+muons produced by neutrinos (The other five being background due to
+cosmic rays). It is these events that will form the basis of our arguments as to
+
+
+
+
+Figure 6. Some typical “vertex” events.
+
+
+the identity of and        But, first we must see what electrons would look like
+in passing through our spark chambers. An electron will on the average
+radiate half of its energy in about four of the aluminum plates. This will lead
+to gammas which will in turn convert to other electron - positron pairs. The
+net result is called a “shower”. Typically an electron shower shows a number
+of sparks in each gap between plates. The total number of sparks in the
+ shower increases roughly linearly with electron energy in 400 MeV region.
+    In order to calibrate the chambers we exposed them to a beam of 400 GeV
+ electrons at the Brookhaven Cosmotron (See Figure 8). We noted that
+the triggering system was 67 % efficient with respect to these electrons. We
+then plotted the spark distribution as shown in Figure 9 for a sample of 2/3
+× 29 expected showers. The 6 “shower” events were also plotted. Clearly,
+the difference between the expected distribution, had there been only one
+neutrino, and the observed distribution was substantial. We concluded that
+
+
+
+
+          ONE EVENT                            VERTICAL PLANE
+                                   I
+
+
+
+
++--DOWN
+                               DEGREES
+
+Figure 7. Projected angular distribution of the single track events. The neutrino direction is
+taken as zero degrees.
+
+
+478                                    Physics 1988
+
+
+  As a further point, we compared the expected rate of neutrino events
+with that predicted by the Fermi theory and found agreement within 30 %.
+  The results of the experiment were described in an article in Physical
+Review Letters Volume 9, pp. 36-44 (1962).
+
+
+
+
+Figure 8. Typical 400 McV/c clectrons from the Cosmotron calibration run.
+
+
+                                        M. Schwartz                                      479
+
+
+
+
+Figure 9. Spark distribution for 400 MeV/c electrons normalized to expected number of showers
+should be        Also shown are the observed “shower” events.
+

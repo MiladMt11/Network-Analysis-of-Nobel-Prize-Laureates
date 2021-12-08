@@ -1,0 +1,709 @@
+             Discovery of Atmospheric
+             Neutrino Oscillations
+             Nobel Lecture, December 8, 2015
+
+             by Takaaki Kajita
+             Institute for Cosmic Ray Research, The University of Tokyo, Japan.
+
+
+
+             1. Introduction
+
+             Neutrinos are a type of fundamental particles, like electrons and quarks. They
+             have no electric charge and they come in three types (flavors), namely the elec-
+             tron neutrino (νe), the muon neutrino (νμ) and the tau neutrino (ντ). They are
+             produced in various places such as in the Earth’s atmosphere and in the center
+             of the Sun. The interactions of neutrinos with matter are so weak that they easily
+             penetrate through the Earth and even the Sun. They do interact with matter,
+             however, but only very rarely. Because a charged current (CC) νe (νμ,ντ) inter-
+             action produces an electron (muon, tau), physicists can determine a neutrino’s
+             flavor by observing the lepton produced when it interacts.
+                 The Standard Model of elementary particle interactions was established in
+             the early 1970s and it describes the strong, weak and electromagnetic interac-
+             tions very well. However, in the Standard Model these interactions are not uni-
+             fied and are treated as independent entities. Neutrinos are assumed to be mass-
+             less within the Standard Model. However, physicists have wondered whether
+             neutrinos really have no mass. If, on the other hand, neutrinos do have mass,
+             they can change their type from one flavor to the other(s). This phenomenon
+             is called “neutrino oscillations,” and was theoretically predicted by Maki, Nak-
+             agawa and Sakata [1] and also by Pontecorvo [2]. For example, imagine that
+             neutrino oscillations occur between νμ and ντ. Assuming that only these two
+
+
+
+                                                                                             7
+
+
+
+
+ook.indb 7                                                                                        5/12/16 1:49 PM
+
+
+             8                                                                  The Nobel Prizes
+
+
+             neutrinos oscillate, so-called two flavor oscillations, the oscillation probability
+             can be written as,
+
+                                                           ⎛ 1.27Δm 2 ( eV 2 ) L(km) ⎞
+                            (         )
+                          P ν µ → ν µ = 1− sin 2 2θ ⋅sin 2 ⎜
+                                                           ⎝      Eν (GeV )
+                                                                                     ⎟
+                                                                                     ⎠
+                                                                                              (1)
+
+
+
+             where P(νμ → νμ) is the probability that a νμ remains a νμ after travelling a dis-
+             tance, L, with energy, E. Here θ is the neutrino mixing angle and Δm2 is the dif-
+             ference in the square of the neutrino masses, ⎪m23 − m22⎪. A ντ is generated when
+             the νμ disappears so that the probability that the neutrino flavor being either νμ
+             or ντ is one. As can be seen from Equation 1, the neutrino oscillation length is
+             longer for smaller neutrino masses.
+                 In the late 1970s new theories that unify the strong, weak and electromag-
+             netic forces were proposed. These theories predicted that protons and neutrons,
+             collectively known as nucleons, should decay with lifetimes between 1028 and
+             1032 years. To test these predictions, several proton decay experiments began
+             in the early 1980s. These experiments had fiducial masses ranging from about
+             100 tons to several thousand tons in order to detect proton decays in the pre-
+             dicted lifetime range. One of these was the Kamioka Nucleon Decay Experiment,
+             Kamiokande.
+                 Kamiokande was a 3,000 ton water Cherenkov experiment with a fiducial
+             mass of about 1,000 tons. It was located at a depth of 1,000 m underground in
+             the Mozumi mine in Kamioka, Japan. When charged particles propagate through
+             the detector’s water at relativistic speeds, they emit Cherenkov photons. These
+             photons are then detected by photomultiplier tubes installed on the inner sur-
+             faces of the Kamiokande water tank. Since the photons are emitted in a forward
+             cone along the particle direction, they form a ring pattern (Cherenkov ring) on
+             the detector walls.
+
+
+             2. Atmospheric neutrino anomaly
+
+             The Kamiokande experiment began in July 1983. As a graduate student I was
+             involved in the experiment from its early stages. In March 1986, I received a
+             Ph.D. based on a search for proton decays into an anti-neutrino and meson final
+             states using its data. No evidence for proton decay was observed.
+                 At that time I felt that the analysis software was not good enough to select the
+             proton decay signal most efficiently from its dominant background, atmospheric
+             neutrino interactions. Therefore, as soon as I submitted my thesis I began to
+             work on improving the software. One of the pieces of software was to identify
+
+
+
+
+ook.indb 8                                                                                          5/12/16 1:49 PM
+
+
+             Discovery of Atmospheric Neutrino Oscillations9
+
+
+             the type of particle seen in events with multiple Cherenkov rings. For each ring
+             in these events, we wanted to estimate whether it was produced by an electron
+             or by a muon. Since the rings are often overlapping it was a non-trivial task to
+             identify the particle types that produced them. Typically one has to verify the
+             performance of the software step-by-step, starting from the simplest cases to the
+             most difficult ones.
+                  Indeed, the software worked very well for the simplest case, namely for simu-
+             lated atmospheric neutrino events with only a single Cherenkov ring. Muons
+             (electrons) produced by simulated atmospheric νμ (νe) interactions were cor-
+             rectly identified approximately 98% of the time. With this knowledge, the flavor
+             of atmospheric neutrino interactions observed in Kamiokande was checked. The
+             result was strange. The number of νμ events was far fewer than predicted by the
+             simulation. At the same time, no such discrepancy was seen in the number of νe
+             events. At first I thought that I had made some serious mistake. In order to find
+             where I had made the mistake, I decided to check the events in the data by eye.
+             Immediately I realized that the analysis software was correctly identifying the
+             particle types. Unfortunately, I thought that this meant that the problem must
+             not be simple. It seemed very likely that there were mistakes somewhere deep
+             in the simulation, data selection, or the event reconstruction software. Together
+             Masato Takita and I embarked on various studies to try and find such mistakes
+             late in 1986.
+                  After studies for a year, we did not find any serious mistake and concluded
+             that the νμ deficit could not be due to a major problem with the data analysis or
+             the simulation. It should be mentioned that the ratio of the atmospheric νμ and
+             νe fluxes can be accurately predicted independently of the absolute flux values
+             due to the neutrino production mechanism. Atmospheric νμ and νe are generated
+             in the decay chain of pions produced by cosmic ray interactions in the atmo-
+             sphere. A pion decays into a muon and a νμ and the muon subsequently decays
+             into an electron in conjunction with another νμ and a νe. These neutrinos have
+             almost the same energy and therefore the ratio of the atmospheric νμ to νe fluxes
+             is expected to be about two, regardless of the details of the cosmic ray flux. In
+             fact, detailed calculations predicted that this flux ratio is approximately two for
+             neutrino energies around 1 GeV. In 1988 we estimated the uncertainty of this
+             ratio to be about 5%. However, the absolute flux was only predicted to a precision
+             between 20% and 30%. These predictions indicated that the data from Kamio-
+             kande were very difficult to explain by uncertainties in the flux calculation.
+                  A paper was written and published in 1988 [3]. The observed numbers of
+             μ-like events (mostly due to νμ interactions), and e-like events (mostly due to νe
+             interactions), were compared with the corresponding numbers from a simulation.
+
+
+
+
+ook.indb 9                                                                                         5/12/16 1:49 PM
+
+
+              10                                                                   The Nobel Prizes
+
+
+              Table 1. Comparison of the number of observed events in Kamiokande with the expecta-
+              tion from simulations. The detector exposure was 2.87 kiloton years.
+
+                                                          Data               Prediction
+              e-like (mostly CC νe interactions)          93                 88.5
+              μ-like (mostly CC νμ interactions)          85                 144.0
+
+
+
+              The results of the comparison are summarized in Table 1. Note that though the
+              simulation used the calculated atmospheric neutrino flux and assumed standard
+              neutrino properties, it did not include the effect of neutrino oscillations.
+                   From these considerations Kamiokande concluded in [3] that “We are unable
+              to explain the data as the result of systematic detector effects or uncertainties in
+              the atmospheric neutrino fluxes. Some as-yet-unaccounted-for physics such as
+              neutrino oscillations might explain the data.” In fact, I was most excited by the
+              possibility of neutrino oscillations with a large mixing angle. Namely, νμ seemed
+              to be almost completely oscillating into some other neutrino type. At that time
+              a large mixing angle was not expected. So this gave me strong motivation to
+              continue the study of atmospheric neutrinos.
+                   Subsequently, another large water Cherenkov experiment, IMB, published an
+              observed deficit of νμ events [4], [5]. Kamiokande then published a second paper
+              on the atmospheric neutrino deficit including a detailed evaluation of system-
+              atic errors in the ratio of μ-like to e-like events for both data and simulation as
+              well as allowed regions for oscillation parameters assuming neutrinos oscillate
+              [6]. The results suggested that the atmospheric neutrino data might indicate
+              neutrino oscillations. However, neutrino oscillation was still only one of the pos-
+              sible explanations for the data. This was due partly to the fact that the observed
+              effect was only a small ratio of μ-like to e-like events. Indeed, the deficit of μ-like
+              events seen in Kamiokande and IMB at energies below about 1 GeV (sub-GeV)
+              did not show a strong dependence on the angle of the event direction relative
+              to the vertical axis of the detector (zenith angle) nor on the event momentum.
+                   The atmospheric neutrino flux is predicted to be up-down symmetric due
+              to the isotropic nature of the cosmic ray flux. Note that while this is not exactly
+              true for sub-GeV atmospheric neutrinos due to the effects of the geomagnetic
+              field on the cosmic ray flux, the flux of the multi-GeV neutrinos is nonetheless
+              very nearly up-down symmetric. If neutrinos have very small masses, then their
+              oscillation length could be 100 kilometers or even longer. If this is the case,
+              vertically downward-going neutrinos, which typically travel tens of kilometers
+              before reaching an underground detector, may not oscillate before they interact
+              within it. On the other hand, vertically upward-going neutrinos, which can travel
+
+
+
+
+ook.indb 10                                                                                             5/12/16 1:49 PM
+
+
+              Discovery of Atmospheric Neutrino Oscillations11
+
+
+              up to about 12,800 kilometers, may have enough time to oscillate into another
+              flavor. Observing a disappearance effect in the upward-going events but not in
+              the downward-going events would therefore be a very strong indication of neu-
+              trino oscillations.
+                  Soon after submitting the first paper on the atmospheric νμ deficit in 1988,
+              we started to select and study atmospheric νμ events with energies larger than
+              1 GeV (multi-GeV) in the data. A multi-GeV νμ interaction typically produces
+              a multi-GeV muon. However, multi-GeV muons produced in the detector will
+              often penetrate through it and exit into the surrounding rock, called partially
+              contained (PC) events. They were selected for analysis. The angular correlation
+              between the muon and its parent neutrino gets substantially better with increas-
+              ing neutrino energy and therefore the zenith angle distribution of multi-GeV
+              muons should represent the neutrino zenith angle distribution fairly well. Con-
+              sequently, we studied the zenith angle distribution for the multi-GeV events.
+                  Since the flux of the atmospheric neutrinos decreases rapidly with increas-
+              ing energy, the rate of multi-GeV νμ events was only about 20 events per year in
+              Kamiokande and it therefore took several years to collect a statistically meaning-
+              ful number of them. Finally, Kamiokande published a study of the multi-GeV
+              atmospheric neutrino data in 1994 [7]. The μ-like data showed a deficit of events
+              in the upward-going direction, while the downward-going events did not show
+              any such deficit. On the other hand, the corresponding distribution from the
+              e-like data did not show any evidence for a deficit of upward-going events (Fig.
+              1). The ratios of upward- to downward-going events (the up/down ratio) for the
+              multi-GeV μ-like and e-like data were 0.58+01.3–0.11 and 1.38+03.9–0.30, respectively. The
+
+
+
+
+              Figure 1. Zenith angle distributions for multi-GeV (a) e-like and (b) μ-like events
+              observed in Kamiokande [7]. Solid histogram shows the predicted distributions without
+              oscillations. Absolute normalization had an uncertainty of 20 to 30%.
+
+
+
+
+ook.indb 11                                                                                                5/12/16 1:49 PM
+
+
+              12                                                             The Nobel Prizes
+
+
+              statistical significance of the observed up-down asymmetry in the μ-like data
+              was equivalent to 2.8 standard deviations. In other words, the probability that
+              the observed result could be due to a statistical fluctuation was less than 1%. It
+              was an interesting observation which showed for the first time that the νμ deficit
+              depended on the neutrino flight length as predicted by neutrino oscillations.
+              However, the statistical significance of the observation was not strong enough
+              to be conclusive and this prompted the need for an even larger data set, namely
+              an even larger detector.
+
+
+              3. Discovery of neutrino oscillations
+
+              The Super-Kamiokande detector is a large, cylindrical water Cherenkov detector;
+              41.4 meters high, 39.3 meters in diameter, and it has a total mass of 50,000 tons.
+              Super-Kamiokande is divided into two parts, an inner detector that studies the
+              details of neutrino interactions and an outer detector that identifies incoming
+              and exiting charged particles. The fiducial mass of the detector is 22,500 tons,
+              which is about 20 times larger than that of Kamiokande. Figure 2 shows a sche-
+              matic of the Super-Kamiokande detector.
+                  Super-Kamiokande is an international collaboration. A collaborative agree-
+              ment between research groups from the USA and Japan was signed in Octo-
+              ber 1992. Many members of the Kamiokande and IMB collaborations joined
+              in the experiment. The Super-Kamiokande detector was designed based on the
+
+
+
+
+              Figure 2. Schematic view of the Super-Kamiokande detector.
+
+
+
+
+ook.indb 12                                                                                        5/12/16 1:49 PM
+
+
+              Discovery of Atmospheric Neutrino Oscillations13
+
+
+              experience of these experiments and included various technological improve-
+              ments. As of 2015, about 120 people from seven countries are members of the
+              collaboration.
+                  The Super-Kamiokande experiment started in the spring of 1996 after a
+              five year period of detector construction. Due its larger fiducial mass, Super-
+              Kamiokande accumulates neutrino events approximately 20 times faster than
+              Kamiokande. Furthermore, Cherenkov rings are observed by 11,200 photo-
+              multiplier tubes making it possible to study the detailed properties of neutrino
+              events. Methods for analyzing atmospheric neutrino interactions had been well
+              established by studies performed in previous experiments. Therefore, from the
+              very beginning of the experiment, Super-Kamiokande analyzed various types of
+              atmospheric neutrino events, including fully contained events, which have no
+              charged particle exiting the inner detector and partially contained events, which
+              has at least one charged particle exiting the inner detector [8], [9]. In addition,
+              upward-going muon events induced by neutrino interactions in the rock below
+              the detector and that traverse it entirely [10] as well as those that stop within it
+              [11] were analyzed. The topologies and features of these events types differ sig-
+              nificantly from one another. Therefore the collaborative work of many research-
+              ers, especially young scientists, was essential for the analysis of the data. Super-
+              Kamiokande developed simulations and analysis programs based on those from
+              Kamiokande and IMB. For this reason Super-Kamiokande was able to produce
+              reliable results relatively quickly after the start of the experiment.
+                  By the spring of 1998 Super-Kamiokande had analyzed 535 days of data,
+              which is equivalent to a 33 kiloton ⋅ year exposure of the detector. In total there
+              were 5,400 atmospheric neutrino events, which was already several times larger
+              than the data sets of previous experiments. At the 18th International Confer-
+              ence on Neutrino Physics and Astrophysics (Neutrino ’98), Super-Kamiokande
+              announced evidence for atmospheric neutrino oscillations [12], [13]. The zenith
+              angle distributions shown at Neutrino ’98 have been reproduced in Fig. 3. The
+              top and bottom panels of the figure show the zenith angle distributions of multi-
+              GeV e-like and multi-GeV μ-like (fully contained and partially contained events
+              have been combined) data, respectively. While the e-like data did not show any
+              statistically significant up-down asymmetry, a clear deficit of upward-going
+              μ-like events was observed. The statistical significance of the effect was more
+              than six standard deviations, implying that the deficit was not due to a statistical
+              fluctuation. Figure 4 shows the summary of the oscillation analyses from Super-
+              Kamiokande and Kamiokande that were presented at the Neutrino ’98 confer-
+              ence. The allowed regions for the neutrino oscillation parameters obtained from
+              the two experiments overlapped, indicating that the data could be consistently
+
+
+
+
+ook.indb 13                                                                                          5/12/16 1:49 PM
+
+
+              14                                                                 The Nobel Prizes
+
+
+
+
+              Figure 3. Zenith angle distributions for multi-GeV atmospheric neutrino events pre-
+              sented at the 18th International Conference on Neutrino Physics and Astrophysics (Neu-
+              trino ’98) by the Super-Kamiokande collaboration [12].
+
+
+
+              explained by neutrino oscillations. Super-Kamiokande concluded from the anal-
+              ysis of these data that muon neutrinos oscillate into other types of neutrinos,
+              most likely into tau neutrinos.
+                  There were two other experiments, Soudan-2 and MACRO, which were
+              observing atmospheric neutrinos at that time. Soudan-2 was a 1 kiloton iron
+              tracking calorimeter detector which had been gathering data since 1989. This
+
+
+
+
+ook.indb 14                                                                                            5/12/16 1:49 PM
+
+
+              Discovery of Atmospheric Neutrino Oscillations15
+
+
+
+
+              Figure 4. The final slide (summary slide) of the presentation by the Super-Kamiokande
+              collaboration at Neutrino ’98 [12].
+
+
+
+              experiment confirmed the zenith angle dependent νμ deficit [14]. Similarly,
+              MACRO was a large underground detector which was able to measure upward-
+              going muons as well as partially contained neutrino events. This experiment also
+              observed a zenith angle dependent deficit of both upward-going muons [15]
+              and partially-contained νμ events [16]. The results from these experiments were
+              completely consistent with those from Super-Kamiokande and consequently,
+              neutrino oscillations were quickly accepted by the neutrino physics community.
+
+
+
+
+ook.indb 15                                                                                           5/12/16 1:50 PM
+
+
+              16                                                                The Nobel Prizes
+
+
+
+
+              Figure 5. Data/Prediction as a function of L/Eν from Super-Kamiokande [17].
+
+
+
+              4. Recent results and the future
+
+              Super-Kamiokande’s data showed that approximately 50% of muon-neutrinos
+              disappear after traveling long distances, an effect which was commonly inter-
+              preted as neutrino oscillations. However, there were still several unanswered
+              questions, such as “what are the values of the neutrino mass squared difference
+              (Δm2) and the neutrino mixing angle (θ)?”, “does the νμ disappearance prob-
+              ability really oscillate as predicted by the theory of neutrino oscillation?”, and “is
+              it possible to confirm νμ → ντ oscillations by detecting ντ interactions?” These
+              questions have been answered experimentally.
+
+              4.1. Observing “oscillation”
+              According to the neutrino oscillation formula shown in Equation 1, the neu-
+              trino survival probability should be sinusoidal. Specifically, at a given energy the
+              probability should be smallest at a certain value of L/Eν then come back to unity
+              if twice the distance is traversed, and then continue oscillating back and forth
+              in this way over longer distances. In Fig. 3 atmospheric neutrino events with a
+              variety of L/Eν values were included in each zenith angle bin so only an averaged
+              survival probability could be observed.
+                  Super-Kamiokande carried out a dedicated analysis that used only events
+              whose L/Eν value could be determined with good precision. In short, in this
+              analysis Super-Kamiokande did not use neutrino events whose direction was
+
+
+
+
+ook.indb 16                                                                                            5/12/16 1:50 PM
+
+
+              Discovery of Atmospheric Neutrino Oscillations17
+
+
+              near the horizon, since the estimated neutrino flight length changes significantly
+              for even small changes in the estimated arrival direction in this regime. Similarly,
+              the analysis did not use low energy neutrino events because the scattering angle
+              at these energies is large, and consequently, the uncertainty in the estimated
+              neutrino flight length becomes large. Using only the high L/Eν resolution events,
+              Super-Kamiokande showed that the measured νμ survival probability has a dip
+              corresponding to the first minimum of the theoretical survival probability near
+              L/Eν= 500 km/GeV [17] as shown in Fig. 5. This was the first evidence that
+              the νμ survival probability obeys the sinusoidal function predicted by neutrino
+              oscillations.
+
+
+              4.2. Detecting tau neutrinos
+              If the oscillations of atmospheric neutrino are indeed between νμ and ντ, it
+              should be possible to observe the charged current interactions of ντ generated
+              by these oscillations. A charged current ντ interaction typically produces a tau
+              lepton accompanied by several hadrons, most of which are pions. Due to the
+              heavy tau mass (1.78 GeV/c2), the threshold for this interaction is about 3.5 GeV.
+              Since this threshold is rather high and the atmospheric neutrino flux at these
+              energies is rather low, the expected event rate is only about one per kiloton per
+              year. The rate of the charged current ντ interactions is therefore only about 0.5%
+              of the total atmospheric neutrino interaction rate. It should be noted that the
+              lifetime of the tau lepton is only 2.9 × 10–13 sec, hence, any tau lepton produced
+              in an atmospheric neutrino interaction decays almost immediately into several
+              hadrons and a neutrino. Therefore, a typical ντ interaction has many hadrons in
+              the final state. However, high energy neutral current interactions also produce
+              many hadrons. Searching for ντ events in a water Cherenkov detector is therefore
+              complicated due to these backgrounds.
+                   Nonetheless Super-Kamiokande searched for charged current ντ interactions
+              in the detector. The search was carried out using various kinematic variables and
+              advanced statistical methods [18], including an artificial neural network. Figure
+              6 shows the zenith angle distribution for candidate ντ events [19]. Even with
+              these advanced methods many background events remain in the final sample.
+              However, there is an excess of upward-going events that cannot be explained
+              with the background events alone. The significance of the excess after taking
+              various systematic uncertainties into account is 3.8 standard deviations [19].
+              These data are indeed consistent with the appearance of tau neutrinos due to
+              atmospheric νμ → ντ oscillations.
+
+
+
+
+ook.indb 17                                                                                          5/12/16 1:50 PM
+
+
+              18                                                                    The Nobel Prizes
+
+
+
+
+              Figure 6. Zenith angle distributions for the τ-like events selected from the data observed
+              in Super-Kamiokande [19]. Circles with error bars show the data. Solid histograms show
+              the Monte Carlo prediction with νμ → ντ oscillations but without the charged current ντ
+              interactions. The gray histograms show the fit result including the ντ interactions.
+
+
+
+              4.3. Data updates, neutrino masses and mixing angles
+              As of 2015 Super-Kamiokande has been taking data for about 5,000 days, which
+              implies that approximately a factor of 10 larger data set than that in 1998 has
+              already been obtained. Figure 7 shows the zenith angle distribution of these
+              events. It is clear that the statistical error on the data sample has improved sig-
+              nificantly relative to the 1998 data set (shown in Fig. 3). Neutrino oscillation
+              parameters have been measured using these events and the data indicate that the
+
+
+
+
+              Figure 7. Zenith angle distribution for multi-GeV e-like (left) and μ-like (right) atmo-
+              spheric neutrino events observed in Super-Kamiokande (2015).
+
+
+
+
+ook.indb 18                                                                                                5/12/16 1:50 PM
+
+
+              Discovery of Atmospheric Neutrino Oscillations19
+
+
+              neutrino mass squared difference (Δm2) is approximately 0.0024 eV2. Assum-
+              ing that the neutrino masses are not degenerate, the heaviest neutrino mass is
+              approximately 0.05 eV, which is 10 million times smaller than the electron mass
+              (or more than one trillion times smaller than the top quark mass), suggesting that
+              neutrino masses are extremely small compared to the masses of other elementary
+              particles. These extremely small neutrino masses are naturally explained by the
+              seesaw mechanism [20], [21], [22], implying that the small neutrino masses are
+              related to the physics at an extremely high energy scale.
+                  The measured mixing angle is consistent with maximal mixing, sin22θ =
+              1.0. Compared to the measurements made in 1998, these parameters have been
+              determined much more precisely. Note that the neutrino mixing angles are very
+              different from the quark mixing angles. For instance, sin22θ ~1 corresponds to θ
+              ~ 45 degrees, while the analogous quark mixing angle is only about 2.4 degrees.
+              Before the discovery of neutrino oscillations this difference was not expected.
+              Indeed, the difference in these sets of mixing angles may give us a hint to under-
+              stand the profound relationship between quarks and leptons.
+
+
+              4.4. Neutrino oscillation experiments: past, present and future
+              As discussed above, the deficit of νμ events in early data from atmospheric
+              neutrino experiments circa 1990 were confirmed to be the effect of neutrino
+              oscillations in 1998 by the subsequent generation of experiments. Note that the
+              atmospheric neutrino flux has a wide energy spectrum and also provides neutri-
+              nos with a wide range of path lengths. These features made it possible to probe
+              neutrino oscillations over an equally large range of Δm2 values and in fact led to
+              the discovery of neutrino oscillations.
+                  Early atmospheric neutrino data and the discovery of neutrino oscillations
+              motivated accelerator based long-baseline neutrino oscillation experiments. In a
+              long-baseline neutrino oscillation experiment the neutrino flight length is fixed
+              to a single value since the neutrino beam is produced by an accelerator and
+              observed in a detector located a fixed distance away. It should also be noted that
+              the beam in such experiments has a high νμ (or anti-νμ) purity, while the atmo-
+              spheric neutrino flux is a mixture of νμ, anti-νe, νμ and anti-νμ. For these reasons
+              long-baseline experiments are well suited to carry out precision measurements.
+                  The first generation long-baseline experiments were carried out in the 2000s.
+              K2K and MINOS are the experiments of this generation and confirmed the neu-
+              trino oscillation phenomenon, independently measuring the neutrino oscilla-
+              tion parameters [23], [24]. OPERA was also a long-baseline experiment of this
+
+
+
+
+ook.indb 19                                                                                          5/12/16 1:50 PM
+
+
+              20                                                               The Nobel Prizes
+
+
+              generation and observed tau leptons produced by the interactions ντ’s generated
+              by neutrino oscillations [25].
+                  Oscillations between νμ and ντ have been well studied by both long-baseline
+              and atmospheric neutrino experiments. Therefore, the next stage of oscillation
+              studies is focused on three flavor oscillation effects. The first step towards real-
+              izing this goal was the establishment of the mixing angle, θ13. Several reactor
+              neutrino experiments (Daya Bay, RENO, and Double-Chooz) and long-baseline
+              experiments (T2K and NOνA) have been carried out to search for evidence of
+              this parameter. These experiments discovered and measured θ13 [26], [27], [28],
+              [29], [30].
+                  Including measurements by solar neutrino experiments [31] and a long-
+              baseline reactor experiment (KamLAND) [32], all mixing angles (θ12, θ23, and
+              θ13) and the absolute values of the neutrino mass squared differences (Δm212 and
+              Δm223(13)) within the three flavor neutrino oscillation framework have been mea-
+              sured. It is clear that our understanding of neutrino oscillations has improved
+              tremendously since 1998. However, there are still unmeasured, but important
+              parameters to be probed by future neutrino oscillation experiments. Notably
+              the measurement of the neutrino mass ordering and the potential establish-
+              ment of CP violation in neutrino oscillations are measurements being targeted
+              by upcoming experiments. The order of the neutrino masses is usually assumed
+              to be mν1 < mν2 < mν3. In fact we know through measurements of solar neutri-
+              nos that mν1 < mν2. However, we do not yet know if ν3 is the heaviest neutrino
+              mass state. This must be measured. If CP is violated in the neutrino sector, the
+              probabilities of oscillating from νμ to νe and from anti-νμ to anti-νe will not be
+              identical. Discovering CP violation in the neutrino sector could have a profound
+              impact on our understanding of the baryon asymmetry of the Universe [33].
+              Consequently, several long-baseline [34], [35], atmospheric [36], [37], [38] and
+              reactor [39], [40] neutrino experiments are currently planned or are under con-
+              struction in order to measure these properties. I expect that neutrino oscillation
+              experiments will continue producing results of fundamental importance to our
+              deeper understanding of the elementary particles and the Universe itself.
+
+
+              Summary
+
+              An unexpected muon neutrino deficit was observed in the atmospheric neutrino
+              flux by Kamiokande in 1988. At that time neutrino oscillation was considered as
+              a possible explanation for the data. Subsequently, in 1998, through the studies
+              of atmospheric neutrinos, Super-Kamiokande discovered neutrino oscillations,
+
+
+
+
+ook.indb 20                                                                                          5/12/16 1:50 PM
+
+
+              Discovery of Atmospheric Neutrino Oscillations21
+
+
+              establishing that neutrinos have mass. I feel that I have been extremely lucky,
+              because I have been involved in the excitement of this discovery from its very
+              beginning.
+                   The discovery of non-zero neutrino masses has opened a window to study
+              physics beyond the Standard Model of elementary particle physics, notably phys-
+              ics at a very high energy scale such as the Grand Unification of elementary par-
+              ticle interactions. At the same time, there are still many things to be observed in
+              neutrinos themselves. Further studies of neutrinos might give us information of
+              fundamental importance for our understanding of nature, such as the origin of
+              the matter in the Universe.
+
+
+              Acknowledgements
+
+              I would like to thank the collaborators of the Kamiokande and Super-Kamio-
+              kande experiments. In particular, I would like to thank Masatoshi Koshiba and
+              Yoji Totsuka for their continued support and encouragement of my research
+              throughout my career. Additionally, I would like to thank the following people
+              for their contributions. Ed Kearns worked with me on the analysis of atmo-
+              spheric neutrinos in Super-Kamiokande for many years. Masato Takita and
+              Kenji Kaneyuki worked with me during the Kamiokande analysis. Yoji Tot-
+              suka, Yoichiro Suzuki and Masayuki Nakahata have been leading the Super-
+              Kamiokande experiment. Hank Sobel and Jim Stone have been leading the US
+              effort on Super-Kamiokande. Kenzo Nakamura and Atsuto Suzuki played very
+              important roles in the early stages of Super-Kamiokande. Hard work by many
+              young Super-Kamiokande collaborators was essential for the discovery of neu-
+              trino oscillations. Also, I would like to thank Morihiro Honda for his neutrino
+              flux calculation.
+                  Finally, Super-Kamiokande acknowledges the Kamioka Mining and Smelting
+              Company. Super-Kamiokande has been built and operated from funds provided
+              by the Japanese Ministry of Education, Culture, Sports, Science and Technology,
+              the U.S. Department of Energy, and the U.S. National Science Foundation. These
+              efforts were partially supported by various funding agencies in Korea, China, the
+              European Union, Japan, and Canada.
+
+
+              References
+               1. Z. Maki, M. Nakagawa, and S. Sakata, Prog. Theor. Phys. 28 (1962) 870–880.
+               2. B. Pontecorvo, Zh. Eksp. Teor. Fiz. 53 (1967) 1717–1725 [Sov. Phys. JETP 26
+                  (1968) 984–988].
+
+
+
+
+ook.indb 21                                                                                         5/12/16 1:50 PM
+
+
+              22                                                                     The Nobel Prizes
+
+
+               3.   K. Hirata et al, Phys. Lett. B 205 (1988) 416–420.
+               4.   D. Casper, et al., Phys. Rev. Lett. 66 (1991) 2561–2564.
+               5.   R. Becker-Szendy, et al., Phys. Rev. D 46 (1992) 3720–3724.
+               6.   K. S. Hirata, et al., Phys. Lett. B 280 (1992) 146–152.
+               7.   Y. Fukuda, et al., Phys. Lett. B 335 (1994) 237–245.
+               8.   Y. Fukuda et al. (Super-Kamiokande Collaboration), Phys. Lett. B 433 (1998) 9–18.
+               9.   Y. Fukuda et al. (Super-Kamiokande Collaboration), Phys. Lett. B 436 (1998) 33–41.
+              10.   Y. Fukuda et al. (Super-Kamiokande Collaboration), Phys. Rev. Lett. 82 (1998)
+                    2644–2648.
+              11.   Y. Fukuda et al. (Super-Kamiokande Collaboration), Phys. Lett. B 467 (1999) 185–193.
+              12.   Takaaki Kajita, for the Kamiokande and Super-Kamiokande collaborations, talk pre-
+                    sented at the 18th International Conference in Neutrino Physics and Astrophysics
+                    (Neutrino ’98), Takayama, Japan, June 1998: Takaaki Kajita (for the Kamiokande
+                    and Super-Kamiokande collaborations), Nucl. Phys. Proc. Suppl. 77 (1999) 123–132.
+              13.   Y. Fukuda, et al. (Super-Kamiokande collaboration), Phys. Rev. Lett. 81 (1998)
+                    1562–1567.
+              14.   W. W. M. Allison, et al., (Soudan-2 collaboration), Phys. Lett. B 449 (1999) 137–144.
+              15.   M. Ambrosio, et al. (MACRO collaboration), Phys. Lett. B 434 (1998) 451–457.
+              16.   M. Ambrosio, et al. (MACRO collaboration), Phys. Lett. B 478 (2000) 5–13.
+              17.   Y. Ashie, et al. (Super-Kamiokande collaboration), Phys. Rev. Lett. 93 (2004) 101801.
+              18.   K. Abe, et al. (Super-Kamiokande collaboration), Phys. Rev. Lett. 97 (2006) 171801.
+              19.   K. Abe, et al. (Super-Kamiokande collaboration), Phys. Rev. Lett. 110 (2013) 181802.
+              20.   P. Minkowski, Phys. Lett. B 67, (1977) 421–428.
+              21.   T. Yanagida, in Proceedings of the Workshop on the Unified Theory and Baryon
+                    Number in the Universe, edited by O.Sawada and A.Sugamoto (KEK Report No.
+                    79–18) (1979) p. 95–98.
+              22.   M. Gell-mann and P. Ramond, and R. Slansky, in Supergravity, edited by P. van
+                    Nieuwenhuizen and D. Z. Freedman (North-Holland, Amsterdam) (1979)
+                    p. 315–321.
+              23.   E. Aliu, et al. (K2K collaboration), Phys. Rev. Lett. 94, (2005) 081802.
+              24.   P. Adamson et al. (MINOS Collaboration), Phys. Rev. Lett. 101 (2008) 131802.
+              25.   N. Agafonova, et al. (OPERA collaboration), Phys. Rev. D 89 (2014) 051102.
+              26.   F. P. An, et al. (Daya Bay collaboration), Phys. Rev. Lett. 108 (2012) 171803.
+              27.   J. K. Ahn, et al. (RENO collaboration), Phys. Rev. Lett. 108 (2012) 191802.
+              28.   Y. Abe, et al. (Double Chooz experiment), Phys. Rev. D 86 (2012) 052008.
+              29.   K. Abe, et al. (T2K collaboration), Phys. Rev. Lett. 107 (2011) 041801.
+              30.   P. Adamson, et al. (NOvA collaboration), arXiv:1601.05022.
+              31.   A. McDonald, Nobel Lecuture (2015).
+              32.   K. Eguchi, et al. (KamLAND collaboration), Phys. Rev. Lett. 90 (2003) 021802.
+              33.   M. Fukugita and T. Yanagida, Phys. Lett. B 174, (1986) 45–47.
+              34.   DUNE collaboration, Long-Baseline Neutrino Facility (LBNF) and Deep
+                    Underground Neutrino Experiment (DUNE) Conceptual Design Report, Volume
+                    1 to 4, arXiv:1512.06148, arXiv:1601.02984, arXiv:1601.05471, arXiv:1601.05823.
+              35.   K. Abe, et al. (Hyper-Kamiokande working group), arXiv:1109.3262.
+
+
+
+
+ook.indb 22                                                                                                 5/12/16 1:50 PM
+
+
+              Discovery of Atmospheric Neutrino Oscillations23
+
+
+              36. M. S. Athar, et al. (INO Collaboration), “India-based Neutrino Observatory: Project
+                  Report,” INO-2006-01.
+              37. M. G. Artsen, et al. (IceCube PINGU collaboration), arXiv:1401.2046.
+              38. V. Van Elewyck (for the KM3NeT collaboration), J. Phys. Conf. Ser. 598 (2015)
+                  1, 012033.
+              39. Z. Djurcic et al. (JUNO collaboration), arXiv:1508.07166.
+              40. S. B. Kim, Nucl. Part. Phys. Proc. 265–266 (2015) 93–98.
+
+
+
+
+ook.indb 23                                                                                             5/12/16 1:50 PM
+

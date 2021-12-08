@@ -1,0 +1,885 @@
+SPECTROSCOPY IN A NEW LIGHT
+Nobel lecture, 8 December, 1981
+
+by
+ARTHUR L. SCHAWLOW
+Department of Physics, Stanford University, Stanford, California 94305, USA
+
+
+
+
+INTRODUCTION
+
+Scientific spectroscopy really began in Uppsala, Sweden, where Anders Ångström
+in 1853 showed that some of the lines in the spectrum of an electric spark
+                                                                            1
+ come from the metal electrodes and others from the gas between them. Even
+ earlier, Joseph Fraunhofer had charted the dark lines in the spectrum of the
+                                                2
+sun, and had measured their wavelengths. But it was Ångström who first
+identified some of these lines as corresponding to bright lines emitted by
+ particular substances in the spark. Most importantly, he showed the red line of
+hydrogen, now known as             In subsequent years, Ångström found several
+more visible lines from hydrogen, and measured their wavelengths accurately.
+ When W. Huggins3 and H. W. Vogel4 succeeded in photographing the spectra
+ of stars in 1880, they found that these visible lines were part of a longer series
+ extending into the ultraviolet. J. J. B almer in 1885 was able to reproduce the
+                                              5
+
+
+
+ wavelengths of these lines by a formula, which we might write as
+
+                                   1
+
+
+Balmer obtained the values of the constants from Angström’s measurements.
+  Five years later Johannes Rydberg6, without knowing of Balmer’s work,
+developed a more general formula for the atomic spectra of alkali metals such
+as sodium.
+                           1
+                               =       =
+
+
+Rydberg’s formula includes Balmer’s as a special case where d = 0. The con-
+stant R is now universally known as the Rydberg constant. We know now that
+it measures the strength of the binding between electrons and nuclei in atoms.
+   It is well known that the Balmer equation for the hydrogen spectrum helped
+Niels Bohr to introduce a quantum theory of atoms. In the 1920s atomic and
+molecular spectroscopy was the principal experimental tool leading to the
+discoveries of the laws of quantum mechanics, from which comes most of our
+understanding of modern physics and chemistry.
+   In the 1940s when I was a graduate student at the University of Toronto,
+
+
+nuclear physics seemed to be the most active branch of the subject but we had
+no accelerator. Therefore, I worked with two other students, Frederick M.
+Kelly and William M. Gray, under the direction of Professor M. F. Crawford
+to use high-resolution optical spectroscopy to measure nuclear properties from
+their effects on the spectra of atoms. The shifts and splittings of spectral lines
+from the interactions between electrons and nuclei were so small that they are
+known as hyperfine structures. To resolve them, we needed to build high
+resolution spectroscopic equipment. We also had to reduce the widths of the
+spectral lines from our light source, because broad lines cause overlapping that
+could completely hide much of the detail that we were seeking. When the gas
+density is so low that collisions could be neglected, the principal source of the
+line widths is the Doppler-broadening from the thermal motions of the atoms.
+Atoms moving toward the observer emit light that is shifted upward in frequen-
+cy, while atoms moving away emit light of lower frequency than atoms at rest.
+Since there is a distribution of velocities, the line is broadened, with a Doppler
+width given by
+
+
+
+
+where v is the line frequency, k is Boltzmann's constant,           is Avogadro's
+number, T is the absolute temperature, and M is the molecular weight.
+   This Doppler width, as a fraction of the line frequency is of the order of
+where is the atomic velocity and c is the velocity of light, or typically about
+1 0-5. We were able to reduce it by a factor of ten or so, by using a roughly
+collimated beam of atoms, excited by an electron beam, as had been done
+earlier by Meissner and Luft7 and by Minkowski and Bruck8, and by observ-
+ing the emitted light from a direction perpendicular to the atomic beam. The
+hyperfine structures we sought could be resolved, but four hours exposure time
+on our photographic plates was required. It seemed that there really ought to
+be an easier method that would give still sharper spectral lines, and indeed a
+large part of our work in laser spectroscopy has been devoted to finding such
+methods.
+
+
+LASER SPECTROSCOPY
+
+By the time that Charles Townes and I were working to see if it was possible to
+make a laser’, in 1957 and 1958, both of us had experience in microwave
+spectroscopy. Thus, it was a familiar idea to us that spectra could be observed
+without a spectrograph, by tuning a narrowband source across the spectrum.
+At some wavelengths the light would be absorbed, at others it would be
+transmitted. This was one of the few applications we could then foresee for
+lasers. But each of the early lasers gave its own characteristic wavelength,
+depending on the material used. They could not be tuned very far, just across
+the width of the laser line. More tuning could be obtained sometimes by
+applying an external magnetic field, or by changing the temperature of a solid
+laser material. For instance, a ruby laser emits at 6943 Angstrom units at room
+
+
+38                                       Physics 1981
+
+
+temperatures and 6934 Angstrom units at liquid nitrogen temperature of 77K.
+William Tiffany, Warren Moos and I used a temperature-tuned ruby laser to
+map out a small portion of the absorption spectrum of gaseous bromine and see
+how changing the laser wavelength affected the chemical reactivity of the
+bromine. 10 We studied bromine because it had a rich spectrum with many
+absorption lines within the range of the available laser.
+   Others studied the spectra of the atoms used in a gas laser, particularly neon,
+and interesting phenomena were discovered. To understand them, we must
+note that the output wavelength of a laser is determined only roughly (within
+the Doppler line width) by the amplifying medium, and more precisely by the
+tuning of the laser resonator. By changing the spacing between the end mirrors,
+the laser can be tuned over the frequency range for which amplification is
+enough to overcome the losses. One might expect that in the center of the
+atomic line, where the gain is largest, the laser output will be greatest. But
+Willis E. Lamb, Jr. predicted, from a detailed theoretical analysis of laser
+principles, that there would be a dip in power output at the center of the line.”
+It would occur because light beams travel in both directions inside the laser
+resonator. At the center of the line both beams stimulate the same excited
+atoms, those with zero velocity, as indicated in Figure 1. At any other tuning,
+the light waves interact with those atoms whose velocity provides just the
+
+
+
+
+Fig. 1. Moving molecules interact with an approaching lower frequency wave Doppler-shifted
+upward in frequency, or a following higher-frequency wave shifted downward.
+
+
+                                   A. L. Schawlow                               39
+
+
+Doppler shift needed to bring the light into resonance with them. Thus there
+are two groups of atoms, with the same speed but opposite directions, which
+can be stimulated to provide the laser output. This “Lamb dip” at the center of
+the laser line was very soon observed by Bennett, Macfarlane and Lamb. 12 It
+was used for spectroscopy by Szoke and Javant13, who also showed that the
+narrow resonance at the dip, free from Doppler-broadening, is sensitive to
+broadening by collision unless the gas pressure is quite low.
+   Paul Lee and M. L. Skolnick 14 also showed that if an absorbing gas is
+present inside the laser resonator, an “inverse Lamb dip” can occur, in which
+the laser output shows a peak at the center of the absorption line where the
+absorption of the molecules is saturated by the beams from both directions.
+The narrow, Doppler-free, optical resonances revealed by the Lamb dip and its
+inverse have been used for stabilizing the wavelength of lasers.
+   Thus by the middle of the 1960s it could be seen that, for spectroscopy, laser
+light possesses several advantages in addition to monochromaticity. Its intensi-
+ty makes it possible to at least partially saturate absorption or stimulated
+emission transitions, and so to burn a narrow absorption or emission hole in a
+Doppler-broadened line. The directionality permits us to observe the combined
+effects of oppositely directed beams. Thus we could recognize the absorption
+from just those atoms or molecules which have zero velocity component along a
+chosen direction, and observe spectral details without Doppler-broadening.
+But at that time, we could only do so inside the resonator of some laser, and we
+could only work at those wavelengths where there happened to be laser lines.
+Later in the decade, Theodor W. Hänsch and Peter Toschek prepared the way
+for the subsequent advances by using the beam from a second laser on a
+cascade transition to probe the distribution of molecules as it was affected by
+saturation inside a laser. l5
+
+
+SATURATION SPECTROSCOPY
+
+Laser spectroscopy became much more widely useful when, in 1970, Theodor
+W . H ä n s c h ,1 6 . 1 7 and Christian Bordé independently introduced a method
+                                              18
+
+
+
+which uses these properties of laser light to give Doppler-free spectra of gases
+external to the laser. As shown in Figure 2, the light from the laser is divided by
+a partial mirror into two beams which pass through the sample in nearly
+opposite directions. The stronger “pump” beam is chopped at an audio fre-
+quency. When it is on, it is strong enough to partially saturate the absorption of
+the molecules in the region through which it passes. The probe beam then is
+less attenuated by its passage through the gas, and a stronger signal reaches the
+detector. When the chopper obstructs the pump beam, the gas absorption
+returns, and less of the probe’s light reaches the detector. Thus the probe beam
+is modulated as the pump is alternately turned on and off by the chopper.
+However, this modulation occurs only when the two beams interact with the
+same molecules, and that happens only when the laser is tuned to interact with
+molecules at rest, or at least with zero velocity component along the direction of
+the beams. Any molecule moving along the beams sees one wave as shifted up
+
+
+40                                             Physics 1981
+
+
+
+           SATURATION SPECTROMETER
+
+                                                                         LOCK- IN
+                                                                         AMPLIFIER
+
+
+
+
+Fig. 2.   Apparatus for Doppler-free spectroscopy by saturated absorption in an external cell.
+
+
+
+
+in frequency and the other shifted down, and so a moving molecule cannot be
+simultaneously in resonance with both beams.
+   Hänsch and Marc Levenson applied this method first using a single-mode
+krypton ion laser which could be tuned over a range of about a twentieth of a
+reciprocal centimeter, that is, 1500 Megahertz, around the wavelengths of a few
+visible lines. This tuning range, although still quite limited, was enough to
+explore the details of several of the many lines in the dense visible absorption
+spectrum of the iodine molecule, I2. For example, Figure 3 shows the hyperfine
+structure of a single line in that spectrum, produced by the interaction between
+the molecular axial field gradient and the quadrupole moments of the two
+iodine nuclei. Although other workers subsequently attained considerably bet-
+ter resolution by more carefully stabilizing the laser wavelength, the power of
+the method was already a spectacular advance over what could be done before.
+Thus, if Figure 3 is projected on a screen two meters wide, on the same scale the
+visible portion of the spectrum would have a width of more than 500 kilo-
+meters! Moreover, the individual lines in the pattern, although still limited by
+pressure broadening and laser frequency jitter, had a width of about 6 MHz, or
+about one part in 108. The hyperfine structures revealed, which had up to then
+
+
+                                                                               41
+
+
+
+
+always been obscured by the Doppler-broadening of 600 MHz even with the
+best spectrographs, can be interpreted as in microwave spectroscopy to provide
+                                                                  19
+information about the distribution of electrons in the molecule.
+   Narrow as these lines were, they were still broadened by intermolecular
+collisions at the operating pressure of about one torr. It was easy to reduce the
+vapor density by cooling the iodine cell, but then the absorption of the probe
+beam would be negligible whether the pump beam was on or not. However, C.
+Freed and Ali Javan had shown, in some infrared spectroscopic studies, that
+                      20
+
+
+
+when absorption is saturated, any fluorescence that follows from the absorption
+also shows a saturation. That is, the fluorescence intensity is not linearly
+proportional to the laser power, but levels off when the laser intensity is enough
+to deplete the number of molecules contributing to it. In our case the Javan-
+Freed method was not immediately applicable because, if the two oppositely
+directed beams were to work together to saturate one of the hyperfine-structure
+lines, it would cause only a very small change in the unresolved fluorescence in
+all of the components. Sorem and I, therefore, introduced a method of inter-
+ modulated fluorescence. We chopped both of the counterpropagating beams
+                           21
+
+
+
+ at different audio frequencies, by using two rings with different numbers of
+ holes on the chopping wheel. Our fluorescence detector was tuned to respond
+ to modulation at the sum of the two chopping frequencies, which arose when
+ the stationary molecules were simultaneously excited by the two laser beams.
+ Thus we obtained a good signal, free from Doppler-broadening, even at pres-
+ sures as low as one millitorr or a thousand times less than we had been able to
+use with the saturated absorption method.
+
+
+42                                  Physics 1981
+
+
+   This is still far from the sensitivity that could ultimately be attained. When
+continuous wave, broadly tunable lasers became available, William M. Fair-
+bank, Jr. and Theodor W. Hänsch tuned the laser to the orange-yellow wave-
+length of the sodium resonance lines. With a sodium cell designed to avoid
+stray light from the walls, we were able to measure the intensity of the light
+scattered from the sodium atoms, down to as few as a hundred atoms per cubic
+centimeter. At that density, attained when the cell was cooled to -30° C,
+             22
+
+
+
+there was on the average only one or two atoms at a time in the beam. With this
+method, we were able to measure the vapor density of sodium metal with a
+million times greater sensitivity than could previously be obtained. It was
+evident that laser methods could be much more sensitive than other tech-
+niques, such as radioactive methods, for detecting small amounts of suitable
+substances. A single atom can scatter very many light quanta without being
+destroyed, and so it should be possible to observe and study a single atom or
+molecule of a substance. Indeed, in favorable cases this sensitivity can already
+be achieved, by a method that uses resonant laser excitation followed by
+ionization. 23The principal difficulty in making such methods broadly applica-
+ble is the lack of suitable lasers at some of the wavelengths needed, especially in
+the ultraviolet regions.
+
+
+BROADLY TUNABLE LASERS
+
+During the 1960s there was a rapid growth in discoveries of new laser materi-
+als and ways to excite them. Solids, liquids, and gases were made to produce
+laser action under optical excitation, as well as electrical discharges in gases
+and semiconductors. But each of them operated at its own characteristic
+wavelength, determined by the properties of the material, and there was no
+way to obtain an arbitrary wavelength even in the same spectral region. We did
+not at first expect to be able to produce laser operation over a continuous band
+of wavelengths, because we knew that the available optical amplification was
+inversely proportional to the width of the lasing line or band. Nevertheless,
+Peter Sorokin and J. R. Lankard 24 and, independently, Fritz Schäfer25 were
+able to use intense flashlamps to excite laser action in organic dyes, whose
+emission bands could be as wide as a hundred Angstrom units or more.
+   A further advance came when it was realized that the high light intensity to
+pump broadband laser materials could be best obtained from another laser. I
+must admit that at first I wondered why anyone would want to compound the
+inefficiencies by using one laser to pump another. But when you need concen-
+trated light for pumping, a suitable laser is a good way to get it. Thus J. A.
+Myer, C. L. Johnson, E. Kierstead, R. D. Sharma, and I. Itzkan 26 used a
+pulsed ultraviolet nitrogen laser to pump a tunable dye laser. As shown in
+Figure 4, the dye laser can consist of just a cell containing a dye in solution, an
+output mirror and a diffraction grating. The grating replaces the second mirror
+of the ordinary laser structure, and acts as a good mirror for one wavelength
+that changes as the grating is rotated. By now, dyes are available to give laser
+action at all wavelengths in the visible, extending into the near ultraviolet and
+
+
+                                             A. I,. Schawlow
+
+
+
+
+Fig. 4. Photograph of a simple pulsed dye laser, pumped by an ultraviolet beam from a nitrogen
+laser, and tuned by a diffraction grating.
+
+
+
+
+infrared. When pumped by a nitrogen laser, the dye laser typically gives pulses
+of a few nanoseconds duration. The amplification is very high, so that the end
+mirror and the diffraction grating or other tuning element do not need to have
+very high reflectivity.
+   But such a simple dye laser of this kind typically gives an output too widely
+spread in wavelength to be useful for high resolution spectroscopy. Hänsch was
+able to obtain narrow line output by adding a telescope between the dye cell
+and grating. Then the light at the grating was spread over more of the rulings,
+and was better collimated, so that the sharpness of its tuning was improved. To
+get output with sub-Doppler narrowness limited only by the length of the light
+pulse, or about 300 Megahertz, he placed a tilted etalon in front of the grating
+(Figure 5). Even more monochromatic output, with a corresponding increase
+             27
+
+
+
+in pulse length could be obtained by filtering the output through a passive
+resonator.
+   Continuous-wave dye laser operation was obtained in 1970 by Peterson,
+Tuccio, and Snavely,28 who used an argon ion laser to excite it. The pumping
+laser and dye laser beams were collinear, as had been used for C.W. ruby lasers
+by Milton Birnbaum, 29 rather than in the transverse arrangement used in
+most earlier lasers. Refining the output of continuous-wave lasers presented
+difficulties because the available amplification was small, so that any tuning
+
+
+44                                           Physics 1981
+
+
+                                                                           ECHELLE
+                                                                           GRATING
+
+
+
+                                                                           FABRY PEROT
+                                                                           ETALON
+
+
+
+
+ NITROGEN
+ LASER                                                                     DYE CELL
+
+
+                                                                           POLARIZER
+
+                                                                           MIRROR
+Fig. 5. Diagram of an improved dye laser, with a telescope and an etalon between the dye cell and
+the diffraction grating.
+
+
+
+elements had to present low losses. But by now, extremely stable, narrowband
+lasers have been made, with line widths much less than one Megahertz.
+   Once a powerful, narrowband but broadly tunable, laser was available, it
+became possible to adapt the laser to the problem rather than the reverse. The
+methods of saturation spectroscopy could be applied to examine in detail the
+spectral lines of atoms simple enough to be of theoretical interest. With the
+pulsed dye laser, Hänsch and Issa S. Shahin first obtained Doppler-free spectra
+of the sodium atom’s D lines at 5890 and 5896 Angstrom units, with the ground
+state hyperfine structure clearly resolved. Then they applied it to study the
+                                           30
+
+
+                                                                      31
+fine structure of the red line                   of atomic hydrogen. For this purpose, they
+c o n s t r u c t e d a n e l e c t r i c g l o w d i s c h a r g e tube with end windows through which
+the two beams could pass. One beam was, as before, the saturating beam, while
+the other, weaker beam was the probe to detect the absorption from atoms with
+no velocity component along the beam direction.
+
+
+                                         A. L. Schawlow                         45
+
+
+
+              HYDROGEN TERMS
+
+
+
+
+  I   -
+Fig. 6. Energy levels and transitions of atomic hydrogen
+
+
+
+
+   Figure 6 recalls the energy levels and spectral lines of the hydrogen atom
+according to the quantum theory of Niels Bohr. The transitions from higher
+levels to the level with principal quantum number, n, equal to 2 give rise to the
+Balmer series spectrum, drawn at the top of Figure 7. Below it is shown the fine
+structure of the red line, on a scale expanded by a factor of 40000, as it would be
+
+
+46                                 Physics 1981
+
+
+
+      SPECTRUM OF HYDROGEN
+
+
+
+
+revealed by a perfect conventional spectrograph. The line is known, from
+theory and from radiofrequency measurements, to have the several line struc-
+ture components indicated, but they would be nearly obscured by the large
+Doppler width. At the bottom of the Figure is shown the tine structure of this
+line revealed by laser saturation spectroscopy. The improvement is dramatic,
+and most of the details of the fine structure can be clearly seen. In particular,
+
+
+the Lamb shift between the         and the       levels is clearly revolved, which
+had not been possible previously in hydrogen, although Gerhard Herzberg had
+resolved the Lamb shift in the corresponding line of ionized helium, where the
+shift is four times greater.32
+    Microwave measurements had already given an accurate account of all of
+these details, and the optical resolution had little hope of improving on them.
+What could be done much better than before was to make an accurate determi-
+nation of the wavelength of one of the components, and thereby obtain an
+improved value of the Rydberg constant. Of course, if the positions and relative
+intensities of the components are known, it is possible to compute the line shape
+and compare it precisely with the shape and position determined by optical
+spectroscopy. But the relative intensities are determined by the detailed pro-
+cesses of excitation and deexcitation in the gas discharge, and their uncertainty
+was the principal source of error in earlier measurements of the line wave-
+length.
+    Hänsch and his associates Issa S. Shahin, Munir Nayfeh, Siu Au Lee,
+Stephen M. Curry, Carl Wieman, John E. M. Goldsmith, and Erhard W.
+Weber, have refined the measurement of the wavelength of the line and thereby
+of the Rydberg constant, through a series of careful and innovative re-
+searches. They have imp roved the precision by a factor of about eighty over
+           33
+
+
+
+previous work, so that the Rydberg is now one of the most accurately known of
+the fundamental constants. The value obtained,              = 109737.3148 ± .0010
+cm -1 is in good agreement with that obtained in a recent experiment using
+laser excitation of an atomic beam, by S. R. Amin, C. D. Caldwell, and W.
+ Lichten. 34
+    In the course of these investigations, Wieman and Hänsch35 found a new
+ method to increase the sensitivity of the saturation method for avoiding Dopp-
+ ler-broadening. As shown in Figure 8, they used a polarized pump beam. It
+ preferentially excites molecules with some particular orientation, leaving the
+ remainder with a complementary orientation. The probe beam is sent through
+ two crossed polarizers, one before and one after the sample region, so that no
+ light reaches the detector except at the wavelengths where the light is depolar-
+ ized by the oriented molecules. The saturation signal then appears as an
+
+
+
+
+Fig. 8. Apparatus for Doppler-free polarization spectroscopy
+
+
+                                           Physics 1981
+
+
+
+
+                                                                  SPATIAL FILTER
+
+
+
+
+Fig. 9. Apparatus for Doppler-free saturated interference spectroscopy.
+
+
+
+
+increased transmission with nearly no interfering background. Thus the noise
+caused by fluctuations in intensity of the probe laser is nearly eliminated, and
+the spectra can be observed at lower density or with lower light intensity. This
+method is now known as polarization spectroscopy.
+   Another way of balancing out the background was introduced by Frank V.
+Kowalski and W. T. Hill36 and, independently, by R. Schieder.37 They used a
+configuration like a Jamin interferometer, in which the probe beam is split into
+two parts which travel parallel paths through the sample cell, as shown in
+Figure 9. The beams are recombined in such a way that they cancel each other.
+Then when a saturating beam reduces the absorption along one of the paths,
+the interferometer becomes unbalanced and a Doppler-free signal is seen. In a
+way, polarization spectroscopy can be thought of as a special case of saturated-
+interference spectroscopy. The plane polarized probe wave is equivalent to two
+waves circularly polarized in opposite senses. They combine to produce a plane
+wave of the original polarization, which is stopped by the second polarizer,
+unless one of the two circularly polarized components experiences a different
+absorption or a different effective path length than the other.
+
+
+                                          A. L. Schawlow                        49
+
+
+SIMPLIFYING SPECTRA BY LASER LABELING
+
+Spectra of molecules are very much more complicated than those of atoms.
+Even a diatomic molecule such as Na2 has dozens of vibrational and hundreds
+of rotational levels for every electronic level. We have, therefore, sought system-
+atic ways to use lasers to simplify molecular spectra so as to identify their
+various states. Even before lasers, something like this could be done by using a
+monochromatic light source, such as a filtered mercury lamp, to excite just one
+level, and observing the fluorescence from it to lower levels. With monochro-
+matic, tunable lasers this can be used, for instance, to explore the vibrational
+and rotational structure of the ground electronic state of molecules. The upper
+state in this case may be said to be “labeled,” since it is identified by having
+molecules excited to it, while neighboring states have none.
+   But if anything at all is known about a molecule, it is likely to be the
+constants of the ground electronic state, which can also be studied by micro-
+wave, infrared and Raman spectroscopy. Mark E. Kaminsky, R. Thomas
+Hawkins, and Frank V. Kowalski therefore inverted the process, by using a
+laser to pump molecules out of a chosen lower level. 38 All of the absorption
+lines originating on this chosen level were, then, weakened. If the pumping
+laser was chopped, the absorption lines from the labeled level were modulated
+at the chopping frequency. Thus when a high-resolution optical spectrometer
+was scanned across the spectrum, the lines from the labeled level could be
+recognized by their modulation, even if perturbations displaced them far from
+their expected position.
+   Almost as soon as Hänsch and Wieman introduced the method of polariza-
+tion spectroscopy, it was apparent to us that it could be adapted for searching
+for and identifying the levels of molecules or complex atoms. 39 Apparatus for
+the polarization labeling method is shown in Figure 10. A polarized beam from
+a repetitively pulsed dye laser is used to pump molecules of a particular
+orientation from a chosen lower level, and leave the lower level with the
+complementary orientation. A broadband probe from a second laser is directed
+through two crossed polarizers, before and after the sample, and then into a
+
+
+
+
+                    POLARIZER
+
+Fig. 10. Apparatus for simplifying spectra by polarization labeling.
+
+
+50                                                       Physics 1981
+
+
+
+
+(a)
+
+
+
+
+Fig. Il. A small section of the Na 2 s p e c t r u m r e v e a l e d b y c o n v e n t i o n a l s p e c t r o s c o p y a n d b y
+polarization labeling.
+
+
+
+
+photographic spectrograph. Figure 11 shows the spectra observed by Richard
+Teets and Richard Feinberg, 39 as several neighbouring lines of N 2 a r e
+pumped. It is seen that from each labeled level, there are just two rotational
+lines for each vibrational level (J’ = J” + 1 and J’ = J” - 1). A small portion of
+the spectrum as obtained by simple absorption spectroscopy is shown for
+comparison. As the tuning of the pump laser is changed slightly, different
+groups of lines appear. For each of them, the upper state vibrational quantum
+number can be inferred simply by recognizing that the lines of lowest frequency
+end on the v’ = 0 level of the upper electronic state.
+   As the molecules raised to the excited electronic level by the polarized pump
+laser are also oriented, the probe can record transitions from that to still higher
+levels. Nils W. Carlson, Antoinette J. Taylor, and Kevin M. Jones 40, 41, 42
+have identified 24 excited singlet electronic states in Na 2 by this method,
+whereas all previous work on this molecule had only produced information
+about 6 excited states. The new levels include Σ, Π, and          states from the
+electron configurations 3sns and 3snd, as indicated in Figure 12. For larger
+values of n, these arc molecular Rydberg states, with one electron far outside
+the core of two Na+ions bound mostly by the single 3s electron. In the        states
+the outer electron contributes something to the bonding, so that the depth of
+
+
+                                            A. L. Schawlow                                   51
+
+
+
+
+                                                r
+
+
+
+
+Fig. 12. Excited electronic states of Na 2 , as revealed by two-step polarization labeling
+
+
+
+
+the potential well increases as n is decreased which brings the outer electron
+closer to the core, as is seen in Figure 13. In the Π states, the outer electron is
+antibonding, and so it decreases the molecular bonding when it is close to the
+core. Corresponding behaviors are observed for the other molecular constants,
+vibrational energy and bond length. Thus they can all be extrapolated to
+obtain good values for the constants of the ground state of the Na 2+ ion. 36 This
+method and the several related techniques of optical-optical double resonance
+arc making increasing contributions to the analysis of complex atomic and
+molecular spectra.
+
+
+52                                          Physics 1981
+
+
+
+
+Fig. 13. Dissociation energy for Na 2 molecular Rydberg states as a function of l/n .
+                                                                                   2
+
+
+TWO-PHOTON DOPPLER-FREE SPECTROSCOPY
+
+In 1970, L. S. Vasilenko, V. P. Chebotayev, and A. V. Shishaev proposed a
+method for obtaining two-photon spectral lines without Doppler-broaden-
+ing. As shown schematically in Figure 14, a molecule moving along the
+    43
+
+
+
+
+                                                                 V
+Fig. 14. Principles of Doppler-free two-photon spectroscopy.
+
+
+
+
+direction of one of two oppositely-directed light beams, from the same laser,
+sees one of them shifted up in frequency and the other shifted down by just the
+same amount. Thus the sum of the photon frequencies is, to first order,
+unaffected by the Doppler shifts. All molecules contribute equally to the
+Doppler-free two-photon line. The predicted effect was observed in atomic
+sodium vapor by B. Cagnac, G. Grynberg, and F. Biraben, 44 by M. D.
+Levenson and N. Bloembergen, 45 and by Hänsch, K. C. Harvey, and G.
+Meisel. 46 They observed transitions from the 3s ground state to 4d or 5s levels
+(Figure 15). The lines were not only sharp, but remarkably prominent and easy
+to detect because of the presence of very strong allowed transitions, the well
+known sodium D lines, less than 100 Angstroms from the wavelength needed
+
+
+54                                          Physics 1981
+
+
+                TWO - PHOTON SPECTROSCOPY OF
+                                        2
+                              Na 4d D STATE
+
+
+
+
+Fig. 15. Energy levels and some two-photon transitions in sodium atoms.
+
+
+
+
+for the two-photon transitions. The allowed transition makes the atom more
+polarizable at the light frequency. Thus it enhances the two-photon absorption
+coefficient by a factor proportional to the inverse square of the offset, or
+frequency difference between the light frequency and the frequency of the
+allowed transition. Subsequently, R. T. Hawkins, W. T. Hill, F. V. Kowalski,
+and Sune Svanberg47 were able to use two lasers of different frequencies in the
+beams, and so to take advantage of different enhancing lines to reach a number
+of other levels in the sodium atom, and to measure the Stark shifts caused by an
+applied electric field. They used a roughly collimated atomic beam illuminated
+transversely by the lasers, to provide further reduction of the Doppler-broaden-
+ing.
+   It was rather surprising, in Kenneth Harvey’s early work, that some other
+two-photon lines were seen in the neighborhood of the expected atomic lines.48
+Since they did not exhibit the well known hyperfine structure of the sodium
+ground state, they could only come from molecular sodium, Na 2 (Figure 16).
+But that was remarkable, because the number of molecules at that temperature
+was very small in comparison with the number of atoms, and there would be
+still fewer in any individual level. Yet the molecular lines were as strong as the
+atomic lines. We realized that the explanation must be a more or less accidental
+close coincidence with some allowed, and therefore enhancing, molecular line.
+
+
+                                          A. L. Schawlow                           55
+
+
+ DOPPLER FREE TWO PHOTON SPECTROSCOPY IN Na VAPOR
+
+                                        Na 3s-5s
+
+
+
+
+Fig. 16. Atomic and molecular two-photon lines in Na 2.
+
+
+
+
+J. P. Woerdman49 also observed some of these lines, and was able to identify
+ the rotational quantum number through the nearby enhancing line of the A
+       band of Na2. Recently Gerard P. Morgan, Hui-Rong Xia, and Guang-
+Yao Yan 50,51 have found and identified a large number of these strong two-
+ photon lines in Na2. The offsets from neighboring enhancing lines have been
+ measured by simultaneous one-photon and two-photon Doppler-free spectros-
+ copy. They are indeed small, ranging from 0.1 cm -1 to as little as 38 Mega-
+ hertz or about .001 cm- 1. Thus we see how it is possible to have the probability
+ of two-photon absorption, and thus two steps of excitation, nearly as strong as
+ that of a single step.
+    On the other hand, two-photon Doppler-free lines may also be observed if
+ there is no enhancing state anywhere near, if there is enough laser intensity and
+ sufficiently sensitive detection. Thus Hänsch, Siu Au Lee, Richard Wallen-
+ stein, and Carl Wieman 52, 53 have observed the 1s to 2s two-photon transition
+ in atomic hydrogen, excited by the second harmonic (2430 Angstroms) of a
+ visible dye laser which simultaneously scans the blue            Balmer line. They
+ have, thus, made an accurate comparison between the 1s to 2s interval and four
+ times the 2s to 4s interval in hydrogen. According to the Bohr theory, the ratio
+ of these level spacings should be exactly 4 to 1. The deviation observed is a
+ measure of the Lamb shift in the ground 1s state, which is otherwise not
+ measurable.
+     The 1s to 2s transition is particularly intriguing, because the lower state is
+  stable, and the upper state is metastable so that it has a lifetime of l/7 second.
+ Thus the lifetime width need to be no more than one Hertz, or a part in 10 15.
+  Since we can usually locate the center of a line to one percent of the linewidth, it
+
+
+56
+
+
+
+
+                                                (COLLISIONS)
+
+
+
+
+Fig. 17. Energy levels and transitions for measuring the Lamb shift of the 1s level of atomic
+hydrogen.
+
+
+
+
+should be possible eventually to measure this line to one part in l0 17 or so. But
+nobody measures anything to a part in 1017! Before we can hope to achieve
+that, such things as second order Doppler effect, transit time broadening,
+radiation recoil and power broadening will have to be eliminated. The chal-
+lenge is great, and should occupy experimental physicists for some years.
+
+
+                                            A. L. Schawlow                                        57
+
+
+OTHER METHODS
+
+There is not enough room to discuss all of the laser spectroscopic methods that
+have interested our colleagues. Serge Haroche and Jeffrey A. Paisner have used
+short, broadband laser pulses to produce quantum beats in fluorescence, by
+                                                               54
+exciting a coherent superposition of several hyperfine levels. James E. Lawler
+                                                                       55
+extended the methods of optogalvanic detection of laser absorption to detect
+                                                      56
+Doppler-free intermodulation and two-photon lines. In turn, this method has
+been extended by Donald R. Lyons and Guang-Yao Yan,57 to use electrodeless
+radiofrequency detection of Doppler-free resonances.
+   Even less is it possible to begin to describe the many exciting discoveries and
+developments from other laboratories. Some indication of them can be ob-
+tained from the proceedings of the five biennial conferences on Laser Spectro-
+scopy.“s The field has had an almost explosive growth, and laser spectroscopy
+in some form or other extends from the submillimeter wavelengths in the far
+infrared to the vacuum ultraviolet and soft x-ray regions.
+   Thus in the powerful, directional, coherent and highly monochromatic new
+light of lasers, we are learning to do entirely new kinds of spectroscopy. We can
+resolve fine details hitherto obscured by thermal broadening, can observe and
+study very small numbers of atoms, and can simplify complex spectra. We can
+take the measure of simple atoms with a precision that is providing a real
+challenge to the best theoretical calculations. Our experimental capabilities
+have been extended so rapidly in the past few years, that there has not been
+time to bring them fully to bear on the interesting, fundamental problems for
+which they seem so well suited. But the spectroscopy with the new light is
+illuminating many things we could not even hope to explore previously, and we
+are bound to encounter further intriguing surprises.
+
+
+
+
+REFERENCES
+ 1. Ångström, A. J., Kungl. Svenska Vetensk. Akad. Handl., p. 327 (1852); Poggendorff Annalen
+   94, 141 (1855); Phil. Mag. 9, 327 (1855)
+ 2. Fraunhofer, J., Gilbert’s Annalen 56, 264 (1817).
+ 3. Huggins, W., Phil. Trans. Roy. Soc. London 171, 669 (1880).
+ 4. Vogel, H. W., Monatsbericht der Königl. Academie der Wissenschaften zu Berlin, July 10,
+    1879, reported by Huggins, op.   cit.
+ 5. Balmer, J. J., Poggendorff's Annalen, N. F. 25, 80 (1885).
+ 6. Rydberg, J. R., Kungl. Svenska Vetensk. Akad. Handl. 32, 80 (1890); Phil. Mag. 29, 331
+    (1890).
+ 7. Meissner K. W., and Luft, K. F.. Ann. der Physik, 28, 667 (1937).
+ 8. Minkowski, R., and Bruck, G., Zeits. f. Phys. 95, 284 (1935).
+ 9. Schawlow, A. L., and Townes, C. H., Phys. Rev. 112, 1940 (1958).
+10. Tiffany, W. B., Moos, H. W., and Schawlow A. L., Science, 157, 40 (1967).
+11. Lamb, W. E. talk at the Third International Conference on Quantum Electronics, Paris. February 11
+    15, 1963; Phys. Rev. 134A, 1429 (1964).
+
+
+58                                           Physics 1981
+
+
+12. McFarlane, R. A., Bennett, W. R. Jr., and Lamb, W. E., Jr, Appl. Phys. Letters, 2, 189 (1963).
+13. Szoke. A., and Javan, A., Phys. Rev. Letters IO, 521 (1963).
+14. Lee, P. H., and Skolnick, M. L., Appl. Phys. Letters 10, 303 (1967).
+15. Hänsch, T. W. and Toschek, P., I.E.E.E. J. Quant. Electr. 4, 467 (1968).
+16. Smith, P. W., and Hänsch, T. W., Phys. Rev. Letters 26, 740 (1971).
+17. Hänsch, T. W., Levenson, M. D., and Schawlow, A. L., Phys. Rev. Letters 27, 707 (1971).
+18. Bordé, C., C. R. Acad. Sci. Paris 271, 371 (1970).
+19. Levenson, M. D., and Schawlow, A. L., Phys. Rev. A6, 10 (1972).
+20. Freed, C., and Javan, A., Appl. Phys. Letters 17, 53 (1970).
+21. Sorem, M. S., and Schawlow, A. L.. Opt. Comm. 5, 148 (1972).
+22. Fairbank, W. M., Hänsch, T. W., Jr., Schawlow, A. L., J. Opt. Soc. Am. 65, 199 (1975).
+23. Hurst, G. S., Payne, M. G., Kramer, S. D., and Young, J. P., Rev Mod. Phys. 51, 767 (1979).
+24. Sorokin, P. P., and Lankard, J. R., IBM J. Res. Develop. IO, 306 (1966).
+25. Schafer, F. P., Schmidt, W., and Volze, J., Appl. Phys. Letters 9, 306 (1966).
+26. Myer, J. A., Johnson, C. L., Kierstead, E., Sharma, R. D., and Itzkan, I., Appl. Phys. Letters
+     16, 3 (1970).
+27. Hänsch, T. W., Appl. Opt. 11, 895 (1972).
+28. Peterson, 0. G., Tuccio, S. A., and Snavely, B. B., Appl. Phys. Letters 17, 245 (1970).
+29. Birnbaum, M., Wendizowski, P. H., and Fincher, C. L., Appl. Phy. Letters 16, 436 (1970).
+30. Hänsch, T. W., Shahin, I. S., and Schawlow, A. L., Phys. Rev. Letters 27, 707 (1971).
+3 I. Hänsch, T. W., Shahin, I. S., and Schawlow, A. L., Nature 235, 63 (1972).
+32. Herzberg, G., Physik, 146, 269 (1956).
+33. Goldsmith, J. E. M., Weber, E. W. and Hänsch, T. W., Phys. Rev. Letters 41, 1525 (1978).
+34. Amin, S. R., Caldwell, C. D., and Lichten, W., Phys. Rev. Letters 47, 1234 (1981).
+35. Wiemann C., and Hänsch, T. W., Phys. Rev. Letters 36, 117O (1976).
+36. Kowalski, F. V., Hill, W. T., and Schawlow, A. L., Optics Letters, 2, 112 (1978).
+37. Schieder, R., Opt. Comm. 26, 113 (1978).
+38. Kaminsky, M. E., Hawkins, R. T., Kowalski, F. V., and Schawlow, A. L., Phys. Rev. Letters
+     36, 671 (1976).
+39. Teets, R. E., Feinberg, R., Hänsch, T. W., and Schawlow, A. L., Phys. Rev. Letters 37, 683
+     (1976).
+40. Carlson, N. W., Kowalski, F. V., Teets, R. E., and Schawlow, A. L., Opt. Comm. 18, 1983
+     (1979).
+41. Carlson, N. W., Taylor, A. J., Jones, K. M., and Schawlow A. L., Phys. Rev. A24,822 (1981).
+42. Taylor, A. J., Jones, K. M., and Schawlow, A. L., Opt. Comm. 39, 47 (1981).
+43. Vasilenko, L. S., Chebotayev, V. P., and Shishaev, A. V., JETP Letters 12, 113 (1970).
+44. Cagnac, B., Grynberg, G., and Biraben, F., J. Phys. (Paris) 34, 845 (1973).
+45. Levenson, M. D., and Bloembergen, N., Phys. Rev. Letters 32,645 (1974).
+46. Hänsch, T. W., Harvey, K. C., Miesel, G. and Schawlow, A. L., Opt. Comm. 11, 50 (1974).
+47. Hawkins, R. T., Hill, W. T., Kowalski, F. V., Schawlow, A. L., and Svanberg, S., Phys. Rev.
+     A15, 967 (1977).
+48. Harvey, K. C., thesis, Stanford University, M. L. Report No. 2442 (1975).
+49. Woerdman, J. P., Chem. Phys. Letters 43, 279 (1976).
+50. Xia, H.-R., Yan, G.-Y., and Schawlow, A. L., Opt. Comm. 39, 153 (1981).
+51. Morgan, G. P., Xia, H.-R.; and Schawlow A. L., J. Opt. Soc. Am., 72, 315 (1982).
+52. Lee, S. A., Wallenstein, R., and Hänsch, T. W., Phys. Rev. Letters 35, 1262 (1975).
+53. Wieman, C., and Hänsch, T. W., Phys. Rev. A22, 1 (1980).
+54. Haroche, S., Paisner, J. A., and Schawlow, A. L., Phys. Rev. Letters 30, 948 (1973).
+55. Green, R. B., Keller, R. A., Luther, G. G., Schenck, P. K., and Travis, J. C., Appl. Phys.
+     Letters 29, 727 (1956).
+56. Lawler, J. E., Ferguson, A. I., Goldsmith, J. E. M., Jackson, D. J., and Schawlow, A. L., Phys.
+     Rev. Letters 42, 1046 (1979).
+57. Lyons, D. R., Schawlow, A. L., and Yan, G.-Y., Opt. Comm. 38, (1981).
+58. The most recent of these is Laser Spectroscopy V, McKellar, A. R. W., Oka, T., and Stoicheff, B.
+     P., editors, Springer-Verlag, Berlin, Heidelberg and New York (1981).
+

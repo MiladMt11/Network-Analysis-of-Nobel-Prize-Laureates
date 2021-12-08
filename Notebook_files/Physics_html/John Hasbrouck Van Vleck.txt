@@ -1,0 +1,802 @@
+QUANTUM MECHANICS
+THE KEY TO UNDERSTANDING MAGNETISM
+Nobel Lecture, 8 December, 1977
+
+J.H. VAN VLECK
+Harvard University, Cambridge, Massachusetts, USA
+
+
+
+The existence of magnetic materials has been known almost since prehistoric
+times, but only in the 20th century has it been understood how and why the
+magnetic susceptibility is influenced by chemical composition or crystallo-
+graphic structure. In the 19th century the pioneer work of Oersted, Ampere,
+Faraday and Joseph Henry revealed the intimate connection between electric-
+ity and magnetism. Maxwell’s classical field equations paved the way for the
+wireless telegraph and the radio. At the turn of the present century Zeeman
+and Lorentz received the second Nobel Prize in physics for respectively
+observing and explaining in terms of classical theory the so-called normal
+Zeeman effect. The other outstanding early attempt to understand magnetism
+at the atomic level was provided by the semi-empirical theories of Langevin
+and Weiss. To account for paramagnetism, Langevin (1) in 1905 assumed in
+a purely ad hoc fashion that an atomic or molecular magnet carried a per-
+manent moment µ, whose spatial distribution was determined by the Boltz-
+mann factor. It seems today almost incredible that this elegantly simple idea
+had not occurred earlier to some other physicist inasmuch as Boltzmann had
+developed his celebrated statistics over a quarter of a century earlier. With
+the Langevin model, the average magnetization resulting from N elementary
+magnetic dipoles of strength µ in a field H is given by the expression
+
+
+
+                                                                           (1)
+
+At ordinary temperatures and field strengths, the argument x of the Langevin
+
+function can be treated as small compared with unity. Then         =      and
+
+Eq. (1) becomes
+
+
+
+
+perature, a relation observed experimentally for oxygen ten years earlier by
+Pierre Curie (2) and hence termed Curie’s law.
+   To explain diamagnetism, Langevin took into account the Larmor preces-
+sion of the electrons about the magnetic field, and the resulting formula for
+the diamagnetic susceptibility is
+
+
+354                                Physics 1977
+
+
+
+
+where (r i)2 is the mean square radius of an electron orbit, and the summation
+extends over all the electrons in the atom. The important thing about (3)
+is that, in substantial agreement with experiment, it gives a diamagnetic
+susceptibility independent of temperature, provided the size of the orbits
+does not change.
+   Two years later, in 1907, Pierre Weiss (3), another French physicist,
+took the effective field acting on the atom or molecule to be the applied
+field augmented by a mysterious internal or molecular field proportional to
+the intensity of magnetization. The argument of the Langevin function then
+
+becomes              rather than        and in place of (2) one has
+
+
+
+                                                                                    (4)
+
+Since the right side of (4) becomes infinite for T = T c , the Weiss model
+predicts the existence of a Curie point below which ferromagnetism sets in.
+This model also describes qualitatively quite well many ferromagnetic phenom-
+ena. Despite its many successes there was one insuperable difficulty from
+the standpoint of classical electrodynamics. Namely the coefficient q of the
+
+molecular field qM should be of the order             whereas it had to be of the order
+                                                  3
+1 0 to describe the observed values of T c.
+      3
+
+
+
+   There was, moreover, an even worse difficulty. If one applies classical
+dynamics and statistical mechanics consistently, a very simple calculation,
+which can be made in only a few lines but I shall not reproduce it here, shows
+that the diamagnetic and paramagnetic contributions to the susceptibility
+exactly cancel. Thus there should be no magnetism at all. This appears to
+have been first pointed out by Niels Bohr (4) in his doctor’s dissertation in
+1911, perhaps the most deflationary publication of all time in physics. This
+may be one reason why Bohr broke with tradition and came forth with his
+remarkable theory of the hydrogen spectrum in 1913. That year can be
+regarded as the debut of what is called the old quantum theory of atomic
+structure, which utilized classical mechanics supplemented by quantum con-
+ditions. In particular it quantized angular momentum and hence the magnetic
+moment of the atom, as was verified experimentally in the molecular beam
+experiments of Stern and Gerlach (5). H ence there was no longer the statistical
+continuous distribution of values of the dipole moment which was essential
+to the proof of zero magnetism in classical theory. When Langevin assumed
+that the magnetic moment of the atom or molecule had a fixed value µ, he
+was quantizing the system without realizing it, just as in Moliere’s Bourgeois
+Gentilhomme, Monsieur Jourdain had been writing prose all his life, without
+ appreciating it, and was overjoyed to discover he had been doing anything
+so elevated. Magnetism could be understood qualitatively in terms of in-
+
+
+                                                                                    355
+
+
+complete shells of electron orbits, and a sentence of Bohr which I like to quote
+reads “In short an examination of the magnetic properties and colors of the
+long periods gives us a striking illustration of how a wound in the otherwise
+symmetrical inner structure of the atom is first created and then healed.”
+However, with the passage of time it became increasingly clear that the old
+quantum theory could give quantitatively correct results for energy levels or
+spectral frequencies only in hydrogen. One historian of science has referred
+to the early 1920’s as the crisis in quantum theory, but I would characterize
+this era as one of increasing disillusion and disappointment in contrast to the
+hopes which were so high in the years immediately following 1913.
+   The advent of quantum mechanics in 1926 furnished at last the real key to
+the quantitative understanding of magnetism, I need not elaborate on the
+miraculous coincidence of three developments, the discovery of the matrix
+form of quantum mechanics by Heisenberg and Born, the alternative but
+equivalent wave mechanical form by de Broglie and Schrödinger, and the
+introduction of electron spin by Uhlenbeck and Goudsmit. A quantum
+mechanics without spin and the Pauli exclusion principle would not have been
+enough - one wouldn’t have been able to understand even the structure of
+the periodic table or most magnetic phenomena. Originally spin was a sort of
+appendage to the mathematical framework, but in Dirac 1928 synthesized
+everything in his remarkable four first order simultaneous equations. To stress
+the importance of the quantum mechanical revolution, I cannot do better than
+to quote an often-mentioned sentence from one of Dirac’s early papers, which
+reads “The general theory of quantum mechanics is now almost complete. The under-
+lying physical laws necessary for the mathematical theory of a large part of physics and
+all of chemistry are thus completely known”.
+   With at last the key available for the proper analysis of what was going on
+inside the atom, it was natural that more than one physicist would try applying
+it to a particular problem. So it is not surprising that four different researchers
+independently calculated and reported in practically simultaneous publi-
+cations (6) the susceptibility of a rotating diatomic molecule carrying a
+permanent dipole moment, which could be either electric or magnetic de-
+pending on whether one was interested in an electric or magnetic suscepti-
+bility. (I was one of the four. The others were Kronig, Manneback, and
+Miss Mensing working in collaboration with Pauli. The new mechanics
+happily restored the factor       in the Langevin formula) (or the corresponding
+Debye expression in the electric case), as shown in Table I. Thus was ended
+the confusion of the old quantum theory, where half quanta worked better
+in band spectra even though whole integers were required with rational
+application of Bohr’s 1913 ideas.
+   There are three common paramagnetic gases, viz. O 2, NO2, and NO. I shall
+discuss NO first as its behavior is the most interesting of the three. In 1926
+Robert Mulliken, who has a sixth sense for deducing molecular energy levels
+from band spectra, had decided that the ground state of the NO molecule was
+a 2II state, whose two components were separated by about 122 cm-1 but he
+wasn’t sure whether the doublet was regular rather than inverted. I tried
+
+
+356                              Physics 1977
+
+
+
+
+calculating the susceptibility of NO on the basis of Mulliken’s energy levels
+and found (7) that the observed susceptibility at room temperatures could
+be explained on the basis that the doublet was regular, i.e. the     component
+lower than the          I wasn’t entirely convinced that the agreement was real
+rather than spurious, as molecular quantum mechanics was then in its infancy.
+If the theory was correct there should be deviations from Curie’s law, and so
+measurements on the susceptibility as a function of temperature should be
+decisive. To my surprise, experiments to test this prediction were performed
+in 1929 at three different laboratories in different parts of the world, with
+each going to a lower temperature than the preceding (8). As shown in Fig. 1,
+the agreement with theory was gratifying. The ordinate in Fig. 1 is not the
+susceptibility itself, but rather the effective magneton number        defined
+by =                    where β is the Bohr magneton                 The non-
+constancy of      is a measure of the deviation from Curie’s law.
+   My calculations on NO started me thinking on the general conditions under
+which Curie’s law should be valid or non-valid. I noted the fact, often over-
+
+
+looked in those early days, that to make a proper computation of the suscepti-
+bility even in weak fields, it is necessary to know the energy of the stationary
+states, or alternatively the partition function, to the second order in the field
+strength H., corresponding to including the second as well as first order
+Zeeman effect. If the energy of a stationary state is
+
+
+
+the correct formula for the susceptibility is
+
+
+
+
+Perturbation theory tells us that
+
+
+
+
+where         is the energy interval               spanned by the matrix element
+              of the magnetic moment in the direction of the field H. From (5)
+and (6) one derives (7) the results presented in Table II.
+Table II. Behavior of the Susceptibility in Various Situations
+    (a) x is proportional to 1       if all    are <
+    (b)   is independent of      if all      are >
+    (c) = A         B/T if all     are either            or
+    (d) no simple dependence of on          if      is comparable with
+In connection with the above it is to be understood that the relevant         are
+only those which relate to the energy intervals spanned by                  which
+because of selection principles can often be less than the total spread in the
+populated energy levels.
+    From too cursory examination of Eq. (5) one might conclude that case (a)
+could never arise when there is a second order Zeeman effect, but this is not
+S O. Since       =                       =              the various terms in (4)
+can be so paired as to involve a factor                    which is approximately
+                 if              The fact that the factor       has thereby dis-
+appeared shows that there is no catastrophe in the expression for the suscepti-
+bility even when the denominators in the expression (6) for the second order
+perturbed energy are very small.
+   The NO molecule, as we have seen, is an illustration of the situation (d).
+On the other hand, the O2 and NO, molecules are examples of (a) and hence
+obey Curie’s law. The oxygen molecule exhibits the same susceptibility as
+though its spin of unity (S = 1) were completely uncoupled from the molecule.
+Actually the spin is coupled to the molecule so that most of the Zeeman energy
+becomes of the second rather than first order, but this complication is im-
+material as regards the susceptibility since the binding energy is only of the
+order 2 cm -1 , small compared to kT. The third common paramagnetic gas
+NO, should have a susceptibility corresponding to a free spin as it is an odd
+molecule. Existing data were in disagreement with this prediction when I
+
+
+358                                 Physics 1977
+
+
+ made it, but new magnetic measurements made by Havens at Wisconsin at
+my suggestion removed this discrepancy (9).
+   In 1925 Hund (10) wrote a paper on the magnetic susceptibilities of rare
+earth compounds which was the crowning achievement of the empiricism of
+the old quantum theory. He utilized Landé’s then phenomenological g-factor
+and the Hund rule that the state of lowest energy is that of maximum spin,
+and of maximum L compatible with this S. At the time this rule was an inspired
+conjecture, but today physicists justify it by examining nodes in the wave
+function. He thus obtained the formula
+
+
+
+
+for the susceptibility, and found that this expression agreed remarkably well
+with experiments for all the trivalent rare earths compounds except those
+containing Sm or Eu. In 1928 Laporte (11) pointed out that for these particular
+two ions, the multiplet structure was such that the interval separating the
+lowest multiplet component from the one next above it is not large com-
+pared to kT. So he summed Hund’s expression for χ over the multiplet’s
+various values of J weighted in accordance with the Boltzmann factor. Even
+so, he was not able to raise the susceptibility to the values found experi-
+mentally. When I read his paper it occurred to me that probably the cause
+for the discrepancy was that the second order energy had been omitted. So
+Miss Frank and I made the relevant calculations (12), and then there was
+agreement with experiment, as shown in Fig. 2. The reason that Hund was
+able to obtain agreement with experiment for other rare earths was that his
+
+
+
+
+Fig. 2. The effective magneton number (in multiples of β) at room temperature for the
+sequence of trivalent ions in the configurations
+
+
+                                   J. H. Van Vleck                             359
+
+
+empirical expression for the first order energy was the same as the true quan-
+tum-mechanical one, and that the second order energy could be omitted
+without too much error. The latter was the case because the interval sepa-
+rating the lowest multiplet component from the next one above is large
+except for Sm , E u , and the second order energy involves this interval in
+                 3 + 3+
+
+
+
+ the denominator. Since Sm 3+ a n d E u3 + , unlike the other rare earth ions,
+correspond to case (d) of table II, deviations from Curie’s law are to be
+ expected for salts containing these ions. This was indeed confirmed by the
+ limited amount of experimental data available at the time.
+    In 1930 and 1931 a great deal of my time went into writing my book on
+ the Theory of Electric and Magnetic Susceptibilities, which appeared in
+ 1932 (13). In this volume I aimed to include the major theoretical develop-
+ments which had taken place up to the time of writing. Besides the things
+which I have already mentioned, there were other major developments in the
+theory of magnetism in the early days of quantum mechanics. Heisenberg (14)
+ took the mystery out of the then twenty year old Weiss molecular field. He
+showed that it arose from exchange effects connecting the different magnetic
+ atoms, which had the effect of introducing the needed strong coupling between
+ the spins. Other notable theoretical developments prior to 1932 included
+ Landau’s paper (15) on the diamagnetism of free electrons, in which he
+ showed that spinless free electrons had a small susceptibility of diamagnetic
+ sign, in contrast to the zero result of classical mechanics. Pauli (18) showed
+ that the spin moment of conduction electrons gives rise to only a small para-
+ magnetic susceptibility practically independent of temperature. This paper
+was notable because it was the first application of Fermi-Dirac statistics to the
+solid state. If one used the Boltzmann statistics one would have a large sus-
+ ceptibility obeying Curie’s law.
+    On the other hand, there were some important development which arrived
+just a little too late for me to include them in my volume. Néel’s first paper on
+ antiferromagnetism appeared in 1932, and in later years he introduced an
+ important variant called ferri-magnetism, in which the anti-parallel dipoles
+ are of unequal strength, so that they do not compensate and the resulting
+behavior can be ferromagnetic (17). There was also Peirls’ (18) theoretical
+ explanation of the de Haas-van-Alphen effect, and Bloch’s 1932 paper (19)
+ on the width of the boundaries (now called Bloch walls) separating the
+ elementary domains in ferromagnetic materials. The corresponding domain
+ structure was explained and elaborated by Landau and Lifschitz two years
+ later (20).
+    In 1930 I held a Guggenheim fellowship for study and travel in Europe.
+ I spent most of the time in Germany, but by far the most rewarding part of
+the trip scientifically was a walk which I took with Kramers along one of the
+canals near Utrecht. He told me about his own theorem (21) on degeneracy
+in molecules with an odd number of electrons and also of Bethe’s long paper
+ (22) concerned with the application of group theory to the determination of
+the quantum mechanical energy levels of atoms or ions exposed to a crystalline
+electric field, and in my book I referred to the role of the crystalline field only
+
+
+360                                 Physics 1977
+
+
+ in a qualitative way, stressing the fact that it could largely suppress the orbital
+ part of the magnetic moment in salts of the iron group. In the process of
+ writing I did not have the time or energy to attempt quantitative numerical
+ computations. I was most fortunate when, beginning in the fall of 1931 I had
+ two post-doctoral students from England, namely William (now Lord)
+ Penney, and Robert Schlapp. I suggested to these two men that they make
+calculations respectively on salts of the rare earth and of the iron group. The
+basic idea of the crystalline field potential is an extremely simple one, namely
+that the magnetic ion is exposed not just to the applied magnetic field but
+experiences in addition a static field which is regarded as an approximate
+representation of the forces exerted upon it by other atoms in the crystal. The
+form of the crystalline potential depends on the type of crystalline symmetry.
+For some of the most common types of symmetry the terms of lowest order
+in x, y, z are respectively
+
+axial, tetragonal or hexagonal
+rhombic
+
+cubic
+
+ If the potential satisfies Laplace’s equation, the factors A, B, D are constants,
+ but because of charge overlap they can be functions of the radius.
+    The 4f electrons responsible for the magnetism of the rare earths are se-
+ questered in the interior of the atom, and so experience only a small crystalline
+ field. The general formalism which I developed in 1927 and which is displayed
+in table II shows that it is a good approximation to treat the atom as free
+provided the decomposition of the energy levels caused by the crystalline
+field is small compared to kT. This condition is fulfilled fairly well for the
+ rare earths at room temperatures, and explains the success of Hund’s theory.
+At low temperatures inclusion of the crystalline potential is usually imperative,
+and so Penney utilized it to interpret the existing experimental data mainly
+by Cabrera and by Becquerel. Fig, 3 is taken from the original paper of
+ Penney and Schlapp (23). The ordinate is the reciprocal of the susceptibility.
+Hence for Nd 3+ one expects it to approach zero as            0 inasmuch as Nd3 +
+is an ion with an odd number of electrons, and even at T = 0 there is still the
+Kramers degeneracy which implies a first order Zeeman effect and a l/T
+term in the susceptibility. On the other hand for the even ion Pr 3+ a suf-
+ficiently asymmetrical field should completely lift the degeneracy (case (b)
+of Table II) and the susceptibility should remain finite as one approaches
+T = 0. This difference is strikingly exhibited in the two sides of Fig. 3.
+    When applied to the iron group the results of crystal field theory are
+particularly striking and form the basis of much of what may be called modern
+magnetochemistry. The crystalline potential is much larger than for the rare
+earths and is so powerful that it quenches a large part of the orbital part of the
+magnetic moment even at room temperatures. Schlapp found that the mag-
+netic behavior in the iron group required a large crystalline field of nearly
+(but usually not entirely) cubic symmetry.
+
+
+                                                                                          361
+
+
+
+
+Fig. 3. The reciprocal of the susceptibility as a function of temperature, for two rare earth
+compounds containing respectively an even and odd number of electrons.
+
+
+   Each time I read the paper of Schapp and Penney (24) I am impressed
+with how it contains all the essential ingredients of modern crystalline field
+theory, although there have been changes in the best quantitative estimate
+of D in (7c). For instance it accounted for the fact that most nickel salts
+are nearly isotropic magnetically and follow Curie’s law down to quite low
+temperatures, whereas the corresponding cobalt salts are highly anisotropic
+and deviate greatly from Curie’s law. However, for a while we thought that
+there was a difficulty and inconsistency. Let us focus attention on the ions
+in F states; e.g. Ni++, Co++. In a nearly cubic field an F state will decompose in the
+fashion shown in Figure 4. If a non-degenerate level is deepest, as in Figure 4,
+then the orbital moment is completely quenched, and there should be almost
+complete isotropy. On the other hand, if Figure 4 is upside down, and if the
+components a, b, c of the ground level do not coincide because of deviations
+
+
+
+
+Fig. 4. Orbital energies of an F state in a nearly cubic field The decompositions (a-b-c)
+and (d-e-f) ensue only because of deviations from cubic symmetry. The quantity Dq is
+connected with the constant D of (7c) by the relation Dq = 2 D<r 4> /105.
+
+
+362
+
+
+from cubic symmetry, and so have different Boltzmann factors, the anisotropy
+will be considerable. The very different behavior of nickel and cobalt can thus
+be explained if it supposed that Figure 4 is rightside up for Ni ++ but is upside
+down in Co++. The calculations of Schlapp then worked fine. However, this
+seemed to US for a while a thoroughly dishonest procedure, as it appeared to
+require a change in the sign of D
+   Then one day it dawned on me that a simple calculation based on the
+invariance of the trace shows that the splitting pattern does indeed invert in going
+from nickel to cobalt even though the constant D is nearly the same.
+   The article (25) in which I published this result is my favorite of the various
+papers I’ve written as it involved only a rather simple calculation, and yet it
+gave consistency and rationality to the apparently irregular variations in
+magnetic behavior from ion to ion.
+   The iron group salts I have discussed are of the 6-coordinated type, e.g.
+C o ( N H4) 2( S O4) 2 6 H2O. A simple electrostatic calculation made by Gorter
+(26) shows that the constant D in (7c) should change sign when the coordi-
+nation is 4 rather than 6 fold and then Fig. 4 should be upright in Co++ and
+inverted in Ni++. Krishnan and Mookherji (27) in 1937 verified experimentally
+this theoretical prediction. They prepared some tetracoordinated cobalt
+compounds, which are a beautiful cobalt blue in color and found that they
+ indeed show very much less anisotropy than do the pink six-coordinated
+ ones.
+    In 1935 I published a paper (28) in which I amplified and generalized in
+ two respects the primitive crystal field theory employed a few years previously
+ by Penney, Schlapp, and myself. In the first place I showed that Bethe’s
+ grouping of energy levels according to symmetry type was still valid even
+if one allowed the electrons in the unclosed shells to wander away sometimes
+from the central paramagnetic ion and take a look at the diamagnetic atoms
+clustered around it. In more technical language, the wave function of the
+electron has mixed into it small terms which correspond to such excursions.
+This generalization corresponds to the use of molecular rather than atomic
+orbitals. Following Ballhausen (29) it is convenient to designate this more
+general model as ligand rather than crystal field theory, as chemists sometimes
+refer to the neighboring atoms clustering about the central ion as ligands.
+The use of ligand in distinction from crystal field theory can also be charac-
+terized as making allowance for incipient covalence.
+   The other modification I made of the conventional theory was to note
+that under certain conditions, the levels may be split so much by the crystalline
+field as to break down the Hund rule that the deepest state is that of maximum
+multiplicity permitted by the Pauli principle. This situation is shown sche-
+matically in Fig. 5, which is drawn for the configuration d 6. According to the
+Hund rule the deepest state is 5D (S = 2) and this necessitates all but one of
+the five Stark components being singly inhabited, as in the left side of Fig. 5.
+It is obvious that the energy in the crystalline or ligand field is lower if the
+three deepest Stark components are doubly populated, with antiparallel
+spin because of the exclusion principle. However, then the resultant spin is
+
+
+                                      J. H. Van Vleck                                  363
+
+
+
+
+Fig. 5. The central diagram of the figure shows the decomposition of a single 3d level in a
+field of mainly cubic symmetry. The arrows indicate how the different crystalline field
+components are filled in case the ion contains six 3d electrons, and also the direction of
+alignment of each spin. The situation in the left side of the figure represents conformity
+to the Hund rule, while the right exemplifies what happens when minimization of the
+energy in the crystalline field is so important as to break down this rule.
+
+
+
+only 0, the Russell-Saunders coupling is broken up, and the part of the energy
+not associated with the crystalline field is raised. The two cases represented
+by the two sides of Fig. 5 are sometimes referred to as the high and low spin
+cases. When the susceptibility of a compound is found to conform to the low
+rather than high spin situation, this is something of interest to chemists. It
+shows that the inter-atomic bonding is strong, since it is large enough to break
+down the Hund rule. Beginning with Pauling and Coryell (30) in 1936, this
+magnetic criterion has even been used to study the chemical behavior of iron
+in blood. For example, the ferro-haemoglobin ion exhibits high and low
+spin values 2 and 0 in the presence of H2O and O2 molecules respectively.
+I should by all means mention that prior to my own paper Pauling (31) also
+stressed the role of covalency effects in magnetism, and the fact that sometimes
+the low rather than high spin case may be realized. However, in my opinion
+the method of electron pair bonds which he employed is less flexible and
+realistic without some modification than is that of molecular orbitals which
+I used.
+   On 1937 Jahn and Teller (32) established a remarkable theorem that when
+in a crystal there is a degeneracy or coincidence of levels for reasons of sym-
+metry, the ligands experience forces which distort the crystalline arrangement,
+thereby lowering both the symmetry and the energy.
+    I realized that the Jahn-Teller effect might have an important effect on
+ magnetic susceptibilities, and in 1939 I published a paper on this subject (33).
+ The energetic effect of Jahn-Teller distortions, is very similar to that of mo-
+ lecular vibrations. Consequently I was able to make the calculations which
+ I performed do double duty using them also in connection with the theory
+ of paramagnetic relaxation caused by spin-lattice coupling. The work I have
+ discussed so far all has related mainly to static susceptibilities but when
+ I visited Leiden in 1938, Gorter (34) aroused my interest in the behavior of the
+ susceptibility at radio frequencies and related problems in relaxation. In a
+ landmark pioneer paper written in 1932 Waller (35) showed that there could
+ be a transfer of energy between the magnetic and phonon systems because of the
+ modulation of the dipolar energy by the lattice vibrations, and a little later
+ Heitler and Teller, Fierz, and Kronig (36) showed that there could be a
+
+
+364                                 Physics 1977
+
+
+ similar relaxation effect, usually of larger magnitude, because of the vibrational
+ modulations of the energy associated with the crystalline potential. I made
+ a more detailed explicit calculation (37) of the numerical values of the re-
+ laxation times to be expected for titanium, chronium and ferric ions. On the
+ whole the agreement with experiment was rather miserable. In an attempt
+ to explain away part of the disgreement, I suggested in another paper (38)
+ that there might be what is usually called a phonon bottleneck. The point
+ is that because of the conservation of energy only a portion of all the phonons,
+ those in a narrow frequency range, can exchange energy with the spin or
+ magnetic system. Because of their limited heat capacity, these phonons are
+ easily saturated and brought to the same temperature as the spin system,
+ except insofar as they exchange energy by anharmonic processes coupling
+ them to other oscillators, or transport the excess energy to a surrounding bath
+ that serves as a thermostat. Consequently the relaxation process may be con-
+siderably slower than one would calculate otherwise.
+    This brings me up to the years of world war II, during which very little
+was done in the way of pure research. Even before the war, the number of
+physicists interested in magnetism was limited, both because at that time there
+were few theoretical physicists in the world, and because there were many
+different fields in which quantum mechanics could be applied. So I seldom
+ran into problems of duplicating the work of other physicists, except for the
+calculations with the rotating dipole I mentioned near the beginning of my
+talk, and some duplication with Kronig on paramagnetic relaxation. A S a n
+example of the rather relaxed rate of development I might mention that while
+the first successful experiments on adiabatic demagnetization were made by
+Giauque (39) at California in 1933, the first attempt to interpret these ex-
+periments in the light of crystal field theory was not until Hebb and Purcell
+(40) published an article in 1937 which was essentially a term paper in my
+course in magnetism which had only two students. Shortly after the war,
+the whole tempo of research in magnetism changed abruptly. The develop-
+ment of radar in the war created apparatus and instruments for microwave
+spectroscopy, permitting exploration of a spectral low frequency spectral
+region previously practically untouched. Also infrared and optical spectro-
+scopy of solids was pursued much more vigorously, with improved apparatus.
+On the theoretical side, crystalline and ligand field calculations were made
+in various centers, notably in Japan, going into much more detail and lengthy
+computation than in the work of my group at Wisconsin in the 1930’s.
+   For the rare earths the pre-war period may be described as the era of the
+rare earth sulphate octohydrates, as the meager magnetic measurements at
+that time were mainly on these compounds. These materials are particularly
+annoying as they have a very complicated crystal structure, with eight rare
+earth ions in the unit cell. However, the x-ray analysis (41) that yielded this
+disconcerting information had not been made at the time of Penney and
+Schlapp’s work, and so they obtained the theoretical curve shown in Fig. 3,
+by making faute de mieux the simplifying assumption that the local crystalline
+field had cubic symmetry, and was the same for all the paramagnetic ions.
+
+
+                                       J. H. Van Vleck                                 365
+
+
+ Undoubtedly the local potential is more complicated. Even today there have
+been few attempts to revaluate the crystalline field parameters for sulphate
+octohydrates, both because of theoretical complexity and the paucity of new
+experimental data. The most comprehensive crystalline field analysis for rare
+earth salts in modern times is on the ethyl sulphates (Re(C 2H 5S O4)3 9 H2O ) ,
+which have only one ion in the unit cell and are magnetically dilute. One
+important result is that the higher order harmonics in the series development
+of the crystalline potential are much more important than one thought in the
+early days. These ethyl sulphates have hexagonal symmetry. Were only second
+order terms important, the crystalline potentia would be of the simple type
+ (7a), but actually there are also important terms involving fourth and sixth
+order harmonics, including those of the type (x ± iy)6. One sometimes worries
+how meaningful and reliable are the crystalline field parameters deduced
+from spectroscopic data, but very comforting magnetic measurements have
+been published by Cooke and collaborators (42). They measured the sus-
+ceptibility both parallel and perpendicular to the hexagonal axis, and as
+shown in Fig. 6 found that the experimental results agreed exceedingly well
+with the theoretical curve calculated with the spectroscopically determined
+(43) crystalline field parameters.
+   One of the spectacular developments associated with spectroscopy of the
+solid state was the first optical laser constructed by Maiman (44) in 1960. By
+a sheer coincidence it involved transitions between the same ruby energy levels
+that were interpreted in terms of crystal field theory by Finkelstein and
+myself (45) in 1940. Cynics can well claim that our theoretical labelling of
+the energy levels was no more germane to the successful instrumentation
+of a laser than the prior naming of a star was to astrophysical studies thereof.
+Still it may be true that any theoretical understanding of the nature and
+
+
+
+
+ Fig. 6. The product of susceptibility times temperature for erbium ethyl sulphate as a
+function of temperature for directions parallel and perpendicular to the hexaconal axis.
+The broken curves represent experimental measurements of the susceptibility by Cooke,
+Lazemby and Leark, (42) the solid curves are calculated theoretically with the crystalline
+field parameters of Erath. (43)
+
+
+366                                Physics 1977
+
+
+ relaxation rates of the different energy levels in solids may help the experi-
+ mentalists a little.
+    Particularly gratifying to me were the improved determinations of spin-
+ lattice relaxation times made at various laboratories (46). These confirmed
+ the reality of the bottleneck effect. They also verified the proportionality of
+ the relaxation time in a certain temperature range to T -9 which I had pre-
+ dicted for salts with Kramers degeneracy and of sufficient magnetic dilution
+ that there is no bottleneck.
+    The year 1946 brought about the discovery of nuclear magnetic resonance
+ independently by Purcell, Torrey and Pound, and by Bloch, Hansen and
+ Packard (47). I need not tell you how enormously important the field of
+ nuclear magnetism has become both for its basic scientific interest and its
+ surprising technological applications. The nuclear magnetic resonance spectro-
+ meter has become a standard tool for any laboratory concerned with analytical
+ chemistry, completely usurping the role of the Bunsen burner in earlier days.
+ Measurements of transferred hyperfine-structure give a quantitative measure
+ of incipient covalence in molecular orbital or ligand field theory. Little of my
+ own research. has been concerned with. nuclear magnetism, but in 1948
+ Purcell asked me if I could explain theoretically the size of the line widths he
+ and Pake (48) were observing in the resonance of the F nucleus in CaF2. It
+ occurred to me that this could be done by applying the method of moments
+ that Waller (35) developed in 1932. The predicted magnitude of the mean
+ square line breadth and its dependence on direction agreed on the whole
+very well with experiment. The only difference in this calculation (49) of the
+ mean square dipolar broadening as compared with that originally performed
+by Waller is that he was concerned with the width in a weak magnetic field,
+whereas in the experiments by Pake and Purcell the dipolar energy is small
+compared to the Zeeman energy, and this necessitates the truncation of the
+Hamiltonian function, i.e., the omission of certain terms. A year previously
+I had also used Waller’s method of moments in connection with explaining
+some apparently anomalous line shapes in some of the Leiden experiments on
+paramagnetic dispersion. Gorter was a visiting Professor at Harvard in 1947,
+and one morning we came to the laboratory and discovered that we had both
+overnight come to the conclusion that the explanation is to be found in an
+effect now generally known as exchange narrowing. Gorter had reached this
+conclusion on the basis of an intuitive picture, that the spin waves associated
+with exchange spoiled the coherence of the dipolar coupling, analogous to the
+motional narrowing discussed by Bloembergen, Purcell, and Pound in con-
+nection with nuclear magnetic resonance in liquids (50). On the other hand
+I used a more mathematical approach, showing that exchange enhanced the
+fourth but not the second moment, thereby narrowing the line. The result
+was a joint paper by Gorter and myself (51).
+   So far I have not said much about ferromagnetism, partly because more
+of my own work has been in paramagnetism, but mainly because most ferro-
+magnetic metals are very complicated since they are conductors. Over the
+years there have been arguments ad infinitum as to which is the best model to
+
+
+                                     J. H. Van Vleck                                367
+
+
+use, each researcher often pushing his own views with the ardor of a religious
+zealot (52). Heisenberg’s original model (14) was one in which the spins
+responsible for the ferromagnetism did not wander from atom to atom,
+whereas in the band picture developed by Stoner (53) the electrons carrying
+a free spin can wander freely through the metal without any correlation in
+their relative positions, as the exchange effects are approximated by an
+uncorrelated molecular field. Undoubtedly the truth is between the two
+extremes, and I have always favoured as a first approximation a sort of
+compromise model, which may be called that of minimum polarity (54). In
+nickel for instance, this model there is continual interchange of electrons
+between the configurations d 10 and d but no admixture of d , d etc. as then
+                                       9                         8  7
+
+
+
+the correlation energy is increased.
+   Neutron diffraction is a very powerful new tool for disclosing how atomic
+magnets are arranged relative to each other. It has led to the surprising and
+spectacular discovery that in certain materials notably rare earth metals, the
+elementary magnets are arranged in a spiral conical or wavy fashion, rather
+than pointing all in the same direction within an elementary domain (55).
+They can be ferromagnetic in one temperature region and antiferromagnetic
+in another. This weird kind of magnetism is sometimes called helical magne-
+tism. Most rare earth metals belong to this category and the mathematical
+interpretation of the experimental results is complicated and difficult despite
+the fact that the 4f electrons participate but little in electrical conductivity,
+unlike the 3d electrons in iron or nickel. I have not been involved in any of
+the theoretical analysis except for a point connected with the magnetic an-
+isotropy. When I attended the conference on quantum chemistry sponsored
+by Professor Lowdin in Florida in 1971, Bozorth presented some measurements
+
+
+
+
+                                        40             60
+                                     PERCENT ERBIUM
+Fig. 7. The energy of magnetization for various amounts of Ho relative to Er. The three
+curves are for three different directions and would coincide were there is no magnetic
+anisotropy. The latter is measured by the differences between the ordinates of the three
+curves.
+
+
+368                                     Physics 1977
+
+
+of the ferromagnetic anisotropy of Ho-Er alloys. He found that the anisotropy
+of pure holmium was approximately the negative of that of erbium, and
+vanished when there was an equal amount of Ho and Er, as shown on Fig. 7.
+It finally occurred to me that precisely the same property of spherical har-
+monics that explained the inversion of Fig. 4 in passing from Co ++ to Ni ++
+also explained (56) the inversion of the anisotropy of Ho as compared to Er,
+with the obvious corollary that the Ho and Er contributions should cancel
+each other out for a 50% mixture. So sometimes primitive theory can still be
+useful, but in general a higher degree of mathematical sophistication is re-
+quired as time progresses, and as more and more exotic magnetic phenomena
+are discovered by the experimentalists. This you will learn from the addresses
+by Anderson and Sir Neville Mott but one can still say that quantum me-
+chanics is the key to understanding magnetism. When one enters the first
+room with this key there are unexpected rooms beyond, but it is always the
+master key that unlocks each door.
+
+
+
+
+REFERENCES
+ 1.  Langevin, P. J. de Physique 4, 678 (1905), Annales de Chimie et Physique, 5, 70 (1905).
+ 2.  Curie, P., Ann. Chim. Phys. 5, 289 (1895), Oeuvres, p. 232.
+ 3. Weiss, P., J. de Physique 6, 667 (1907).
+ 4. Bohr, N., Dissertation, 1911; reprinted in vol I of his collected works. The vanishing
+    of the susceptibility in classical statistics was also proved independently with a slightly
+    different method by Miss J. H. van Leeuwen, Dissertation, Leiden 1919, J. de Physique
+     2, 361 (1921); the two methods of proof are summarized in p. 94 of ref. 13.
+ 5. Gerlach, W. and Stern, O., Zeit. f. Physik 9, 349 (1922).
+ 6. Mensing, L. and Pauli, W., Phys. Zeit. 27, 509 (1926); R. de L. Kronig, Proc. Nat.
+    Acad. Sci. 12, 488 (1926), C. Manneback Phys. Zeits. 27 563 (1926), J. H. Van Vleck,
+    Nature, 118, 226 (1926).
+ 7. Van Vleck, J., Nature, May 7, 1927. Phys. Rev. 29, 727 (1927); 31, 587 (1928).
+ 8. Bitter, F., Proc. Nat. Acad. 15 632 (1929); Aharoni and Scherrer Zeits. f. Physik 58,
+    749 (1929) ; Wiersma, de Haas and Capel, Leiden Communications 212b.
+ 9. Havens, G. G., Phys. Rev. 43, 992 (1932).
+10. Hund, F., Zeits. f. Physik 33, 855 (1925).
+11. Laporte, O., Zeits. f. Physik 47, 761 (1928).
+12. Van Vleck, J. H. and Frank, A., Phys. Rev. 34, 1494 and 1625 (1929) Frank, A.,
+    Phys. Rev. 39, 119 (1932); 48, 765 (1935).
+13. Van Vleck, J. H., the Theory of Electric and Magnetic Susceptibilities, Oxford Uni-
+    versity Press, 1932.
+14. Heisenberg, W., Zeits. f. Physik 49, 619 (1928).
+15. Landau, L., Zeits. f. Physik 64, 629 (1930, E. Teller, ibid 67, 311 (1931).
+16. Pauli, W., Zeits. f. Physik 41, 81 (1927).
+17. Néel, L., Ann. de Physique 17, 64 (1932), 5, 256 (1936).
+18. Peirls, R., Zeits. f. Physik 81, 186 (1933).
+19. Bloch, F., Zeits. f. Physik 74, 295 (1932).
+20. Landau, L. and Lifshitz, E., Phys. Zeits. d. Sowjetsunion 8, 153 (1935).
+21. Kramers, H. A., Proc. Amsterdam Acad. 33, 959 (1930) or collected works, p. 522.
+22. Bethe, H., Ann. der Physik 3, 133 (1929).
+23. Penney, W. G. and Schlapp, R., Phys. Rev. 41, 194 (1932).
+24. Schlapp, R. and Penney, W. G., Phys. Rev. 42, 666, (1932).
+
+
+                                        J. H. Van Vleck                                    369
+
+
+25.  Van Vleck, .J. H., Phys. Rev. 41, 208 (1932).
+26.  Gorter, C. J., Phys. Rev. 42, 487 (1932).
+27.  Krishnan, K. S. and Mookherji, A., Phys. Rev. 51, 428 and 774 (1937).
+28.  Van Vleck, J. H., J. Chem. Physics 3, 807 (1925).
+29.  Ballhausen, C. J., Introduction to Ligand Field Theory, (McGraw-Hill, 1962). This volume
+     is recommended as an excellent survey of the subject, including comparison with
+     experiment.
+30. Pauling, L. and Coryell, C. D., Proc. Nat. Acad. 22, 159 and 210 (1936).
+31. Pauling, L., J. Amer. Chem. Soc. 53, 1367 (1931).
+32. Jahn, H. A. and Teller, E., Proc. Roy. Soc. 161, 220, (1937).
+33. Van Vleck, J. H., J. Chem. Phys. 7, 61 and 72 (1939)
+34. Gorter, C. J., Physica 3, 503 (1936) and other later papers in that journal, also his
+     book “Paramagnetic Relaxation” (Elsevier, 1947).
+35. Waller, I., Zeits. f. Physik, 79, 370 (1932).
+36. Heitler, W. and Teller, E., Proc. Roy. S O C. 155, 629 (1936); Fierz, M., Physica 5,
+     433 (1938), R. de L. Kronig, ibid 6, 33 (1939).
+37. Van Vleck, J. H., Phys. Rev. 57, 426 and 1052 (1940).
+38. Van Vleck, .J. H., Phys. Rev. 59, 724 and 730 (1940).
+39. Giauque, W. F. and Mac Dougall, D. P., Phys. Rev. 43, 768 (1933) 47, 885 (1935);
+     F. Simon p. 763 Nature (1935).
+40. Purcell, E. M. and Hebb, M. H., J. Chem. Physics, 5 338 (1937).
+41. Zachariasen, W. H., J. Chem. Phys. 3, 197 (1935).
+42. Cooke, A. H., Lazenby, R. and Leask, M. J., Proc. Phys. Soc. London 85, 767 (1965).
+43. Erath, E. H., J. Chem. Phys. 34, 1985 (1961).
+44. Maiman, T. H., Nature 187, 493 (1960).
+4.5. Finkelstein, R. and Van Vleck, J. H., J. Chem. Physics 8, 790 (1940); Van Vleck, J. H.,
+     ibid, 8, 787 (1940). These papers relate to chrome alum whereas Maiman used chro-
+     mium embedded in Al2O 3, but the spectroscopic properties of the chromium ion are
+     similar in the two cases, cf. p. 238 of Ballhausen, ref. 29.
+46. See especially Scott, P. L. and Jeffries, C. D., Phys. Rev. 127, 32 (1962), Ruby, R. R.,
+     Benoit, H. and Jeffries, C. D.. ibid 127, 51 (1962).
+47. Purcell, E. M., Torrey, H. C. and Pound, R. V., Phys. Rev. 69, 37 (1946); Bloch, F.,
+     Hansen, W. W. and Packard, M., ibid 69, 127 (1946).
+48. Pake, J. E. and Purcell, E. M., Phys. Rev. 74, 1184 and 7.5, 534 (1948) ; see also ref. 50.
+49. Van Vleck, J. H., Phys. Rev. 74, 1168 (1948).
+50. Bloembergen, N., Purcell, E. M. and Pound, R. V., Phys. Rev. 73, 679 (1948).
+51. Gorter, C. J. and Van Vleck, J. H., Phys. Rev. 72, 1128 (1947); also ref. 49.
+52. For a very complete review of all the different models and their limitations see Herring,
+     C., Vol. IV of Magnetism (edited by Rado, .J. E. and Suhl, H.) Academic Press, 1966.
+53. Stoner. E. C., Phil. Mag. 21, 145 (1936); Proc. Roy. Soc. A 165, 372 (1938); A. 169,
+     339 (1939).
+54. Van Vleck, ,J. H., Rev. Mod. Phys. 25, 220 (1953), also pages 475-484 of Quantum
+     Theory of Atoms, Molecules and the Solid State (edited by P. Lowdin) Academic Press,
+     1966.
+55. For an excellent discussion of the theory of the magnetic ordering in rare earth metals
+     see the chapter by R. J. Elliott in Vol IIa of Magnetism (Edited by Rado, J. E. and Suhl.
+     H), Academic Press, 1966.
+56. Bojorth, R. M., Clark, A. E., and Van Vleck, J. H., Intern. J. Magnetism, 2, 19 (1972).
+

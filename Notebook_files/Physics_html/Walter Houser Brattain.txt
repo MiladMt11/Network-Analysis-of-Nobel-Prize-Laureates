@@ -1,0 +1,315 @@
+                         W A L T E R H. B R A T T A I N
+
+            Surface properties of semiconductors
+                      Nobel Lecture, December 11, 1956
+
+
+
+First let me say that while I am very proud to be one of the recipients of the
+Nobel Award in Physics, I am nevertheless well aware that I am only a repre-
+sentative of many others, without whose work and effort I would not be
+here today. May I mention first my teachers and in particular the late Prof.
+Benjamin H. Brown at Whitman College, who originally inspired me to
+take up physics and who also taught my mother and father. Then there are
+all the many workers in the field of semiconductors on whose shoulders we
+have stood. Finally and more closely connected with our work are all of our
+colleagues at the Bell Telephone Laboratories whose efforts and cooperation
+made our work possible. In particular here I would like to mention R. S.
+Ohl, J. H. Scaff and H. C. Theuerer, whose pioneering work on silicon
+made a new class of semiconductors available to physicists. It was Scaff and
+Theuerer who, as metallurgists, supplied the silicon and germanium with
+which we worked, and Ohl who first discovered a p-n junction in a melt
+of silicon prepared for him by the other two. One needs indeed to be very
+humble about accepting such an award when he thinks how fortunate he
+was to be in the right environment at the right time, to take advantage of
+all that had been done before. Let me here express my gratitude to all of
+these people.
+   I would like to start by emphasizing the importance of surfaces. It is at a
+surface where many of our most interesting and useful phenomena occur.
+We live for example on the surface of a planet. It is at a surface where the
+catalysis of chemical reactions occur. It is essentially at a surface of a plant
+that sunlight is converted to a sugar. In electronics, most if not all active
+circuit elements involve non-equilibrium phenomena occurring at surfaces.
+Much of biology is concerned with reactions at a surface.
+   If surfaces are so important, what do we know about them? What is a
+surface! What properties does a surface have that a physicist can measure?
+Of the various states of matter - solid, liquid, and gaseous - physicists have
+long understood and explained the behavior of gases and are now, thanks to
+quantum mechanics, making considerable progress with simple homoge-
+
+
+378                          1 9 5 6 W. H. B R A T T A I N
+neous solids. Liquids are still quite obscure and surfaces still more so. It was
+Irving Langmuir, a previous Nobel Laureate, who gave us the first model
+of a surface, namely clean tungsten in high vacuum, and who further ex-
+plored some of the simple adsorption phenomena that take place at such a
+surface*. The main physical measurement by which he could characterize
+his surface was the electronic work function or potential jump at the tungsten
+surface and the changes in this potential due to adsorption of various foreign
+atoms or molecules. He could also measure heats of evaporation of these
+components. All this points up the essential properties of a surface, namely:
+(i) it is a boundary across which the concentration of one or more compo-
+nents changes greatly, and (ii) there is a potential jump or energy change
+associated with the surface. In the case of a metal all these phenomena take
+place in a few ångströms, making such a surface difficult to analyze. The
+behavior of a tungsten surface has for some time been a model for the under-
+standing of all surface phenomena. When one comes to some of the dirtier
+and often more interesting surfaces these have been too remote from clean
+tungsten for it to serve well in understanding their behavior.
+   The main point of this story is that now as a result of the progress that has
+been made in the understanding of semiconductors we have another model
+of a surface, namely a p-n junction in a single crystal of a semiconductor
+such as silicon or germanium, and that this model is in a sense at the opposite
+extreme from clean tungsten. It can also be said that most surfaces lie in be-
+tween these two models and either model may be used for understanding the
+multitude of surface phenomena, whichever is best.
+   In particular one can understand the complicated and dirty germanium
+gas surface at least qualitatively in terms of the p-n junction model. Let us
+first consider our p-n junction model. It occurs in one of the simplest, purest
+and now best understood solids. For example a single crystal of germanium,
+its atoms held together by well-understood covalent bonds, serves as a me-
+dium in which electrons and holes can exist in equilibrium. The existence of
+these components depends on the thermal dissociation of valence bonds
+namely
+
+                          (valence bond)      n    p
+
+
+
+* The present author got his start working under J. A. Becker who was one of the
+early contributors and is still actively working in the field of metal surfaces.
+
+
+           SURFACE     PROPERTIES       OF   SEMICONDUCTORS                   379
+The law governing this reaction is the mass action law
+
+
+                                    np = K                                    (1)
+
+where n and p represent the concentration of electrons and holes in equilib-
+rium at a given temperature. The constant K depends primarily on the ab-
+solute temperature (T) and energy (E g) necessary to dissociate a valence
+bond creating a hole electron pair:
+
+
+                             K ~ exp - ( Eg / k T )                           (2)
+
+where k is Boltzmann’s constant. The proportionality constant in this last
+equation can be approximately derived from fundamental physical constants
+and the density of the crystal. The parameter characterizing the semicon-
+ductor is the energy Eg necessary to dissociate a hole electron pair. It is ap-
+proximately three quarters of an electron volt for germanium, one electron
+volt for silicon and ranges in other semiconductors from a few tenths to
+several electron volts.
+   The main point here is that while the product of the equilibrium con-
+centrations is always a constant at a given temperature, the magnitude of
+either concentration can be varied over extreme ranges by solution of impu-
+rities in the semiconductor lattice. Substitional solution of a fifth-column
+element in the lattice of silicon or germanium, as discussed by Shockley in
+the previous lecture, makes n very large and p correspondingly small, the
+product remaining constant. Likewise the solution in the lattice of a third-
+column element makes p large and n small.
+   Consider now a p-n junction, a crystal of germanium, one side of which
+is n-type ( n1 > p1) and the other side p-type (p 2 > n 2). At the contact be-
+tween the two regions we have the situation that n1 must be greater than n2
+and likewise p 2 greater than p 1 since n 1p 1 = n2p 2 = K. Because of this
+concentration difference, electrons will tend to diffuse from 1 to 2 and holes
+from 2 to 1. This will charge region 1 positive and region 2 negative until
+an electric potential difference is built up just sufficient to make the field flow
+balance the diffusion flow. The crystal will then be in equilibrium. This po-
+tential is given by
+
+
+                      =                      =
+
+
+380                        1956 W. H. BRATTAIN
+
+Associated with this potential is a space-charge double layer at the boundary,
+between the two regions. The charge density is related to the potential
+by Poisson’s equation
+
+
+
+
+where is dielectric constant of the medium. The extent of this space-charge
+double layer is large compared to that in a metal. In germanium it has a
+characteristic length of about 1 x 10-4 cm.
+   This is our model of a surface, a phase boundary across which the con-
+centration of the components differ greatly, the associated potential jump,
+ at the surface and the necessary charge double layer. Its properties can
+be studied by changing the concentration of the components on each side
+ of the surface from their equilibrium values. When one does this,
+ that the potential difference across the surface changes in a manner
+ with Eq. (3) and this change in potential can be measured. If p' 1 and n' 2
+ are the non-equilibrium concentrations of holes and electrons on sides 1
+2 then the change in potential is given by
+
+
+
+
+Note that it is the change in concentration of the minority carrier on
+side of the boundary that is controlling factor. Likewise, by changing from
+the equilibrium to the non-equilibrium state, one can measure the flow of
+charge into or out of the sample or the corresponding change in charge.4
+the double layer. By a consideration of rate processes going on at this inter-
+face, one can also write down a current balance equation for this surface.
+
+
+
+
+where Is is the so-called saturation current and is determined by rates of re-
+combination and thermal generation of electrons and holes on both sides
+of the surface. The non-equilibrium condition may be obtained by flow of
+current across the surface, in which case I is this current, or by generation
+of electron hole pairs in the neighborhood of the junction, for example by
+light, in which case I is the rate of generation of pairs by light multiplied by
+
+
+          SURFACE      PROPERTIES      OF   SEMICONDUCTORS                  381
+the electron charge (e). If both means are used then I is the sum of both
+currents. Note that one can eliminate            from Eqs. (5) and (6), getting
+the well-known rectifier equation.
+    We see that the physical properties of this surface which can be measured
+are the changes in potential, changes in concentration occurring at the sur-
+face, and rates of return to equilibrium. These are in general the things one
+can measure for any surface.
+    Let us now consider a germanium surface in a gaseous ambient. By the
+Kelvin method one can measure a contact potential difference between it
+and a reference electrode. Any change in the potential jump at the surface
+ will give a corresponding change in the contact potential. If the equilibrium
+at the surface is upset by shining light on the surface the resulting potential
+change can be measured. This is the surface photo-effect. If the germanium
+is the proper shape, thin and long, one can also measure the photo conduc-
+tivity, and from this deduce the change in minority carrier concentration for
+a given illumination. On a large sample of germanium one can measure the
+lifetime of electrons and holes in the body of the germanium and then, from
+ the transient behavior of the thin sample, the surface rate of recombination
+of holes and electrons. As a result of all these studies, one finds that there is
+in general a space-charge double layer at the germanium surface. It is as if
+ the germanium surface was of a given type, p or n, depending on the nature
+ of the ambient gas and that the germanium interior must be in equilibrium
+ with its surface. All the qualitative phenomena that one would find at a p-n
+junction, if one maintained say side 1 at a given fixed n-type and varied side
+ 2 from p+ to n+, are found at a germanium gas interface. For example in the
+ case of an n-(p+) j unction the photo e.m.f is such to make the n-side more
+ negative. As one changes the p+ side from p+ to just the same degree of n-
+ ness as side 1, the photo e.m.f. goes to zero and when side 2 is made n+
+ the photo e.m.f. changes sign. This e.m.f. is largest in magnitude for n-
+(p+) case. If side 1had been p-type, similar changes would occur when side
+ 2 was varied from p+ to n+ but now the photo e.m.f. is largest for the p-
+ (n+) case. This is also quite an accurate description of the germanium-gas
+ surface. Moreover the magnitude and sign of the photo effects at the ex-
+ tremes can be predicted if one knows the density of holes and electrons, the
+ body lifetime and the surface recombination for the sample in question.
+ Furthermore the experimental results agree with theory.
+    From the above results one would predict that, since the surface of a ger-
+ manium crystal in a gaseous ambient may be of a different type from the
+
+
+382                     1956 W.H.BRATTAIN
+interior, the electrical conductivity of the surface should be different from
+the interior, and, as the surface changes in type, this conductivity should
+change. In a thin-enough sample these changes can be measured. Along with
+the changes in surface type, there must also be a change in the charge double
+layer. One can of course induce such a change in the charge double layer by
+applying an electrical field perpendicular to the surface, and one can measure
+the change in conductivity induced by this field. This is the field effect which
+was predicted by Shockley but which at first one was unable to detect.
+   As a result of measurements of this change of conductivity with field and
+of the other changes at the surface with change in gaseous ambient, it is found
+that there are slow and fast changes at the surface. For example, if one il-
+luminates the surface of germanium suddenly, the contact potential changes
+quickly to a new value, then slowly decays back towards the original value.
+Likewise with the surface conductivity when one suddenly applies the field.
+There are of course changes in the charge double layer at the surface cor-
+responding to the change in surface photo-effect and surface conductivity.
+From these results one gets the concept of slow and fast states at the surface
+wherein this charge resides. The fast states are so to speak in good connection
+with the germanium body and can get into equilibrium or steady state with
+the body very quickly, in a microsecond or less. On the other hand the slow
+states are poorly connected with the interior. It takes seconds or minutes for
+them to adjust to changes induced by light or field. These may not even be
+states at all but changes in adsorption equilibrium or steady state with the
+surrounding gas.
+   The next step is that, from our knowledge of the properties of germanium,
+one can calculate, from the changes in conductivity, the potential difference
+across the space layer from the surface into the interior. One can also cal-
+culate the change in charge in the space-charge layer. As one changes the
+germanium surface from p+ to n +, the conductivity should go through a
+ minimum. If in an experiment one can find this minimum, one knows the
+potential difference across the space-charge layer and, from the change in
+ conductivity from this minimum, one knows the change in this potential.
+ Further, from the field-effect experiment, one can determine the total change
+in charge at the surface, and from the change in conductivity, how much of
+ this change in charge occurred in the space-charge layer. The charge across
+the surface must of course add up to zero when there is no field at the surface.
+If        and     are the charges in the space-charge barrier layer, the fast
+states and the slow states respectively, then
+
+
+          SURFACE      PROPERTIES      OF   SEMICONDUCTORS                 383
+
+
+
+
+In the case of an applied field, the sum of these charges must be equal to the
+field-induced charge. By calculating        and measuring changes in total
+charge under slow and fast conditions one can obtain values for both ∑f and
+      One can also determine the potential change across the space-charge
+layer and the total change in potential across the surface. For this type of
+surface one has the chance of taking the surface apart and measuring the
+individual parts in some detail. What remains to be done is to determine at
+the same time the chemical changes that occur at this surface and to under-
+stand the relation between the physical and chemical changes. When this is
+accomplished - and I think it will be soon - the germanium surface will be
+the most thoroughly understood of all surfaces.
+    As an example of what already has been accomplished if one measures on
+the same surface at the same time certain quantities as a function of gas am-
+ bient, one can deduce the distribution in energy and capture cross-sections
+of the fast states or traps for electrons and holes. These quantities are the
+photoconductivity, the decay lifetime, the change of conductivity with field
+ and the surface photo-effect. From these measurements and a knowledge of
+ the body properties of the germanium sample one can then deduce (i) the
+ change of charge in the fast states with respect to the surface space-charge
+ layer potential difference at zero added carrier concentration, (ii) the change
+ of charge in the fast states with added carrier concentration at constant sur-
+ face potential, and (iii) the surface recombination, all as a function of am-
+ bient gas or surface potential. These quantities all depend on the fast trap
+ distribution in energy and on the surface potential. The second depends also
+ on the ratio of the capture cross section for holes and electrons and the third
+ depends as well on the product of the capture cross sections. The relations
+ are integral equations and not easy to solve in general. One question is
+ whether the trap distribution is discrete or continuous. An examination of
+ all the pertinent data indicates that, at least for energies near the middle of
+ the region between the valence and conduction bands, the distribution of
+ traps in energy is continuous and that it is fixed and independent of gaseous
+ ambient or germanium type, for a given surface treatment. One can calculate
+ approximately the ratio of the cross sections obtaining                 and the
+ product          x         x            givin,         X                 =
+ 10 -17 cm 2. Not only are these values reasonable but they suggest that the
+ fast trap is acceptor-like, that is, negatively charged when occupied by an
+
+
+384                        1 9 5 6 W. H. B R A T T A I N
+
+electron and neutral when empty. The attraction between the hole and the
+negatively charged trap thus explains the larger cross section for hole capture.
+   In conclusion, one can say that the physical nature of the germanium sur-
+face in a gas depends primarily on the surface treatment and the nature of
+the gas, and not on the type, p or n, of the body material. The reaction of
+the surface with the gaseous ambient, in particular the Bardeen-Brattain
+cycle of oxygen and water vapor, is an example of a low-grade catalytic
+reaction. The understanding of such a simple surface will ultimately contrib-
+ute to understanding of other surface phenomena, especially catalysis. It was
+the original attempts to understand surface phenomena of this nature that
+led to the discovery of the transistor effect. Since then many people have
+contributed to the present understanding. Some of these are the work of
+Bardeen and his group at the University of Illinois, Henisch and his group
+ at the University of Reading, Kingston and his co-workers at Lincoln La-
+boratory, Aigrain and Dugas at the École Normale, Many and his group at
+the Hebrew University, Israel, and that of my colleague - Garrett. Equally
+important is the work of Walter Brown on the field effect and, while not
+specifically dealt with here, his earlier work on channel conduction along
+with the similar work of Statz and his group at Raytheon.
+

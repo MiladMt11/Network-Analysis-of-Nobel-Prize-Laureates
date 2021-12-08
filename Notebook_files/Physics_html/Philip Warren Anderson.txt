@@ -1,0 +1,855 @@
+LOCAL MOMENTS AND LOCALIZED STATES
+Nobel Lecture, 8 December, 1977
+by
+PHILIP W. ANDERSON
+Bell Telephone Laboratories, Inc, Murray Hill, New Jersey, and Princeton
+University, Princeton, New Jersey, USA
+
+
+ I was cited for work both. in the field of magnetism and in that of disordered
+systems, and I would like to describe here one development in each held
+which was specifically mentioned in that citation. The two theories I will
+discuss differed sharply in some ways. The theory of local moments in metals
+was, in a sense, easy: it was the condensation into a simple mathematical
+model of ideas which. were very much in the air at the time, and it had rapid
+and permanent acceptance because of its timeliness and its relative simplicity.
+What mathematical difficulty it contained has been almost fully- cleared up
+within the past few years.
+   Localization was a different matter: very few believed it at the time, and
+even fewer saw its importance; among those who failed to fully understand it
+at first was certainly its author. It has yet to receive adequate mathematical
+treatment, and one has to resort to the indignity of numerical simulations to
+settle even the simplest questions about it. Only now, and through primarily
+Sir Nevill Mott’s efforts, is it beginning to gain general acceptance.
+   Yet these two finally successful brainchildren have also much in common:
+first, they flew in the face of the overwhelming ascendancy. at the time of the
+band theory of solids, in emphasizing locality : how a magnetic moment, or an
+eigenstate, could be permanently pinned down in a given region. It is this
+fascination with the local and with the failures, not successes, of band theory,
+which the three of us here seem to have in common. Second, the two ideas
+were born in response to a clear experimental signal which contradicted the
+assumptions of the time; third, they intertwine my work with that of my two
+great colleagues with whom I have been jointly honored; and fourth, both
+subjects are still extremely active in 1977.
+
+I. The “Anderson Model”: Local Moments in Metals
+   To see the source of the essential elements of the model I set up for local
+moments in metals, it will help to present the historical framework. Just two
+years before, I had written a paper on “superexchange” (1) discussing the
+source and the interactions of the moments in insulating magnetic crystals
+such as MnO, CuSO4. 5H2O, etc. I had described these substances as what
+we should now call "Mott insulators" on the insulating side of the Mott
+transition, which unfortunately Sir Nevill says he will not describe. Briefly,
+following a suggestion of Peierls, he developed the idea that these magnetic
+insulating salts were so because to create an ionized electronic excitation would
+require an additional excitation energy U, the energy necessary to change the
+configurations of two distant atoms from d n+ dn to                This energy U
+
+
+                                       P. W. Anderson                                   377
+
+
+
+
+                                                                      extra repulsive
+
+
+
+
+Fig. 1. Mott-Peierls mechanism for magnetic state. State with free pair has extra repulsive
+energy “U” of two electrons on same site.
+
+
+
+
+is essentially the Coulomb repulsive energy between two electrons on the
+same site, and can be quite large (see Fig. 1). To describe such a situation,
+I set up a model Hamiltonian (now called the “Hubbard” Hamiltonian).
+
+
+378                                Physics 1977
+
+
+possible for antiferromagnetism, where the requisite orbital is empty. From
+simple perturbation theory, using this idea,
+
+
+
+
+  where b represents the tendency of electrons to hop from site to site and form
+ a band. (The provenance of (2) is made obvious in Fig. 2.) In fact, I showed
+ later in detail (2) how to explain the known empirical rules describing such
+ interactions, and how to estimate parameters b and U from empirical data.
+    The implications for magnetism in metals - as opposed to insulators - of
+ this on-site Coulomb interaction U were first suggested by Van Vleck and
+ elaborated in Hurwitz’ thesis (3) during the war, and later in a seminal paper
+ which. I heard in 1951, published in 1953 (4). Also, very influential for me
+ was a small conference on magnetism in metals convened at Brasenose College,
+ Oxford, September 1959, by the Oxford-Harwell group, where I presented
+ some very qualitative ideas on how magnetism in the iron group might come
+ about. More important was my first exposure to Friedel’s and Blandin’s
+ ideas on resonant or virtual states (5, 6) at that conference. The essence of
+ Friedel’s ideas were 1) that impurities in metals were often best described not
+by atomic orbitals but by scattering phase shifts for the band electrons, which
+would in many cases be of resonant form; 2) that spins in the case of magnetic
+impurities might be described by spin-dependent scattering phase shifts.
+   Matthias and Suhl, at Bell, were at that time much involved in experiments
+and theory on the effect of magnetic scatterers on superconductivity (7). For
+many rare earth atoms, the decrease in Tc due to adding magnetic impurities
+is clear and very steep; (see Fig. 3a), and even steeper for most transition metal
+impurities. For instance, Fe at the 10 -5 level completely wipes out super-
+conductivity in M O . But in many other cases, e.g., Fe in Ti, a nominally
+magnetic atom had no effect, or raised Tc (as in Fig. 3b). A systematic study
+of the occurrence of moments was carried out by Clogston et al (8). As yet, no
+real thought (except see Ref. (6)) had been given to what a magnetic moment
+in a metal meant: the extensive investigations of Owen et al (9) and of Zim-
+mermann (10), for instance, on Mn in Cu, and the Yosida calculation (11),
+essentially postulated a local atomic spin given by God and called S, con-
+nected to the free electrons by an empirical exchange integral J; precisely
+what we now call the “Kondo Hamiltonian”:
+
+
+
+
+is the local spin density of free electrons at the impurity.
+   The “Anderson model” (12) is the simplest one which provides an electronic
+mechanism for the existence of such a moment. We insert the vital on-site
+exchange term U, and we characterize the impurity atom by an additional
+orbital      with occupancy        and creation operator     over and above
+
+
+                                      P. W. Anderson                                  379
+
+
+
+
+                                  PERCENT TERBIUM
+
+
+
+
+                   Superconducting transition temperatures of iron or
+                     ruthenium solid solutions in titanium.
+
+Fig. 3. Effect of magnetic impurities on T c of a superconductor (a); when nonmagnetic Tc
+goes up (b).
+
+
+where in addition to free electrons and the magnetic term U, we have a
+d -to-k tunneling term V dk representing tunneling through the centrifugal
+barrier which converts the local orbital    into one of Friedel’s resonances.
+The resonance would have a width
+
+
+
+
+                 d RESONANCE
+
+
+
+
+                            r                              k
+
+
+
+Fig. 4. d-Resonance due to tunneling through the centrifugal barrier.
+
+
+
+   A simple Hartree-Fock solution of this Hamiltonian showed that if E d
+is somewhat below E F, and if         <    the resonance will split as shown in
+Fig. 5 (from the original paper). One has two resonances; one for each sign
+of spin, a mostly occupied one below the Fermi level and a mostly empty one
+above. This leads to a pair of equivalent magnetically polarized solutions,
+one for each direction of spin. In these solutions, the local state     is mixed
+into scattered free-electron states: there are no local bound electronic states,
+but there is a local moment. Again, in Hartree-Fock theory, the magnetic
+region is shown in Fig. 6. The parameters could be estimated from chemical
+data or from first principles, and it was very reasonable that Mn or Fe in
+
+
+                                    I? W. Anderson                       381
+
+
+polyelectronic metals should be non-magnetic as was observed, but magnetic
+in, for instance, Cu.
+
+
+
+
+Fig. 5. Spin-split
+
+
+
+
+Fig. 6. Magnetic region of parameter space in the “Anderson Model”.
+
+
+  This seems and is a delightfully simple explanation of a simple effect. The
+mathematics is shamelessly elaborated (or simplified) from nuclear physics
+(Friedel’s improvements on Wigner’s theory of resonances) and similar things
+occur in nuclear physics called “analog resonances”. Nonetheless, it has led
+to an extraordinary and still active ramification of interesting physics.
+   Before discussing some of these branchings, let me say a bit about the
+model’s simplicity, which is to an extent more apparent than real. The art of
+
+
+ 382                                Physics 1977
+
+
+   model-building is the exclusion of real but irrelevant parts of the problem, and
+   entails hazards for the builder and the reader. The builder may leave out
+   something genuinely relevant; the reader, armed with too sophisticated an
+   experimental probe or too accurate a computation, may take literally a sche-
+  matized model whose main aim is to be a demonstration of possibility. In this
+  case, I have left out (1) the crystal structure and in fact the atomic nature of
+  the background metal, which is mostly irrelevant indeed. (2) The degeneracy
+  of the d level, which leads to some important physics explored in an Appendix
+  of the paper and later and much better by Caroli and Blandin (14). In the
+  Appendix I showed that if the resonance was sufficiently broad compared to
+  other internal interactions of the electrons in the d orbitals, the different d
+  orbitals would be equally occupied as is usually observed for transition metal
+  impurities; in the opposite case the orbital degrees of freedom will be “un-
+  quenched”, as is almost always the case for rare earth atoms. (3) Left out are
+  all correlation effects except U; this relies on the basic “Fermi liquid” idea
+  that metallic electrons behave as if free, but detaches all parameters from
+ their values calculated naively: they are renormalized, not “bare” parameters.
+ This is the biggest trap for the unwary, and relies heavily on certain funda-
+ mental ideas of Friedel on scattering phase shifts and Landau on Fermi
+ liquids. I have also left out a number of real possibilities some of which we
+ will soon explore.
+     One of my strongest stylistic prejudices in science is that many of the facts
+ Nature confronts us with are so implausible given the simplicities of non-
+ relativistic quantum mechanics and statistical mechanics, that the mere
+ demonstration of a reasonable mechanism leaves no doubt of the correct
+ explanation. This is so especially if it also correctly predicts unexpected facts
+ such as the correlation of the existence of moment with low density of states,
+ the quenching of orbital moment for all d -level impurities as just described,
+ and the reversed free-electron exchange polarization which we shall soon
+discuss. Very often such, a simplified model throws more light on the real
+workings of nature than any number of “ab initio” calculations of individual
+situations, which even where correct often contain so much detail as to conceal
+rather than reveal reality. It can be a disadvantage rather than an advantage
+to be able to compute or to measure too accurately, since often what one
+measures or computes is irrelevant in terms of mechanism. After all, the perfect
+computation simply reproduces Nature, does not explain her.
+    To return to the question of further developments from the model : I should
+like to have had space to lead you along several of them. Unfortunately, I shall
+not, and instead, I shall show you a Table of the main lines, and then follow
+one far enough to show you an equation and a picture from the recent literature.
+     The one of these lines I would like to take time to follow out a bit is the
+ “model” aspect I. This started as a very physical question: what is the sign
+ and magnitude of the spin-free electron interaction? Already in ‘59 before
+ the model appeared, I made at the Oxford Discussion a notorious bet of one
+ pound with (now Sir) Walter Marshall that the free-electron polarization
+ caused by the spins in metals would be negative, for much the same reason as in
+
+
+                                      P. W. Anderson                                  383
+
+
+Table 1 : Ramifications of the Anderson Model
+
+I.     AM as an exact field-theoretic model-see text:
+       a) AM = Kondo; Anderson, Clogston, Wolff, Schrieffer
+       b) Fundamental difficulties of both: Alexander, Schrieffer, Kondo, Suhl, Nagaoka,
+          Abrikosov
+       c) Solution of Kondo: PWA, Yuval, Hamann, Yosida, Wilson, Nozieres, etc.
+       d) Solution of AM: Hamann, Wilson, Krishna-Murthy, Wilkins, Haldane, Yoshida,
+          etc.
+II.    “Microcosmic” view of magnetism in metals; interacting AM’s and rules for alloy
+         exchange interactions, Alexander, PWA (15), Moriya (16)
+III.   Applications to Other Systems
+       a) Adatoms and molecules on surfaces, Grimley (17), Newns (18), etc.
+       b) Magnetic impurities in semiconductors, Haldane (19)
+       c) With screening+phonons, - U: mixed valence, surface centers, etc., Haldane (20)
+          The sky seems to be the limit.
+
+superexchange: the occupied spin state below the Fermi level is repulsive, that
+above is attractive because it can be occupied by the free electrons of the same
+spin. Clogston and I published this for the Anderson model (21). This was
+formalized by Peter Wolff, and published later with. Schrieffer (22), into a
+perturbative equivalence of “Kondo” and “Anderson” models with the
+exchange integral      of (3) being
+
+
+
+
+   Soon, however, it came to be realized that neither Kondo nor Anderson
+models behaved reasonably at low temperatures (Kondo (23), Suhl (24),
+Schrieffer (25), etc.), but exhibited nasty divergences at low temperatures
+which seemed to signal disappearance of the local moment. The best physical
+description of what happens (for a more extensive review for nonspecialists
+perhaps my series of papers in Comments on Solid State Physics will suffice)
+is that at high temperatures or on high energy (short time) scales, the Hartree-
+Fock theory given above is correct, and there is a free spin. But as the energy
+scale is lowered, the effective antiferromagnetic coupling between this spin
+and the free-electron gas “bootstraps” itself up to a very large value, eventually
+becoming strong enough to bind an antiparallel electron to it and become
+non-magnetic. This is a very precise analog of the process of continuous
+“confinement” of the color degrees of freedom of modern quark theories (26)
+and is a delightful example of the continuing flow of ideas and techniques
+back and forth between many-body physics and quantum field theory.
+   In the past few years extensive investigations via renormalization group
+theory (which, in a nearly modern form, was first applied to this problem (27))
+have led to the essential solution of this “Kondo problem”. A very succinct
+way of describing that solution is the computation of the scaling of the suscep-
+tibility as a function of temperature by Wilson (28) (Fig. 7). For comparison,
+and to show the remarkable precision of the Schrieffer-Wolff transformation,
+
+
+384                                   Physics 1977
+
+
+
+
+Fig. 7. Susceptibility of the Kondo Model as calculated by Wilson.
+
+
+
+
+Fig. 8. Susceptibility of the “Anderson Model” showing equivalence to Kondo.
+(from Krishna-Murthy et al (29))
+
+
+
+
+we give as the last figure of this subject Krishna-Murthys’ corresponding cal-
+culation (29) for the Anderson model (Fig. 8) and one equation: Haldane’s
+precise equivalencing of the parameters of the two models, from his thesis (20) :
+
+
+
+
+which may be used to find the properties of one model from the other: e.g.,
+
+
+
+
+   I am indebted to a London Times article about Idi Amin for learning that
+in Swahili “Kondoism” means “robbery with violence.” This is not a bad
+description of this mathematical wilderness of models; H. Suhl has been heard
+to say that no Hamiltonian so incredibly simple has ever previously done such
+violence to the literature and to national science budgets.
+
+
+                                      P. W. Anderson                                   385
+
+
+II. The Origins of Localization Theory
+   In early 1956, a new theoretical department was organized at the Bell
+Laboratories, primarily by P. A. Wolff, C. Herring and myself. Our charter
+was unusual in an industrial laboratory at the time: we were to operate in an
+academic mode, with postdoctoral fellows, informal and democratic leader-
+ship, and with an active visitor program, and that first summer we were
+fortunate in having a large group of visitors of whom two of those germane to
+this story were David Pines and Elihu Abrahams.*
+   The three of us took as our subject magnetic relaxation effects in the beautiful
+series of paramagnetic resonance experiments on donors in Si begun by Bob
+Fletcher and then being carried on by George Feher. Feher was studying
+(primarily) paramagnetic resonance at liquid He temperatures of the system
+of donor impurities (e.g., P, As, etc.) in very pure Si, in the concentration
+range 1 015-10 18 impurities/cc encompassing the point of “impurity band”
+formation around 6 x 1 017. At such temperatures most of the donors were
+neutral (except those emptied by compensating “acceptor” impurities such
+as B, Al or Ga), having four valences occupied by bonds, leaving a hydrogenic
+orbital for the last electron which, because of dielectric screening and effective
+mass, has an effective Bohr radius of order 20 Å (Fig. 9). The free spin of
+
+
+
+
+Fig. 9. Donor wave functions in Si and Si nuclei: schematic.
+                                           29
+
+
+
+
+* It may be of interest to note that theorists permanently or temporarily employed at Bell
+Labs that summer were at least the following: a) ( permanent or semipermanent) P. W.
+Anderson, C. Herring, M. Lax, H. W. Lewis, G. H. Wannier, P. A. Wolff, J. C. Phillips;
+b) (temporary) E. Abrahams, K. Huang, J. M. Luttinger, W. Kohn, D. Pines, J. R. Schrief-
+fer, P. Nozieres; c) (permanent but not in theory group) : L. R. Walker. H. Suhl, W. Shock-
+ley.
+
+
+586                                   Physics 1977
+
+
+
+
+Fig. 10. a) Hyperfine structures of donor EPR at increasing donor (P) concentrations
+the Mott-Anderson metal-insulator transition. b) Example of well-developed cluster lines.
+
+
+                                    P. W. Anderson                              387
+
+
+this extra donor orbital has a hyperfine interaction with the donor nucleus
+(31P or As, for instance) leading to the clean hfs (30) shown in Fig. 10. In addi-
+tion, isotopic substitution proved that most of the residual breadth of the lines is
+also caused by hfs interactions, of the very extended electronic orbital with the
+random atmosphere of ~ 5 % of Si 29 nuclei in natural Si, and for reasonably
+low donor densities of ~ 10 /cc the actual spin-spin and spin-lattice relaxation
+                              16
+
+
+
+times were many seconds. That is, the lines were “inhomogeneously broad-
+ened”, so that many very detailed experimental techniques were available.
+Feher and Fletcher (31) had already probed what we would now call the
+Mott-Anderson transition in these materials (Fig. 10a) . As the concentration
+was raised, first lines with fractional hfs appeared, signifying clusters of 2, 3,
+4, or more spins in which the exchange integrals between donors overweighed
+the hf splitting and the electron spins saw fractionally each of the donor
+nuclei in the cluster. (A good example is shown in Fig. 10b.) Finally, at
+ ~ 6 x 1017, came a sudden transition to a homogeneously broadened free-
+electron line: the electrons went into an “impurity band” at that point.
+Pines, Bardeen and Slichter (33) had d eveloped a theory of spin-lattice re-
+laxation for donors, and it was our naive expectation that we would soon learn
+how to apply this to Feher’s results. In fact, no theoretical discussion of the
+relaxation phenomena observed by Feher was ever forthcoming, only a de-
+scription of the experiments (34). What the three of us soon realized was that
+we were confronted with a most complex situation little of which we under-
+stood. In particular, we could not understand at all the mere fact of the
+extremely sharp and well-defined “spin-packets” evinced by such experiments
+as “hole digging” and later the beautiful “ENDOR” effect (32, 34). (In the
+ENDOR experiment Feher would select a spin packet by saturating the line
+at a specific frequency (“digging a hole”, Fig. 1 la) and monitor the nmr
+frequencies of 29Si nuclei in contact with packet spins by exciting with the
+appropriate radio frequency and watching the desaturation of the packet
+(Fig. 1 lb). In this figure, the many seconds recovery time after passing the
+ENDOR line is actually an underestimate of the packet T2 because the system
+is driven.) Thus every individual P electron had its own frequency and kept
+it for seconds or minutes at a time.
+   We assumed from the start the basic ideas of Mott with regard to actual
+electron motion: that since there were few compensating acceptors, Coulomb
+repulsion kept most of the donors singly-occupied leaving us with the para-
+magnetic spin system we observed. W. Kohn seems to have suggested that
+even the empty donors would be pinned down by staying close to their com-
+pensating negatively charged acceptors because of Coulomb attraction (see
+Fig. 12). Thus there was little actual electron motion, and we noticed only some
+speeding up of the relaxation times as we approached what now would be
+called the “Mott-Anderson” transition. Stretching our gullibility a bit, we
+could believe that nothing spectacular was necessarily required to prevent
+mobility of the actual charged electron excitations. (It was, however, at this
+time that I suggested to Geballe the study of dielectric relaxation in these
+materials to probe this motion, which led to the discovery of the now well-
+
+
+388         Physics 1977
+
+
+
+
+      3.0   2.8            2.6   2.4
+
+
+                                        P. W. Anderson                      389
+
+
+
+
+Fig. 12. Hypothetical binding of charged donors to acceptors.
+
+
+known Pollak-Geballe              conductivity (34). I felt that the absence of
+conduction in the impurity band was also a serious question, in this as in many
+other systems.)
+   No arguments using Coulomb interaction saved us from a second dilemma:
+the absence of spin diffusion. Bloembergen, in 1949 (36), had proposed the
+idea of spin diffusion in nuclear spin systems, which has since had much
+experimental verification. His idea was that the dipolar interactions caused
+mutual precessions which, in the high temperature paramagnetic state of a
+spin system, could by diffusion equilibrate the spin temperature in space,
+thereby giving a means - for example - for nuclear spins to relax by diffusing
+to the neighborhood of an electronic spin impurity. To calculate the process
+he used a simple estimate from the Golden Rule plus random walk theory.
+   Portis (37), in 1953, introduced the idea of random “inhomogeneous broad-
+ening” where complete equilibration within a spectral line is impeded, and
+instead one speaks of “spin packets” of spins having a definite resonance
+frequency within the line (Fig. 13). (Such packets are spatially random, of
+
+
+
+
+Fig. 13. “Spin packets” and spectral diffusion.
+
+
+390                                  Physics 1977
+
+
+course; in macroscopically inhomogeneous systems the same phenomena had
+been seen much earlier.) Portis estimated that if the interaction of neighboring
+spins was     the lifetime of a spin packet (38) should be of order
+
+
+
+
+W being the width of the line and         the number of neighbors: this is app-
+arently obvious by the Golden Rule. But when Elihu Abrahams estimated
+for our system, he found that according to (8), τ should have varied from
+.1 to 10-6 s, whereas Feher’s spin packets stayed saturated for 10-100 s in a
+typical ENDOR experiment. His estimates were checked by the “cluster”
+phenomenon of Fig. 10.
+   I find in my notes a reference on 6/20/56 to a discussion with Pines where I
+suggested an “All or Nothing” theorem to explain this. Later, on 10/31/56,
+comes an optimistically claimed “proof” of “Anderson’s Theorem”, much
+like an unsophisticated version of my final paper which even so is hardly a
+“proof” ; such. does not yet really exist. I also seem to have spoken to an un-
+interested audience at the Seattle International Theoretical Physics Sym-
+posium. But the actual work was not completed until shortly before I talked
+about it to much the same group of residents and visitors on July 10th. and
+17th, 1957. By that time, I had clearly been a nuisance to everyone with
+“my” theorem: Peter Wolff had given me a short course in perturbation theory,
+Conyers Herring had found useful preprints from Broadbent and Hammersley
+on the new subject of percolation theory, Larry Walker had made a suggestion
+and Gregory Wannier posed a vital question, etc. But my recollection is that,
+on the whole, the attitude was one of humoring me.
+   Let me now give you the basics of the argument I then presented (39) but
+ in much more modern terminology (the mathematics is the same, essentially).
+ I don’t think this is the only or final way to do it; a discussion which is more
+ useful in many ways, for instance, can be based on Mott’s idea of minimum
+ metallic conductivity as used by Thouless and co-workers and as he will
+ touch upon; but I think this way brings out the essential nature of this sur-
+prising nonergodic behavior most clearly. I apologize for this brief excursion
+ into mathematics, but please be assured that I include the least amount
+ possible.
+   The first problem was to create a model which contained only essentials.
+ This was simple enough: a linearized, random “tight-binding” model of
+ non-interacting particles:
+
+
+
+in which the “hopping” integrals              were taken to be nonrandom functions
+of    (the sites i can sit on a lattice if we like) but E i was chosen from a random
+probability distribution of width W (Fig. 14). The objects          could be harmonic
+oscillator (phonon) coodinates, electron operators, or spinors for which
+          and we neglect the               interactions of the spin flips. The essential
+thing is that (9) leads to the linear equation of motion
+
+
+                                       P. W. Anderson                       391
+
+
+
+
+Fig. 14. Model for diffusion in a random lattice
+a) sites and hopping integrals
+b) probability distribution of Ei
+
+
+
+                                                                           (10)
+
+If W is zero and all E i the same (say 0), (10) describes a band of Bloch states
+of width about            For W       = V, the theories of transport recently
+developed by Van Hove and Luttinger (40) clearly would describe resistive
+impurity scattering of free waves (say, electrons, for simplicity). If, on the
+other hand, W      V, that would describe our system of local hf fields large
+compared to        or of random Coulomb and strain energies large compared
+to the hopping integrals for the electrons from donor to donor.
+   What is clearly called for is to use W as a perturbation in the one case,
+and      in the other; but what is not so obvious is that the behavior of per-
+turbation theory is absolutely different in the two cases. For definiteness, let
+us talk in terms of the “resolvent” or “Greenian” operator which describes
+all the exact wavefunctions      and their energies
+
+
+
+
+where the      and E a are the exact eigenfunctions of the Hamiltonian (9).
+In the conventional, “transport” case, we start our perturbation theory with
+plane-wave-like states
+
+
+
+
+with energy
+
+
+392                                   Physics 1977
+
+
+
+
+which we assume are only weakly perturbed by the scattering caused by
+randomly fluctuating E i’s. The E k’s are a continuum in the limit of a large
+system and we take advantage of this to rearrange perturbation theory and get
+
+
+
+
+where      the “self-energy”, is itself a perturbation series (Fig. 15a)
+
+
+
+
+Fig. 15. a) Self-energy diagrams in conventional “propagator” theory.
+         b) Self-energy diagrams in “locator” theory.
+
+
+
+
+which, since Ek is a continuum, has a finite imaginary part as E approaches
+the real axis
+
+                                                                           (14)
+
+
+Note that Vkk' in this case comes from the width “W” not V ij.)
+  This equation means that Ek has a finite width. in energy, and ImG, the
+density of states, is a finite, continuous function of E (Fig. 16).
+
+
+                                          P. W. Anderson                                393
+
+
+
+
+Fig. 16. a) Im Gii in extended case
+         b) Im Gii in localized case
+
+
+            1
+of order         forming in the limit             0 a true continuum of states of every
+
+energy at site i. Of course, there are sum rules stating that every state is
+somewhere and that no states get lost:
+
+
+
+
+and these are satisfied by                   where    is the total number both
+of a’s and i’s.
+   My contribution was just to show that this is not the only possible case,
+other than just an empty band of energies, or a set of discrete states as one
+may have near a single attractive potential like a hydrogen atom. What I
+showed is that one may have a continuum in energy but not in space. This is
+immediately made plausible just by doing perturbation theory in the opposite
+order.
+   In this case one takes E i as the big term, and the starting eigenfunctions
+and eigen-energies are just
+
+                                                                                       (18)
+and V ij is the perturbation. In this case, (which Larry Walker suggested I
+call “cisport”) we use a “locator” instead of a “propagator” series, for the
+“locator” G ii not the “propagator” G kk :
+
+
+
+
+where now the self-energy              is a superficially similar series to (13) (Fig. 15b)
+
+
+394                                 Physics 1977
+
+
+
+                                                                                (20)
+
+  If at this point we make one tiny mistake, we immediately arrive back at
+Portis’ answer (8) : namely if we average in any way, we get
+
+
+                                                                                (21)
+
+But there is a very important fundamental truth about random systems we
+must always keep in mind : no real atom is an average atom, nor is an experiment ever
+done on an ensemble of samples . What we really need to know is the probability
+distribution of        not its average, because it’s only each specific instance we
+are interested in. I would like to emphasize that this is the important, and
+deeply new, step taken here: the willingness to deal with distributions, n o t
+averages. Most of the recent progress in the fundamental physics of amorphous
+materials involves this same kind of step, which implies that a random system
+is to be treated not as just a dirty regular one, but in a fundamentally different
+way.
+   Having taken this point of view, it is sufficient to study only the first term
+of (20), it turns out. Let us first pick a finite s, and then take the limit as s  o.
+With a finite s,
+
+
+
+
+  The condition that E j appear as a peak of Im        is         be within s of E ,
+
+and that V ij > s. To assess the probability that V ij is large enough, use the
+physically realistic assumption of exponential wavefunctions:
+
+
+
+
+In the energy interval of size s, there will be ns/ W energies E j per unit volume
+    is the site density per unit volume), while V > s implies
+
+
+
+
+and the probability that both V > s and E - Ej < s i s
+
+
+
+
+It is easy to formalize this: one may show that the probability distribution of
+      is essentially
+
+
+                                                                                (22)
+
+
+                                       P. W. Anderson                            395
+
+
+ which indeed has a divergent average as it should, but is finite nonetheless,
+ so that             and there is not a finite cut at the real axis.
+    When we stop and think about what this means, it turns out to be very
+ simple. It is just that we satisfy the sum rules (17) not by each            being
+ infinitesimal, but by a discrete series of finite values: the biggest   is of order
+  1, the next of order l/2, etc., etc., (see Fig. 16b). Thus, ImG ii is a sum of a
+ discrete infinite series of &functions with convergent coefficients. This is the
+ localized case.
+    That is more than enough mathematics, and is all that we will need. The
+ rest boils down simply to the question of when this lowest-order treatment is
+justified, and how it breaks down.
+    The bulk of the original paper was concerned with how to deal with the
+ higher terms of the series and show that they don’t change things qualitatively :
+ what they do, actually, is just to renormalize Vij and the Ej’s so that even if V ij
+ is short-range initially, it becomes effectively exponential; and, of course,
+ the V ij’s broaden the spectrum. If this is the case, one then realizes that the
+ extended case can only occur because of a breakdown of perturbation theory.
+This comes about as the higher terms of perturbation theory “renormalize”
+ V(R j) and stretch it out to longer and longer range, so that the exponentially
+localized function become less so and finally one reaches a “mobility edge”
+or “Anderson transition”.
+    Here we begin to tie in to some of the ideas which Professor Mott will
+describe. First, it is evident that the self-energy series is a function of E-i.e.,
+of where we are on the real energy axis - so it will cease to converge first at
+one particular energy E, the “mobility edge.” For a given model, it is reason-
+able - in fact usual - to have the localized case for some energies, the extended
+one for others, separated by a “mobility edge”. The significance of this fact
+was realized by Mott.
+
+
+
+
+Fig. 17. “Cayley Tree” on which localization theory is exact.
+
+
+396                                  Physics 1977
+
+
+
+
+Fig. 18. Computer demonstration of localization (courtesy of Yoshino and Okazaki).
+a) W/V = 5.5
+b) W/V = 8.0
+
+
+
+
+   The actual calculation of this divergence or “Anderson transition” was
+carried out by me using conservative approximations in the original paper,
+but it was only much later realized (41) that that calculation was exact on a
+“Cayley tree” or Bethe Lattice (Fig. 17). Much earlier, Borland (42) and Mott
+and Twose (43) had shown that localization always occurs in one dimension
+(also a Cayley tree case, with K = 1). Since it is easy to convince oneself that
+the Cayley tree is a lattice of infinite dimensionality d (though finite neighbor
+number) it is likely that delocalization first occurs at some lower critical
+dimensionality d c, which we now suspect to be 2, from Thouless’ scaling
+theory (44). This dimensionality argument (or equivalent ones of Thouless)
+first put to rest my earliest worry that my diagram approximations were
+inexact : in fact, they under estimate localization, rather than otherwise. A
+second reason why I felt discouraged in the early days was that I couldn’t
+fathom how to reinsert interactions, and was afraid they, too, would de-
+localize. The realization that, of course, the Mott insulator localizes without
+randomness, because of interactions, was my liberation on this: one can see
+easily that the Mott and Anderson effects supplement, not destroy, each other,
+as I noted in some remarks on the “Fermi Glass” (45) which more or less
+marked my re-entry into this problem. The present excitement of the field
+
+
+                                         P. W. Anderson                         397
+
+
+ for me is that I feel a theory of localization with interactions is beginning to
+ appear, in work within my group as well as what Professor Mott will describe.
+ It is remarkable that in almost all cases interactions play a vital role, yet many
+ results are not changed too seriously by them.
+    I will close, then, and leave the story to be completed by Professor Mott.
+ I would like, however, to add two things: first, a set of figures of a beautiful
+ computer simulation by Yoshino and Okazaki (46), which should convince
+ the most skeptical that localization does occur. The change in W between
+ these two figures is a factor 1.5, which changed the amplitudes of a typical
+ wave function as you see, from extended to extraordinarily well localized.
+ (see Fig. 18).
+    Finally, you will have noted that we have gone to extraordinary lengths
+just to make our magnetic moments - in the one case - or our electrons - in
+ the other - stay in one place. This is a situation which was foreshadowed
+ in the works of an eminent 19th century mathematician named Dodson, as
+ shown in the last figure (Fig. 19). “Now here, you see, it takes all the running
+you can do, to keep in the same place.”
+
+
+
+
+ Fig. 19. Efforts to avoid localization (Dodson).
+
+
+398                                      Physics 1977
+
+
+REFERENCES
+
+ 1.   Anderson, P. W., Phys. Rev. 115, 2 (1959).
+ 2.   Anderson, P. W., Solid State Phys. (F. Seitz and Turnbull, D., eds.) 14, 99 (1963).
+ 3.   Hurwitz, H., unpublished doctoral thesis, Harvard, 1941.
+ 4.   van Vleck, J. H., Rev. Mod. Phys. 25, 220 (1953).
+ 5.   Friedel, J., Can. J. Phys. 34, 1190 (1956); Suppl. Nuovo Cim. VII, 287 (1958).
+ 6.   Blandin, A. and Friedel, J., J. Phys. Radium. 20, 160 (1959).
+ 7.   Suhl, H. and Matthias, B. T., Phys. Rev. 114, 977 (1959).
+ 8.   Clogston, A. M., Matthias, B. T., Peter, M., Williams, H. J., Corenzwit, F. and Sher-
+      wood, R. C., Phys. Rev. 125, 541 (1962).
+ 9.   Owen, J., Browne, M., Knight, W. D. and Kittel, C., Phys. Rev. 102, 1501 (1956).
+10.   Crane, L. T. and Zimmerman, J. E., Phys. Rev. 123, 113 (1961).
+11.   Yosida, K., Phys. Rev. 106, 893 (1957).
+12.   Anderson, P. W., Phys. Rev. 124, 41 (1961).
+13.   Anderson, P. W. and McMillan, W. L., Proc. Varenna School of Physics XXXVII
+      (1966), p. 50, Academic Press, N.Y. 1967.
+14.   Caroli, B. and Blandin, A., J. Phys. Chem. Solids 27, 503 (1966).
+15.   Alexander, S. and Anderson, P. W., Phys. Rev. 133, Al594 (1964).
+16.   Moriya, T., Proc. Varenna School XXXVII (1966), p. 206, Academic Press, N.Y. 1967.
+17.   Grimley, T. B., Proc. Phys. Soc. (Lond.) 90, 757; 92, 776 (1967). See also A. J. Bennett
+      and L. M. Falicov, Phys. Rev. 151, 512 (1966).
+18.   Newns, D. M., Phys. Rev. 178, 1123 (1969).
+19.   Haldane, F. D. M. and Anderson, P. W., Phys. Rev. 813, 2553 (1976).
+20.   Haldane, F. D. M., Thesis (Cambridge 1977).
+21.   Anderson, P. W. and Clogston, A. M., Bull. Amer. Phys. Soc. 6, 124 (1961).
+22.   Schrieffer, J. R. and Wolff, P. A., Phys. Rev. 149, 491 (1966).
+23.   Kondo, J., Prog. Theor. Phys. 32, 37 (1964).
+24.   Suhl, H., Phys. Rev. 138, A515 (1965); Abrikosov, A. A., Physics 2, 21 (1965).
+25.   Schrieffer. J. R. and Mattis, D. C., Phys. Rev. 140, A1412 (1965).
+26.   Anderson, P. W., Proc. Conf. on Gauge Theories, pg. 311, Northeastern Univ., Arno-
+      witt and Nath, eds., MIT Press, 1976.
+27.   Anderson, P. W., Yuval, G. and Hamann, D. R., Phys. Rev. B1. 4464 (1970).
+28.   Wilson, K. G., Revs. Mod. Phys. 47, 773 (1975).
+29.   Krishna-Murthy, H. R., Wilkins, J. W., Wilson, K. G., Phys. Rev. Lett. 35, 1101 (1975).
+30.   Fletcher. R. C.. Yager, W. A., Holden, A. N., Read, W. T., Merritt, F. R.: Phys. Rev.
+      94, 1392 (1954).
+31.   Feher, G., Fletcher, R. C. and Gere, E. A., Phys. Rev. 100, 1784 (1955).
+32.   Feher, G., Phys. Rev. 114, 1219 (1959).
+33.   Pines, D., Bardeen, J. and Slichter, C. P., Phys. Rev. 106. 489 (1957). Also see E.
+      Abrahams, Phys. Rev. 107, 491 (1957).
+34.   Feher, G. and Gere, E. A., Phys. Rev. 114, 1245 (1959).
+35.   Pollak, M. and Geballe, T. H., Phys. Rev. 122, 1742 (1961).
+36.   Bloembergen, N. Physica 15, 386 (1949).
+37.   Portis, A. M., Phys. Rev. 91, 1071 (1953).
+38.   Portis, A. M., Phys. Rev. 104, 584 (1956).
+39.   Anderson, P. W., Phys. Rev. 109, 1492 (1958).
+40.   For example, Kohn, W. and Luttinger, J. M., Phys. Rev. 108, 590 (1957).
+41.   Anderson, P. W., Abou-Chacra, R. and Thouless, D. J., J. Phys. C. 6, 1734 (1973).
+42.   Borland, R. E., Proc. Roy. Soc. A 274, 529-45 (1963).
+43.   Mott, N. F. and Twose, W. D., Adv. Phys. 10, 107-63 (1961).
+44.   Licciardello, D. C. and Thouless, D. J., Phys. Rev. Lett. 35, 1475-8 (1975).
+45.   Anderson, P. W., Comments in Solid State Physics 2, 193 (1970).
+46.   Yoshino, S. and Okazaki, M., J. Phys. Soc. Japan 43, 415-423 (1977).
+

@@ -1,0 +1,1635 @@
+                                                      Michael Rosbash Lecture   365
+
+
+
+
+Circadian Rhythms and the
+Transcriptional Feedback
+Loop
+Nobel Lecture, 7 December 2017 by
+Michael Rosbash
+Howard Hughes Medical Institute, Brandeis University,
+Waltham, MA, USA.
+
+
+INTRODUCTION
+Circadian clocks undoubtedly arose in response to the daily changes in
+illumination that are due to the rotation of the earth. Indeed, sunrise and
+sunset are very consistent external events, if we ignore the slight change
+in timing that usually occurs every day. Although this change can be sub-
+stantial at some times and in some locations, in March near the north and
+south poles for example, life and biological clocks probably evolved in
+more temperate zones.
+    Clocks function to allow organisms to anticipate daily changes in their
+environment. When something happens every day at the same time,
+organisms “learn” that the event will occur. This anticipation, preparing
+for what is going to happen, is a superior strategy to merely reacting to
+that change. Animals use their clocks to maximize or minimize their
+encounters with what I like to call the big 3: finding food, finding mates,
+and avoiding predators.
+    Clocks may also serve to provide order to internal processes. The tem-
+poral separation of different biochemical reactions is an example and may
+
+
+366   THE NOBEL PRIZES
+
+
+      provide an additional fitness advantage. These inexorable rhythms, due to
+      the persistent ticking of a biological clock in our brains and in many if not
+      most other tissues, serve to coordinate myriad features of our behavior,
+      metabolism and physiology – even our sleep-wake cycle (Hardin and
+      Panda, 2013).
+          Circadian rhythms are present in most if not all animals, plants, and
+      some species of fungi like Neurospora. Even some photosynthetic bacte-
+      rial species like cyanobacteria have well-studied circadian clocks (Kondo
+      et al., 1993). Indeed, the first circadian clock may have belonged to photo-
+      synthetic cyanobacteria, which are probably responsible for oxygenation
+      of the atmosphere. These cyanobacterial clocks as well as plant clocks are
+      very different from those of animals, with no credible homology between
+      the different clock proteins. Therefore circadian rhythms probably
+      emerged multiple times in evolution, which underscores their importance
+      (Rosbash, 2009).
+          The rotation of the earth on its axis is a source of daily light and temper-
+      ature cycles in most locations on earth. These daily cycles are considered
+      the oldest and most continuous environmental features to which life was
+      originally exposed. Even the self-replicating molecules of the original RNA
+      world that preceded cellular life probably arose in the presence of light-
+      dark and temperature cycles, well before the atmosphere was anything like
+      it is today. The rotation of the earth was also perhaps 20 percent shorter
+      four billion years ago than it is today, which may help explain why circadian
+      clocks are not precise twenty-four-hour timekeepers (Rosbash, 2009).
+          The fact that endogenous circadian rhythms have periods distinct from
+      precisely 24hr is a key piece of evidence that the rhythms are entrained
+      rather than driven by the solar cycle. It is generally acknowledged that the
+      first person to recognize that circadian rhythms are not driven was an
+      eighteenth-century French astronomer named de Mairan. He had been
+      musing about the movements of plants, which famously extend their
+      leaves during the daytime and retract them at night. It was assumed that
+      this daily leaf movement rhythm is light-driven, but de Mairan tested this
+      hypothesis in 1729. To perform this first “free-running” circadian experi-
+      ment in the absence of a light-dark cycle or entraining cues, he took a
+      plant down to the basement, probably his wine cellar. In principle, it had
+      constant conditions, i.e., no daily variations in light. Miraculously, the leaf
+      movements continued unabated on a circa twenty-four-hour schedule,
+      indicating that they were driven by an endogenous circadian clock rather
+      than by light (Daan, 2010).
+          Importantly however, de Mairan did not carefully measure the
+      free-running period of the leaf movements, nor did other scientists
+      addressing this problem for decades thereafter. Although there were no
+      light fluctuations in the basement during the experiment, other oscillating
+
+
+                                                      Michael Rosbash Lecture   367
+
+
+stimuli were not measured or considered, e.g., humidity, temperature etc.
+Because the world lives on a 24hr schedule, any human interference could
+provoke an environmental oscillation of 24hr and drive the plant
+rhythms. Neither de Mairan nor other plant scientists who followed him
+considered that the key was not only the absence of light but also a care-
+ful measurement of non-24hr period length. Although a 24hr period could
+reflect an endogenous timekeeper with that precise period, it could also
+reflect a driven oscillator, one that requires external 24hr oscillations of
+some kind. A non-24hr period however must reflect an endogenous time-
+keeper. (I am taking a bit of license in making this statement so strongly.)
+For some reason, it was a very long time before this distinction was
+appreciated and leaf movement period measurements made with much
+more precision. Eventually, however, they were done and shown to be
+non-24hr, indicating unambiguously that leaf movements were not driven
+by a feature of the external world but reflected endogenous circadian
+timekeepers (Daan, 2010).
+    The circadian period of other organisms is similarly almost always
+measured under constant or “free-running” conditions, which usually
+means many days, weeks or even months in darkness; humans are com-
+monly measured in another more elaborate way because of ethical issues
+with a constant darkness protocol. Endogenous periods usually vary
+between 22 and 26 hours. Mice for example have periods of about 23.5
+hours and rats about 24.5 hours. Importantly, there are even differences
+between inbred strains of mice, indicating that quantitative features of
+the circadian system are under genetic control; I will have much more to
+say about genetics and mutants below. Importantly, these circadian or not
+exactly 24hr rhythms are normally reset or “entrained” by the light-dark
+cycle. This is how humans, rodents and other organisms have a cycle that
+is identical from one day to the next: a somewhat slow or fast clock is
+advanced or delayed every day by the 24hr light cycle (Daan, 2010).
+    In the early-mid 20th century, a similar endogenous clock assay was
+carried out for Drosophila. This organism shows a rhythm of eclosion, the
+emergence of adult flies from their pupal cases. This is a population assay
+as any one fly experiences this event only once. However, the population
+emerges in a circadian manner with a major peak after dawn. In other
+words, adult emergence is gated by the circadian clock; animals that have
+not emerged by late morning must wait until the following morning. This
+is presumably to reduce exposure of newly emerged adults to mid-day
+and late afternoon heat. As expected of a circadian phenomenon, this cir-
+cadian gating of eclosion continues in constant darkness. Endogenous
+periods of Drosophila were measured under these conditions; although
+they vary somewhat from species to species and strain to strain, they are
+very close to 24hr (Bunning, 1935; Kalmus, 1935, 1940a, b).
+
+
+368   THE NOBEL PRIZES
+
+
+         The circadian pioneer Colin Pittendrigh introduced and championed
+      many important aspects of circadian biology. He was among the first if
+      not the first to appreciate the importance and universality of the follow-
+      ing phenomenon: if clocks were to function properly, especially in poikil-
+      otherms like Drosophila, then there must be a mechanism to keep their
+      timing system effectively insensitive to temperature changes (Pittendrigh,
+      1954). When the ambient temperature drops or increases substantially,
+      say by 10°C, the insect still must be able to tell time, e.g., to properly
+      anticipate dawn and dusk. Pittendrigh showed that the endogenous
+      period of Drosophila pseudoobscura does not change much with tempera-
+      ture as measured with the eclosion assay in constant darkness (Pittend-
+      righ, 1954), and the importance of temperature compensation was also
+      appreciated by others (Hastings and Sweeney, 1957). The eclosion assay
+      was used in the landmark 1971 paper by Konopka and Benzer, which
+      arguably initiated the modern era of circadian molecular genetics and cer-
+      tainly initiated my circadian work (Konopka and Benzer, 1971).
+
+
+      KONOPKA AND BENZER
+      Seymour Benzer is an American hero, a one-of-a-kind scientist (Weiner,
+      1999). As a solid-state physics Ph.D. student at Purdue University in the
+      1940s, he came close to discovering the transistor, a discovery that won
+      William Shockley, John Bardeen, and Walter Brattain of Bell Labs the
+      1956 Nobel Prize in Physics. He transferred his interests to molecular
+      genetics and studied the fine structure of the gene as a Purdue faculty
+      member. For this work during the ’50s and early ’60s, he shared many
+      prizes including the 1971 Lasker Award with Sydney Brenner and Charles
+      Yanofsky. Many people, including me, often wondered why Benzer did not
+      win a Nobel Prize for this groundbreaking work. (Brenner won a Nobel
+      Prize in 2002 for his later work on the worm, C. elegans.)
+         Benzer moved to Caltech in the mid-’60s and changed his research
+      focus, from a study of phage genes to the foundations of behavior using
+      fly genetics. Caltech had been a major center of Drosophila genetic work
+      since T.H. Morgan moved there from Columbia in 1928. (Morgan won the
+      1933 Nobel Prize in Physiology or Medicine; this was the first American
+      Nobel Prize in Physiology or Medicine and the first Drosophila Nobel
+      Prize.) Benzer’s strategy followed what had been done in other areas of fly
+      biology, namely associate single mutations and their underlying genes
+      with a phenotype. The strategy was simple: the phenotypes in this case
+      would be behavioral and the identified genes would therefore be – by
+      definition – behavioral genes.
+         Ron Konopka was Benzer’s first student (Fig. 1). Importantly, Konopka
+      had become interested in circadian rhythms in college and brought the
+
+
+                                                         Michael Rosbash Lecture      369
+
+
+
+                          Figure 1. Ronald J. Konopka,
+                          around the time he began
+                          graduate school at Caltech
+                          (Rosbash, 2015).
+
+
+
+
+circadian problem to Benzer, contrary to what one might imagine from
+first principles. Konopka also designed as well as carried out the first
+eclosion screen to search for credible circadian mutants (Rosbash, 2015).
+   Konopka exploited the remarkable genetics toolkit of Drosophila to
+simplify the eclosion screen. He used the classic attached X strategy so
+that the X chromosome of a mutagenized male would be inherited by his
+male progeny; like in humans, the Y chromosome is normally inherited by
+males from a male parent. However in Drosophila and now unlike in
+mammals, it is the X:autosome ratio that determines phenotypic sex; the
+Y chromosome predominantly contributes to sperm motility. With this
+attached X strategy therefore, the phenotypes of mutated genes on the X
+could be assayed in males of the first (F1) generation with no need for
+
+
+
+                                                   Figure 2. Identification of
+                                                   X-linked mutations in D.
+                                                   melanogaster. EMS-mutage-
+                                                   nized sperm is used to fertilize
+                                                   eggs containing either an
+                                                   attached X-chromosome or a
+                                                   Y chromosome. Recessive mu-
+                                                   tations on the X-chromosome
+                                                   from mutagenized sperm are
+                                                   phenotypically visible in the
+                                                   F1 male offspring (Baker and
+                                                   Woodard, 2007).
+
+
+370   THE NOBEL PRIZES
+
+
+      backcrossing. As there is only a single mutagenized X chromosome in
+      these F1 males, even recessive mutations would be visible. The disadvan-
+      tage was that only about 20% of fly genes are present on the X chromo-
+      some, so potentially interesting genes present on the autosomes would be
+      invisible (Fig. 2).
+         The screen was remarkably successful, and the Konopka-Benzer paper
+      identified 3 mutant strains, each with a very different circadian phenotype
+      from the normal wild-type fly with a ca. 24hr period. One mutant had a
+      short period, about 19–20 hours, the second had a long period, about 29
+      hours, and the third had no apparent rhythm at all; it appeared arrhyth-
+      mic. Remarkably, the phenotypes were not only assayed with the tradi-
+      tional fly eclosion assay (Fig. 3) but also with a locomotor activity assay
+      (Fig. 4). Even more remarkably, the mutations would not complement, i.e.,
+      they appeared to be alleles of the same gene, which they named period.
+      More extensive genetic analyses in the paper were consistent with this
+      single gene conclusion. In addition, the phenotypes were semi-dominant,
+      a result that has been extended to many circadian genes in different sys-
+      tems in the subsequent literature. These properties – including the
+      mind-boggling fact that a single gene could apparently mutate to speed
+
+
+                                         Figure 3. Eclosion rhythms of
+                                         wild-type and Konopka and
+                                         Benzer’s period mutants (Ko-
+                                         nopka and Benzer, 1971).
+
+
+                                                              Michael Rosbash Lecture   371
+
+
+
+
+Figure 4. Locomotor activity patterns of wild-type and period mutants (Konopka and
+Benzer, 1971).
+
+
+
+
+up, slow down or stop the clock – suggested that the rhythm-generating
+machinery reads out period gene expression in some semi-quantitative
+manner to influence circadian time-keeping in multiple directions
+(Konopka and Benzer, 1971).
+   The field made very little progress for the next decade or so. Although I
+am not aware of another laboratory other than Konopka’s that was work-
+ing on Drosophila melanogaster circadian rhythms in the early-mid ’70s, I
+suspect that the major reason for the lack of progress was not the lack of
+manpower but the lack of viable approaches other than genetics. The
+insect was too small for most physiological approaches, and the strictly
+genetic approach, or phenogenetic approach as it is sometimes called,
+was inherently limited.
+
+
+BRANDEIS AND RECOMBINANT DNA
+One new lab that did enter the field of Drosophila circadian biology in the
+’70s was that of my friend and Brandeis colleague Jeff Hall. He also
+trained with Seymour Benzer but as a post-doc. Jeff knew Ron Konopka
+well from their time together at Caltech; Ron was doing his Ph.D. in the
+Benzer lab and then returned to Caltech as an assistant professor after a
+brief post-doc with Colin Pittendrigh at Stanford. Jeff’s research interests
+in the late ’70s were focused on neurogenetics writ large and also more
+narrowly on fruit fly courtship. His post-doc Bambos Kyriacou made a
+finding in the late ’70s that merged the field of courtship with that of cir-
+cadian rhythms. He discovered that the courtship song that the male fly
+sings to a female has about a 1 min rhythm. Moreover, the period mutants
+affect this ultradian rhythm similar to the way that these mutants affect
+circadian rhythms, i.e., shorter, longer and no rhythm at all (Kyriacou and
+
+
+372   THE NOBEL PRIZES
+
+
+      Hall, 1980). Although this finding lacks any mechanistic underpinning
+      and has recently become quite controversial (Kyriacou et al., 2017; Stern,
+      2014; Stern et al., 2017), the reason for mentioning it here is historical: it
+      enhanced Jeff’s interest in Drosophila circadian biology and by extension
+      my own.
+          Despite all this fascinating phenomenology, it was my contention in
+      the early ’80s that one could not strike off in a new direction, with new
+      methods and ideas, without being able to get at the molecules – the RNAs
+      and proteins – that were participating in timekeeping; they included the
+      period RNAs and proteins. I must confess that this view also reflected a
+      certain subjective bias; I was not comfortable with strictly genetic argu-
+      ments, regardless of their strength in hindsight. This means that I was
+      still far from certain that period and its gene products played a central
+      role in circadian timing.
+          Enter recombinant DNA technology into the story in the late ’70s-early
+      ’80s; it had transformed genetics, including my own yeast work. We were
+      actively cloning yeast genes and using recombinant DNA methods to
+      study their expression. It goes almost without saying that this new
+      approach also solved my “comfort problem”; one could finally imagine
+      cloning and sequencing enigmatic genes like Drosophila period. The appli-
+      cation of recombinant DNA technology would therefore not only enable
+      an entirely new generation of experiments but also might provide some
+      insight into the function of this gene and by extension the molecular
+      underpinnings of circadian rhythms.
+          Jeff and I discussed the possibility of collaborating in this new direc-
+      tion for at least a year but were unable to begin for a number of reasons,
+      including most importantly the lack of personnel. This obstacle was over-
+      come when Pranitha Reddy, a Brandeis Biochemistry graduate student,
+      transferred into my lab. Her young thesis advisor Vivian Ernst had tragi-
+      cally passed away, and Pranitha needed a new home. I offered her this
+      new project, the cloning of the period gene, and she enthusiastically
+      accepted. The loose collaboration plan was that Jeff’s lab would provide
+      the genetics and behavior expertise, whereas Pranitha and my lab would
+      do the cloning and provide the recombinant DNA expertise.
+          Importantly, this technology was making rapid progress in ways that
+      were highly relevant to the identification of period. It became feasible by
+      the early ’80s to pursue the cloning of Drosophila period by chromosome
+      walking, a strategy pioneered by the Hogness lab at Stanford (Bender et
+      al., 1983a; Bender et al., 1983b; Spierer et al., 1983). Moreover, gene identi-
+      fication could then be done by gene rescue, which had just been accom-
+      plished by Rubin and Spradling (Rubin and Spradling, 1982; Spradling
+      and Rubin, 1982). Our dream was to rescue the per0 strain and its arrhyth-
+      mic phenotype with a piece of cloned DNA containing the wild-type (nor-
+
+
+                                                       Michael Rosbash Lecture     373
+
+
+mal) period gene. Although chromosome walking and gene identification
+by rescue were not relevant to the yeast recombinant DNA research ongo-
+ing in my lab, we were deep into other recombinant DNA studies as men-
+tioned above. The gap between what was ongoing in my lab and these
+new genetic strategies was therefore not big.
+   Pranitha led the successful Brandeis effort to clone this DNA, and she
+was aided by Will Zehring and Dave Wheller from Jeff’s lab (Reddy et al.,
+1984). We had collaborative help in the important initial phases of this
+work from Christopher Hadfield and Vince Pirrotta then at the EMBO
+labs in Heidelberg, Germany. They had expertise in making phage librar-
+ies from DNA microdissected from Drosophila giant salivary glands. We
+knew from the genetic mapping work of Konopka that the Drosophila
+period gene was located at position 3B 1-2, between the white and zeste
+genes on the X chromosome (Konopka and Benzer, 1971). Our European
+collaborators made a DNA library from a piece of the salivary gland X
+chromosome surrounding region 3B 1-2, which reduced the amount of
+chromosome walking we would have to undertake.
+   Our rescue experiments were spearheaded by Zehring and Wheeler in
+the Hall lab with help from Reddy as well as Ron Konopka and Bambos
+Kyriacou (Zehring et al., 1984). Bambos had by this time returned to a fac-
+ulty position in the UK but remained a frequent collaborator. He was
+responsible for the courtship song rhythm assay, which was also meas-
+ured in this first gene rescue publication. Konopka had also moved, from
+Caltech to Clarkson College in upstate New York. Jeff was in frequent
+
+
+
+
+                                             Figure 5. Gift of Hall and Rosbash
+                                             to the Nobel Museum. (a) Original
+                                             Drosophila Activity Monitor (DAM)
+                                             Board. (b) Recording traces from
+                                             DAM system showing activity pro-
+                                             files of per01 mutant and wild-type
+                                             flies.
+
+
+374   THE NOBEL PRIZES
+
+
+      communication with him, and Ron helped us set up our initial Brandeis
+      locomotor activity monitoring system. It became our gift, from me and
+      Jeff, to the Nobel Museum (Fig. 5). Konopka also acted as an advisor, to
+      make sure that we were carrying out and interpreting these locomotor
+      activity rhythm assays – effectively sleep-wake assays – properly. This
+      was our principal assay (Fig. 6); we only rarely assayed eclosion. My grad-
+      uate student Qiang Yu also helped with these experiments, with cloning
+      and especially with DNA injections into embryos. Qiang had spent several
+      years in the Chinese countryside during the cultural revolution. Some of
+      that time was spent repairing watches, which made him an expert at fine
+      motor movements under magnification. These were precisely the skills
+      required for the embryo injections, which generated the transgenic fly
+      strains.
+         These two first papers, the cloning and characterization of the putative
+      period DNA as well as the gene rescue experiments, relied for identifica-
+      tion on classical genetic rearrangements used by Konopka in his charac-
+      terization of the period gene (Konopka and Benzer, 1971). They dated
+      from an earlier characterization of the white-zeste region of the fly
+      genome within which period maps. This region and its chromosomal
+      rearrangements were studied in detail by Bert Judd and his collaborators
+      at the University of Texas. It is not coincidental that they included his
+
+
+
+
+      Figure 6. Activity grams showing rescue of per01 arrythmicity by
+      segments of DNA from the per region. Each line represents a subjective
+      day, while the midline mark in each actogram denotes the timing of
+      lights turning on (Zehring et al., 1984).
+
+
+                                                           Michael Rosbash Lecture   375
+
+
+Ph.D. student Mike Young, with whom Jeff Hall and I have shared this
+Nobel Prize (Young and Judd, 1978). Importantly in the context of our ini-
+tial cloning and gene rescue efforts, our combined group at Brandeis did
+not know that the Young lab at Rockefeller University was engaged in very
+similar experiments (Bargiello et al., 1984; Bargiello and Young, 1984).
+Both groups soon learned about the other one, and we were locked in an
+intense battle for primacy during the first few years of this work. Impor-
+tantly, the cloning and rescue of period was done independently and at the
+same time in both places. Although unpleasant at the time, the competi-
+tion and focus probably contributed to some of these early successes. I
+note that the functional identification of a behavioral gene by transgenic
+rescue by both groups, Rosbash-Hall and Young, was accomplished 13
+years before the same goal was achieved in mouse with the Clock gene by
+Takahashi and colleagues. Admittedly, this was a much more challenging
+task given the size of the mouse genome and other issues.
+   Mike Young and his colleagues deserve high marks for these early
+accomplishments. Although many of the conclusions were similar to ours,
+the early Young papers did a better job than we did of focusing in on a 4.5
+kb transcript as the correct period mRNA. We were distracted by a 0.9 kb
+transcript, which was encoded just downstream of period and underwent
+apparent circadian oscillations in level (Reddy et al., 1984)) This transcript
+turned out to be a red herring: it is strongly expressed during pupation, just
+prior to eclosion. The daily synchronized emergence of young adults com-
+bined with the rapid decay of the transcript after eclosion gave rise to
+“apparent” circadian oscillations during adulthood (Lorenz et al., 1989).
+
+
+SEARCHING FOR PERIOD PROTEIN FUNCTION
+The next big question was, what is the function of the period protein or
+PER? This was approached in the obvious way, i.e., by DNA sequencing
+and done once again in parallel by the Young group and our Brandeis
+group (Baylies et al., 1987; Citri et al., 1987; Jackson et al., 1986; Yu et al.,
+1987b). The single nucleotide changes of the 3 mutations handsomely
+conformed to the simplest interpretation of the Konopka and Benzer
+data, but we were disappointed that the protein sequence itself was not
+instantly illuminating. These were, however, the early days of sequencing
+with rather few proteins in the database. This explains why the PER
+sequence did not link to its now known family of proteins; it was the first
+member of this family, i.e., a “pioneer protein.” However, PER did link to
+proteoglycans, which often have repeated sequences that resemble the
+glycine-threonine (GT) repeat sequences of PER (Jackson et al., 1986;
+Reddy et al., 1986). The serines of proteoglycan GS repeats are sites of
+O-linked glycosylation.
+
+
+376   THE NOBEL PRIZES
+
+
+          We pursued this relationship and published a paper indicating that
+      PER is indeed a proteoglycan (Reddy et al., 1986). In hindsight, the bio-
+      chemical characterization of PER was simply too superficial to draw such
+      a strong conclusion. The Young lab competition issue (I feared – correctly
+      it turned out – that they too were working on this proteoglycan hypothe-
+      sis) and a lack of prudence led me to push forward and publish these
+      modest biochemical experiments. I also thought that the GT repeat
+      sequence had to be significant and made the classical error of letting a
+      potential exciting conclusion erase what should have been vigilant skepti-
+      cism about my own data. I still don’t know to this day if those experi-
+      ments were in error or just their interpretation. I suspect the latter, for
+      which I am 100% responsible, i.e., the results were probably correct but
+      simply due to protein aggregation. In any case, the “PER is a proteogly-
+      can” hypothesis stood tall in 1986 with no other proposed functions for
+      PER. Moreover, this hypothesis soon stood even taller because of a high
+      profile paper published in 1987 through a collaborative effort from the
+      Young laboratory and that of David Spray at Albert Einstein (Bargiello et
+      al., 1987). This paper argued that the per mutations affect intercellular
+      communication in Drosophila larval salivary glands. PER would be resi-
+      dent in the extracellular matrix and quantitatively affect gap junction
+      function, a perfect role for a proteoglycan. Importantly, there were no
+      strong data to the contrary nor even another competing hypothesis for
+      PER function in 1987.
+          The first hint that this proteoglycan hypothesis might be on the wrong
+      track was also published in 1987 and came from my outstanding graduate
+      student Qiang Yu (Yu et al., 1987a). In one of the first of many behav-
+      ior-transformation papers in which per DNA was manipulated in vitro
+      and then assayed functionally in vivo, Qiang cleanly excised the GT
+      repeat region from the PER coding region and assayed the function of this
+      deleted gene and protein. We assayed as usual two behaviors, circadian
+      locomotor activity rhythms and the courtship song rhythms. The deletion
+      had a strong effect on the more enigmatic courtship rhythms, but the
+      canonical ca. 24hr locomotor activity rhythm assay was unaffected.
+      Although the paper title featured the positive result, we recognized that
+      the lack of an effect on the circadian assay was important. If the GT
+      repeat region is the cardinal feature that defines proteoglycan properties,
+      e.g., O-linked glycosylation, might this mean that the protein was not a
+      proteoglycan? Might the biochemistry and the salivary gland gap junction
+      results be misleading?
+          The results of a study we published in the following year was also rele-
+      vant to the proteoglycan hypothesis (Colot et al., 1988). We cloned and
+      sequenced period from D. pseudoobscura and D. virilis. The coding
+      sequences of both genes are missing the GT repeat region but can rescue
+
+
+                                                      Michael Rosbash Lecture   377
+
+
+behavioral rhythms of per0 D. melanogaster flies, consistent with the dele-
+tion experiment described above. Because the coding regions of the two
+genes still contain several pairs of TG and SG amino acids and because
+single SG dipeptides can serve as sites for the O-linked attachment of gly-
+cosaminoglycan side chains, the data could not eliminate the proteogly-
+can possibility. They did, however, add to a growing sense of doubt.
+   Unrelated to proteoglycans, the assay of behavior with manipulated
+period DNA was used in other papers published at about the same time.
+We characterized an unusual collection of spliced transcripts encoded by
+per and showed that two of them have biological activity in transforma-
+tion-rescue experiments (Citri et al., 1987). The first author, Yoav Citri,
+became fascinated with fly rhythms and began these experiments when
+he was a post-doc in the Baltimore lab at MIT; he then moved over to my
+lab to continue the work. He left Brandeis to become an assistant profes-
+sor at the Weizmann Institute around 1989 and died tragically in 1995 in a
+traffic accident.
+   We also used this sequence and rescue strategy to address the molecu-
+lar identity of the famous Konopka mutations, with Qiang Yu once again
+principally responsible for these experiments in my laboratory (Yu et al.,
+1987b). Our sequence data largely agreed with that published the previous
+year from the Young group (Jackson et al., 1986), but our per gene con-
+tained an extra exon and was also missing an intron present in the Young
+publication, which interrupted a long contiguous coding exon. As a con-
+sequence, our predicted sequence was 97 amino acids longer than the one
+published by Young. We identified the per01 and perS mutations, and in
+both cases identified only a single nucleotide change from wild-type per
+DNA. The work did not just rely on these sequence differences but also
+used chimeric DNA fragments to show that altered biological activity
+tracked with the mutation. Remarkably and consistent with the original
+hypothesis of Konopka that per01 is a null mutant with no biological activ-
+ity, this mutation creates a stop codon; there is therefore no wild-type
+PER encoded and perhaps no protein at all. The perS nucleotide change
+creates a serine to asparagine missense mutation at position 589. Both
+changes were in locations that underscored the fact that the 4.5 kb tran-
+script encodes PER as originally suggested by Young and colleagues.
+   Although our original sequencing data made it almost certain that the
+mutation at position 589 is responsible for the perS short period pheno-
+type, we recapitulated this change in a subsequent study in which posi-
+tion 589 of wild-type DNA was changed to encode a number of different
+amino acids including asparagine (Rutila et al., 1992). The results not only
+verified that the serine to asparagine change was indeed responsible for
+the short period phenotype but also indicated that short period is likely to
+be the default phenotype of most amino acids at position 589, i.e., only
+
+
+378   THE NOBEL PRIZES
+
+
+      serine and threonine have a ca. 24 hr period. The data in this paper also
+      indicated that the perS protein is a hypomorph (has decreased function)
+      rather than a hypermorph, with an increase in gene/protein activity as
+      originally postulated by Konopka and Benzer (Konopka and Benzer,
+      1971). The Young lab identified all 3 Konopka and Benzer mutations and
+      also showed that more copies of period transgenes led to shorter periods
+      (Baylies et al., 1987).
+         At the risk of making a slight tangent to discuss much more recent
+      data, we now have a quite sophisticated view of at least part of the PER
+      molecular cycle, and these data underscore the hypomorphic or loss-of-
+      function character of the perS protein. PER amino acid 589 is phosphoryl-
+      ated by the kinase Nemo, which probably delays subsequent PER phos-
+      phorylation events by the important circadian kinase doubletime (DBT);
+      they lead to the degradation of PER, which happens too rapidly in the
+      absence of PER 589 phosphorylation (Chiu et al., 2011). This rapid degra-
+      dation of PERS occurs after the disappearance of TIM in the late night or
+      early day, a scenario that is also consistent with more recent data on the
+      effects of the perS mutation (Li et al., 2014; Li and Rosbash, 2013). In con-
+      trast to our understanding of the PERS effect, there is still no good mech-
+      anistic understanding of the PERL amino acid change and why it slows
+
+
+                                                          Figure 7. Comparison of SIM
+                                                          and PER sequences (Crews
+                                                          et al., 1998).
+
+
+                                                       Michael Rosbash Lecture   379
+
+
+the circadian cycle (Kidd et al., 2015). Although PERL may interact more
+weakly with TIM (Gekakis et al., 1995), it is still uncertain which fea-
+ture(s) of PER activity is specifically affected by PERL.
+   The 1987 mechanistic speculations about perS protein function were
+difficult to reconcile with a proteoglycan function. Moreover, we soon
+learned of an impending publication that further eroded my confidence in
+this hypothesis. Steve Crews, working in Corey Goodman’s lab had
+cloned and sequenced a Drosophila gene called single-minded with protein
+coding homology to PER. Their 1988 paper showed that Single-minded
+(SIM) is a nuclear protein and strongly suggested it was a transcription
+factor (Crews et al., 1988). Especially difficult to square with proteoglycan
+theory was SIM nuclear localization. We now know that the homology
+reflects a protein-protein interaction domain called PAS and present in a
+family of transcription factors; the three founding members are PER,
+ARNT and SIM; ARNT is a mammalian protein, the aryl hydrocarbon
+receptor nuclear translocator (Huang et al., 1993). Although the homology
+was quite modest and could have reflected a motif shared by proteins
+with completely different functions (Fig. 7), it offered an important com-
+peting possibility: perhaps period encodes a transcription factor.
+
+
+BACK ON TRACK: GENE EXPRESSION AND THE FEEDBACK LOOP
+The possibility of a gene expression function was dramatically enhanced
+by the first relevant data from my post-doc Paul Hardin, who was examin-
+ing period mRNA from fly heads at different circadian times. The paper
+that was ultimately published made two findings (Hardin et al., 1990). The
+first is that these mRNA levels undergo robust circadian oscillations in fly
+heads. The second is that the phase of RNA cycling was affected by the
+per missense mutations identically to their effects on behavioral phase
+(Fig. 8). Paul gets full credit for making these seminal findings, including
+the important idea to use fly heads rather than whole flies for the source
+of RNA. The lack of cycling in certain body tissues diluted the cycling sig-
+nal and therefore reduced the cycling amplitude in RNA from whole flies
+so that it was not reliable.
+   Paul’s experimental success was helped by his local environment,
+namely, the fact that a good fraction of his colleagues in my lab studied
+yeast RNA and were facile with state-of-the-art RNA methods. As PCR
+did not exist at this time, Paul had to use RNase protection to assay spe-
+cific per mRNA levels. This method was not terribly difficult but also not
+trivial, so this aspect of the Brandeis circadian work benefited from being
+adjacent to – in effect embedded within – a nucleic acid-centric research
+program. Circadian labs elsewhere had a difficult time establishing these
+kinds of nucleic acid-centric approaches (personal communication).
+
+
+380   THE NOBEL PRIZES
+
+
+
+                                                     Figure 8. Both Per+ and pers mRNA
+                                                     levels undergo circadian oscillations.
+                                                     pers mRNA oscillations correspond
+                                                     to the shortened period exhibited by
+                                                     these mutant flies (Hardin et al., 1990).
+
+
+
+
+         We now know that the feedback effects of the per missense mutations
+      on per RNA cycling operate predominantly at the transcriptional level and
+      are upstream of their effects on behavior, i.e., the protein directly affects
+      its own transcription as part of the timekeeping mechanism. (I should
+      note that this is still inferred rather than directly shown, because we do
+      not have a per mutation that is known only to impair the feedback effect
+      on its own transcription with a period effect as measured behaviorally.)
+      At the time of this first paper, however (Hardin et al., 1990), there were
+      many possibilities, and we were very conservative in interpreting these
+      results. For example, there were no transcriptional or pseudo-transcrip-
+      tional assays, so feedback could have operated at a post-transcriptional
+      level. We also had no evidence that PER functions directly to affect its
+      own gene expression, for example by binding to chromatin or to pre-mR-
+      NAs, and our model considered the possible role of intermediate effector
+      proteins. We even considered that circadian behavior would be required
+      to generate oscillating mRNA levels, i.e., the feedback effects on gene
+      expression might then be downstream of a PER effect on behavior. In this
+      case, PER would be affecting circadian behavior and perhaps the circa-
+      dian clock independent of its feedback effect on its own gene expression
+      (Fig. 9). Nonetheless, the Hardin et al. data taken together with a simple
+      and positive interpretation of the modest homology to the Single-minded
+      transcription factor suggested a simple parsimonious hypothesis: PER
+
+
+                                                        Michael Rosbash Lecture       381
+
+
+
+                                                  Figure 9. Original feedback
+                                                  loop model showing broadly
+                                                  how per might regulate its own
+                                                  expression (Hardin et al., 1990).
+
+
+
+
+was engaged in a negative feedback loop that affects its own expression
+and that this loop was “the clock” or at least central to timekeeping. The
+negative feedback loop would therefore be upstream of the behavioral
+rhythms that are usually measured by circadian biologists.
+   This new working model of how PER functions, namely at the level of
+gene expression regulation, was very attractive, and my lab pushed hard
+to support and extend this new view of timekeeping. First was to address
+transcriptional vs. post-transcriptional regulation. To this end, Paul Har-
+din showed that feedback regulation almost certainly occurred at the
+transcriptional level (Hardin et al., 1992). This paper had two principal
+experiments. i) It showed that pre-mRNA oscillations were similar if not
+identical to mRNA oscillations. ii) It showed that the feedback could be
+recapitulated with per 5’ flanking sequences, i.e., they would drive cycling
+of a reporter gene. (Fig. 10).
+   To my surprise, we had serious trouble publishing this important
+paper. Perhaps this was because transcriptional regulation was taken for
+granted by the scientific community; post-transcriptional regulation,
+splicing for example, was not yet broadly appreciated as a viable regula-
+tory mechanism.
+   The second paper addressed PER subcellular localization. Is it a
+nuclear protein like SIM or is it cytoplasmic? The latter would favor an
+indirect effect on transcription and possibly even other functions. To
+
+
+382   THE NOBEL PRIZES
+
+
+
+
+      Figure 10. per mRNA oscillations are transcriptionally regulated (Hardin et al., 1992).
+
+
+
+
+      address this issue, my graduate student Xin Liu went to Seymour Ben-
+      zer’s lab for a few months to do immunoelectron microscopy. (Xin
+      recently retired after many years as a UCLA professor.) PER was a nuclear
+      protein (Liu et al., 1992). This was consistent with a more direct role on
+      transcription and made the proteoglycan hypothesis even less likely.
+         The third paper was carried out by an excellent graduate student,
+      Honkui Zeng, who addressed whether PER functioned in a direct, cell-au-
+      tonomous manner. (Honkui has been with the Allen Brain Institute for
+      more than a decade and is currently the Executive Director of its Struc-
+      tured Science Division.) There was at this time no evidence that PER
+      inhibited transcription within the same cells in which it was expressed.
+      To this end, Honkui showed that the photoreceptor cells of the adult fly
+      eye contain a circadian oscillator system similar to the brain. She also
+      showed that constitutively overexpressing PER in these cells prevented
+      endogenous per RNA cycling and caused low per RNA levels with no
+      effects on locomotor activity rhythms, consistent with cell-autonomous
+      negative feedback (Zeng et al., 1994). A similar strategy was subsequently
+      applied to brain circadian neurons with similar results (Yang and Sehgal,
+      2001).
+         The fourth paper came from yet another outstanding graduate student,
+      Josh Huang. (Josh is current a Professor of Neuroscience at the Cold
+      Spring Harbor Laboratory). He addressed the role of the PAS domain, the
+      protein sequence link between PER and known transcription factors
+      (Huang et al., 1993). At the time of this work in 1994, there were 3 known
+      PAS-containing (PAS-bHLH, basic-helix-loop-helix) transcription fac-
+      tors: In addition to PER there were Single-minded as mentioned above
+      and the two subunits of the aryl hydrocarbon (AH) receptor. Josh’s work
+      showed that PAS could function as a novel protein dimerization motif
+
+
+                                                     Michael Rosbash Lecture   383
+
+
+and mediate associations between different members of the PAS protein
+family. As PER had and still has no known DNA interaction motifs, we
+proposed that it regulates circadian transcription by interacting with the
+PAS domain of an important positively-acting circadian transcription fac-
+tor. This prediction turned out correct with the identification of the
+PAS-containing positive circadian transcription factors, the heterodi-
+meric Clock and BMAL1 in mammals and their orthologs Clock and Cycle
+in flies (see below).
+   Taken together with the original Hardin feedback loop paper, these
+four subsequent papers laid the foundation of a coherent transcrip-
+tion-centric view of circadian timekeeping; it seemed incompatible with
+gap junctions. Indeed, I already had doubts about this hypothesis in 1989;
+at this time the work for the first Hardin feedback loop was largely done
+(Hardin et al., 1990), and we had shown that the GT region – the linchpin
+of the proteoglycan relationship – is not conserved in related Drosophila
+species (Colot et al., 1988) and that this region is also not necessary for
+PER circadian function (Yu et al., 1987a). Although I had no idea how to
+advance or challenge our biochemistry paper (Reddy et al., 1986) in an
+efficient way, I thought we should repeat the simpler Young-Spray salivary
+gland-gap junction paper to see if it was correct (Bargiello et al., 1987).
+Also, for this experiment, I really had no idea what to do; it was not only
+completely beyond my expertise but also outside that of my circle of
+friends and colleagues. Nonetheless I was quite obsessed and for the next
+year or two would ask scientific strangers, “Do you know anything about
+gap junctions?” “Can you help us out with this experiment?” One day at a
+Brandeis cocktail party I was introduced to Dan Goodenough. I asked
+him naively, “Where do you work and what do you do?” He said, “Harvard
+and on gap junctions.” I latched onto his ankle: “Can you PLEASE help us
+repeat a gap junction experiment in Drosophila larval salivary glands?”
+He said sure, and we were on our way. I had no available personnel, but
+Jeff had a technician with time to spare. So, Kimberly Flint spent several
+months hosted by the Goodenough lab and showed that those key gap
+junction experiments would not repeat. Dan Goodenough was a prince,
+not only to host Kimberly and let her work in his lab but also because he
+refused to coauthor any paper that might emerge from the work. We com-
+municated our failure to Young before publication, and Jeff also told his
+former post-doc Kathy Siwicki about our results. She was at the Marine
+Biological Laboratory (MBL) at Woods Hole at the time and was appar-
+ently doing the same experiments in collaboration with David Spray, the
+senior author of the Bargiello et al. paper who was also there during that
+summer of 1992. They wrote a short paper for the Biological Bulletin, the
+local MBL journal. It was published super rapidly, in October, and they
+included Kimberly, Jeff and me as coauthors (Siwicki et al., 1992). Young,
+
+
+384   THE NOBEL PRIZES
+
+
+      Spray and all coauthors then acted properly and retracted their Nature
+      paper in December of 1992 (Saez et al., 1992), and we published an inde-
+      pendent and properly documented paper the following year in the Journal
+      of Membrane Biology (Flint et al., 1993). This was the death knell for the
+      proteoglycan hypothesis, and we forged ahead with gene expression.
+
+
+      THE LINK TO MAMMALS
+      The identification of mammalian PER in 1997 was incredibly important.
+      This is because for the first time it seemed likely that what we had learned
+      in flies would be applicable to mammals including humans. This finding,
+      that mammals contain one or more period genes, was independently
+      accomplished in two different laboratories and done before the existence
+      of the human genome sequence, meaning one could not just search the
+      data base for a mammalian protein sequence with a credible relationship
+      to PER (Sun et al., 1997; Tei et al., 1997). It was done by PCR and required
+      a judicious selection of primer sequences. My laboratory and others also
+      tried to do this but unsuccessfully (data not shown; personal communica-
+      tion).
+
+
+      NEW CIRCADIAN MUTANTS
+      The Young laboratory also made a connection to mammals, with their
+      modern (post-Konopka and Benzer) efforts to identify Drosophila circa-
+      dian mutants. They discovered two very important fly clock genes, one of
+      which linked in an important and simple way to mammals. That gene was
+      doubletime, which encodes the Drosophila version of the important mam-
+      malian kinase CKI (Kloss et al., 1998; Price et al., 1998). It modifies PER
+      and also CLK during the circadian cycle. Well after the publications on
+      doubletime from the Young lab, we also identified and studied two novel
+      mutant versions of doubletime, which emerged from our own efforts to
+      isolated new circadian mutants (Suri et al., 2000). CKI not only plays an
+      important role in the mammalian clock but a mutation in this gene also
+      underlies the phenotype of the famous 20hr tau hamster (Lowrey et al.,
+      2000).
+         The other Young laboratory clock gene from this early period is timeless
+      (Gekakis et al., 1995; Myers et al., 1995; Price et al., 1995; Sehgal et al.,
+      1994; Sehgal et al., 1995). Although its relationship to mammals was not
+      immediately apparent and is considerably weaker even today than that of
+      period and doubletime (Gotter, 2006), timeless played an incredibly impor-
+      tant role in the fly circadian system. In addition, its identification and
+      cloning in 1995 showed that period was not unique and that scientists
+      other than Konopka and Benzer could identify clock mutants. This fear
+
+
+                                                        Michael Rosbash Lecture   385
+
+
+was not entirely unfounded, as almost 25 years had passed between the
+publication of Konopka and Benzer on period and these Young lab publi-
+cations on the second Drosophila clock gene timeless (tim).
+    Importantly, the characterization of tim connected back to PER and to
+the feedback loop, i.e., tim mRNA undergoes RNA cycling like per mRNA,
+the tim mutants affect per as well as cycling of their own mRNA, i.e., tim
+mRNA (Sehgal et al., 1995) and the timeless protein (TIM) interacts with
+PER (Gekakis et al., 1995). In fact, TIM and PER associate together in the
+cytoplasm and are probably transported together into the nucleus (Jang et
+al., 2015; Meyer et al., 2006; Vosshall et al., 1994). However, the regulatory
+role of this transport event – the extent to which it contributes to circa-
+dian timing (Meyer et al., 2006) – is less certain in my view. All proteins
+are synthesized on cytoplasmic ribosomes. So nuclear proteins must be
+transported from the cytoplasm to the nucleus, but this transport event
+need not be under clock control. Temporal control of nuclear and cyto-
+plasmic localization (Shafer et al., 2002) could equally well reflect regula-
+tion of cytoplasmic or nuclear retention rather than nuclear transport per
+se. Indeed, we have some evidence that PER-TIM retention on chromatin
+is temporally regulated (data not shown).
+    Our own principal contribution to the tim story came from biochemis-
+try (Zeng et al., 1996). My graduate student Hongkui Zeng was trying to
+identify PER partner proteins, by characterizing proteins associated with
+PER in fly head extracts with mass spectometry. Because we realized that
+there might be different partners at different times of day, Hongkui began
+by characterizing the size of the protein complex within which PER was
+located at different times. PER appeared to be monomeric in the morning
+during its declining/degrading phase but in a larger complex later in the
+day during its increasing/accumulating phase. Moreover, that complex
+appeared to have one additional major protein, with an apparent molecu-
+lar weight somewhat greater than PER (Zeng et al., 1996). That complex
+and the additional protein disappeared in the late night or rapidly after a
+light pulse. We were gearing up to identify that seemingly light-sensitive
+protein by mass spectrometry when we heard about the Young lab suc-
+cess in identifying TIM. Because the TIM molecular weight was some-
+what greater than that of PER and the two proteins associate in a yeast
+two hybrid assay (Gekakis et al., 1995), TIM was an excellent candidate
+for the PER partner protein we had identified in fly head extracts. The
+Young laboratory was very gracious in providing us with an anti-TIM
+antibody with which we were able to definitively identify it as the higher
+molecular weight PER partner identified in our gels (Zeng et al., 1996).
+    The rapid degradation of TIM at the end of the night or in response to
+a phase-shifting pulse of light was independently observed and proposed
+to be important for light-mediated phase-shifting and entrainment in 3
+
+
+386   THE NOBEL PRIZES
+
+
+      labs at about the same time (Hunter-Ensor et al., 1996; Myers et al., 1996;
+      Zeng et al., 1996). We also provided evidence that TIM degradation and
+      phase-shifting do not just occur in parallel. This study (Suri et al., 1998)
+      made use of a new tim allele. In an attempt to shed light on the enigmatic
+      perL mutation, we had screened for allele-specific suppressors or enhanc-
+      ers of that mutation, namely, additional mutations elsewhere in the fly
+      genome that would have a different phenotypic effect on that perL back-
+      ground than on a wild-type background. It was to my knowledge the first
+      genetic screen of its kind, a behavioral suppressor-enhancer screen. It
+      identified a new tim allele, which we named tim suppressor of long or timSL
+      (Rutila et al., 1996). In this context of TIM degradation and light, timSL
+      enhanced the light-sensitivity of TIM degradation and phase-shifting in
+      parallel (Suri et al., 1998), indicating that TIM destabilization indeed con-
+      nects the core central clock to entrainment by the light-dark cycle, the
+      principal zeitgeiber (temporal cue) of the environment in which we live.
+         What is the molecular connection between light and TIM degradation?
+      Patrick Emery in my lab and Ralf Stanewsky in the Hall lab worked
+      closely together and identified Cryptochrome as a major circadian photo-
+      receptor; they also cloned the gene and identified a mutant strain that was
+      significantly impaired in circadian light perception (Emery et al., 1998;
+      Stanewsky et al., 1998). The work also relied on important previous work
+      from mammals and constituted another strong link between the fly and
+      mammalian circadian systems.
+         The story begins with the important DNA repair enzyme photolyase,
+      which is present from E. coli to man. This enzyme had been studied for a
+      long time by the biochemist Aziz Sancar, who shared the 2015 Nobel Prize
+      in chemistry for his outstanding work. The plant blue light photoreceptor
+      cryptochrome is a close structural relative of photolyase. There were
+      mammalian gene sequences that were related to cryptochrome, and San-
+      car was convinced that their encoded proteins, cryptochrome 1 and 2
+      (CRY1 and CRY2) must function in circadian photoreception. Indeed, the
+      initial properties of these gene and proteins, including phenotypes of
+      mouse mutants missing these cryptochromes, was consistent with a cir-
+      cadian photoreceptor function for cryptochromes in mammals (Vitaterna
+      et al., 1999). Moreover, there was strong evidence that there was an
+      unknown photoreceptor in the mammalian eye that accounts for persis-
+      tent circadian photoreception in rodless-coneless mice (Lucas et al.,
+      1999); this is in addition to the known photoreceptor function of cryp-
+      tochromes in plants. Importantly, melanopsin was soon discovered as
+      that missing eye photoreceptor (Provencio et al., 1998) and mammalian
+      cryptochromes currently have no function in circadian photoreception.
+         Nonetheless, these Sancar ideas about a circadian photoreceptor func-
+      tion for cryptochrome and the known mammalian cryptochrome genes
+
+
+                                                      Michael Rosbash Lecture   387
+
+
+resonated with us at Brandeis. The fly circadian system was known to be
+maximally sensitive to blue light, and there was no known eye pigment or
+other identified photoreceptor that might play this role. So, Patrick Emery
+in my lab set out to clone and characterize Drosophila cryptochrome (cry;
+the sequence information indicated there was only gene as is commonly
+the case in flies). The work showed that its protein product CRY was
+light-sensitive, i.e., degraded in response to light exposure, and that CRY
+overexpression enhanced circadian light sensitivity (Emery et al., 1998).
+    At the same time, Ralf Stanewsky in the Hall lab had identified a new
+circadian mutant that was light-insensitive. It had very interesting proper-
+ties, which were consistent with the absence of a circadian photoreceptor.
+With Emery’s map position and the identification of a deletion that
+uncovered the locus, Stanewsky could quickly assign the mutation to the
+cry gene. Characterization of the mutant strain, called cryb, indicated that
+the gene cry indeed encoded a circadian photoreceptor (Stanewsky et al.,
+1998) as was also indicated by the Emery et al. paper described directly
+above (Emery et al., 1998).
+    Subsequent work over the next couple of years, predominantly from
+Emery, extended this initial work by showing quite remarkably that cryb
+flies remain rhythmic in constant light (Emery et al., 2000a). This is
+unlike wild-type flies as constant light destroys their rhythms – and those
+of many organisms. This simple observation indicates that CRY acts as
+the only principal circadian photoreceptor in Drosophila.
+    Emery and colleagues also showed at about the same time that
+expressing CRY only in a small number of key circadian neurons in the
+brain could rescue the circadian deficits of the cryb mutant background.
+This indicates that CRY functions within the brain and is therefore a deep
+brain photoreceptor (Emery et al., 2000b).
+    How does CRY work, i.e., how does it interface with the circadian
+clockworks? CRY and TIM interact in a light-dependent fashion, even in
+yeast (Ceriani et al., 1999). Amita Sehgal and colleagues then discovered
+that the F-box protein Jetlag interacts with CRY and TIM after light expo-
+sure and helps deliver them both to the proteosome. As predicted, phase-
+shifts are reduced in jetlag mutants (Koh et al., 2006).
+    This CRY-TIM mechanism is not the only way that the Drosophila
+clock system can achieve phase shifts. Clock neuron firing, specifically
+PDF neuron firing, can also elicit phase shifts and in a CRY-independent
+manner (Guo et al., 2014). This mode of firing also results in TIM degra-
+dation and presumably reflects in part the connections of the fly eye to
+the PDF neurons and/or the role of other clock neurons (Fig. 11).
+    The common feature of these two modes of phase-shifting, light-CRY
+and light-firing, is TIM degradation or post-transcriptional regulation.
+This contrasts with the enhanced clock gene transcription that is the pri-
+
+
+388   THE NOBEL PRIZES
+
+
+
+
+                                                      Figure 11. Firing of PDF cells
+                                                      triggers TIM degradation and a
+                                                      phase-shift, both of which can
+                                                      occur in a CRY-independent
+                                                      manner (Guo et al., 2014).
+
+
+
+
+      mary means of achieving light-mediated phase-shifts in mammalian sys-
+      tems (Albrecht et al., 1997; Shearman et al., 1997; Shigeyoshi et al., 1997).
+      Nonetheless, it remains uncertain whether this difference will remain so
+      striking, i.e., whether future results will reveal some important light-me-
+      diated post-transcriptional regulation of clock gene expression in mam-
+      mals or some light-mediated clock gene transcriptional regulation in flies.
+         However, one strong argument in favor of this difference between flies
+      and mammals is the different roles of cryptochrome in the two systems. In
+      contrast to its photoreceptor role in flies, cryptochrome is the major tran-
+      scriptional repressor in mammals (Reppert and Weaver, 2002). These two
+      roles reflect two major features of the cryptochrome ancestor photolyase,
+      namely, photon capture and interaction with DNA (Emery et al., 1998;
+      Gehring and Rosbash, 2003). It is striking that butterflies have two cryp-
+      tochromes: one that resembles more closely Drosophila cryptochrome and
+      functions as a photoreceptor; and another that resembles more closely
+      mammalian cryptochrome and functions as a transcriptional repressor
+      (Zhu et al., 2005). The butterfly situation appears to be the insect “rule,”
+      with the Drosophila situation the “exception” (Yuan et al., 2007).
+         The role of cryptochrome in transcriptional repression was preceded
+      by the discovery of CLK-BMAL1 in mammals and their orthologs CLK-
+      CYC in flies. Joe Takahashi and colleagues spearheaded the cloning of
+      CLK through a forward genetic screen in mice. A robust behavioral phe-
+      notype of the CLKD17 allele was first identified by behavioral screening
+      (Vitaterna et al., 1994). The gene was identified three years later as a
+      member of the bHLH-PAS-containing protein family (Antoch et al., 1997;
+      King et al., 1997). The bHLH domain suggested DNA binding and other
+      bHLH-PAS family members had been identified as bona fide transcription
+      factors, making this function an excellent candidate for CLK. Moreover,
+
+
+                                                       Michael Rosbash Lecture   389
+
+
+given the presence of a PAS domain in PER and the circadian behavioral
+phenotype of the mutant, CLK was probably also a major circadian tran-
+scription factor as described above. Importantly however, the two 1997
+papers did not connect CLK to the transcription of PER (Antoch et al.,
+1997; King et al., 1997), i.e., they did not clarify whether CLK was the pos-
+itive transcription factor that drives the synthesis of the negative regula-
+tor PER. This was done a year later by Takahashi and coworkers, in
+papers that also identified the CLK partner BMAL1 (Darlington et al.,
+1998; Gekakis et al., 1998).
+    We came to the identical conclusion at almost the same time, by identi-
+fying the CLK-BMAL1 orthologs Clock-cycle or CLK-CYC (Allada et al.,
+1998; Rutila et al., 1998). This was the major result of a genetic screen we
+had been carrying out over several years. It had the goal of finding the
+positive transcription factor that drives the transcription of per and tim.
+To this end, we decided to focus on a large number of mutant strains,
+which were totally arrhythmic. The logic was that a loss of function muta-
+tion in this positive transcription factor would not be able to synthesize
+PER and TIM and therefore should be arrhythmic. We also adopted this
+strategy to do something different than what we knew was well underway
+in the Young laboratory, i.e., competently searching for mutant strains
+with altered circadian periods. Some of these inevitably emerged from
+our screen as well.
+    It turned out to be much easier to find arrhythmic strains than strains
+with altered periods, presumably because functional rhythms rely on
+many different functions and pathways, e.g., output pathways from circa-
+dian neurons to motor neurons, in addition to the core timekeeping
+mechanism. A subscreen was therefore required to avoid these output
+pathways and focus in on that subset of the arrhythmic strains that might
+be candidates for encoding the positive transcription factor(s). So about
+50 arrhythmic strains were assayed for cycling of per and tim mRNA. The
+vast majority of these mutant strains still manifested robust cycling of per
+and tim mRNAs, consistent with the notion that they did not impact core
+circadian timekeeping. (As a byproduct, these results indicated that
+robust behavioral oscillations are not necessary for molecular feedback,
+e.g., for the effect of PER on the cycling of its own mRNA (Fig. 9).) How-
+ever, 3 mutant strains were exceptional and manifested non-cycling, low
+levels of per mRNA even in a light-dark cycle. We then identified and
+cloned the 3 mutant genes. Remarkably, two of them were alleles of cycle,
+and one was an allele of Clock, exactly the phenotype one might expect
+from a mutant in the key positive circadian transcription (Allada et al.,
+1998; Rutila et al., 1998). Given the results of Takahashi and colleagues
+(Darlington et al., 1998; Gekakis et al., 1998), the field was really on its
+way by 1998 with powerful, parallel systems in flies and mammals.
+
+
+390   THE NOBEL PRIZES
+
+
+         The final coda to the feedback loop chapter was the demonstration
+      that PER interacts directly with CLK-CYC in flies (Lee et al., 1998; Menet
+      et al., 2010) and with CLK-BMAL1 in mammals (Lee et al., 2001).
+
+
+      A FAMILY STORY RESULTING IN TRIKINETICS
+      LOCOMOTOR ACTIVITY MONITORS
+      I went on sabbatical to Paris with my family in 1988–1989. In the spring
+      of 1989, shortly before returning to Brandeis, I received a phone call in
+      Paris from Max Cowan, the Chief Scientific Officer of the Howard Hughes
+      Medical Institute (HHMI). He informed me that I would be appointed as
+      an Investigator of HHMI as of July 1, 1989. He asked me what I wanted for
+      “set-up funds.” I told him I had no idea because I already had a functional
+      lab. He then suggested $100,000.00, and I said “sure.” As there were no
+      pressing needs, I began to consider what I might do with those funds.
+          Shortly after returning to Brandeis in late June, I went to a family
+      (wife’s family) barbecue in Newton, Massachusetts where I live. My wife
+      is Chilean, and her brother-in-law was visiting with us. His first cousin,
+      Sergio Simunovic, is also Chilean by birth and lives in Newton, had gone
+      to MIT, and was the host of the barbecue. I asked Sergio what he did for a
+      living. He answered that he was an engineer and owned a small robotics
+      company in Waltham, Massachusetts. Waltham is next to Newton and
+      also where Brandeis University is situated. I immediately asked Sergio if
+      he might be interested in designing and building Drosophila locomotor
+      activity monitors for us. He introduced me to his partner Mark Spencer,
+      and we decided to begin a collaboration. It used up half my HHMI set-up
+      funds, i.e., I paid $50,000.00 to TriKinetics to fund the R&D costs of the
+      Drosophila locomotor activity monitors. (Perhaps some monitors were
+      included in this initial cost; I can’t recall.) For several months, Mark
+      worked almost exclusively with my post-doc/research assistant Joan
+      Rutila, the talented individual in my lab who supervised our genetic
+      screening efforts, to design functional activity monitors. The challenge
+      was to adjust the detection sensitivity so beam crossing detection was
+      reliable – with minimal false positives and false negatives; this obstacle
+      was eventually surmounted by Mark and Joan. In summary, success was
+      achieved through a 3-way collaboration: my HHMI funds and initiative,
+      Mark, and Joan. These same monitors are still sold today (Fig. 12).
+          I never imagined that these monitors would be used all over the world,
+      i.e., I had assumed that they would be used by our two labs at Brandeis,
+      perhaps also the Young lab at Rockefeller and then eventually by a few of
+      our students who would establish independent labs. One would expect
+      that I or my lab received some money or discount from TriKinetics but
+      this was not the case.
+
+
+                                                         Michael Rosbash Lecture   391
+
+
+
+                                               Figure 12. Drosophila Activity
+                                               Monitors.
+
+
+
+
+EVOLUTIONARY CONSIDERATIONS
+Somewhat after the first transcriptional feedback loop papers appeared
+from Brandeis, the Dunlaps at Dartmouth published an outstanding
+mechanistic paper describing a rather similar feedback loop scheme for
+Neurospora circadian rhythms (Aronson et al., 1994). This story started
+with Jerry Feldman, who was at UC Santa Cruz. Feldman and his col-
+leagues isolated Neurospora circadian mutants not too long after the
+Konopka story was published (Feldman and Hoyle, 1973; Feldman and
+Hoyle, 1976). These studies identified the frequency gene, which had
+genetic properties remarkably similar to those described by Konopka and
+Benzer for Drosophila and its period gene (Gardner and Feldman, 1980;
+Loros and Feldman, 1986; Loros et al., 1986). Jay Dunlap was a post-doc
+in the Feldman lab at Santa Cruz and moved along with his now wife Jen-
+nifer Loros to Dartmouth and began a molecular attack on the circadian
+problem in Neurospora. Over the subsequent almost 25 years since the
+first molecular paper (Aronson et al., 1994), the Neurospora circadian
+clock has developed into a wonderful scientific tale, which has striking
+similarities to the fly and mammalian clock (Dunlap and Loros, 2017).
+Dunlap and Loros have even argued that these clocks have a single origin
+(Lee et al., 2000). However, I find these data less than totally convincing,
+i.e., the similarities either reflect convergent evolution or the evolutionary
+relationship between animal and Neurospora rhythms has not yet been
+clarified.
+
+
+392   THE NOBEL PRIZES
+
+
+         From a more general perspective and as mentioned near the beginning
+      of this manuscript, circadian clocks almost certainly arose multiple times
+      in evolution; there is essentially no molecular bridge between the cyano-
+      bacterial clock and eukaryotic clocks, and only the most speculative con-
+      nection between plant clocks and the mammalian-fly clock (Rosbash,
+      2009). Fly cryptochrome does suggest, however, that this particular
+      branch of the circadian world arose in response to the DNA damage
+      caused by sunlight. Moreover, this “flight from light” hypothesis also
+      explains the blue light sensitivity of cryptochrome. This is the wavelength
+      that penetrates substantial depths in the ocean, perhaps reflecting the
+      origin of life in the oceans as well as the diel migration that still occurs
+      there today (Emery et al., 1998; Gehring and Rosbash, 2003; Pittendrigh,
+      1993; Rosbash, 2009). Responding to light would have preceded the origin
+      of clocks, e.g., the ability to anticipate the daily appearance of light at
+      dawn. In this view, the circadian kinases and other molecules that partici-
+      pate in the DNA damage response might even bridge plant and animal
+      clocks (Rosbash, 2009). There is also another competing hypothesis to
+      “flight from light” for the origins of clocks, namely the temporal organiza-
+      tion of metabolism (Tu and McKnight, 2006).
+
+
+      WHAT REMAINS INTERESTING TO STUDY IN CIRCADIAN BIOLOGY?
+      Metabolism segues conveniently to medicine and future practical
+      advances: metabolism is one of the myriad aspects of human physiology
+      that are under circadian control. However, this Nobel Prize was given pre-
+      dominantly for our contributions to physiology rather than to medicine.
+      (The Prize is after all for Physiology OR Medicine.). We now know about
+      the dangers of shift work, the benefits of good circadian and sleep
+      hygiene as well as the possible benefits of restricted feeding (Melkani and
+      Panda, 2017), but major medical applications remain a future goal.
+      Although this sentiment is similar to the one expressed by T.H. Morgan
+      about genetics and medicine in his Nobel manuscript (The Nobel Lecture
+      1934), I am more optimistic about future medical advances from circadian
+      biology than he was about medical advances from genetics in 1933. For
+      understandable reasons, Morgan could not foresee the remarkable future
+      that lay ahead for genetics, a practical as well as a conceptual future. The
+      future is now more tangible in the case of clocks, because so much of the
+      mammalian genome and therefore so much of physiology is known to be
+      under circadian control (Zhang et al., 2014). There are also a number of
+      possible drug targets implicated in the regulation of circadian physiology.
+         Additional future challenges are the precise timing mechanisms of ani-
+      mal circadian clocks and temperature compensation. What is really keep-
+      ing time, i.e., what are the rate-limiting steps and why is there such little
+
+
+                                                        Michael Rosbash Lecture   393
+
+
+change with temperature? Although some progress has been made in our
+understanding of temperature compensation (Mehra et al., 2009), I sus-
+pect there is more to learn.
+   Another frontier is the relationship between neuroscience, clocks and
+sleep. Circadian clocks have been known for a long time to impact sleep
+(Borbely, 1982; Borbely et al., 2016; Daan et al., 1984). Moreover, sleep
+remains a major mystery. There are many hypotheses about how and why
+we sleep, but in my opinion these issues – especially why we sleep –
+remain major mysteries. Moreover, the neuronal circuitry that underlies
+the “how” of sleep and perhaps also the “why” is quite complex in mam-
+mals (Saper and Fuller, 2017). I am optimistic that the rather simple
+organization of the fly brain and especially its circadian circuitry will pro-
+vide an entrée into this fascinating topic; my own current research is
+beginning to focus in this direction (Guo et al., 2016). I look forward to a
+future that will reveal the mysteries of sleep comparable to the progress I
+have witnessed in circadian biology since I began in this field 35 years
+ago.
+
+
+FINAL THOUGHTS
+What began in 1982 as a foray into cloning a clock gene became a grand
+adventure. Much to my surprise, a remarkable landscape was eventually
+revealed. I say this not because I was particularly pessimistic or uninter-
+ested in circadian biology 35 years ago but because most research prob-
+lems don’t work out in such remarkable fashion.
+   I have been asked by numerous students since October 2 something
+like, “How can I do something important and significant like you have
+done?” The answer is, “I have no idea, not only for you but also for me: I
+don’t know how I arrived at this place today. This answer is a bit tongue
+in cheek of course, so here’s a somewhat more detailed answer.
+   Luck played a huge role in my success, indeed in anyone’s success. A
+substantial fraction of this luck was just being in the right place at the
+right time. Another fraction, perhaps not unrelated to the “right place-
+right time” comment, was knowing about nucleic acids and macromo-
+lecular metabolism when this turned out to be a key to thinking about the
+problem. Having an operating yeast RNA lab interspersed among my cir-
+cadian researchers was an enormous advantage when it was time to put
+in place these methods.
+   It is also important to stress that almost all aspects of luck are just
+“one-off” and cannot be repeated. Like the pinball that seemingly traces
+the same path, it doesn’t come out exactly the same the second time
+‘round. For this reason, trying to do something great – shooting for prizes
+and fame let’s call it – is a fool’s errand. It is good to pick an important
+
+
+394   THE NOBEL PRIZES
+
+
+      problem, but even more important is to love your work, the craft of being
+      a scientist. My partner in crime Jeff Hall adored the craft of fly genetics;
+      he was damn good at it too. A second piece of advice is to enjoy the people.
+      Life science research is truly a social activity – or at least it was during my
+      more than 50 years since I began graduate school at MIT. I have made
+      remarkable friends through science, people I truly admire and in some
+      cases love. I am also fond of almost all the fantastic people who joined my
+      circadian lab at key points in time. It goes without saying that I wouldn’t be
+      writing this document without their efforts, intellectual as well as physical.
+      There is also family to thank, wife as well as children. They have been
+      long-suffering and an unending source of support and joy.
+         I will close by saying that I never saw myself in historical context when
+      work was ongoing (I still don’t) but as the scientific equivalent of a work-
+      ing class guy; I was always trying to put one foot in front of the other so
+      that my research was moving forward more often than it was moving
+      backwards – at least some of the time. Like almost every other active sci-
+      entist, I was trying to maintain my funding, make sure my students and
+      post-docs had decent papers and fulfill my obligations to Brandeis and to
+      HHMI. Even when we published the feedback loop paper (Hardin et al.,
+      1990), there was no dramatic sense of accomplishment. We simply moved
+      on to the next stage of the work, the next stage of worry I might call it: Is
+      the paper correct? How could we resolve the ambiguities in the final fig-
+      ure/model? How does PER work? This is truly how I see myself; I am just
+      a regular guy, a scientist who got incredibly lucky.
+
+
+
+
+      references
+      Albrecht, U., Sun, Z.S., Eichele, G., and Lee, C.C. (1997). A differential response of
+         two putative mammalian circadian regulators, mper1 and mper2, to light. Cell
+         91, 1055–1064.
+      Allada, R., White, N.E., So, W.V., Hall, J.C., and Rosbash, M. (1998). A mutant
+         Drosophila homolog of mammalian Clock disrupts circadian rhythms and tran-
+         scription of period and timeless. Cell 93, 791–804.
+      Antoch, M.P., Song, E.-J., Chang, A.-M., Vitaterna, M.H., Zhao, Y., Wilsbacher, L.D.,
+         Sangoram, A.M., King, D.P., Pinto, L.H., and Takahashi, J.S. (1997). Functional
+         identification of the mouse circadian clock gene by transgenic BAC rescue. Cell
+         89, 655–667.
+      Aronson, B.D., Johnson, K.A., Loros, J.J., and Dunlap, J.C. (1994). Negative feed-
+         back defines a circadian clock: Autoregulation of the clock gene frequency. Sci-
+         ence 263, 1578–1584.
+      Bargiello, T.A., Jackson, F.R., and Young, M.W. (1984). Restoration of circadian
+         behavioural rhythms by gene transfer in Drosophila. Nature 312, 752–754.
+      Bargiello, T.A., Saez, L., Baylies, M.K., Gasic, G., Young, M.W., and Spray, D.C.
+         (1987). The Drosophila clock gene per affects intercellular junctional communi-
+         cation. Nature 328, 686–691.
+
+
+                                                                Michael Rosbash Lecture     395
+
+
+Bargiello, T.A., and Young, M.W. (1984). Molecular genetics of a biological clock in
+   Drosophila. Proc Natl Acad Sci USA 81, 2142–2146.
+Baylies, M.K., Bargiello, T.A., Jackson, F.R., and Young, M.W. (1987). Changes in
+   abundance or structure of the per gene product can alter periodicity of the
+   Drosophila clock. Nature 326, 390–392.
+Bender, W., Akam, M., Karch, F., Beachy, P.A., Peifer, M., Spierer, P., Lewis, E.B.,
+   and Hogness, D.S. (1983a). Molecular Genetics of the Bithorax Complex in
+   Drosophila melanogaster. Science 221, 23–29.
+Bender, W., Spierer, P., and Hogness, D.S. (1983b). Chromosomal walking and
+   jumping to isolate DNA from the Ace and rosy loci and the bithorax complex in
+   Drosophila melanogaster. J Mol Biol 168, 17–33.
+Borbely, A.A. (1982). A two process model of sleep regulation. Hum Neurobiol 1,
+   195–204.
+Borbely, A.A., Daan, S., Wirz-Justice, A., and Deboer, T. (2016). The two-process
+   model of sleep regulation: a reappraisal. J Sleep Res 25, 131–143.
+Bunning, E. (1935). Zur Kenntniss der endergonen Tagesrhythmik bei Insekten
+   und Pflanzen. Ber Deut botan Ges 53, 594–623.
+Ceriani, M.F., Darlington, T.K., Staknis, D., Mas, P., Petti, A.A., Weitz, C.J., and Kay,
+   S.A. (1999). Light-dependent sequestration of TIMELESS by CRYP-
+   TOCHROME. Science 285, 553–556.
+Chiu, J.C., Ko, H.W., and Edery, I. (2011). NEMO/NLK phosphorylates PERIOD to
+   initiate a time-delay phosphorylation circuit that sets circadian clock speed.
+   Cell 145, 357–370.
+Citri, Y., Colot, H.V., Jacquier, A.C., Yu, Q., Hall, J.C., Baltimore, D., and Rosbash,
+   M. (1987). A family of unusually spliced biologically active transcripts encoded
+   by a Drosophila clock gene. Nature 326, 42–47.
+Colot, H.V., Hall, J.C., and Rosbash, M. (1988). Interspecific comparison of the
+   period gene of Drosophila reveals large blocks of non-conserved coding DNA.
+   EMBO J 7, 3929–3937.
+Crews, S.T., Thomas, J.B., and Goodman, C.S. (1988). The Drosophila single-minded
+   gene encodes a nuclear protein with sequence similarity to the per gene prod-
+   uct. Cell 52, 143–152.
+Daan, S. (2010). A History of Chronobiological Concepts: In The Circadian Clock, U.
+   Albrecht, ed. (New York, NY: Springer), pp. 1–35.
+Daan, S., Beersma, D.G., and Borbely, A.A. (1984). Timing of human sleep: recov-
+   ery process gated by a circadian pacemaker. Am J Physiol 246, R161–183.
+Darlington, T.K., Wager-Smith, K., Ceriani, M.F., Staknis, D., Gekakis, N., Steeves,
+   T.D.L., Weitz, C.J., Takahashi, J.S., and Kay, S.A. (1998). Closing the Circadian
+   Loop: CLOCK-induced Transcription of Its Own Inhibitors per and tim. Science
+   280, 1599–1603.
+Dunlap, J.C., and Loros, J.J. (2017). Making Time: Conservation of Biological
+   Clocks from Fungi to Animals. Microbiol Spectr 5.
+Emery, P., So, W.V., Kaneko, M., Hall, J.C., and Rosbash, M. (1998). CRY, a Drosoph-
+   ila clock and light-regulated cryptochrome, is a major contributor to circadian
+   rhythm resetting and photosensitivity. Cell 95, 669–679.
+Emery, P., Stanewsky, R., Hall, J.C., and Rosbash, M. (2000a). A unique circadi-
+   an-rhythm photoreceptor. Nature 404, 456–457.
+Emery, P., Stanewsky, R., Helfrich-Forster, C., Emery-Le, M., Hall, J.C., and Ros-
+   bash, M. (2000b). Drosophila CRY is a deep brain circadian photoreceptor.
+   Neuron 26, 493–504.
+
+
+396   THE NOBEL PRIZES
+
+
+      Feldman, J.F., and Hoyle, M. (1973). Isolation of circadian clock mutants of Neuros-
+         pora crassa. Genetics 755, 605–613.
+      Feldman, J.F., and Hoyle, M.N. (1976). Complementation analysis of linked circa-
+         dian clock mutants of Neurospora crassa. Genetics 82, 9–17.
+      Flint, K.K., Rosbash, M., and Hall, J.C. (1993). Transfer of dye among salivary gland
+         cells is not affected by genetic variations of the period clock gene in Drosophila
+         melanogaster. JMembrane Biol 136, 333–342.
+      Gardner, G.F., and Feldman, J.F. (1980). The frq locus in Neurospora crassa: A key
+         element in circadian clock organization. Genetics 96, 877–886.
+      Gehring, W., and Rosbash, M. (2003). The coevolution of blue-light photoreception
+         and circadian rhythms. J Mol Evol 57 Suppl 1, S286–289.
+      Gekakis, N., Saez, L., Delahaye-Brown, A.-M., Myers, M.P., Sehgal, A., Young, M.W.,
+         and Weitz, C.J. (1995). Isolation of timeless by PER protein interactions: Defec-
+         tive interaction between timeless protein and long-period mutant PERL. Science
+         270, 811–815.
+      Gekakis, N., Staknis, D., Nguyen, H.B., Davis, C.F., Wilsbacher, L.D., King, D.P.,
+         Takahashi, J.S., and Weitz, C.J. (1998). Role of the CLOCK protein in the mam-
+         malian circadian mechanism. Science 280, 1564–1569.
+      Gotter, A.L. (2006). A Timeless debate: resolving TIM’s noncircadian roles with
+         possible clock function. Neuroreport 17, 1229–1233.
+      Guo, F., Cerullo, I., Chen, X., and Rosbash, M. (2014). PDF neuron firing phase-
+         shifts key circadian activity neurons in Drosophila. Elife 3.
+      Guo, F., Yu, J., Jung, H.J., Abruzzi, K.C., Luo, W., Griffith, L.C., and Rosbash, M.
+         (2016). Circadian neuron feedback controls the Drosophila sleep–activity pro-
+         file. Nature 536, 292–297.
+      Hardin, P.E., Hall, J.C., and Rosbash, M. (1990). Feedback of the Drosophila period
+         gene product on circadian cycling of its messenger RNA levels. Nature 343,
+         536–540.
+      Hardin, P.E., Hall, J.C., and Rosbash, M. (1992). Circadian oscillations in period
+         gene mRNA levels are transcriptionally regulated. Proc Natl Acad Sci USA 89,
+         11711–11715.
+      Hardin, P.E., and Panda, S. (2013). Circadian timekeeping and output mechanisms
+         in animals. Curr Opin Neurobiol 23, 724–731.
+      Hastings, J.W., and Sweeney, B.M. (1957). On the mechanism of temperature inde-
+         pendence in a biological clock. Proc Natl Acad Sci USA 43, 804–811.
+      Huang, Z.J., Edery, I., and Rosbash, M. (1993). PAS is a dimerization domain com-
+         mon to Drosophila Period and several transcription factors. Nature 364, 259–
+         262.
+      Hunter-Ensor, M., Ousley, A., and Sehgal, A. (1996). Regulation of the Drosophila
+         protein timeless suggests a mechanism for resetting the circadian clock by light.
+         Cell 84, 677–685.
+      Jackson, R.F., Bargiello, T.A., Yun, S.-H., and Young, M.W. (1986). Product of the
+         per locus of Drosophila shares homology with proteoglycans. Nature 320, 185–
+         188.
+      Jang, A.R., Moravcevic, K., Saez, L., Young, M.W., and Sehgal, A. (2015). Drosophila
+         TIM binds importin alpha1, and acts as an adapter to transport PER to the
+         nucleus. PLoS Genet 11, e1004974.
+      Kalmus, H. (1935). Periodizität und Autochronie (= Ideochronie) als zeitregelnde
+         Eigenschaften des Organismus. Biologia Generalis 11, 93–114.
+      Kalmus, H. (1940a). Diurnal Rhythms in the Axolotl Larva and in Drosophila.
+         Nature 145, 72–73.
+
+
+                                                              Michael Rosbash Lecture     397
+
+
+Kalmus, H. (1940b). New research in the diurnal periodicity of animals. Acta Med
+    Scand, suppl 108, 227–233.
+Kidd, P.B., Young, M.W., and Siggia, E.D. (2015). Temperature compensation and
+    temperature sensation in the circadian clock. Proc Natl Acad Sci USA 112,
+    E6284–6292.
+King, D.P., Zhao, Y., Sangoram, A.M., Wilsbacher, L.D., Tanaka, M., Antoch, M.P.,
+    Steeves, T.D.L., Vitaterna, M.H., Kornhauser, J.M., Lowrey, P.L., et al. (1997).
+    Positional Cloning of the mouse circadian clock gene. Cell 89, 641–653.
+Kloss, B., Price, J.L., Saez, L., Blau, J., Rothenfluh, A., Wesley, C.S., and Young,
+    M.W. (1998). The Drosophila clock gene double-time encodes a protein closely
+    related to human casein kinase Iepsilon. Cell 94, 97–107.
+Koh, K., Zheng, X., and Sehgal, A. (2006). JETLAG resets the Drosophila circadian
+    clock by promoting light-induced degradation of TIMELESS. Science 312,
+    1809–1812.
+Kondo, T., Strayer, C.A., Kulkarni, R.D., Taylor, W., Ishiura, M., Golden, S.S., and
+    Johnson, C.H. (1993). Circadian rhythms in prokaryotes: Luciferase as a
+    reporter of circadian gene expression in cyanobacteria. Proc Natl Acad Sci USA
+    90, 5672–5676.
+Konopka, R.J., and Benzer, S. (1971). Clock mutants of Drosophila melanogaster.
+    Proc Natl Acad Sci USA 68, 2112–2116.
+Kyriacou, C.P., Green, E.W., Piffer, A., and Dowse, H.B. (2017). Failure to reproduce
+    period-dependent song cycles in Drosophila is due to poor automated pulse-de-
+    tection and low-intensity courtship. Proc Natl Acad Sci USA.
+Kyriacou, C.P., and Hall, J.C. (1980). Circadian rhythm mutations in Drosophila
+    melanogaster affect short-term fluctuatons in the male’s courtship song. Proc
+    Natl Acad Sci USA 77, 6729–6733.
+Lee, C., Bae, K., and Edery, I. (1998). The Drosophila CLOCK protein undergoes
+    daily rhythms in abundance, phosphorylation and interactions with the PER-
+    TIM complex. Neuron 4, 857–867.
+Lee, C., Etchegaray, J.P., Cagampang, F.R., Loudon, A.S., and Reppert, S.M. (2001).
+    Posttranslational mechanisms regulate the mammalian circadian clock. Cell
+    107, 855–867.
+Lee, K., Loros, J.J., and Dunlap, J.C. (2000). Interconnected feedback loops in the
+    Neurospora circadian system. Science 289, 107–110.
+Li, Y., Guo, F., Shen, J., and Rosbash, M. (2014). PDF and cAMP enhance PER sta-
+    bility in Drosophila clock neurons. Proc Natl Acad Sci USA 111, E1284–1290.
+Li, Y., and Rosbash, M. (2013). Accelerated degradation of perS protein provides
+    insight into light-mediated phase shifting. J Biol Rhythms 28, 171–182.
+Liu, X., Zwiebel, L.J., Hinton, D., Benzer, S., Hall, J.C., and Rosbash, M. (1992). The
+    period gene encodes a predominantly nuclear protein in adult Drosophila. J
+    Neurosci 12, 2735–2744.
+Lorenz, L.J., Hall, J.C., and Rosbash, M. (1989). Expression of a Drosophila mRNA
+    is under circadian clock control during pupation. Development 107, 869–880.
+Loros, J.J., and Feldman, J.F. (1986). Loss of temperature compensation of circa-
+    dian period length in the frq-9 mutant of Neurospora crassa. J Biol Rhythms 1,
+    18767–18198.
+Loros, J.J., Richman, A., and Feldman, J.F. (1986). A recessive circadian clock
+    mutant at the frq locus in Neurospora crassa. Genetics 114, 1095–1110.
+Lowrey, P.L., Shimomura, K., Antoch, M.P., Yamazaki, S., Zemenides, P.D., Ralph, M.R.,
+    Menaker, M., and Takahashi, J.S. (2000). Positional syntenic cloning and functional
+    characterization of the mammalian circadian mutation tau. Science 288, 483–492.
+
+
+398   THE NOBEL PRIZES
+
+      Lucas, R.J., Freedman, M.S., Munoz, M., Garcia-Fernandez, J.M., and Foster, R.G.
+         (1999). Regulation of the mammalian pineal by non-rod, non-cone, ocular pho-
+         toreceptors. Science 284, 505–507.
+      Mehra, A., Shi, M., Baker, C.L., Colot, H.V., Loros, J.J., and Dunlap, J.C. (2009). A
+         role for casein kinase 2 in the mechanism underlying circadian temperature
+         compensation. Cell 137, 749–760.
+      Melkani, G.C., and Panda, S. (2017). Time-restricted feeding for prevention and
+         treatment of cardiometabolic disorders. J Physiol 595, 3691–3700.
+      Menet, J.S., Abruzzi, K.C., Desrochers, J., Rodriguez, J., and Rosbash, M. (2010).
+         Dynamic PER repression mechanisms in the Drosophila circadian clock: from
+         on-DNA to off-DNA. Genes Dev 24, 358–367.
+      Meyer, P., Saez, L., and Young, M.W. (2006). PER-TIM interactions in living
+         Drosophila cells: an interval timer for the circadian clock. Science 311, 226–229.
+      Myers, M.P., Wager-Smith, K., Rothenfluh-Hilfiker, A., and Young, M.W. (1996).
+         Light-induced degradation of TIMELESS and entrainment of the Drosophila
+         circadian clock. Science 271, 1736–1740.
+      Myers, M.P., Wager-Smith, K., Wesley, C.S., Young, M.W., and Sehgal, A. (1995).
+         Positional cloning and sequence analysis of the Drosophila clock gene timeless.
+         Science 270, 805–808.
+      Pittendrigh, C.S. (1954). On temperature independence in the clock-system con-
+         trolling emergence time in Drosophila. Proc Natl Acad Sci USA 40, 1018–1029.
+      Pittendrigh, C.S. (1993). Temporal organization: Reflections of a Darwinian clock-
+         watcher. Annu Rev Physiol 55, 17–54.
+      Price, J.L., Blau, J., Rothenfluh, A., Abodeely, M., Kloss, B., and Young, M.W. (1998).
+         double-time is a novel Drosophila clock gene that regulates PERIOD protein
+         accumulation. Cell 94, 83–95.
+      Price, J.L., Dembinska, M.E., Young, M.W., and Rosbash, M. (1995). Suppression of
+         PERIOD protein abundance and circadian cycling by the Drosophila clock
+         mutation timeless. EMBO J 14, 4044–4049.
+      Provencio, I., Jiang, G., De Grip, W.J., Hayes, W.P., and Rollag, M.D. (1998). Melan-
+         opsin: An opsin in melanophores, brain, and eye. Proc Natl Acad Sci USA 95,
+         340–345.
+      Reddy, P., Jacquier, A.C., Abovich, N., Petersen, G., and Rosbash, M. (1986). The
+         period clock locus of D. melanogaster codes for a proteoglycan. Cell 46, 53–61.
+      Reddy, P., Zehring, W.A., Wheeler, D.A., Pirrotta, V., Hadfield, C., Hall, J.C., and
+         Rosbash, M. (1984). Molecular analysis of the period locus in Drosophila mela-
+         nogaster and identification of a transcript involved in biological rhythms. Cell
+         38, 701–710.
+      Reppert, S.M., and Weaver, D.R. (2002). Coordination of circadian timing in mam-
+         mals. Nature 418, 935–941.
+      Rosbash, M. (2009). The implications of multiple circadian clock origins. PLoS
+         Biol 7, e62.
+      Rosbash, M. (2015). Ronald J. Konopka (1947–2015). Cell 161, 187–188.
+      Rubin, G.M., and Spradling, A.C. (1982). Genetic transformation of Drosophila with
+         transposable element vectors. Science 218, 348–353.
+      Rutila, J.E., Edery, I., Hall, J.C., and Rosbash, M. (1992). The analysis of new
+         short-period circadian rhythm mutants suggests features of D. melanogaster
+         period gene function. J Neurogenet 8, 101–113.
+      Rutila, J.E., Suri, V., Le, M., So, W.V., Rosbash, M., and Hall, J.C. (1998). CYCLE Is a
+         Second bHLH-PAS Clock Protein Essential for Circadian Rhythmicity and
+         Transcription of Drosophila period and timeless. Cell 93, 805–814.
+
+
+                                                             Michael Rosbash Lecture     399
+
+
+Rutila, J.E., Zeng, H., Le, M., Curtin, K.D., Hall, J.C., and Rosbash, M. (1996). The
+   timSL mutant of the Drosophila rhythm gene timeless manifests allele-specific
+   interactions with period gene mutants. Neuron 17, 921–929.
+Saez, L., Young, M.W., Baylies, M.K., Gasic, G., Bargiello, T.A., and Spray, D.C.
+   (1992). Per – no link to gap junctions. Nature 360, 542–542.
+Saper, C.B., and Fuller, P.M. (2017). Wake-sleep circuitry: An overview. Curr Opin
+   Neurobiol 44, 186–192.
+Sehgal, A., Price, J., Man, B., and Young, M. (1994). Loss of circadian behavioral
+   rhythms and per RNA oscillations in the Drosophila mutant timeless. Science
+   263, 1603–1606.
+Sehgal, A., Rothenfluh-Hilfiker, A., Hunter-Ensor, M., Chen, Y., Myers, M., and
+   Young, M.W. (1995). Rhythmic expression of timeless: A basis for promoting cir-
+   cadian cycles in period gene autoregulation. Science 270, 808–810.
+Shafer, O.T., Rosbash, M., and Truman, J.W. (2002). Sequential Nuclear Accumula-
+   tion of the Clock Proteins Period and Timeless in the Pacemaker Neurons of
+   Drosophila melanogaster. J Neurosci 22, 5946–5954.
+Shearman, L.P., Zylka, M.J., Weaver, D.R., Kolakowski, L.F.J., and Reppert, S.M.
+   (1997). Two period homologs: circadian expression and photic regulation in the
+   suprachiasmatic nuclei. Neuron 19, 1261–1269.
+Shigeyoshi, Y., Taguchi, K., Yamamoto, S., Takekida, S., Yan, L., Tei, H., Moriya, T.,
+   Shibata, S., Loros, J.J., Dunlap, J.C., et al. (1997). Light-induced resetting of a
+   mammalian circadian clock is associated with rapid induction of the mPer1
+   transcript. Cell 91, 1043–1053.
+Siwicki, K.K., Flint, K.F., Hall, J.C., Rosbash, M., and Spray, D.C. (1992). The
+   Drosophila period gene and dye coupling in larval salivary glands: a re-evalua-
+   tion. Biol Bull 183, 340–341.
+Spierer, P., Spierer, A., Bender, W., and Hogness, D.S. (1983). Molecular mapping of
+   genetic and chromomeric units in Drosophila melanogaster. J Mol Biol 168, 35–50.
+Spradling, A.C., and Rubin, G.M. (1982). Transposition of cloned P elements into
+   Drosophila germ line chromosomes. Science 218, 341–347.
+Stanewsky, R., Kaneko, M., Emery, P., Beretta, M., Wager-Smith, K., Kay, S.A., Ros-
+   bash, M., and Hall, J.C. (1998). The cryb mutation identifies cryptochrome as a
+   circadian photoreceptor in Drosophila. Cell 95, 681–692.
+Stern, D.L. (2014). Reported Drosophila courtship song rhythms are artifacts of
+   data analysis. BMC Biol 12, 38.
+Stern, D.L., Clemens, J., Coen, P., Calhoun, A.J., Hogenesch, J.B., Arthur, B.J., and
+   Murthy, M. (2017). Experimental and statistical reevaluation provides no evi-
+   dence for Drosophila courtship song rhythms. Proc Natl Acad Sci USA 114,
+   9978–9983.
+Sun, Z.S., Albrecht, U., Zhuchenko, O., Bailey, J., Eichele, G., and Lee, C.C. (1997).
+   RIGUI, a putative mammalian ortholog of the Drosophila period gene. Cell 90,
+   1003–1011.
+Suri, V., Hall, J.C., and Rosbash, M. (2000). Two novel doubletime mutants alter
+   circadian properties and eliminate the delay between RNA and protein in
+   Drosophila. J Neurosci 20, 7547–7555.
+Suri, V., Qian, Z., Hall, J.C., and Rosbash, M. (1998). Evidence that the TIM light
+   response is relevant to light-induced phase shifts in Drosophila melanogaster.
+   Neuron 21, 225–234.
+Tei, H., Okamura, H., Shigeyoshi, Y., Fukuhara, C., Ozawa, R., Hirose, M., and
+   Sakaki, Y. (1997). Circadian oscillation of a mammalian homologue of the
+   Drosophila period gene. Nature 389, 512–516.
+
+
+400   THE NOBEL PRIZES
+
+
+      Tu, B.P., and McKnight, S.L. (2006). Metabolic cycles as an underlying basis of
+         biological oscillations. Nat Rev Mol Cell Biol 7, 696–701.
+      Vitaterna, M.H., King, D.P., Chang, A.-M., Kornhauser, J.M., Lowrey, P.L., McDon-
+         ald, J.D., Dove, W.F., Pinto, L.H., Turek, F.W., and Takahashi, J.S. (1994).
+         Mutagenesis and mapping of a mouse gene, Clock, essential for circadian
+         behavior. Science 264, 719–725.
+      Vitaterna, M.H., Selby, C.P., Todo, T., Niwa, H., Thompson, C., Fruechte, E.M., Hit-
+         omi, K., Thresher, R.J., Ishikawa, T., Myazaki, J., et al. (1999). Differential regu-
+         lation of mammalian period genes and circadian rhythmicity by cryptochromes
+         1 and 2. Proc Natl Acad Sci USA 96, 12114–12119.
+      Vosshall, L.B., Price, J.L., Sehgal, A., Saez, L., and Young, M.W. (1994). Block in
+         nuclear localization of period protein by a second clock mutation, timeless. Sci-
+         ence 263, 1606–1609.
+      Weiner, J. (1999). Time, love, memory: A great biologist and his quest for the origins of
+         behavior, 1st ed. (New York: New York: Knopf).
+      Yang, Z., and Sehgal, A. (2001). Role of molecular oscillations in generating behav-
+         ioral rhythms in Drosophila. Neuron 29, 453–467.
+      Young, M.W., and Judd, B.H. (1978). Nonessential Sequences, Genes, and the Polyt-
+         ene Chromosome Bands of DROSOPHILA MELANOGASTER. Genetics 88,
+         723–742.
+      Yu, Q., Colot, H.V., Kyriacou, C.P., Hall, J.C., and Rosbash, M. (1987a). Behaviour
+         modification by in vitro mutagenesis of a variable region within the period gene
+         of Drosophila. Nature 326, 765–769.
+      Yu, Q., Jacquier, A.C., Citri, Y., Hamblen, M., Hall, J.C., and Rosbash, M. (1987b).
+         Molecular mapping of point mutations in the period gene that stop or speed up
+         biological clocks in Drosophila melanogaster. Proc Natl Acad Sci USA 84, 784–
+         788.
+      Yuan, Q., Metterville, D., Briscoe, A.D., and Reppert, S.M. (2007). Insect cryp-
+         tochromes: Gene duplication and loss define diverse ways to construct insect
+         circadian clocks. Mol Biol Evol 24, 948–955.
+      Zehring, W.A., Wheeler, D.A., Reddy, P., Konopka, R.J., Kyriacou, C.P., Rosbash,
+         M., and Hall, J.C. (1984). P-element transformation with period locus DNA
+         restores rhythmicity to mutant, arrhythmic Drosophila melanogaster. Cell 39,
+         369–376.
+      Zeng, H., Hardin, P.E., and Rosbash, M. (1994). Constitutive overexpression of the
+         Drosophila period protein inhibits period mRNA cycling. EMBO J 13, 3590–
+         3598.
+      Zeng, H., Qian, Z., Myers, M.P., and Rosbash, M. (1996). A light-entrainment mech-
+         anism for the Drosophila circadian clock. Nature 380, 129–135.
+      Zhang, R., Lahens, N.F., Ballance, H.I., Hughes, M.E., and Hogenesch, J.B. (2014). A
+         circadian gene expression atlas in mammals: Implications for biology and med-
+         icine. Proc Natl Acad Sci USA 111, 16219–16224.
+      Zhu, H., Yuan, Q., Briscoe, A.D., Froy, O., Casselman, A., and Reppert, S.M. (2005).
+         The two CRYs of the butterfly. Curr Biol 15, R953–954.
+

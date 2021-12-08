@@ -1,0 +1,604 @@
+EQUILIBRIUM IN THE LABOUR MARKET WITH
+SEARCH FRICTIONS
+Prize Lecture, December 8, 2010
+by
+CHRISTOPHER A. PISSARIDES1
+London School of Economics, UK.
+Research in the economics of the labour market when there are search
+frictions started in the 1960s, with influential contributions from George
+Stigler (1962), John McCall (1970) and the papers collected in Edmund
+Phelps et al. (1970). Of course, as is common in economics, this was not
+the first time that economists took seriously the role of search frictions in
+their research. Insightful discussions of the role of frictions in labour market equilibrium can be found much earlier, in books by John Hicks (1932)
+and William Hutt (1939). But it was not until the late 1960s that formal
+mathematical models of individual behaviour and labour market equilibrium
+appeared.
+The development of formal mathematical models with search frictions
+coincided with the time that I was looking for a topic for my PhD research.
+2
+Two things about search impressed me most. In the Phelps volume, search
+was claimed as a microfoundation for the natural rate of unemployment, introduced just a year or two before by Milton Friedman (1968) and Edmund
+Phelps (1967), and for the inflation-unemployment trade-off (the Phillips
+curve). It was also claimed, by Axel Leijonhufvud (1968) in particular, that it
+could provide a microfoundation for Keynes’s concept of effective demand:
+the idea was that the job seeker could make her demand for goods effective
+only after she succeeded in locating a mutually acceptable job match.
+The articles in the Phelps volume, however, especially those by Phelps
+(1970) and Dale Mortensen (1970) which had explicit models of the Phillips
+curve, required a wage distribution to obtain the microfoundations of the
+Phillips curve. As Peter Diamond (1971) and Michael Rothschild (1973)
+pointed out, this was not consistent with the other assumptions of the
+models.
+3 Leijonhufvud’s claims also required something more than search.
+1 I have benefited from discussions with my two co-winners, Peter Diamond and Dale
+ Mortensen, and from comments from Gary Fethke, Yannis Ioannides, Rachel Ngai and
+ Robert Shimer. 2 This timing coincided with my first meeting with Dale Mortensen, who was a visitor at the
+ University of Essex when I was finishing my undergraduate and Master’s studies there, but
+ our collaboration had to wait for another twenty years to materialise. 3 Another prominent critic of the papers in the Phelps volume, which influenced the literature
+ that followed, was Tobin (1972).
+Pissarides_lect.indd 2 2011-08-29 11:07:25
+397
+They required either wage rigidity or absence of capital markets. Dealing
+with these two apparently unconnected issues appeared to be important
+items on the research agenda of the macroeconomics of the labour market.
+Both the Phillips curve and Keynesian demand management played a key
+role in both macroeconomic research and policy, yet they lacked good
+theoretical foundations.
+4
+MATCHING FRICTIONS AND TWO-SIDED SEARCH
+One of the appeals of early search theory was that it appeared realistic. The
+widely used ILO/OECD definition of unemployment is one of workers
+not in a job, looking for one, and available to take one. This was precisely
+the definition of unemployment used in search theory. In earlier theory,
+both neoclassical and Keynesian, the unemployed are not doing anything
+connected with their state. They might be enjoying temporary bouts of
+leisure or be idle waiting for a job to open up, but they are not looking for
+a job. In the Phelps volume, however, as in the important paper by McCall
+(1970), the worker is searching for a wage offer from a fixed distribution of
+wages, and if she is unemployed it is because she has failed to locate a high
+enough wage offer. This did not seem to be consistent with our intuition of
+what makes one unemployed for long periods of time, or with the view of
+unemployment taken by applied labour economists and official statistical
+agencies. It also appeared inconsistent with equilibrium in markets with
+search frictions, at least back then.
+Although there were many attempts to derive an equilibrium wage
+distribution for markets with search frictions, I took a different approach
+to labour market equilibrium that could be better described by the term
+“matching”. The idea is that the job search underlying unemployment in the
+official definitions is not about looking for a good wage, but about looking
+for a good job match. Moreover, it is not only the worker who is concerned
+to find a good match, with the firm passively prepared to hire anyone who
+accepts its wage offer, but the firm was also equally concerned with locating a
+good match before hiring someone.
+The foundation for this idea is that each worker has many distinct features,
+which make them suitable for different kinds of jobs. Job requirements vary
+across firms too, and employers are not indifferent about the type of worker
+that they hire, whatever the wage. The process of matching workers to jobs
+takes time, irrespective of the wage offered by each job. A process whereby
+both workers and firms search for each other and jointly either accept or
+reject the match seemed to be closer to reality.
+This approach to search has the advantage that it makes unemployment
+neither “voluntary” nor “involuntary”, concepts that caused a lot of confusion
+and fruitless debate in the literature. Unemployment is instead the outcome
+4 The outcome of my early research in these issues was my first book, Pissarides (1976), based
+ on my PhD thesis at the London School of Economics.
+Pissarides_lect.indd 3 2011-08-29 11:07:25
+398
+of a decentralised equilibrium, which may or may not be optimal. It seemed
+to me that the two-sided matching view had a better chance of success, both
+in grounding itself in microeconomic theory and in interpreting the facts
+about unemployment. It allowed one to study equilibrium models that could
+incorporate real-world features like differences across workers and jobs, and
+differences in the institutional structure of labour markets.
+The step from a theory of search based on the acceptance of a wage offer,
+and one based on a good match, is small, but has far-reaching implications
+for the modelling of the labour market. The reason is that in the case of
+searching for a good match we can bring in the matching function as a
+description of the choices available to the worker. The matching function
+captures many features of frictions in labour markets that are not made
+explicit. It is a black box, as Barbara Petrongolo and I called it in our 2001
+survey, in the same sense that the production function is a black box of
+technology. But it captures the key idea of a good match: it takes time to find
+a good match, the length of time it takes varies across workers in unpredictable ways, and if there were more job vacancies available, on average workers
+would find a good job match faster. The same applies to firms looking for
+workers; the matching function treats workers and firms symmetrically.
+Importantly, because the matching function was similar to other aggregate
+functions used in economic models, it became possible to write small
+equilibrium models of the labour market, with frictions captured by the
+matching function. It also became possible to estimate these models with real
+world data. I estimated the matching function with British data, and Olivier
+Blanchard and Peter Diamond estimated it with US data, with encouraging
+results (see Pissarides, 1986, and Blanchard and Diamond, 1989).
+TOWARDS AN EQUILIBRIUM MODEL
+I first used the matching function explicitly in 1979 (Pissarides, 1979),
+making it the main building block of an economy-wide model, at about the
+same time that Peter Diamond and Eric Maskin (1979) used the similar idea
+of the “search technology”. The model of my paper had no wage differentials but it had different methods of search. My main interest was to show
+that with a matching function one could get an interesting, simple model of
+equilibrium vacancies and unemployment without a wage distribution.
+But my 1979 paper still had no theory of wages. Soon after, however, it
+seems that all three of us independently realised that since frictions imply
+that the firm and the worker in a good match enjoy some monopoly power;
+wages need to share it between them. It helped that in the early 1980s, independent developments in bargaining theory were working out solutions for
+the splitting of a “cake”.5 The rewards from a good match in the Diamond5 Most influential among these was Ariel Rubinstein’s (1982) work. A bigger influence on my
+ research were informal discussions with my colleagues at LSE, who also pioneered work
+in this area, in particular Kenneth Binmore, Avner Shaked and John Sutton. See Binmore,
+ Rubinstein and Asher Wolinski (1986) and Shaked and Sutton (1984).
+Pissarides_lect.indd 4 2011-08-29 11:07:25
+399
+Mortensen-Pissarides (DMP) model was the cake that workers and firms had
+to split.
+I attempted the derivation of a wage equation in a search model using
+ideas in bargaining theory. The outcomes were some working papers that
+appeared around 1982, before the electronic era. I was unaware that both
+Peter Diamond (1982) and Dale Mortensen (1982) were working on similar
+issues and were one or two years ahead of me. The wage equation that I was
+deriving from the Nash solution to the wage bargain was virtually identical to
+the wage equation in Diamond’s (1982) paper. Seeing their papers on wages
+and efficiency made me switch to another issue that needed to be dealt with
+in an equilibrium model, that of job creation.
+JOB CREATION
+In both the Diamond (1982) and Mortensen (1982) papers the problem
+investigated was that of a fixed number of workers interacting with a fixed
+number of jobs. Yet, when looking at the workings of real labour markets
+over time, the most striking feature that one sees is how employment and
+job vacancies fluctuate; in other words, how the total number of jobs varies
+over time, depending on economic conditions. In order to make the theory
+applicable to business cycles there was need for a theory of job creation and
+job destruction. In my empirical research with British data (Pissarides, 1986),
+I found that the entry into unemployment was a virtually constant fraction of
+employment.6 Consequently, I focused on the derivation of a variable entry
+into unemployment, through a theory of job creation.
+The key feature of the matching model that I made use of was that
+employment was derived as the sum of distinct units called jobs, and not as
+an aggregate that could be chosen as a single unit. A job is an asset owned
+by the firm: if it is vacant it has some value because it can expect to recruit
+a worker and yield some profit in the future; if it is filled it is producing for
+profit. Vacant jobs are like nascent investment projects that have not started
+yielding a return yet. If their net value is positive, the firm can create them
+for profit; if it is negative, it is losing money from them, so it makes sense
+to close them down. It follows that an equilibrium number of jobs could be
+derived from the condition that the value of a new job vacancy must be zero.7
+When the zero-profit condition for new vacancies is combined with the
+Nash wage equation it gives an equilibrium wage rate and job creation rate
+that depend on the frictions as summarised in the matching function, and
+on all the other variables that influence labour market outcomes in standard
+models, such as productivity and taxes. From this condition I can get the
+equilibrium ratio of vacancies to unemployment, called tightness and usually
+denoted by the Greek letter T See Figure 1: the zero-profit condition slopes
+6 This feature of the data changed dramatically in the years that followed. See Petrongolo and
+ Pissarides (2008).
+7 See Pissarides (1984, 1985) for the first applications of the “zero-profit condition” to close
+ the model.
+Pissarides_lect.indd 5 2011-08-31 13:48:12
+400
+down because at lower wage rates, jobs are more profitable and more vacancies are created; the wage equation slopes up because at higher tightness
+workers are more likely to locate an alternative job offer and firms are less
+likely to locate an alternative worker if the wage bargain fails, so the worker’s
+hand in the wage bargain strengthens.
+BEVERIDGE CURVE EQUILIBRIUM
+The transition from a model that yields an equilibrium ratio of vacancies to
+unemployment to one that yields an equilibrium unemployment, is made
+through the Beveridge curve. The Beveridge curve shows combinations of
+vacancies and unemployment that are consistent with equality between the
+entry into unemployment with the exit from it. This implies that once on
+the Beveridge curve, unemployment is not changing, unless one of the flows
+(in or out) changes because of an exogenous shock. When the entry into
+unemployment is a constant fraction of employment, as we are still assuming,
+the shape and properties of the Beveridge curve are essentially given by
+the aggregate matching function. At higher vacancy rate there are more
+matches between a given number of unemployed workers and job vacancies.
+Unemployment falls because of the increased exit from it, and as employment rises, the entry into unemployment also rises. A new point is reached
+with a lower unemployment rate, more job matches taking place, and more
+workers entering unemployment.
+The Beveridge curve is shown in figure 2. The convex shape is due to
+the constant returns satisfied by the aggregate matching function. To find
+equilibrium unemployment I need to know at what point on the curve the
+economy will settle. But since I already have an equilibrium value for the
+ratio of vacancies to unemployment from the job creation condition, I can
+find that point immediately. I draw a line through the origin with slope the
+equilibrium T, and the intersection of the Beveridge curve with this line is
+the overall equilibrium of this economy.
+
+wages
+Vacancies/unemployment ()
+Wage curve
+Job creation
+Figure 1. Equilibrium wages and market tightness.
+Pissarides_lect.indd 6 2011-08-29 11:07:25
+401
+At the core of this economy are the frictions that characterise the labour
+market. These frictions are the forces that keep the Beveridge curve away
+from the origin. The frictions could be due to a number of factors, such as
+mismatch between the skill requirements of jobs and the skill mix of the
+unemployed, differences in location, the institutional structure of an economy
+with regard to the transmission of information about jobs, and others. An
+economy characterised by more frictions has a Beveridge curve further away
+from the origin than an economy with fewer frictions.
+Because of frictions, jobs that compete for the same workers could have
+different productivities and yet survive in equilibrium. In frictionless markets
+only the most productive of these jobs survive, as competition drives the
+wages in all jobs to the wage offered by the most productive. Workers
+search for the best job that they can find. In models that allow for different
+productivities, the position of the Beveridge curve is also affected by the
+incentives that workers have to search for and accept jobs. The matching rate
+in these models depends on two factors, making contact with a firm looking
+for workers and finding the firm’s offer acceptable.
+In an economy where workers do not have strong incentives to accept an
+offer quickly, for example because they are generously compensated without
+preconditions by the unemployment insurance system, the Beveridge curve
+lies further away from the origin. An income support policy that does not
+impose preconditions is called a passive policy. But policies that support the
+unemployed during search, and also provide incentives for more intensive
+job search, can shift the Beveridge towards the origin, and improve the
+performance of the labour market in matching workers to jobs. In this case
+policies are called “active”
+A leader in the implementation of active labour market policies is Sweden,
+which spends far more than other advanced countries on bringing unemployed
+workers to jobs. In contrast, up to the 1980s most countries supported the
+unemployed through passive policies, with poor outcomes in the recession of
+the 1980s. Most countries have switched from passive to active policies in the
+vacancies
+unemployment
+Job creation
+Beveridge
+curve
+
+Figure 2. The Beveridge curve and equilibrium vacancies and unemployment.
+Pissarides_lect.indd 7 2011-08-29 11:07:25
+402
+course of the 1990s, following the poor performance of their labour markets
+in the 1980s.
+COMPARING ECONOMIES OVER SPACE AND TIME
+We can use the model to compare two economies, one with more frictions
+and passive policies with one with fewer frictions and active policies. The
+first economy has a Beveridge curve further away from the origin. It also has
+fewer job vacancies for each unemployed worker, because firms expect to
+take longer to fill a vacancy. Figure 3 compares these two economies. The
+economy with more frictions is shown with the broken lines. An important
+conclusion is that the economy with more frictions has more unemployment
+than the economy with fewer frictions, but the two economies may have a
+similar level of vacancies.
+This conclusion can be contrasted with the comparison of two economies at
+different levels of aggregate economic activity, demand or supply. A lower
+level of aggregate activity implies lower profitability from new jobs. Job creation falls and this rotates the job creation line clockwise, but the Beveridge
+curve does not move. Equilibrium unemployment increases and vacancies
+fall in response to this shock.
+The different response of vacancies to more frictions and lower level of
+aggregate activity was used by a number of authors to identify the reasons for
+the rise in unemployment in different countries. Richard Jackman, Richard
+Layard and Pissarides (1989) first used it to argue that the rise in unemployment in Britain in the 1980s, after the initial big surge associated with Prime
+Minister Thatcher’s restrictive monetary and fiscal policies, took place at
+more or less constant vacancies. This is shown in Figure 4. The underlying
+reasons must have been related to increased frictions in the labour market.
+These could be associated with increased mismatch, as the transformation
+Figure 3. Comparing economies.
+vacancies
+unemployment
+Job creation lines
+Beveridge curves
+T
+Economy
+with more
+frictions v
+u
+Economy
+with lower
+level of
+aggregate
+activity
+Pissarides_lect.indd 8 2011-08-29 11:07:25
+403
+of the economy from an industrial to a service one intensified, and to more
+generous income support for the unemployed.
+It was also very likely due to the build-up of long-term unemployment, which
+disillusions the unemployed and damages the incentives they have to look
+for work. Long-term unemployment, meaning unemployment that lasts for
+a year or more, is a serious consequence of recession that disenfranchises
+workers from the labour force and prolongs the impact that recession has on
+the quality of the workforce. It can explain why the unemployment rate in
+Britain was not falling in the 1980s when the rest of the economy was booming. Governments realised the negative impact of long-term unemployment,
+and since then they have tried to contain it with active labour market policies.
+8 For this reason, more recent recessions do not exhibit the big shifts in
+the Beveridge curve and the long persistence of the negative shocks in the
+labour market.
+We can see this contrast for Britain when we compare the economy’s
+responses to the recession of 2008, in Figure 5. Although other reforms took
+place in Britain following the recession of the early 1980s, active policy also
+played an important role in containing long-term unemployment. The path
+of the economy in the Beveridge diagram in the recent recession is a typical
+example of the response of an economy to a negative aggregate shock.
+8 Several countries adopted such policies, led by the Nordic countries. See OECD (2007) for
+ an update.
+Figure 4. The British Beveridge curve, 1975–1984.
+Pissarides_lect.indd 9 2011-08-29 11:07:26
+404
+The British experience contrasts sharply with the experience of the United
+States. Katharine Abraham and Lawrence Katz (1986) used unemployment
+and vacancy data for the United States9 to argue that the business cycles of
+the 1970s and 1980s were due to aggregate shocks and not sectoral shocks,
+as argued by David Lillien (1982) and others. Sectoral shocks would have
+similar implications to mismatch shocks. But the economy in the late 1970s
+and early 1980s was tracing a Beveridge curve in the south-eastern direction,
+as implied by an aggregate shock (see Figure 6).
+9 The vacancy data were derived from the Conference Board Help-Wanted Index. See their
+article for more details.
+Figure 5. The British Beveridge curve, 2008–2010.
+Figure 6. The US Beveridge Curve, 1975–1984.
+Pissarides_lect.indd 10 2011-08-29 11:07:26
+405
+In the 2008 recession, the US economy started off on a downward southeastern direction, but after the initial shock it traced an increase in unemployment at more or less constant vacancies. It is still too soon to conclude that
+this is a shift of the Beveridge curve to the right, but if it was it would be a
+feature of intensifying frictions in the United States labour market, which
+have not yet been identified (Figure 7). The rise in vacancies and recovery
+in output at virtually constant unemployment rate explain why the fragile
+recovery has been described as “jobless”.
+WAGE STICKINESS
+The response of unemployment to shocks is bigger when wages are sticky. Do
+markets with frictions have anything new to say about wage stickiness? I am
+talking here about real wage stickiness, although similar arguments should
+apply to nominal wage stickiness.
+In frictionless markets there are no compelling reasons for wage
+stickiness. In contrast, in markets with frictions and Nash wage bargains there
+is a built-in reason for some wage stickiness. It is that the wage rate depends
+on the worker’s non-market returns, which include unemployment insurance
+income, the value of home activities like home decoration or childcare, and
+the value of extra leisure, like more sleep. The payoffs from these activities
+are not cyclical. When the market payoffs go down because of recession, the
+home payoffs remain high, and this stops the Nash wage rate short of falling
+by as much as the market payoffs.
+I explored this wage stickiness in my 1985 paper to derive cyclical fluctuations in unemployment in the model with frictions. But as Robert Shimer
+(2005) has shown, it is not enough to explain all the amplification of the
+shocks required to match the data. Subsequent work has shown that it can be
+enough but only if the firm’s profit share from the match is very small, either
+Figure 7. The US Beveridge curve, 2008–2010.
+Pissarides_lect.indd 11 2011-08-29 11:07:26
+406
+because workers take most of the share or because firms have large labour
+hiring costs (Marcus Hagedorn and Iourii Manovskii, 2008, Pissarides, 2009).
+But markets with frictions can justify another form of wage stickiness,
+much more substantial than the one implied by the Nash wage equation.
+This was first explored by Robert Hall (2005), who argued that since the
+monopoly power implied by frictions implies that there are no conventional
+supply and demand functions to tie down the wage rate, the Nash wage is
+only one possible outcome consistent with equilibrium. Another is the wage
+that depends on the historical median hiring wage, and shocks to demand
+do not necessarily change it by much. Hall showed that the wage stickiness
+consistent with this argument is enough to give an equilibrium that delivers
+all the amplification of shocks on job creation that we see in the data.
+This analysis re-opens the issue of wage determination and puts it
+into central stage as a topic for future research. Given the many possibilities
+allowed by the bilateral monopoly nature of a good match, research needs to
+be driven by empirical studies of wage determination for new hires at different
+phases of the cycle (see Christian Haefke, Marcus Sonntag and Thijs van
+Rens, 2007).
+JOB DESTRUCTION
+New establishment data by Steven Davis and John Haltiwanger (1990) and
+others working in Industrial Organisation, published in the late 1980s and
+early 1990s, showed that job destruction rates varied a lot across business
+cycles. The main cause of job destruction and the biggest number were
+connected with idiosyncratic establishment-specific shocks, but there was
+enough variation over the business cycle to render untenable the assumption
+that the rate at which workers flow into unemployment is constant. Although
+the rate of job destruction determined the job flow, and not the worker flow
+into unemployment, the two are closely connected. Anyway, subsequent work
+showed that flows into unemployment were cyclical too, although not as
+cyclical as the flow out of unemployment (see Shigeru Fujita and Garey
+Ramey, 2009).
+Following a criticism by Mortensen (1992) of the assumption of a constant
+flow rate of workers into unemployment in the first edition of my book
+(Pissarides, 1990), we came together to work on extending the model to a
+variable job destruction rate. The outcome was our 1994 paper (Mortensen
+and Pissarides, 1994) and a series of papers that applied the model to several
+issues (Mortensen and Pissarides, 1999).
+In our analysis of job destruction we assumed that once jobs are created,
+they cannot easily adapt to new technologies. In the simplest version of the
+model they do not adapt at all, so the firm keeps the job going for as long
+as it is still profitable. When shocks hit that make a job unprofitable, it is
+destroyed, the worker is made unemployed, and some new job is established
+elsewhere to take its place.
+We have shown that like the job acceptance decision in the first generation
+Pissarides_lect.indd 12 2011-08-29 11:07:26
+407
+of search models, the job destruction decision was governed by a reservation
+productivity. The firm and the worker agreed which jobs to destroy on the
+basis of their joint real return. Under our rules, most job destruction in the
+steady state is due to unidentified idiosyncratic shocks, as in the data. But
+over the cycle, job destruction goes up in recession, usually with a sudden
+upsurge of terminations when the news first breaks out, and goes down in the
+recovery phase. This introduces cyclicality in both the job creation and job
+destruction rate, predicting well the time series data for the United States.
+The variable job destruction rate has implications for the dynamics of
+unemployment and the Beveridge curve, but it does not affect the dynamics
+of the job creation rate that I discussed earlier in this lecture. It also implies
+that there is now an incentive to search on the job and move from one job
+to another without experiencing unemployment. The reason is that workers
+have an incentive to leave the jobs that are becoming obsolete, or have low
+profitability for other reasons. The full model is set out in the second edition
+of my book (Pissarides, 2000). Rather than discuss the full model here, I will
+discuss the implications of employment protection legislation for unemployment and job flows. This is one policy whose study needs the extended model
+with variable job destruction rates, since its objective is to make job destruction more difficult for the firm, with the objective of securing a longer-lasting
+employment spell for the worker.
+EMPLOYMENT PROTECTION LEGISLATION
+Although all advanced countries exercise some kind of employment protection, there are large variations in the type of restrictions implemented
+and there are also big differences in their severity across countries (see Per
+Skedinger, 2010, for a full analysis). At the risk of oversimplifying, we know
+from the OECD that the southern European countries have much stricter
+employment protection legislation than the northern countries, and especially than the United States and United Kingdom (OECD, 1999). I will discuss here the restrictions on dismissals that take the form of administrative
+procedures that cost the firm time and money. These can be represented in
+our models as a pure tax paid by the firm at the time of dismissal.
+10
+A tax on dismissals reduces job separations. Some low-productivity jobs
+that would have been destroyed before the imposition of the tax will now
+not be destroyed, as the firm reduces its reservation productivity to reduce
+the chances that it might have to pay the tax. So one implication of employment protection legislation is that the size of the flow into unemployment
+is lower than otherwise; but average labour productivity is also lower and
+10 In the simple model there is no obvious benefit to the worker from these administrative
+ restrictions on dismissal, other than saving some jobs from destruction. But in more general
+ models with risk aversion these restrictions also can act as insurance against sudden income
+ fluctuations, and these can be beneficial to the worker. The welfare implications of
+ employment protection legislation would then be different in these models. See Pissarides
+ (2010) for one such model.
+Pissarides_lect.indd 13 2011-08-29 11:07:26
+408
+wages should also be lower to compensate the firm for the tax and the lower
+productivity.
+Another important impact of employment protection legislation is on job
+creation. When the firm is creating a job it expects to have to pay the tax in
+some future date if it has to dismiss the worker. Job creation falls as a result,
+so just like the flow into unemployment, the flow out of unemployment at
+given unemployment also falls.
+The net impact on unemployment depends on which flow falls more. If
+the flow into unemployment falls more than the flow out of unemployment,
+unemployment falls to compensate, and vice versa. Empirical work shows
+that the impact of employment protection legislation on unemployment is
+small and can go either way; but the size of the flows falls, there is less labour
+and job turnover, lower average labour productivity and longer durations of
+both unemployment and employment (OECD, 1999).
+In extended versions of our models, with training, the longer durations
+of employment might encourage more training, as workers are more secure
+in their jobs and are more willing to undertake training that is specific to
+the needs of their firm. And in yet other extended versions with different
+kinds of workers, employment protection legislation tends to benefit primary
+workers, usually male workers over 25 years old, but hurts other workers, like
+women and youths, who go in and out of the labour force at more frequent
+intervals than prime-age males.
+CONCLUDING REMARKS: WHERE DO WE GO NEXT?
+Search and matching theory has come a long way since the early 1980s, when
+the first equilibrium matching models appeared in the literature. A recent
+book by Brian and John McCall that surveys the economics of search is 550
+pages long, and there was a second volume planned for the things left out
+(McCall and McCall, 2008).
+But there is still a lot to do. We have discovered, just as Sir John Hicks did
+in 1932, that the theory of wages is key to understanding the functioning of
+labour markets. Sir John described in detail how frictions in labour markets,
+mobility costs and trade unions and other institutions influence wages, and
+how wages influence employment, very much along the lines that modern
+theory describes. But modern theory has still to explore more fully the role
+of institutions in its formal models, and this is an area of research that should
+attract a lot of attention in the future.
+I have also argued that wage stickiness is as important an issue as it has
+ever been in macroeconomics. Markets with frictions open up many more
+possibilities for wage stickiness and future research needs to explore these.
+The financial crisis of 2008 has thrown open the question of the interaction
+between capital and labour markets. Equilibrium matching models are
+built on the assumption of perfect capital markets. The implied arbitrage
+equations under perfect foresight and unlimited borrowing and lending
+are used to calculate a value for jobs and workers. These are good starting
+Pissarides_lect.indd 14 2011-08-29 11:07:26
+409
+assumptions, and they have yielded important results. But future work needs to
+explore other assumptions about capital markets, and integrate the financial
+sector with the labour market. This might suggest another amplification
+mechanism for shocks, independently from wage stickiness or fixed costs.
+REFERENCES
+ 1. Abraham, Katharine G. and Lawrence F. Katz (1986). “Cyclical Unemployment:
+Sectoral Shifts or Aggregate Disturbances?” Journal of Political Economy 94 (Part I):
+507–522.
+ 2. Binmore, Kenneth G., Ariel Rubinstein and Asher Wolinski (1986). “The Nash
+Bargaining Solution in Economic Modelling.” Rand Journal of Economics 17: 176–
+188.
+ 3. Blanchard, Olivier J. and Peter A. Diamond (1989). “The Beveridge Curve.”
+Brookings Papers on Economic Activity 1: 1–60.
+ 4. Davis, Steven J. and John C. Haltiwanger (1990). “Gross Job Creation and
+Destruction: Microeconomic evidence and Macroeconomic Implications.” NBER
+Macroeconomics Annual 5: 123–168.
+ 5. Diamond, Peter A. (1971). “A Model of Price Adjustment.” Journal of Economic
+Theory 3: 156–168.
+ 6. Diamond, Peter. A. (1982). “Wage Determination and Efficiency in Search
+Equilibrium.” Review of Economic Studies 49: 217–227.
+ 7. Diamond, Peter A. and Eric Maskin (1979). “An Equilibrium Analysis of Search and
+Breach of Contract, I: Steady States.” Bell Journal of Economics 10: 282–316.
+ 8. Friedman, Milton (1968). “The Role of Monetary Policy.” American Economic
+Review 58: 1–17.
+ 9. Fujita, Shigeru and Garey Ramey (2009). “The Cyclicality of Separation and Job
+Finding Rates.” International Economic Review 50: 415–430.
+10. Haefke, Christian, Marcus Sonntag and Thijs van Rens (2007). “Wage Rigidity
+and Job Creation.” Discussion Paper 3714, Institute for the Study of Labor (IZA),
+Bonn.
+11. Hall, Robert E. (2005). “Employment Fluctuations with Equilibrium Wage
+Stickiness.” American Economic Review 95: 50–65.
+12. Hagedorn, Marcus and Iourii Manovskii (2008). “The Cyclical Behavior of
+Equilibrium Unemployment and Vacancies Revisited.” American Economic Review
+98: 1692–1706.
+13. Hicks, John R. (1932). The Theory of Wages. London, Macmillan.
+14. Hutt, William H. (1939). The Theory of Idle Resources. London, Jonathan Cape.
+15. Jackman, Richard, Richard Layard and Christopher A. Pissarides (1989). “On
+Vacancies.” Oxford Bulletin of Economics and Statistics 51: 377–394.
+16. Leijonhufvud, Axel (1968). On Keynesian Economics and the Economics of Keynes:
+A Study in Monetary Theory. New York, Oxford University Press.
+17. Lilien, David (1982). “Sectoral Shifts and Sectoral Unemployment.” Journal of
+Political Economy 90: 777–793.
+18. McCall, John J. (1970). “Economics of Information and Job Search.” Quarterly
+Journal of Economics 84: 113–126.
+19 McCall, Brian P. and John J. McCall (2008). The Economics of Search. Oxford,
+Routledge.
+20. Mortensen, Dale T. (1970). “A Theory of Wage and Employment Dynamics.” In
+Edmund S. Phelps et al. The Microeconomic Foundations of Employment and
+Inflation Theory. New York, Norton.
+Pissarides_lect.indd 15 2011-08-29 11:07:26
+410
+21. Mortensen, Dale T. (1982). “The Matching Process as a Non-Cooperative/Bargaining
+Game.” In John J. McCall, editor, The Economics of Information and Uncertainty.
+Chicago, University of Chicago Press.
+22. Mortensen, Dale T. (1992). “Search Theory and Macroeconomics.” Journal of
+Monetary Economics 29: 163–167.
+23. Mortensen, Dale T. and Christopher A. Pissarides (1994). “Job Creation and Job
+Destruction in the Theory of Unemployment.” Review of Economic Studies 61:
+397–415.
+24. Mortensen, Dale T. and Christopher A. Pissarides (1999). “New Developments in
+Models of Search in the Labor Market.” In Orley Ashenfelter and David Card, editors, Handbook of Labor Economics. Amsterdam, North-Holland.
+25. OECD (1999). “Employment Protection and Labour Market Performance.”
+Employment Outlook, chapter 2. OECD, Paris.
+26. OECD (2007). “Activating the Unemployed: What Countries Do.” Employment
+Outlook, chapter 5, OECD, Paris.
+27. Petrongolo, Barbara and Christopher A. Pissarides (2001). “Looking into the Black
+Box: A Survey of the Matching Function.” Journal of Economic Literature 39: 390–
+431.
+28. Petrongolo, Barbara and Christopher A. Pissarides (2008). “The Ins and Outs of
+European Unemployment.” American Economic Review Papers and Proceedings 98:
+256–262.
+29. Phelps, Edmund S. (1967). “Phillips Curves, Expectations of Inflation and Optimal
+Unemployment.” Economica 34: 254–281.
+30. Phelps, Edmund S. (1970). “Money Wage Dynamics and Labor Market Equilibrium.”
+In Edmund S. Phelps et al. Microeconomic Foundations of Employment and
+Inflation Theory. New York, Norton.
+31. Phelps, Edmund S. et al. (1970). Microeconomic Foundations of Employment and
+Inflation Theory. New York, Norton.
+32. Pissarides, Christopher A. (1976). Labour Market Adjustment: Microeconomic
+Foundations of Short-Run Neoclassical and Keynesian Dynamics. Cambridge,
+Cambridge University Press. Reprinted, 2009.
+33. Pissarides, Christopher A. (1979). “Job Matchings with State Employment Agencies
+and Random Search.” Economic Journal 89: 818–833.
+34. Pissarides, Christopher A. (1984). “Search Intensity, Job Advertising and Efficiency.”
+Journal of Labor Economics 2: 128–143.
+35. Pissarides, Christopher A. (1985). “Short-Run Equilibrium Dynamics of
+Unemployment, Vacancies, and Real Wages.” American Economic Review 75: 676–
+690.
+36. Pissarides, Christopher A. (1986). “Unemployment and Vacancies in Britain.”
+Economic Policy 3: 499–559.
+37. Pissarides, Christopher A. (1990). Equilibrium Unemployment Theory. Oxford,
+Blackwell.
+38. Pissarides, Christopher A. (2000). Equilibrium Unemployment Theory. 2nd ed.,
+Cambridge, MA, MIT Press.
+39. Pissarides, Christopher A. (2009). “The Unemployment Volatility Puzzle: Is Wage
+Stickiness the Answer?” Econometrica 77: 1339–1369.
+40. Pissarides, Christopher A. (2010). “Why Do Firms Offer ‘Employment Protection’?”
+Economica 77: 613–636.
+41. Rothschild, Michael (1973). “Models of Market Organization with Imperfect
+Information: A Survey.” Journal of Political Economy 81: 1283–1308.
+42. Rubinstein, Ariel (1982). “Perfect Equilibrium in a Bargaining Game.” Econometrica
+50: 97–110.
+43. Shaked, Avner and John Sutton (1984). “Involuntary Unemployment as a Perfect
+Equilibrium in a Bargaining Model.” Econometrica 52: 1351–1364.
+Pissarides_lect.indd 16 2011-08-29 11:07:26
+411
+44. Shimer, Robert (2005). “The Cyclical Behavior of Equilibrium Unemployment and
+Vacancies.” American Economic Review 95: 25–49.
+45. Skedinger, Per (2010). Employment Protection Legislation. Cheltenham, UK,
+Edward Elgar.
+46. Stigler, George J. (1962). “Information in the Labor Market.” Journal of Political
+Economy 70(Part 2): 94–105.
+47. Tobin, James (1972). “Inflation and Unemployment.” American Economic Review
+62: 1–18.
+Portrait photo of Professor Pissarides by photographer Ulla Montan

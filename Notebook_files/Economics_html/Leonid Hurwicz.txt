@@ -1,0 +1,580 @@
+BUT WHO WILL GUARD THE GUARDIANS?
+
+Prize Lecture, December 8, 2007
+by
+Leonid Hurwicz1
+University of Minnesota, Department of Economics, 1008 Heller Hall, 271
+19th Avenue S., Minneapolis, MN 55455, USA.
+
+
+
+
+1. INTRODUCTION
+In posing the famous question,2 the Roman author, Juvenal, was suggesting
+that wives cannot be trusted, and keeping them under guard is not a solution
+− because the guards cannot be trusted either.
+  Half a millennium or so earlier, Plato3 in The Republic expressed a more
+optimistic view regarding the guardians or rulers of the city-state, namely that
+one should be able to trust them to behave properly; that it was absurd to
+suppose that they should require oversight.
+  Socrates, referring to an earlier statement4 that “drunkenness is most un-
+befitting guardians,” says: “From intoxication we said that they must abstain.
+For a guardian is surely the last person in the world to whom it is allowable to
+get drunk and not know where on earth he is.” To which Glaucon, Socrates’
+interlocutor, replies: “Yes, it would be absurd5 that a guardian should need
+a guard.” Instead of Juvenal’s later pessimism, indeed cynicism, Plato −
+through Glaucon − expresses the optimistic view that one should be able
+to trust the city’s guardians and rulers to behave properly; that they should
+require oversight is an absurdity.
+
+1.2
+A casual perusal of daily newspapers indicates that there is nothing absurd
+about the present day “guardians”− by which I mean leaders and officials of
+1
+   Thanks are due to Eric Maskin, Roger Myerson and members of my family, especially Michael
+and Maxim Hurwicz, for their editorial suggestions. Remaining imperfections are mine. L. H.
+2
+   “Sed quis custodiet ipsos custodes?” Liber secundus, Satura VI, lines 347–8, p. 325, in D.
+Junii Juvenalis Saturarum Libri V; mit Erklärenden Anmerkungen von Ludwig Friedlaender, Erster
+Band, Leipzig, Verlag von S. Hirzel, 1895.
+3
+   Book III, XII, 403E, p. 264 (Greek) and p. 265 (English), in volume I, of Plato, The Republic
+(0/,)4%)!), with an English translation by Paul Shorey, London, William Heinemann Ltd.;
+New York: G. P. Putnam’s sons, MCMXXX.
+4
+   Ibid., pp. 246–7, no. 398E.
+5
+   In B. Jowett’s 1908 translation (Oxford, Clarendon Press, 3rd ed., reprinted 1928) “ridiculous”
+replaces “absurd”. [Jowett’s rendering seems better because the etymology of the Greek word
+used by Glaucon appears to be “laughable”−as is that of “ridiculous”.] But the recent translation
+by A. D. Lindsay (Everyman, J. M. Dent, London; Charles E. Tuttle, Vermont, 1992, 1995) again
+uses “absurd”.
+
+
+280
+
+
+political, economic, and social entities − needing, and indeed getting, a great
+deal of oversight.6 The question is rather as to the extent oversight is, or
+even can be, effective. Publicly expressed attitudes toward government, law
+enforcement, union and corporate leadership are often more reminiscent of
+Juvenal than Plato.
+
+1.3
+Parallel questions in economics have been analyzed using the idea of the
+institution,7 in the sense of institutional arrangements or “rules of the game”
+(rather than organizations, which are referred to as “artificial players”). This
+economic analysis focuses on implementation (in particular, the rule of law
+and its enforcement) as essential to the functioning of institutions.8
+   Some of the most basic contemporary policy issues involve choice of insti-
+tutions: Markets versus central planning, the scope and structure of social
+insurance (unemployment, old age, health), “property rights” as solutions to
+problems posed by externalities, world free trade, and the degree of econom-
+ic integration of independent nations are obvious examples. The question
+is whether the role of institutions can be captured by appropriate analytical
+tools and incorporated into economic models. Metaphorically, whether insti-
+tutions can be introduced into models as variables, even as unknowns, rather
+than as fixed parts of the landscape (as is, for instance, perfect competition
+in so many mainstream models). If we can construct such models, then we
+can also consider incorporating implementation devices, with their limita-
+tions and potentials.
+   Much economic analysis is based on the perfectly competitive model,
+which implies strong assumptions concerning two things: 1) the information
+available to “agents” (individuals, firms, etc.) engaging in economic activ-
+ity, and 2) the existence of implementation mechanisms such as enforcing
+contracts and preventing collusion. Similarly, conclusions concerning the
+effects of alternative forms of taxation, subsidies, or social insurance depend
+in an essential way on implementation mechanisms supplying information
+concerning obligations and entitlements, entities facilitating financial flows,
+as well as enforcement of payments and disclosure of relevant informa-
+tion. Until recently much more attention has been paid to the information
+
+6
+    Without explicitly mentioning the classical precedents, the Wall Street Journal of May 8, 1998
+(pp. B1–B2) carries a story under the headline “Guardians May Need Someone to Watch Over
+Them.” It speaks of court-appointed guardians and conservators who dishonestly dissipate their
+wards’ assets and of the difﬁculties the courts have in exercising their oversight responsibilities.
+In turn watchdog groups and legislative task forces try to improve the performance of the judicial
+branch.
+7
+    In the sense of institutional arrangements(“rules of the game”) rather than entities such as
+various types of organizations (“artiﬁcial players”).
+8
+    E. Ostrom, Walker and Gardner point out that emphasis on the importance of enforcement
+is found in Hobbes, although they disagree with his stress on the need for an external enforcing
+authority (the sovereign). They stress intra-group mutual enforcement. Schotter (1981, p. 11)
+makes self-policing or external policing authority an integral part of the deﬁnition of a social
+institution. He recognizes the possibility of intra-group enforcement through a supergame
+model (p. 165, note 8).
+
+
+                                                                                               281
+
+
+requirements (and uncertainty when precise information is not available)
+than to implementation. Yet if implementation is impossible or prohibitively
+costly, even the most attractive mechanism remains a utopia.
+  In the 1960’s and ’70’s, researchers studying informationally decentralized
+and game-modeled mechanisms addressed those issues.
+
+
+2. MESSAGE EXCHANGE (NON-GAME-THEORETIC) PROCESSES
+We now proceed to the process of message exchange, an analysis that does
+not involve game theory.
+   A process is defined as informationally decentralized when each economic
+unit (such as a consumer or firm) initially only has information about itself
+(its preferences, technology, or resources) but not about other units. The
+process then requires an exchange of signals (called messages) to attain ob-
+jectives such as efficiency of the system as a whole. (The goal, for instance,
+could be Pareto optimality or efficiency, in which no one can be made better
+off without someone else being made worse off.) By quantifying the informa-
+tion in the signals -- for example how many units or what the dimension is of
+the spaces used -- in the context of rigorously formulated models, it has been
+shown that it may be impossible in certain cases to guarantee finite dimen-
+sional message space. An example is economies with detrimental externali-
+ties such as pollution or infinite time horizon. This impossibility applies to all
+informationally decentralized mechanisms, even if one assumes that all par-
+ticipants are truthful and abide by prescribed rules: There are cases where
+no rules can guarantee the attainment of the desired objectives (for instance,
+efficiency). Thus enforceability of rules is not always an issue.
+
+
+3.
+But what if we don’t assume that participants are always truthful? Samuelson
+raised this question in the mid-’50’s in classic articles on public goods, and
+in particular on the so-called Lindahl solution, in which individuals pay for a
+public good according to their marginal willingness to pay: that is, how eager
+they are to pay to achieve a supply of some specified public good. Samuelson
+pointed out that the Lindahl mechanism did not take care of the free rider
+problem, in which individuals gain an advantage by understating their inter-
+est in public goods. Samuelson went on to conjecture that the same problem
+would arise in any decentralized mechanism allocating public goods. Could
+these two points be formalized and rigorously justified?
+
+
+4. GAME-THEORETIC FRAMEWORK
+If we use a game theoretic framework, how does this go?
+   A natural framework for such analysis turned out to be Nash’s theory of
+non-cooperative games and the concept of Nash equilibrium, in which no
+player gains by changing only his or her own strategy unilaterally. Viewing
+
+282
+
+
+the economic process as a non-cooperative game in which the strategy of
+each participant is a statement (not necessarily truthful) about his/her pref-
+erences and the “payoff” is the utility of the outcome for that participant
+(defined in Samuelson’s analysis by the Lindahl formula), Samuelson’s first
+point can be formalized as the proposition that truthful revelation of pref-
+erences is not a Nash equilibrium in the Lindahl game. That is, if all other
+players have told the truth, and it is now your turn, you will in general gain by
+misrepresenting your preferences. So, Samuelson’s first point turned out to
+be correct: Truth is not a Nash equilibrium.
+
+
+5.
+However, Samuelson’s second point, that illegal behavior would be advanta-
+geous in any decentralized system, allows consideration of different criteria
+for judging system performance (for example, Pareto optimality or degree
+of income inequality) and different kinds of decentralized mechanisms,
+including one proposed by Groves and Ledyard (1977), which admitted as
+strategies any signals (“messages”), not necessarily just revelations of one’s
+own preferences.
+   In fact, in the simplest version of the Groves-Ledyard mechanism, a partici-
+pant is just told “Give me any number within a certain set of limits.” The par-
+ticipant is not answering any question, and not necessarily revealing anything.
+   Groves and Ledyard constructed a non-revelation (which should really be
+understood as “not necessarily revelation”) model yielding Pareto-optimal
+(though not Lindahl) Nash equilibrium outcomes in economies with three
+or more participants. Later (Hurwicz 1979a) it was shown that even Lindahl
+outcomes could be obtained as Nash equilibria of suitably designed non-reve-
+lation games. If one regards this broader (not necessarily revelation) class of
+mechanisms as decentralized --, and that’s a very important “if” -- Samuelson’s
+second (impossibility) point cannot be accepted. Hence optimism replaces
+pessimism. However, is there still a problem of enforcement?
+
+
+6. ARE NASH EQUILIBRIA SELF-ENFORCING?
+I believe the answer is, “Yes, there is a problem of enforcement”.
+   Now we come to a very important and closely related issue. We are ask-
+ing whether a given Nash equilibrium in a specified game is enforceable or
+not. And one occasionally hears the claim that there can be no enforcement
+problem with Nash equilibria because allegedly Nash equilibria are self-en-
+forcing. I want to stress that I am denying this claim, but I want to give the
+other side an opportunity to give their arguments. Their argument is that,
+by definition, in a Nash equilibrium, no player can profit by a unilateral
+departure from his or her equilibrium strategy. Furthermore, collusions are
+infeasible in a non-cooperative game. Hence, the argument goes, there is no
+need (or possibility, really) for enforcement.
+
+
+                                                                             283
+
+
+   But this argument assumes first that players will not or cannot cheat, that
+they will consider only strategies prescribed by the mechanism governing the
+system, what we call the “legal” strategies. In addition, it assumes machinery
+(involving not only enforcement but also information processing and finan-
+cial procedures) to ensure that specified outcomes will in fact be produced.
+   These assumptions are accepted as given in the usual argument about
+Nash equilibria. However, if you question these assumptions, then there is no
+doubt that enforcement is a valid question to pose, even in Nash equilibria.
+
+
+7. FORMALIZING RULES OF A GAME AS GAME-FORMS (MECHANISMS)
+We now proceed to another important issue, namely, formalizing rules of a
+game as “game forms” or synonymously “mechanisms”.
+   A game is defined by the players’ strategy domains and payoff functions.
+A mechanism or game form (rules of the economic game), shares with the
+game the strategy domains, but differs in that it involves an outcome function.
+Let me stress that I am distinguishing between a game form and a game: They
+have strategy domains in common. In the case of a game what is added to
+that are payoff functions. In contrast, a mechanism involves only physical out-
+comes. Each may be viewed as a pair where the first component of each pair is
+a strategy domain associated with various individuals. The second component
+of a game form is what we call an outcome function associating a physical outcome
+with a given point in the domain. So, for example, the outcome of an election
+is the player who got elected. On the other hand, the “payoff” component in
+the concept of a game is the listing of how players feel about the outcome as
+measured by the numerical value of the utility using the strategy chosen. For
+example, Mr. Bush is the outcome of the 2000 year election. The “payoff” is
+how players feel about the outcome. The “outcome” is the physical descrip-
+tion of what happened, depending on what kinds of strategies were chosen.
+And it may happen that strategies that were chosen by some agents were not
+legal strategies, because somebody decided to risk being illegal.
+   We assume that each player has a utility function, associating a real numer-
+ical value of the outcome for that participant with any conceivable outcome
+of the game.
+   In a model devoted to the analysis of institutional arrangements it is essen-
+tial to separate that which belongs to the data (“environment”) -- thus prefer-
+ences, endowments, and technologies -- from that which is subject to human
+manipulation, in our model the strategy domains and the outcome functions.
+It is natural to refer to a “strategy-outcome pair”, that is, the pair consisting
+of strategy choices and the outcome corresponding to them. It is natural to
+refer to these pairs as the rules of a game since the strategy domain defines the
+legal moves and the outcome function defines their consequences.
+   On the other hand, in game theory jargon the “strategies-outcomes” pair
+is called a game-form (hyphenated); in economics, it’s called a mechanism. The
+mechanism is not affected by changes in preferences but the payoff functions
+are. The game-form can be changed directly by legislation or other human
+
+284
+
+
+actions; the payoff functions only indirectly through changes in the game-
+form. The outcome is an objective fact, but the payoff combines that fact with
+the participant’s preferences for the outcome. The preferences may be the
+positive and negative.
+
+
+8.
+A need for enforcement implies the possibility of behavior that violates the
+rules of the game. The point is that if there were no possibility of violation,
+then you wouldn’t need enforcement. We refer to such strategies as illegal, as
+distinct from legal, of course.
+   To represent this, we introduce the set of all feasible actions, legal and il-
+legal, and we call that the true strategy domain. Thus the set of true strategies
+consists of two feasible and disjoint subsets, that of legal strategies and that of
+illegal strategies. That means that this person we have in mind is turning over
+in his or her mind “Should I use a legal strategy, or maybe I would be better
+off to risk the illegal?” And that is what we call true strategy (as distinct from
+only talking about legal strategies). Some very ethical or law-abiding person
+might never consider anything illegal. But we are talking about people who
+might risk it. And if that’s the case, and they may have chosen an illegal strat-
+egy, then you are interested to know what the true outcome function is. The
+decision was illegal, but it does produce consequences. We consider partici-
+pants to be playing the “true game” whose game-form may contain both legal
+and illegal strategies, although it is the legal game we want them to play.
+
+
+9. SUCCESSFUL ENFORCEMENT AND IMPLEMENTATION
+Now, what is successful enforcement? You might say, “Doesn’t everybody
+know what successful enforcement means?” But, for example, whether or not
+Samuelson’s second conjecture is true may determine how success is mea-
+sured. So it’s important to specify this.
+  This framework makes it possible to formalize the notions of enforcement
+and implementation.
+
+9.1 SUCCESSFUL ENFORCEMENT
+To say that the legal game rules are being successfully enforced means that the
+outcomes of the true game ensure that illegal strategies are less attractive
+than legal strategies. A strong formulation of successful enforcement might
+require that, for every player, every illegal strategy is dominated by (that is, is
+less attractive than) some legal strategy. A “weak” domination would require
+only that a player at least be no worse off by staying within the law.
+   In fact, however, if everyone else is acting illegally, a normally law-abiding
+player may not find it advantageous to remain law-abiding. It seems, there-
+fore, more reasonable to adopt a somewhat weaker concept of successful
+enforcement.
+   Now we study further the implementation idea.
+
+                                                                               285
+
+
+9.2 IMPLEMENTATION
+Consider what is involved in making effective an institution such as Social
+Security. The desired mechanism − say as defined by legislation − specifies
+the class of persons receiving payments, say in relation to previous income
+and other variables. It may also specify the sources of funding. There is a
+need to formulate a modus operandi, verify whether specific applicants are
+entitled to receive payments and, if so, at what level, and how to collect the
+required funds. Typically, special agencies are created to accomplish such
+tasks, both informational and related to enforcement. It is the complex of
+such activities and arrangements that I think of as the effort to implement
+the legislation.
+   I make this remark here about what I think of as implementation because,
+for example, one of the other people who, along with myself, received the
+Economy Prize for mechanism design, uses a narrower definition of imple-
+mentation. You see, among other things when I am talking about implemen-
+tation -- or sometimes I refer to this as “genuine implementation” -- it means
+that we have the money to run the institutions, we have the information to
+run the institutions, and there is legislation authorizing this. Some people,
+as I say, have a definition that doesn’t ask for quite that much, but this would
+require a more elaborate model than the one I am using myself elsewhere in
+this lecture.
+   And I conclude this section by saying that implementation is successful if the
+equilibrium outcomes correspond to those of the desired game, i.e., those
+envisaged by the legislation.
+   Expressed in this framework, a Nash equilibrium is not self-enforcing be-
+cause, while it is unprofitable to move to alternative legal strategies, it may be
+profitable, in the absence of enforcement, to move to illegal strategies.
+   Similarly, Nash equilibria are not self-implementing because implement-
+ing actions are required to ensure that the true outcome is the same as the
+legal outcome.
+
+10.1 BACK TO JUVENAL
+Let us now come back to the initial problem, the need for guarding the
+guardians. Juvenal’s cynical question suggests either that there is no way to
+guard the guardians, or that, in addition to having “guardians of the first
+level” (those guarding the wives), one must also, according to him, presum-
+ably have “guardians of the second level” to guard the guardians of the first-
+level. But the need to guard second-level guardians conjures the image of
+an infinite regress of guardians. Since an infinity of guardians is not usually
+available, this seems to preclude enforcement! Even if some guardians have
+multiple clients (and that means that you don’t need an infinity of them),
+the capacity for guarding may be exhausted, precluding successful enforce-
+ment.
+   So, from Juvenal one gets a very pessimistic view of human nature. But the
+question is, “Is it quite so bad?” Let’s look at this question without using high-
+powered statistical tools. Economists (some of them at least) refer to that as
+
+286
+
+
+“casual empiricism” – that is, just what one observes without being high-pow-
+ered mathematically, statistically or whatever.
+
+10.2 EMPIRICAL – NOT SO BAD
+This “casual empiricism” suggests that there are many situations where rules
+are substantially (if not perfectly) implemented and/or enforced. But many
+factors are in the picture determining whether implementation of rules is
+possible.
+
+10.2.1 Physical
+We shall now discuss different kinds of situations with respect to enforce-
+ment. But let me make a point: At some place there may be a remark such
+as “enforcement (or generally in implementation)”. Why is that? Well, for
+example, part of an implementation program may be not taxing people, but
+giving subsidies, for instance, to poor people to keep children healthy. So
+that is also part of implementation. But you wouldn’t call giving extra money
+to somebody enforcement. So that illustrates why implementation is a more
+general concept than enforcement. But both are very important.
+   First, though perhaps least important, implementation may depend on
+purely physical or mechanical factors that do not require human guardians.
+Examples: devices in parking lots that slash the tires of those who use un-
+authorized exits; or punishment by placing the culprit on an isolated island
+without a boat, and too far to swim ashore. That is from the customs of some
+tribes, at least in the past, in Washington state, where they punished people
+in that particular way. The point is that this relies on physical or mechanical
+factors and not on any police or anything of that sort.
+
+10.2.2 Intervenors
+Second, and more importantly, there may be guardians (individual or col-
+lective) who are in sympathy with the rules, for instance, whose ethical
+standards rule out corrupt behavior. Such persons or groups, whom we will
+call intervenors (that’s my own term – I don’t think anybody else uses it), may
+have the ability (through power, financial assets, personal charisma, or status
+combined with the population’s respect), as well as the inclination, to dis-
+courage improper behavior of lower-level guardians. In this case the rule has
+a chance to be successfully enforced. Well-functioning societies try to choose
+judges and rulers from among such individuals. So my point here is that, just
+because there are people who violate rules, behave illegally and so on, it does
+not mean that everybody is like that. On the contrary, if you watch certain
+judges, you observe that they honestly try to implement what they believe the
+constitution says and just put it into effect. And that’s why I invented a word,
+a term, to describe people of that kind. And I think maybe they are rare, but
+not non-existent.
+
+
+
+
+                                                                            287
+
+
+10.3 ELECTIVE OFFICE HELPS
+Juvenal’s pessimistic question suggests that there are no intervenors. Even in
+that case, there are systems conducive to successful enforcement. Consider,
+for example, a law designed to protect citizens from harmful or dangerous
+behavior of certain individuals. Suppose that those charged with enforce-
+ment of the law (first level guardians) are corrupt or otherwise ineffective,
+and so are their supervisors (second level guardians). If the latter hold elec-
+tive office, citizens who are voters (and of course, we assume free voting)
+may function as third level guardians (as well as being guarded by first level
+guardians). These voters have both an incentive and the power to intervene
+by throwing the supervisors out of office. This gives the supervisors an incen-
+tive to make sure that first level guardians discharge their duties properly.
+Effective enforcement may be the result. So that’s really one role of democ-
+racy in a system.
+   I anticipate that some people don’t believe in the existence of intervenors.
+I happen to. But, even if you don’t believe in intervenors, you still don’t ne-
+cessarily have to be as cynical as Juvenal.
+   As a special case one can imagine a situation with a finite number of guard-
+ians, say guards 1, 2, and 3. Guard 1 watches the treasure. Guard 2 watches
+guard 1. Guard 3 watches guard 2. But then guard 1 also watches guard 3. If
+“watching” implies being successful in creating truthful behavior, then the
+“circle” represented by such a system is successful. In this circle any guard
+can also be an intervenor.
+   The concept of intervenors can be used to compare Glaucon’s views on the
+one hand with Juvenal’s on the other. In fact, Glaucon assumed that guard-
+ians are intervenors.
+
+10.4.1 Without intervenors
+I start with the general statement that rational, self-interested behavior may
+result in desired legal outcomes, even without intervenors.
+
+10.4.2
+In particular, there is no infinite regress where the electorate, directly or
+indirectly, can make a difference. For instance, suppose voters remove a
+corrupt official from office. The next, newly elected official, out of rational
+self-interest, might refrain from corrupt practices, given that the people had
+demonstrated their willingness to remove him or her from office based on
+such practices. This does not require an infinite regress of dishonest guard-
+ians, merely an aroused public, exhibiting rational self-interest.
+   As an example of success without intervenors, members of an agency were
+accepting bribes, and giving a percentage to their supervisors, who in turn
+passed a percentage on to their supervisors. Higher judicial officials, how-
+ever, set up a sting operation that resulted in the arrest and prosecution of
+the corrupt members of the agency. The officials were not elective. However,
+the sting operation advanced the careers of the officials, many of whom had
+higher aspirations. It also protected them from possible blame for the cor-
+
+288
+
+
+ruption. Thus, it is reasonable to believe that the officials arranged the sting
+operation out of rational self-interest. In any case, there was not an infinite
+regression of dishonest guardians.
+   I am not saying that rational self-interested behavior will always result in
+non-corrupt behavior. However, the example of the officials does, I think,
+provide an illustration of rational self-interested behavior leading to truthful
+and uncorrupted behavior within a finite (not infinite) regression of guard-
+ians.
+   Similarly, a judge may want to advance to the post of attorney general, and
+the Mayor may aspire to being governor or president. Given such aspirations,
+and fear of negative consequences, we cannot rule out legal (as distinct from
+illegal) behavior, even in the absence of intervenors.
+   When implementation is possible, it can be modeled in terms of the rela-
+tionship of the true game to the desired mechanism. The equilibria of the
+true game depend on what is feasible, on the actual consequences, and on
+the preferences of the players. Thus, to achieve equilibria of the true game
+(not only the legal part of it, but including the illegal), the intervenor’s utility
+function should have preferences that rule out his/her own illegal behavior.
+On the other hand, strategies available to the intervenor should include pow-
+ers and assets enabling him/her to influence others in the desired direction.
+These features, including strategies available to the intervenor and the con-
+sequences of their use, are contained in the true game-form mechanisms.
+   Depending on the participants in the game (i.e., composition of the soci-
+ety) and their preferences/values, a given desired mechanism may or may
+not be implementable within that society. The history of prohibition, namely,
+that it was never effectively enforced, may illustrate the negative case. Clearly,
+implementability depends on the nature of the goal and attitudes toward
+likely outcomes.
+
+
+ETHICS
+Legal behavior is not incompatible with rational, self-interested behavior.
+This means that under the assumption of rational self-interest, Juvenal’s
+claims about corrupt behavior being unavoidable cannot be accepted. And
+this may be true even without counting on intervenors. What are our conclu-
+sions? Those conclusions are divided in two groups: those that have to do
+with the claim by Juvenal (or similar claims) on the one hand, and the claims
+or conjectures by Samuelson. But genuine implementability may exist, even
+without the presence of intervenors.
+   So now, in the first group: Bad outcomes with an infinite regression are
+logically possible, but enforcement (or more generally, implementation) is
+not always impossible either, despite Juvenal’s claim or question. For one
+thing, intervenors may exist. Also, particularly in a society where voters’ pref-
+erences are freely expressed, citizens may act as top level guardians. By “top
+level” we mean above all other guardians. Finally, it may be possible to create
+
+
+                                                                                289
+
+
+systems in which rational self-interest, due to a variety of rewards and punish-
+ments, leads, or may lead, to legal and ethical behavior.
+   The validity of Samuelson’s second conjecture (that is, that there may
+be no successful implementation for public goods under decentralization)
+remains, in my opinion, an open question. The example of voters removing
+a corrupt official from office suggests that successful decentralization is pos-
+sible. But the answer may depend on how we define decentralization. On the
+other hand, Samuelson’s first point is clearly valid; namely, that the Lindahl
+approach does not address situations where there may be a Nash equilib-
+rium, but with illegalities or free riding.
+
+
+
+
+290
+
+
+REFERENCES
+Calsamiglia, X. (1977), “Decentralized resource allocation and increasing returns,” Journal
+    of Economic Theory, 14, pp. 263-283.
+Groves, T. and J. Ledyard (1977), “Optimal allocation of public goods: A solution to the
+    ‘free rider’ problem,” Econometrica, 45: pp. 783-811.
+von Hayek, F. A. (1945), “The use of knowledge in society,” American Economic Review, 35:
+    pp. 519-530.
+Hurwicz, L. (1972a), “On the dimensional requirements of informationally decentral-
+    ized Pareto-satisfactory processes,” in Studies in Resource Allocation Processes, Cambridge
+    University Press, pp. 413-424.
+Hurwicz, L. (1972b), “On informationally decentralized systems,” in Decision and Organization,
+    C.B. McGuire and R. Radner, eds., North-Holland, Amsterdam and London, pp.
+    297-336.
+Hurwicz, L. (1979a), “Outcome functions yielding Walrasian and Lindahl allocations at
+    Nash equilibrium points,” Review of Economic Studies, 46: pp. 217-225.
+Hurwicz, L. (1979b), “Balanced outcome functions yielding Walrasian and Lindahl alloca-
+    tions at Nash equilibrium points for two or more agents,” in General Equilibrium, Growth
+    and Trade, J. R. Green and J. A. Sheinkman, eds., New York, Academic Press.
+Hurwicz, L. (1993), “Implementation and enforcement,” in Political Economy, Institutions,
+    Competition, and Representation, W. A. Barnett, M. J. Hinrich, and N. J. Schofield, eds.,
+    Cambridge University Press, Cambridge, Chapter 2, pp. 51-59.
+Hurwicz, L. (1996a), “Institutions as families of game forms,” The Japanese Economic Review,
+    47: pp. 113-132.
+Hurwicz, L. (1996b), “Feasible balanced outcome functions yielding constrained Walrasian
+    and Lindahl allocations at Nash equilibrium points in economies with two agents when
+    the designer knows the feasible set,” unpublished paper, presented in May 1997 at the
+    Decentralization Conference, Pennsylvania State University.
+Juvenal, D. (1895), Junii Juvenalis Saturarum Libri V, mit Erklärenden Anmerkungen von
+    Ludwig Friedlaender, Erster Band, Leipzig, Verlag von S. Hirzel.
+Maskin, E. (1977, published 1999), “Nash equilibrium and welfare optimality,” Review of
+    Economic Studies, pp. 23-38.
+Maskin, E. (1985), “The theory of implementation in Nash equilibrium: A Survey,” in
+    Social Goals and Social Organization, Essays in Memory of Elisha Pazner, L. Hurwicz, D.
+    Schmeidler and H. Sonnenschein, eds., Cambridge University Press, Cambridge,
+    Chapter 6, pp. 173-204.
+Ostrom, E., Walker, J. and R. Gardner (1992), “Covenants with and without a sword: self-
+    governance is possible,” American Political Science Review, 86: pp. 404-417.
+Plato, The Republic (0/,)4%)!), with an English translation by Paul Shorey. London:
+    William Heinemann Ltd; New York: G.P. Putnam’s Sons, MCMXXX.
+Plato, The Republic, translated by A. D. Lindsay. Everyman, J. M. Dent, London; Charles E.
+    Tuttle, Vermont, 1992, 1995.
+Schotter, A. (1981), The Economic Theory of Social Institutions, Cambridge University Press,
+    Cambridge.
+Portrait photo of Leonid Hurwicz by photographer Everett Ayoubzadeh.
+
+
+
+
+                                                                                          291
+

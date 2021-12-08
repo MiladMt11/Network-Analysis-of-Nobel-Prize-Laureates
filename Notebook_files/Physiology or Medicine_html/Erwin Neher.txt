@@ -1,0 +1,682 @@
+10
+
+
+ION CHANNELS FOR COMMUNICATION
+BETWEEN AND WITHIN CELLS
+Nobel Lecture, December 9, 1991
+
+by
+E RWIN N EHER
+Max-Planck-Institut fur Biophysikalische Chemie, D-3400 Göttingen,
+Germany
+
+
+
+
+Around 1970, the fundamental signal mechanisms for communication be-
+tween cells of the nervous system were known. Hodgkin & Huxley (1952)
+had provided the basis for understanding the nerve action potential. The
+concept of chemical transmission at synapses had received its experimental
+verification by detailed studies on excitatory and inhibitory postsynaptic
+potentials (see B. Katz, 1966, for a concise description of the electrical
+signals in nerve and muscle). The question of the molecular mechanisms
+underlying these signals was still open, however. Hodgkin & Huxley (1952)
+used the concept of voltage-operated gates for a formal description of
+conductance changes, and by 1970 the terms Na-channel and K-channel
+were used frequently (see review by Hille, 1970), although no direct evi-
+dence for the existence of channels was available from biological prepara-
+tions. This was different for the case of artificial membranes. Müller &
+Rudin (1963) introduced ‘black-lipid membranes’ as experimental model
+systems, which in many respects resemble the bimolecular lipid membrane
+of living cells. These membranes are rather good insulators. However, when
+they are doped with certain antibiotics or proteins they become electrically
+conductive. R.C. Bean et al. (1969) and Hladky & Haydon (1970) showed
+that some of these dopants induce discrete, steplike changes in conductance
+when they are added in trace amounts . All the evidence suggested that the
+conductance changes observed represented the insertion of single pore-like
+structures into the membranes.
+   In biological membranes similar measurements were not possible at the
+time, since the methods available for recording currents in living cells
+typically had background noise levels higher, by about a factor of a hun-
+dred, than the ‘single-channel currents’ observed in bilayers (see Fig. 1).
+Indirect methods, however, provided strong evidence that channels similar
+in conductance to those in artificial membranes should be operative in
+nerve and muscle cells. Early attempts to count the number of Na channels
+by Tetrodotoxin binding indicated that the contribution of a single channel
+to Na conductance might be as much as 500 pS. Later, the technique of
+noise analysis (Katz & Miledi, 1972; Neher & Stevens, 1977) provided more
+
+
+ -( \end-plate currents
+(miniature      squid     giant             axon       2 (       light       fulb ~
+
+
+
+
+                                                                     \             .
+
+
+
+
+                                  end-plate currents
+                                                         $“yiD
+                                                             electronic circuits
+
+
+12                          Physiology or Medicine 1991
+
+
+accurate numbers. Anderson & Stevens (1973) estimated the conductance
+contribution of single Acetylcholine-activated channels (ACh-channels) at
+the frog neuromuscular junction to be 32 pS. This is close to the conduc-
+tance of single gramicidin channels as measured by Hladky and Haydon.
+Thus, it was very tempting to think about better methods for recording
+currents from biological preparations. There was good reason to hope that
+an improved technology would reveal a whole ‘microcosmos’ of electrical
+signals in a multitude of electrically and chemically excitable cell types. In
+this lecture I will give a short account of our joint effort to solve this
+problem, and then focus on further developments that the solution of the
+problem led to. Bert Sakmann, in the second lecture, will present some of
+the detailed knowledge that high-resolution current recording provides
+access to.
+
+
+RATIONALE FOR USING ‘PATCH PIPEITES’
+A basic limitation for any current measurement, disregarding instrumenta-
+tion noise, is the ‘Johnson’ or thermal noise of the signal source, which for a
+simple resistor is given by
+
+
+
+
+where σn is the root-mean-square deviation of the current, k is the Boltz-
+mann constant, T the absolute temperature, Af the measurement band-
+width, and R the resistance. From this it is clear, that the internal resistance
+of a signal source (or, more generally, the complex impedance) should be
+very high for low-noise current recording. Specifically, to record a current
+of 1 pA at a bandwidth of 1 kHz with 10 % accuracy, the internal resistance
+of the signal source should be about 2 GΩ or higher. We now know that the
+input resistances of small cells can be as high as that. But early in the 1970s
+the conventional microelectrode techniques required large cells for reliable
+current measurements, and these typically had input resistances in the
+range 10 0 kΩ to 50 MΩ. Thus, it seemed impossible to reach the required
+resolution with standard techniques and standard preparations. What was
+required, was a smaller signal source.
+  With these considerations in mind, we directed our efforts to isolate a
+small patch of membrane for the purpose of the electrical measurement. I
+had gained experience with suction pipettes being placed onto the surface
+of cells for local current measurement in the laboratory of H.D. Lux in
+Munich, where I did my doctoral thesis. Such pipettes had been used before
+in various contexts for either stimulation of cells or for current measure-
+ments (Pratt & Eisenberger 1919; Strickholm 1961; Frank & Tauc 1963;
+Neher & Lux 1969; Fishman 1973). It was clear to us, that they should be
+good tools for single-channel measurements, if only the ‘pipette-to-mem-
+brane seal’ could be made good enough. The impedance of the patch itself
+should be higher than required, even for a patch as large as 10 µm in
+
+
+                                         Erwin Neher                                       13
+
+
+diameter. An incomplete seal, however, is ‘seen’ by the measuring amplifier
+in parallel to the patch, and its noise is superimposed onto the patch signal.
+
+
+EARLY SINGLE-CHANNEL MEASUREMENTS
+When Bert Sakmann and I started measurements by placing pipettes onto
+the surface of denervated muscle fibres, we soon realized that it was not so
+easy to obtain a satisfactory ‘seal’. Although Bert Sakmann was very exper-
+ienced in enzymatically treating cell surfaces through his work in B. Katz’s
+laboratory, and although the work of Katz & Miledi (1972) and our own
+voltage-clamp measurements had shown that denervated muscle should
+have an appropriate density of diffusely dispersed ACh-channels, our initial
+attempts failed. Our seal resistances were just about 10-20 MΩ, two
+orders of magnitude lower than desired. However, by reducing the pipette
+size, and by optimizing its shape we slowly arrived at a point where signals
+emerged from the background - first some characteristic noise, later on
+blips which resembled square pulses, as expected. In 1976, we published
+records (Neher & Sakmann, 1976) which, with good confidence, could be
+interpreted as single-channel currents (see Fig. 2). The fact that similar
+records could be obtained both in our Göttingen laboratory and in the
+laboratory of Charles F. Stevens at Yale, (where I spent parts of 1975 and
+1976), gave us confidence that they were not the result of some local
+demon, but rather signals of biological significance. The square-wave na-
+ture of the signals was proof of the hypothesis that channels in biological
+membranes open and close stochastically in an all-or-none manner. For the
+first time one could watch conformational changes of biological macromo-
+lecules in situ and in real time. However, the measurement was far from
+perfect. There still was excessive background noise, concealing small and
+more short-lived contributions of other channel types. Besides, the ampli-
+
+
+
+
+Figure 2. Early single-channel currents from denervated frog (Ram pipiens) cutaneous pectoris
+muscle. The pipette contained 0.2 µM suberyldicholine, an analogue of acetylcholine which
+induces very long-lived channel openings. Membrane potential - 120 mV; temperature 8°C.
+Reproduced from Neher & Sakmann 1976.
+
+
+14                                Physiology or Medicine 1991
+
+
+
+
+                      1
+                                           a
+                    9       Qa            -
+                              2
+Figure 3. Early records of voltage-activated single channels. The left side shows Na channels
+(adapted from Sigworth & Neher, 1980). The top trace is the voltage protocol. The second trace
+shows the average response from 300 voltage pulse depolarizations, and the following traces
+give examples of individual responses. It is seen that in some-but not in all-traces there are
+individual openings (downward deflection) of Na channels. The patch was hyperpolarized by 30
+mV, and 40 mV depolarizing pulses are given.
+  The right side shows individual Ca-channel currents (adapted from Fenwick, Marty & Neher,
+1981). Depolarizing pulses as indicated were given from normal resting potential. The pipette
+contained isotonic Ba solution. Single channel responses are seen superimposed onto a residual
+capacitive and leak artifact. In the left panel these artefacts were digitally subtracted.
+
+
+                                    Erwin Neher                                 15
+
+
+tudes of single-channel currents had a wide distribution, since the majority
+of channels were located under the rim of the pipette, such that their
+current contributions were recorded only partially.
+   We made many systematic attempts to overcome the seal problem (mani-
+ pulating and cleaning cell surfaces, coating pipette surfaces, reversing
+charges on the glass surface, etc.) with little success. Nevertheless, some
+important properties of single channels could be elucidated in the years
+1975 to 1980 (Neher & Steinbach 1978; Sakmann 1978; Sakmann & Bo-
+heim 1978; Conti & Neher 1980; Sakmann, Patlak & Neher 1980).
+   By about 1980, we had almost given up on attempts to improve the seal,
+when we noticed by chance, that the seal suddenly increased by more than
+two orders of magnitude when slight suction was applied to the pipette. The
+resulting seal was in the gigaohm range, the so-called ‘Gigaseal’. It turned
+out that a gigaseal could be obtained reproducibly when suction was com-
+bined with some simple measures to provide for clean surfaces, such as
+using a fresh pipette for each approach and using filtered solutions. The
+improved seal resulted in much improved background noise (Hamill et al.
+1981). Fortunately, Fred Sigworth had just joined the laboratory. With his
+experience in engineering he improved the electronic amplifiers to match
+the advances in recording conditions. Thus, several types of ion channels
+could rapidly be characterized at good amplitude and time resolution
+(Fig. 3).
+
+
+UNEXPECTED BENEFITS
+Solving the seal problem turned out not only to improve the electrical
+recording, but also to provide useful tools for manipulating patches and
+small cells. Although the physical nature of the ‘Gigaseal’ is still unknown,
+we soon realized that it provides not only electrical stability but also a tight
+mechanical connection between the measuring glass pipette and the mem-
+brane. Owen Hamill and Bert Sakmann (1981), simultaneously with Horn &
+Patlak (1980), found that patches could be removed from cells, by simply
+withdrawing the pipette. This results in ‘excised patches’, which are accessi-
+ble for solution changes from both sides. Alternatively, a patch can be
+ruptured by a short pulse of suction or voltage without loss of the glass-to-
+membrane seal. Thus, an electrical connection is established between mea-
+suring pipette and cell, with the pipette-cell assembly well insulated against
+the outside bath. This configuration was termed ‘whole-cell recording’. Fig.
+4 gives a schematic representation of the different procedures and resulting
+configurations.
+  Whole-cell recording is very similar to conventional microelectrode im-
+palement, with some important differences, however:
+1. The leak between cell interior and bath is extremely small, such that this
+form of penetration is tolerated by cells as small as red blood cells (Hamill
+1983).
+
+
+16                                               P h y si ol o g y o r   M e di ci n e 1 9 9 1
+
+
+2. T h e el e ct ri c al a c c e s s r e si st a n c e i s l o w (l- 1 0 M Ω ) a s c o m p a r e d t o
+el e ctr o d e r e si st a n c e s of i m p al e m e nt el e ctr o d e s ( 2 0- 1 0 0 M Ω t y pi c all y, f or
+s m all c ell s). T h u s, v olt a g e- cl a m p c o n diti o n s ar e a c hi e v e d e a sil y wit h o ut
+
+                                                                                      LOW RESISTANCE SEAL
+                                                                                      (50 M m
+
+
+
+                                                SUCTION
+
+                                                                                       GIGAOHM SEAL
+
+                                                                                     ( C ell att a c h e d                         1
+
+
+             KCI/Ca++-FREE
+             PULSE OF SUCTION                                                                    PULL
+             OR VOLTAGE
+                            /                                                         \
+
+
+
+
+               1 \                                PULL                                                                 PULL
+
+
+
+
+                                                                                                                         v
+                                                                                                             \
+                                                                                    PULL
+          1 iii:: :ELL                      >          [                            L O W ca++
+
+
+
+
+                                                            PULL                                                       AIR
+                                                                                                                       EXPOSURE
+                                                       t                                                      /
+
+
+
+
+Fi g u r e 4. S c h e m ati c r e pr e s e nt ati o n of t h e pr o c e d ur e s t h at l e a d t o t h e diff er e nt p at c h cl a m p
+c o nfi g ur ati o n s. Fr o m H a mill et al. 1 9 8 1.
+
+
+                                     Erwin Neher                                  17
+
+
+feedback circuits and additional electrodes, if small cells are used (mem-
+brane resistance 100 MW-10 GW).
+3. There is rapid diffusional exchange and equilibration between patch
+pipette and cell (Marty & Neher 1983; Pusch & Neher 1988). This provides
+control over the composition of the medium inside the cell. A cell can easily
+be loaded with ions, chelators, second messengers, fluorescent probes, etc.,
+simply by including these substances in the measuring pipette. However,
+this exchange also implies that the internal milieu is disturbed, and that
+signaling cascades may be disrupted (see below).
+   With these properties, ‘whole-cell recording’ evolved to be the method of
+choice for recording from most cell-culture preparations and from acutely
+dissociated tissues. Many cell types, particularly small cells of mammalian
+origin, became accessible to biophysical analysis for the first time through
+whole-cell recording, since they would not tolerate multiple conventional
+impalements. Individual current types could be separated through control
+of solution composition on both sides of the membrane (Fenwick et al.
+1982b; see Fig. 5 for an example of whole-cell Ca-channel currents). This
+development shifted the emphasis of electrophysiological studies away from
+large-celled preparations, which usually were of invertebrate origin, to-
+wards mammalian and human cell types. In the first half of 1981, just
+before we first published a whole-cell characterization of a small mamma-
+lian cell (bovine adrenal chromaffin cells) only 5 out of 14 voltage-clamp
+studies in the Journal of Physiology were performed on cells of mammalian
+origin. The first 199 1 issue of the same journal alone contained 10 voltage-
+clamp studies on mammalian cells, none on invertebrates, and all using
+either the whole-cell or single-channel recording techniques
+
+
+DISTURBING SECOND MESSENGER EQUILIBRIA
+All measurement techniques have to deal with a conflict with respect to
+their objectives. In some instances, it is desired to observe a process,
+disturbing it as little as possible; in other instances one would like to obtain
+quantitative data under as much experimental control as possible. The two
+aims are, of course, mutually exclusive. The cell-attached measurement
+comes close to the first ideal, since it leaves the cell largely intact, and allows
+one to observe channels open and close, or to record action potentials
+extracellularly (Fenwick et al. 1982a). Excised patches constitute the other
+extreme, where membrane patches are removed from their natural environ-
+ment for optimal control of solution composition on both sides of the
+membrane. The whole-cell recording method is at an intermediate position
+in this respect. It does provide excellent control over membrane potential,
+if cells smaller than 20 mm in diameter are used. However, the chemical
+composition of the internal medium is neither undisturbed, nor is it under
+good control. We found that small mobile ions typically exchange by diffu-
+sion between pipette and cell in a few seconds (for cells of approximately 15
+mm diameter and pipettes of 2-5 MW resistance). Molecules of intermedi-
+
+
+18                               Physiology or Medicine 1991
+
+
+
+A                            -27,
+         1L                      r
+
+
+
+
+B             membrane                    potential (mV)
+
+
+
+
+Figure 5. Whole-cell membrane currents in chromaffm cells bathed in isotonic Ba solution plus
+20 µg/ml TTX. The membrane potential was stepped to values as indicated from a holding
+potential of -67 mV. The pipette solution contained mainly CsCl and TEA. With this solution
+composition the currents flowing are predominantly carried by Ca channels. Part B shows the
+current-voltage relationship. Reproduced from Fenwick et al. 1982b.
+
+
+                                  Erwin Neher                                19
+
+
+ate size, like second messengers, typically ‘wash-out’ or ‘load’ into cells
+within 10 seconds to a minute, and small regulatory proteins may take
+several minutes and longer for complete equilibrium (Pusch & Neher 1988).
+   In retrospect, it seems fortunate, that we started our measurements with
+ACh channels and Na channels, which happen to be relatively robust with
+regard to diffusible regulatory components. Thus, we initially avoided com-
+plications of ‘channel modulation’. However, when switching to channels
+which now are known to be subject to modulation by second messengers, G-
+proteins and phosphorylation (such as Ca-channels), we soon realized that
+channel activity would disappear rapidly as a result of the perturbation
+imposed by the measurement, both in ‘whole-cell’ and, more so, in excised-
+patch measurements (Fenwick et al. 1982b). Such ‘washout’ had been
+observed earlier in studies on dialyzed giant neurones (Kostyuk 1980). The
+prototype of a channel modulated by an intracellular second messenger, the
+Ca-activated K+-channel was characterized by Alain Marty (1981). These
+early studies already showed the ambivalent nature of the new tools: On the
+one hand there was the advantage of control over intracellular calcium to
+elucidate the mechanism of Ca-modulation. On the other hand there was
+the loss of cellular function due to the loss of regulators, which at that time
+were unknown. Subsequently, ingenious use of these tools by many labora-
+tories has revealed a whole network of interactions between channels,
+second messengers, G-proteins, and other regulatory proteins (see Hille
+1989, for review). In order to uncover this network it was necessary not only
+to record electrically from cells, but also to control or change systematically
+the concentrations of second messengers (Marty 1981; Kameyama et al.
+1986; Penner, Matthews & Neher 1988; Fesenko et al. 1985). Later on it
+became possible to impose step-like changes in regulators using caged
+compounds (Morad et al. 1988), or to load cells with fluorescent indicator
+dyes (Almers & Neher 1985) and regulatory proteins (Hescheler et al.
+1986).
+  All this was made possible by utilizing diffusional exchange between patch
+pipette and cell or by exposing the cytoplasmic surface of excised patches.
+Later, ways were found to avoid the adverse effects of ‘washout’ by making
+the patch selectively permeable to small ions (Lindau & Fernandez 1986;
+Horn & Marty 1988). This technique, at present, seems to be the least
+invasive method to study the functioning of small cells.
+
+
+AN ELECTROPHYSIOLOGICAL APPROACH TO STUDY SECRETION
+An outstanding property of an electrical measurement with giga-sealed
+pipettes is its high sensitivity. This can be used not only to record currents,
+but also to study the membrane electrical capacitance, which is a measure of
+cell surface area. It had been observed before, that membrane capacitance
+increases under conditions where massive exocytosis of secretory vesicles is
+expected to occur. Presumably, this is due to the incorporation of vesicular
+membrane into the plasma membrane (Jaffe et al. 1978; Gillespie 1979).
+
+
+20                                Physiology or Medicine 1991
+
+
+The low background noise of the giga-seal measurement made it possible to
+resolve area changes which result from the exocytotic fusion of single
+vesicles. This was shown by Neher & Marty (1982) for exocytosis from
+chromaffin cells of the adrenal medulla and by Fernandez, Neher & Gom-
+perts (1984) for secretion of histamine from rat peritoneal mast cells. In the
+latter case, the granules are somewhat larger, leading to well-resolved step-
+like increases in capacitance (see Fig. 6). These records show that capaci-
+tance measurement is a high-resolution technique. The figure also shows,
+however, that capacitance is not a very specific measure for secretion. This is
+evident from the fact that there is a continuous, smooth decrease in capaci-
+tance before exocytotic events show up. We found (Almers & Neher 1987)
+that the rate of this decrease depends on the concentration of free intracel-
+lular calcium [Ca]i, and that it has many properties expected for pinocytosis.
+   We used capacitance measurement together with current recording and
+microfluorimetry (fura-2) to simultaneously study, in a single cell, changes
+in [Ca ]i and secretion at subsecond time resolution. We were surprised to
+find quite different effectiveness of regulators of secretion in different cell
+types (Fig. 7). For chromaffin cells, which in many respects resemble neur-
+ones, the classical role of calcium as prime regulator of secretion was fully
+confirmed (Augustine & Neher 1992). In mast cells, however, which are not
+electrically excitable, changes in calcium concentration (in the physiological
+range) had little effect. Ca-independent secretion had been described in a
+number of inexcitable cell types (Haslam & Davidson 1984; Sha’afi et al.
+1983; Di Virgilio et al. 1984). But for us, who were used to work with
+electrically excitable cells, it was a shock not to be able to elicit secretion
+
+
+
+                                                                                     f
+
+
+
+
+Figure 6. High resolution capacitance recording during the onset of a mast cell degranulation.
+Whole-cell recording from a rat peritoneal mast cell with a pipette containing 20 µM GTP-γ-S.
+Initially the capacitance slowly decreased, probably due to retrieval of very small pinocytotic
+vesicles. After some delay degranulation started, leading to a staircase-like increase in capaci-
+tance, each step representing fusion of a single granule (adapted from Almers & Neher 1987).
+
+
+                                            Erwin Neher                                         21
+
+
+with an intracellular solution buffered to about 1 µm free calcium. Initially,
+we hypothesized, that the whole-cell configuration resulted in a loss of Ca-
+dependent regulators by washout - in analogy to early work on muscle
+contraction in skinned fibers. Later, we learned that cells in the whole-cell
+recording configuration were still able to secrete, in response to GTP-γ-S, a
+nonhydrolyzable analogue of GTP (Fernandez, Neher & Gomperts 1984).
+
+
+
+
+A
+      0.5 PM]          __~~_________________-________ __________________
+                            I         I
+                                                                      chromaffin celf
+                                60s
+
+
+
+          ~PF]          ___________________________--_________________
+B
+
+                                ’60s’                                           beta cell
+
+
+
+
+        54         1____________-______________-________-___________
+C
+      0.5 PM]         ----___-____-____________~~__~~~___~~______-_-__
+
+                           16osl                                               mast cell
+Figure 7. Different effectiveness of intracellular free calcium in inducing a capacitance increase.
+Part A represents a measurement from a bovine       chromaffin cell. The traces represent the time
+courses of capacitance (top) and free calcium concentration (bottom; measured by fura-2
+fluorescence) following a whole-cell penetration. Calcium rapidly rises, since the pipette was
+filled with a Ca-EGTA mixture adjusted for free calcium of approximately 1 µM. On the
+capacitance trace the step at the beginning (≅6 pF) represents the initial capacitance of the cell,
+which becomes ‘visible’ at the moment of ‘break in’. Capacitance then rises about two to
+threefold due to exocytosis. Part B shows a similar measurement on a pancreatic beta cell, with
+only little capacitance increase, and part C shows the complete lack of response in a rat
+peritoneal mast cell. Reproduced from Penner & Neher 1988.
+
+
+22                           Physiology or Medicine 1991
+
+
+With this response in hand, it was possible to show that calcium, although
+not able to elicit secretion by itself, was still effective in accelerating an
+ongoing secretory response. There was no indication of a loss of a Ca-
+regulator; rather it appeared that the GTP-γ-S stimulus primed the cell to
+render it more Ca-sensitive (Neher 1988).
+   GTP-γ-S nonspecifically activates intracellular signal pathways, most
+prominently the dual-signal pathway (Cockcroft & Gomperts 1985; Ber-
+ridge & Irvine 1989). Using the repertoire of patch clamp methods, Penner
+(1988) was able to show that various external secretagogoues, which are
+known to also activate the dual signal pathway, lead to a characteristic
+pattern of secretion. This is accompanied by IP3-induced Ca release from
+intracellular stores. Combining the fura-2 technique with patch clamping
+one can study the temporal relationship between this prominent transient
+Ca signal and secretion. In spite of the modulatory effect of calcium
+described above it was found that there is no strict correlation. The secre-
+tory response very often starts well after the peak of the Ca signal. Also, the
+Ca peak can be abrogated by including EGTA in the patch pipette without
+drastic effects on secretion (Fig. 8). Phenomenologically, this can be ex-
+plained by the fact that the Ca peak occurs very early at a time when the
+above-mentioned priming effect of a chemical stimulus has not occurred
+yet. A sustained phase of increased calcium, which very often follows the
+Ca-release peak, is more efficient in accelerating secretion, however, since it
+is more appropriately timed. In terms of molecular mechanisms, the prim-
+ing is likely to represent protein kinase C activation (Heiman & Crews 1985;
+Penner 1988). Additionally it has been shown that there is another G-
+protein-mediated pathway, which links a hormonal stimulus to secretion
+(Gomperts, Barrowman & Cockcroft 1986; Penner 1988). This link is sensi-
+tive to pertussis toxin, and to intracellular application of cAMP (Penner
+1988).
+   Our studies on mast cells (see Penner & Neher 1989 for review) have
+taught us that secretory control is not necessarily dominated by calcium, but
+that rather it involves a meshwork of interacting second messenger path-
+ways. In neurones, it appears that changes in calcium (Augustine et al.
+1987) or calcium plus voltage (Parnas et al. 1986) largely determine the
+kinetics of fast secretory events. However, there is increasing evidence that
+other second messengers are responsible for plastic changes in synaptic
+signals, possibly by regulating the availability of vesicles for secretion (Llinas
+et al. 1991). Unfortunately, nerve terminals are usually not accessible to the
+kind of biophysical investigations described here. However, recent studies
+on neurosecretory cells reveal new details on the kinetics of Ca-induced
+secretion (Thomas, Suprenant & Almers 1990; Augustine & Neher 1992;
+Lim, Nowycky & Bookman 1990; Lindau et al. 1992). They promise to allow
+a differentiation between the exocytotic event per se and some of the other
+steps in the life cycle of a secretory vesicle. Together with the ability to
+control second messengers such studies may soon lead to a better under-
+
+
+                                                                          Er wi n N e h er                                                                    23
+
+
+st a n di n g of e x o c yt o si s a n d of t h e                         m ol e c ul ar pr o c e s s e s t h at dir e ct a v e si cl e t o
+it s sit e of a cti o n.
+
+A c k n o wl e d g e m e nt s: I a m d e e pl y i n d e bt e d t o m y t e a c h er i n el e ctr o p h y si ol o g y,
+H. D. L u x, w h o f o c u s s e d t h e y o u n g p h y si c s st u d e nt’ s mi n d o nt o i o n c h a n-
+
+
+
+
+                      J _ &-- _ _ _ _--- _ _ _ _-- _ _ _ _ _ _- _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _-
+                          *
+
+
+
+
+B
+       2OpF
+                      1 I____~_______~~_________~________.
+                      1
+
+
+
+
+       2OpF            1J ,_I _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _----- _ _ _ _ _ ~--- _ _ _ _ _ _--- _ _ _ _-----
+ C
+            1 PM       1
+
+
+Fi g ur e 8. R e s p o n s e s of        m a st c ell s t o sti m ul ati o n b y t h e s e c r et a g o g u e c o m p o u n d                48 /80       u n d er
+diff e r e nt     C a- b uff e ri n g c o n diti o n s.      T h e i n di vi d u al        p a n el s s h o w c o m bi n e d c a p a cit a n c e- c al ci u m
+(f ur a- 2)      m e a s ur e m e nt s si mil ar t o t h o s e of Fi g.            7. P a n el     A s h o w s t h e ‘ u n b uff er e d’ c a s e.     No     C a-
+b uff e r       w as a d d e d t o t h e       pi p ett e ( e x c e pt f o r 1 0 0           µM    f ur a- 2).    A    C a t r a n si e nt d e v el o p e d i n
+r e s p o n s e t o sti m ul ati o n ( a st eri s k). S e cr eti o n t y pi c all y          pr o c e e d e d    m ai nl y   d uri n g t h e f alli n g    p h as e
+of t h e C a-tr a n si e nt or f oll o wi n g it. I n p a n el B a n                     E G T A / Ca       mi xt ur e ( 1 0 m M)      w as a d d e d t o t h e
+pi p ett e      w hi c h s u p p r e s s e d t h e t r a n si e nt, a n d         fi x e d t h e   C a c o n c e nt r ati o n t o t h e r a n g e 2 0 0- 5 0 0
+µ m.     N e v ert h el e s s, s e cr eti o n pr o c e e d e d      wit h a ti m e c o ur s e si mil ar t o c a s e           A. I n p a n el    C 10       m M
+E GT A        w a s a d d e d t o cl a m p c al ci u m t o l o w v al u e s. T hi s s u p pr e s s e d b ot h t h e                   C a si g n al a n d t h e
+s e c r et o r y r e s p o n s e (f r o m     Ne her &           P e n n e r 1 9 8 8).
+
+
+24                            Physiology or Medicine 1991
+
+
+nels, and taught me to use microscopic tools. Superb working facilities in
+Gottingen were provided by H. Kuhn, O. D. Creutzfeldt and T. Jovin, who
+established a Young Investigators Laboratory for Bert Sakmann, F. Bar-
+rantes and myself where we could independently pursue our goals. In more
+recent years my work was generously supported by a Leibniz Award of the
+Deutsche Forschungsgemeinschaft.
+
+
+REFERENCES:
+Almers, W. & Neher, E. (1985) FEBS Letters 192, 13-18.
+Almers, W. & Neher, E. (1987)J. Physiol. 386, 205-217.
+Anderson, C.R. & Stevens, C.F. (1973) J. Physiol. 235, 655-691.
+Augustine, G.J. & Neher, E. 1992, J. Physiol. 450, 247-271.
+Augustine, G. J., Charlton, M.P. & Smith, S.J. (1987) Ann. Rev. Neurosci. 10,633-
+   693.
+Bean, R.C., Shepherd, W.C., Chan, H., & Eichler, J.T. (1969) J. Gen. Physiol. 53,
+   741-757.
+Berridge, M.J. & Irvine, R.F. (1989) Nature 341, 197-205.
+Cockcroft, S. & Gomperts, B.D. (1985) Nature 314, 534-536.
+Conti, F. & Neher, E. (1980) Nature 285, 140-143.
+Di Virgilio, F., Lew, D.P. & Pozzan, T. (1984) Nature 310, 691-693.
+Fenwick, E.M., Marty, A. & Neher, E. (1981) J. Physiol. 319, l00P-101P
+Fenwick, E.M., Marty, A. & Neher, E. (1982a) J. Physiol. 331, 577-597.
+Fenwick, E.M., Marty, A. & Neher, E. (1982b) J. Physiol. 331, 599-635.
+Fernandez, J.M., Neher, E. & Gomperts, B.D. (1984) Nature 312, 453-455.
+Fesenko, E.E., Kolesnikov, S.S. & Lyubarsky, A.L. (1985) Nature 313, 310-313.
+Fishman, H.M. (1973) Proc. Natl. Acad. Sci. USA 70, 876-879.
+Frank, K. & Tauc, L. (1963) in: The Cellular Function of Membrane Transport (ed. J.
+   Hoffman), Prentice Hall, Englewood Cliffs, New Jersey/USA
+Gillespie, T.J. (1979) Proc. R. Soc. London Ser. B 206, 293-306.
+Gomperts, B.D. Barrowman, M.M. & Cockcroft, S. (1986) Fed. Proc. 45, 2156-
+   2161.
+Hamill, O.P. (1983) in: Single Channel Recording (eds. B. Sakmann and E. Neher)
+   Plenum Press, New York, pp 451-471.
+Hamill, O.P. & Sakmann, B. (1981) J. Physiol. 312, 41P-42P.
+Hamill, O.P., Marty, A., Neher, E., Sakmann, B., & Sigworth, F.J. (1981) Pfliigers
+   Arch. 391, 85-100.
+Haslam, R.J. & Davidson, M.L. (1984) FEBS Letters 174, 90-95.
+Heiman, A.S. & Crews, F.T. (1985) J. Immunol. 134, 548-554).
+Hescheler, J., Kameyama, M. & Trautwein, W. (1986) Pfliigers Arch. 407, 182-189.
+Hille, B. (1970) Prog. Biophys. Mol. Biol. 21, l-32.
+Hille, B. (1989) Quart. J. Exp. Physiol. 74, 785-804.
+Hladky, S.B. & Haydon, D.A. (1970) Nature 225, 451-453.
+Hodgkin, A.L. & Huxley, A.F. (1952) J. Physiol. 117, 500-544.
+Horn, R. & Marty, A. (1988) J. Gen. Physiol. 92, 154-159.
+Horn, R. & Patlak, J. (1980) Proc. Natl. Acad. Sci. USA 77, 6930-6934.
+Jaffe, L.A., Hagiwara, S. & Kado, R.T. (1978) Dev. Biol. 67, 243-248.
+Sir Bernard Katz (1966) Nerv, Muscle and Synapse, McGraw-Hill Book Company,
+   New York
+Kameyama, M., Hescheler, J., Hofmann, F., & Trautwein, W. (1986) Pfliigers Arch.
+   407, 123-l 28.
+Katz, B. & Miledi, R. (1972) J. Physiol. 224, 665-700.
+Kostyuk, P.G. (1980) Neuroscience 5, 945-959.
+
+
+                                     Erwin Neher                                  25
+
+
+Lim, N.F., Nowycky, M.C. & Bookman, R.J. (1990) Nature 344, 449-451.
+Lindau, M., Stuenkel, E.L. & Nordmann, J.J. (1992) Biophys. J. 61, 19-30.
+Lindau, M. & Fernandez, J.M. (1986) Nature 319, 150-153.
+Llinas, R., Gruner, J.A., Sugimori, M., McGuiness, T.L., & Greengard, P. (1991) J.
+   Physiol. 436, 257-282.
+Marty, A. (1981) Nature 291, 497-500.
+Marty, A. & Neher, E. (1983) in: Single Channel Recording (eds. B. Sakmann and E.
+   Neher), Plenum Press New York, pp 107-122.
+Morad, M., Davies, N.W. Kaplan, J.H. & Lux, H.D. (1988) Science 241, 842-844.
+Müller, P. & Rudin, D.O. (1963) J. Theor. Biol. 4, 243-280.
+Neher, E. (1988) J. Physiol. 395, 193-214.
+Neher, E. & Lux, H.D. (1969) Pfliigers Arch. 311, 272-277.
+Neher, E. & Marty, A. (1982) Proc. Natl. Acad. Sci. USA 79, 6712-6716.
+Neher, E. & Penner, R. (1988) in: Molecular Mechanisms in Secretion (eds. N.A.
+   Thorn, M. Treiman and O.H. Petersen) Munksgaard Copenhagen, pp 262-270.
+Neher, E. & Sakmann, B. (1976) Nature 260, 799-802.
+Neher, E. & Stevens, C.F. (1977) Ann. Rev. Biophys. Bioeng. 6, 345-381.
+Neher, E. & Steinbach, J.H. (1978) J. Physiol. 277, 153-176.
+Parnas, H., Dudel, J. & Parnas, I. (1986) Pfliigers Arch. 406, 121-130.
+Penner, R. (1988) Proc. Natl. Acad. Sci. USA 85, 9856-9860.
+Penner, R. & Neher, E. (1988) J. exp. Biol. 139, 329-345.
+Penner, R. & Neher, E. (1989) TINS 12, 159-163.
+Penner, R., Matthews, G. & Neher, E. (1988) Nature 334, 499-504.
+Pratt, F,.H. & Eisenberger, J.P. (1919) Am. J. Physiol. 49, l-54.
+Pusch, M. & Neher, E. (1988) Pfliigers Arch. 411, 204-211.
+Sakmann, B. (1978) Fed. Proc. 37, 2654-2659.
+Sakmann, B. & Boheim, G. (1978) Nature 282,336-339.
+Sakmann, E., Patlak, J. & Neher, E. (1980) Nature 286, 71-73.
+Sha’afi, R.I., White, J.R., Molski, T.P.F., Shefcyk, J., Volpi, M., Naccache, P.H. &
+   Feinstein, M.B. (1983) Biochem. Biophys. Res. Comm. 114, 638-645.
+Sigworth, F.J. & Neher, E. (1980) Nature 287, 447-449.
+Strickholm, A. (1961) J. gen. Physiol. 44, 1073-1087.
+Thomas, P., Suprenant, A. & Almers, W. (1990) Neuron 5, 723-733.
+

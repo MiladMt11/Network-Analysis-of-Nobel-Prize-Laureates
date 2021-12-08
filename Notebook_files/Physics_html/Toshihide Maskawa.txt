@@ -1,0 +1,366 @@
+WHAT DOES CP VIOLATION TELL US?
+
+Nobel Lecture, December 8, 2008
+by
+Toshihide Maskawa
+Kyoto Sangyo University, Kyoto 603-8555, Japan.
+
+
+
+
+I would first like to thank the Royal Swedish Academy of Sciences and the
+Nobel Foundation for awarding me this honour, of which I had never even
+dreamt.
+   I was born in 1940, the son of a furniture craftsman in the city of Nagoya, in
+Japan. My father wanted to change his job and was taking a correspondence
+course to become an electrical engineer, while he was a trainee furniture
+craftsman. However, he told me that he could not really understand sine and
+cosine, since he had not received a basic education. Eventually, though, he
+did manage a small furniture factory employing a few craftsmen and worked
+there himself. But this came to nothing because of the War, that reckless and
+miserable war which our country caused.
+   After the War, he displayed in front of his house the door hinges, wood
+screws and other pieces of furniture, which remained at hand. They sold
+quite well. Getting a taste for selling, he became a merchant dealing with
+sugar as an ingredient for cakes.
+   He still wanted to boast of his knowledge of electricity, but he could not
+find anyone suitable to explain it to. One day, though, he found a good tar-
+get: his son.
+   In those poor days after the war, almost all the houses were without bath-
+rooms and so people went to the public bath. On his way to and from the
+public bath, he boasted of his knowledge: Why do three-phase current mo-
+tors rotate? Why don’t the solar and lunar eclipses occur every month? He
+explained proudly that it was because of the revolution planes of the earth
+around the sun, and of the moon around the earth, which are tilted at an
+angle of 5 degrees.
+   This was the reason why I was a strange pupil at school. I had a poor record
+but could answer the teacher’s questions when he digressed and spoke about
+subjects outside of the textbooks.
+   My parents neither observed their children carefully nor helped with their
+study. One day, my mother realised that she had never seen her son studying
+at home. So she told my teacher at a parent’s association meeting. “Please
+give my son homework at least occasionally. Otherwise, he never studies at
+home.” My teacher answered, “Your son has never done his homework de-
+spite the fact that I give him homework every day!”
+
+                                                                              93
+
+
+   Disastrous was that night. I got a two-hour lecture from my parents.
+   An event that gave me a strong wish to become a physicist happened after I
+went on to high school. I went to high school with no strong motivation. But,
+one day when I was in the first or second year, I found a newspaper article ex-
+plaining that Professor Shoichi Sakata at Nagoya University had published a
+revolutionary theory [1] about the composite model for elementary particles
+in which he chose the proton, neutron and Lambda particles as the funda-
+mental three constituents.
+   I was so childish at that time that I thought that all of science had already
+been completed in Europe during the 19th century. If Professor Sakata’s
+theory had come from Tokyo, I would have thought it irrelevant to me. But
+scientific discoveries were being developed right in Nagoya, where I was liv-
+ing! I became eager to join in such research activity there. My father, how-
+ever, wanted his son to succeed him in the family business. So I was given only
+one chance to take an entrance examination for the university, and could not
+fail it. I worked very hard to prepare for the entrance examination to Nagoya
+University.
+   Fortunately I was accepted. The lectures at the university were very dif-
+ferent and much more stimulating than those in high school. The first class
+was about mathematical analysis. I learnt about an axiom from Archimedes
+explaining that, for any two positive numbers, ε and δ, there is an integer N
+such that N × ε > δ. And then the teacher continued the lecture to explain
+Dedekind’s Cut. It was a Culture Shock. Everything that I experienced in the
+university, including those lectures, was fresh and stimulating. Each time I
+begin to study a new field, I was totally absorbed in it and told the people
+around me that I would research that subject in future.
+   When I was a senior, a Professor in the Mathematics Department told me,
+“You will, of course, take an entrance examination for a Mathematics gradu-
+ate course, won’t you?” When I answered, “No, I already sent the application
+form to a Physics graduate course,” the professor looked upset hearing this
+totally unexpected answer. Probably, I had been saying that I was planning to
+go on to a Mathematics graduate course until just before.
+   This capriciousness of mine did not change even when I went to the phys-
+ics graduate course in 1962. I thought that research on the brain was impor-
+tant and began a voluntary circle to study a PERCEPTRON with a few friends.
+However, when I had to write my Master’s thesis in the second year, I was
+preparing a paper on particle physics in Prof. Sakata’s laboratory.
+   In this period, research based on dispersion relations resulting from cau-
+sality was popular in the world, and a “Bootstrap Model” advocated by G.F.
+Chew was in fashion. In Sakata’s laboratory, the composite model [1] for
+‘elementary’ particles was popular, which was originally proposed by Prof.
+Sakata in 1955.
+   At that time the symmetry between leptons and baryons concerning weak
+interactions which A. Gamba, R.E. Marshak and S. Okubo [2] had pointed
+out at the Kiev Conference in 1951 occupied the interest of the laboratory
+[3]; that is,
+
+94
+
+
+                             (ν, e, μ) ↔ (p, n, Λ).
+
+Following this line, when the muon-neutrino νμ was found, the majority of
+the Sakata laboratory naturally began to research the quartet constituent
+models. Indeed, in 1964, a quartet constituent model was proposed by Ziro
+Maki [4], the associate professor at the laboratory.
+   Although I did not write papers during this period, I was very fascinated
+by spontaneously broken chiral symmetry after reading Professor Nambu’s
+papers [5, 6]. I was also interested in developments in current algebra and
+PCAC (partially conserved axial-vector current). Extending my interest
+in this direction, I encountered important papers like: “The Axial Vector
+Current in Beta Decay” by M. Gell-Mann and M. Levy (1960) [7], and
+“Question of Parity Conservation in Weak Interactions” by T.D. Lee and C.
+N. Yang (1956) [8].
+   As the keystones of my research in particle physics, those papers strength-
+ened my interest in observing how particles emerge through their weak
+interactions.
+   Although I did not publish it, I calculated several physical quantities in the
+framework of the Nambu-Jona-Lasinio (NJL) model [6]. For instance, I com-
+puted the pion decay constant fπ, but felt it rather small given the fact that it
+has a typical quantity characterising the strong interaction. I persistently ex-
+amined how the decay constant could be decreased by adjusting the free pa-
+rameters in the NJL model: the coupling constant and the UV cutoff. I could
+get no definite answer, since the contribution from the momentum region
+near the UV cutoff was most dominant. But, I recognised the importance of
+renormalisability from this experience.
+
+
+
+
+Figure 1. Box diagram.
+
+
+Although this research wasn’t being paid much attention in Japan, there
+were physicists around the world who were examining higher order effects of
+weak interactions. If weak interaction is described by the current-current type
+4-fermion interaction, then the higher order effects diverge. So these authors
+replaced the 4-fermion interaction by a box diagram as shown in Fig. 1, in
+which heavy scalar bosons and heavy fermions propagate in the intermedi-
+
+                                                                              95
+
+
+ate state. This reduces to the usual 4-fermion interaction in the heavy limit
+of scalar and fermion masses. It did not yet provide a satisfactory model, but
+it did allow the possibility of making the weak interaction renormalisable by
+scalar boson mediation. I was also paying attention to papers which persis-
+tently examined the higher order effects of the current-current interaction.
+   The laboratory subscribed to only one physics journal, and so many people
+wanted to read the latest issue. Partly to resolve this problem, Sakata’s labo-
+ratory also had a journal club in which members took turns reading and re-
+porting on the new issue. When my turn came for the first time, the journal
+contained the paper by Fitch and Cronin [9] reporting the observation of
+CP violation. This made a strong impression on me and raised the question:
+What is this? However, I had no clue at all how to attack the problem and
+thus laid it aside for eight years.
+   In the latter half of the 60s, my interest was mainly focused on chiral
+symmetry and chiral dynamics. In this period I found, for instance, in the
+Nambu-Jona-Lasinio model that the pion decay constant is rather small for a
+typical constant characterising the strong interaction, and that pion squared
+mass is the quantity of the first order in chiral symmetry breaking. I still
+didn’t write any papers about this. I regard them as etudes for a physicist, just
+as painters draw variations of changing poses or compositions.
+   The idea of Spontaneous Symmetry Breaking in Nambu and Jona-Lasinio’s
+paper was very attractive, but there are no massless particles interacting
+strongly in reality. So many physicists begin to focus their efforts on evading
+the Nambu-Goldstone (NG) Theorem [11, 12]. Higgs was among them. The
+reason why the NG massless boson appears is that there are only two form
+factors proportional to γ5 pμ and γμ γ5 in the axial current, and the current
+conservation condition leads to the existence of a massless pole in one of
+the two form factors. This was what the NG theorem describes. Then Higgs
+[10] appeared and developed his arguments on the Coulomb gauge where
+manifest Lorentz invariance is lost, so that one more form factor can appear
+and one can evade the NG theorem.
+   It was the paper on the Higgs mechanism with which not only the massless
+NG boson disappears but also the gauge boson becomes massive. I could not
+follow his logic. Soon, fortunately, Kibble [13] appeared and made clear the
+mechanism in a Lorentz covariant manner, which I could understand. Soon,
+the electro-weak unified theory by S. Weinberg [14] and A. Salam [15], as
+well as the Faddeev-Popov’s paper [16] clarifying the Feynman rule for Yang-
+Mills theory, appeared.
+   In connection with the four-quark model and from my interest in the
+higher order effects of weak interaction, I noticed a paper by GIM (Glashow,
+Iliopoulos and Maiani) [17] in 1969 and called the attention of some of my
+colleagues to it. This reminded me of the four-quark model once again, al-
+though all the graduates of Sakata laboratory already knew about it.
+   There is a paper from this period, which was cited as “Z. Maki and T.
+Maskawa, RITP-146” [18] in my paper on CP violation with M. Kobayashi
+[19]. It was written just before the CP violation paper and the title was
+
+96
+
+
+“Hadron Symmetries and Gauge Theory of Weak and Electromagnetic
+Interactions”. This paper is little known since I never announced that it was
+published in Progress of Theoretical Physics, 49 (1973), 1007. If the strong inter-
+action chooses a specific direction in the four-quark model, then its interfer-
+ence with the weak interaction would have easily caused CP violation. People
+came to know after 1974 that the strong interaction is described by QCD
+(Quantum ChromoDynamics) and that it has no specific direction other
+than the quark mass terms specified by the Higgs field. This was, however,
+unknown at that time in 1972, so we needed the analysis of the strong inter-
+action given in the paper above.
+   When the electro-weak unified gauge theory appeared, I felt intuitively that
+the time had come to take up the CP violation problem. After finishing the
+graduate course, I became an assistant professor for three years in Nagoya
+University and then moved to Kyoto University in 1970. Kobayashi also came
+to Kyoto as an assistant professor two years later, in April 1972.
+   We have a series of holidays called Golden Week in the beginning of May
+in Japan. After the Golden Week, Kobayashi and I started a new collabora-
+tion. It was a good opportunity for us to work again in the same laboratory.
+I felt that the time was ripe for attacking the CP violation problem as stated
+above and proposed it as the theme of our collaboration. Kobayashi had also
+been approaching this problem in Nagoya.
+   We started to study CP violation based on the quartet quark model in
+the electro-weak unified gauge theory. First we had to determine how the
+left- and right-handed components of the four quarks transform under the
+electro-weak symmetry SU(2) × U(1):
+
+A) 4 = 2 + 2
+B) 4 = 2 + 1 + 1
+C) 4 = 1 + 1 + 1 + 1
+
+There are these three cases for each of left- and right-handed components, so
+that we have to consider 9 cases in all. In all the cases except for case (A, B)
+where the left-handed component is A) and the right-handed B), we see that
+CP violation cannot occur if we take into account the freedom to arbitrarily
+choose the phases of the quark fields. The last case (A, B) was an exception.
+   I thought that it seemed to work since all the other cases failed and asked
+Kobayashi whether he agreed. Kobayashi put his head a little to one side and
+answered “I will examine this in detail overnight.” He probably knew the re-
+sult already, but answered like that for safety. The next day he told me, “That
+case does not work since it predicts the wrong sign for gV /gA contradicting
+the experiment.”
+   During this time, I was chief secretary of the labour union at Kyoto
+University. There was a growing problem related to the dismissal of secretar-
+ies in our Faculty of Science. I could not concentrate on my research while
+pretending not to see these dismissals, since the secretaries really supported
+our young researchers. I discussed physics with Kobayashi in the morning
+
+                                                                                97
+
+
+and worked at the union in the afternoon. Coming back home in the eve-
+ning, I enjoyed dinner with my family and talked with them about the events
+of the day. After taking a bath I had time to think about my research. This
+was how I was living back in those days.
+   After Kobayashi eliminated the possibility of the case (A, B), a search for
+the way out began, attempting to explain how CP violation could be under-
+stood as a four quark model. We fought a tough struggle for a month or so.
+And one day, while taking a bath, I thought: No good model exists which can
+explain CP violation in the four-quark model if we stick to the renormalisable
+theory of weak interaction. So I made up my mind to write a negative paper,
+which proved that CP violation cannot be explained in the four-quark model
+in a framework of renormalisable electro-weak theory.
+   Deciding to finish this work by writing a poor paper and thinking up an ex-
+cuse, I got out of the bath tub. Probably this may have freed me from sticking
+to the four-quark model. Suddenly, I recognised that it must work well in the
+six-quark model. It was already clear from our many trials and calculations up
+until then that a complex phase could remain there.
+   In the framework of unified electro-weak gauge theory, there is a scalar
+field called the Higgs field. When it develops a non-vanishing vacuum expec-
+tation value, the quark fields acquire their masses. If we rewrite the quark
+fields into those, which have definite masses, then the charged current oper-
+ators in the weak interaction develop a unitary matrix U. If a complex phase
+appears in the matrix elements of U, CP violation occurs.
+   This explanation may give the wrong impression that the complex phase
+always leads to CP violation. Actually, since the quark fields qi are complex,
+we have the freedom to change their phases arbitrarily as q i  e iα i q i . Clearly
+this leaves physics intact, but the phases of the matrix elements of U are
+changed. Recall that the charged weak current has the structure, complex
+conjugate of up-type quark ﬁelds, ui times down-type quark fields dj times
+the i–j matrix elements Uij of U: uiU ij d j . Here i, j run from 1 to N if there exist
+N generations of quarks.
+
+Therefore the phase change of the 2N quark fields,
+
+         ui l eiai ui , d j  eib d j , (1)
+                                      j
+
+
+
+
+induces the phase change of the matrix element
+
+         U ij l e  i
+                  i a   bj
+                             U ij .       (2)
+
+Therefore, among the 2N phase changes for 2N quark fields, 2N − 1 degrees
+of freedom can be used to change the phase of U, since a common phase
+transformation for all quark fields does not change U.
+   The N × N unitary matrix U, which appears in the charged weak current
+when the SU(2) × U(1) doublet quark fields are rewritten in terms of the
+mass eigenstate quark fields, generally has N(N + 1)/2 degrees of freedom
+
+98
+
+
+for the complex phase. If we subtract the above freedom of quark ﬁeld phase
+change, then we are left with
+
+
+
+
+as the net number of physical complex phases in the matrix U.
+   This number vanishes for N = 1 and N = 2, which correspond to the two
+and four-quark cases, respectively, explaining that we have no complex phas-
+es in the matrix U and thus no CP violation for the two and four-quark cases.
+However, when we go to the N = 3 generation case, i.e., the six-quark model,
+then this number is 1 and CP violation can occur for the first time!
+   We have thus completed our work. The origin of CP violation was revealed
+partially at least.
+   It, however, took a long time: more than 30 years and vast efforts of many
+experimenters to really verify this theory. I would like to thank here all the
+people in the world who supported this grand project of humanity.
+
+
+
+
+                                                                           99
+
+
+REFERENCES
+[1] S. Sakata, “On a composite model for new particles”, Prog. Theor. Phys. 16 (1956), 686.
+[2] A. Gamba, R. E. Marshak and S. Okubo, “Proceedings of the Ninth Conference on
+     High Energy Nuclear Physics”, Proc. Nat. Acad. Sci. 45 (1959), 881.
+[3] Z. Maki, M. Nakagawa, Y. Ohnuki and S. Sakata, “A unified model for elementary
+     particles”, Prog. Theor. Phys. 23 (1960), 1174.
+[4] Z. Maki, “The forth baryon, Sakata model and modified B-L symmetry.1”, Prog. Theor.
+     Phys. 31 (1964), 331.
+[5] Y. Nambu, “Quasi-particles and gauge invariance in the theory of superconductivity”,
+     Phys. Rev. 117 (1960), 648.
+[6] Y. Nambu and G. Jona-Lasinio, “Dynamical model of elementary particles based on
+     an analogy with superconductivity. I”, Phys. Rev. 122 (1961), 345; 124 (1961), 246.
+[7] M. Gell-Mann and M. Levy, The axial vector current in beta decay”, Nuovo Cim. 16
+     (1960), 705.
+[8] T. D. Lee and C. N. Yang, “Question of parity conservation in weak interactions”, Phys.
+     Rev. 104 (1956), 254.
+[9] J. H. Christenson, J. W. Cronin, V. L. Fitch and R. Turlay, “Evidence for the 2π decay
+     of the K20 Meson”, Phys. Rev. Lett. 13 (1964), 138.
+[10] P. W. Higgs, “Broken symmetries, massless particles and gauge fields”, Phys. Lett. 12
+     (1964), 132; “Spontaneous symmetry breakdown without massless bosons”, Phys. Rev.
+     145 (1966), 1156.
+[11] J. Goldstone, “Field theories with superconductor solutions”, Nuovo Cim. 19 (1961),
+     154.
+[12] J. Goldstone, A. Salam and S. Weinberg, “Broken symmetries”, Phys. Rev. 127 (1962),
+     965.
+[13] T. W. B. Kibble, “Symmetry breaking in non-Abelian gauge theories”, Phys. Rev. 155
+     (1967), 1554.
+[14] S. Weinberg, “A model of leptons”, Phys. Rev. Lett. 19 (1967), 1264.
+[15] A. Salam, “Weak and Electromagnetic Interactions” in Elementary Particle Theory ed. by
+     N. Svartholm (Almqvist & Wiksell, 1968), 367–377.
+[16] L. D. Faddeev and V. N. Popov, “Feynman diagrams for the Yang-Mills fields”, Phys.
+     Lett. B 25 (1967), 29.
+[17] S. L. Glashow, J. Iliopoulos and L. Maiani, “Weak interactions with lepton-hadron
+     symmetry”, Phys. Rev. D 2 (1970) 1285.
+[18] Z. Maki and T. Maskawa, “Hadron symmetries and gauge theory of weak and electro-
+     magnetic interactions”, Prog. Theor. Phys. 49 (1973), 1007.
+[19] M. Kobayashi and T. Maskawa, “CP violation in the renormalizable theory of weak
+     interaction”, Prog. Theor. Phys. 49 (1973), 652.
+Portrait photo of Toshihide Maskawa by photographer Ulla Montan.
+
+
+
+
+100
+

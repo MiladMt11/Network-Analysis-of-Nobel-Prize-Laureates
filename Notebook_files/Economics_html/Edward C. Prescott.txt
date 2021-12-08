@@ -1,0 +1,1302 @@
+THE TRANSFORMATION OF MACROECONOMIC
+POLICY AND RESEARCH
+Prize Lecture, December 8, 2004
+
+by
+
+Edward C. Prescott*
+
+Arizona State University, Tempe, and Federal Reserve Bank of Minneapolis,
+Minnesota, USA.
+
+
+
+
+1. INTRODUCTION
+What I am going to describe for you is a revolution in macroeconomics, a
+transformation in methodology that has reshaped how we conduct our science.
+Prior to the transformation, macroeconomics was largely separate from the
+rest of economics. Indeed, some considered the study of macroeconomics
+fundamentally different and thought there was no hope of integrating
+macroeconomics with the rest of economics, that is, with neoclassical economics.
+Others held the view that neoclassical foundations for the empirically deter-
+mined macro relations would in time be developed. Neither view proved
+correct.
+   Finn Kydland and I have been lucky to be a part of this revolution, and my
+address will focus heavily on our role in advancing this transformation. Now,
+all stories about transformation have three essential parts: the time prior to
+the key change, the transformative era, and the new period that has been
+impacted by the change. And that is the story I am going to tell: how macro-
+economic policy and research changed as the result of the transformation of
+macroeconomics from constructing a system of equations of the national
+accounts to an investigation of dynamic stochastic economies.
+   Macroeconomics has progressed beyond the stage of searching for a theory
+to the stage of deriving the implications of theory. In this way, macroeconomics
+has become like the natural sciences. Unlike the natural sciences, though,
+macroeconomics involves people making decisions based upon what they
+think will happen, and what will happen depends upon what decisions they
+make. This means that the concept of equilibrium must be dynamic, and – as
+we shall see – this dynamism is at the core of modern macroeconomics.
+
+
+*Thanks to Dave Fettig, Tim Kehoe, Robert Lucas, Ellen McGrattan, Lee Ohanian, Richard
+Rogerson, and Art Rolnick for their helpful comments and the National Science Foundation for
+financial support (grant #0422539).
+
+
+370
+
+
+   Before proceeding, I want to emphasize that the methodology that transform-
+ed macroeconomics is applicable to the study of virtually all fields of econom-
+ics. In fact, the meaning of the word macroeconomics has changed to refer to
+the tools being used rather than just to the study of business cycle fluctuations.
+   As a result of the transformation, these are exciting times in macroeconom-
+ics. The methodology that Finn and I developed for the study of business cy-
+cle fluctuations is being used to advance learning not only in the area
+of business cycles but also in virtually all areas of economics. By using this
+methodology, researchers are able to apply theory and measurement to
+answer questions, define puzzles, and determine where better measurement
+is needed before specific questions can be answered.
+   Over the last five years, I have addressed the following questions using this
+methodology: What is the fundamental value of the stock market, and do fun-
+damentals account for the large movements in the value of the stock market
+relative to gross domestic product that have occurred over time? Why did
+hours worked per adult fall by one-third in Western Europe, and not in
+Canada and the United States, in the 1970–1995 period? Why were market
+hours in the United States at the end of the 1990s 5 percent above what theory
+predicts? Why did Japan lose a decade of growth beginning in 1992, a decade
+when growth was at trend in the other advanced industrial countries?
+   Much of this recent research originates from my undergraduate teaching
+that began in the late 1990s. Until then, I had never taught a course in which
+macroeconomic questions were addressed using this methodology. The
+undergraduate course I taught was Quantitative Analysis of the Macroeconomy.
+I chose to teach this course because I felt there was a need to develop material
+that could be used in teaching what macroeconomics has become at the
+undergraduate level. I felt there was this need because Finn’s and my work on
+the time consistency problem and developments in agency theory led me to
+the conclusion that having good macroeconomic policy requires having an
+educated citizenry that can evaluate macroeconomic policy. A second reason
+why I thought there was this need is that by introducing talented undergrad-
+uates to the excitement of modern macroeconomics, some would be influ-
+enced to pursue careers in economic research and would make important
+advances to economic science.
+   In the course I introduced the real business cycle model economy, which is
+the single sector growth model in which people decide how much of their
+income to consume and save and how much of their time endowment to
+allocate to the market. Motivated by Ragnar Frisch’s Nobel address (1970),
+I call this model the neoclassical growth model because it incorporates the
+willingness of people to substitute as well as their ability to substitute.
+   One decision that people must make is how to allocate their time endowment,
+which is the most precious resource an individual has. Indeed, as my under-
+graduates figure out, the present value of their time endowment is approxi-
+mately 5 million current U.S. dollars, which makes them all multimillionaires.
+Another crucial feature of any real business cycle model is that the model people
+decide how much to consume and how much to invest or equivalently save.
+
+                                                                              371
+
+
+   The course requires students to carry out quantitative analyses to address
+specific questions. They use the methodology that Finn and I developed for
+the study of business cycles to address policy issues. A typical exercise is to
+determine whether a proposal made by a public opinion leader or government
+official will have the intended consequence. One question they were assigned
+concerns financing of transfer payments. Their finding was totally counter to
+then-conventional wisdom. I will return to this finding later because it is an
+implication of Finn Kydland’s and my business cycle theory.
+
+
+2. THE TRANSFORMATION OF MACROECONOMIC POLICY
+In this section I first describe what macroeconomic models were before the
+transformation and what they are after the transformation. Then I describe
+policy selection before and after the transformation. Before the transformation,
+what is evaluated is a policy action given the current situation. Policy discussions
+were in terms of questions such as whether the money supply should be increas-
+ed or reduced. In his critique (1976), Robert Lucas established that questions
+such as these are not well posed in the language of dynamic economic theory.
+   After the transformation, what is evaluated is a policy rule. A policy rule
+specifies the current policy action as a function of the current economic situa-
+tion. As Finn and I found, no best policy rule exists. Typically, the policy rule
+is best given that it will be followed in the future. Any such rule is by definition
+time-consistent, but except in empirically uninteresting cases, Finn and I
+show that time-consistent rules are not optimal; indeed, they lead to bad
+outcomes. All that can be hoped for is to follow a good rule, and this requires
+economic and political institutions that sustain this rule.
+
+Macroeconomic Models before the Transformation
+Macroeconomic models were systems of equations that determined current
+outcomes given the values of the current policy actions, values of predetermined
+variables, and values of any stochastic shocks. Thus, physical models and
+pre-transformation macro models have the same mathematical structure.
+The basic mathematical structure of both is
+
+            xt+1= f (xt ,ut ,t ).
+
+The state or position of the dynamic system at the beginning of period t is xt ,
+the control or policy variables are ut , and the stochastic shocks are t .
+  With the system-of-equations approach, each equation in the system is
+determined up to a set of parameters. The simple prototype system-of-equations
+macro model has a consumption function, an investment equation, a money
+demand function, and a Phillips curve. Behind all these equations were a rich
+empirical literature and, in the case of the consumption function, money
+demand function, and investment equation, some serious theoretical work.
+The final step was to use the tools of statistical estimation theory to select the
+parameters that define the function f.
+
+372
+
+
+    I worked in this tradition. In my dissertation, I formulated the optimal policy
+selection problem as a Bayesian sequential decision problem. The problem is
+a difficult one because the policy actions taken today affect the distribution of
+the posterior distribution of the values of the coefficients of the equations.
+    The macroeconometric models organized the field. Success in macroeco-
+nomics was to have your equation incorporated into the macroeconometric
+models. Indeed, Lucas and I were searching for a better investment equation
+when in 1969 we wrote our paper “Investment under Uncertainty,” a paper that
+was published two years later in 1971.
+    A key assumption in the system-of-equations approach is that the equations
+are policy invariant. As Lucas points out in his critique, which I delivered in 1973,
+this assumption is inconsistent with dynamic economic theory. His insight made
+it clear that there was no hope for the neoclassical synthesis – that is, the devel-
+opment of neoclassical underpinnings of the system-of-equations macro models.
+    Fortunately, with advances in dynamic economic theory an alternative set
+of tractable macro models was developed for drawing scientific inference.
+The key development was recursive competitive equilibrium theory in Lucas
+and Prescott (1971) and Lucas (1972). Equilibrium being represented as a
+set of stochastic processes with stationary transition probabilities was crucial
+to the revolution in macroeconomics.
+
+
+Macroeconomic Models after the Transformation
+Models after the transformation are dynamic, fully articulated model economies
+in the general equilibrium sense of the word economy. Model people maximize
+utility given the price system, policy, and their consumption possibility set;
+firms maximize profits given their technology set, the price system, and policy;
+and markets clear. Preferences, on the one hand, describe what people choose
+from a given choice set. Technology, on the other hand, specifies what outputs
+can be produced given the inputs. Preferences and technology are policy invariant.
+They are the data of the theory and not the equations as in the system-of-
+equations approach. With the general equilibrium approach, empirical
+knowledge is organized around preferences and technology, in sharp contrast
+to the system-of-equations approach, which organizes knowledge about
+equations that specify the behavior of aggregations of households and firms.
+
+
+The Time Inconsistency of Optimal Policy
+Before the transformation, optimal policy selection was a matter of solving
+what the physical scientists called a control problem. This is not surprising, given
+that the system-of-equations approach was borrowed from the physical sciences.
+With such systems, the principle of optimality holds – that is, it is best to choose
+at each point in time policy action that is best given the current situation and
+the rules by which policy will be selected in the future. The optimal policy is
+time-consistent, and dynamic programming techniques can be used to find
+the optimal policy as in the physical sciences. This is true even if there is
+uncertainty in the model economy.
+
+                                                                                373
+
+
+   Finn and I had read the Lucas critique and knew that for dynamic equilib-
+rium models, only policy rules could be evaluated. This led us to search for a
+best rule to follow, where a rule specifies policy actions as a function of the
+state or position of the economy. We had worked on this problem before
+Finn left Carnegie Mellon to join the faculty of the Norwegian School of
+Business and Economics in 1973. In academic year 1974–1975 I visited the
+Norwegian School of Business and Economics, and in the spring of 1975 Finn
+and I returned to this problem. This is when we wrote our paper “Rules
+Rather than Discretion: The Inconsistency of Optimal Plans,” one of the two
+papers for which Finn and I were awarded the Nobel Prize.
+   In previous research we had considered time-consistent stationary policy
+rules. These rules have the property that they are a fixed point of the mapping
+that specifies the best rule today as a function of the rule that will be used in
+the future. The fact that these rules were not optimal led us to our key
+insight: the best event-contingent policy plan is not time-consistent. By this I
+mean the continuation of a plan is not optimal at some future point in the
+event-time tree. For example, it is always best to tax the returns on existing
+capital but not tax the returns on new investments. The reason is that a tax on
+existing capital is a lump-sum tax and there is no associated distortion, whereas
+any taxes on future returns of current investments are distortionary. But
+capital investments today become existing capital tomorrow, and tomorrow
+the best policy action is to tax their returns.
+   This leads to the conclusion that being able to commit has value and that
+having discretion has costs. The only method of commitment is to follow rules.
+That is why we concluded that the time inconsistency of optimal plans necessi-
+tates following rules. Some societies have had considerable success in following
+good, but time-inconsistent, policy rules, and as a result their citizens enjoy a
+higher standard of living. Other societies have limited success in this regard,
+and as a result their citizens suffer economic hardships.
+   This need for rules in organizational settings has long been recognized.
+That is why all agree that rule by a good set of laws is desirable. Rule by law is
+a political institution to get around the time consistency problem. What was
+new in our research was that this principle holds for macroeconomic policy
+counter to what everyone thought at the time.
+
+A Success in Following a Good Monetary Policy Rule
+A notable example of a success in following a good, but time-inconsistent, rule
+is the one maintaining a low and stable inflation rate. Before describing an
+institution that is proving effective in getting commitment to this good rule in
+many countries, I will first describe one reason why the price stability policy
+rule is time-inconsistent.
+    Consider an economy in which the nominal wage rate is set above the market
+clearing level in some sectors, given the inflation rate specified by the rule. This
+outcome could be the result of industry insiders in each of a number of
+industries finding this action in their best interest, given the wages chosen by the
+insiders in other industries and the expected inflation rate. If the price stability
+
+374
+
+
+policy rule is followed, ex post a distortion occurs that results in low employment.
+This distortion can be reduced by having inflation in excess of the amount spec-
+ified by the rule. With the time-consistent monetary policy rule, inflation will be
+at that level where the marginal value of higher inflation in reducing the distor-
+tion will just equal the marginal cost of the higher inflation. The equilibrium
+outcome is high inflation and no reduction in the distortion. Commitment to
+the best rule will not result in high inflation, just the labor market distortion.
+    I turn now to an institution that is proving successful in sustaining this rule:
+an independent central bank. Members of this organization have a vested
+interest in following this rule, for if it is not followed, they would incur the
+risk that they would suffer in the future. If inflation has been excessive and a
+new administration is elected, people in the organization will be replaced
+and the size of the central bank cut. Thus, members of this organization have a
+vested interest in the rule being followed.
+    The increased stability of the economy and the improved performance of
+the payment and credit system may be due in part to the diffusion of findings
+of Finn’s and my “Rules Rather than Discretion” paper. People now recognize
+much better the importance of having good macroeconomic institutions
+such as an independent central bank.
+    To find the time-consistent policy we de facto considered a game. In the
+simplest case, the value function of an individual is v(k,K) and that of the policy
+maker v(K,K), where k is a given individual’s capital stock and K is the capital
+stock of all others. Note that within the class of policies that treat individuals
+anonymously, all individuals order policies in the same way as does the policy
+maker. At the first stage of each period, the policy maker selects the policy
+that is best for the representative individual and the rule by which policy will
+be selected in the future.
+
+
+3. THE TRANSFORMATION OF MACROECONOMIC RESEARCH
+The title of this address is “The Transformation of Macroeconomic Policy
+and Research.” I turn now to the research part of the title. The methods used
+in macroeconomic research were different prior to Finn’s and my paper,
+“Time to Build and Aggregate Fluctuations” (1982). The new methodology
+was developed in the summer of 1980 when Finn and I did the research and
+wrote the first draft of our “Time to Build” paper. We also wrote the first draft
+of this paper that summer.
+   Before specifying the new research methodology, I have to discuss what the
+key business cycle facts are and why they led economists to falsely conclude
+that business cycle fluctuations were not in large part equilibrium responses
+to real shocks. Then I will specify the methodology that Finn and I developed
+and used to quantitatively determine the consequences of these shocks for
+business cycle fluctuations.
+   I emphasize that what is important is the methodology and that this
+methodology can be and has been used to quantitatively determine the
+consequences of both nominal and real shocks. By using these methods, the
+
+                                                                                375
+
+
+Figure 1. Deviations from Trend of U.S. GDP and Hours.
+
+
+
+
+profession has learned so much. No longer do economists conjecture and
+speculate. Instead they make quantitative statements as to the consequences
+of various shocks and features of reality for business cycle fluctuations. This
+paper began a constructive and fruitful research program.
+
+3.1 Business cycle facts
+In the 1970s after the development of dynamic economic theory, it was clear
+that something other than the system-of-equations approach was needed if
+macroeconomics was to be integrated with the rest of economics. I want to
+emphasize that macroeconomics then meant business cycle fluctuations.
+Growth theory, even though it dealt with the same set of aggregate economic
+variables, was part of what was then called microeconomics, as was the study
+of tax policies in public finance.
+    Business cycles are fluctuations in output and employment about trend.
+But what is trend? Having been trained as a statistician, I naturally looked to
+theory to provide the definition of trend, with the plan to then use the tools
+of statistics to estimate or measure it. But theory provided no definition of
+trend, so in 1978 Bob Hodrick and I took the then-radical step of using an
+operational definition of trend.1 With an operational definition, the concept
+is defined by the procedure used to determine the value of the concept.
+
+
+1
+  A shortened version of this 1978 Carnegie Mellon working paper, a copy of which I do not have,
+is a 1980 Northwestern University working paper. At the time, this paper was largely ignored
+because the profession was not using the neoclassical growth model to think about business cycle
+fluctuations. But once the then-young people in the profession started using the neoclassical
+growth model to think about business cycles, the profession found the statistics reported in this
+paper of interest.
+
+
+376
+
+
+Figure 2. Indices of Per Capita Real GDP and Hours.
+
+
+
+
+    Our trend is just a well-defined statistic, where a statistic is a real valued
+function. Hodrick and Prescott’s (1980) trend statistic mimics well the
+smooth curve that economists fit through the data. The family of trends we
+considered is one-dimensional. The one in the family that we used is the first
+one we considered. Later we learned that the actuaries use this family of
+smoothers, as did John von Neumann when he worked on ballistic problems
+for the U.S. government during World War II.2 A desirable feature of this
+definition is that with the selection of smoothing parameters for quarterly
+time series, there are no degrees of freedom and the business cycle statistics
+are not a matter of judgment. Having everyone looking at the same set of
+statistics facilitated the development of business cycle theory by making
+studies comparable.
+    One set of key business cycle facts are that two-thirds of business cycle
+fluctuations are accounted for by variations in the labor input, one-third by
+variations in total factor productivity, and virtually zero by variations in the
+capital service input. The importance of variation in the labor input can be
+seen in Figure 1.
+    This is in sharp contrast to the secular behavior of the labor input and output,
+which is shown in Figure 2. Secularly, per capita output has a strong upward
+trend, while the per capita labor input shows no trend.
+    A second business cycle fact is that consumption moves procyclically; that
+is, the cyclical component of consumption moves up and down with the
+cyclical component of output. A third fact is that in percentage terms, invest-
+
+
+
+2
+    See Stigler’s (1978) history of statistics.
+
+
+                                                                                377
+
+
+Figure 3. Deviations from Trend of U.S. Consumption and Investment.
+
+
+
+
+ment varies 10 times as much as does consumption. Consequently, invest-
+ment variation is a disproportionate part of cyclical output variation. This is
+shown in Figure 3.
+
+3.2 Inference drawn from these facts
+Now why did economists looking at these facts conclude that they ruled out
+total factor productivity and other real shocks as being a significant contributor
+to business cycle fluctuations? Their reasoning is as follows. Leisure and
+consumption are normal goods. The evidence at that time was that the real
+wage was acyclical, which implies no cyclical substitution effects and leaves
+only the wealth effect. Therefore, in the boom when income is high, the
+quantity of leisure should be high, when in fact it is low. This logic is based on
+partial equilibrium reasoning, and the conclusion turned out to be wrong.
+   In the 1970s a number of interesting conjectures arose as to why the
+economy fluctuated as it does. Most were related to finding a propagation
+mechanism that resulted in Lucas’s monetary surprise shocks having
+persistent real effects. With this theory, leisure moves countercyclically in con-
+formity with observations. The deviations of output and employment from
+trend are not persistent with this theory, but in fact they are persistent. This
+initiated a search for some feature of reality that when introduced gives rise
+to persistent real effects. To put it another way, economists searched for what
+Frisch called a propagation mechanism for the effects of monetary surprises.
+   Taylor (1980) and Fischer (1977) provided empirical and theoretical evidence
+in support of their conjecture that staggered nominal wage contracting might
+
+
+
+378
+
+
+be the mechanism by which monetary shocks gave rise to persistent real
+effects on output and employment. Another conjectured mechanism of that
+era is the cost of changing nominal prices. In that era about the only people
+who argued that real shocks were the factor were Long and Plosser (1983).
+I say “in that era” because earlier, Wicksell (1907), Pigou (1927), and others
+held the view that real shocks were an important contribution to business
+cycles. My prior at the time we did the research for our “Time to Build” paper,
+and I think Finn’s prior as well, was that business cycle fluctuations were
+induced by nominal and not real shocks.
+
+3.3 Macroeconomics and growth theory before the “Time to Build” paper
+Macroeconomics of the 1970s largely ignored capital accumulation. Growth
+theory was concerned with the long-term movements in the economic aggre-
+gates, whereas macroeconomics was concerned with the short-term move-
+ments. Virtually no connection was made between the then-dormant growth
+theory and the dynamic equilibrium theories of business cycles. Probably the
+reason was that short-term movements in output are accounted for in large
+part by movements in the labor input, whereas long-term growth in living
+standards is accounted for by increases in the capital service input and in total
+factor productivity. All these variables are per working-age person.
+   Kydland and I decided to use the neoclassical growth model to study business
+cycle fluctuations in the summer of 1980. The basic theoretical framework we
+developed came to be called the real business cycle model. The term real does
+not mean that the framework can be used only to answer questions concerning
+the consequences of real shocks. The real business cycle model is equally
+applicable to addressing the consequences of monetary shocks. I will not be
+discussing these monetary applications in this address because Kydland will
+in his address. This is appropriate given that he and his collaborators, and
+not I, are leaders in the study of the consequences of monetary policy for
+business cycles.
+
+3.4 The methodology
+This model builds on the contributions of many economists, many of whom
+have been awarded the Nobel Prize. The importance of the contributions of
+Simon Kuznets and Richard Stone in developing the national income and
+product accounts cannot be overstated. These accounts reveal a set of growth
+facts, which led to Solow’s (1956) classical growth model, which Solow (1970)
+calibrated to the growth facts. This simple but elegant model accounts well
+for the secular behavior of the principal economic aggregates. With this mod-
+el, however, labor supply is supplied inelastically and savings is behaviorally
+determined. There are people in the classical growth model economy, but
+they make no decisions. This is why I, motivated by Frisch’s Nobel address de-
+livered here in 1969, refer to this model as the classical growth model.
+
+
+
+                                                                             379
+
+
+The steps in Finn’s and my methodology are as follows.
+
+Step 1: Start with the Neoclassical Growth Model
+Central to the neoclassical growth model is the Solow–Swan aggregate
+production function. As explained in Solow (1956, n. 7), the theory underlying
+the aggregate production function is a theory of the income side of the
+national accounts.3 With competitive factor and product markets and entry
+and exit of production units, factor claims against product exhaust product.
+In addition, output is maximized given the quantities of the factor inputs
+supplied.
+   The function Ft is the period t aggregate production function that specifies
+the output that is produced as a function of the inputs
+
+(1)           ct + xt = yt = Ft(kt ,lt ),
+
+where c is consumption, x is investment, y is output, k is the capital service input,
+and l is the labor service input. One unit of capital provides one unit of capital
+services, and capital depreciates geometrically at rate . Thus,
+
+(2)           kt+1 = (1– )kt + xt .
+
+We also introduced a multi-period requirement for building new capacity be-
+cause we thought it might be an important shock propagation mechanism.4
+   For the growth model to be neoclassical, the savings-investment and labor-
+leisure decisions must be decisions of the households. Finn and I introduced
+an aggregate or stand-in household with preferences ordered by the expected
+discounted value of utility flows from consumption and leisure; that is, the
+household maximizes the expected value of
+               f
+(3)            ¦ E u(ct ,1–ht),
+               t 0
+                     t
+
+
+
+
+where c is consumption and 1– h is leisure. The aggregation theory underlying
+this aggregate household is based in part on the first welfare theory, namely,
+that a competitive equilibrium maximized some weighted average of individual
+utilities.
+
+
+
+
+3
+  For partial equilibrium models, this was recognized by Marshall and Wicksell at the end of the
+19th century, but Solow saw it in the general equilibrium context.
+4
+  Hansen (1985) shows that this feature of reality is not central to understanding business cycle fluc-
+tuations and is best abstracted from.
+
+
+380
+
+
+   Previously, others had effectively endogenized the savings decision by ana-
+lyzing the optimal growth path because, by the second welfare theorem, the
+optimal path is the competitive equilibrium path for this model.5 But in order
+for the model to be used to study business cycle fluctuations, the labor supply
+decision must be endogenized as well.6
+
+Step 2: Modify the National Accounts to Be Consistent with the Theory
+Prior to our work, macroeconomics was concerned with developing a theory
+of the national accounts statistics. Preferences and technology are the given,
+not the national accounts statistics. This means that we had to modify the
+national accounts to be consistent with the theoretical abstraction or model
+we used. The most important modification when studying business cycles is to
+treat consumer durable expenditures as an investment in the same way that
+expenditures on new housing and home improvement are treated as invest-
+ments in the national accounts. Once this is done, services of consumer
+durables and consumer durable rental income must be imputed, in much the
+same way as is currently done for owner-occupied housing. This increases
+investment share of output and has consequences for the cyclical behavior of the
+economy. What led us to think about this issue is that consumer durable expen-
+ditures are highly variable, behaving very similarly to producer durable invest-
+ments and not like consumer expenditures on nondurable goods and services.
+
+Step 3: Restrict the Model to Be Consistent with the Growth Facts
+The growth facts are that consumption and investment shares of output are
+roughly constant, as are labor and capital cost shares. All the variables and
+the real wage grow over time except for labor supply and the return on capi-
+tal, which are roughly constant. This leads to a Cobb–Douglas production
+function. These facts also imply the constancy of the capital-output ratio and
+of the rental price of capital.
+   Two key growth facts are that the real wage and consumption grow at the
+same secular rate as does real output per capita, while labor supply displays
+no secular trend. This restricts the period utility function to be of the form
+                            (c g (1 – l ))1–  –1
+(4)           u(c,1–h) =                          .
+                                   1–
+
+
+
+
+5
+  Cass (1965) and Koopmans (1965) in deterministic situations establish the existence of an
+optimal path and characterize properties of this optimal path. Diamond (1965) studies the com-
+petitive equilibrium path in an economy with capital accumulation. In his economy, people live two
+periods. Brock and Mirman (1972) deal with the problem of optimal growth when there are
+stochastic shocks to the technology. These studies are in the nonquantitative theory tradition.
+Danthine and Donaldson (1981) compute the equilibrium process for the Brock and Mirman
+(1972) stochastic growth model.
+6
+  Auerbach, Kotlikoff, and Skinner (1983) carry out a deterministic dynamic applied general
+equilibrium analysis with endogenous labor supply in which they evaluate tax policies.
+
+
+                                                                                             381
+
+
+    We set  = 1. This parameter was not calibrated to growth observations. We
+made this choice based on a variety of evidence. The principal evidence used
+is comparisons of the return on capital for fast- and slow-growing economies.
+Fortunately, it turned out that our findings are not sensitive to this parameter,
+because at the time of our work, this key economic parameter had not been
+tightly tied down.
+    With  = 1, the above utility function is
+
+(5)           log c + g(1– l).
+
+The nature of the g function matters. The growth facts do not tie down the
+elasticity of substitution between consumption and leisure, and this parameter
+turned out to be key for deriving the predictions of the growth model for
+business cycle fluctuations. Subsequently, this key parameter has been tied
+down.
+
+Step 4: Introduce a Markovian Shock Process
+We wanted something in our model economy that led to labor supply errors
+and something to propagate these errors. Here, by “labor supply errors” I mean
+the difference between the optimal labor supply decision given individuals’
+information set and the decision that they would make if they observed the
+state of the economy without observation error. We introduced a total factor
+productivity shock that is independent over time and assumes that agents see
+the value of total factor productivity (TFP) with noise prior to making their
+labor supply decisions. We also introduced a second highly persistent autore-
+gressive TFP shock. We introduced this shock because it is simple to do and
+we were curious to see what its consequences are. In order to use the Kalman
+filter, the two shocks and measurement errors are all normally distributed.
+
+Step 5: Make a Linear Quadratic Approximation
+The next step is to determine the steady state of the economy when the
+variances of the TFP shocks are zero. Then a linear quadratic economy is
+constructed, which has the same first two derivatives at the steady state. This
+linear quadratic economy displays the growth facts, and its equilibrium is easily
+computed. The behavior of this economy will be arbitrarily close to the
+economy we began with for sufficiently small variances of the two TFP shocks
+and the measurement errors. It turned out that it was extremely close even
+for variances far bigger than the ones we introduced.7
+
+Step 6: Compute the Competitive Equilibrium Process
+The next step is to compute the recursive competitive equilibrium stochastic
+process.
+
+
+7
+  Danthine and Donaldson (1981), who computed the exact equilibrium for the stochastic model
+using computationally intensive techniques, found this to be the case.
+
+
+382
+
+
+Step 7: Simulate the Model Economy
+The equilibrium stochastic process is used to generate a time series realiza-
+tion of the model economy. If the number of observations in the period
+being considered is N, a time series of length significantly greater than N is
+generated and the last N observations considered. A longer time series is
+generated because we wanted a draw from the invariant distribution for the
+state of the economy as a starting point of the model’s sample path.
+
+
+Step 8: Examine the Key Business Cycle Statistics and Draw Scientific Inference
+The last step is to compare the key business cycle statistics for the model and
+the actual economy. I emphasize that the identical statistics for the model
+and the actual economy are compared.
+    One important statistic is the standard deviation of the cyclical component
+of output. What we defined to be the cyclical component of output is first
+computed for the actual economy and the standard deviation determined.
+The identical procedure is followed for realizations of the equilibrium process
+of the model economy. This means the model is simulated to generate the
+time series of output and other series. Next the cyclical component of output
+is computed and its standard deviation determined. This is done many times
+so that the first two moments of the sampling distribution of the standard
+deviation of the model’s cyclical output statistic can be determined.
+    If the sampling distribution of this statistic in question is concentrated
+about some number, this number relative to the statistic specifies how variable
+the economy would have been if TFP shocks were the only shocks. If the
+sampling distribution of this statistic is not concentrated, theory does not
+provide a precise accounting. But the sampling distribution is highly concen-
+trated provided the number of quarterly observations is at least 100.
+    I emphasize that this is not a test in the sense of Neyman–Pearson statistical
+hypothesis tests, which are useful in the search for a model or law through
+induction. The way theory is tested is through successful use. The neoclassical
+growth model is tested theory.
+
+4. USING THE METHODOLOGY IN BUSINESS CYCLE RESEARCH
+Kydland and Prescott (1982) found, as reported in our paper “Time to Build
+and Aggregate Fluctuations,” that if elasticity of substitution of labor supply is
+3 and TFP shocks are highly persistent and of the right magnitude, then
+business cycles are what the neoclassical growth model predicts. This includes
+the amplitude of fluctuation of output, the serial correlation properties of
+cyclical output, the relative variability of consumption and investment, the
+fact that capital stock peaks and bottoms out later than does output, the
+cyclical behavior of leisure, and the cyclical output accounting facts.
+   Subsequently, Prescott (1986) found that the shocks were highly persistent
+and the TFP shocks of the right magnitude. Conditional on a labor supply
+elasticity close to 3, TFP shocks are the major contributor to fluctuations in
+the period 1954–1981 in the United States.
+
+                                                                              383
+
+
+   This finding turned out to be highly robust. Greenwood, Hercowitz, and
+Huffman (1988) find that if, on average, TFP shocks are non-neutral with
+regard to consumption and investment, the conclusions hold. Rotemberg
+and Woodford (1995) introduce imperfect competition and show that the
+finding is overthrown only if monopoly rents are far in excess of what they
+could be. With imperfect competition restricted to be consistent with labor
+cost share, Hornstein (1993) and Devereux, Head, and Lapham (1996) show
+that the importance of TFP shocks for business cycle fluctuations hardly
+changes. With the introduction of monopolistic competition, model-TFP
+shock variance is picked so that the model Solow-TFP variance matches the
+actual economy’s Solow-TFP variance. In these monopolistic competitive
+worlds, Solow-TFP is a complex statistic and is not total factor productivity.
+   Investment in the model economy varies smoothly, as does aggregate
+investment in the actual economy. Investment at the plant level, however, is
+not smooth, and a natural question is whether this has consequences for
+modeling business cycles. Fisher and Hornstein (2000) find that having
+plants that make lumpy inventory investment in equilibrium does not change
+the estimates of the contribution of TFP shocks to fluctuations. For invest-
+ment in plant and equipment, Thomas (2002) develops an economy that
+displays lumpy investment at the plant level. When calibrated to the growth
+facts and establishment investment statistics, the findings for business cycles
+using her abstraction are virtually the same as those using the neoclassical
+growth model.
+   Ríos-Rull (1995) uses a carefully calibrated overlapping generations model
+and finds that the estimated importance of TFP shocks for business cycle fluc-
+tuations does not change. Within this framework, Ríos-Rull (1994) then shuts
+down financial markets, so physical capital holdings is the only way to save.
+This extreme version of market incompleteness does not affect the estimate
+of the importance of TFP shocks. Introducing uninsurable idiosyncratic risk
+(see Krusell and Smith, 1998) does not affect the estimate either. Hansen and
+Prescott (2005) deal with capacity utilization constraints that are occasionally
+binding. With their introduction, the nature of the predictions for business
+cycles changes a little, but in a way that results in observations being in even
+closer conformity with theory.
+   Using this methodology, Danthine and Donaldson (1981) and Gomme
+and Greenwood (1995) investigate the consequences of various non-Walrasian
+features for business cycle fluctuations. There are interesting implications for
+relative variability of consumption for those with large capital ownership and
+those with no capital ownership.
+   Freeman and Kydland (2000) and Cooley and Hansen (1995) find that
+introducing money and a transaction technology does not alter the conclusion
+as to the importance of TFP shocks. Chari, Kehoe, and McGrattan (2000)
+find that nominal contracting does not either. They introduce staggered
+nominal contracting into the basic business cycle model and find that in such
+worlds, monetary shocks have effects that are persistent but too small to be an
+important contributor to business cycle fluctuations. In summary, introducing
+
+384
+
+
+monetary factors did not alter Finn’s and my finding that TFP shocks are the
+major contributor to business cycle fluctuations in the United States in the
+1954–1980 period we consider in our “Time to Build” paper.
+   But in all cases, to generate business cycles of the magnitude and nature
+observed, the aggregate labor supply elasticity must be 3.8 This attests to the
+robustness of the finding and focuses attention on this elasticity parameter. A
+variety of evidence that supports the number 3 had to be found before it was
+safe to conclude that the neoclassical growth model predicts business cycle
+fluctuations of the quantitative nature observed.
+
+5. EVIDENCE THAT THE AGGREGATE ELASTICITY OF LABOR SUPPLY IS 3
+A problem with the abstraction that many economists used to incorrectly
+conclude that labor supply is inelastic is that it has the prediction that every-
+one should make essentially the same percentage adjustment in hours worked.
+This is not the case. Over the business cycle, most of the variation in the
+aggregate number of hours worked is in the fraction of people working and
+not in the hours worked per worker. Looking at this observation, Rogerson
+(1984, 1988) studies a static world in which people either work a standard
+workweek or do not work. He shows that in this world, the aggregate elasticity
+of labor supply is infinite up to the point that the fraction employed is one.
+    Rogerson’s aggregation result is every bit as important as the one giving rise
+to the aggregate production function.9 In the case of production technology,
+the nature of the aggregate production function in the empirically inter-
+esting cases is very different from that of the individual production units
+being aggregated. The same is true for the aggregate or a stand-in household’s
+utility function in the empirically interesting case.
+    Aggregate hours of labor supplied to the market per working-age person,
+l, equals the product of the fraction employed, e, and hours per employee, h;
+that is
+
+(6)           l = eh.
+
+If the principal margin of adjustment in l is the employment rate and not
+hours per employee, then aggregate labor supply elasticity will be much bigger
+than the elasticity of labor supply of the individuals being aggregated. Given
+that the principal margin of adjustment is e and not h, the aggregate labor supply
+elasticity is much greater than the individual labor supply elasticity.
+
+
+
+
+8
+  For reviews of many more business cycles studies, see Frontiers of Business Cycle Research
+(Cooley 1995).
+9
+  Rogerson uses the Prescott and Townsend (1984a, 1984b) lottery commodity point. This simpli-
+fies the analysis, but does not change the results because lottery equilibria are equivalent to Arrow–
+Debreu equilibria; see Kehoe, Levine, and Prescott (2002) and Prescott and Shell (2002).
+
+
+                                                                                                 385
+
+
+   Multiple margins determine e. Particularly important for males and single
+females is the fraction of potential working life that he or she works. This
+fraction is smaller if an individual retires earlier. For married females,
+Heckman and MaCurdy (1980) find that as the Rogerson theory predicts,
+their labor supply is highly elastic, with some estimates being as high as 10.
+For all, weeks of vacation and the number of holidays is another important
+margin of adjustment in labor supply.
+   Hansen (1985) derives the consequence of the Rogerson (1988) assump-
+tion for business cycle fluctuations and develops a stand-in household for a type.
+He finds that in worlds with labor indivisibility, fluctuations induced by TFP
+shocks alone give rise to fluctuations 10 percent greater than those observed.
+This indicates that aggregate labor supply elasticity is not infinite as in his
+model world.
+   Hansen’s findings led Finn and me to introduce both margins of labor
+supply adjustment. We numerically found the only margin used is e with the
+standard production function. The natural question is why? Hornstein and
+Prescott (1993) answer this question.10 We permitted both margins to be ad-
+justed. The key modification is that a worker’s output y is
+
+(7)           y = Ah k ,
+
+where h is the workweek length of this individual and k is the capital stock
+that this individual uses. A consequence is that payment per hour is an increa-
+sing function of h.
+    A key result is that all the growth facts hold for this modification of the
+neoclassical growth model. The important feature of this model is that capital
+used by one individual is not used by another in the period.
+    For the calibrated economy, the finding is that only the e margin is used
+except in extreme cases when all are employed. Only with e = 1 is h >h, where
+h is the endogenously determined “standard” week length. A question, then,
+is why do we see any variation in h ? My answer is that in worlds with “islands,”
+some islands have e = 1 and h h at a point in time. Here island i indicates
+occupation as well as location of work activity.
+    A question is: What is the real wage? The price of each workweek length is
+wit (h), where i denotes the island. If one naively assumes that an individual
+on island i is being paid real wage wit(hit)/hit and regresses the logarithm of
+hit on the log of this assumed wage, a small regression coefficient would be
+
+
+
+
+10
+  Many years prior, Sherwin Rosen (1978) had pointed out that workweeks of different lengths are
+different commodities and their price is not, in general, proportional to the length of the work-
+week. Introducing this feature of reality into an applied dynamic general equilibrium model of
+business cycles did not occur until Kydland and Prescott (1991). Earlier, Hansen and Sargent
+(1988) had two workweek lengths, straight time and overtime.
+
+
+386
+
+
+obtained in this island version of the Hornstein–Prescott world. Many ran this
+regression for full-time male workers and obtained a small coefficient as
+predicted by theory, independent of whether the micro or Frischian labor
+supply elasticity is big or small.
+   Thus, a low value of this regression coefficient does not imply low elasticity
+of aggregate labor supply elasticity, which is what matters for the study of
+business cycles and the evaluation of tax policies. A low value does not even
+indicate a low micro labor supply elasticity, which is a statement about prefer-
+ences only. I emphasize that aggregate labor supply elasticity is a statement about
+both preferences and technology. Only for empirically uninteresting cases are the
+micro and macro elasticities equal.
+
+Evidence from Consequence of Tax Rates across Countries and across Time
+Good statistics are available on labor supply and tax rates across the major ad-
+vanced industrial countries. My measure of aggregate labor supply is aggregate
+hours worked in the market sector divided by the number of working-age
+people.
+   Given that the effect of the marginal effective tax rate on labor supply
+depends on this elasticity, and given that tax rates vary considerably, these
+observations provide an almost ideal test of whether the aggregate labor
+supply elasticity is 3. The set of countries that Prescott (2004) studied are the
+G-7 countries, which are the large advanced industrial countries. The differ-
+ences in marginal tax rates and labor supply are large; Canada, Japan, and
+the United States have rates near 0.40, and France, Germany, and Italy near
+0.60.11 The prediction, based on an aggregate labor supply elasticity of 3, that
+Western Europeans will work one-third less than North Americans and
+Japanese is confirmed.12 Added evidence for an aggregate elasticity of 3 is
+that it explains why labor supply in France and Germany was nearly 50
+percent greater during the 1970–1974 period than it is today.
+   Observations on aggregate labor supply across countries and across time
+imply a labor supply elasticity near 3.
+
+Recent Evidence from Major Contractions and Expansions
+Additional evidence is provided by the study of recent major contractions.
+The finding is that the elasticity of labor supply must be near 3 to account for
+the behavior of the labor supply in each case. Three advanced industrial
+countries with good economic statistics suffered a 20 percent or more loss in
+
+
+
+
+11
+  See Prescott (2004).
+12
+  The preference ordering used has a constant elasticity of substitution between consumption and
+leisure, not between consumption and labor supplied to the market. The elasticity of labor supply
+for our stand-in household is (1 – h)/h, where h is the fraction of productive time allocated to the
+market. Given that h in Europe is smaller than one-fourth of the U.S. number, the elasticity of
+labor supply there is even greater than 3 in Europe.
+
+
+                                                                                               387
+
+
+output per capita relative to a 2 percent trend in the last quarter to the 20th
+century. The countries are Japan in the 1990s and New Zealand and
+Switzerland in the 1970s and 1980s. The behavior of labor supply during these
+extended periods of nonbalanced growth implies the same labor supply
+elasticity as do business cycle fluctuations.13
+
+Life Cycle Labor Supply Evidence
+Recently, Imai and Keene (2004) examined the life cycle pattern of male labor
+supply. Real payments per hour are hump-shaped, as are hours worked over
+the working lifetime. The percentage size of the hump is greater for real
+payment per hour than for hours worked. This led some to conclude that male
+labor supply is inelastic; that is, the elasticity is less than 1. Imai and Keene take
+into consideration the value of the skills that younger workers acquire on the
+job – that is, the human capital they receive. This is part of total compensa-
+tion and should be included in the wage. When it is, the lifetime wage schedule
+is much flatter than life cycle labor supply. Imai and Keene’s estimate is 3.7. If
+this estimate rather than 3 is used, it would not change business cycle findings
+significantly. Further, the real interest rate implied by their analysis is close to
+the average real return on capital obtained using the neoclassical growth model
+and the national accounts.
+   An important difference between what labor economists estimate and what
+macroeconomists estimate is that labor economists use a constant elasticity
+of substitution utility function on consumption and labor supply, whereas
+macroeconomists use a constant elasticity of substitution on consumption
+and leisure.
+   A problem with many labor economists’ estimates is that they maintain the
+hypothesis that people are not in organizational settings that have a fixed
+workweek length. Fitzgerald (1998) introduces team production with both
+supervisors and workers. Equilibrium is characterized by a fixed workweek
+length. The hours worked is not a choice variable of individuals. The individual
+choice variable is whether or not to work for this organization or for some other
+organization. In this world when people are promoted from worker to super-
+visor, their wages increase, but no change in hours worked occurs. Under the
+incorrect maintained hypothesis, these observations would lead to the concl-
+usion that labor supply is perfectly inelastic, even if it is in fact large.
+   To summarize, aggregate observations imply that the aggregate labor supply
+elasticity is large. Aggregation theory implies that whenever the principal
+margin of adjustment is the fraction employed and not hours per person
+employed, the aggregate labor supply elasticity is large. This finding is
+consistent with all the micro observations, so no conflict arises between micro
+and macro observations.
+
+
+
+
+13
+     See the Kehoe and Prescott (2002) volume for a number of economic depression studies.
+
+
+388
+
+
+6. SIGNIFICANCE OF BUSINESS CYCLE RESEARCH
+We learned that business cycle fluctuations are the optimal response to real
+shocks. The cost of a bad shock cannot be avoided, and policies that attempt
+to do so will be counterproductive, particularly if they reduce production
+efficiency. During the 1981 and current oil crises, I was pleased that policies
+were not instituted that adversely affected the economy by reducing produc-
+tion efficiency. This is in sharp contrast to the oil crisis in 1974 when, rather
+than letting the economy respond optimally to a bad shock so as to minimize
+its cost, policies were instituted that adversely affected production efficiency
+and depressed the economy much more than it would otherwise have been.
+    To summarize, concern has shifted away from business cycle fluctuations
+toward more important things. One important thing is setting up a good tax
+system. Finn’s and my work sheds light on the most important economic
+parameter in the design of a tax system, the aggregate labor supply elasticity.
+In finding that technology shocks are important for fluctuations, our research
+program has been important in shifting the profession’s attention to how
+economic institutions affect total factor productivity.
+
+7. BEYOND BUSINESS CYCLE RESEARCH
+The methodology that Finn and I developed and used to study business
+cycles is equally applicable to studying other phenomena. In this section I will
+briefly review three successful applications of this methodology and one very
+interesting open puzzle. While presenting evidence that the labor supply
+elasticity is 3, I already effectively reviewed one highly successful application
+– namely, my study assessing the role of taxes in accounting for the huge
+differences in labor supply across the advanced industrial countries and the
+huge fall in labor supply in Europe between the early 1970s and the mid-1990s.
+
+Using the Methodology in the Stock Market Valuation Research
+An interesting question is, why did the value of the stock market relative to
+GDP vary by a factor of 2.5 in the United States and 3 in the United Kingdom
+in the last half of the 20th century? Other variables display little secular vari-
+ation relative to GDP, whether they are corporate after-tax profits or corporate
+physical capital relative to GDP.
+   Clearly the single sector neoclassical growth model does not suffice for
+studying the market value of corporate equity. The model must have both a
+corporate and noncorporate sector. Fortunately, the national accounts report
+the components of value added for the corporate sector as well as for govern-
+ment business, household business, and unincorporated business sectors.
+Various adjustments must be made to the accounts to bring them into con-
+formity with the model, such as using producer prices for both inputs and
+outputs to the business sector.
+   An equilibrium relation develops when the market value of corporations is
+equal to the value of their productive assets. The capital accounts of the
+national accounts provide measures of the cost of replacing tangible capital.
+
+                                                                              389
+
+
+But corporations also own large amounts of intangible capital, including
+organization capital, brand names, and patents, which also affect the market
+value of corporations. These assets cannot be ignored when determining
+what theory says the value of the stock market should be. This presents a
+problem for determining the fundamental value of the stock market – a problem
+that McGrattan and I solve (see McGrattan and Prescott, 2005a).
+    We find that the secular behavior of the value of the U.S. stock market is as
+theory predicts. What turns out to be important for the movement in the value
+of corporations relative to GDP are changes in tax and regulatory policies. If
+the tax rate on distributions by corporations is 50 percent rather than 0 percent,
+the value of corporations will be only half as large given the resource cost of
+their productive assets.
+    Our study uses a neoclassical growth model and connects the model to
+national income and product data, tax data, and sector balance sheet data.
+We submitted the paper to the Review of Economic Studies, a British journal.
+The editor rightfully insisted that we do the analysis for the U.K. stock market
+as well as for the U.S. stock market. We were nervous as to what theory and
+measurement would say and were happy when we found that the behavior of
+the value of the U.K. stock market was also in conformity to theory. Here is an
+example of the power of the macroeconomic methodology that Finn and I
+developed.
+    The excessive volatility of stock prices remains. Indeed, our study strength-
+ens this puzzle. Stocks of productive capital vary little from year to year, whe-
+reas stock prices sometimes vary a lot. I am sure this volatility puzzle will, in
+the not too distant future, be resolved by some imaginative neoclassical eco-
+nomist. However, resolving the secular movement puzzle is progress.
+    This example illustrates how macroeconomics has changed as a result of
+the methodology that Finn and I pioneered. It is now that branch of economics
+in which applied dynamic equilibrium tools are used to study aggregate phe-
+nomena. The study of each of these aggregate phenomena is unified under
+one theory. This unification attests to the maturity of economic science when
+it comes to studying dynamic aggregate phenomena.
+
+Using the Methodology to Study the Great U.S. Depression
+The welfare gains from eliminating business cycles are small or negative. The
+welfare gains from eliminating depression and creating growth miracles are
+large. Cole and Ohanian (1999) broke a taboo and used the neoclassical
+growth model to study the Great U.S. Depression. One of their particularly
+interesting findings is that labor supply on a per adult basis in the 1935–1939
+period was 25 percent below what it was before the Depression. Recently,
+Cole and Ohanian (2004) showed how New Deal cartelization could very well
+have been the reason for the low labor supply using neoclassical economics.
+The rapid recovery of the U.S. economy subsequent to the abandonment of
+these cartelization policies supports their theory.
+
+
+
+
+390
+
+
+Japan’s Lost Decade of Growth
+A more recent example is Japan’s lost decade of growth, which was the
+1992–2001 decade. Hayashi and Prescott (2002), treating TFP as exogenous,
+find that the neoclassical growth model predicts well the path of the principal
+aggregates. In particular it quantitatively predicts the large capital deepening
+and the associated fall in the return on capital. It quantitatively predicts the
+behavior of labor supply as well, which is further evidence for the high labor
+elasticity of labor supply.
+
+A Business Cycle Puzzle
+An economic boom in the United States began with an expansion relative to
+trend in early 1996 and continued to the fourth quarter of 1999. Then, a
+contraction set in and continued until the third quarter to 2001. At the peak,
+detrended GDP per working-age person was 4 percent above trend and labor
+supply 5 percent above average. None of the obvious candidates for the high
+labor supply were operating. There was no war with temporarily high public
+consumption that was debt financed; tax rates were not low; TFP measured in
+the standard way was not high; and there was no monetary surprise that
+would give rise to high labor supply. This is why I say this boom is a puzzle for
+the neoclassical growth model.
+   Why did people supply so much labor in this boom period? The work of
+McGrattan and Prescott (2005a), which determines the quantitative predic-
+tions of theory for the value of the stock markets, suggests an answer. The
+problem is one of measurement. During this period (see McGrattan and
+Prescott, 2005b), there is evidence that unmeasured investment was high, as
+was unmeasured compensation. Therefore, output and productivity were higher
+than the standard statistics indicate. The measurement problem is to come up
+with estimates of this expensed investment. With these improved measure-
+ments of economic activity, theory can be used to determine whether or not
+the puzzle has been solved.
+   This example illustrates the unified nature of aggregate economics today.
+The real business cycle model was extended and used to understand the
+behavior of the stock market, and that extended model in turn is now being
+used to resolve a business cycle puzzle.
+
+8. RAGNAR FRISCH’S VISION REALIZED
+I conclude this address with an ode to Frisch, who was awarded the first
+Nobel Prize in Economics in 1969. Frisch’s Nobel address is entitled “From
+Utopian Theory to Practical Applications: The Case of Econometrics” (1970).
+He is the father of quantitative neoclassical economics, which is what he is re-
+ferring to by the word econometrics in the title.14
+
+
+
+14
+   Frisch (1970, p. 12) reports that the English mathematician and economist Jevons (1835–1882)
+dreamed that we would be able to quantify neoclassical economics.
+
+
+                                                                                          391
+
+
+   Prior to Frisch’s creating the Econometric Society in 1930 and launching
+Econometrica in 1933, neoclassical economists did little to verify their theoreti-
+cal results by statistical observations. Frisch writes in his Nobel address that
+the reason was in part the poor quality of statistics then available and in part
+that neoclassical theory was not developed with systematic verification in view.
+The American Institutionalists and German Historical schools pointed this
+out and advocated letting the facts speak for themselves. The impact of these
+schools on economic thought was minimal. To quote Frisch, “Facts that speak
+for themselves, talk in a very naive language” (1970, p. 16). Now theory derives its
+concepts from measurement, and in turn theory dictates new measurement.
+The latter is what McGrattan and I are currently doing to resolve the puzzle of
+why U.S. employment was so high at the end of the 1990s.
+   In the 1960s Frisch was frustrated by the lack of progress in his quest to
+making neoclassical economics quantitative and referred to much of what
+was being done then as “playometrics.” It is a little unfair to criticize those
+studying business cycles at that time for not using the full discipline of neo-
+classical economics. All the needed tools were not yet part of the economist’s
+tool kit. Some of these tools that are crucial to the study of business cycles are
+Lindal’s extension of general equilibrium theory to dynamic environments;
+Savage’s statistical decision theory as uncertainty is central to business cycles;
+Arrow and Debreu’s extension of general equilibrium theory to environments
+with uncertainty; Blackwell’s development of recursive methods which are
+needed in computation and in representation of a dynamic stochastic equili-
+brium; Lucas and Prescott’s development of recursive competitive equilibrium
+theory;15 and, of course, the computer.
+   Particularly noteworthy is Lucas’s role in the macroeconomic revolution.
+In the very late 1960s and early 1970s he revolutionized macroeconomics by
+taking the position that neoclassical economics should be used to study busi-
+ness cycles. Others had dreamed of doing it, but Lucas actually figured out
+ways to do it. In his 1972 paper “Expectations and the Neutrality of Money,”
+he creates and analyzes a dynamic stochastic neoclassical model that displays
+the Phillips curve, which is a key equation in the system-of-equations macro
+models. I can think of no paper in economics as important as this one. The
+key prediction based upon this theoretical analysis – namely, that there is no
+exploitable trade-off between inflation and employment – was confirmed in
+the 1970s when attempts were made to exploit the then perceived trade-off.
+   But Lucas’s work is not quantitative dynamic general equilibrium, and only
+10 years later did Finn and I figure out how to quantitatively derive the im-
+plications of theory and measurement for business cycle fluctuations using
+the full discipline of dynamic stochastic general equilibrium theory and
+
+
+
+15
+  This was further developed in Prescott and Mehra (1980). The published version of “Investment
+under Uncertainty” did not include the section formally defining the recursive equilibrium with
+policy and value functions depending on both an individual firm’s capacity and the industry
+capacity and was an industry equilibrium analysis.
+
+392
+
+
+national accounts statistics. That we have learned that business cycles of the
+quantitative nature observed are what theory predicts is testimony to the
+grand research program of Ragnar Frisch and to the vision and creative
+genius of Robert Lucas.
+   On nearly every dimension I am in agreement with what Frisch advocated
+in his Nobel Prize address, but on one dimension I am not. Like Frisch, I am
+a fervent believer in the democratic process. The dimension on which I disagree
+is how economists and policy makers should interact. His view is that the
+democratic political process should determine the objective, and economists
+should then determine the best policy given this objective. My view is that
+economists should educate the people so that they can evaluate macroeco-
+nomic policy rules and that the people, through their elective representativ-
+es, should pick the policy rule. I emphasize that Finn and my “Rules Rather
+than Discretion” paper finds that public debate should be over rules and that
+rules should be changed only infrequently, with a lag to mitigate the time
+consistency problem.
+
+REFERENCES
+Auerbach, Alan J., Laurence J. Kotlikoff, and Jonathan Skinner. 1983. “The Efficiency
+   Gains from Dynamic Tax Reform.” Int. Econ. Rev. 24 (February): 81–100.
+Brock, William A., and Leonard J. Mirman. 1972. “Optimal Economic Growth and
+   Uncertainty: The Discounted Case.” J. Econ. Theory 4 (June): 479–513.
+Cass, David. 1965. “Optimal Growth in an Aggregate Model of Capital Accumulation.”
+   Rev. Econ. Studies 32 (April): 233–240.
+Chari, V. V., Patrick J. Kehoe, and Ellen R. McGrattan. 2000. “Sticky Price Models of the
+   Business Cycle: Can the Contract Multiplier Solve the Persistence Problem?”
+   Econometrica 68 (September): 1151–1179.
+Cole, Harold L., and Lee E. Ohanian. 1999. “The Great Depression in the United States
+   from a Neoclassical Perspective.” Fed. Reserve Bank Minneapolis Q. Rev. 23 (Winter): 2–24.
+Cole, Harold L., and Lee E. Ohanian. 2004. “New Deal Policies and the Persistence of the
+   Great Depression: A General Equilibrium Analysis.” J. Polit. Economy 112 (August):
+   779–816.
+Cooley, Thomas F., ed. 1995. Frontiers of Business Cycle Research. Princeton, N.J.: Princeton
+   Univ. Press.
+Cooley, Thomas F., and Gary D. Hansen. 1995. “Money and the Business Cycle.” In Frontiers
+   of Business Cycle Research, edited by Thomas F. Cooley. Princeton, N.J.: Princeton Univ. Press.
+Danthine, Jean-Pierre, and John B. Donaldson. 1981. “Stochastic Properties of Fast vs. Slow
+   Growing Economies.” Econometrica 49 (July): 1007–1033.
+Devereux, Michael B., Allen C. Head, and Beverly J. Lapham. 1996. “Monopolistic
+   Competition, Increasing Returns, and the Effects of Government Spending.” J. Money,
+   Credit, Banking 28 (May): 233–254.
+Diamond, Peter A. 1965. “National Debt in a Neoclassical Growth Model.” Amer. Econ. Rev.
+   55 (December): 1126–1150.
+Fischer, Stanley. 1977. “Long-Term Contracts, Rational Expectations, and the Optimal
+   Money Supply Rule.” J. Polit. Economy 85 (February): 191–205.
+Fisher, Jonas D. M., and Andreas Hornstein. 2000. “(S, s) Inventory Policies in General
+   Equilibrium.” Rev. Econ. Studies 67 (January): 117–145.
+Fitzgerald, Terry J. 1998. “Work Schedules, Wages, and Employment in a General
+   Equilibrium Model with Team Production.” Rev. Econ. Dynam. 1 (October): 809–834.
+Freeman, Scott, and Finn E. Kydland. 2000. “Monetary Aggregates and Output.” Amer.
+   Econ. Rev. 90 (December): 1125–1135.
+
+                                                                                             393
+
+
+Frisch, Ragnar. 1970. “From Utopian Theory to Practical Applications: The Case of
+   Econometrics.” Lecture to the Memory of Alfred Nobel, June 17, 1970. www.nobelprize.org.
+Gomme, Paul, and Jeremy Greenwood. 1995. “On the Cyclical Allocation of Risk.” J. Econ.
+   Dynam. Control 19 (January–February): 92–124.
+Greenwood, Jeremy, Zvi Hercowitz, and Gregory W. Huffman. 1988. “Investment, Capacity
+   Utilization, and the Real Business Cycle.” Amer. Econ. Rev. 78 (June): 402–417.
+Hansen, Gary D. 1985. “Indivisible Labor and the Business Cycle.” J. Monetary Econ. 16
+   (November): 309–327.
+Hansen, Gary D., and Edward C. Prescott. 2005. “Capacity Constraints, Asymmetries, and
+   the Business Cycle.” Rev. Econ. Dynam., forthcoming.
+Hansen, Gary D., and Thomas J. Sargent. 1988. “Straight Time and Overtime in
+   Equilibrium.” J. Monetary Econ. 21 (March–May): 281–308.
+Hayashi, Fumio, and Edward C. Prescott. 2002. “The 1990s in Japan: A Lost Decade.”
+   Rev. Econ. Dynam. 5 (January): 206–235.
+Heckman, James J., and Thomas E. MaCurdy. 1980. “A Life Cycle Model of Female Labour
+   Supply.” Rev. Econ. Studies 47 (Econometrics Issue, January): 47–74.
+Hodrick, Robert J., and Edward C. Prescott. 1980. “Post-War U.S. Business Cycles: An
+   Empirical Investigation.” Discussion Paper 451, Northwestern University, Center for
+   Mathematical Studies in Economics and Management Science. Published as Hodrick
+   Robert J., and Edward C. Prescott. 1997. “Postwar U.S. Business Cycles: An Empirical
+   Investigation.” J. Money, Credit, Banking 29 (February): 1–16.
+Hornstein, Andreas. 1993. “Monopolistic Competition, Increasing Returns to Scale, and
+   the Importance of Productivity Shocks.” J. Monetary Econ. 31 (June): 299–316.
+Hornstein, Andreas, and Edward C. Prescott. 1993. “The Firm and the Plant in General
+   Equilibrium Theory.” In General Equilibrium, Growth, and Trade II: The Legacy of Lionel
+   McKenzie, edited by Robert Becker, Michele Boldrin, Ronald Jones, and William
+   Thomson. San Diego: Academic Press.
+Imai, Susumu, and Michael P. Keene. 2004. “Intertemporal Labor Supply and Human
+   Capital Accumulation.” Int. Econ. Rev. 45 (May): 601–641.
+Kehoe, Timothy J., David K. Levine, and Edward C. Prescott. 2002. “Lotteries, Sunspots,
+   and Incentive Constraints.” J. Econ. Theory 107 (November): 39–69.
+Kehoe, Timothy J., and Edward C. Prescott. 2002. Introduction to “Great Depressions of
+   the 20th Century.” Rev. Econ. Dynam. 5 (January): 1–18.
+Koopmans, Tjalling C. 1965. “On the Concept of Optimal Economic Growth.” In Semaine
+   d’étude sur le role de l’analyse économétrique dans la formulation de plans de
+   développement. Pontificiae Academiae Scientiarum Scripta Varia 28, 1.
+Krusell, Per, and Anthony A. Smith Jr. 1998. “Income and Wealth Heterogeneity in the
+   Macroeconomy.” J. Polit. Economy 106 (October): 867–896.
+Kydland, Finn E., and Edward C. Prescott. 1977. “Rules Rather than Discretion: The
+   Inconsistency of Optimal Plans.” J. Polit. Economy 85 (June): 473–492.
+Kydland, Finn E., and Edward C. Prescott. 1982. “Time to Build and Aggregate
+   Fluctuations.” Econometrica 50 (November): 1345–1370.
+Kydland, Finn E., and Edward C. Prescott. 1991. “Hours and Employment Variation in
+   Business Cycle Theory.” Econ. Theory 1 (January): 63–82.
+Long, John B., Jr., and Charles I. Plosser. 1983. “Real Business Cycles.” J. Polit. Economy 91
+   (February): 39–69.
+Lucas, Robert E., Jr. 1972. “Expectations and the Neutrality of Money.” J. Econ. Theory 4
+   (April): 103–124.
+Lucas, Robert E., Jr. 1976. “Econometric Policy Evaluation: A Critique.” Carnegie-Rochester
+   Conf. Ser. Public Policy 1: 19–46.
+Lucas, Robert E., Jr. 1995. “Monetary Neutrality.” Nobel Prize Lecture, December 7, 1995.
+   www.nobelprize.org.
+Lucas, Robert E., Jr., and Edward C. Prescott. 1971. “Investment under Uncertainty.”
+
+
+
+
+394
+
+
+   Econometrica 39 (September): 659–681.
+McGrattan, Ellen R., and Edward C. Prescott. 2005a. “Taxes, Regulations, and the Value of
+   U.S. and U.K. Corporations.” Rev. Econ. Studies 72 (July), forthcoming.
+McGrattan, Ellen R., and Edward C. Prescott. 2005b. “Productivity and the Post-1990 U.S.
+   Economy.” Fed. Reserve Bank St. Louis Review 87 (July/August), forthcoming.
+Pigou, Arthur C. 1927. Industrial Fluctuations. London: Macmillan.
+Prescott, Edward C. 1986. “Theory Ahead of Business Cycle Measurement.” Carnegie-
+   Rochester Conf. Ser. Public Policy 25 (Autumn): 11–44. Reprint, 1986, Fed. Reserve Bank
+   Minneapolis Q. Rev. 10 (Fall): 9–22.
+Prescott, Edward C. 2004. “Why Do Americans Work So Much More than Europeans?”
+   Fed. Reserve Bank Minneapolis Q. Rev. 28 (July): 2–13.
+Prescott, Edward C., and Rajnish Mehra. 1980. “Recursive Competitive Equilibrium: The
+   Case of Homogeneous Households.” Econometrica 48 (September): 1365–1379.
+Prescott, Edward C., and Karl Shell. 2002. “Introduction to Sunspots and Lotteries.”
+   J. Econ. Theory 107 (November): 1–10.
+Prescott, Edward C., and Robert M. Townsend. 1984a. “General Competitive Analysis in an
+   Economy with Private Information.” Int. Econ. Rev. 25 (February): 1–20.
+Prescott, Edward C., and Robert M. Townsend. 1984b. “Pareto Optima and Competitive
+   Equilibria with Adverse Selection and Moral Hazard.” Econometrica 52 (January): 21–45.
+Ríos-Rull, José-Víctor. 1994. “On the Quantitative Importance of Market Completeness.”
+   J. Monetary Econ. 34 (December): 463–496.
+Ríos-Rull, José-Víctor. 1995. “Models with Heterogeneous Agents.” In Frontiers of Business
+   Cycle Research, edited by Thomas F. Cooley. Princeton, N.J.: Princeton Univ. Press.
+Rogerson, Richard. 1984. Topics in the Theory of Labor Markets. Ph.D. thesis, University of
+   Minnesota, September.
+Rogerson, Richard. 1988. “Indivisible Labor, Lotteries and Equilibrium.” J. Monetary Econ.
+   21 (January): 3–16.
+Rosen, Sherwin. 1978. “The Supply of Work Schedules and Employment.” In Work Time
+   and Employment. Washington, D.C.: National Commission for Manpower Policy.
+Rotemberg, Julio J., and Michael Woodford. 1995. “Oligopolistic Pricing and the Effects on
+   Aggregate Demand on Economic Activity.” J. Polit. Economy 100: 1153–1207.
+Solow, Robert M. 1956. “A Contribution to the Theory of Economic Growth.” Q. J. Econ. 70
+   (February): 65–94.
+Solow, Robert M. 1970. Growth Theory: An Exposition. The Radcliffe Lectures, delivered at
+   the University of Warwick, 1969. Oxford: Oxford Univ. Press.
+Stigler, Stephen M. 1978. “Mathematical Statistics in the Early States.” Ann. Statistics 6
+   (March): 239–265.
+Taylor, John B. 1980. “Aggregate Dynamics and Staggered Contracts.” J. Polit. Economy 88
+   (February): 1–23.
+Thomas, Julia K. 2002. “Is Lumpy Investment Relevant for the Business Cycle?” J. Polit.
+   Economy 110 (June): 508–534.
+Wicksell, Knut. 1907. “The Enigma of Business Cycles.” 1953 translation in Int. Econ. Papers
+   3: 58–74.
+
+
+
+
+                                                                                       395
+

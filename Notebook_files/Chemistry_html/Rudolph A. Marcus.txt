@@ -1,0 +1,1023 @@
+ELECTRON TRANSFER REACTIONS IN
+CHEMISTRY: THEORY AND EXPERIMENT
+Nobel Lecture, December 8, 1992
+
+by
+R UDOLPH        A. M A R C U S
+Noyes Laboratory of Chemical Physics, California Institute of Technology,
+MS 127-72, Pasadena, CA 91125, USA
+
+
+
+
+ELECTRON TRANSFER EXPERIMENTS SINCE THE LATE 1940s
+Since the late 1940s, the field of electron transfer processes has grown
+enormously, both in chemistry and biology. The development of the field,
+experimentally and theoretically, as well as its relation to the study of other
+kinds of chemical reactions, represents to us an intriguing history, one in
+which many threads have been brought together. In this lecture, some
+history, recent trends, and my own involvement in this research are de-
+scribed.
+   The early experiments in the electron transfer field were on “isotopic
+exchange reactions” (self-exchange reactions) and, later, “cross reactions.”
+These experiments reflected two principal influences. One of these was the
+availability after the Second World War of many radioactive isotopes, which
+permitted the study of a large number of isotopic exchange electron trans-
+fer reactions, such as
+
+
+and
+
+
+
+
+   There is a two-fold simplicity in typical self-exchange electron transfer
+reactions (so-called since other methods beside isotopic exchange were later
+used to study some of them): (1) the reaction products are identical with the
+reactants, thus eliminating one factor which usually influences the rate of a
+chemical reaction in a major way, namely the relative thermodynamic
+stability of the reactants and products: and (2) no chemical bonds are
+broken or formed in simple electron transfer reactions. Indeed, these self-
+exchange reactions represent, for these combined reasons, the simplest
+class of reactions in chemistry. Observations stemming directly from this
+simplicity were to have major consequences, not only for the electron
+
+
+70                               Chemistry 1992
+
+
+transfer field but also, to a lesser extent, for the study of other kinds of
+chemical reactions as well (cf Shaik et al , ref. 2).
+   A second factor in the growth of the electron transfer field was the
+introduction of new instrumentation, which permitted the study of the rates
+of rapid chemical reactions. Electron transfers are frequently rather fast,
+compared with many reactions which undergo, instead, a breaking of
+chemical bonds and a forming of new ones. Accordingly, the study of a large
+body of fast electron transfer reactions became accessible with the introduc-
+tion of this instrumentation. One example of the latter was the stopped-flow
+apparatus, pioneered for inorganic electron transfer reactions by N. Sutin.
+It permitted the study of bimolecular reactions in solution in the millisec-
+ond time scale (a fast time scale at the time). Such studies led to the
+investigation of what has been termed electron transfer “cross reactions,”
+i.e., electron transfer reactions between two different redox systems, as in
+
+
+
+
+   Again, in the field of electrochemistry, the new post-war instrumentation
+in chemical laboratories led to methods which permitted the study of fast
+electron transfer reactions at metal electrodes. Prior to the late 1940s only
+relatively slow electrochemical reactions, such as the discharge of an H3O +
+ion at an electrode to form H2 , had been investigated extensively. They
+involved the breaking of chemical bonds and the forming of new ones.
+   Numerous electron transfer studies have now also been made in other
+areas, some depicted in Figure 1. Some of these investigations were made
+possible by a newer technology, lasers particularly, and now include studies
+in the picosecond and subpicosecond time regimes. Just recently, (non-
+laser) nanometer-sized electrodes have been introduced to study electro-
+chemical processes that are still faster than those hitherto investigated. Still
+other recent investigations, important for testing aspects of the electron
+transfer theory at electrodes, involve the new use of an intervening ordered
+adsorbed monolayer of long chain organic compounds on the electrode to
+facilitate the study of various effects, such as varying the metal-solution
+potential difference on the electrochemical electron transfer rate.
+   In some studies of electron transfer reactions in solution there has also
+been a skillful blending of these measurements of chemical reaction rates
+with various organic or inorganic synthetic methods, as well as with site-
+directed mutagenesis, to obtain still further hitherto unavailable informa-
+tion. The use of chemically modified proteins to study the distance depen-
+dence of electron transfer, notably by Gray and coworkers, has opened a
+whole new field of activity.
+   The interaction of theory and experiment in these many electron transfer
+fields has been particularly extensive and exciting, and each has stimulated
+
+
+                                Rudolph A. Marcus                           71
+
+
+       Developments in Electron Transfer Reactions
+
+
+
+            ET at           ET at                ET at            ET at
+        liquid-liquid   polymer-liquid      semiconductor       modified
+          interfaces      interfaces          electrodes       electrodes
+
+
+
+
+                                                             conversion
+                                                        I
+
+
+
+
+       ion pairs,
+    recombination,
+         escape
+
+
+magnetic effects                                                 long range ET
+     on ET
+                                  ET across rigid
+                                  organic bridges
+
+
+
+
+  the other. The present lecture addresses the underlying theory and this
+  interaction.
+
+
+  THE EARLY EXPERIENCE
+  My own involvement in the electron transfer field began in a rather circu-
+  itous way. In an accompanying biographical note I have commented on my
+  earlier background, which was in experimental measurements of reaction
+  rates as a chemistry graduate student at McGill University (1943-46) and as
+  a post-doctoral associate at the National Research Council of Canada
+  (1946-49). A subsequent post-doctoral study at the University of North
+  Carolina (1949-51) on the theory of reaction rates resulted in what is now
+  known in the literature as RRKM theory (Rice, Ramsperger, Kassel, Mar-
+  cus).
+     This unimolecular reaction field reflects another long and extensive
+  interaction between theory and experiment. RRKM theory enjoys wide-
+  spread use and is now usually referred to in the literature only by its
+
+
+72                                Chemistry 1992
+
+
+acronym (or by the texts written about it, ref. 4), instead of by citation of the
+original articles.
+   After the theoretical post-doctoral, I joined the faculty of the Polytechnic
+Institute of Brooklyn in 1951 and wondered what theoretical research to do
+next after writing the RRKM papers (1951-52). I remember vividly how a
+friend of mine, a colleague at Brooklyn Poly, Frank Collins, came down to
+my office every day with a new idea on the liquid state transport theory
+which he was developing, while I, for theoretical research, had none.
+Perhaps this gap in not doing anything immediately in the field of theory
+was, in retrospect, fortunate: In not continuing with the study of the theory
+of unimolecular reactions, for which there were too few legitimate experi-
+mental data at the time to make the subject one of continued interest, I was
+open for investigating quite different problems in other areas. I did, how-
+ever, begin a program of experimental studies in gas phase reactions,
+prompted by my earlier studies at NRC and by the RRKM work.
+   In the biographical note I have also recalled how a student in my statisti-
+cal mechanics class in this period (Abe Kotliar) asked me about a particular
+problem in polyelectrolytes. It led to my writing two papers on the subject
+(1954-55), one of which required a considerable expansion in my back-
+ground in electrostatics, so as to analyze different methods for calculating
+the free energy of these systems: In polyelectrolyte molecules, it may be
+recalled, the ionic charges along the organic or inorganic molecular back-
+bone interact with each other and with the solvent. In the process, I read
+the relevant parts of the texts that were readily available to me on electro-
+statics (Caltech’s Mason and Weaver’s was later to be particularly helpful!).
+When shortly thereafter I encountered some papers on electron transfer, a
+field entirely new to me, I was reasonably well prepared for treating the
+problems which lay ahead.
+
+
+DEVELOPING AN ELECTRON TRANSFER THEORY
+Introduction
+My first contact with electron transfers came in 1955 as a result of chancing
+upon a 1952 symposium issue on the subject in the Journal of Physical
+Chemistry. An article by Bill Libby caught my eye - a use of the Franck-
+Condon principle to explain some experimental results, namely, why some
+isotopic exchange reactions which involve electron transfer between pairs
+of small cations in aqueous solution, such as reaction (1), are relatively slow,
+whereas electron transfers involving larger ions, such as Fe(CN) 6 3- -
+F e ( C N )6 4- a n d M n O4 - - M n O4 2 - , are relatively fast.
+   Libby explained this observation in terms of the Franck-Condon princi-
+ple, as discussed below. The principle was used extensively in the field of
+spectroscopy for interpreting spectra for the excitation of the molecular
+electronic-vibrational quantum states. An application of that principle to
+chemical reaction rates was novel and caught my attention. In that paper
+Libby gave a “back-of-the-envelope” calculation of the resulting solvation
+
+
+                                     Rudolph A. Marcus                                    73
+
+
+energy barrier which slowed the reaction. However, I felt instinctively that
+even though the idea - that somehow the F r a n c k - C o n d o n principle was
+involved - seemed strikingly right, the calculation itself was incorrect. The
+next month of study of the problem was, for me, an especially busy one. To
+place the topic in some perspective I first digress and describe the type of
+theory that was used for other types of chemical reaction rates at the time
+and continues to be useful today.
+
+Reaction rate theory
+Chemical reactions are often described in terms of the motion of the atoms
+of the reactants on a potential energy surface. This potential energy surface
+is really the electronic energy of the entire system, plotted versus the
+positions of all the atoms. A very common example is the transfer of an
+atom or a group B from AB to form BC
+
+
+
+
+Figure 2. Potential energy contours for reaction (4), AB + C   A + BC, in the collinear case.
+
+
+ 74                              Chemistry 1992
+
+
+    A point representing this reacting system begins its trajectory in the lower
+ right region of the figure in a valley in this plot of contours, the “valley of
+ the reactants.” When the system has enough energy, appropriately dis-
+ tributed between the various motions, it can cross the “mountain pass”
+ (saddle-point region) separating the initial valley from the products’ valley
+ in the upper left, and so form the reaction products. There is a line in the
+ figure, XY, analogous to the “continental divide” in the Rocky Mountains
+ in the U.S., which separates systems which could spontaneously flow into
+ the reactants’ valley from those which could flow into the products’ one. In
+ chemists’ terminology this line represents the “transition state” of the
+ reaction.
+    In transition state theory a quasi-equilibrium between the transition state
+ and the reactants is frequently postulated, and the reaction rate is then
+ calculated using equilibrium statistical mechanics. A fundamental dynami-
+ cal basis, which replaces this apparently ad hoc but common assumption of
+ transition state theory and which is perhaps not as well known in the
+ chemical literature as it deserves to be, was given many years ago by the
+ physicist and one-time chemical engineer, Eugene Wigner (1938). He used
+ a classical mechanical description of the reacting system in the many-
+ dimensional space (of coordinates and momenta). Wigner pointed out that
+ the quasi-equilibrium would follow as a dynamical consequence if each
+ trajectory of a moving point representing the reacting system in this many-
+ dimensional space did not recross the transition state (and if the distribution
+ of the reactants in the reactants’ region were a Boltzmann one). In recent
+ times, the examination of this recrossing has been a common one in classical
+ mechanical trajectory studies of chemical reactions. Usually, recrossings are
+ relatively minor, except in nonadiabatic reactions, where they are readily
+ treated (cf discussion, later).
+    In practice, transition state theory is generalized so as to include as many
+ coordinates as are needed to describe the reacting system. Further, when
+ the system can “tunnel” quantum mechanically through the potential ener-
+ gy barrier (the “pass”) separating the two valleys, as for example frequently
+ happens at low energies in H-transfer reactions, the method of treating the
+passage across the transition state region needs, and has received, refine-
+ ment. (The principal problem encountered here has been the lack of
+ “dynamical separability” of the various motions in the transition state
+ region.)
+
+Electron transfer theory. Formulation
+In contrast to the above picture, we have already noted that in simple
+electron transfer reactions no chemical bonds are broken or formed and so
+a somewhat different picture of the reaction is needed for the electron
+transfer reaction.
+   In his 1952 symposium paper, Libby noted that when an electron is
+transferred from one reacting ion or molecule to another, the two new
+molecules or ions formed are in the wrong environment of the solvent
+
+
+                                       Rudolph A. Marcus                                      75
+
+
+molecules, since the nuclei do not have time to move during the rapid
+electron jump: in reaction (1) a Fe2+ ion would be formed in some configu-
+ration of the many nearby dipolar solvent molecules that was appropriate to
+the original Fe3+     ion. Analogous remarks apply to the newly formed Fe3+
+ion in the reaction. On the other hand, in reactions of “complex ions,” such
+a s t h o s e i n t h e F e ( C N )6 - 3 - F e ( C N )6 - 4 a n d M n O4 - - M n O4 2 - s e l f -
+exchange reactions, the two reactants are larger, and so the change of
+electric field in the vicinity of each ion, upon electron transfer, would be
+smaller. The original solvent environment would therefore be less foreign
+to the newly formed charges, and so the energy barrier to reaction would be
+less. In this way Libby explained the faster self-exchange electron transfer
+rate for these complex ions. Further confirmation was noted in the ensuing
+discussion in the symposium: the self-exchange Co(NH 3) 63+ - Co(NH 3) 62+
+reaction is very slow, and it was pointed out that there was a large difference
+in the equilibrium Co-N bond lengths in the 3+ and the 2+ ions, and so
+each ion would be formed in a very “foreign” configuration of the vibra-
+tional coordinates, even though the ions are “complex ions.”
+   After studying Libby’s paper and the symposium discussion, I realized
+that what troubled me in this picture for reactions occurring in the dark was
+that energy was not conserved: the ions would be formed in the wrong high-
+energy environment, but the only way such a non-energy conserving event
+could happen would be by the absorption of light (a “vertical transition”),
+and not in the dark. Libby had perceptively introduced the Franck-Condon
+principle to chemical reactions, but something was missing.
+   In the present discussion, as well as in Libby’s treatment, it was supposed
+that the electronic interaction of the reactants which causes the electron
+transfer is relatively weak. That view is still the one that seems appropriate
+today for most of these reactions. In this case of weak-electronic interac-
+tion, the question becomes: how does the reacting system behave in the dark
+so as to satisfy both the Franck-Condon principle and energy conservation?
+I realized that fluctuations had to occur in the various nuclear coordinates,
+such as in the orientation coordinates of the individual solvent molecules
+and indeed in any other coordinates whose most probable distribution for
+the products differs from that of the reactants. With such fluctuations,
+values of the coordinates could be reached which satisfy both the Franck-
+Condon and energy conservation conditions and so permit the electron
+transfer to occur in the dark.
+   For a reaction such as reaction (1), an example of an initial and final
+configuration of the solvent molecules is depicted in Figure 3. Fluctuations
+from the original equilibrium ensemble of configurations were ultimately
+needed, prior to the electron transfer, and were followed by a relaxation to
+the equilibrium ensemble for the products, after electron transfer.
+   The theory then proceeded as follows. The potential energy                           of the
+entire system, reactants plus solvent, is a function of the many hundreds of
+relevant coordinates of the system, coordinates which include, among oth-
+ers, the position and orientation of the individual solvent molecules (and
+
+
+76                                      Chemistry 1992
+
+
+                     Electron Transfer in Solution
+
+
+
+
+                          Reactants
+
+
+Figure 3. Typical nuclear configurations for reactants, products, and surrounding solvent
+molecules in reaction (1). The longer M-OH2, bond length in the + 2 state is indicated schemati-
+cally by the larger ionic radius. (Sutin, ref. 2)
+
+
+hence of their dipole moments, for example), and the vibrational coordi-
+nates of the reactants, particularly those in any inner coordination shell of
+the reacting ions. (E.g., the inner coordination shell of an ion such as Fe 2+
+or Fe3+ in water is known from EXAFS experiments to contain six water
+molecules.) No longer were there just the two or so important coordinates
+that were dominant in reaction (4).
+   Similarly, after the electron transfer, the reacting molecules have the
+ionic charges appropriate to the reaction products, and so the relevant
+potential energy function Up, is that for the products plus solvent. These two
+potential energy surfaces will intersect if the electronic coupling which leads
+to electron transfer is neglected. For a system with N coordinates this
+intersection occurs on an (N-l) dimensional surface, which then constitutes
+in our approximation the transition state of the reaction. The neglected
+electronic coupling causes a well-known splitting of the two surfaces in the
+vicinity of their intersection. A schematic profile of the two potential energy
+surfaces in the N-dimensional space is given in Figure 4. (The splitting is not
+shown.)
+   Due to the effect of the previously neglected electronic coupling and the
+coupling between the electronic motion and the nuclear motion near the
+intersection surface S, an electron transfer can occur at S. In classical terms,
+the transfer at S occurs at fixed positions and momenta of the atoms, and S O
+the Franck-Condon principle is satisfied. Since U r equals UP at S, energy is
+also conserved. The details of the electron transfer depend on the extent of
+electronic coupling and how rapidly the point representing the system in
+this N-dimensional space crosses S. (It has been treated, for example, using
+as an approximation the well-known one-dimensional Landau-Zener ex-
+pression for the transition probability at the near-intersection of two poten-
+tial energy curves.)
+
+
+                                        Rudolph A. Marcus                                        77
+
+
+                      Potential Energy Surfaces, Profile
+
+
+
+
+Figure 4. Profile of potential energy surfaces for reactants plus environment, R, and for
+products plus environment, P. Solid curves: schematic. Dashed curves: schematic but slightly
+more realistic. The typical splitting at the intersection of U , and U p, is not shown in the Figure
+                                                              r
+
+
+(Marcus and Siddarth, ref. 2).
+
+
+
+
+   When the splitting caused by the electronic coupling between the elec-
+tron donor and acceptor is large enough at the intersection, a system
+crossing S from the lower surface on the reactants’ side of S continues onto
+the lower surface on the products’ side, and so an electron transfer in the
+dark has then occurred. When the coupling is, instead, very weak, (“non-
+adiabatic reactions”) the probability of successfully reaching the lower
+surface on the products’ side is small and can be calculated using quantum
+mechanical perturbation theory, for example, using Fermi’s “Golden
+Rule,” an improvement over the l-dimensional Landau-Zener treatment.
+   Thus, there is some difference and some similarity with a more conven-
+tional type of reaction such as reaction (4), whose potential energy contour
+plots were depicted in Figure 2. In both cases, fluctuations of coordinates
+are needed to reach the transition state, but since so many coordinates can
+now play a significant role in the electron transfer reaction, because of the
+major and relatively abrupt change in charge distribution on passing
+through the transition state region, a rather different approach from the
+conventional one was needed to formulate the details of the theory.
+
+
+78                                  Chemistry 1992
+
+
+Electron transfer theory. Treatment
+In the initial paper (1956) I formulated the above picture of the mechanism
+of electron transfer and, to make the calculation of the reaction rate
+tractable, treated the solvent as a dielectric continuum. In the transition
+state the position-dependent dielectric polarization Pu(r) of the solvent, due
+to the orientation and vibrations of the solvent molecules, was not the one
+in equilibrium with the reactants’ or the products’ ionic charges. It repre-
+sented instead, some macroscopic fluctuation from them. The electronic
+polarization for the solvent molecules, on the other hand, can rapidly
+respond to any such fluctuations and so is that which is dictated by the
+reactants’ charges and by the instantaneous Pu(r).
+   With these ideas as a basis, what was then needed was a method of
+calculating the electrostatic free energy G of this system with its still un-
+known polarization function Pu(r). I obtained this free energy G by finding a
+reversible path for reaching this state of the system. Upon then minimizing
+G, subject to the constraint imposed by the Franck-Condon principle (re-
+flected in the electron transfer occurring at the intersection of the two
+potential energy surfaces), I was able to find the unknown Pu(r) and, hence,
+to find the G for the transition state. That G was then introduced into
+transition state theory and the reaction rate calculated.
+   In this research I also read and was influenced by a lovely paper by
+Platzmann and Franck (1952) on the optical absorption spectra of halide
+ions in water and later by work of physicists such as Pekar and Frohlich
+(1954) on the closely related topic of polaron theory. As best as I can recall
+now, my first expressions for G during this month of intense activity seemed
+rather clumsy, but then with some rearrangement a simple expression
+emerged that had the right “feel” to it and that I was also able to obtain by a
+somewhat independent argument. The expression also reduced reassuringly
+to the usual one, when the constraint of arbitrary P,,(r) was removed.
+Obtaining the result for the mechanism and rate of electron transfer was
+indeed one of the most thrilling moments of my scientific life.
+   The expression for the rate constant k of the reaction is given by
+
+                                                                           (5a)
+
+where        in turn, is given by
+
+                                                                          (5b)
+The A in Eq. (5a) is a term depending on the nature of the electron transfer
+reaction (e.g., bimolecular or intramolecular),       is the standard free
+energy of reaction (and equals zero for. a self-exchange reaction), λ is a
+“reorganization term,” composed of solvational        and vibrational      )
+components.
+
+
+                                Rudolph A. Marcus                             79
+
+In a two-sphere model of the reactants,      was expressed in terms of the two
+ionic radii a1, and a2 (including in the radius any inner coordination shell),
+the center-to-center separation distance R of the reactants, the optical
+and static (Ds) dielectric constants of the solvent, and the charge transferred
+    from one reactant to the other:
+
+
+
+
+For a bimolecular reaction, work terms, principally electrostatic, are in-
+volved in bringing the reactants together and in separating the reaction
+products, but are omitted from Eq. (5) for notational brevity. The expres-
+sion for the vibrational term is given by
+
+
+
+
+where       and      are equilibrium values for the jth normal mode coordi-
+nate      and k, is a reduced force constant 2k             + k ) k being the
+force constant for the reactants and            being that for the products. (I
+introduced a “symmetrization” approximation for the vibrational part of
+the potential energy surface, to obtain this simple form of Eqs. (5) to (8),
+and tested it numerically.)
+   In 1957 I published the results of a calculation of the        arising from a
+stretching vibration in the innermost coordination shell of each reactant,
+(the equation used for       was given in the 1960 paper). An early paper on
+the purely vibrational contribution using chemical bond length coordinates
+and neglecting bond-bond correlation had already been published for self-
+exchange reactions by George and Griffiths in 1956.
+   I also extended the theory to treat electron transfers at electrodes, and
+distributed it as an Office of Naval Research Report in 1957, the equations
+being published later in a journal paper in 1959. I had little prior knowl-
+edge of the subject, and my work on electrochemical electron transfers was
+facilitated considerably by reading a beautiful and logically written survey
+article of Roger Parsons on the equilibrium electrostatic properties of
+electrified metal-solution interfaces.
+   In the 1957 and 1965 work I showed that the electrochemical rate
+constant was again given by Eqs. (5)-(8), but with A now having a value
+appropriate to the different “geometry” of the encounter of the partici-
+pants in the reaction. The 1/2a2 in Eq. (7) was now absent (there is only one
+reacting ion) and R now denotes twice the distance from the center of the
+reactant’s charge to the electrode (it equals the ion-image distance). A term
+    replaced the        in Eq.(5b), where e is the charge transferred between
+the ion and the electrode, and       is the activation overpotential, namely the
+metal-solution potential difference, relative to the value it would have if the
+rate constants for the forward and reverse reactions were equal. These rate
+constants are equal when the minima of the two G curves in Figure 5 have
+the same height.
+
+
+80                                      Chemistry 1992
+
+
+                               Free Energy Curves
+
+
+
+
+                                REACTION COORDINATE q
+Figure 5. Free energy of reactants plus environment vs. the reaction coordinate q (R curve), and
+free energy of products plus environment vs. reaction coordinate q (P curve). The three vertical
+lines on the abscissa denote, from left to right, the value for the reactants, for the transition
+state, and for the products. (Marcus and Siddarth, ref. 2).
+
+
+
+   When             most electrons go into or out of quantum states in the
+metal that are near the Fermi level. However, because of the continuum of
+states in the metal, the inverted effect (described below) was now predicted
+to be absent for this process, i.e., the counterpart of Eq. (5b) is applicable
+only in the region            In the case of an intrinsically highly exothermic
+electron transfer reaction at an electrode, the electron can remove the
+immediate “exothermicity” by (if entering) going into a high unoccupied
+quantum state of the metal, or (if leaving) departing from a low occupied
+quantum state, each far removed from the Fermi level. (The inverted region
+effect should, however, occur for the electron transfer when the electrode
+is a narrow band semiconductor.)
+   After these initial electron transfer studies, which were based on a dielec-
+tric continuum approximation for the solvent outside the first coordination
+shell of each reactant, I introduced a purely molecular treatment of the
+reacting system. Using statistical mechanics, the solvent was treated as a
+collection of dipoles in the 1960 paper, and later in 1965 a general charge
+distribution was used for the solvent molecules and for the reactants. At the
+same time I found a way in this 1960 paper of introducing rigorously a
+
+
+                                 Rudolph A. Marcus                               81
+
+
+global reaction coordinate in this many-dimensional (N) coordinate space of
+the reacting system. The globally defined coordinate so introduced was
+equivalent to using U P - Ur, the potential energy difference between the
+products plus solvent (UP ) and the reactants plus solvent (Ur) (cf A. Warshel,
+1987). It was, thereby, a coordinate defined everywhere in this N-dimen-
+sional space.
+   The free energy Gr of a system containing the solvent and the reactants,
+and that of the corresponding system for the products, GP , could now be
+defined along this globally defined reaction coordinate. (In contrast, in
+reactions such as that depicted by Figure 2, it is customary, instead, to
+define a reaction coordinate locally, namely, in the vicinity of a path leading
+from the valley of the reactants through the saddle point region and into the
+valley of the products.)
+   The potential energies U r and U P in the many-dimensional coordinate
+space are simple functions of the vibrational coordinates but are complicat-
+ed functions of the hundreds of relevant solvent coordinates: there are
+many local minima corresponding to locally stable arrangements of the
+solvent molecules. However, I introduced a “linear response approxima-
+tion, ” in which any hypothetical change in charge of the reactants produces
+a proportional change in the dielectric polarization of the solvent. (Recent-
+ly, I utilized a central limit theorem to understand this approximation
+better-beyond simple perturbation theory, and plan to submit the results
+for publication shortly.) With this linear approximation the free energies Gr
+and Gp became simple quadratic functions of the reaction coordinate.
+   Such an approach had major consequences. This picture permitted a
+depiction of the reaction in terms of parabolic free energy plots in simple
+and readily visualized terms, as in Figure 5. With them the trends predicted
+from the equations were readily understood. It was also important to use
+the free energy curves, instead of oversimplified potential energy profiles,
+because of the large entropy changes which occur in many electron transfer
+cross-reactions, due to changes in strong ion-polar solvent interactions.
+(The free energy plot is legitimately a one-coordinate plot while the poten-
+tial energy plot is at most a profile of the complicated U and U in N -
+                                                                   r       p
+
+dimensional space.)
+   With the new statistical mechanical treatment of 1960 and 1965 one
+could also see how certain relations between rate constants initially deriv-
+able from the dielectric continuum-based equations in the 1956 paper
+could also be valid more generally. The relations were based, in part, on
+Equations (5) and (initially via (7) and (8)) on the approximate relation
+
+
+
+
+where λ 12 is the λ for the cross-reaction and the λ 11 , and λ 22 are those of the
+self-exchange reactions.
+
+
+82                                 Chemistry 1992
+
+
+
+In the 1960 paper I had listed a number of theoretical predictions resulting
+from these equations, in part to stimulate discussion with experimentalists
+in the field at a Faraday Society meeting on oxidation-reduction reactions,
+where this paper was to be presented. At the time I certainly did not
+anticipate the subsequent involvement of the many experimentalists in
+testing these predictions. Among the latter was one which became one of
+the most widely tested aspects of the theory, namely, the “cross-relation.”
+This expression, which follows from Eqs. (5) and (9), relates the rate
+constant k 12 of a cross-reaction to the two self-exchange rate constants, k     11
+
+
+and k , and to the equilibrium constant K of the reaction.
+      22                                        12
+
+
+
+
+                                                                              (10)
+ where f 12 is a known function of k , k and K and is usually close to unity.
+                                    11   22          12
+
+    Another prediction in the 1960 paper concerned what I termed there the
+ inverted region: In a series of related reactions, similar in λ but differing in
+        a plot of the activation free energy       vs.     is seen from Eq. (5b) to
+ first decrease as         is varied from 0 to some negative value, vanish at
+       = −λ, and then increase when             is made still more negative. This
+ initial decrease of         with increasingly negative        is the expected trend
+ in chemical reactions and is similar to the usual trend in “Bronsted plots” of
+ acid or base catalyzed reactions and in “Tafel plots” of electrochemical
+ reactions. I termed that region of           the “normal” region. However, the
+ prediction for the region where                   the “inverted region,” was the
+ unexpected behavior, or at least unexpected until the present theory was
+ introduced.
+    This inverted region is also easily visualized using Figures 6 and 7:
+ Successively making ∆ G0 more negative, by lowering the products’ ∆ G0 curve
+ vertically relative to the reactant curve, decreases the free energy barrier
+        (given by the intersection of the reactants’ and products’ curves): that
+ barrier is seen in Figure 6 to vanish at some ∆ G0 and then to increase again.
+    Other predictions dealt with the relation between the electrochemical
+ and the corresponding self-exchange electron transfer rates, the numerical
+estimate of the reaction rate constant k and, in the case of non-specific
+ solvent effects, the dependence of the reaction rate on solvent dielectric
+ properties. The testing of some of the predictions was delayed by an
+ extended sabbatical in 1960-61, which I spent auditing courses and at-
+ tending seminars at the nearby Courant Mathematical Institute.
+
+Comparisons of Experiment and Theory
+Around 1962, during one of my visits to Brookhaven National Laboratory, I
+showed Norman Sutin the 1960 predictions. Norman had either measured
+via his stopped-flow apparatus or otherwise knew rate constants and equi-
+librium constants which permitted the cross-relation Eq. (10) to be tested.
+There were about six such sets of data which he had available. I remember
+vividly the growing sense of excitement we both felt as, one by one, the
+
+
+       Rudolph A. Marcus     83
+
+
+The Inverted Region Effect
+
+
+
+
+   REACTION COORDINATE q
+
+
+84                                         Chemistry 1992
+
+
+observed             more or less agreed with the predictions of the relation. I
+later collected the results of this and of various other tests of the 1960
+predictions and published them in 1963. Perhaps by showing that the
+previously published expressions were not mere abstract formulae, but
+rather had concrete applications, this 1963 paper, and many tests by Sutin
+and others, appear to have stimulated numerous subsequent tests of the
+cross-relation and of the other predictions. A few examples of the cross-
+relation test are given in Table 1.
+     The encouraging success of the experimental tests given in the 1963
+paper suggested that the theory itself was more general than the approxima-
+tions (e.g., solvent dipoles, unchanged force constants) used in 1960 and
+stimulated me to give a more general formulation (1965). The latter paper
+also contains a unified treatment of electron transfers in solution and at
+metal electrodes, and served, thereby, to generalize my earlier (1957)
+treatment of the electrochemical electron transfers.
+     The best experimental evidence for the inverted region was provided in
+1984 by Miller, Calcaterra and Closs, almost 25 years after it was predicted.
+
+
+
+
+Figure 8. Inverted region effect in chemical electron transfer reactions. (Miller, et al, ref. 3).
+
+
+                                    Rudolph A. Marcus                                    85
+
+
+This successful experimental test, which was later obtained for other elec-
+tron transfer reactions in other laboratories, is reproduced in Figure 8.
+Possible reasons for not observing it in the earlier tests are several-fold and
+have been discussed elsewhere.
+  Previously, indirect evidence for the inverted region had been obtained
+by observing that electron transfer reactions with a very negative ∆ G* may
+result in chemiluminescence: when the               and      curves intersect at a high
+     because of the inverted region effect, there may be an electron transfer
+to a more easily accessible           curve, one in which one of the products is
+electronically excited and which intersects the             curve in the normal region
+at a low          as in Figure 9. Indeed, experimentally in some reactions
+100% formation of an electronically excited state of a reaction product has
+been observed by Bard and coworkers, and results in chemiluminescence.
+  Another consequence of Eq. (5) is the linear dependence of                        k on -
+     with a slope of l/2, when                   is small, and a similar behavior at
+electrodes, with          replaced by        the product of the charge transferred
+
+
+        Formation of Electronically Excited Products
+
+
+
+
+           R
+
+
+
+
+                        R E A C T I O N      C O O R D I N A T E        q
+
+Figure 9. A favored formation of an electronically excited state of the products (Marcus and
+Siddarth, ref. 2).
+
+
+86                                              Chemistry 1992
+
+
+and the activation overpotential. Extensive verification of both these results
+h a s b e e n o b t a i n e d . M o r e r e c e n t l y , t h e c u r v a t u r e o f p l o t s o f l n k vs.
+expected from these equations, has been demonstrated in several experi-
+ments. The very recent use of ordered organic molecular monolayers on
+electrodes, either to slow down the electron transfer rate or to bind a redox-
+active agent to the electrode, but in either case to avoid or minimize
+diffusion control of the fast electron transfer processes, has considerably
+facilitated this study of the curvature in the ln k vs.                            plot.
+     Comparison of experiment and theory has also included that of the
+absolute reaction rates of the self-exchange reactions, the effect on the rate
+of varying the solvent, an effect sometimes complicated by ion pairing in the
+low dielectric constant media involved, and studies of the related problem
+of charge transfer spectra, such as
+
+                                                                                                                (11)
+
+Here, the frequency of the spectral absorption maximum                                          is given
+
+                                                                                                                (12)
+
+Comparisons with Eq: (12), using Eq. (7) for                             have included those of the
+effects of separation distance and of the solvent dielectric constant.
+     Comparisons have also been made of the self-exchange reaction rates in
+solution with the rates of the corresponding electron transfer reactions at
+
+
+
+
+orders of magnitude, with rates of corresponding electron transfers at metal electrodes.
+(Cannon, ref. 2).
+
+
+                                       Rudolph A. Marcus                                       87
+
+
+electrodes. An example of the latter is the plot given in Figure 10, where the
+self-exchange rates are seen to vary by some twenty orders of magnitude.
+The discrepancy at high k’s is currently the subject of some reinvestigation
+of the fast electrode reaction rates, using the new nanotechnology. Most
+recently, a new type of interfacial electron transfer rate has also been
+measured, electron transfer at liquid-liquid interfaces. In treating the latter,
+I extended the “cross relation” to this two-phase system. It is clear that
+much is to be learned from this new area of investigation. (The study of the
+transfer of ions across such an interface, on the other hand, goes back to
+the time of Nernst and of Planck, around the turn of the century.)
+
+Other Applications and Extensions
+As noted in Figure 1, one aspect of the electron transfer field has been its
+continued and, indeed, ever-expanding growth in so many directions. One
+of these is in the biological field, where there are now detailed experimental
+and theoretical studies in photosynthetic and other protein systems. The
+three-dimensional structure of a photosynthetic reaction center, the first
+membrane protein to be so characterized, was obtained by Deisenhofer,
+Michel and Huber, who received the Nobel Prize in Chemistry in 1988 for
+this work. A bacterial photosynthetic system is depicted in Figure 11, where
+the protein framework holding fast the constituents in this reaction center is
+not shown.
+
+
+                           The Reaction Center
+
+
+
+
+Figure 11. Redox-active species involved in the initial charge separation for a photosynthetic
+bacterium (cf Deisenhofer et al, ref. 3, and Yeates et al, ref. 3), with labels added, to conform to
+the present text; they include a missing QB.
+
+
+ 88                                 Chemistry 1992
+
+
+    In the photosynthetic system there is a transfer of electronic excitation
+ from “antenna” chlorophylls (not shown in Figure 11) to a special pair
+ B C h l2. The latter then transfers an electron to a pheophytin BPh within a
+ very short time (~ 3 picoseconds) and from it to a quinone               in 200 psec
+ and thence to the other quinone QB . (Other chemical reactions then occur
+ with these separated charges at each side of the membrane, bridged by this
+ photosynthetic reaction center.)
+    To avoid wasting the excitation energy of the BChl 2* unduly it is neces-
+ sary that the          of this first electron transfer to BPh be small. (It is only
+ about 0.25 eV out of an overall excitation energy of BCh1 2* of 1.38 eV.) In
+ order that this electron transfer also be successful in competing with two
+ wasteful processes, the fluorescence and the radiationless transition of
+ B C h 12*, it is also necessary that         for that first electron transfer step be
+ small and hence, by Eq. (5b), that the λ be small. The size of the reactants is
+ large, and the immediate protein environment is largely nonpolar, so lead-
+ ing to a small λ (cf Eq.(7)). Nature appears, indeed, to have constructed a
+ system with this desirable property.
+    Furthermore, to avoid another form of wasting the energy, it is also
+ important that an unwanted back electron transfer reaction from the BPh-
+ to the BCh12+ not compete successfully with a second forward electron
+ transfer step from BPh- to          That is, it is necessary that the back transfer,
+ a “hole-electron recombination” step, be slow, even though it is a very
+ highly exothermic process ( ~l.leV). It has been suggested that the small λ
+ (~ 0.25eV) and the resulting inverted region effect play a significant role in
+ providing this essential condition for the effectiveness of the photosynthetic
+ reaction center.
+    There is now a widespread interest in synthesizing systems which can
+ mimic the behavior of nature’s photosynthetic systems, and so offer other
+ routes for the harnessing of solar energy. The current understanding of
+ how nature works has served to provide some guidelines. In this context, as
+ well as that of electron transfer in other proteins, there are also relevant
+ experiments in long range electron transfer. Originally the studies were of
+ electron transfer in rigid glasses and were due to Miller and coworkers.
+More recently the studies have involved a donor and receptor held together
+ by synthetically made rigid molecular bridges. The effect of varying the
+ bridge length has been studied in the various systems. A theoretical estimate
+ of the distance dependence of electron transfers in a photosynthetic system
+ was first made by Hopfield, who used a square barrier model and an
+ approximate molecular estimate of the barrier height.
+    Recently, in their studies of long range electron transfer in chemically
+ modified proteins, Gray and coworkers have studied systematically the
+ distance or site dependence of the electronic factor, by attaching an appro-
+ priate electron donor or acceptor to a desired site. For each such site the
+ reactant chosen should be such that -∆G”                  i.e., which has a k at the
+ maximum of the In k vs. -∆G” curve (cf Eq. (5)). The value of k then no
+ longer depends on a ∆G Since ∆G* is distance-dependent (cf Eq.(7)), it is
+
+
+                                    Rudolph A. Marcus                                 89
+
+
+particularly desirable to make ∆ G*            0, so that the relative k’s at the various
+sites now reflect only the electronic factor. Dutton and coworkers have
+treated data similarly for a number of reactions by using, where possible,
+the k at the maximum of each In k vs.                  curve. Of particular interest in
+such studies is whether there is a simple exponential decrease of the
+electronic factor on the separation distance between donor and acceptor,
+or whether there are deviations from this monotonic behavior, due to local
+structural factors.
+   In a different development, the mechanism of various organic reactions
+has been explored by several investigators, notably by Eberson (ref. 2), in
+the light of current electron transfer theory. Other organic reactions have
+been explored by Shaik and Pross, in their analysis of a possible electron
+transfer mechanism vs. a conventional mechanism, and by Shaik et al (ref.2).
+   Theoretical calculations of the donor-acceptor electronic interactions,
+initially by McConnell and by Larsson, and later by others, our group
+among them, have been used to treat long-range electron transfer. The
+methods have recently been adapted to large protein systems. In our studies
+with Siddarth we used an “artificial intelligence” searching technique to
+limit the number of amino acids used in the latter type of study.
+   Another area of much current activity in electron transfers is that of
+solvent dynamics, following the pioneering treatment for general reactions
+by Kramers (1940). Important later developments for electron transfer
+were made by many contributors. Solvent dynamics affects the electron
+transfer reaction rate when the solvent is sufficiently sluggish. As we showed
+recently with Sumi and Nadler, the solvent dynamics effect can also be
+modified significantly, when there are vibrational                contribution to λ.
+   Computational studies, such as the insightful one of David Chandler and
+c o w o r k e r s o n t h e F e2 + + F e3 + self-exchange reaction, have also been
+employed recently. Using computer simulations they obtained a verification
+of the parabolic G curves, even for surprisingly high values of the fluctu-
+ation in G. They also extended their studies to dynamical and quantum
+mechanical effects of the nuclear motion. Studies of the quantum mechani-
+cal effects on the nuclear motion on electron transfer reactions were
+irritated in 1959 by Levich and Dogonadze, who assumed a harmonic
+oscillator model for the polar solvent medium and employed perturbation
+theory. Their method was related to that used for other problems by Huang
+and Rhys (1951) and Kubo and Toyozawa (1954).
+   There were important subsequent developments by various authors on
+these quantum effects, including the first discussion of quantum effects for
+the vibrations of the reactants by Sutin in 1962 and the important work of
+Jortner and coworkers in 1974-75, who combined a Levich and Dogon-
+adze type approach to treat the high frequency vibrations of the reactants
+with the classical expression which I described earlier for the polar medium.
+These quantum effects have implications for the temperature dependence
+of k, among other effects. Proceeding in a different (classical) direction
+Saveant recently showed how to extend Eq. (5b) to reactions which involved
+
+
+90                                Chemistry 1992
+
+
+the rupture of a chemical bond by electron transfer and which he had
+previously studied experimentally: M(e) + RX            M + R + X-, where R is
+an alkyl group, X a halide and M a metal electrode.
+   A particularly important early development was that by Taube in the
+1950s; he received the Nobel Prize for his work in 1983. Taube introduced
+the idea of different mechanisms for electron transfer-outer sphere and
+inner sphere electron transfers, which he had investigated experimentally.
+His experimental work on charge transfer spectra of strongly interacting
+systems (“Creutz-Taube” ion, 1959, 1973) and of weakly interacting ones
+has been similarly influential. Also notable has been Hush’s theoretical work
+on charge transfer spectra, both of intensities and absorption maxima
+(1967), which supplemented his earlier theoretical study of electron trans-
+fer rates (1961).
+   There has been a “spin-off’ of the original electron transfer theory to
+other types of chemical reactions as well. In particular, the             vs ∆ G0
+relation and the cross-relation have been extended to these other reactions,
+such as the transfer of atoms, protons, or methyl groups. (Even an analog of
+Eqs. (5b) and (9), but for binding energies instead of energy barriers has
+been introduced to relate the stability of isolated protonbound dimers
+A H B+ to those of AHA+ and BHB + ! )
+   Since the transfer of these nuclei involves strong electronic interactions,
+it is not well represented by intersecting parabolic free energy curves, and
+so a different theoretical approach was needed. For this purpose I adapted
+(1968) a “bond-energy-bond-order” model of H. Johnston, in order to treat
+the problem for a reaction of the type given by Eq.(4). The resulting simple
+expression for          is similar to Eq.(5), when           is not large (< 1/2),
+but differs from it in not having any inverted region. It has the same λ
+property as that given by Eq.(9), and has resulted in a cross-relation analo-
+gous to Eq. (10). The cross-relation has been tested experimentally for the
+transfer of methyl groups by E. Lewis, and the          vs ∆ G0 relation has been
+used or tested for other transfers by Albery and by Kreevoy and their
+coworkers, among others.
+   It is naturally gratifying to see one’s theories used. A recent article, which
+showed the considerable growth in the use of papers such as the 1956 and
+1964 articles (ref. 5), points up the impressive and continued vitality of the
+field itself. The remarks above on many areas of electron transfer and on
+the spin-off of such work on the study of other types of reactions represent
+a necessarily brief picture of these broad-based investigations.
+
+
+ACKNOWLEDGMENTS
+My acknowledgments are to my many fellow researchers in the electron
+transfer held, notably Norman Sutin, with whom I have discussed so many
+of these matters for the past thirty or more years. I also thank my students
+and post-doctorals, whose presence was a constant source of stimulation to
+me, both in the electron transfer field and in the other fields of research
+
+
+                                                                             91
+
+
+
+
+             Reaction                 Observed         Calculated
+
+
+
+
+which we have explored. In its earliest stage and for much of this period this
+research was supported by the Office of Naval Research and also later by
+the National Science Foundation. The support of both agencies continues
+to this day and I am very pleased to acknowledge its value and timeliness
+here.
+   In my Nobel lecture, I concluded on a personal note with a slide of my
+great uncle, Henrik Steen (né Markus), who came to Sweden in 1892. He
+received his doctorate in theology from the University of Uppsala in 1915,
+and was an educator and a prolific writer of pedagogic books. As I noted in
+the biographical sketch in Les Prix Nobel, he was one of my childhood idols.
+Coming here, visiting with my Swedish relatives - some thirty or so descen-
+dants - has been an especially heartwarming experience for me and for my
+family. In a sense I feel that I owed him a debt, and that it is most fitting to
+acknowledge that debt here.
+
+
+92                                      Chemistry 1992
+
+
+REFERENCES
+Some of my relevant articles, largely from the 1956-65 period, are listed in ref.1
+below, and some general references which review the overall literature are listed in
+ref. 2. Several additional references for the Table and for the Figures are given in
+ref. 3. Classic texts on unimolecular reactions are given in ref. 4.
+1. R. A. Marcus, J. Chem. Phys. 24, 966 (1956); ibid., 24, 979 (1956); ibid., 26, 867
+    ( 1 9 5 7 ) ; ibid, 26, 872 ( 1 9 5 7 ) ; Trans. N. Y. Acad. Sci. 19, 423 (1957); ONR
+    Technical Report No. 12, Project NR 051-331 (1957), reproduced in Special
+    Topics in Electrochemistry, P. A. Rock, ed., Elsevier, New York, 1977, p. 181; Can.
+    J. Chem. 37, 155 (1959); Discussions Faraday Soc. 29, 21 (1960); J. Phys. Chem.
+    67, 853, 2889 (1963); J. Chem. Phys. 38, 1858 (1963); ibid., 39, 1734 (1963);
+    Ann. Rev. Phys. Chem. 15, 155 (1964); J. Chem. Phys. 43, 679 (1965); ibid., 43,
+     1261 (1965); ibid., 43, 2654 (1965), c( orr.) 52, 2803 (1970); J. Phys. Chem. 72,
+    891 (1968)
+2. R. A. Marcus and N. Sutin, Biochim. Biophys. Acta, 811, 265 (1985); J.R. Bolton, N.
+    Mataga and G. McLendon (eds.) Adv. Chem. Ser., 228, (1991), assorted articles; M.D.
+    Newton and N. Sutin, Ann. Rev. Phys. Chem., 35, 437 (1984); N. Sutin, Prog. Inorg.
+    Chem., 30, 441 (1983); M.D. Newton, Chem. Rev., 91, 767 (1991); J. Ulstrup, Charge
+     Transfer Processes in Condensed Media, Springer, New York, 1979; R.D. Cannon, Electron
+     Transfer Reactions, Butterworths, London, 1980; L. Eberson, Electron Transfer Reactions in
+     Organic Chemistry, Springer, NewYork, 1987; M.A. Fox and M. Chanon (eds.), Photoinduced
+    Electron Transfer, Elsevier, New York, 1988, 4 vols.; M.V. Twigg (ed.), Mechanisms of
+    Inorganic and Organometallic Reactions, vol. 7,1991, Chaps. 1 and 2, and earlier volumes;
+    R.A. Marcus and P. Siddarth, in Photoprocesses in Transition Metal Complexes , Biosystems and
+     Other Molecules: Experiment and Theory, E. Kochanski, ed., KIuwer, Norwall, Massachusetts,
+     1992, p. 49; S.S. Shaik, H.B. Schlegel and S. Wolfe, Theoretical Aspects of Physical Organic
+     Chemistry, J. Wiley, New York, 1992; N. Sutin, Pure & Applied Chem. 60, 1817 (1988);
+    Assorted articles in Chem. Revs. 92, No. 3 (1992); R.A. Marcus Commemorative Issue,
+    J. Phys. Chem. 90, (1986).
+3. L. E. Bennett, Prog. Inorg. Chem. 18, I (1973); J.R. Miller, L.T. Calcaterra and
+    G.L. Gloss, J. Am. Chem. Soc.106, 3047 (1984); J. Deisenhofer, O. Epp, K. Miki,
+     R. Huber and H. Michel, J.Mol.Biol. 180, 385 (1984); J. Deisenhofer and H.
+     Michel, Angew. Chem. Int. Ed. Engl. 28, 829 (1989); T.G. Yeates, H. Komiya, D.C.
+     Rees, J.P. Allen and G. Feher, Proc. Nat. Acad. Sci. 84, 6438 (1987).
+4. P. J. Robinson and H.A. Holbrook, Unimolecular Reactions, J.Wiley, New York
+     1972; W. Forst, Theory of Unimolecular Reactions, Academic Press, New York,
+     1973; cf also the very recent text, R.G. Gilbert and S.C. Smith, Theory of Unimole-
+    cular and Recombination Reactions, Blackwells, Oxford, 1990.
+5. Science Watch, 3, No. 9, November, 1992, p. 8.
+

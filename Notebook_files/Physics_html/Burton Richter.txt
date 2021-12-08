@@ -1,0 +1,1298 @@
+FROM THE PSI TO CHARM - THE EXPERIMENTS
+OF 1975 AND 1976
+Nobel Lecture, December 11, 1976
+by
+BURTON RICHTER
+Stanford University, Stanford, California, USA
+
+
+
+ 1. INTRODUCTION
+Exactly 25 months ago the announcement of the             particle by Professor
+Ting’s and my groups [1, 2] burst on the community of particle physicists.
+Nothing so strange and completely unexpected had happened in particle
+physics for many years. Ten days later my group found the second of the
+     [3] and the sense of excitement in the community intensified, The long
+awaited discovery of anything which would give a clue to the proper direction
+in which to move in understanding the elementary particles loosed a flood of
+theoretical papers that washed over the journals in the next year.
+   The experiments that I and my colleagues carried through in the two years
+after the discovery of the ψ have, I believe, selected from all the competing
+explanations the one that is probably correct. It is these experiments that I
+wish to describe. The rapid progress is a consequence of the power of the
+electron-positron colliding-beam technique, and so I also want to describe
+this technique and tell something of my involvement in it.
+
+2. COLLIDING BEAMS
+I completed my graduate studies at M.I.T. in 1956, and in the Fall of that
+year I took a position at the High-Energy Physics Laboratory (HEPL) at
+Stanford University. My main research interest at that time was in exploring
+the high momentum-transfer or short-distance behavior of quantum electro-
+dynamics (QED). My original plan for a QED experiment had been to use
+the 700-MeV electron linac at HEPL in a study of electron-electron scattering.
+Within a short time, however, I came to realize that a different experiment
+would be both technically simpler to carry out and would also probe QED
+more deeply (though somewhat differently). During my first year at HEPL
+I did this latter experiment, which involved the photoproduction of electron-
+positron pairs in which one of the members of the pair emerged at a large
+angle. This experiment succeeded in establishing the validity of QED down to
+distances of about 10 -l3 c m .
+
+2.1 The Stanford-Princeton Electron-Electron Storage Rings
+In 1957 the idea of an electron-electron scattering experiment came alive
+again, although in a much different form. This happened when G. K. O’Neill
+of Princeton University informally proposed the construction at HEPL of a
+figure 8-shaped set of rings capable of storing counter-rotating beams of
+electrons at energies up to 500 meV for each beam. In this plan the HEPL
+
+
+282                                 Physics 1976
+
+
+linac was to act as the injector for the rings, and the circulating electron beams
+would collide in the common straight section between the two rings. O’Neill’s
+aim was not only to demonstrate the feasibility of colliding electron beams, but
+also to carry out electron-electron scattering at an energy that could signif-
+icantly extend the range of validity of QED.
+   The potential of such an e-e-, colliding-beam experiment, with its total
+center-of-mass energy of 1000 MeV, was much greater than the ~ 50 MeV
+that would have been available to test QED in my original e - e - scattering
+idea. Thus when O’Neill asked me to join in this work, I accepted enthusiasti-
+cally and became an accelerator builder as well as an experimenter. With two
+other collaborators, W. C. Barber and B. Gittelman, we set out in 1958 to
+build the first large storage ring, and we hoped to have our first experimental
+results in perhaps three years. These results were not in fact forthcoming until
+seven years later, for there was much to learn about the behavior of beams
+in storage rings; but what we learned during that long and often frustrating
+time opened up a new field of particle physics research. [4]
+
+2.2 A Moment of Realization
+Let me digress here for a moment to recount a formative experience. In 1959,
+as the work on the HEPL rings progressed, I was also trying to learn some-
+thing about how to calculate cross sections in QED under the tutelage of
+Stanford theorist J. D. Bjorken. One of the problems Bjorken gave me was to
+calculate the cross section for the production of a pair of point-like particles
+having zero spin (bosons) in electron-positron annihilation. I carried out this
+calculation, but I was troubled by the fact that no point-like bosons were
+known to exist. The only spin-zero bosons I knew about were pions, and the
+strong interactions to which these particles were subject gave them a finite
+size. I realized that the structure function of the particle would have to enter
+into the cross section to account for this finite size. The structure function for
+the pion could be measured in an experiment in which e + e - annihilation
+resulted in the production of pion pairs. Further, the structures of any of the
+family of strongly interacting particles (hadrons) could be determined by
+measuring their production cross sections in e+ e - annihilation. It’s certain that
+many people had realized all this before, but it came as a revelation to me at
+that time, and it headed me firmly on the course that eventually led to this
+platform.
+
+2.3 The Electron-Positron Annihilation Process
+This connection between e + e - annihilation and hadrons is worth a brief
+elaboration here, since it is central to the experimental results I shall describe
+later. The method by which new particles are created in electron-positron
+collisions is a particularly simple one that I have always naively pictured in the
+following way. The unique annihilation process can occur only in the collision
+between a particle and its antiparticle. The process proceeds in two steps:
+ 1. The particle and antiparticle coalesce, and all the attributes that give
+      them their identities cancel. For a brief instant there is created a tiny
+
+
+                                     B. Richter                                 283
+
+
+    electromagnetic fireball of enormous energy density and precisely defined
+    quantum numbers:                      all others cancel out to zero.
+2. The energy within the fireball then rematerializes into any combination of
+    newly created particles that satisfies two criteria: (a) the total mass of the
+    created particles is less than or equal to the total energy of the fireball;
+    (b) the overall quantum numbers of the created particles are the same as
+    those of the fireball. There is no restriction on the individual particles that
+    comprise the final state, only on their sum.
+   The formation of the fireball or virtual-photon intermediate state in e+ e -
+annihilation is described in QED, a theory whose predictions have so far been
+confirmed by every experimental test. Since we therefore understand Step 1,
+the creation of the fireball, we are in a sense using the known e +e - annihilation
+process to probe the unknown hadrons that are produced in Step 2 of the pro-
+cess. Our ignorance is thus limited to the structure of the final-state hadrons
+and to the final-state interactions that occur when particles are created close
+together. And while that is a great deal of ignorance, it is much less than that
+of any other particle-production process. In addition, the quantum numbers
+of the final state in e+ e - annihilation are simple enough so that we can hope to
+calculate them from our theoretical models. This is in sharp contrast, for
+example, to high-energy hadron-hadron collisions, in which very many
+different angular-momentum states may be involved and thus must be cal-
+culated.
+
+2.4 The SPEAR Electron-Positron Storage Ring
+ In 1961, while work on the e - e - rings at HEPL continued, I began with D.
+Ritson of Stanford some preliminary design on a larger e + e - storage ring.
+In 1963 I moved from HEPL to the Stanford Linear Accelerator Center
+ (SLAC), and set up a small group to carry out the final design of the e+ e - ring.
+The design energy chosen was 3 GeV ( each beam). A preliminary proposal for
+this colliding-beam machine was completed in 1964, and in 1965 a full, formal
+proposal was submitted to the U.S. Atomic Energy Commission (now ERDA).
+   There followed a period of about five years before any funding for this
+proposed project could be obtained. During this time, other groups became
+convinced of the research potential of the e+ e - colliding-beam technique,
+and several other projects began construction. We watched this other activity
+enviously, worked at refining our own design, and tried to appropriate any
+good ideas the others had come up with. Finally, in 1970, funds were made
+available for a reduced version of our project, now called “SPEAR”, and we
+all fell to and managed to get it built in record time - some 21 months from
+the start of construction to the first beam collisions [5].
+   The SPEAR storage ring is located in a part of the large experimental area
+at the end of the 3-kilometer-long SLAC linac. The facility is shown sche-
+matically in Fig. 1. Short pulses of positrons, then electrons, are injected
+from the SLAC accelerator through alternate legs of the Y-shaped magnetic
+injection channel into the SPEAR ring. The stored beams actually consist of
+only a single short bunch of each kind of particle, and the bunches collide
+
+
+284                                 Physics 1976
+
+
+
+             EXPERIMENTAL   PIT,
+
+         ELECTRIC QUAD-
+
+
+
+                                                         NO. 3 RF CAVITY
+
+
+
+                                                               NO. 4 RF CAVITY
+
+
+
+
+                                                                  FAST FEED BACK
+
+
+
+                     POWER SUPPLY
+
+
+
+
+INJECTION BEAM.
+
+
+
+
+only at the mid-points of the two straight interaction areas on opposite sides of
+the machine. Special focusing magnets are used to give the beams a small
+cross-sectional area at these two interaction points. The time required to fill
+the ring with electrons and positrons is typically 15-30 minutes, while the
+data-taking periods between successive fillings are about 2 hours. To achieve
+this long lifetime, it is necessary to hold a pressure of about 5 x 1 0-9 torr in
+the vacuum chamber. The center-of-mass (c.m.) energy of the colliding e + e -
+system can be varied from 2.6 to 8 GeV. The radiofrequency power required
+to compensate for synchrotron radiation losses rises to 300 kilowatts at the
+maximum operating energy. The volume within which the e + e - collisions
+occur is small and well-defined (        x   x   = 0.1 x 0.01 x 5 cm 3), which is
+a great convenience for detection.
+
+2.5 The Mark I Magnetic Detector
+While SPEAR was being designed, we were also thinking about the kind of
+experimental apparatus that would be needed to carry out the physics. In
+the 1965 SPEAR proposal, we had described two different kinds of detectors:
+the first, a non-magnetic detector that would have looked only at particle
+multiplicities and angular distributions, with some rather crude particle-
+identification capability; the second, a magnetic detector that could add
+accurate momentum measurement to these other capabilities. When the early
+results in 1969, from the ADONE storage ring at Frascati, Italy, indicated
+
+
+                                           B. Richter                      285
+
+
+that hadrons were being produced more copiously than expected, I decided
+that it would be very important to learn more about the final states than
+could be done with the non-magnetic detector.
+   Confronted thus with the enlarged task of building not only the SPEAR
+facility itself but also a large and complex magnetic detector, I began to face
+up to the fact that my group at SLAC had bitten off more than it could
+reasonably chew, and began to search out possible collaborators. We were
+soon joined by the groups of M. Perl, of SLAC; and W. Chinowsky, G. Gold-
+haber and G. Trilling of the University of California’s Lawrence Radiation
+Laboratory (LBL). This added manpower included physicists, graduate
+students, engineers, programmers and technicians. My group was responsible
+for the construction of SPEAR and for the inner core of the magnetic detector,
+while our collaborators built much of the particle-identification apparatus and
+also did most of the programming work that was necessary to find tracks and
+reconstruct events.
+   This collaborative effort results in the Mark 1 magnetic detector, shown
+schematically in Fig. 2. The Mark I magnet produces a solenoidal field,
+coaxial with the beams, of about 4 kilogauss throughout a field volume of
+about 20 cubic meters. Particles moving radially outward from the beam-
+interaction point pass successively through the following elements: the beam
+vacuum pipe; a trigger counter; 16 concentric cylinders of magnetostrictive
+wire spark chambers that provide tracking information for momentum
+measurements; a cylindrical array of 48 scintillators that act as both trigger
+and time-of-flight counters; the one-radiation-length thick aluminium magnet
+coil; a cylindrical array of 24 lead-scintillator shower counters that provide
+
+
+                  MUON SPARK CHAMBERS
+
+                  FLUX RETURN----------,
+
+                  SHOWER COUNTERS
+
+
+
+
+                  COMPENSATING SOLENOID
+
+
+
+
+        ‘-LUMINOSITY   MONITOR
+
+2. An exploded view of the SLAG-LBL magnetic detector.
+
+
+286                                Physics 1976
+
+
+electron identification; the 20-cm-thick iron flux-return plates of the magnet;
+and finally an additional array of plane spark chambers used to separate
+muons from hadrons.
+   The Mark I magnetic detector was ready to begin taking data in February
+ 1973. During the fall of 1977 it will be replaced at SPEAR by a generally
+similar device, the Mark II, that will incorporate a number of important
+improvements. During its career, however, the Mark I has produced a re-
+markable amount of spectacular physics [6].
+
+3. EARLY EXPERIMENTAL RESULTS
+I would like to set the stage for the description of the journey from the       to
+charm by briefly reviewing here the situation that existed just before the
+discovery of the new particles. The main international conference in high-
+energy physics during 1974 was held in July in London. I presented a talk at
+the London Conference [7] in which I tried to summarize what had been
+learned up until that time about the production of hadrons in e +e - annihilation.
+This information, shown in Fig. 3, will require a little bit of explanation.
+                                          8
+
+
+
+
+                                          6
+
+
+
+
+3. The ratio R as of July 1974.
+
+
+
+
+3.1. The Hadron/Muon-Pair Ratio
+Measurements of the process e + e - → h a d .       can be presented straight-
+forwardly in a graph which plots the hadron-production cross section against
+the c.m. energy of the colliding e + e - system. For reasons that I shall explain
+later, it has become common practice to replace the hadron-production cross
+section in such graphs by the following ratio:
+
+                                                                              (1)
+
+
+                                              B. Richter                               287
+
+
+It is that ratio R that is plotted vs. c.m. energy in Fig. 3. Historically, the
+earliest measurements of R were made at the ADONE ring at Frascati; these
+occupy the lower-energy region of the graph, and they indicate values of
+R ranging from less than 1 to about 6. These were followed by two important
+measurements of R made at the storage ring that had been created by rebuild-
+ing the Cambridge Electron Accelerator (CEA) at Harvard; the CEA mea-
+surements gave an R value of about 5 at         of 4 GeV, and R ≅ 6 at 5 GeV.
+The early experimental results from the SLAC-LBL experiment at SPEAR
+filled in some of the gap between the ADONE and CEA results, and between
+the two CEA points, in a consistent manner; that is, the SPEAR data appear
+to join smoothly onto both the lower and higher energy data from ADONE
+and from CEA. With the exception of the experimental points at the very
+lowest energies, the general picture conveyed by Fig. 3 is that the value of R
+seems to rise smoothly from perhaps 2 to 6 as         increases from about 2 to
+5 GeV.
+
+3.2. The Theoretical Predictions
+During the same London Conference in 1974, J. Ellis of CERN [8] undertook
+the complementary task of summarizing the process                         from a
+theoretical point of view. Once again, the predictions of many different theories
+could most conveniently be expressed in terms of the hadron/muon-pair ratio
+R rather than directly as hadron-production cross sections. The most widely
+accepted theory of the hadrons at that time gave the prediction that R = 2 ;
+but there were many theories. Let me illustrate this by reproducing here, as
+Table I, the compilation of R predictions that Ellis included in his London
+Talk. As this table shows, these predictions of the hadron/muon-pair ratio
+ranged upward from 0.36 to         with many a stop along the way.
+   I included this table to emphasize the situation that prevailed in the Sum-
+mer of 1974 - vast confusion. The cause of the confusion lay in the paucity
+of e+ e - data and the lack of experimental clues to the proper direction from
+elsewhere in particle physics. The clue lay just around the next corner, but
+that corner itself appeared as a totally unexpected turn in the road.
+
+
+
+
+Table I. Table of Values of R from the Talk by J. Ellis at the 1974 London Conference
+[8] (references in table from Ellis’s talk)
+
+Value            Model
+0.36             Bethe-Salpeter bound quarks                 Bohm et al., Ref .42
+2/3              Gell-Mann-Zweig     quarks
+0.69             Generalized vector meson dominance          Renard, Ref. 49
+~1               Composite quarks                            Raitio, Ref. 43
+10/9             Gell-Mann-Zweig with charm                  Glashow et al., Ref. 31
+2                Colored quarks
+2.5 to 3         Generalized vector meson dominance           Greco, Ref. 30
+2 to 5           Generalized vector meson dominance          Sakurai, Gounaris, Ref,
+                                                               47
+
+
+288                                         Physics 1976
+
+
+3-1/3            Colored charmed quarks                              Glashow et al., Ref. 31
+
+4                Han-Nambu quarks                                   Han and Nambu. Ref. 32
+
+5.7±0.9          Trace anomaly and p dominance                      Terazawa, Ref. 27
+5.8+3.2          Trace anomaly and         dominance                Orito et al., Ref. 25
+   -3.5
+
+6                Han-Nambu with charm                               Han and Nambu, Ref. 32
+
+6.69 to 7.77     Broken scale invariance                             Choudhury, Ref. 18
+8                Tati quarks                                        Han and Nambu, Ref. 32
+
+8 ± 2            Trace anomaly, and        dominance                Eliezer, Ref. 26
+9                Gravitational cut-off, Universality                 Parisi, Ref. 40
+9                Broken scale invariance                            Yachtmann. Ref. 39
+16               S U1 2 x S U2 )
+                                   gauge models                     Fritzsch & Minkowski.
+35-1/3           SU 1 6 X S U1 6)                                      Ref. 34
+~    5000        High      quarks
+                                                                    Yock. Ref. 73
+70,383           Schwinger’s quarks )
+                     of partons                                     Cabibbo and Karl, Ref. 9
+                                                                    Matveev and Tolkachev,
+                                                                       Ref. 35
+                                                                    Rozenblit. Ref. 36
+
+
+
+4. THE PSI PARTICLES
+
+4.1. Widths of the Psi Resonances
+Figure 4 shows the cross section for hadron production at SPEAR on a scale
+where all of the data can be plotted on a single graph. This figure is clearly
+dominated by the giant resonance peaks of the ψ and the ψ'.The extreme
+
+
+
+
+4. The total cross section of hadron production vs. center-of-mass energy.
+
+
+                                             B. Richter                                       289
+
+
+
+
+      IO
+b
+
+                                                           0
+                                                          60
+
+
+
+
+5. Hadron. µ + µ - a n d e+ e - pair production cross section in the regions of the ψ a n d   The
+curves arc fits to the data using the energy spread in the colliding beams as the determinant
+of the widths.
+
+
+narrowness of the peaks implies that these two states are very long-lived,
+which is the principal reason why they could not be accounted for by the
+previously successful model of hadronic structure. In Fig. 5 we show the ψ
+and    peaks on a greatly expanded energy scale, and also as they are measured
+for three different decay modes:                               and
+In this figure the ψ and    peaks can be seen to have experimental widths of
+about 2 MeV and 3 MeV, respectively. These observed widths are just about
+what would be expected from the intrinsic spread in energies that exists within
+the positron and electron beams alone, which means that the true widths of
+the two states must be very much narrower. The true widths can be determined
+accurately from the areas that are included under the peaks in Fig. 5 and are
+given by the following expression:
+
+
+
+
+where     is the cross section to produce final state i, Bi is the branching fraction
+to that state, B e is the branching fraction to e + e -, M is the mass of the state,
+and     is its total width. The analysis is somewhat complicated by radiative
+corrections but can be done, with the result that [9]
+
+                                                                                              (3)
+
+
+290                                   Physics 1976
+
+
+The widths that would be expected if the psi particles were conventional
+hadrons are about 20% ( of their masses. Thus the new states are several thousand
+times narrower than those expected on the basis of the conventional model.
+
+4.2. Psi Quantum Numbers
+The quantum numbers of the new psi states were expected to be                       = l--
+because of their direct production in e + e - annihilation and also because of
+the equal decay rates to e + e - and        In so new a phenomenon, however,
+anything can go, and so that assumption needed to be confirmed. In particular,
+one of the tentative explanations of the psi particles was that they might be
+related to the hypothetical intermediate vector boson, a particle that had
+long been posited as the carrier of the weak force. Such an identification
+would permit the psi’s to be a mixture of        = l -- and 1 +- . T h e s e q u a n t u m
+numbers can be studied by looking for an interference effect between on- and
+off-peak production of muon pairs, since the latter is known to be pure 1 --. If
+the new particles were also 1 ---, then an interference should occur and produce
+two recognizable effects: a small dip in the cross section below the peak, and
+an apparent shift in the position of the peak relative to that observed in the
+hadron channels. In addition, any admixture of l +- could be expected to
+show up as a forward/backward asymmetry in the observed angular distri-
+bution.
+   This analysis was carried out as soon as there were sufficient data available
+for the purpose. The postulated interference effect was in fact observed, as
+shown in Fig. 6, while no angular asymmetry was seen [8, 9]. Thus both of
+the psi states were firmly established as        =
+
+
+                                                      B. Richter                                                   291
+
+
+4.3. Psi Decay Modes
+We also studied the many decay modes of the ψ and            In these studies it
+was important to distinguish between direct and “second-order” decay pro-
+cesses, a point that is illustrated in Fig. 7. This figure shows the following
+
+
+
+
+                                                                                                                   (4)
+
+
+
+
+7. Feynmnn diagrams for ψ production and (a) direct decay to hadrons, (b) second-order
+electromagnetic decay to hadrons. a n d ( c ) s e c o n d - o r d e r e l e c t r o m a g n e t i c d e c a y t o µ µ .
+                                                                                                                   + -
+
+
+
+
+In processes (b) and (c), hadrons and muon-pairs are produced by virtual
+photons in exactly the same way that they are produced at off-resonance
+energies. If the observed hadrons were produced only through second-order
+electromagnetic decay, then the hadron/muon-pair production ratio, R, would
+be the same on-resonance as off. This is decidedly not the case. Since R is
+much larger on-resonance than off, both ψ and           do have direct hadronic
+decays.
+   More branching fractions for specific hadronic channels have been measured
+for the ψ and     than for any other particles. Most of these are of interest only
+to the specialist, but a few have told us a good deal about the psi particles.
+Since the second-order electromagnetic decays also complicate these analyses,
+we must again make on- and off-resonance comparisons between muon-pair
+production and the production of specific hadronic final states. In Fig. 8 we
+show such a comparison plotted against the number of pions observed in the
+final state [10]. Even numbers of pions observed are consistent with what is
+
+
+292                                Physics 1976
+
+
+
+
+expected from second-order electromagnetic decays, while the observed odd-
+pion decays are much enhanced. The ψ decays appear, from these data, to be
+governed by a certain selection rule (G-parity conservation) that is known
+to govern only the behavior of hadrons, thus indicating that the ψ itself is a
+hadron.
+
+
+
+
+4.4. Search for Other Narrow Resonances
+By operating the SPEAR storage ring in a “scanning” mode, we have been
+able to carry out a systematic search for any other very narrow, psi-like
+resonances that may exist. In this scanning mode, the ring is filled and set to
+the initial energy for the scan; data are taken for a minute or two; the ring
+energy is increased by about an MeV; data are taken again; and so forth.
+Figure 9 shows these scan data from c.m. energies of about 3.2 to 8 GeV
+[11, 12]. No statistically significant peaks (other than the gf that was found
+in our first scan) were observed in this search, but this needs two qualifications.
+The first is that the sensitivity of the search extends down to a limit on possible
+resonances that have a cross section x width of about 5% to 10%, of that of
+the ψ. The second qualification is that the particular method of search is
+sensitive only to extremely narrow resonances like the ψ and           other, much
+broader resonances have been found at SPEAR, and we shall soon see how
+these apparently much different states fit into the picture.
+
+
+                                    B. Richter                              293
+
+
+
+
+  6
+
+
+
+
+  0.6
+
+
+
+
+5. THE INTERMEDIATE STATES
+
+5.1. Radiative Transitions
+There are other new states, related to the ψ and       but not directly produced
+in e+ e - annihilation, which are observed among the decay products of the
+two psi particles. More specifically, these new states are produced when either
+ψ or       decays through the emission of a gamma-ray:
+
+                                                                             (6)
+
+
+294                                Physics 1976
+
+
+At least four (perhaps five) distinct intermediate states produced in this way
+have been observed experimentally.
+   The first such observation was made by an international collaboration
+working at the DORIS e + e - storage ring at the DESY laboratory in Ham-
+burg [13]. This state was named P C , and its mass was found to be about
+3500 MeV. This same group [14] in collaboration with another group working
+at DESY later found some evidence for another possible state, which they
+called X, at about 1800 MeV [15]. At SPEAR, the SLAC-LBL group has
+identified states with masses of about 3415, 3450 and 3550 MeV, and has
+also confirmed the existence of the DESY 3500-MeV state. We have used the
+name x to distinguish the state intermediate in mass between the ψ(3095) and
+the           To summarize these new states :
+
+
+
+
+5.2. Three Methods of Search
+The three methods we have used at SPEAR to search for these intermediate
+states are indicated schematically in Fig. 10. To begin with, the storage ring is
+operated at the center-of-mass energy of 3684 MeV that is required for
+resonant production of the       In the first search method, Fig. 10(a),    decays
+to the intermediate state then decays to the ψ through              emission; and
+finally the ψ decays, for example, into          The muon-pair is detected along
+with one or both of the y-ray photons. This was the method used at DESY
+to find the 3500-MeV state and also by our group at SLAC to confirm this
+state [16]. In our apparatus at SPEAR, it will occasionally happen that one
+of the two        photons converts into an e+e - pair before entering the tracking
+region of the detector. This allows the energy of the converting             to be
+
+
+                                      B. Richter                              295
+
+
+  measured very accurately, and this information can be combined with the
+  measured momenta of the final µ + µ - pair to make a two-fold ambiguous
+  determination of the mass of the intermediate state. The ambiguity arises from
+  the uncertainty in knowing whether the first or the second gamma-rays in the
+  decay cascade have been detected. It can be resolved by accumulating enough
+  events; to determine which assumption results in the narrower mass peak.
+  The peak associated with the second               will be Doppler broadened
+  because these photons are emitted from moving sources.) Figure 11 shows the
+  alternate low- and high-mass solutions for a sample of our data [17]. There
+  appears to be clear evidence for states at about 3.45, 3.5 and 3.55 GeV.
+     The second search method we have used, Fig. 10(b), involves measuring
+  the momenta of the final-state hadrons and reconstructing the mass of the
+  intermediate state [18]. Figure 12 shows two cases in which the effective
+  mass of the final-state hadrons recoils against a missing mass of zero (that is,
+  a         In the case where 4 pions are detected, peaks are seen at about
+  3.4, 3.5 and 3.55 GeV. In contrast, the 2-pion or 2-kaon case shows only one
+  clear peak at 3.4 GeV, with perhaps a hint of something at 3.55 GeV. The
+  appearance of the 2-pion or 2-kaon decay modes indicates that the quantum
+  numbers of the states in question must be either 0 ++ or 2+ + .
+
+
+
+
+3.25
+
+
+
+
+3.20
+
+
+296                                 Physics 1976
+
+
+   In the third method of search, Fig. 10(c), only a single γ -ray is detected.
+ The presence of a monoenergetic y-ray line would signal a radiative transition
+directly to a specific intermediate state. In our apparatus, this method is
+difficult to apply because of the severe background problems, but we were
+able to identify the direct γ -ray transition to the 3.4 GeV state [17]. A different
+experimental group working at SPEAR ( a collaboration among the Uni-
+versities of Maryland, Princeton, Pavia, Stanford and UC-San Diego) was
+able to make use of a more refined detection system to observe several of these
+radiative transitions and to measure the branching franctions of those states [19]
+.
+   To summarize, these studies have led to the addition of four (the 2800-MeV
+state is still marginal) new intermediate state, all with charge-conjugation
+C = + 1, to the original ψ and    particles.
+
+6. TOTAL CROSS SECTION AND BROADER STATES
+
+6.1. Total Cross Section
+So far our discussion of the process e+ e -→hadrons has been concerned largely
+with the two psi particles, which are created directly in e + e - annihilation, and
+with the intermediate states, which are not directly created but rather appear
+only in the decay products of the ψ and       It is now time to turn our attention
+to the larger picture of hadron production to see what else can be learned.
+   Figure 4 presented the total cross section for e+e - →hadrons over the full
+range of c.m. energies accessible to SPEAR. This figure was dominated by the
+ψ and     resonance peaks, and very little else about the possible structure of the
+cross section outside of these peaks was observable. We now remedy this
+situation in Fig. 13, which shows the hadron/muon-pair ratio R, with the
+dominating ψ and      resonance peaks removed, including their radiative tails.
+
+
+
+
+    8   -
+
+
+
+
+    6   -
+
+
+                                    B. Richter                                297
+
+
+We can characterize the data in the following way. Below about 3.8 GeV, R
+lies on a roughly constant plateau at a value of        there is a complex
+transition region between about 3.8 and perhaps 5 GeV in which there is
+considerable structure; and above about 5.5 GeV, R once again lies on a
+roughly constant plateau at a value of       GeV.
+
+6.2. Broader (Psi?) States
+The transition region is shown on a much expanded energy scale in Fig. 14.
+This figure clearly shows that there seem to be several individual resonant
+states superposed on the rising background curve that connects the lower and
+upper plateau regions [20]. One state stands out quite clearly at a mass of
+3.95 GeV, and another at about 4.4 GeV. The region near 4.1 GeV is re-
+markably complex and is probably composed of two or more overlapping
+states; more data will certainly be required to try to sort this out.
+
+
+
+
+                                       6
+
+
+
+
+                                       4
+
+
+
+
+                                       3
+
+
+
+
+   The properties of the several states within the transition region are very
+difficult to determine with any precision. One obvious problem is that these
+resonances sit on a rapidly rising background whose exact shape is presently
+neither clear experimentally nor calculable theoretically. Since these new
+states are, like the     produced directly in e + e - annihilation, they all have
+      =     and can therefore interfere with each other, thus distorting the
+classical resonance shape that would normally be expected from a new
+particle. Additional shape-distortion might be expected because new particle-
+production thresholds are almost certainly opening up in the transition region
+between the lower and upper plateaus. While precise properties can’t be given
+for the new states, we can get some rough numbers from the data. The 3.95-
+GeV state         has a width of about 40-50 MeV. The 4.4-GeV state (ψ”“)
+seems to be about 30-MeV wide. The 4.1-GeV region (temporarily called
+      seems to consist of at least two peaks: one at 4.03 GeV, which is 10-20
+MeV wide, and a broad enhancement at 4.1 GeV, about 100-MeV wide.
+
+
+298                                  Physics 1976
+
+
+   The widths of all of these states are much greater than the intrinsic energy
+spread in the e + e - beams, and very much greater than the widths of the ψ
+and      The suspicion remains, however, that they may still be correctly
+identified as members of the psi sequence, and that the vast apparent differences
+between their widths and those of the ψ and        may result simply from the
+fact that the higher mass states can undergo rapid hadronic decay through
+new channels that have opened up above the 3684-MeV mass of the               As
+with most of the questions in the transition region, this matter will require a
+good deal more experimental study before it is resolved. In the meantime,
+however, we shall tentatively add the three or four new psi-like states shown
+above to the growing list of members of the "psion" family.
+
+
+
+Up to this point, we have been cataloguing new particles without much
+worrying about what it all means. Granting full status to even the several
+doubtful states, we have a total of 11 new particles. These are grouped together
+in Fig. 15 in a kind of energy-level diagram, which also includes principal
+decay modes.
+   The system shown in Fig. 15, with its radiative transitions, looks remarkably
+like the energy-level diagram of a simple atom, in fact like the simplest of all
+“atoms’‘-positronium, the bound state of an electron and a positron. Although
+the mass scale for this new positronium is much larger than that of the old,
+the observed states of the new system can be placed in a one-to-one corresp-
+ondence with the levels expected for a bound fermion-antifermion system
+such as e+ e -. Table II shows these predicted levels together with the most
+probable assignments of the new particles to the appropriate levels. To gain
+some insight into the origins of the new positronium system, let’s now turn
+to some specific theoretical models.
+
+
+
+
+15. An energy-level diagram of the new particles. The many observed decay modes of the
+psi family have been omitted.
+
+
+                                        B. Richter                                    299
+
+
+Table II. Some of the low lying bound states of a fermion-antifermion system together with
+an assignment of the new particle to states with appropriate quantum numbers.
+
+State             L                                                       Particle
+
+                  0
+                  0
+                  0
+                  2
+                  2
+                  0
+                  0
+                  I
+                  I
+                  1
+
+
+
+
+7.1. The 3-Quark Model
+Some 25 years ago, when only three kinds of hadrons were known (proton,
+neutron and pi-meson), these particles were universally regarded as simple,
+indivisible, elementary objects. In those days the central task in hadron physics
+was the effort to understand the strong nuclear force between protons and
+neutrons in terms of pi-meson exchange. But as the family of hadrons grew
+steadily larger (they are now numbered in the hundreds), it became increas-
+ingly difficult to conceive of them all as elementary. In 1963, M. Gell-Mann
+and G. Zweig independently proposed a solution to this dilema - that none
+of the hadrons was elementary, but rather that all were complex structures
+in themselves and were built up from different combinations of only three
+fundamental entities called quarks. These quarks were assumed to carry the
+familiar l/2 unit of spin of fermions, but also to have such unfamiliar prop-
+erties as fractional electric charge and baryon number. A brief listing of the
+3 quarks and 3 antiquarks and their properties is given in Table III.
+
+Table III. Properties of the 3 Quarks and 3 Antiquarks
+
+
+
+
+  According to this 3-quark model, all mesons were made up of one quark
+and one antiquark; ail baryons, of three quarks; and all antibaryons, of three
+antiquarks. The quark compositions of some of the better known hadrons are
+shown here as examples:
+                                                      - - -
+                                                                                       (8)
+
+
+300                                 Physics 1976
+
+
+Prior to 1974, all of the known hadrons could be accommodated within this
+basic scheme. Three of the possible meson combinations of quark-antiquark
+     dd,    could have the same quantum numbers as the photon, and hence
+could be produced abundantly in e+ e - annihilation. These three predicted
+states had all infact been found; they were the familiar               and
+   1005) vector mesons.
+
+7.2. R in the Quark Model
+The quark model postulated a somewhat different mechanism for the process
+e+-e--+hadrons than that previously described. For comparison,
+
+
+
+
+16. Hadron production in the quark model.
+
+
+
+
+   Since the quarks are assumed to be elementary, point-like fermions and thus
+similar to electrons and muons in their electromagnetic properties, it was
+possible to predict the ratio that should exist between the producton cross
+sections for quark pairs and muon pairs:
+
+
+
+
+where q is simply the quark’s electric charge. Of course, quarks were supposed
+        i
+
+
+to have half-integral spin and fractional charge in the final state, while all
+hadrons have integral charge and some hadrons have integral spin. In a
+breathtaking bit of daring it was assumed that the “final-state” interactions
+between quarks that were necessary to eliminate fractional charge and half-
+integral spin would have no effect on the basic production cross section. With
+this assumption the ratio of hadron production to muon-pair production
+becomes simply
+
+
+
+As developed up to 1974, the quark model actually included 3 triplets of
+quarks, rather than simply 3 quarks, so that with this 3 x 3 model the hadron/
+muon-pair ration, R, would be
+
+
+                                     B. Richter                               301
+
+
+   This beautiful model had great simplicity and explanatory power, but it
+could not accommodate the ψ and        particles. Nor could it account for the
+two plateaus that were observed in the measured values of R. The model
+allowed for excited states of         and      but the required widths were
+typically some 20% of the mass of the excited state - more than 1000 times
+broader than the observed widths of the ψ and       Before that time there had
+been a number of suggested modifications or additions to the basic 3-quark
+scheme. I shall not describe these proposed revisions here except for the one
+specific model which seems now to best fit the experimental facts.
+
+7.3. A Fourth Quark
+The first publications of a theory based on 4 rather than 3 basic quarks go
+all the way back to 1964 [21], only a year or so after the original Gell- Mann/
+Zweig 3-quark scheme. The motivation at that time was more esthetic than
+practical, and these models gradually expired for want of an experimental
+fact that called for more than a S-quark explanation. In 1970, Glashow,
+Iliopolous and Maiani [22] breathed life back into the 4-quark model in an
+elegant paper that dealt with the weak rather than the strong interactions. In
+this work the fourth quark - which had earlier been christened by Glashow
+the “charmed” quark (c) - was used to explain the non-occurrence of certain
+weak decays of strange particles in a very simple and straight-forward way.
+The new c quark was assumed to have a charge of +2/3, like the u quark,
+and also to carry + 1 unit of a previously unknown quantum number called
+charm, which was conserved in both the strong and electromagnetic inter-
+actions but not in the weak interactions. The c and       quarks were also re-
+quired to have masses somewhat larger than the effective mass of the 3 original
+quarks, and it was clear that they should be able to combine with the older
+quarks and antiquarks to form many new kinds of “charmed” hadrons [23].
+
+7.4. "Charmonium”
+The 4-quark theoretical model became much more compelling with the
+discovery of the psi particles. This model postulates that the ψ is the lowest
+mass      system which has the quantum numbers of the photon. The            long
+life is explained by the fact that the decay of the ψ into ordinary hadrons
+requires the conversion of both c and into other quarks and antiquarks. The
+positronium-like energy-level states of the psions discussed earlier are also
+well accounted for by the         system; indeed, 5 specific intermediate states
+were predicted by Applequist et al. [24], and by Eichten et al. [25], before they
+were actually discovered. It was the close analogy with positronium that led
+Applequist and Politzer to christen the new       system charmonium, a name
+that has caught on.
+   The 4-quark model also requires two plateaus on R. Above the threshold
+for charmed-hadron production, the R = 2 calculation made above must be
+modified by the addition of the fourth quark’s charge, which results in a
+prediction of R = 10/3 (not enough, but in the right direction). The broad
+psi-like states at 3.95, 4.1, and 4.4 GeV are accounted for by postulating that
+
+
+302                               Physics 1976
+
+
+the mass of the lightest charmed particle is less than half the mass of the
+(3950) but more than half the mass of the very narrow             which means
+that     can decay strongly to charmed-particle pairs, but     cannot.
+   To summarize briefly, the 4-quark model of the hadrons seemed to account
+in at least a qualitative fashion for all of the main experimental information
+that had been gathered about the psions, and by the early part of 1976 the
+consensus for charm had become quite strong. The         system of charmonium
+had provided indirect but persuasive evidence for a fourth, charmed quark,
+but there remained one very obvious and critically important open question.
+The particles formed by the     system are not in themselves charmed particles,
+since charm and anticharm cancel out to zero. But it is necessary to the theory
+that particles which exhibit charm exist          cd, etc.). What was needed,
+then, was simply the direct experimental observation of charmed particles,
+and the question was: Where were they [26]?
+
+8. THE DISCOVERY OF CHARM
+
+8.1. What are We Looking For?
+By early 1976 a great deal had been learned about the properties that the
+sought-after charmed particles must have. As an example, it was clear that
+the mass of the lightest of these particles, the charmed D meson, had to fall
+within the range
+
+                                                                            (13)
+The lower limit was arrived at by noting once again that the              was
+very narrow and therefore could not decay into charmed particles, and also
+that the upper limit had to be consistent with the beginning of the rise of R
+from its lower to its upper plateau. Since the principal decay product of the
+c quark was assumed for compelling reasons to be the s quark, then the decay
+products of charmed particles must preferentially contain strange particlcs
+such as the K mesons. The charmed D mesons, for example, could con-
+fidently be expected to have the following identifiable decay modes:
+
+
+
+
+A further point was that, since the charmed quark would decay only through
+the weak interactions, one might reasonably expect to see evidence of parity
+violation in the decays of the D mesons.
+   At SPEAR our collaboration had looked for such charm signatures in the
+limited data taken before the psi discoveries, but without success. As the post-
+psi data accumulated throughout 1975, it was evident that we should have
+another go at it, with particular emphasis on the results obtained at energies
+close to the expected charm threshold, where the simplest charmed mesons
+would be produced without serious masking effects from extraneous back-
+ground. Since I spent the academic year 1975-76 on sabbatical leave at
+CERN, this chapter of the charmed-particle story belongs to my collaborators.
+
+
+                                     B. Richter                               303
+
+
+8.2. The Charmed Meson
+ With the advantages of a much larger data sample and an improvement in the
+ method of distinguishing between pi- and K-mesons in the Mark I detector,
+ a renewed search for charmed particles was begun in 1976. Positive results
+ were not long in coming. The first resonance to turn up in the analysis was
+ one in the mass distribution of the twoparticle system K + π+ in multiparticle
+ events [27]. The evidence for this is shown in Fig. 17. This was the first direct
+ indication of what might be the D meson, for the mass of 1865 MeV was in
+just the right region. If it was the     then presumably the production process
+was :
+
+
+
+
+‘The branching fraction was a little low compared to the charm-model pre-
+dictions, but not alarmingly so. The measured width of the resonance was
+consistent with the resolution of our apparatus, which in this case was de-
+termined by the momentum resolution of the detector rather than by the more
+precise energy resolution of the circulating beams. The measured upper bound
+on the full width was about 40 MeV; the actual value could well be much
+smaller, as a weak-interaction decay of the D meson would require.
+   Continuing analysis of the data yielded two more persuasive findings. The
+first was a resonance in               or             which appears to be an
+alternate decay mode of the       since the mass is also 1865 MeV. The second
+
+
+304                                    Physics 1976
+
+
+was the discovery of the charged companions [28] of the         which were ob-
+served at the slightly larger mass of 1875 MeV in the following decay channels :
+
+
+
+
+The data for the charged D states are shown in Fig. 18. It is important to
+note that these states are not observed in three-body decay when the pions
+are oppositely charged:
+
+
+
+
+                                                      60
+
+
+
+
+18. The invariant mass distribution of the
+      system. The      appears in the plot (a)
+with same-sign pions and not in the plot (b)
+with opposite-sign pions.
+
+
+
+
+This is precisely what is required by the charmed-quark model. In addition
+to the clear identification of both neutral and charged D mesons, an excited
+state [29] of this meson (D*) has also turned up and has been seen to decay to
+the ground state by both strong and electromagnetic interactions:
+
+
+
+
+   Since we have several times mentioned the possibility that the psi-like states
+having masses above that of the             may be much broader than ψ a n d
+    because they are able to decay strongly into charmed-particle pairs, it is
+interesting to note that this speculation has now been confirmed in the case
+of the            It now appears, in fact, that the following are the principal
+decay modes of this particle:
+
+
+                                             B. Richter                         305
+
+
+
+
+  As a final bit of evidence in support of the charmed-meson interpretation
+of the experimental data, the predicted parity violation in D decay has also
+been observed. In the decay process                   the K and π e a c h h a v e
+spin-0 and odd intrinsic parity. This means that any spin possessed by the
+must show up as orbital angular momentum in the          system, and thus that
+the parity of the    must be given by
+
+
+
+
+   The experimental data that have been described here arc strikingly con-
+sistent with the predictions of the 4-quark or charm theory of the hadrons, and
+there is little doubt that charmed particles have now in fact been found. In
+addition to these charmed mesons uncovered at SPEAR, there has been
+recent information from Fermilab that a collaborative group working there
+under Wonyong Lee has now discovered the first of the charmed baryons [31]
+actually an antibaryon designed        to identify it as the charmed counterpart
+of the Λ.
+
+9. OBSERVATION OF JETS
+While this topic is not directly connected with the new particles, it does have
+a direct bearing on the validity of the quark model. As I noted earlier, the
+picture of e + e - annihilation that is derived from the quark model indicates
+that the final-state hadrons do not come directly from the virtual-photon
+intermediate state, but rather from the quark-antiquark pair that is first
+created from the electromagnetic fireball and subsequently forms the final
+hadrons. These hadrons are produced with low transverse momenta with
+respect to the       direction, and as illustrated in Fig. 19, if the energy is suf-
+ficiently high, form two collimated jets of particles whose axes lie along the
+original      direction.
+
+
+
+
+                                                             Jet
+
+19. Jet production in the quark model   l.
+
+
+306                                Physics 1976
+
+
+   At SPEAR we have analyzed our highest-energy data [32] by determining
+for each event those particular axes that minimize the transverse momentum
+relative to those axes for all of the observed particles. This method of analysis
+leads to the definition of a quantity we have called “sphericity,” which is
+related to the quadrupole moment of the particle distribution in momentum
+space. The more jet-like event, the lower the sphericity. Figure 20 shows the
+data compared to the jet model and to an “isotropic” model with no jet-like
+characteristics. As the energy increases, the events do become more jet-like
+as required. The result was excellent agreement, not only in the general sense
+but also in the finding that the angular distribution of the jet axes was con-
+sistent with the 1         distribution that is expected if the jets originate from
+parent particles of spin-1/2.
+
+
+
+
+    In addition, under certain operating conditions the beams in the SPEAR
+storage ring become polarized, with the electron spin parallel and the positron
+spin antiparallel to the ring’s magnetic bending field. In this polarized con-
+dition an azimuthal asymmetry in particle production can appear with
+respect to the direction of the beams. Jets measured under these conditions
+also displayed the azimuthal asymmetry that is expected of spin-l/2 particles.
+    Further, the individual hadrons within the jets also displayed this asym-
+metry [33]. It will be evident that the greater the momentum of a single
+hadron, the closer that hadron must lie to the original direction defined by
+the quark. By looking at pion production in detail, we were able to determine
+that as the pion momentum approached the maximum value possible for the
+particular machine energy, so did the azimuthal asymmetry approach the
+maximum possible asymmetry expected for spin-l/2 particles. This point is
+illustrated in Fig. 21.
+
+
+                                        B. Richter
+
+
+2 21. The azimuthal asymmetry parameter for
+pions normalized to the asymmetry in µ-pair
+production vs. the fractional pion momentum.
+
+
+
+
+   I find it quite remarkable that a collection of hadrons, each of which has
+integral spin, should display all of the angular-distribution characteristics that
+are expected for the production of a pair of spin- 1/2 particles. Such behavior is
+possible without assuming the existence of quarks (the final-state helicity must
+be one along the direction of the particle or jet), but any other explanation
+seems difficult and cumbersome. In my view the observations of these jet
+phenomena in e + e - annihilation constitute one of the very strongest pieces of
+evidence for believing that there really is a substructure to the hadrons.
+
+10. CONCLUSIONS AND QUESTIONS
+The electron-positron colliding-beam experiments of the past two years have,
+I believe, settled the question of the significance of the psi particles. The
+charmonium family, the two plateaus in R, the wide resonances above charm
+threshold, the charmed particles themselves, the evidence for the weak decays
+of the charmed particles and the existence of jets - all these support most
+strongly the ideas of the quark model of hadron substructure and the 4-quark
+version of that model. To me, one of the most remarkable features of the quark
+model is that it correctly explains a great deal of data on strongly interacting
+particles with the most simple-minded of calculations. The charmonium
+spectrum, for example, is calculated with the nonrelativistic Schrödinger
+equation using a simple potential. The two plateaus in R and jet structure are
+explained by assuming that the final-state interactions of strongly interacting
+particles can be ignored. Why it is all so simple, while at the same time the
+quarks themselves appear confined to hadrons and are never seen in the free
+state, is one of the central questions of strong-interaction physics.
+   We already know, however, that the 4-quark model cannot be the complete
+story. The colliding-beam experiments are not entirely consistent with this
+model. The high energy plateau value of R is about 5.1 rather than 3-1/3
+as demanded by the charm model. While R = 3-1/3 is only reached in the
+ theory at very high energies, the difference between 3-1/3 and 5.1 arc too
+
+
+308                                Physics 1976
+
+
+large to be explained easily. At the same time, there is evidence in our data
+for a class of events (the µ-e events) which are not easily explained within the
+framework of 4-quarks and 4 leptons (e-,                 and which may require
+an expansion of the lepton family and/or the quark family. These inconsisten-
+cies immediately bring up the question of how many quarks and leptons there
+are.
+   There are two schools of thought on this question. One school says that
+the quark system is complete or nearly complete-while there may be a few
+more quarks to be found, there are a small number of indivisible elements,
+among which are the present four, and all of the strongly interacting particles
+are built out of these elementary and indivisible components. The other
+school says that the quarks themselves are probably built from something still
+smaller, and that we shall go on forever finding smaller and smaller entities
+each inside the next larger group.
+   These and other questions on particle structure may be answered by the next
+generation of e + e - colliding-beam machines now being built at DESY and
+SLAC which will reach 35 to 40 GeV in the center-of-mass system. Experi-
+ments on these machines will begin in 4 to 5 years and should tell us promptly
+about the existence of new plateaus in R, new “oniums”, or new leptons.
+   An even more fundamental set of questions, which I find more interesting
+than the number of quarks, will probably not be answered by experiments at
+any accelerator now in construction. These questions have to do with the
+possibility of a unified picture of the forces of nature: gravity, the weak inter-
+action, the electromagnetic interaction, and the strong interaction. Wein-
+berg [34] and Salam [35] have made the first models of a unified weak and
+electromagnetic interaction theory. Attempts have been made at a unified
+picture of the weak, electromagnetic and strong interactions - more primitive
+than the Weinberg/Salam model, for the problem is more difficult, but still
+a beginning. The experimental information required to establish these unified
+pictures will almost certainly require still higher energies: several hundred
+GeV in the center-of-mass and again, I believe, in the e+ e - system. If any of
+these unified pictures is correct at very high energies, then our only correct
+field theory, quantum electrondynamics, will necessarily have to break down,
+and I will have come full circle back to the first experiment I wanted to do as
+an independent researcher [36].
+
+
+                                                B. Richter                                             309
+
+
+REFERENCES
+
+
+
+
+ 1. J. J. Aubert et al., Phys. Rev. Lett. 33, 1404 (1974).
+2. J. E, Augustin et al., Phys. Rev. Lett. 33. 1406 (1974).
+3. G. S. Abram et al., Phys. Rev. Lett. 33, 1453 (1974).
+4. The early development of the colliding beams technique was an international effort.
+     The two groups who. in those early days suffered with us through the discovery and
+     conquest of what at times seemed to be an endless series of beam instabilities and
+     technological problems. were those of F. Amman at Frascati and G. I. Budkcr at Novo-
+     sibirsk.
+ 5. The success of the SPEAR project is in large measure due to J. Rees who was then my
+     deputy, and to M. Allen, A. M. Boyarski. W. Davies-White. N. Dean, G. E. Fischer,
+    J. Harris. J. Jurow, I,. Karvonen. M. J. Lee. R. McConnell. R. Melen. P. Morton.
+     A. Sabersky, M. Sands, R. Scholl and J. Voss.
+ 6. The physicists of the SLAC/LBL group who were responsible for building the detector
+     and for the experiments I will discuss arc S. M. Alam. J.-E. Augustin. A. M. Boyarski,
+     M. Breidenbach, F. Bulos, J. M. Dorfan. G. J. Feldman. G. E. Fischer. D. Fryberger,
+     G. Hanson, J. A. Jaros, B. Jean-Marie. R. R. Larsen, D. Lüke, V. Lüth. H. L. Lynch,
+     C. C. Morehouse, J. hi. Paterson. M. L. Perl. I. Peruzzi, M. Piccolo. T. P. Pun. P.
+     Rapidis, B. Richter, R. H. Schindler. R. F. Schwitters, J. Siegrist. W. Tanenbaum. and
+     F. Vannucci from SLAC; and G. S. Abrams. D. Briggs. W. C. Carithers, W. Chinowsky,
+     R. G. DeVoc, C. E. Friedberg. G. Goldhaber. R. J . H o l l e b e e k , A . D . J o h n s o n . J . A .
+     Kadyk, A. Litke, B. Lulu. R. J. Madaras. H. K. Nguyen. F. Pierre, B. Sadoulet. G. H.
+     Trilling, J. S. Whitaker, J. Wiss, and J. E. Zipse from LBL.
+ 7. B. Richter, Proceedings of the XVII International Conference on High Energy Physic-s, London
+     (1974).
+ 8. J. Ellis, I b i d .
+ 9. A. M. Boyarski et al.. Phys. Rev. Lett. 34. 1357 (197.5) : V. Lüth et al.. Phys. Rev. Lett.
+     35, 1124 (1975).
+10. B. Jean-Marie et al., Phys. Rev. Lett. 36, 291 (1976).
+11. A. M. Boyarski et al.. Phys. Rev. Lett. 34, 762 (1975).
+12. Review paper by R. Schwitters. Proceedings of the 1975 International Symposium on Lefton
+     and Photon Interaction, Stanford University (1975).
+13. W. Braunschweig et al., Phys. Lett. 57B. 407 (1975).
+14. B. H. Wiik, Proceedings of the 1975 Symposium on Lepton and Photon Interactions. Stanford
+    University (1975).
+15. J. Heintze, Ibid.
+16. W. Tanenbaum et al., Phys. Rev. Lett. 35. 1323 (1975).
+17. S. Whitaker et al., to be published in Phys. Rev. Lett.
+18. G. H. Trilling. LBL Report 5535 and Proceedings of the SLAC Summer Institute on Particle
+     Physics, Stanford (1976).
+19. D. H. Badtke et al., paper submitted to the XVIII International Conference on High Energy
+     Physics, Tbilisi, USSR (1976).
+20. J. Siegrist et al., Phys. Rev. Lett. 36, 700 (1976).
+21. D. Amati et al., Phys. Lett 11, 1 9 0 ( 1 9 6 4 ) :
+     J. D. Bjorken and S. L. Glashow, Phys. Lett. 11, 255 ( 1 9 6 4 ) :
+     Z. Maki and Y. Chnuki, Prog. Theor. Phys. 32, 144 (1964):
+     Y. Hara, Phys. Rev. 134B, 701 (1964).
+22. S. L. Glashow, J. Iliopolous, and L. Maiani, Phys. Rev. D2, 128.5 (1970).
+23. An excellent review of the status of the charm model at the end of 1974 is that of M. K;.
+    Gaillard, B. Lee, and J. L. Rosner, Rev. Mod. Phys. 47. 277 (1975).
+
+
+310                                       Physics 1976
+
+24. T. Applequist et al., Phys. Rev. Lett. 34. 365 (1975).
+25. E. Eichten et al.. Phys. Rev. Lett. 34, 369 (1975).
+26. One possible example of the production of a charmed baryon has been reported by E. G.
+    Cazzoli et al., Phys. Rev. Lett. 34. 1125 (1975).
+27. G. Goldhaber et al.. Phys. Rev. Lett. 37, 255 (1976).
+28. I. Peruzzi et al. Phys. Rev. Lett. 37. 569 (1976).
+29. Papers on the D* decays and       decays are in preparation by the SLAC/LBL Group.
+30. Strictly speaking. this argument is not airtight. If the D + is not in the same isotopic
+      doublet as the      the comparison of D + a n d    decay gives no information on parity
+      violation. The close values of the masses of D+ and      however, make it very probable
+      that they are related.
+31. B. Knapp et al.. Phys. Rev. Lett. 37. 822 (1976).
+32. G. Hanson et al. Phys. Rev. Lett. 35 1609 (1975).
+33. R. F. Schwittcrs et al.. Phys. Rev. Lett. 35, 1320 (1975).
+34. S. Weinberg. Phys. Rev. Lett. 1.9, 1264 (1967).
+35. A. Salam. Proceedings of the 8th Nobe1 Symposium (Almquist Wiksells, Stockholm, 1968).
+36. I want to acknowledge here those who have been most important in helping me on
+      my circular path in particle physics and whom I have not previously mentioned. They
+      are L. S. Osborne. my thesis adviser; E. Courant and A. Sessler. who helped me under-
+      stand the mysteries of the behavior of beams in storage rings; S. Drell and J. D. Bjorken,
+      who have been my guides to theoretical physics; M. Sands, who helped me design the
+      storage ring and whose encouragement helped keep me going in the frustrating years
+      of waiting for the funds to build it; W. K. H. Panofsky, who was Director of HEPL and
+      is Director of SLAC. without whose support and desire to see “good physics” done there
+      would be no SPEAR: and Laurose Richter--wife, friend and adviser.
+

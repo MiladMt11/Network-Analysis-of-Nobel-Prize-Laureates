@@ -1,0 +1,769 @@
+REACTIONS AT SURFACES:
+FROM ATOMS TO COMPLEXITY
+
+Nobel Lecture, December 8, 2007
+by
+Gerhard Ertl
+Fritz-Haber-Institut der Max-Planck-Gesellschaft, Abteilung Physikalishe
+Chemie, Faradayweg 4-6, DE-14195 Berlin, Germany.
+
+
+
+
+1. INTRODUCTION
+The secretary of the Royal Swedish Academy of Sciences, the famous chemist
+Jöns Jacob Berzelius, published since 1820 annual review articles on the most
+significant new developments in his field. Since the early 19th century there
+were observations from several laboratories whereafter certain substances
+influenced the progress of a chemical reaction without being consumed and
+hence apparently not being affected by this reaction. For example, Johann
+Wolfgang Doebereiner, professor of chemistry at the university of Jena, re-
+ported in July 1823 to his minister, J. W. Goethe, “that finely divided platinum
+powder causes hydrogen gas to reaction with oxygen gas by mere contact to water where-
+by the platinum itself is not altered” [1]. In his report published 1835 Berzelius
+defined this phenomenon as “catalysis”, rather in order to introduce a classi-
+fication than to offer a possible explanation [2]. Throughout the rest of this
+century the term catalysis remained heavily debated [3], until around 1900
+W. Ostwald proposed its valid definition in terms of the concepts of chemical
+kinetics: “A catalyst is a substance which affects the rate of a chemical reaction with-
+out being part of its end products” [4]. In 1909, Ostwald was awarded the Nobel
+Prize in Chemistry for his contributions to catalysis.
+   A chemical reaction involves breaking of bonds between atoms and the
+formation of new ones. This process is associated with transformation of en-
+ergy and the energy diagram illustrating the progress of a reaction A+BlC is
+depicted schematically in fig. 1. The activation energy E* to be surmounted
+is usually provided by thermal energy kT, with k being Boltzmann’s constant
+and T the temperature, and accordingly not all molecular encounters will be
+successful, but only a fraction e-E  -E** /kT
+                                              . An increase of the reaction probability
+(=rate) can be achieved by either increasing the temperature or by lowering
+the activation energy E*. The latter is provided by the catalyst which through
+the formation of intermediate compounds with the molecules involved in the
+reaction provides an alternate reaction path as sketched y the dashed line in
+fig. 1 which is associated with smaller activation barriers and hence a higher
+
+116
+
+
+Figure 1. Energy diagram illustrating the progress of a chemical reaction with and without
+a catalyst.
+
+
+overall reaction rate. In the last step the product molecules are released from
+the catalyst which now is available for the next reaction cycle. If the reacting
+molecules and the catalyst are in the same (gaseous or liquid) phase the ef-
+fect is called homogeneous catalysis. In living systems macromolecules (=en-
+zymes) play the role of catalysts. In technical reactions mostly the interaction
+of molecules with the surface of a solid is decisive. The principle of this het-
+erogeneous catalysis is depicted schematically in fig. 2.
+
+
+
+
+Figure 2. Principle of heterogeneous catalysis.
+                                                                                     117
+
+
+   The atoms in the surface layer of a solid have fewer neighbours than those
+in the bulk and are hence chemically unsaturated and may form new bonds
+(=chemisorption) with suitable molecules impinging from the adjacent gas
+or liquid phase. By this step existing bonds will be modified or may even be
+broken (=dissociative chemisorption). The surface species formed may jump
+from one site to neighbouring ones, then may react with others, and the
+formed produced molecules eventually leave the surface (=desorption). If
+operated in a flow reactor, the catalyst can in this way continuously operate
+without being consumed.
+   One of the first and still most important technical applications of this prin-
+ciple was realized about 100 years ago: Due to the continuous increase of the
+world population and the exhaust of the natural supply of nitrogen fertilizers
+the world was facing a global threat of starvation. As Sir William Crookes,
+president of the British Association for the advancement of sciences, formu-
+lated it [8]: “… all civilized nations stand in deadly peril of not having enough to
+eat. … the fixation of atmospheric nitrogen is one of the great discoveries awaiting the
+ingenuity of chemists”.
+   Nitrogen fixation means transformation of the abundant N2 molecule
+(which constitutes about 80% of our air) from its state of very strong bond
+between the two N atoms into a more reactive form according to the reac-
+tion N 2 3H 2 l 2NH 3. This reaction of ammonia formation could be realized
+in 1909 by F. Haber (Nobel Prize 1919) in the laboratory by the use of an
+osmium catalyst in a high pressure flow apparatus [6]. C. Bosch (Nobel Prize
+1931) from the BASF company started immediately to transform this process
+into technical scale, and the first industrial plant started operation in 1913,
+only a few years later. Fig. 3 shows the growth of the world population to-
+gether with the ammonia production over the last century [7], and it is quite
+obvious that our present life would be quite different without the develop-
+ment of the Haber-Bosch process.
+
+
+
+
+Figure 3. Variation of the world population and the ammonia production during the 20th
+century [7].
+
+
+118
+
+
+   However, large scale technical production would not have been possible
+without the availability of large quantities of a cheap catalyst. (The whole
+world supply of the precious metal osmium was only 80 kg in those days.)
+This task could be solved successfully by A. Mittasch [8] who in thousands of
+tests found that a material derived from a Swedish iron ore exhibited satisfac-
+tory activity. This type of doubly-promoted iron catalyst is in fact still in use
+today in almost all industrial plants.
+   Remarkably, despite the enormous technical significance of the Haber-
+Bosch reaction and despite of numerous laboratory studies its actual mecha-
+nism remained unclear over many years. P. H. Emmett, one of the pioneers
+of catalysis research, was honoured in 1974 by a symposium where he con-
+cluded at the end [9]: “The experimental work of the past 50 years leads to the
+conclusion that the rate-limiting step in ammonia synthesis over iron catalysts is the
+chemisorption of nitrogen. The question as to whether the nitrogen species involved is
+molecular or atomic is still not conclusively resolved …”.
+
+
+2. THE SURFACE SCIENCE APPROACH TO HETEROGENEOUS
+CATALYSIS: AMMONIA SYNTHESIS
+The problem involved in the study of the surface chemistry of ‘real’ cata-
+lysts becomes evident if we look on an electron micrograph of the Mittasch
+catalyst as reproduced in fig. 4 [10]: A catalyst with high activity has to ex-
+hibit a rather high specific surface area which in this case is about 20 m2/g
+as reflected by nanometer sized active particles. (In fact catalysis has been
+a nanotechnology long before this term was introduced). Under reaction
+conditions these are reduced into metallic iron covered by a submonolayer
+of K(+O) which acts as ‘electronic’ promoter. The configuration of active
+particles is stabilized against sintering by a framework of Al2O3 (and CaO)
+which compounds act as ‘structural’ promoters. The active component itself
+will expose different crystal planes apart from various defects, and all these
+various structural parameters are expected to exhibit varying reactivity.
+Apart from that, how can the two-dimensional chemistry taking place in the
+chemisorbed overlayer be investigated down to the atomic scale?
+   A possible strategy to overcome this problem had been suggested by I.
+Langmuir (Nobel Prize 1932) already many years ago [11]: “Most finely divid-
+ed catalysts must have structures of great complexity. In order to simplify our theoretical
+consideration of reactions at surfaces, let us confine our attention to reactions on plane
+surfaces. If the principles in this case are well understood, it should then be possible to
+extend the theory to the case of porous bodies. In general, we should look upon the sur-
+face as consisting of a checkerboard …”
+   The ‘surface science’ approach which Langmuir had in mind was experi-
+mentally not yet accessible in his days, but began to become only available
+during the 1960’s with the advent of ultrahigh vacuum (UHV) and surface
+sensitive physical methods [12]. Nowadays a whole arsenal of such tech-
+niques is available to study the structural, electronic or dynamic properties of
+such well-defined single crystal surfaces.
+
+                                                                                      119
+
+
+Figure 4. Surface topography and chemical composition of an industrial ammonia synthe-
+sis catalyst [10].
+
+   Bond-breaking upon chemisorption is perhaps the most important role of
+a catalyst. Fig. 5 shows schematically the energetic transformations in such
+a process if a diatomic molecule interacts with a perfect surface. Upon ap-
+proaching the surface the molecule may initiate the formation of new bonds
+to the surface atoms whereby the bond between the two atoms is weakened.
+A corresponding one-dimensional energy diagram as proposed by Lennard-
+Jones [15] is depicted in fig. 5a: If the molecule A2 forms a bond with the
+surface a shallow minimum (A2,ad) is reached. If instead the free A2 molecule
+dissociated the dissociation energy Ediss is needed. Chemisorption of two A
+atoms would be associated with strong bond formation (2Aad), and the cross-
+ing point between the two curves obviously marks the activation energy for
+dissociative chemisorption, viz. A2 l 2Aad. Even more instructive is a two-
+dimensional diagram (fig. 5b), where lines of equal energy are plotted as
+a function of the distance x between the molecule and the surface and the
+separation y between the two atoms. (A full multi-dimensional description
+would require knowledge of the energy also as function of the point of impact
+within the unit cell of the surface as well as of the orientation of the molecular
+axis, and theory is nowadays able to provide this information as well as on the
+dynamics of energy transfer between the different degrees of freedom [14].)
+   Fig. 6 shows a scanning tunneling microscope (STM) picture from a
+Pt(111) surface with atomic resolution after exposure to a small amount of
+O2 molecules at 165 K [15]. Apart from the Pt atoms from the topmost layer
+additional features, namely pairs of bright dots surrounded by dark rings are
+visible. The dots mark the positions of O atoms resulting from dissociative
+chemisorption. While at 120 K instead chemisorbed O2 molecules would be
+discernible, at 165 K the thermal energy suffices to overcome the activation
+barrier for dissociation. The dark rings around the bright spots reflect the
+modification of the local electronic structure near the chemisorbed species.
+As a consequence neighboring particles interact with each other through the
+electronic system of the substrate, whereby these interactions may be repul-
+
+120
+
+
+Figure 5. Energy diagram illustrating the process of dissociative chemisorption of a diatom-
+ic molecule: a) One-dimensional Lennard-Jones diagram. b) Two-dimensional representa-
+tion of equipotential lines as function of the distance x of the molecule from the surface
+and the separation y between the two atoms.
+
+
+
+
+Figure 6. Scanning tunneling microscope (STM) image from a Pt(111) surface after expo-
+sure of a small concentration of O2 molecules at 165 K [15].
+
+
+
+
+                                                                                       121
+
+
+sive as well as attractive [18]. At the low temperature of 165 K, on the other
+hand, the chemisorbed O atoms are immobile and rest at those sites at which
+transfer of the chemisorption energy to the solid has been completed. This
+process requires a certain relaxation time during which the two separating
+O atoms move apart from each other. That is why two O atoms are never on
+neighboring sites, but are typically separated by 0.5 – 0.8 nm from each other.
+Taking into account the chemisorption energy released leads to an estimate
+of about 3x10-13 s for the lifetime of these ‘hot’ adsorbed atoms.
+   More detailed insight into the dynamics of energy exchange between the
+solid and chemisorbed species can be obtained by application of ultrafast
+(femtosecond) laser techniques, and it can be generally concluded that with
+metal surfaces complete thermal equilibrium between all degrees of freedom
+is typically reached after about 10-12 s [17].
+   The mean residence time of a chemisorbed particle on its momentary ad-
+                                   *
+sorption site is given by T T oeE diff /kT whereby E *diff is the activation energy for
+surface diffusion to a neighboring site. ( E *diff is always much smaller than the
+adsorption energy, so that the adsorbed particles makes many jumps before
+it eventually desorbs into the gas phase.) Fig. 7a shows a snapshot taken with
+a fast STM from a Ru(001) surface at 300 K covered by a small concentration
+of O atoms. The latter jump around like with two-dimensional Brownian
+motion with a mean T of about 6x10-2 s. However, T varies with the mutual
+separation between two neighboring O atoms due to the operation of the
+above mentioned interactions and reaches about 0.22 s if the two O atoms
+are separated from each other by 2 lattice constants [19]. As a consequence
+of the operation of these weak attractive interactions at higher surface con-
+centrations the adsorbed particles are no longer uniformly and randomly
+distributed across the surface, but segregate into two phases as shown in fig.
+7b: A two-dimensional quasi-solid phase is in equilibrium with a quasi-gas
+phase, where continuous nucleation, condensation and sublimation occur
+like in analogous solid-gas equilibria. From such observations it becomes
+also obvious that definition of a surface diffusion coefficient for adsorbates
+is meaningful only at low surface concentrations as long as the adsorbed par-
+ticles can be considered to be independent from each other [20].
+The formation of ordered adsorbate phases with long-range periodicity like
+in fig. 7b is quite common and permits determination of the actual structural
+parameters by a diffraction technique, preferably low energy electron dif-
+fraction (LEED) [12]. If we now return to the original problem of ammonia
+synthesis, dissociative chemisorption of nitrogen on various Fe single crystal
+surfaces causes indeed also the formation of such structures derived from
+chemisorbed N atoms, such as reproduced in fig. 8 for the c2x2-N phase on
+the Fe(100) surface [21]. The probability for this process (=sticking coef-
+ficient) is very low, typically of the order 10-6, which reflects the fact that this
+step is indeed rate-limiting in the overall reaction of ammonia synthesis. Fig.
+9 shows the variation of the surface concentration y (in relative units) of N
+atoms chemisorbed on various Fe single crystal surfaces with exposure (i.e.
+number of molecules impinging per cm2 and s) to N2 gas at T = 693 K [22].
+
+122
+
+
+Figure 7. STM snapshots from O atoms adsorbed on a Ru(001) surface at T = 300 K [18].
+a) very small coverage. b) higher coverage. In the lecture a short movie was presented
+showing the motion of the O atoms in real time.
+
+
+
+
+Figure 8. The structure of N atoms chemisorbed on a Fe(100) surface [21]. a) top view
+b) side view.
+
+
+
+                                                                                   123
+
+
+Figure 9. The variation of the relative coverage y of N atoms chemisorbed at 693 K at vari-
+ous Fe single crystal surfaces with exposure to gaseous N2 [22] (1 L = 1.33x10-6 mbar•sec
+is about the exposure which would suffice to form a complete monolayer if each incident
+molecule would be adsorbed).
+
+
+There is a pronounced influence of the surface structure: The most densely
+packed (110) surface is least active, while the open (111) plane exhibits the
+highest sticking coefficient and is indeed also responsible for the overall
+activity of the industrial catalyst [23]. This activity is further enhanced by
+the presence of the electronic promoter K which stabilizes the intermediate
+N2,ad complex and hence increases its dissociation probability [24]. The same
+sequence in reactivity as found for the sticking coefficient for dissociative ni-
+trogen adsorption under low pressure conditions was also found for the yield
+of ammonia production at 20 bar pressure [25]. Thus it is also demonstrated
+that in this case there exists no ‘pressure gap’.
+
+
+
+
+Figure 10. Mechanism and potential diagram of ammonia synthesis on iron [26].
+
+
+124
+
+
+   All further steps involved in the ammonia synthesis reaction could be iden-
+tified and analyzed similarly, so that the overall mechanism and energy dia-
+gram reproduced in fig. 10 could be derived [26]. This diagram exhibits the
+general features of the schematic diagram of fig. 1: Instead of overcoming
+the prohibitive high energy barrier for dissociation of the reacting molecules
+the catalyst offers an alternate reaction path through formation of intermedi-
+ate chemisorption complexes whose energy differences can be readily sur-
+mounted by the available thermal energy.
+   The kinetic parameters associated with the individual reaction steps can
+be put together to calculate the steady-state yield of ammonia formation for
+given external parameters. Fig. 11 shows a plot of the ammonia yield derived
+on the basis of this kinetic model as a function of the experimental yields in
+industrial plants [27]. The data points barely deviate from the straight line
+which marks complete agreement between theory and experiment. This
+result could be confirmed also by others [28] and demonstrates that in this
+case the ‘surface science’ approach is indeed able to lead even to a quantita-
+tive description of an industrial reaction of great relevance.
+
+
+
+
+Figure 11. Microkinetics of catalytic ammonia synthesis. Comparison of the yield calcu-
+lated on the basis of the mechanism presented in Figure 10 with experimental data from
+industrial plants [27].
+
+
+
+
+                                                                                  125
+
+
+3. SELF-ORGANISATION AND COMPLEXITY: OXIDATION OF
+CARBON MONOXIDE
+One of the major applications of heterogeneous catalysis in our days con-
+cerns protection of the environment through removal of toxic substances
+from car exhausts. Oxidation of carbon monoxide to carbon dioxide,
+2CO O 2 l 2CO 2 , is the simplest of these reactions and is depicted sche-
+matically in fig. 12. The exhaust gas flows through the catalytic converter
+where the molecules interact with the surfaces of finely divided metal par-
+ticles from the platinum group. Thereby the O2 molecules are dissociatively
+chemisorbed, and the formed Oad species interact with chemisorbed CO
+molecules to CO2 which is immediately released into the gas phase.
+
+
+
+
+Figure 12. Cartoon illustrating a car exhaust catalyst and the mechanism of CO oxidation.
+
+
+   The structures formed by chemisorbed O and CO on a Rh(111) surface as
+example are shown in fig. 13 [29]: The CO molecules are in this case bonded
+through the C atom in ‘on top’ positions. They exhibit always the tendency
+for the formation of densely packed layers, eventually even with occupancy
+of different adsorption sites [30] (fig. 13a). The O atoms, on the other hand,
+occupy threefold-coordinated sites and form a rather open mesh of a 2x2-
+structure (fig. 13b). Since an O2 molecule in order to become dissociated
+requires an ensemble of neighboring empty surface atoms, this process will
+
+
+126
+
+
+be inhibited as soon as the CO coverage exceeds a certain critical value. The
+open structure of the adsorbed O-layer, on the other hand, still permits ad-
+sorption of CO, leading to a mixed phase as reproduced in fig. 13c where the
+two reactants are in close contact and can readily recombine to CO2. Under
+steady-state flow conditions in a mixture of O2+CO the surface of the catalyst
+will soon be fully covered by adsorbed CO which prevents oxygen adsorption
+and hence suppresses the reaction. This problem can only be overcome if
+the temperature is high enough (≥450 K) to enable continuous desorption
+of part of the adsorbed CO so that gaseous O2 may compete for these free
+adsorption sites. (This is the reason why the catalyst of your car does not work
+in the cold but needs a certain minimum temperature.) The sequence of
+reaction steps and the energy diagram for this reaction is depicted in fig. 14:
+After chemisorption of the reactants, Oad+COad may recombine according
+to the Langmuir-Hinshelwood mechanism [31] by overcoming an activation
+barrier of 100 kJ/mol (which is only about half as high at higher coverages
+[31]), − a result which could also be confirmed theoretically on the basis of
+DFT calculations [32].
+
+
+
+
+Figure 13. Structures of CO (a), O (b), and O+CO (c) chemisorbed on a Rh(111) surface
+[29].
+
+
+   Under steady-state flow conditions the rate of product formation will usu-
+ally be constant and a function of the external parameters temperature and
+partial pressure of O2 and CO, − however, with exceptions under rare condi-
+tions: Already around 1970, it was found in Wicke’s laboratory [33] that with
+supported Pt catalysts sometimes the rate exhibits temporal oscillations. Such
+a situation can also be found with a well-defined Pt(110) surface as shown
+in fig. 15 [34]: At the time marked by an arrow the O2-pressure was steplike
+raised from 2.0 to 2.7x10-4 mbar. As a consequence the rate slowly increases
+and then develops periodic variations with finally constant high amplitudes.
+
+
+
+
+                                                                                127
+
+
+Figure 14. Mechanism and energy diagram for the catalytic oxidation of CO on Pt.
+
+
+   Characteristic for the present system is that it is far away from equilibrium
+and may develop so-called dissipative structures as explored in detail by
+Prigogine (Nobel Prize 1977) [35] and by Haken [36] in the framework of
+synergetics. A particularly spectacular example for such behavior from popu-
+lation dynamics is reproduced in fig. 16 [37] which shows the variation with
+time of the number of furs from hares and lynxes delivered to Hudson’s Bay
+Company. The oscillating populations of both species are coupled to each
+other with a certain phase shift. The reason seems to be quite obvious: If
+the lynxes find enough food (=hares) their population grows, while that of
+the hares decays as soon as their birth rate cannot compensate their loss any
+more. When the supply of hares drops, the lynxes begin to starve and their
+population also decays so that that of the hares can recover. The variations of
+the populations of the two species x and y can be modeled in the language of
+chemical kinetics in terms of two coupled nonlinear (ordinary) differential
+equations (Lotka-Volterra model) as shown in fig. 17 together with their solu-
+tion for properly chosen parameters A and B. This solution exhibits just the
+qualitative behavior of the data of fig. 16.
+
+128
+
+
+Figure 15. Onset of temporal oscillations of the rate of CO2 formation on a Pt(110) surface
+[34].
+
+
+
+
+Figure 16. Variation of the number of furs from hares and lynxes delivered to Hudson’s
+Bay company with time [37].
+
+
+
+
+                                                                                      129
+
+
+Figure 17. The Lotka-Volterra model.
+
+   Mathematical description in terms of nonlinear differential equations is es-
+sential for these effects, and therefore this field is also denoted as nonlinear
+dynamics.
+   With the oscillatory kinetics in the CO oxidation on Pt(110) the situation
+is still somewhat more complicated. In this case the reason for this effect
+has to be primarily sought in the structure of the Pt(110) surface and its
+transformation under the influence of adsorbates. As already recognized by
+Langmuir [38]: “The atoms in the surface of a crystal must tend to arrange them-
+selves so that the total energy will be a minimum. In general, this will involve a shifting
+of the positions of the atoms with respect to each other.”
+
+
+
+
+Figure 18. The structure of the Pt(110) surface [39] a) The 1x2-structure of the clean sur-
+face, b) the 1x1-structure representing termination of the bulk structure.
+
+
+
+
+130
+
+
+   Such a reconstruction is exhibited by the clean Pt(110) surface [39].
+Instead of the termination by the corresponding bulk crystal plane (fig. 18b
+= 1x1 structure), every second row along the ;1 1 0= direction is missing, giving
+rise to as 1x2-structure (fig. 18a). In this way small facets with (111)-orienta-
+tion are exposed, leading to a lower energy than with the 1x1-phase. The two
+phases differ also with respect to their adsorption properties: Chemisorption
+of CO is accompanied by a higher adsorption energy on the 1x1-phase than
+on the 1x2-structure, so that local 1x2l1x1 transformation takes place as
+soon as the CO coverage exceeds a value of 0.2 monolayers (ML) [40]. On
+the other hand, the sticking coefficient for dissociative oxygen coverage on
+the 1x1-phase exceeds that on the 1x2-phase by about 50% [41]. The occur-
+rence of temporal oscillations in the rate of CO2 can now be rationalized as
+follows: If a clean Pt(110) surface (1x2) is exposed to a proper mixture of
+CO+O2, adsorption of CO will suffice to cause local 1x2l1x1 transforma-
+tion. On the newly created 1x1-patches, the oxygen sticking coefficient will
+be higher, so that a higher O coverage will be built up, giving rise to an en-
+hanced production of CO2. By this latter process the excess CO will be con-
+sumed so that the surface structure transforms back from 1x1l1x2, and one
+cycle is completed. Mathematical modeling requires in this case three vari-
+ables, the coverages of O and CO, and the fraction of the surface being pres-
+ent as 1x1-phase. Solution of the resulting 3 coupled nonlinear differential
+equations for properly chosen parameters is shown in fig. 19 and reproduces
+the experimental findings [42].
+
+
+
+
+Figure 19. Theoretical description of the oscillatory kinetics of CO oxidation on a Pt(110)
+surface [42].
+
+
+
+
+                                                                                      131
+
+
+   However, so far the story is still incomplete: If the elements of an extended
+system exhibit temporal oscillations as a whole, some kind of lateral coupling
+between these elements is required in order to achieve synchronization. As a
+consequence of these considerations the state variables (i.e. the surface con-
+centrations of the adsorbates xi) are in general not only depending on time
+t but also on the spatial coordinates ri. As summarized in fig. 20 coupling be-
+tween different regions on the surface is achieved by transport processes. If
+the heat capacity of the catalyst is low enough, spots with surface concentra-
+tions favouring higher reaction rates will also attain higher local temperature
+due to the exothermicity of the overall reaction, and then heat conduction
+across the catalyst surface will provide coupling between different parts. Such
+a situation will usually be found with oscillatory kinetics on supported cata-
+lysts under high pressure conditions [43], but has also been studied in detail
+with a very thin (~200 nm) Pt(110) single crystal foil, where periodic varia-
+tion of the reaction rate caused corresponding changes of the temperature.
+The latter effect initiated varying thermal expansion and hence deformation
+which was denoted as ‘heartbeats of a catalyst’ [44].
+
+
+
+
+Figure 20. Spatio-temporal self-organisation in open systems far from equilibrium.
+
+
+  Under isothermal conditions at low pressures local differences of the
+surface concentrations cause surface diffusion of the adsorbates, and
+mathematical description can now be obtained in terms of reaction-diffusion
+equations, i.e. a set of coupled nonlinear partial differential equations com-
+bining the kinetics with the diffusion of the adsorbed species (fig. 20). The
+length scale of the resulting spatio-temporal concentration patterns is no
+longer governed by atomic dimensions but by the so-called diffusion length,
+which in our case is of the order of tens of microns [45]. These patterns were
+
+132
+
+
+imaged by the technique of photoemission electron microscopy (PEEM)
+[46]: Adsorbed O and CO species are accompanied by different electric
+dipole moments and hence different work function changes which in turn
+give rise to varying intensities of photoemitted electrons. In the images to be
+shown dark areas are essentially O-covered while brighter patches are CO-
+covered. As an example fig. 21 shows so-called target patterns, concentric
+elliptic features propagating preferentially along the ;1 1 0= -direction of the
+Pt(110) surface (where CO diffusion is faster than along the [001]-direction)
+on a background changing periodically between bright (=CO covered) and
+dark (=O covered), while the external parameters of temperature and partial
+pressures are kept constant as indicated [47].
+
+
+
+
+Figure 21. Target patterns in catalytic oxidation of CO on a Pt(110) surface as imaged
+by photoemission electron microscopy (PEEM) [47]. Here as well as with figs. 22 and 25
+again real-time movies were presented.
+
+
+   Under other external parameters typical spiral waves as shown in fig. 22
+develop and propagate with front speeds of a few Mm/s. The core of a spiral
+is often formed by a region on the surface with enhanced defect density, and
+this effect is also responsible for the fact that the wavelengths of the spiral
+vary to some extent [48].
+
+
+
+
+                                                                                 133
+
+
+Figure 22. PEEM image from the formation of spiral-waves in catalytic CO oxidation on a
+Pt(110) surface [48].
+
+
+   Since the mechanism of this reaction and all its parameters are well estab-
+lished experimentally, these data may also be used to simulate the resulting
+patterns by numerical solution of the underlying differential equations. This
+is shown in fig. 23 for the case of spiral wave development [49]. If the param-
+eters are slightly changed, the solution exhibits no longer regular spirals, but
+they break-up to the situation of spiral-turbulence or spatio-temporal chaos
+(fig. 24). Experimental verification of such a situation is demonstrated by fig.
+25.
+
+
+
+
+Figure 23. Computer simulation of the evolution of spiral waves in catalytic CO oxidation
+[49].
+
+
+
+
+134
+
+
+Figure 24. Computer simulation of the break-up of spiral waves to chemical turbulence.
+
+
+
+
+Figure 25. PEEM image from a Pt(110) surface in the state of chemical turbulence.
+
+
+   We reached now a state where a system which in principle is very simple (a
+chemical reaction occurring between two diatomic molecules on a well-de-
+fined single crystal surface with fixed external parameters and for which all
+individual reaction steps are known) and which nevertheless exhibit rather
+complex behavior. Such effects are generally expected for open systems far
+
+                                                                                    135
+
+
+from equilibrium and are hence believed to govern also the whole nature.
+Our system can be considered to be a rather simple model for studying these
+types of phenomena. One might for example be interested to modify pattern
+formation from outside by affecting one of the control parameters. This can
+be done either locally be heating a small spot on the surface by laser light
+[50] or globally by a feedback mechanism in which the actual reaction rate
+(or integral coverage of one of the surface species) is used to regulate the
+flow of one of the reacting gases [51]. A series of patterns created in this way
+from a turbulent initial state by different strength and delay of the feedback
+is reproduced in fig. 26. These patterns are reminiscent of similar phenom-
+ena found in nature (fig. 27), but also on Vincent van Gogh’s vision of our
+world in his painting “star night” (fig. 28).
+
+
+
+
+Figure 26. Transformation of a state of spiral turbulence into different other patterns by a
+feedback mechanism with different strength and delay of the feedback [51].
+
+
+
+
+136
+
+
+Figure 27. Phenomena of pattern formation found in nature: The structure of the retina
+and leopard fur.
+
+
+
+
+Figure 28. Vincent van Gogh’s painting “Star night”.
+
+
+
+4. CONCLUSIONS
+This is no review article but a brief account for a broader audience of
+some of the work which had been considered to be the basis for the award.
+Numerous coworkers were involved in our continuing attempt to understand
+how chemical reactions on solid surfaces take place. Without their efforts the
+results presented could not have been achieved, and therefore I am heartily
+grateful to all of them. Their names as well as a complete bibliography up to
+2004 can be found in a recent special issue of J. Phys. Chem. B [59].
+
+
+
+                                                                                 137
+
+
+REFERENCES
+[1] J. Schiff (ed.) “Briefwechsel zwischen Goethe und Johann Wolfgang Döbereiner
+     (1810 – 1830) (1994), 78. Published in: J. W. Döbereiner, Schweigg. J. 39 (1823) 1.
+[2] J. J. Berzelius, Jber. Chem. 15 (1835) 237 (submitted to the Academy on 31 March,
+     1835).
+[3] G. Ertl and T. Gloyna, Z. Phys. Chem. 217 (2003) 1207.
+[4] W. Ostwald, Phys. Z. 3 (1902) 313; Ann. Naturphil. 9 (1910) 1.
+[5] W. Crookes, Rep. of the 68th meeting of the British Association for the Advancement
+     of Science, Bristol 1898. John Murray, London (1898), p. 3. Quoted after S. A.
+     Topham, “Catalysis, Science and Technology” (eds. J. R. Anderson and M. Boudart),
+     Springer Berlin, Vol. 7 (1955) p.1.
+[6] F. Haber, Z. Elektrochem. 16 (1910) 244; F. Haber and R. Le Rossignol, Z.
+     Elektrochem. 19 (1913) 53.
+[7] W. Appl, “Ammonia”, Wiley-VCH, Weinheim (1999).
+[8] A. Mittasch, “Geschichte der Ammoniak-Synthese”, Verlag Chemie, Weinheim
+     (1957).
+[9] P. H. Emmett, in “The physical basis for heterogeneous catalysis” (E. Drauglis and R.
+     I. Jaffee, eds.), Plenum Press, New York (1975) p. 3.
+[10] G. Ertl, D. Prigge, R. Schlögl and D. Weiss, J. Catal. 79 (1983) 359.
+[11] I. Langmuir, Trans. Faraday Soc. 17 (1922) 607.
+[12] a) G. Ertl and J. Küppers, “Low energy electrons and surface chemistry”, 2nd ed.,
+     VCH, Weinheim (1985). b) D. P. Woodruff and T. A. Delchar, “Modern techniques of
+     surface science”, Cambridge Univ. Press (1994). c) J. C. Vickerman, “Surface analy-
+     sis: The principal techniques” , Wiley (1997). d) K. W. Kolasinski, “Surface science.
+     Foundations of catalysis and nanoscience”, Wiley (2002).
+[13] J. E. Lennard-Jones, Trans. Faraday Soc. 28 (1932) 333.
+[14] a) G. Ertl, Adv. Catalysis 45 (2000) 1 b) A. C. Luntz, in “Chemical Bonding at Surfaces
+     and Interfaces” (A. Nilsson, L. G. M. Petterson, J. K. Nørskov, eds.), Elsevier 2008, p.
+     143.
+[15] J. Wintterlin, R. Schuster and G. Ertl, Phys. Rev. Lett. 77 (1996) 123.
+[16] G. Ertl, J. Vac. Sci. Techn. 14 (1977) 435.
+[17] a) S. Funk, M. Bonn, D. N. Denzler, Chr. Hess, M. Wolf and G. Ertl, J. Chem. Phys. 112
+     (2000) 9888. b) M. Bonn, S. Funk, C. Hess, D. N. Denzler, C. Stampfl, M. Scheffler,
+     M. Wolf and G. Ertl, Science 285 (1999) 1042.
+[18] J. Wintterlin, J. Trost, S. Renisch, R. Schuster, T. Zambelli und G. Ertl, Surface Sci.
+     394 (1997) 159.
+[19] S. Renisch, R. Schuster, J. Wintterlin and G. Ertl, Phys. Rev. Lett. 82 (1999) 3839.
+[20] T. Zambelli, J. Trost, J. Wintterlin and G. Ertl, Phys. Rev. Lett. 76 (1996) 795.
+[21] R. Imbihl, R. J. Behm, G. Ertl and W. Moritz, Surface Sci. 123 (1982).
+[22] F. Boszo, G. Ertl, M. Grunze and M. Weiss, J. Catal. 49 (1977) 18; 50 (1977) 519.
+[23] a) G. Ertl, in “Encyclopedia of catalysis” (J. T. Hervath, E. Iglesia, M. T. Klein, J. A.
+     Lercher, A. J. Russell and G. I. Stiefel, eds.) Wiley (2003) 1, 329. b) R. Schlögl, in
+     “Handbook of heterogeneous catalysis”, 2nd ed. (G. Ertl, H. Knözinger, F. Schüth and
+     J. Weitkamp, eds.) Wiley-VCH (2008) ch. 12.1.
+[24] G. Ertl, M. Weiss and S. Lee, Chem. Phys. Lett. 60 (1979) 391.
+[25] N. D. Spencer, R. C. Schoonmaker and G. A. Somorjai, J. Catal. 74 (1982) 129.
+[26] G. Ertl, Catal. Rev. Sci. Eng. 21 (1980) 201.
+[27] P. Stoltze and J. K. Nørskov, Phys. Rev. Lett. 55 (1985) 2502; J. Catal. 110 (1998) 1.
+[28] a) M. Bowker, I. B. Parker and K. C. Waugh, Appl. Cat. 14 (1985) 101. b) J. A.
+     Dumesic and A. A. Trevino, J. Catal. 116 (1989) 119. c) H. Topsoe, M. Boudart and J.
+     K. Topsoe, eds, in “Topics in Catalysis”, Vol.1 (1994).
+[29] S. Schwegmann, H. Over, V. De Renzi and G. Ertl, Surface Sci. 375 (1997) 91.
+[30] A. Föhlisch, M. Nyberg, J. Hasselström, O. Varis, L. G. M. Petterson and A. Nilsson,
+     Phys. Rev. Lett. 85 (2000) 3309.
+
+
+138
+
+
+[31] a) C. N. Hinshelwood (Nobel Prize 1956), “The kinetics of chemical change”,
+     Clarendon Press, Oxford (1940). b) J. Wintterlin, S. Völkening, T. V. W. Janssens, T.
+     Zambelli and G. Ertl, Science 278 (1997) 11931.
+[32] T. Kuri, P. Hu, T. Deutsch, P. L. Silvestrelli and J. Hutter, Phys. Rev. Lett. 80 (1998)
+     650.
+[33] a) P. Hugo, Ber. Bunsenges. 74 (1970) 121. b) H. Beusch, D. Fieguth and E. Wicke,
+     Chem. Ing. Techn. 15 (1972) 445.
+[34] M. Eiswirth and G. Ertl, Surface Sci. 177 (1986) 90.
+[35] G. Nicolis and I. Prigogine, “Self-organization in non-equilibrium systems”, Wiley
+     (1977).
+[36] a) H. Haken, “Synergetics. An introduction” Springer (1977). b) A. S. Mikhailov,
+     “Foundations of synergetics”, Vol I and II, Springer (1991).
+[37] D. A. McLulich, “Variations in the number of varying hare” Univ. of Toronto Press,
+     Toronto (193/) (after ref. [36a]).
+[38] I. Langmuir, J. Am. Chem. Soc. 38 (1916) 1221.
+[39] a) S. R. Bare, P. Hoffmann and D. A. King, Surface Sci. 144 (1984) 347. b) T. E.
+     Jackman, J. A. Davies, D. P. Jackson, W. N. Unertl and P. R. Norton, Surface Sci. 120
+     (1982) 389.
+[40] T. Gritsch, D. Coulman, R. J. Behm and G. Ertl. Phys. Rev. Lett. 63 (1989) 1086.
+[41] N. Freyer, M. Kiskinova, D. Pirug and H. P. Bonzel, Surface Sci. 166 (1986) 206.
+[42] K. Krischer, M. Eiswirth and G. Ertl, J. Chem. Phys. 96 (1992) 9161.
+[43] M. M. Slinko and N. Jaeger, “Oscillating heterogeneous catalytic systems”, Elsevier
+     (1994).
+[44] F. Cirak, J. E. Cisternas, A. M. Cuitino, G. Ertl, P. Holmes, Y. Kevrekidis, M. Oritiz, H.
+     H. Rotermund, M. Schunack and J. Wolff, Science 300 (2003) 1932.
+[45] a) G. Ertl, Science 254 (1991) 1750. b) R. Imbihl and G. Ertl, Chem. Rev. 95 (1995)
+     697.
+[46] W. Engel, M. Kordesch, H. H. Rotermund, S. Kubala and A. von Oertzen,
+     Ultramicroscopy 95 (1991) 6162.
+[47] S. Jakubith, H. H. Rotermund, W. Engel, A. von Oertzen and G. Ertl, Phys. Rev. Lett.
+     65 (1990) 3013.
+[48] S. Nettesheim, A. von Oertzen, H. H. Rotermund and G. Ertl, J. Chem. Phys. 98
+     (1993) 9977.
+[49] M. Bär, N. Gottschalk, M. Eiswirth and G. Ertl, J. Chem. Phys. 100 (1994) 1202.
+[50] J. Wolff, A. G. Papathanasiou, Y. Kevrekidis, H. H. Rotermund and G. Ertl, Science
+     294 (2001) 134.
+[51] M. Kim, M. Bertram, M. Pollmann, A. von Oertzen, A. S. Mikhailov, H. H. Rotermund
+     and G. Ertl, Science 292 (2001) 1357.
+[52] J. Phys. Chem. B 108 (2004), pp. 14183-14788.
+Portrait photo of Gerhard Ertl by photographer Ulla Montan.
+
+
+
+
+                                                                                          139
+

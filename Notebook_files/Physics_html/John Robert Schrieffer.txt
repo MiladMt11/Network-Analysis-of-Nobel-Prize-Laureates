@@ -1,0 +1,579 @@
+MACROSCOPIC QUANTUM PHENOMENA FROM
+PAIRING IN SUPERCONDUCTORS
+Nobel Lecture, December 11, 1972
+by
+J. R.    SCHRIEFFER
+
+University of Pennsylvania, Philadelphia, Pa.
+
+
+
+I. INTRODUCTION
+It gives me great pleasure to have the opportunity to join my colleagues John
+Bardeen and Leon Cooper in discussing with you the theory of superconduct-
+ivity. Since the discovery of superconductivity by H. Kamerlingh Onnes in
+ 1911, an enormous effort has been devoted by a spectrum of outstanding scien-
+tists to understanding this phenomenon. As in most developments in our branch
+of science, the accomplishments honored by this Nobel prize were made
+possible by a large number of developments preceding them. A general under-
+standing of these developments is important as a backdrop for our own contri-
+bution.
+    On December 11, 1913, Kamerlingh Onnes discussed in his Nobel lecture ( 1)
+his striking discovery that on cooling mercury to near the absolute zero of tem-
+perature, the electrical resistance became vanishingly small, but this dis-
+appearance “did not take place gradually but abruptly.” His Fig. 17 is re-
+produced as Fig. 1. He said, “Thus, mercury at 4.2 K has entered a new state
+
+
+  0.002
+
+
+
+
+ 0.0015
+
+
+
+
+ 0.0010
+
+
+
+
+ 0.0005
+
+
+
+
+Pig. 1
+
+
+98                                 Physics 1972
+
+
+which owing to its particular electrical properties can be called the state of
+superconductivity.” He found this state could be destroyed by applying a
+sufficiently strong magnetic field, now called the critical field H c. In April -
+June, 1914, Onnes discovered that a current, once induced in a closed loop of
+superconducting wire, persists for long periods without decay, as he later graphi-
+cally demonstrated by carrying a loop of superconducting wire containing a
+ persistent current from Leiden to Cambridge.
+    In 1933, W. Meissner and R. Ochsenfeld (2) discovered that a superconductor
+is a perfect diamagnet as well as a perfect conductor. The magnetic field van-
+ishes in the interior of a bulk specimen, even when cooled down below the
+ transition temperature in the presence of a magnetic field. The diamagnetic
+ currents which flow in a thin penetration layer near the surface of a simply
+ connected body to shield the interior from an externally applied field are stable
+ rather than metastable. On the other hand, persistent currents flowing in a
+ multiply connected body, e.g., a loop, are metastable.
+    An important advance in the understanding of superconductivity occurred
+ in 1934, when C. J. Gorter and H. B. G. Casimir (3) advanced a two fluid
+ model to account for the observed second order phase transition at T c a n d
+ other thermodynamic properties. T hey proposed that the total density of
+ electrons    could be divided into two components
+
+                                                                              (1)
+where a fraction       of the electrons can be viewed as being condensed into a
+“superfluid,” which is primarily responsible for the remarkable properties of
+superconductors, while the remaining electrons form an interpenetrating
+fluid of “normal” electrons. The fraction         grows steadily from zero at Tc
+to unity at   = 0, where “all of the electrons” are in the superfluid condensate.
+   A second important theoretical advance came in the following year, when
+Fritz and Hans London set down their phenomenological theory of the electro-
+magnetic properties of superconductors, in which the diamagnetic rather than
+electric aspects are assumed to be basic. They proposed that the electrical
+current density j carried by the superfluid is related to the magnetic vector
+                  s
+
+
+potential A at each point in space by
+
+
+
+
+where     is a constant dependent on the material in question, which for a free
+electron gas model is given by ∆ =             and e being the electronic mass
+and charge, respectively. A is to be chosen such that     . A = 0 to ensure cur-
+rent conservation. From (2) it follows that a magnetic field is excluded from a
+superconductor except within a distance
+
+
+
+which is of order 10-6 cm in typical superconductors for T well below T c.
+Observed values of λ are generally several times the London value.
+  In the same year (1935) Fritz London (4) suggested how the diamagnetic
+
+
+                                  J R. Schrieffer                              99
+
+
+property (2) might follow from quantum mechanics, if there was a “rigidity”
+or stiffness of the wavefunction ψ of the superconducting state such that ψ was
+essentially unchanged by the presence of an externally applied magnetic field.
+This concept is basic to much of the theoretical development since that time,
+in that it sets the stage for the gap in the excitation spectrum of a supercon-
+ductor which separates the energy of superfluid electrons from the energy of
+electrons in the normal fluid. As Leon Cooper will discuss, this gap plays a
+central role in the properties of superconductors.
+   In his book published in 1950, F. London extended his theoretical conjec-
+tures by suggesting that a superconductor is a “quantum structure on a macro-
+scopic scale [which is a] kind of solidification or condensation of the average
+momentum distribution” of the electrons. This momentum space condensation
+locks the average momentum of each electron to a common value which ex-
+tends over appreciable distance in space. A specific type of condensation in
+momentum space is central to the work Bardeen, Cooper and I did together.
+It is a great tribute to the insight of the early workers in this field that many
+of the important general concepts were correctly conceived before the micro-
+scopic theory was developed. Their insight was of significant aid in our own
+work.
+   The phenomenological London theory was extended in 1950 by Ginzburg
+and Landau (5) to include a spatial variation of           They suggested that
+      be written in terms of a phenomenological condensate wavefunction y(r)
+            =          and that the free energy difference          between the
+superconducting and normal states at temperature T be given by
+
+
+
+
+where        a and b are phenomenological constants, with a(        = 0.
+   They applied this approach to the calculation of boundary energies between
+normal and superconducting phases and to other problems.
+   As John Bardeen will discuss, a significant step in understanding which forces
+cause the condensation into the superfluid came with the experimental discov-
+ery of the isotope effect by E. Maxwell and, independently, by Reynolds, et al.
+(6). Their work indicated that superconductivity arises from the interaction
+of electrons with lattice vibrations, or phonons. Quite independently, Herbert
+Fröhlich (7) developed a theory based on electron-phonon interactions which
+yielded the isotope effect but failed to predict other superconducting properties.
+A somewhat similar approach by Bardeen (8) stimulated by the isotope effect
+experiments also ran into difficulties. N. Bohr, W. Heisenberg and other
+distinguished theorists had continuing interest in the general problem, but met
+with similar difficulties.
+   An important concept was introduced by A. B. Pippard (9) in 1953. On the
+basis of a broad range of experimental facts he concluded that a coherence
+length    is associated with the superconducting state such that a perturbation
+of the superconductor at a point necessarily influences the superfluid within a
+distance     of that point. For pure metals,           cm. for         He gener-
+
+
+100
+
+alized the London equation (3) to a non-local form and accounted for the
+fact that the experimental value of the penetration depth is several times
+larger than the London value. Subsequently, Bardeen (10) showed that
+Pippard’s non-local relation would likely follow from an energy gap model.
+   A major problem in constructing a first principles theory was the fact that
+the physically important condensation energy ∆ F amounts typically to only
+   -8
+ 10 electron volts (e.V.) per electron, while the uncertainty in calculating
+the total energy of the electron-phonon system in even the normal state
+amounted to of order 1 e.V. per electron. Clearly, one had to isolate those
+correlations peculiar to the superconducting phase and treat them accurately,
+the remaining large effects presumably being the same in the two phases and
+therefore cancelling. Landau’s theory of a Fermi liquid (11), developed to
+account for the properties of liquid He , formed a good starting point for such a
+                                          3
+
+
+
+scheme. Landau argued that as long as the interactions between the particles
+(He 3 atoms in his case, electrons in our case) do not lead to discontinuous
+changes in the microscopic properties of the system, a “quasi-particle” de-
+scription of the low energy excitations is legitimate; that is, excitations of the
+fully interacting normal phase are in one-to-one correspondence with the
+excitations of a non-interacting fermi gas. The effective mass m and the Fermi
+velocity    of the quasi-particles differ from their free electron values, but aside
+from a weak decay rate which vanishes for states at the Fermi surface there is
+no essential change. It is the residual interaction between the quasi-particles
+which is responsible for the special correlations characterizing superconductivi-
+ty. The ground state wavefunction of the superconductor          is then represented
+by a particular superposition of these normal state configurations,
+   A clue to the nature of the states       entering strongly in    is given by com-
+bining Pippard’s coherence length         with Heisenberg’s uncertainty principle
+                                                                                (4)
+where p F is the Fermi momentum. Thus,            is made up of states with quasi-
+particles (electrons) being excited above the normal ground state by a
+momentum of order           Since electrons can only be excited to states which are
+initially empty, it is plausible that only electronic states within a momentum
+1 0-4 p F of the Fermi surface are involved significantly in the condensation,
+i.e., about 10-4 of the electrons are significantly affected. This view fits nicely
+with the fact that the condensation energy is observed to be of order 10 -4.
+k B T c. Thus, electrons within an energy ~                   of the Fermi surface
+have their energies lowered by of order kT c in the condensation. In summary,
+the problem was how to account for the phase transition in which a condensa-
+tion of electrons occurs in momentum space for electrons very near the Fermi
+surface. A proper theory should automatically account for the perfect conduc-
+tivity and diamagnetism, as well as for the energy gap in the excitation
+spectrum.
+
+II. THE PAIRING CO N C E P T
+In 1955, stimulated by writing a review article on the status of the theory
+of superconductivity, John Bardeen decided to renew the attack on the problem.
+
+
+                                                                               101
+
+
+
+
+He invited Leon Cooper, whose background was in elementary particle physics
+and who was at that time working with C. N. Yang at the Institute for Advanced
+Study to join in the effort starting in the fall of 1955. I had the good fortune
+to be a graduate student of Bardeen at that time, and, having finished my
+graduate preliminary work, I was delighted to accept an invitation to join them.
+   We focused on trying to understand how to construct a ground state
+formed as a coherent superposition of normal state configurations
+
+                                                                              (5)
+
+such that the energy would be as low as possible. Since the energy is given in
+terms of the Hamiltonian H by
+
+                                                                               (6)
+
+we attempted to make E0, minimum by restricting the coefficients      so that only
+states which gave negative off-diagonal matrix elements would enter (6). In
+this case all terms would add in phase and E 0 would be low.
+   By studying the eigenvalue spectrum of a class of matrices with off-diagonal
+elements all of one sign (negative), Cooper discovered that frequently a single
+eigenvalue is split off from the bottom of the spectrum. He worked out the
+problem of two electrons interacting via an attractive potential-V above a
+quiescent Fermi sea, i.e., the electrons in the sea were not influenced by V and
+the extra pair was restricted to states within an energy          above the Fermi
+surface, as illustrated in Fig. 2. As a consequence of the non-zero density of
+quasi-particle states       at the Fermi surface, he found the energy eigenvalue
+spectrum for two electrons having zero total momentum had a bound state
+split off from the continuum of scattering states, the binding energy being
+
+
+
+
+if the matrix elements of the potential are constant equal to V in the region of
+interaction. This important result, published in 1956 (12), showed that, re-
+gardless of how weak the residual interaction between quasi-particles is, if the
+interaction is attractive the system is unstable with respect to the formation of
+bound pairs of electrons. Further, if E B is taken to be of order         the un-
+certainty principle shows the average separation between electrons in the bound
+state is of order 10-4 c m .
+   While Cooper’s result was highly suggestive, a major problem arose. If,
+as we discussed above, a fraction 10-4 of the electrons is significantly involved
+in the condensation, the average spacing between these condensed electrons
+
+
+102                                 Physics 1972
+
+
+is roughly 10-6 cm. Therefore, within the volume occupied by the bound state
+of a given pair, the centers of approximately ( 10 -4/ 10 -6) 3  10 6 other pairs will
+be found, on the average. Thus, rather than a picture of a dilute gas of strongly
+bound pairs, quite the opposite picture is true. The pairs overlap so strongly
+in space that the mechanism of condensation would appear to be destroyed
+due to the numerous pair-pair collisions interrupting the binding process of
+a given pair.
+   Returning to the variational approach, we noted that the matrix elements
+              in (6) alternate randomly in sign as one randomly varies n and n 1
+over the normal state configurations. Clearly this cannot be corrected to obtain
+a low value of E 0, by adjusting the sign of the an‘s since there are N2 matrix
+elements to be corrected with only N parameters an. We noticed that if the
+sum in (6) is restricted to include only configurations in which, if any quasi-
+particle state, say k, s, is occupied (s = or is the spin index), its “mate”
+state      is also occupied, then the matrix elements of H between such states
+would have a unique sign and a coherent lowering of the energy would be
+obtained. This correlated occupancy of pairs of states in momentum space is
+consonant with London’s concept of a condensation in momentum.
+   In choosing the state        to be paired with a given state k, s, it is important
+to note that in a perfect crystal lattice, the interaction between quasi-particles
+conserves total (crystal) momentum. Thus, as a given pair of quasi-particles
+interact, their center of mass momentum is conserved. To obtain the largest
+number of non-zero matrix elements, and hence the lowest energy, one must
+choose the total momentum of each pair to be the same, that is
+                                                                                 (8)
+   States with q     0 represent states with net current flow. The lowest energy
+state is for q = 0, that is, the pairing is such that if any state   is occupied in
+an admissible         so         occupied. The choice of        spin pairing is not
+restrictive since it encompasses triplet and singlet paired states.
+   Through this reasoning, the problem was reduced to finding the ground state
+of the reduced Hamiltonian
+                                                                                  (9)
+
+   The first term in this equation gives the unperturbed energy of the quasi-
+particles forming the pairs, while the second term is the pairing interaction
+in which a pair of quasi-particles in               scatter to               The
+operators       =          being a product of two fermion (quasi-particle)
+creation operators, do not satisfy Bose statistics, since b k+2 = 0. This point is
+essential to the theory and leads to the energy gap being present not only for
+dissociating a pair but also for making a pair move with a total momentum
+different from the common momentum of the rest of the pairs. It is this feature
+which enforces long range order in the superfluid over macroscopic distances.
+
+III. THE GR O U N D ST A T E
+In constructing the ground state wavefunction, it seemed clear that the average
+occupancy of a pair state           should b e unity for k far below the Fermi
+
+
+                                  J.R. Schrieffer                              103
+
+surface and 0 for k far above it, the fall off occurring symmetrically about kF
+over a range of momenta of order
+
+
+
+
+  One could not use a trial   as one in which each pair state is definitely oc-
+cupied or definitely empty since the pairs could not scatter and lower the
+energy in this case. Rather there had to be an amplitude, say         that
+      is occupied in    and consequently an amplitude      =           that the
+pair state is empty. After we had made a number of unsuccessful attempts
+to construct a wavefunction sufficiently simple to allow calculations to be
+carried out, it occurred to me that since an enormous number (             of pair
+states              are involved in scattering into and out of a given pair state
+            the “instantaneous” occupancy of this pair state should be essen-
+tially uncorrelated with the occupancy of the other pair states at that “instant”.
+Rather, only the average occupancies of these pair states are related.
+   On this basis, I wrote down the trial ground state as a product of operators
+- one for each pair state-acting on the vacuum (state of no electrons),
+
+
+
+
+with respect to     I found that vk was given by
+
+
+                                                    1
+where
+
+
+
+and the parameter       satisfied what is now called the energy gap equation:
+
+
+
+
+  From this expression, it followed that for the simple model
+
+
+104
+
+
+
+
+and the condensation energy at zero temperature is
+
+                                                                                    (15)
+   The idea occurred to me while I was in New York at the end of January,
+1957, and I returned to Urbana a few days later where John Bardeen quickly
+recognized what he believed to be the essential validity of the scheme, much to
+my pleasure and amazement. Leon Cooper will pick up the story from here to
+describe our excitement in the weeks that followed, and our pleasure in un-
+folding the properties of the excited states.
+
+
+
+I V . QUANTUM PHENOMENA ON A MA C R O S C O P I C SC A L E
+Superconductors are remarkable in that they exhibit quantum effects on a
+broad range of scales. The persistence of current flow in a loop of wire many
+meters in diameter illustrates that the pairing condensation makes the super-
+fluid wavefunction coherent over macroscopic distances. On the other hand,
+the absorption of short wavelength sound and light by a superconductor is
+sharply reduced from the normal state value, as Leon Cooper will discuss.
+I will concentrate on the large scale quantum effects here.
+   The stability of persistent currents is best understood by considering a cir-
+cular loop of superconducting wire as shown in Fig. 3. For an ideal small
+diameter wire, one would use the eigenstates             (m = 0, ± 1, ± 2, . . .), of the
+angular momentum L z about the symmetry axis to form the pairing. In the
+ground state no net current flows and one pairs             with        instead of
+with        as in a bulk superconductor. In both cases, the paired states are
+time reversed conjugates, a general feature of the ground state. In a current
+carrying state, one pairs              with                (v = 0, ±1, ±2 . . .), so
+that the total angular momentum of each pair is identical,             It is this com-
+monality of the center of mass angular momentum of each pair which preserves
+the condensation energy and long range order even in states with current flow.
+Another set of flow states which interweave with these states is formed by
+pairing              with                     =             . .   with the pair
+angular momentum being                   The totality of states forms a set with all
+integer multiples n of      for allowed total angular momentum of pairs. Thus,
+even though the pairs greatly overlap in space, the system exhibits quantiza-
+tion effects as if the pairs were well defined.
+   There are two important consequences of the above discussion. First, the
+fact that the coherent condensate continues to exist in flow states shows that
+to scatter a pair out of the (rotating) condensate requires an increase of energy.
+
+
+Crudely speaking, slowing down a given pair requires it ot give up its binding
+energy and hence this process will occur only as a fluctuation. These fluctua-
+tions average out to zero. The only way in which the flow can stop is if all pairs
+simultaneously change their pairing condition from, say, v to v - 1. In this
+process the system must fluctate to the normal state, at least in a section of the
+wire, in order to change the pairing. This requires an energy of order the
+condensation energy         A thermal fluctuation of this size is an exceedingly
+rare event and therefore the current persists.
+   The second striking consequence of the pair angular momentum quantization
+is that the magnetic flux    trapped within the loop is also quantized,
+
+
+
+
+  This result follows from the fact that if the wire diameter d is large compared
+to the penetration depth λ, the electric current in the center of the wire is
+essentially zero, so that the canonical angular momentum of a pair is
+
+
+                                                                               (17)
+
+where r p a i r is the center of mass coordinate of a pair and A is the magnetic
+vector potential. If one integrates L pair , around the loop along a path in the
+center of the wire, the integral is nh, while the integral of the right hand side of
+
+
+
+
+   A similar argument was given by F. London (4b) except that he considered
+only states in which the superfluid flows as a whole without a change in its
+internal structure, i.e., states analogous to the                  set. He found
+              The pairing                         cannot be obtained by adding
+  to each state, yet this type of pairing gives an energy as low as the more
+conventional flow states and these states enter experimentally on the same basis
+as those considered by London. Experiments by Deaver and Fairbank (13),
+and independently by Doll and Näbauer (14) confirmed the flux quantization
+phenomenon and provided support for the pairing concept by showing that
+2e rather than e enters the flux quantum. Following these experiments a clear
+discussion of flux quantization in the pairing scheme was given by Beyers and
+Yang (15).
+   The idea that electron pairs were somehow important in superconductivity
+has been considered for some time (16, 17). Since the superfluidity of liquid
+H e4 is qualitatively accounted for by Bose condensation, and since pairs of
+electrons behave in some respects as a boson, the idea is attractive. The
+essential point is that while a dilute gas of tightly bound pairs of electrons might
+behave like a Bose gas (18) this is not the case when the mean spacing between
+pairs is very small compared to the size of a given pair. In this case the inner
+structure of the pair, i.e., the fact that it is made of fermions, is essential;
+it is this which distinguishes the pairing condensation, with its energy gap for
+single pair translation as well as dissociation, from the spectrum of a Bose con-
+
+
+106                                  Physics 1972
+
+
+
+                     r
+
+
+densate, in which the low energy exictations are Bose-like rather than Fermi-
+like as occurs in acutal superconductors. As London emphasized, the con-
+densation is an ordering in occupying momentum space, and not a space-like
+condensation of clusters which then undergo Bose condensation.
+   In 1960, Ivar Giaever (19) carried out pioneering experiments in which elec-
+trons in one superconductor (S,) tunneled through a thin oxide layer (~ 20-
+30 A) to a second superconductor (S,) as shown in Fig. 4. Giaever’s experi-
+ments were dramatic evidence of the energy gap for quasi-particle excitations.
+Subsequently, Brian Josephson made a highly significant contribution by
+showing theoretically that a superfluid current could flow between S 1 and S2
+with zero applied bias. Thus, the superfluid wavefunction is coherent not only
+in S 1 and S 2 separately, but throughout the entire system, S 1- 0 - S2, under
+suitable circumstances. While the condensate amplitude is small in the oxide,
+it is sufficient to lock the phases of S1 and S2 together, as has been discussed in
+detail by Josephson (20) and by P. W. Anderson (21).
+   To understand the meaning of phase in this context, it is useful to go back
+to the ground state wavefunction           (10). Suppose we write the parameter
+as      exp      and choose uk to be real. If we expand out the k-product in
+we note that the terms containing N pairs will have a phase factor exp (i
+that is, each occupied pair state contributes a phase to           Let this wavefunc-
+tion, say         represent S1, and have phase       Similarly, let       represent S2
+and have phase angle           If we write the state of the combined system as a
+product
+
+                                                                                 (18)
+then by expanding out the double product we see that the phase of that part of
+          which has N 1 pairs in S1 and N 2 pairs in S2 is N1           For a truly
+isolated system,               = 2N is a fixed number of electrons; however N 1
+and N2, are not separately fixed and, as Josephson showed, the energy of the
+combined system is minimized when              =    due to tunneling of electrons
+between the superconductors. Furthermore, if         =     a current flows between
+S 1 a n d S2
+                                                                           (19)
+   If       = is constant in time, a constant current flows with no voltage
+applied across the junction. If a bias voltage is V applied between S 1 and S2,
+then, according to quantum mechanics, the phase changes as
+
+
+                                      J. R. Schrieffer                                107
+
+
+
+
+   Hence a constant voltage applied across such a junction produces an
+alternating current of frequency
+
+
+
+
+   These effects predicted by Josephson were observed experimentally in a
+series of beautiful experiments (22) by many scientists, which I cannot discuss
+in detail here for lack of time. I would mention, as an example, the work of
+Langenberg and his collaborators (23) at the University of Pennsylvania on
+the precision determination of the fundamental constant e/h using the fre-
+quency-voltage relation obeyed by the alternating Josephson supercurrent.
+These experiments have decreased the uncertainty in our experimental knowl-
+edge of this constant by several orders of magnitude and provide, in combina-
+tion with other experiments, the most accurate available value of the Sommerfeld
+fine structure constant. They have resulted in the resolution of several dis-
+crepancies between theory and experiment in quantum electrodynamics and
+in the development of an “atomic” voltage standard which is now being used
+by the United States National Bureau of Standards to maintain the U.S. legal
+volt.
+
+
+
+
+V . C ONCLUSION
+As I have attempted to sketch, the development of the theory of superconduct-
+ivity was truly a collaborative effort, involving not only John Bardeen, Leon
+Cooper and myself, but also a host of outstanding scientists working over a
+period of half a century. As my colleagues will discuss, the theory opened up
+the field for many exciting new developments, both scientific and technological,
+many of which no doubt lie in the future. I feel highly honored to have played
+a role in this work and I deeply appreciate the honor you have bestowed on me
+in awarding us the Nobel prize.
+
+
+
+
+R EFERENCES
+
+ 1. Kamerlingh Onnes, H., Nobel Lectures, Vol. 1, pp. 306-336.
+ 2. Meissner, W. and Ochsenfeld, R., Naturwiss. 21, 787 (1933).
+ 3. Garter, C. J. and Casimir, H. B. G., Phys. Z. 35, 963 (1934); Z. Techn. Phys. 15,
+    539 (1934).
+ 4. London, F., [a] Phys. Rev. 24, 562 (1948); [b] Superfluids, Vol. 1 (John Wiley & Sons,
+    New York, 1950).
+ 5. Ginzburg, V. L. and Landau, L. D., J. Exp. Theor. Phys. (U.S.S.R.) 20, 1064 (1950).
+ 6. Maxwell, E., Phys. Rev. 78, 477 (1950) ; Reynolds, C. A., Serin, B., Wright W. H. and
+    Nesbitt, L. B., Phys. Rev. 78, 487 (1950).
+ 7. Fröhlich, H., Phys. Rev. 79, 845 (1950).
+
+
+108
+
+
+ 8. Bardeen, J., Rev. Mod. Phys. 23, 261 (1951).
+ 9. Pippard, A. B., Proc. Royal Soc. (London) A216, 547 (1953).
+10. Bardeen, J., [a] Phys. Rev. 97, 1724 (1955); [b] Encyclopedia of Physics, Vol. 15
+      (Springer-Verlag, Berlin, 1956), p. 274.
+11. Landau, L. D., J. Exp. Theor. Phys. (U.S.S.R.) 30 (3), 1058 (920) (1956); 32 (5),
+      59 (101) (1957).
+12. Cooper, L. N., Phys. Rev. 104, 1189 (1956).
+13. Deaver, B. S. Jr., and Fairbank, W. M., Phys. Rev. Letters 7, 43 (1961).
+14. Doll, R. and NBbauer, M., Phys. Rev. Letters 7, 51 (1961).
+15. Beyers, N. and Yang, C. N., Phys. Rev. Letters 7, 46 (1961).
+16. Ginzburg, V. L., Usp. Fiz. Nauk 48, 25 (1952); transl. Fortsch. d. Phys. I, 101 (1953).
+17. Schafroth, M. R., Phys. Rev. 96, 1442 (1954); 100, 463 (1955).
+18. Schafroth, M. R., Blatt, J. M. and Butler, S. T., Helv. Phys. Acta 30, 93 (1957).
+19. Giaever, I., Phys. Rev. Letters 5, 147 (1960).
+20. Josephson, B. D., Phys. Letters I, 251 (1962); Advan. Phys. 14, 419 (1965).
+21. Anderson, P. W., in Lectures on the Many-body Problem, edited by E. R. Caianiello
+      (Academic Press, Inc. New York, 1964), Vol. II.
+22. See Superconductivity, Parks, R. D., ed. (Dekker New York, 1969).
+23. See, for example, Parker, W. H. Taylor B. N. and Langenberg, D. N. Phys. Rev.
+      Letters 18, 287 (1967); Finnegan, T. F. Denenstein A. and Langenberg, D. N. Phys.
+      Rev. B4, 1487 (1971).
+

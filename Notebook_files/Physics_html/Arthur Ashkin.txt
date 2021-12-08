@@ -1,0 +1,549 @@
+                                                                               65
+
+
+
+
+Optical Tweezers and their
+Application to Biological
+Systems
+Nobel Lecture, December 8, 2018 by
+Arthur Ashkin*
+Bell Laboratories, Holmdel, NJ, USA.
+
+it is a pleasure to present this summary of my 2018 Physics Nobel
+Lecture [1] that was delivered in Stockholm, Sweden, on December 8,
+2018 by my fellow Bell Labs scientist and friend René-Jean Essiambre.
+This summary is presented chronologically as in the Lecture. It starts
+with my fascination with light as a youngster and goes on to the invention
+of the optical tweezer and its applications to biological systems, the work
+that was recognized with a Nobel Prize. Along the way, I provide simple
+and intuitive explanations of how the optical tweezer can be understood
+to work. This document is a personal recollection of events that led me to
+invent the optical tweezer. It should not be interpreted as being complete
+in the historical attribution of the scientific discoveries discussed here.
+
+
+CROOKES RADIOMETER: THERMAL EFFECTS
+I have always been fascinated by the forces that light can exert on objects.
+I started to play with a Crookes radiometer [2] in my early teenage years
+and tried all kinds of experiments with it. I learned that thermal effects
+can explain the motion of the Crookes radiometer.
+
+* Arthur Ashkin's Nobel Lecture was delivered by René-Jean Essiambre.
+
+
+66   THE NOBEL PRIZES
+
+
+
+
+     Figure 1. Crookes radiometer: a) side view b) top view showing the direction of rotation.
+     Thermal effects are responsible for the rotation of the vanes.
+
+
+
+
+        Black surfaces absorb light which heats up the surface. In contrast,
+     metallic surfaces reflect light with negligible heat generation. A Crookes
+     radiometer, represented schematically in Fig. 1a, is a set of four vanes on a
+     spindle with each vane having a black and a metallic side, everything
+     being placed in a low-pressure glass bulb. They are disposed at 90-degree
+     angles so as to always show the black side on the left and the metallic side
+     on the right when looking at the radiometer from any side. Upon shining
+     light on the radiometer, with light from the sun for instance, the vanes
+     will turn in the direction where the black side moves away from the light.
+     This direction of rotation originates from the heating of the black surface
+     (thermal effect) by the absorption of the photons that in turn heat up the
+     air around the black side of the vanes. The heated air moves around in the
+     bulb resulting in a net force on the black surface that makes it move away
+     from the light as represented in Fig. 1b.
+
+
+     LIGHT PRESSURE
+     The motion of the Crookes radiometer can be explained by thermal
+     effects alone. During my teenage years I was acquainted with the experi-
+     ment of Nichols and Hull [3], which demonstrated the effect of light pres-
+     sure. This was accomplished with the development of high vacuum
+     pumps that achieved lower pressure, therefore reducing the thermal
+     effects until radiation pressure became the dominant effect. With a device
+     like the Crookes radiometer, better vacuum results in the vanes rotating
+     in the opposite direction as the one indicated on Fig. 1b.
+
+
+                                                          Arthur Ashkin Lecture   67
+
+
+HIGH-POWER MAGNETRONS
+Shortly after the entry of the United States in World War II, I was drafted
+and asked to help with building a high-power magnetron in the Columbia
+Radiation Laboratory for radar application. I learned to make and solder
+high-power magnetrons for use with radar. I built a magnetron named the
+“rising-sun” magnetron because its geometry resembled the rays of the
+sun at sunrise. It operated at about 10 GHz, a frequency about 50,000
+times smaller than visible light. The magnetron emitted high-intensity
+pulses at a frequency of 1000 cycles per seconds. If one shined it on a
+metallic vane of a phone earpiece and detected a thousand cycle fre-
+quency on an oscilloscope matching this frequency. I interpreted this as
+possibly the effect of light pressure on the receiver plate.
+
+
+ARRIVING AT BELL LABS
+I joined Bell Labs in New Jersey, in 1952, tasked to work on vacuum tube
+amplifiers. It was both interesting and time-consuming work. I joined
+Calvin Quate’s sub-department, as it was called in those days, and was
+assigned to do an experiment on cancelling noise. This was a flawed idea,
+but it was not known at the time I started. Of course, it was doomed to
+failure, and I ended up being blamed for lack of positive results. After one
+year working fruitlessly on this topic, I was almost fired. But, fortunately,
+Quate saved me. This endeavor came to an end a few months later, with
+the arrival of Neville Robinson, a student of Rudolf Kompfner, who
+showed that the cancellation of noise was impossible. He showed that
+rather than being cancelled, the noise was transferred to other frequen-
+cies. I was barely saved, and thereafter started work of my own.
+
+
+THE ADVENT OF THE LASER
+Shortly after the first laser was demonstrated in 1960, I began to work
+with light pressure again, now with much more powerful and well-colli-
+mated light sources than previously available. The experiments per-
+formed in the early to mid-1960s were primarily exploring various linear
+and nonlinear effects of laser light on different materials and waveguides.
+This new tool that was the laser enabled a fast pace of discovery.
+
+
+THE FIRST LIGHT PRESSURE EXPERIMENTS WITH A LASER
+In 1966, I attended the International Quantum Electronics Conference
+(IQEC) in Phoenix, AZ. At the conference, Eric Rawson and his mentor
+Professor A.D. May from the University of Toronto presented a video
+showing particles behaving like “runners and bouncers” in the internal
+
+
+68   THE NOBEL PRIZES
+
+
+
+
+     Figure 2. “Runners and Bouncers” in the internal beam of a laser cavity as observed by
+     Rawson and May.
+
+
+     beam of a laser cavity [4], as depicted in Fig. 2. This curious behavior
+     piqued my curiosity. One among various other possible explanations
+     given for this phenomenon was light pressure. I figured out from a back-
+     of-the-envelope calculation that light pressure could not be responsible
+     for this behavior. Not long after the talk, all persons involved with the
+     question agreed that the heating of the particles through absorption of
+     light was responsible for the observed motion. The main impact of this
+     experiment on me, however, was to reignite my desire to explore how
+     light pressure from lasers could be observed and used to move small par-
+     ticles.
+
+
+     LIGHT PRESSURE ON A MIRROR AND ON A TRANSPARENT SPHERE
+     Let’s consider the effect of light pressure on two different types of objects
+     that do not absorb light: a highly reflective mirror and a highly transpar-
+     ent sphere. The mirror and the transparent sphere are assumed to be tiny
+     (micrometer sized) and the effects of any other forces other than light
+     pressure are considered negligible. First, what happens when a particle of
+     light, a photon, hits a perfectly reflecting mirror at normal incidence as
+     represented schematically in Fig. 3a? Of course, the photon is reflected,
+     and its momentum is reversed. The mirror experiences a slight recoil,
+     opposite to the change of momentum of the photon, so that the overall
+     momentum is conserved. Now, let’s consider a transparent object such as
+     a small sphere made of glass or polystyrene as depicted in Fig. 3b. What
+     follows is the core principle on which the operation of optical traps and
+     optical tweezers is based. When a photon is incident on the sphere on its
+     outer side, it generally goes through the sphere and is deflected towards
+     the center of the sphere. This change of direction of the photon corre-
+
+
+                                                                     Arthur Ashkin Lecture     69
+
+
+
+
+Figure 3. Two scenarios that show the impact of light pressure: a) a photon incident on an
+ideal reflective mirror; b) photons incident on a transparent sphere. When the mirror or the
+sphere are small (micrometers in size) and many photons are incident, the radiation pressure
+forces exerted on these objects can exceed gravity by several orders of magnitude.
+
+
+
+sponds to a change of momentum. From conservation of momentum, the
+transparent sphere reacts and acquires a motion. Thus, a photon hitting
+the upper part of a sphere exits the sphere in the downward direction as
+shown in Fig. 3b. This change of direction of the photon induces a change
+of momentum that results in a force that makes the sphere move both
+forward and upward. On the other hand, when a photon hits the lower
+part of the sphere, the photon is deflected in the upward direction. The
+sphere then experiences a force that has a forward and a downward com-
+ponent. When two photons symmetrically located on each side of the
+sphere hit it simultaneously, the sphere moves only in the forward direc-
+tion as the downward and upward components cancel. I gave the label
+“scattering force” to the component of the light pressure force on a trans-
+parent sphere as it arises from the scattering of light. As a consequence,
+the small sphere moves in the direction of the beam. An estimate of the
+scattering force exerted by a one-watt laser on a glass sphere of one
+micrometer in diameter gives a force that is six orders of magnitude larger
+than gravity. This is a tremendous force.
+
+
+70   THE NOBEL PRIZES
+
+
+
+                                             Figure 4. Forces exerted on a transparent
+                                             sphere located off-axis in a laser beam.
+                                             The force Fa resulting from photons
+                                             hitting the upper part of the sphere is
+                                             larger than the force Fb coming from the
+                                             photons arriving on the lower part of the
+                                             sphere due to a larger number of photons
+                                             incident on the upper part of the sphere
+                                             (higher laser intensity).
+
+
+
+
+     MOTION OF A SPHERE WITHIN A LASER BEAM
+     A laser beam is not uniform in the transverse direction as it follows the
+     distribution of the spatial modes of the cavity. Let’s consider what the net
+     effect of light pressure is on a transparent sphere located off-center
+     within a laser beam as depicted in Fig. 4. A typical laser beam has its high-
+     est intensity near its center, with the intensity decreasing gradually with
+     the distance from the center. We refer to this difference in light intensity
+     as light gradient, with a positive gradient being defined as the direction
+     from low to high light intensity. In the case of the transparent sphere
+     located off-axis as in Fig. 4, there is more light intensity hitting the upper
+     part of the sphere (path a) closer to the beam center than the lower part
+     (path b) further away from the beam center because it is closest to the
+     region of the beam that has the highest intensity. Because there are more
+     photons near the center of the beam, the net effect of the gradient radia-
+     tion pressure is to push the sphere towards the center of the beam. I refer
+     to this light pressure force as “gradient force” as the sphere is pulled
+     towards the region having the highest gradient of intensity. As a result of
+     light pressure, the sphere in Fig. 4 will move forward due to the scattering
+     force and, at the same time, will move upward toward the center of the
+     beam due to the gradient force. It will then stop when it hits the vertical
+     microscope slide in Fig. 4 and be trapped at the center of the beam. It is
+     trapped from the left by the laser beam and from the right by the micro-
+     scope slide and can be referred to as an opto-mechanical trap.
+
+
+     TWO-BEAM OPTICAL TRAP IN LABORATORY NOTEBOOK
+     In 1969, I thought that placing a particle between two laser beams would
+     create the first all-optical trap due to light pressure. Figure 5 shows two
+     parts of an entry to my notebook. Figure 5a shows the schematic of the
+     two-beam all-optical trap. In this figure, it uses a donut-shaped mode to
+     trap a metallized sphere. Transparent spheres are discussed later in this
+
+
+                                                                Arthur Ashkin Lecture    71
+
+
+
+                                                            Figure 5. Two excerpts of
+                                                            an entry in my laboratory
+                                                            notebook at Bell Labs
+                                                            on September 8, 1969.
+                                                            It presents the idea of a
+                                                            two-beam all-optical trap.
+                                                            From Bell Labs archives.
+
+
+
+
+entry. Figure 5b also shows the two witnesses of this entry, Erich P. Ippen,
+who became Professor at MIT and Peter A. Wolfe, who was my boss at
+the time. This led to the first paper on all-optical trapping in 1970 [5].
+
+
+OPTICAL LEVITATION
+In the two-beam trapping experiment, each laser provides the opposing
+force to trap the sphere. By using a single laser oriented upwards, one can
+compensate for gravity. As a result, the sphere is levitated in the air.
+Because light pressure can produce forces much larger than gravity, only
+low powers are necessary to achieve optical levitation. Figure 6 shows
+pictorially how the scattering force of a slightly diverging laser compen-
+sates for the gravitational force on the sphere. By
+changing the power of the laser one can change
+the height of the sphere.
+   The light pressure from the laser beam ori-
+ented upward can be used to levitate particles.
+Consider a glass ball resting on a microscope
+slide. If a low power laser beam goes through the
+ball from below, the ball experiences an upward
+
+
+Figure 6. Transparent sphere levitating above a mi-
+croscope slide as a result of light pressure from a laser
+pointing upwards.
+
+
+72   THE NOBEL PRIZES
+
+
+     force but does not move. As the power is increased above a certain
+     threshold the scattering force exceeds gravity (neglecting van der Waals
+     forces), and the ball will start to levitate. The final height reached depends
+     on the laser power and its divergence.
+
+
+     OPTICAL TWEEZERS
+     Finally, in 1983, I discovered that a transparent sphere could be trapped
+     by a single highly focused laser beam. I named this single-beam trap
+     “optical tweezers”. It is generated by using a large numerical aperture
+     microscope objective. Such an objective produces a strong gradient of
+     intensity along the direction of the laser beam near the laser focus as
+     depicted in Fig. 7. This axial gradient generates a light pressure force in
+     the backward direction relative to the beam and of a magnitude that can
+     exceed the forward scattering force. At a certain distance downstream but
+     close to the beam focus center, both the gradient and scattering light
+     pressure forces are equal. This is the equilibrium point where a sphere is
+     trapped. This invention of the optical tweezers is cited in the 2018 Nobel
+     Prize for Physics.
+
+
+
+
+     Figure 7. The layout of an optical tweezer (above) along with a magnification near the
+     beam focus. A transparent sphere settles on the beam axis just beyond the beam focus
+     where the gradient and scattering forces are equal.
+
+
+                                                                   Arthur Ashkin Lecture   73
+
+
+OPTICAL MANIPULATION OF MICROORGANISMS
+The understanding and development of optical tweezers were based on
+transparent spheres but were not limited to this ideal shape. They can
+also apply to other objects that can greatly depart from sphericity. It sim-
+ply requires that the sum of the rays traversing a portion of an object is
+such that a net gradient force becomes comparable in magnitude to the
+scattering force. When this happens, the object can be “grabbed” by the
+optical tweezers and freely manipulated. The only requirement is that the
+object lets some light through. Note that most “small living things” are
+highly transparent at certain wavelengths where high-power lasers exist.
+   One of the first microorganisms manipulated by optical tweezers was
+the protozoan, Paramecium: a large, single-celled organism measuring
+between 50 to 330 μm in length. The internal components are called
+organelles and they range in size from a few μm to a few tens of μm. A
+picture of Paramecium with its organelles is shown in Fig. 8. The dimen-
+sions of these organelles are on the same order as the beam waist of a
+1-micrometer laser, and therefore a natural subject to trap optically. Soon
+after we put together the set-up, we were able to manipulate its orga-
+nelles. The circle, indicated by the arrow in Fig. 8, shows the organelle
+that could be moved around inside Paramecium or trapped in space. In
+the latter case, the trapped organelle eventually escapes the optical
+tweezer trap when it hits the walls of the moving cell.
+   In a period of over a year, we went on to use optical tweezers to manip-
+
+
+
+
+Figure 8. Picture of a paramecium where one can see the internal organelles. The arrow
+points to the specific organelle that we manipulated using an optical tweezer (see Nobel
+Lecture [1] for the video).
+
+
+74   THE NOBEL PRIZES
+
+
+     ulate “all sorts of living things”. This included tobacco mosaic viruses
+     (TMVs) that can be trapped easily by its ends. We also trapped sperm
+     cells, manipulated chlorophyll in onion cells, and trapped various other
+     microorganisms including bacteria.
+
+
+     OPTICAL TWEEZERS TO MEASURE THE MOTION OF KINESIN
+     Motor proteins are enzymes that move objects inside living cells. Optical
+     tweezers are particularly well suited to measure the displacement of indi-
+     vidual motor proteins, revealing their dynamics and properties.
+        Figure 9a shows a single motor protein, called kinesin, attached to a
+     tiny plastic bead, about half a micrometer in diameter [6]. The bead is
+     first captured by an optical trap and then positioned directly over a
+     microtubule. The kinesin molecule binds to the microtubule and begins to
+     walk out of the trap, carrying the bead with it. Its motion is fueled by mol-
+     ecules of adenosine triphosphate (ATP) in the solution. The displacement
+     of the bead is measured using a position-sensitive detector that monitors
+     tiny deflections of the laser beam produced by the bead moving inside the
+     trap. Figure 9b shows three different records of displacement, all showing
+     that kinesin takes discrete steps as it moves along the microtubule. Each
+     step measures just 8 nm.
+        Steven Block is one of the pioneers who studied the properties of indi-
+     vidual biomolecules using optical tweezers, and his lab was the first to
+     measure directly the steps taken by kinesin motors. He started his
+     research with optical traps within days of the publication of our study in
+     Nature, which reported that living bacteria, such as E. coli, could be
+
+
+
+
+     Figure 9. a) A schematic representation of the transport of a transparent bead by a
+     kinesin molecule walking on a microtubule; b) three measurements of the position
+     of the bead with time showing that the motion occurs by discrete steps of 8 nm. With
+     permission from Steven Block.
+
+
+                                                         Arthur Ashkin Lecture   75
+
+
+trapped noninvasively by optical tweezers. Block first worked with his
+mentor, Howard Berg (at Harvard), to measure the nanomechanical prop-
+erties of individual bacterial flagella, which propel swimming bacteria. He
+later built a series of sensitive optical trapping instruments that allowed
+him to study individual motor proteins, such as kinesin and myosin,
+nucleic acid enzymes, such as RNA polymerase, exonuclease, and heli-
+case, and folded RNA molecules, like hairpins and riboswitches.
+
+
+MEASUREMENTS OF GENE TRANSCRIPTION
+– DUAL OPTICAL TWEEZERS
+Gene transcription by a single molecule of ribonucleic acid (RNA) poly-
+merase (an enzyme) can be followed as it moves along a template of deox-
+yribonucleic acid (DNA), synthesizing a corresponding RNA [7]. In a
+technique represented in Fig. 10, one end of the DNA template is attached
+to one bead, while a single RNA polymerase enzyme is attached to the
+second bead. This forms a bead – DNA – bead chain, also called a sin-
+gle-molecule “dumbbell” assay. Each bead is trapped by a separate optical
+trap, with one trap being stronger than the other. In this configuration,
+the assay can be used to measure both the force and the displacement
+that the polymerase enzyme experiences. As the enzyme proceeds along
+the DNA template, transcribing the corresponding RNA, the distance
+between the two beads changes. The video shown in the Nobel Lecture
+[1] displays how the separation between the beads, and therefore the
+location of the RNA polymerase, changes over time. High-resolution
+records of the relative motion of the beads reveal interesting RNA poly-
+merase behavior, including transcriptional pausing, stepping, backtrack-
+ing, and termination.
+
+
+
+
+                                                 Figure 10. Two optical
+                                                 tweezers hold transparent
+                                                 spheres with one attached
+                                                 to a DNA template and the
+                                                 second attached to an RNA
+                                                 polymerase (RNAP) enzyme,
+                                                 actively transcribing RNA.
+                                                 With permission from Steven
+                                                 Block.
+
+
+76   THE NOBEL PRIZES
+
+
+     MEASUREMENT OF BASE-PAIR STEPPING BY RNA POLYMERASE
+     Figure 11 shows a measurement of the extension between the two beads
+     of the single-molecule dumbbell assay as a function of time [7]. Note the
+     transcriptional pauses, which occur reproducibly, at specific locations in
+     the DNA template. This is an extremely sensitive apparatus that allows
+     very precise measurements of displacement. At the large magnification
+     shown in Fig. 11, we notice that the distance between the beads always
+     changes in discrete increments of 3.4 Ångströms, which corresponds
+     exactly to the distance between successive base pairs of the DNA dou-
+     ble-helix. This was the highest-resolution measurement ever made
+     directly on a single enzyme at that time. Optical tweezers, in combination
+     with atomic force microscopy, is now being used to study these and other
+     DNA-dependent processes, such as the work of Thomas Perkins at JILA/
+     University of Colorado.
+
+
+
+
+     Figure 11. Measurements of the extension between the spheres as a result of the
+     transcription of DNA by the RNA polymerase. A step size of 3.4 Ångströms was
+     measured, which corresponds to the distance between the adjacent base pairs in
+     the DNA double helix. With permission from Steven Block.
+
+
+                                                        Arthur Ashkin Lecture   77
+
+
+OTHER BIOLOGICAL APPLICATIONS OF OPTICAL TWEEZERS
+There are many other applications of optical tweezers in biology such as
+1) Measuring the properties of biopolymers produced in living organisms
+   such as DNA and RNA
+2) Measuring motion and forces of molecular motors, linear and rotary,
+   that are agents of movement in living organisms
+3) Studying the folding of proteins and structured nucleic acids
+4) Studying the binding and assembly of biomolecular components
+5) Micro-manipulation of small objects in general, including cells and
+   organelles
+6) … and probably many other applications yet to come.
+There are now several companies commercializing optical tweezers for
+   diverse applications.
+
+
+CONCLUSIONS
+Since the invention of the optical tweezer in 1983, the technique has
+proven to be applicable to a wide range of particle sizes, from small num-
+bers of atoms up to entire living cells. A key advantage has been the for-
+midable power with which optical tweezers are able to manipulate and
+measure the motion of tiny objects. This has proven to be of particular
+value in studying the behavior of biomolecules. However, much work
+remains to be done in this area. Many of the nanomechanical properties
+of even the most essential proteins and nucleic acids remain unknown,
+and further investigation is needed to elucidate important processes
+involving these biomolecules. Advanced physical techniques, including
+optical tweezers, scanned-force microscopy, and the like, offer greatly
+improved capabilities to understand life’s fundamental mechanisms.
+
+
+ACKNOWLEDGEMENTS
+I would like to acknowledge the contributions of my dear wife, Aline, my
+long-time research partner Joseph Dziedzic with whom many of the opti-
+cal trapping experiments were performed, a close colleague, John Bjork-
+holm, and many other collaborators. I owe special thanks to René-Jean
+Essiambre for helping prepare and delivering the Nobel Lecture and for
+contributions to this summary. I am also indebted to Steven Block for
+graciously sharing materials, providing comments, and for a careful read-
+ing of the manuscript.
+
+
+78   THE NOBEL PRIZES
+
+
+     BOOK
+     I wrote a comprehensive book on optical trapping [8] with the help of my
+     wife, Aline. It contains a description of the discovery and evolution of
+     optical trapping from its inception until 2005. It also includes reprints of
+     key articles on optical trapping. Of course, work continues as new discov-
+     eries are made. One of the motivating factors for writing the book were
+     assertions made by certain researchers to the effect that magneto-optical
+     traps (MOTs) were “much more important” than optical tweezers for
+     trapping. I did not accede to this school of thought, and therefore decided
+     to write a book demonstrating the power of using radiation pressure to
+     trap tiny objects.
+
+
+
+
+     references
+     1)   Arthur Ashkin Nobel Lecture entitled “Optical Tweezers and their Applica-
+          tion to Biological Systems”, https://www.nobelprize.org/prizes/physics/2018/
+          ashkin/lecture. Delivered in Stockholm, Sweden on December 8, 2018.
+     2)   W. Crookes, “On Attraction and Repulsion Resulting from Radiation”. Phil.
+          Trans. Roy. Soc. London, Vol. 164, pp. 501–527 (1874).
+     3)   E. F. Nichols and G. F. Hull, “A preliminary communication on the pressure of
+          heat and light radiation,” Phys Rev. Series I, pp. 307–320 (1901). Also demon-
+          strated by P. Lebedev, ‘‘Untersuchungen über die Druckkräfte des Lichtes,”
+          Ann. Phys. (Leipzig), Vol. 6, pp. 433–458 (1901).
+     4)   E. G. Rawson, A. H. Hara and A. D. May, “Orientation Stability and Propulsion
+          of Dust Particles in a Laser Cavity,” International Quantum Electronics Con-
+          ference (IQEC), Phoenix, AZ, Paper 8C-3 (1966); E. G. Rawson and A. D. May,
+          Propulsion and angular stabilization of dust particles in a laser cavity, App.
+          Phys. Lett., Vol. 8, pp. 93–95 (1966).
+     5)   A. Ashkin, “Acceleration and trapping of particles by radiation pressure”,
+          Phys. Rev. Lett., Vol. 24, No 4, pp. 156–159 (1970).
+     6)   K. Svoboda, C. F. Schmidt, B. J. Schnapp, and S. M. Block, “Direct observation
+          of kinesin stepping by optical trapping interferometry,” Nature, Vol. 365, pp.
+          721–727 (1993).
+     7)   E. A. Abbondanzieri, W. J. Greenleaf, J. W. Shaevitz, R. Landick and Steven M.
+          Block, “Direct observation of base-pair stepping by RNA polymerase,” Nature,
+          Vol. 438, pp. 460–465 (2005).
+     8)   A. Ashkin, “Optical Trapping and Manipulation of Neutral Particles using
+          Lasers: A Reprint with Commentaries”, edited by World Scientific Press
+          (2006).
+

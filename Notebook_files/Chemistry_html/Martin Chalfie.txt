@@ -1,0 +1,724 @@
+GFP: LIGHTING UP LIFE
+
+Nobel Lecture, December 8, 2008
+by
+Martin Chalfie
+Department of Biological Sciences, 1012 Fairchild, Columbia University, New
+York, NY 10027, USA.
+
+
+
+
+                                              “You can observe a lot by watching.”
+                                                                        Yogi Berra
+
+   “My companions and I then witnessed a curious spectacle… The Nautilus
+ floated in the midst of… truly living light[,]… an infinite agglomeration of
+                                    colored… globules of diaphanous jelly…”
+                         Twenty Thousand Leagues Under the Sea – Jules Verne
+
+    “Now it is such a bizarrely improbable coincidence that anything so mind-bogglingly
+ useful could have evolved purely by chance that some thinkers have chosen to see it as a
+                                  final and clinching proof of the nonexistence of God.”
+                             The Hitchhiker’s Guide to the Galaxy – Douglas Adams
+
+I want to thank the Royal Swedish Academy of Sciences and the Nobel
+Foundation for this amazing and surprising honor. At first I wondered why I,
+a biologist and a person with less than enviable college grades in Chemistry,
+had been selected. Then I realized that this prize had actually been given to
+the GFP molecule, and I am one of its assistants. Thank you for letting me be
+part of the celebration of a wonderful tool for visualizing life.
+  Scientific inquiry starts with observation. The more one can see, the
+more one can investigate. Indeed, we often mark our progress in science by
+improvements in imaging. The first Nobel Prize, the Physics prize of 1901,
+was an imaging prize, given to Wilhelm Röntgen for his discovery of X-rays
+and their astonishing ability to allow the noninvasive viewing of the human
+skeleton. A few years later the Nobel Prize in Physiology or Medicine was
+awarded for the development of silver nitrate staining to visualize nerve cells
+by Camillo Golgi and its improvement and use by Santiago Ramón y Cajal to
+demonstrate the cellular nature of the nervous system. This research laid the
+groundwork of modern neurobiology.
+  Over the years several other imaging techniques and their developers
+have been honored with the Nobel Prizes including x-ray crystallography
+(William and Lawrence Bragg, Physics, 1915), the ultramicroscope (Richard
+Zsigmondy, Chemistry, 1925), nuclear magnetic resonance (Felix Bloch and
+E. M. Purcell, Physics, 1952), the phase contrast microscope (Frits Zernike,
+
+150
+
+
+Physics, 1953), large-array radio telescopes (Martin Ryle, Physics, 1974), the
+electron microscope (Ernst Ruska, Physics, 1986), the scanning tunneling
+microscope (Gerd Binnig and Heinrich Rohrer, Physics, 1986), computer as-
+sisted tomography (Allan M. Cormack and Godfrey N. Hounsfield, Physiology
+or Medicine, 1979), and, most recently, magnetic resonance imaging (Paul
+C. Lauterbur and Sir Peter Mansfield, Physiology or Medicine, 2003).
+   My road to imaging was not direct. I had been interested in science from
+when I was very young, but after a disastrous summer lab experience in which
+every experiment I tried failed, I decided on graduating from college that I
+was not cut out to be a scientist. Instead I did a series of somewhat random
+jobs including teaching high school chemistry. During the summer break
+from teaching, I tried laboratory research one more time, working with José
+Zadunaisky at Yale Medical School (Figure 1). The successful experiments
+of that summer and his support gave me confidence to apply to graduate
+school, and I entered the Physiology Department at Harvard in 1972 where
+I did my thesis with Bob Perlman. Bob and I had a wonderful relationship,
+which continues to this day. He is one of the warmest, kindest, and smartest
+people I know, and a great person to talk over ideas with.
+
+
+
+
+Figure 1. Influences on my career. The success I had working for José Zadunaisky convinced
+me that maybe I could be a scientist. Bob Perlman was an outstanding Ph.D. advisor who
+always had time to listen to my (often crazy) ideas. Working with Sydney Brenner, John
+Sulston, and Bob Horvitz during my postdoctoral years started me on my continued
+research with C. elegans. I am convinced that working with this transparent animal was a
+major reason why I was excited about the possibilities of GFP as a biological marker. Photo
+of José Zadunaisky from Bronner, F. (2006) Obituary: José A. Zadunaisky. J. Exp. Zool. 305A:
+103; reprinted with permission of John Wiley & Sons, Inc. Photo credits for the remaining
+photos are M. Chalfie for Bob Perlman, the Nobel Foundation for Sydney Brenner, John
+Sulston, and Bob Horvitz, and Adam Antebi for C. elegans.
+
+
+
+                                                                                       151
+
+
+My current studies, however, started when I was accepted as a postdoctoral
+fellow by Sydney Brenner at the MRC Laboratory of Molecular Biology and
+began working on the nematode Caenorhabditis elegans. In 2002 Sydney, Bob
+Horvitz, and John Sulston won the Nobel Prize in Physiology or Medicine
+for their work on C. elegans. All three shaped the direction of my research.
+Sydney gave me the opportunity to work with him and an amazingly gifted
+group of scientists, Bob, a friend since high school, gave me several crucial
+pieces of advice, collaborated on several projects, and served as an example
+of what one can achieve in science (I am still following in his footsteps), and
+John, with whom I collaborated the most and who taught me most about how
+to act honorably as a scientist, started me on the project that still occupies
+most of my time: the study of mechanosensation.
+   My colleagues and I often call their Nobel Prize the first worm prize. The
+second went in 2006 to Andy Fire and Craig Mello for their discovery of
+RNA interference. I consider this year’s Prize to be the third worm prize,
+because if I had not worked on C. elegans and constantly told people that one
+of its advantages was that it was transparent, I am convinced I would have
+ignored GFP when I first heard of it. These three prizes speak to the genius
+of Sydney Brenner in choosing and developing a new organism for biological
+research.
+   The year before I learned about GFP, my lab had begun looking at gene
+expression in the C. elegans nervous system. We were studying the dif-
+ferentiation and function of nerve cells needed for mechanosensation.
+Mechanosensors respond to physical perturbation; they underlie many of
+our senses, including touch, hearing, and balance. These senses are poorly
+understood; in particular the transduction molecules, the molecules that
+detect the mechanical signal, are virtually unknown. The genetic studies
+that I had done with John Sulston were directed, in part, at discovering such
+transduction molecules. We thought that by obtaining mutants that were de-
+fective in touch, which was sensed by six cells in the animal, we could identify
+genes that were needed both for the production and differentiation of these
+particular cells and for transduction. In the late 1980’s my lab began cloning
+several touch sensitivity genes and testing whether they were expressed in the
+animal’s touch receptor neurons. At this time three general methods were
+used to look at gene and protein expression. The first was the use of labeled
+antibodies, whose specificity created outstanding protein-specific markers.
+The second was the use of B-galactosidase from the Escherichia coli lacZ gene,
+which could be expressed as transcriptional and translation fusions and vi-
+sualized by the cleavage and subsequent oxidation of X-gal to an insoluble
+blue product. The third was in situ hybridization to mRNA. We used all three
+methods to monitor gene expression (Figure 2).
+
+
+
+
+152
+
+
+           A
+
+
+
+
+           C
+
+
+
+           D
+
+
+
+
+Figure 2. Gene expression methods used before (and after) GFP. A. Positions of the six
+touch receptor neurons in C. elegans. B. Antibody staining to the MEC-7 B-tubulin (taken
+from Savage et al., 1994). C. B-galactosidase expression of a transcriptional fusion for mec-9
+(taken from Du et al., 1996). D. In situ hybridization to mec-7 mRNA (Shohei Mitani).
+
+
+All three methods had considerable limitations; they required extensive and
+time-consuming tissue preparation. The animals had to be fixed and then
+permeabilized so either the antibody, the X-gal substrate, or the DNA probe
+could enter the tissue. This preparation, which needed to be done with each
+batch of animals, meant that we could only look at dead tissues, giving us a
+static picture of expression. If we wanted to understand changes during de-
+velopment, we had to compare images from many different individuals.
+   I first had the idea to put GFP into worms a little after noon on Tuesday,
+April 25, 1989. My department has a lunchtime seminar series on Tuesdays
+for those of us interested in neurobiology, and the speaker that day was Paul
+Brehm, who at the time was at Tufts University. He began his talk with a
+description of light production by jellyfish and similar animals, work that I
+subsequently learned had been begun by my co-Laureate Osamu Shimomura
+(Shimomura et al., 1962; Johnston et al., 1962) and then by Jim Morin and
+Woody Hastings (Morin and Hastings, 1971a, b). He first spoke about ae-
+quorin, which I had heard of as a calcium indicator. But then he talked
+about a protein new to me that fluoresced and allowed the jellyfish to pro-
+duce green light instead of blue. Being primed from years of talking about
+the transparency of C. elegans and having just seen the work involved using
+antibodies and lacZ fusions, I immediately started to fantasize about how
+
+                                                                                         153
+
+
+this Green Fluorescent Protein, GFP, could be used as a biological marker.
+I must admit that I didn’t pay any attention to the rest of the seminar; I was
+too excited.
+
+
+
+
+Figure 3. Notes I took as I was tracking down the people who were working on GFP.
+
+
+I recently found my notes from that time and they have allowed me to recon-
+struct what happened next (Figure 3). I spent the next day on the phone,
+learning about GFP and eventually talking with Douglas Prasher (Figure 4),
+who was at the Woods Hole Oceanographic Institute and who was cloning
+the cDNA for gfp. We had a wonderful conversation, found we had similar
+ideas about what to do with GFP, and decided to collaborate – as soon as
+Douglas had finished cloning the gene.
+
+
+
+
+154
+
+
+Figure 4. The GFP team. Douglas Prasher cloned the gfp cDNA, Ghia Euskirchen expressed
+the cDNA in E. coli, Yuan Tu expressed the cDNA in C. elegans, and Bill Ward compared
+the excitation and emission spectra of the native and recombinant GFP. (Photo credits:
+Douglas Prasher and Bill Ward for their own photos, M. Chalfie for the photos of Ghia
+and Yuan.)
+
+
+During that day I learned that GFP had several features that made it a very at-
+tractive candidate for a biological marker. 1) It was a relatively small protein
+of only 238 amino acids. 2) It was active as a monomer. 3) It could be excited
+by ultraviolet or blue light. 4) It was a stable protein that had high quantum
+efficiency and did not photobleach easily. And 5) the active protein did not
+need a cofactor or other small molecule to fluoresce.
+   GFP had one feature, however, that might make it unsuitable for expres-
+sion in organisms other than the jellyfish: the chromophone was formed by
+the cyclization of the peptide backbone between Ser65 and Tyr66 (Figure 5).
+No one knew how this cyclization occurred, but the prevailing hypothesis
+was that one or more converting enzymes were needed to change what was
+referred to as apoGFP to the fluorescent product (Cody et al., 1993). If other
+proteins were needed, GFP would not be a very good marker.
+
+
+
+
+                                                                                 155
+
+
+Figure 5. Formation of the GFP fluorophore. A. The primary amino acid sequence of GFP.
+B. Sequence after cyclization. Data from Cody et al. (1993).
+
+The next important event in this story was my marriage in late 1989 to Tulle
+Hazelrigg, a scientist who lived and worked 2000 miles away from New York
+City at the University of Utah. Given the distance, I felt fortunate to be eligible
+for a sabbatical leave, which I took to work in her lab. Unfortunately, while
+I was away, Douglas finished cloning the gfp cDNA, tried to contact me, but
+failed to do so. He concluded that I had dropped out of science. For my part,
+having not heard from Douglas, I imagined that he had not found the cDNA.
+   We remained in mutual ignorance until September, 1992. At that time one
+of the new graduate students, Ghia Euskirchen (Figure 4), decided to do a
+rotation project with me. I was particularly happy about her joining the lab,
+because she had just finished a Masters degree in our Engineering School
+working on fluorescence. I told her about my idea of using a fluorescent
+protein to mark cells, and then bemoaned the fact that I had not heard from
+Douglas. But when we searched for “fluorescent protein” in the Medline da-
+tabase that the University had just installed on our computers, the first paper
+we saw was Douglas’ February, 1992 paper describing the isolation of the gfp
+cDNA (Prasher et al., 1992). We ran down to the library, found the journal
+with the paper, discovered that the article included his phone number, and
+
+156
+
+
+rushed back to my office to call him. After we cleared up our misconceptions
+of each other’s careers, Douglas and I renewed our collaboration.
+   Six days later Douglas sent the DNA to us. At this point, we had two choices
+as to how to do the experiment. Douglas had cloned the cDNA as an EcoRI
+fragment into a lambda vector. We could either obtain the fragment by cut-
+ting it out of the vector with the same restriction enzyme but this would give
+us additional non-coding jellyfish DNA, or we amplify only the coding se-
+quence using the polymerase chain reaction (PCR), which was risky because
+it tended, at that time, to introduce base changes. I decided we should use
+the latter strategy, a decision that turned out to be fortunate, since we latter
+learned that other labs using the restriction enzyme strategy failed to get
+fluorescence. Presumably, the extraneous jellyfish DNA interfered with the
+expression. Given the prevailing assumption that GFP needed one or more
+converting enzymes to fluoresce, the failure of bacteria to fluoresce could be
+interpreted as a need for other jellyfish components.
+
+
+
+
+Figure 6. The first expression of GFP in heterologous organisms. A. The page in Ghia
+Euskirchen’s laboratory notebook where she noted that E. coli expressing GFP fluoresced.
+The microscope she used was not in our laboratory. B. A picture of those first fluorescing
+bacteria taken by Ghia. C. GFP expressed in the C. elegans touch receptor neurons from
+Chalfie et al. (1994). Reprinted with permission from AAAS.
+
+In any event, one month after receiving the DNA from Douglas, Ghia had E.
+coli that fluoresced green (Figure 6), although we had to use the microscope
+in her previous lab to see them. We were ecstatic. No other protein from the
+jellyfish was needed to convert the protein to the fluorescent form. Ghia took
+several pictures of the bacteria and I quietly started to show them to people.
+I couldn’t contain my excitement. Soon afterward Ghia left my lab to do
+another lab rotation, and I asked Yuan Tu (Figure 4), my technician at the
+
+                                                                                     157
+
+
+time, to put GFP into C. elegans. Again the experiment succeeded, and for the
+first time we had GFP expressed in the touch receptor neurons of C. elegans
+(Figure 6). Bill Ward (Figure 4), a biochemist who had studied GFP for sev-
+eral years, then joined the project and showed that the protein produced in
+E. coli had the same optical properties as the native protein (Figure 7).
+
+
+
+
+Figure 7. Excitation (left) and emission (right) spectra for native (dotted line) and recom-
+binant (solid line) GFP (from Chalfie et al., 1994). Reprinted with permission from AAAS.
+
+
+We had one problem doing these experiments, as indicated by that note in
+Ghia’s lab notebook that the bacteria were viewed in her previous laboratory:
+we did not have a working fluorescence microscope. This problem continued
+to plague us. I solved this problem by using the departmental confocal micro-
+scope and when I could not use that, by asking microscope sales representa-
+tives to bring demonstration microscopes to our lab, so that I could test them
+before purchasing them. In reality we were using the microscopes to do the
+experiments.
+   From the late 1970s through the 1990s C. elegans researchers had a tradi-
+tion of notifying each other of research progress before publication, so the
+first written description of our work with GFP was in the October, 1993 issue
+of the C. elegans newsletter, The Worm Breeders Gazette (Chalfie et al., 1993). This
+article started the flood of requests for the GFP vectors. Approximately 50
+people asked for them before our official publication in Science in February,
+1994 (Chalfie et al., 1994).
+   Publication, however, was not without its difficulties. The first problem was
+the title. When we submitted the paper for the editors’ consideration, the
+title proclaimed that we had found “A New Marker for Gene Expression.”
+The editors told us that we had to change the title by removing that word
+“new” because every paper published in Science reported novel results. We
+were also asked to make the title more descriptive of the results. Partly in an-
+
+158
+
+
+noyance, I changed the title to a much longer one for the manuscript sent
+to the reviewers (“The Aequorea victoria Green Fluorescent Protein Needs
+No Exogenously-Added Component to Produce a Fluorescent Product in
+Prokaryotic and Eukaryotic Cells”). After the paper was accepted, however,
+the copy editor asked us to shorten the title. We submitted a new title that
+was almost identical to the original (“Green Fluorescent Protein as a Marker
+for Gene Expression”), and it was accepted.
+   We had a second problem, this time with the cover art. I had sent in a
+picture that I was quite proud of, since it showed a neuronal growth cone in
+a living animal. The art director, however, informed me that green was the
+color most difficult to reproduce on the cover, and asked if the color could
+be changed. Luckily, I convinced her that a color change in this instance
+would not be appropriate (Figure 8).
+
+
+
+
+Figure 8. The cover of Science for February 11, 1994 showing GFP in C. elegans neurons.
+From Science volume 263, number 5148. Reprinted with permission from AAAS.
+
+The third problem was that I had difficulty with one of the people who had
+already used GFP and whose unpublished data I had wanted to cite. Most
+people were happy to have their results discussed, but this person put special
+conditions on our use of her data (Figure 9). The fact that she was my wife
+may have had something to do with the added requirements. She is shown
+with our daughter Sarah, who is prize enough for anyone. Both have made
+me a better person and a very happy one.
+
+                                                                                  159
+
+
+Figure 9. Conditions set by my wife, Tulle Hazelrigg, if I wanted to cite her unpublished
+work on GFP in my paper. We still debate whether these conditions were actually met. She
+is shown with our daughter Sarah (Photo credit: Roger Tsien).
+
+
+The work that Tulle finally allowed me to cite was actually the next really
+important advance in the use of GFP because she and her graduate student
+Shengxian Wang made the first protein fusion with GFP, showed that it could
+functionally replace the original protein, and demonstrated that it could
+be used to show where in the cell the normal protein resided (Wang and
+Hazelrigg, 1994). Typical of her modesty, Tulle didn’t use the words “green
+fluorescent protein” or “GFP” in her title.
+   These papers demonstrated the usefulness of GFP as a biological marker
+for both gene expression and protein localization. And GFP had several
+distinct advantages over past markers. First, GFP, like β-galactosidase, was
+heritable. Because organisms could be transformed with DNA encoding
+GFP, strains could be established that could be studied at latter times. This
+property not only allowed repeated observations without extensive tissue
+preparation, but also the strains, with particular cells or proteins labeled
+could be used for a variety of studies. Second, visualizing GFP was essentially
+non-invasive; the protein could be detected by simply shining blue light on
+to the specimen. Third, GFP was a relative small and inert molecule that did
+not seem to interfere with the biological processes that were being studied.
+Moreover the active protein was a monomer, which allowed it to diffuse read-
+
+160
+
+
+ily throughout cells, particularly nerve cells, and outline their entire shape.
+In contrast, β-galactosidase monomers are four times larger than GFP mono-
+mers and enzymatic activity requires the formation of a tetramer, making
+diffusion difficult. Fourth, the fluorescence from GFP could be observed in
+living organisms, allowing a dynamic view of biological events. In addition,
+biological activities could be monitored for proteins outside as well as inside
+the cell (a property not shared by β-galactosidase).
+   Although native GFP was very useful for a variety of experiments, for it
+to be really established as a useful tool for biological studies, its properties
+needed to be improved. The person who started improving GFP and who
+continued to lead its development was my co-Laureate Roger Tsien. The first
+things he and his laboratory did were to devise ways to change the emission
+color and to greatly enhance the fluorescence output of the protein when
+irradiated by blue light. But these and the other inventive adaptations that
+his laboratory produced are the subjects of his talk, and I want to turn to how
+researchers reacted to our paper.
+   After the publication of our paper, people requested and we sent out ap-
+proximately 1500 sets of the GFP vectors we had produced before turning
+over the distribution to others. Two aspects of the early requests for GFP
+struck me as interesting. First, more often than not an investigator asking for
+the GFP vectors would say that he or she had heard about GFP from one of
+their graduate students or postdocs, an indication that these people were the
+real drivers of innovation in the laboratories. Second, several people would
+start their requests by asking if I knew if GFP had been used in their favorite
+organism. I expected that they asked because they wanted to be first to use
+this method, so I was surprised that when I said “no,” that some would say
+they would wait until someone else had worked out the method. I am still
+somewhat dismayed by this reaction, although I suspect it does mean that we
+have fewer real competitors than I would have assumed.
+   In any event GFP was soon put into a staggering array of organisms from all
+three domains of life: archaea, bacteria, and eukarya (Figure 10). Moreover,
+a search of PubMed using the terms GFP or green fluorescent protein nets
+over 30,000 publications, a number that has been increasing exponentially
+since 1994 and is undoubtedly a lower bound. GFP has also entered the art
+world with Eduardo Kac’s GFP bunny Alba and even the movies as evident
+by the opening credits of the film Hulk by the director Ang Lee that was
+released in 2003. The implication is that the Hulk is the first human GFP
+transgenic.
+
+
+
+
+                                                                            161
+
+
+Figure 10. A gallery of GFP images. Photo credits by columns left to right: C. elegans
+(John Kratz), Drosophila (Ansgar Klebes, Freie Universitaet, Berlin), Alba the GFP bunny
+(Eduardo Kac), canola [M.D. Halfhill (St. Ambrose University) and H.A. Richards,
+R.J. Millwood, and C.N. Stewart, Jr. (University of Tennessee)], mice (Ralph Brinster,
+University of Pennsylvania), zebrafish (Brant Weinstein, NIH), cultured HeLa cells (Jerry
+Kaplan and Michael Vaughn, University of Utah), Drosophila embryonic cells (Jennifer
+Lippincott-Schwartz, NIH), Arabidopsis thaliana hypocotyl cells (David Ehrhardt, Carnegie
+Institution of Washington), mouse Purkinje cell (National Center for Microscopy and
+Imaging Research, University of California, San Diego).
+
+
+After publishing our GFP paper, I went back to the work on mechanosen-
+sation, thus turning from a developer to a user of GFP. For the next few
+paragraphs I want to describe how we use GFP in our research to provide
+examples of the many ways this protein can aid scientific discovery.
+   First, of course, we use GFP in transcriptional fusions to characterize the
+expression pattern of genes (Figure 6). Second, we used GFP translational
+fusions to examine both gene expression and protein localization (Figure
+11). With the advent of different colored fluorescent proteins, we could also
+test for the co-expression of different genes. By studying mutants that are
+defective in touch, we have found that touch sensitivity in C. elegans requires
+a channel complex of at least four proteins and specialized extracellular ma-
+trix and microtubules. Using a MEC-4::GFP translational fusion, we showed
+that the channel complex is localized to discrete spots along the length of
+the neuronal process (Figure 11D).
+
+
+
+
+162
+
+
+Figure 11. Uses of fluorescent protein translational fusions. A. Diagram of the six touch
+receptor neurons (green). B. The six touch receptor neurons are completely filled with
+a MEC-17::GFP fusion (taken from Zhang et al., 2002). C. GFP protein fusions for the
+transcription factors EGL-44 and EGL-46 both localize to the nucleus of an FLP neuron (Ji
+Wu cited in Wu et al., 2001). D. Localization of MEC-4::YFP to puncta along the length of a
+touch receptor neuron process (taken from Chelur et al., 2002).
+
+
+Once cells have been labeled with GFP they can be put to a wide variety of
+uses. Because of the strong genetics available in C. elegans, we have used such
+animals as the basis of screens for mutants defective in several aspects of
+cellular development. For example, mutating animals in which expression
+of GFP has labeled the entirety of the touch receptor neurons, we found
+mutants with more or fewer fluorescing cells (allowing us to study genes
+needed to control cell fate and number), mutants with cells in abnormal
+locations (allowing us to study genes that influence the positioning of cells),
+and mutants with cells (Figure 12A) with additional processes or abnormal
+branches (allowing us to study genes involved in neuronal outgrowth and
+morphology).
+
+
+
+
+                                                                                      163
+
+
+Figure 12. Using GFP for gene discovery and characterization. A. Mutations in the genes
+unc-51 and mec-7 affect process outgrowth of touch receptor neurons labeled with MEC-
+2::GFP (from Du and Chalfie, 2001). B. Mutations in mec-15 reduce synapses, visualized
+by GFP::RAB-3, in touch receptor neurons (A. Bounoutas, M. Nonet, and M. Chalfie,
+unpublished data). C. Touch receptors neurons can be cultured from embryos, iso-
+lated by cell sorting, and used to identify cell-specific genes (e.g., Zhang et al., 2002). D.
+Electrophysiology of touch neurons from wild type and mutants is possible because the
+cells can be identified by their fluorescence (taken, in part, from O’Hagan et al., 2005).
+
+
+By using animals making GFP fused to proteins that localize to particular re-
+gions of the cells, one can obtain mutants with even more specific defects. For
+example, Michael Nonet at Washington University in St. Louis is interested in
+genes needed for the formation of the chemical synapses that connect nerve
+cells. He has created fusions of GFP with proteins found at synapses that label
+these connections (Figure 12B). These fusion proteins label the two regions
+in touch receptor neurons that contain chemical synapses. We are collaborat-
+ing with him to study a gene needed for touch neuron synapses.
+   Mutageneses are not the only uses for animals with labeled cells. The ani-
+mals can also be used to isolate and study the labeled cells. For example, we
+have disrupted embryos and grown the embryonic cells in culture. The touch
+receptor neurons can be detected among all the other cells because of their
+fluorescence (Figure 12C). Remarkably, these cells have the same morph-
+ology they do within the animal; other labeled nerve cells look entirely dif-
+ferent. The cells can be isolated using a fluorescence-activated cell sorter and
+used to identify messenger RNAs that are specific to the cells. Using these
+methods, we have identified 200 additional genes that are overexpressed in
+these cells.
+   Labeling the cells has also allowed us to study the electric properties of the
+touch receptor neurons, and to my particular joy identify the first transduc-
+tion molecules for a eukaryotic mechanical sense. C. elegans is a wonderful
+
+164
+
+
+organism for a wide range of studies, but one of its disadvantages is that
+its nerve cells are tiny. Fortunately, Miriam Goodman working with Shawn
+Lockery at the University of Oregon developed a GFP-based method to make
+electrophysiological recording from C. elegans (Goodman et al., 1998), which
+she then adapted to the touch receptor neurons as a postdoctoral fellow in
+my lab (Figure 12D). Using this method Bob O’Hagan, a graduate student in
+my lab, Miriam, now at Stanford, and I found that specific mutations affect-
+ing the channel subunits in the touch neurons change the normal inward
+current elicited by touch to an outward current, a demonstration that these
+channel proteins are directly required for transduction.
+   None of the results that I have mentioned would have been possible with-
+out the use of GFP in living animals. Despite my enthusiasm, however, GFP
+does have some limitations that have led us to devise modified proteins. One
+problem is that GFP expression is dependent on gene regulatory elements.
+We have been fortunate in studying the touch neurons because we know of
+genes that are expressed only in these cells and we can use their regulatory
+sequences. But such cell-specific expression is not common in C. elegans or
+other organisms, so specific labeling with GFP can be difficult. We have
+taken advantage, however, of a remarkable finding by Lynne Regan of Yale
+University to overcome this difficulty.
+   Lynne’s lab found that GFP split into two pieces could be reconstituted if
+the two parts were linked by interacting peptides (Ghosh et al., 2000; Figure
+12A). Her lab and others have used this property to study protein interac-
+tions. Two members of my lab (Shifang Zhang and Chuck Ma) realized that
+this two component GFP, which we named recGFP, could help solve the
+specificity problem, if the two parts were expressed from different promot-
+ers. This two-component system should enable the labeling of 80% rather
+than 20% of the existing neuronal cell types in C. elegans (Figure 13).
+
+
+
+
+                                                                         165
+
+
+Figure 13. Use of recGFP to label the C. elegans FLP neurons (modified from Zhang et al.,
+2004).
+
+
+Another feature of GFP that can be both an advantage and a disadvantage is
+that the protein is very stable. This feature is wonderful when accumulation
+of GFP can give a brighter signal, but we wanted to study situations when
+gene expression was turned off rather than on, and stable GFP is a hindrance
+in these instances. We have found that fusions of GFP with the RING finger
+domains of certain E3 ubiquitin ligases creates an unstable GFP. We have
+used unstable GFP to learn how disruption of microtubules in the touch
+receptor neurons causes a generalized reduction in protein levels in the
+cells. Untreated animals fluoresce as adults, whereas animals treated with the
+anti-microtubule drug colchicine, which selectively causes touch insensitivity
+do not (Figure 14). We have identified several genes needed for this down
+regulation by mutating these animals and then looking for adults with visible
+fluorescence. These genes include members of the p38 mitogen-activated
+protein kinase (MAPK) signaling pathway and one putative transcription
+factor. I find these experiments exciting for two reasons. First, axonal out-
+growth, neuronal branching, and synapse formation are dependent on the
+state of nearby microtubules. The connection of microtubule state and MAP
+kinase activity may help explain the role of microtubules in these events.
+Second, we now have a means of investigating the down-regulation of gene
+activity. We have identified other instances where gene expression is reduced
+in post-mitotic cells, and we are using the unstable GFP as in this example to
+identify genes that regulate that reduction.
+
+
+
+166
+
+
+Figure 14. Gene discovery using a rapidly degrading GFP (praja::GFP). GFP fluorescence is
+absent in adult touch receptor neurons grown in the presence of colchicine. Mutation of
+wild-type animals yields some animals with adult fluorescence. One gene identified by this
+type of genetic screen is dlk-1, which encodes a mitogen-activated protein kinase kinase
+kinase (A. Bounoutas, C. Ma, L. Emtage, and M. Chalfie, unpublished data).
+
+
+In closing I would like to mention two reasons I am appreciative of this Prize,
+in addition to the obvious reasons for feeling so honored. First, this award
+is a Prize for basic science. GFP was discovered by Osamu Shimomura in a
+quest to answer a fascinating question: how can some organisms produce
+light? And the tools that Roger Tsien and I have developed enable additional
+investigations in cell biology, developmental biology, neurobiology, in fact
+throughout the life sciences. I would also add that the study of C. elegans, a
+nematode, has also taught us so much about life, as evident, as I mentioned,
+by this its third Nobel. These days one hears much talk about how science
+should be directed more toward translational research, research that ap-
+plies understanding gained in the laboratory to problems in human health.
+Although the application of knowledge to human health and well-being is
+obviously important, I feel that many statements urging a switch from basic
+to translational research are based on two false premises. The first is that sci-
+entists are either uncaring or ignorant of the implications of their research
+for human disease. I find this attitude ironic and false, since virtually every
+scientist I know thinks deeply about the meaning and implications of his or
+her research. Second, I feel that some people who promote translational
+research act as if we have already learned all that we need to know to cure
+human diseases. A look at any sequenced genome, whether worm, fly, mouse,
+or human puts a lie to this assumption, since most of the predicted genes
+encode products described as “proteins of unknown function.” We have so
+
+
+                                                                                     167
+
+
+much more to learn. Not only what these proteins do, but also how they in-
+teract together to sustain life and development. As many people have said,
+one needs to have material to translate to have translational research. And
+when we consider how few organisms scientists have studied, the mystery that
+surrounds us becomes even greater. What will be the A. victoria and C. elegans
+of the future? Indeed, what will be the GFP of the future?
+   Second, by awarding this Prize to the three of us, the Royal Swedish
+Academy of Sciences and the Nobel Foundation have recognized that sci-
+entific progress is not a solitary event, but a process. Each of us has been
+a step in the very large development of GFP, and we have not been alone.
+Hundreds of others have adapted and varied fluorescent proteins forming a
+wide array of rather spectacular research tools. I have been astonished by the
+ingenuity and creativity of my colleagues from around the world. In a real
+sense, GFP is a wonderful metaphor for our work as scientists. Just as GFP
+and other fluorescent molecules absorb light of one wavelength and convert
+it to light of a different wavelength, we, too, take in what others have learned
+about the world, add our observations and insights, and produce additional
+gains in human knowledge.
+
+
+ACKNOWLEDGEMENTS
+I dedicate this lecture to three people with whom I would truly have loved
+to share this honor, but who are no longer alive: my maternal grandmother,
+Madeline Friedlen, a kind, intelligent, and remarkable woman who started
+her own business in the Depression and who, when I was ten or so, wanted
+me to become a chemist or, more particularly, a metallurgist; my mother,
+Vivian Chalfie, who always claimed that intelligence had skipped a genera-
+tion in our family but was wrong, and my father, Eli Chalfie, from whom I
+inherited my sense of humor and my love of the guitar.
+   Finally, I want to thank all the past and present members of my laboratory
+on whom I have relied for many years for their intelligence, hard work, and
+companionship. You’ve kept me on my toes. Thank you.
+   Research in my lab has been funded by grants from the National Institutes
+of Health.
+
+
+
+
+168
+
+
+REFERENCES
+Chalfie, M., Tu, Y., Euskirchen, G., Ward, W. W., and Prasher, D. C. (1994), “Green fluores-
+     cent protein as a marker for gene expression,” Science 263: 802–805.
+Chalfie, M., Tu, Y., and Prasher, D. C. (1993), “Glow Worms – A New Method of Looking
+     at C. elegans Gene Expression,” Worm Breeder’s Gazette 13: 19 (www.wormbase.org/
+     db/misc/paper?name=WBPaper00014747;class=Paper).
+Chelur, D. S., Ernstrom, G. G., Goodman, M. B., Yao, C. A., Chen, L., O’Hagan, R., and
+     Chalfie, M. (2002), “The mechanosensory protein MEC-6 is a subunit of the C. elegans
+     touch-cell degenerin channel,” Nature 420: 699–673.
+Cody, C. W., Prasher, D. C., Westler, W. M., Prendergast, F. G., and Ward, W. W. (1993),
+     “Chemical structure of the hexapeptide chromophore of the Aequorea green-fluores-
+     cent protein,” Biochemistry 32: 1212–1218.
+Du, H., and Chalfie, M. (2001), “Genes regulating touch cell development in C. elegans,”
+     Genetics 158: 197–207.
+ Du, H., Gu, G., William, C., and Chalfie, M. (1996), “Extracellular Proteins Needed for C.
+     elegans Mechanosensation,” Neuron 16: 183–194.
+Ghosh, I., Hamilton, A.D., and Regan, L. (2000), “Antiparallel Leucine Zipper-Directed
+     Protein Reassembly: Application to the Green Fluorescent Protein,” J. Am. Chem. Soc.
+     122: 5658–5659.
+Goodman, M. B., Hall, D. H., Avery, L., and Lockery, S.R. (1998), “Active currents regulate
+     sensitivity and dynamic range in C. elegans neurons,” Neuron 20: 763–772.
+Johnson, F. H., Shimomura, O., Saiga, Y., Gershman, L. C., Reynolds G. T., and Waters,
+     J. R. (1962), “Quantum efficiency of Cypridina luminescence, with a note on that of
+     Aequorea,” J. Cell. Comp. Physiol. 60: 85–103.
+Morin, J. G., and Hastings, J. W. (1971a), “Biochemistry of the bioluminescence of colonial
+     hybrids and other coelenterates,” J. Cell. Physiol. 77: 305–312.
+Morin, J. G., and Hastings, J. W. (1971b), “Energy transfer in a bioluminescent system,” J.
+     Cell. Physiol. 77: 313–318.
+O’Hagan, R., Chalfie, M., and Goodman, M. B. (2005), “The MEC-4 DEG/ENaC channel
+     of C. elegans touch receptor neurons transduces mechanical signals,” Nature Neurosci.
+     8: 43–50.
+Prasher, D. C., Eckenrode, V. K., Ward, W. W., Prendergast, F. G., and Cormier, M. J.
+     (1992), “Primary structure of the Aequorea victoria green-fluorescent protein,” Gene
+     111: 229–233.
+Savage, C., Xue, Y., Mitani, S., Hall, D., Zakhary, R., and M. Chalfie (1994), “Mutations in
+     the C. elegans β-tubulin gene mec-7: Effects on microtubule assembly and stability and
+     on tubulin autoregulation,” J. Cell Sci. 107: 2165–2175.
+Shimomura, O., Johnson, F. H., and Saiga, Y. (1962), “Extraction, purification, and prop-
+     erties of aequorin, a bioluminescent protein from the luminous hydromedusan,
+     Aequorea,” J. Cell. Comp. Physiol. 59: 223–239.
+Wang, S., and Hazelrigg, T. (1994), “Implications for bcd mRNA localization from spatial
+     distribution of exu protein in Drosophila oogenesis,” Nature 369: 400–403.
+Wu, J., Duggan, A., and Chalfie, M. (2001), “Inhibition of touch cell fate by egl-44 and egl-
+     46 in C. elegans,” Genes Develop. 15: 789–802.
+Zhang, S., Ma, C., and Chalfie, M. (2004), “Combinatorial marking of cells and organelles
+     with reconstituted fluorescent proteins,” Cell 119: 137–144.
+Zhang, Y., Ma, C., Delohery, T., Nasipak, B., Foat, B. C., Bounoutas, A., Bussemaker, H. J.,
+     Kim, S. K., and Chalfie, M. (2002), “Identification of genes expressed in C. elegans
+     touch receptor neurons,” Nature 418: 331–335.
+Portrait photo of Martin Chalfie by photographer Ulla Montan.
+
+
+
+
+                                                                                        169
+

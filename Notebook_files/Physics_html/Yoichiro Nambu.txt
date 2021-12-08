@@ -1,0 +1,393 @@
+Spontaneous Symmetry Breaking
+in Particle Physics: a Case of Cross
+Fertilization
+
+Nobel Lecture, December 8, 2008
+by
+Yoichiro Nambu*1
+Department of Physics, Enrico Fermi Institute, University of Chicago,
+5720 Ellis Avenue, Chicago, USA.
+
+
+
+
+I will begin with a short story about my background. I studied physics at
+the University of Tokyo. I was attracted to particle physics because of three
+famous names, Nishina, Tomonaga and Yukawa, who were the founders
+of particle physics in Japan. But these people were at different institutions
+than mine. On the other hand, condensed matter physics was pretty good at
+Tokyo. I got into particle physics only when I came back to Tokyo after the
+war. In hindsight, though, I must say that my early exposure to condensed
+matter physics has been quite beneficial to me.
+   Particle physics is an outgrowth of nuclear physics, which began in the
+early 1930s with the discovery of the neutron by Chadwick, the invention of
+the cyclotron by Lawrence, and the ‘invention’ of meson theory by Yukawa
+[1]. The appearance of an ever increasing array of new particles in the sub-
+sequent decades and advances in quantum field theory gradually led to our
+understanding of the basic laws of nature, culminating in the present stan-
+dard model.
+   When we faced those new particles, our first attempts were to make sense
+out of them by finding some regularities in their properties. Researchers in-
+voked the symmetry principle to classify them. A symmetry in physics leads to
+a conservation law. Some conservation laws are exact, like energy and electric
+charge, but these attempts were based on approximate similarities of masses
+and interactions.
+   Nevertheless, seeing similarities is a natural and very useful trait of the
+human mind, The near equality of proton and neutron masses and their
+interactions led to the concept of isospin SU(2) symmetry [2]. On the other
+hand, one could also go in the opposite direction, and elevate a symmetry to
+a more elaborate gauged symmetry. Then symmetry will determine dynamics
+as well, a most attractive possibility. Thus the beautiful properties of electro-
+
+*
+	The Nobel Lecture of Yoichiro Nambu was presented by Giovanni Jona-Lasinio, La Sapienza,
+University of Rome, Italy.
+
+
+                                                                                      57
+
+
+magnetism were extended to the SU(2) non-Abelian gauge field [3]. But
+strong interactions are short range. Giving a mass to a gauge field destroys
+gauge invariance.
+   Spontaneous symmetry breaking (SSB), which is the main subject of my
+talk, is a phenomenon where a symmetry in the basic laws of physics appears
+to be broken. In fact, it is a very familiar one in our daily life, although the
+name SSB is not [4]. For example, consider an elastic straight rod standing
+vertically. It has a rotational symmetry; it looks the same from any horizontal
+direction. But if one applies increasing pressure to squeeze it, it will bend in
+some direction, and the symmetry is lost. The bending can occur in principle
+in any direction since all directions are equivalent. But you do not see it un-
+less you repeat the experiment many times. This is SSB.
+   SSB in quantum mechanics occurs typically in a uniform medium consist-
+ing of a large number of elements. It is a dynamical effect. A symmetry allows
+some freedom of action to each of them but the interaction among them
+forces them, figuratively speaking, to line up like a crowd of people looking
+into the same direction. Then it is not easy to change the direction wholesale
+even if it is allowed by the symmetry hence does not take energy, because
+the action is not a local operator. So the symmetry appears to be lost. It is
+still possible to recover the lost symmetry by a global operation, but it would
+amount to a kind of phase transition. Some of the examples are:
+
+
+physical system		         broken symmetry
+ferromagnets		            rotational invariance (with respect to spin)
+crystals			               translational and rotational invariance (modulo 		
+			discrete values)
+superconductors           local gauge invariance (particle number)
+
+SSB in a medium then has the following characteristic properties:
+
+1.	The ground state has huge degeneracy. A symmetry operation takes one
+   ground state to another.
+2.	Only one of the ground states and a complete set of excited states built on
+   it are realized in a give situation.
+3. SSB is in general lost at sufficiently high temperatures.
+
+In relativistic quantum field theory, this phenomenon becomes also possible
+for the entire space-time, for the “vacuum” is not void, but has many intrinsic
+degrees of freedom. In this context, it may play an important role in cosmol-
+ogy. As the universe expands and cools down, it may undergo one or more
+SSB phase transitions from states of higher symmetries to lower ones, which
+change the governing laws of physics.
+
+
+
+58
+
+
+   I will now recall the chain of events which led me to the idea of SSB and
+its application to particle physics. One day in 1956 R. Schrieffer gave us a
+seminar on what would come to be called the BCS theory [5] of supercon-
+ductivity. I was impressed by the boldness of their ansatz for the state vector,
+but at the same time I became worried about the fact that it did not appear
+to respect gauge invariance. Soon thereafter Bogoliubov [6] and Valatin [7]
+independently introduced the concept of quasiparticles as fermionic excita-
+tions in the BCS medium. The quasiparticles did not carry a definite charge
+as they were a superposition of electron and hole, with their proportion
+depending on the momentum. How can one then trust the BCS theory for
+discussing the electromagnetic properties like the Meissner effect? It actually
+took two years for me to resolve the problem to my satisfaction. There were
+a number of people who also addressed the same problem, but I wanted to
+understand it in my own way. Essentially it is the presence of a massless col-
+lective mode, now known by  LPNthe  generic
+                                  2008       name of Nambu-Goldstone (NG)
+                                       ekvationer…
+boson, that saves charge conservation or gauge invariance.
+
+The Bogoliubov-Valatin (BV) quasiparticles
+                p. 59 översta                are described
+                              raden av tre i ekv.            by the equations [8]
+                                                  1 skall vara:
+                                Eψ p,+ = ε pψ p,+ + Δψ −† p,− ,                           (1)
+(1)
+                                Eψ   †
+                                     − p,−   = −ε pψ   †
+                                                       − p,−   + ∆ψ p,+ ,
+                     p. 60 rad 4 i stycket ε +∆
+                                     E = efter  2
+                                               ekv.2
+                                                   p4 skall vara:
+                    ”… which breaks chirality ∼ γ5 rather…”
+Here, ψ p,+ and ψ −† p,− are the wave functions for     an electron and a hole of
+momentum p and spin   dvs.+5 or    εp is nedsänkt
+                                –, vara
+                             skall                inteenergy
+                                         the kinetic   upphöjtrelative to the Fermi
+energy, and 2∆ is the energy gap. In terms of spinlike matrices τi the corre-
+sponding Hamiltonian and the charge-current are
+                 p. 60 översta raden av tre i ekv. 5 skall vara:
+                                     0 = ε p Ψ τ 3 Ψ + ∆ΨFτ 1q
+                                              †           †
+             Γ µ 5 ( p ′, p ) = γ H
+                            (     µ γ 5 − 2M λ5 qµ q
+                                                       2     Ψ,) ( )
+                                                               2
+                                                                 , qµ = pµ′ − pµ        (5)
+(2)
+                                            j0 = Ψ † (p m )Ψ
+                            ρ0 = Ψ †τ 3 Ψ, dvs.
+                                 ψ → ψ exp ( −iα ) ,
+The BV ground state is ! p 0 = 0 for all p. The charge does not commute with
+H0, and the continuity equation does       borthold, which is the problem. But it
+                                     skallnot
+has turned out that the same interaction that led to the BCS-BV ground state
+also leads to collective excitations f, which contributes to the charge-current
+                   p. 61 översta
+and restores the continuity               två icorrect
+                                 raden avThe
+                              equation.         ekv. 9 skall vara: is
+                                                        expression
+                        ψ → exp ( iα )ψ ,           ψ1 → ψ exp ( −iα )                  (9)
+                                         ρ ρ0 +             ∂t f ,
+                                                    α    2
+
+
+
+                                             j  j0 − ∇f ,
+(3)                         p. 99 rad tre (ekv.) skall vara:
+                             2 1 2
+                             ∇ − 2 ∂t  f  −2∆Ψ τ 2 Ψ
+                                                       †
+
+                                   α
+                        N(N + 1)              (N − 1)(N − 2)
+                                 − (2N − 1) =
+                          2                         2
+                                                                                   59
+
+
+where f represents the NG mode. Physically it corresponds to excitations that
+tend to restore the lost symmetry. Its energy goes to zero in the long wave-
+length limit as it corresponds to the global symmetry operation. It also hap-
+pens that the above NG mode mixes with the Coulomb interaction among
+the electrons because of their common long-range nature, and turns into the
+well-known plasmons with
+
+(4)                                  ω2 = en2/m
+
+where e, n, m, are respectively the charge, density, and mass of the electron.
+The formal similarity of the BV equation to the Dirac equation naturally led
+me to transport the BCS theory to particle physics [9]. The gap ∆ goes over
+to the mass M, which breaks chirality ∼ γ5 rather than the ordinary charge
+∼ 1: The axial current is the analog of the electromagnetic vector current
+in the BCS theory. If chirality is a broken symmetry, the matrix elements of
+the axial current between nucleon states of four-momentum p and p’ should
+have the form
+
+(5)                (                      ) ( )
+      ! µ 5 ( p", p ) = ! µ! 5 # 2M ! 5 qµ q 2 F q 2 , ! " ! exp ( #i$ ) , qµ = pµ! " pµ
+
+So chiral symmetry is compatible with a finite nucleon mass M provided that
+there exists a massless pseudoscalar NG boson. In reality, there is a pseudos-
+calar pion, and the vector and axial vector interactions that appear in weak
+decays of the nucleons and the pion had the properties
+
+(6)                        gV  gA     gπ  2M gA G
+
+where gV, and gA are vector and axial vector couplings of the nucleon, gπ is
+axial coupling for the pion, G is the pion-nucleon coupling, and M is the
+nucleon mass. The second relation was known as the Goldberger-Treiman
+relation [10], and it implies that the matrix element of the axial vector part
+of nucleon decay is
+
+(7)                    Γ µA  γ µ γ 5 − 2Mγ 5 qµ   (q   2
+                                                                 )
+                                                            − mπ2 ,
+
+which differs from Eq. (5) by the presence of pion mass. In view of the small-
+ness of mπ compared to M, I made the hypothesis that the axial current is an
+approximately conserved quantity, the nucleon mass is generated by an SSB
+of chirality, and the pion is the corresponding NG boson which should be-
+come massless in the limit of exact conservation (Proton and neutron masses
+should also become equal.)
+
+The model system [11] I worked out subsequently with Jona-Lasinio is a
+concrete realization of the proposed SSB. It has the form similar to the BCS
+model
+
+
+60
+
+
+                                            dvs.
+                                  ψ → ψ exp ( −iα ) ,
+                                    skall bort
+                   L = −ψγ µ ∂ µψ + g (ψψ ) − (ψγ 5ψ ) 
+                                            2          2
+(8)
+                                                        
+                   against
+which is invariant p.            raden avnumber
+                           the particle
+                      61 översta          två i ekv.and chiral
+                                                     9 skall    transformations
+                                                             vara:
+                      ψ → exp ( iα )ψ ,         ψ → ψ exp ( −iα )                      (9)
+(9)
+                     ψ → exp (iγ 5α )ψ ,         ψ → ψ exp (iγ 5α )
+
+After SSB, the “nucleon” acquires a mass M ~ 2g ψψ . Although the model
+                        p. 99 rad tre (ekv.) skall vara:
+is non-renormalizable, it is easy to demonstrate the SSB mechanism. The
+generated mass M is determined by the “gap equation”
+                        2π 2+ 1) − (2N
+                       N(N                            − 2)
+                                    M 2− 1)= (NΛ−2 1)(N
+(10)                        2
+                              = 1 −    2
+                                         ln  1 + 2 
+                        gΛ
+                         2           Λ          M 2
+where Λ is a cutoff. Bound states of nucleon-antinucleon (meson) and nucle-
+on-nucleon (dibaryon) pairs of spin 0 and 1 were also found. In particular,
+the masses of 0 − , (~ ψγ 5ψ ) and 0 + , (~ ψψ ) mesons are found to be 0 and 2M
+respectively. A more realistic two-flavor model was also considered by gener-
+alizing Eq. (8) to
+
+            L = −ψγ µ ∂ µψ + g (ψψ ) − ∑ i (ψγ 5τ iψ )(ψγ 5τ iψ )
+                                      2
+(11)
+
+with a similar gap equation. We get an isovector 0– pion and an isoscalar
+0+. The actual pion mass was generated by a small explicit bare mass in the
+Lagrangian of the order of 5 MeV. This also induced a change of axial coup­
+ling constant gA in the right direction.
+
+Other examples of the BCS-type SSB are 3He superfluidity and nucleon pair-
+ing in nuclei [12]. In general there exist simple mass relations among the
+fermion and the bosons in BCS-type theories [13]. The BCS theory also ac-
+counts for the generation of the London mass for the electromagnetic field.
+This problem is made simple in terms of the Higgs scalar field [14]. The
+relativistic analog of the London relation is, in momentum space,
+
+                                  jµ ( q ) = K µ! ( q ) A! ,
+(12)                          (                    ) ( )
+                       K µν = δ µν − qµ qν q 2 K q 2 ,
+
+                                  ( )
+                              K q2 q2           (q − m )
+                                                    2          2
+
+
+
+The third relation shows the massless NG boson turning into a massive “plas-
+mon”, a process corresponding to Eq. (4). This was successfully applied to
+weak gauge field in the Weinberg-Salam (WS) theory [15] of electroweak
+unification. The fermion masses are also generated and break chiral invari-
+ance. These so-called current masses for the up and down quarks play the
+role of the bare mass in the NJL model.
+
+
+
+                                                                                  61
+
+
+In the current standard model of particle physics, the NJL model may be
+regarded as an effective theory for the QCD with respect to generation of the
+so-called constituent masses. One is interested in the low energy degrees of
+freedom on a scale smaller than some cut-off Λ~ 1 GeV. The short distance
+dynamics above Λ as well as the confinement may be treated as a pertur-
+bation. The problem has been extensively studied by many people. The
+Lagrangian adopted by Hatsuda and Kunihiro [16] is
+
+
+(13)                     L = LQCD " LNJL + LKMT + #L
+
+
+LNJL is for the quarks, and contains “current mass” terms. LKMT refers to the
+Kobayashi-Maskawa-t’Hooft chiral anomaly
+
+(14)                              (                             )
+                      LKMT = gD det  qi (1 − γ 5 )q j  + h.c.
+
+
+Both of them contributes to the explicit breaking of chiral invariance
+   (δL contains the effects of confinement and one gluon exchange.) The
+WS theory resembles the Ginzburg-Landau [17] description of superconduc-
+tivity, which was shown to follow from the BCS theory by Gor’kov [18]. In the
+same way the NJL model goes over to the model of Gell-Mann and Levy [19].
+If this analogy turns out real, the Higgs field might be an effective descrip-
+tion of underlying dynamics.
+   Finally I will end this lecture with a comment on the mass hierarchy prob-
+lem. Hierarchical structure is an outstanding feature of the universe. The
+masses of known fundamental fermions also make a hierarchy stretching 11
+orders of magnitude. Mass is not quantized in a simple regular manner like
+charge and spin. Mass is a dynamical quantity since it receives contributions
+from interactions. But we do not see yet a pattern like those in the hydrogen
+atom, which led to quantum mechanics, or the Regge trajectories, which led
+to the dual string picture.
+   The BCS mechanism seems relevant to the problem, as was remarked
+earlier. It generates a mass gap for fermions, plus the Nambu-Goldstone and
+Higgs modes as low-lying bosons. The bosons may act in turn as an agent for
+further SSB, leading to the possibility of hierarchical SSB or “tumbling” [20].
+In fact we already have examples of it [21]:
+1.	The chain atoms – crystal – phonon – superconductivity. The NG mode
+   for crystal formation is the phonon, which induces the Cooper pairing of
+   electrons to cause superconductivity
+2.	The chain QCD – chiral SSB of quarks and baryons – π, σ and other me-
+   sons – nuclei formation and nucleon pairing – nuclear collective modes.
+   No further elaboration would be required
+
+I am greatly thankful to G. Jona-Lasinio for his help in the planning of this
+lecture.
+
+62
+
+
+REFERENCES
+[1] See, for example, Y. Nambu, J. Phys. Soc. Japan, 76 (2007), 111002.
+[2] W. Heisenberg, Z. Phys. 77 (1932) 1.
+[3]	C. N. Yang and R. L. Mills, Phys. Rev. 96 (1954), 191.
+[4]	The name is due to M. Baker and S. Glashow, Phys. Rev. 128 (1962) 2462.
+[5] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. 108 (1957), 1175.
+[6]	N. N. Bogoliubov, J. Exptl. Theoret. Phys. (U.S.S.R.) 34 (1958), 58. This is a fermionic
+     version of transformation, which he first introduced in a description of superfluidity.
+     J. Phys. (1947) Vol. 11, No.1, 23–32.
+[7]	G. Valatin, Nuovo Cimento 7 (1958), 843.
+[8]	Y. Nambu, Phys. Rev. 117 (1960), 648.
+[9]	Y. Nambu, Phys. Rev. Lett. 4 (1960), 380.
+[10]	M. L. Goldberger and S. Treiman, Phys. Rev. 110 (1958), 117.
+[11]	Y. Nambu and G. Jona-Lasinio, Phys. Rev. 122 (1961), 345; Phys. Rev. 124 (1961), 246.
+     The first presentation of the model was made at Midwest Conference on Theoretical
+     Physics: “A superconductor model of elementary particles and its consequences”, in
+     the Proceedings, eds. F. J. Biedenhahn et al., Purdue University, 1960, p. 1.
+[12]	A. Arima and F. Iachello, Phys. Rev. Lett. 35 (1975), 1069; Ann. Phys. 99 (1976), 253.
+[13]	E.g., Y. Nambu, Physica 15D (1985), 147; Phys. Lett. 201 (1988), 1.
+[14]	P. W. Anderson, Phys. Rev. 130 (1963), 439; F. Englert and R. Brout, Phys Rev. Lett. 13
+     (1964), 321; P. W. Higgs, Phys. Rev. Lett. 13 (1964), 508.
+[15] S. Weinberg, Phys. Rev. Lett, 19 (1967), 1264; A. Salam, in Elementary Particles, Almqvist
+     Förlag AB (1968), 167.
+[16]	T. Hatsuda, T. Kunihiro, Phys. Rep. 247, 221 (1994).
+[17] V. I. Ginzburg and L. D. Landau, J. Exptl. Theoret. Phys. (U.S.S.R.) 20 (1950), 1064.
+[18]	L. P. Gor’kov, J. Exptl. Theoret. Phys. (U.S.S.R.) 36 (1959), 1918.
+[19]	M. Gell-Mann and M. Lévy, Nuovo Cimento 16 (1960), 705.
+[20] S. Raby, S. Dimopoulos, and L. Susskind, Nucl. Phys. B169 (1980), 373.
+[21]	Y. Nambu, Nucl. Phys. A638 (1998), 35c.
+Portrait photo of Yoichiro Nambu by courtesy of University of Chicago.
+
+
+
+
+                                                                                           63
+

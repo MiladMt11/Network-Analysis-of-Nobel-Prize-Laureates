@@ -1,0 +1,1223 @@
+             Development of Multiscale Models
+             for Complex Chemical Systems
+             From H+H2 to Biomolecules
+             Nobel Lecture, December 8, 2013
+
+             by Martin Karplus
+             Department of Chemistry & Chemical Biology, Harvard University, U.S.A.
+             and
+             Laboratoire de Chimie Biophysique, ISIS, Université de Strasbourg, France.
+
+
+
+
+                   “Do not go where the path may lead, go instead where there is no
+                   path and leave a trail.”
+                                                                                   Ralph Waldo Emerson
+
+
+
+
+             P   araphrasing Ralph Waldo Emerson, a 19th century New England philoso-
+                 pher and essayist, I shall try to show in this lecture how I have gone where
+             there was no path and left a trail. It leads from trajectory studies of the reactions
+             of small molecules to molecular dynamics simulations of macromolecules of
+             biological interest.
+                 In developing computational methods to study complex chemical systems,
+             the essential element has been to introduce classical concepts wherever possible,
+             to replace the much more time-consuming quantum mechanical calculations.
+             In 1929 [1] Paul Dirac (Nobel Prize in Physics, 1933) wrote (Fig. 1) the now
+             familiar statement:
+
+                   The underlying physical laws necessary for the mathematical
+                   theory of a large part of physics and the whole of chemistry are thus
+
+                                                                                                         63
+
+
+
+
+ok.indb 63                                                                                                    11/4/14 2:25 PM
+
+
+      64                                                                The Nobel Prizes
+
+
+
+
+      Figure 1. Quote from P.A.M. Dirac in 1929 (reference 1).
+
+
+             completely known, and the difficulty is only that the exact application
+             of these laws leads to equations that are much too complicated to be
+             soluble.
+
+             However, the paragraph goes on to a less familiar part (Fig. 2):
+
+             It therefore becomes desirable that approximate practical methods of
+             applying quantum mechanics should be developed, which can lead
+
+
+
+
+      Figure 2. Continuation of quote from P.A.M. Dirac in 1929 (reference 1).
+
+
+
+
+ok.indb 64                                                                                  11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems65
+
+
+                 to an explanation of the main features of complex atomic systems
+                 without too much computation.
+
+                  This statement could be regarded as the leitmotif of this year’s Nobel Prize in
+             Chemistry, but actually Dirac’s paper refers not to introducing classical mechan-
+             ics, but rather to simplifying the quantum mechanical approaches.
+                  To develop methods to study complex chemical systems, including biomol-
+             ecules, we have to consider (Fig. 3) the two elements that govern their behavior:
+             (1) The potential surface on which the atoms move; and (2) the laws of motion
+             that determine the dynamics of the atoms on the potential surfaces.
+                  The Nobel Prize focused on the development of models for the potential
+             surface. When I visited the Lifson group in 1969, there was considerable excite-
+             ment about developing empirical potential energy functions primarily for small
+             molecules. The important “new” idea was to use a functional form that could
+             serve not only for calculating vibrational frequencies, as did the expansion of
+             the potential about a known or assumed energy minimum, but also for deter-
+             mining the molecular structure at the minimum. This approach gave rise to
+             molecular mechanics or force fields, as they are now called, in which the energy
+             is expanded in terms of empirical functions that are easy to calculate; the groups
+             of Allinger [2], Scheraga [3], and Lifson [4] all made important contributions
+             to the development. The possibility of using such energy functions for larger
+             systems, such as proteins, struck me as very exciting, though I did not work on
+             this for a while.
+                  Since Michael Levitt and Arieh Warshel of the Lifson group are here, I will
+             leave further discussion of potential surfaces to them (Fig. 4). In what follows
+
+
+
+
+             Figure 3. Essential elements for calculating the behavior of complex chemical systems.
+
+
+
+
+ok.indb 65                                                                                            11/4/14 2:25 PM
+
+
+      66                                                                    The Nobel Prizes
+
+
+
+
+      Figure 4. Aspects of potential surface for complex chemical systems.
+
+
+
+      I will focus on the classical treatment of the atomic motions, whether in small
+      molecules or large (Fig. 5). Although the laws governing the motions of atoms
+      are quantum mechanical, the key realization that made possible the simulation
+      of the dynamics of complex systems, including biomolecules, was that a classical
+      mechanical description of the atomic motions is adequate in most cases.
+
+
+
+
+      Figure 5. Laws of Motion: Quantum vs Classical
+
+
+
+
+ok.indb 66                                                                                      11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems67
+
+
+                  From my own perspective, this realization was derived from calculations
+             that my group did in the 1960s, when we studied a very simple reaction, the
+             symmetric exchange reaction, H+H2 → H2+H. As shown in Fig. 6 (upper part),
+             this involves the atom HC colliding with the molecule HA–HB with the result
+             that a new molecule HB–HC is formed and the atom A escapes. To determine the
+             trajectories describing the reaction, it is necessary (Fig. 3) to know the poten-
+             tial surface governing the interactions between the three atoms. What Richard
+             Porter and I used was a semi-empirical valence-bond surface [5]. This is not
+             surprising since I had been a student of Linus Pauling (Nobel Prize in Chemis-
+             try, 1954; Nobel Prize for Peace, 1962), who believed that valence bond theory
+             was the best approach for understanding chemical bonding. When compared
+             with high-level quantum mechanical calculations [6], the Porter-Karplus (PK)
+             surface, as it has come to be called, has turned out to be surprisingly accurate,
+             in spite of the simplicity of the approach. The PK surface has been used by sev-
+             eral groups in testing calculational methods for studying the H+H2 reaction, as
+             described below [7].
+                  The energy as a function of the reaction coordinate for a collinear collision,
+             which corresponds to the lowest energy reaction path, is shown in the lower
+             part of Fig. 6. The essential feature of the surface is that there is a high activation
+             barrier for the reaction. Although Fig. 6 shows the collinear surface, the actual
+             trajectories describing the reaction were determined by solving Newton’s equa-
+             tion of motion in the full three-dimensional space [8].
+
+
+
+
+             Figure 6. H+H2 Reaction. Upper: collinear reactive collision; Lower: PK potential sur-
+             face for a collinear reaction (see ref. 5).
+
+
+
+
+ok.indb 67                                                                                             11/4/14 2:25 PM
+
+
+      68                                                                    The Nobel Prizes
+
+
+
+
+      Figure 7. H+H2 Reactive Collision. Upper: non-collinear reactive collision; Lower-left:
+      atom distances during reactive collision with yellow box indicating the strong interaction
+      region; Lower-right: snapshot of a reactive collision (from Film 1) (see refs. 8 and 36).
+
+
+
+
+           Since there are only three atoms, their relative positions can be described
+      in terms of the three distances between the three pairs of atoms. On the lower
+      left of Fig. 7 are shown the distances between the atoms as a function of time
+      in femtoseconds, which is the appropriate timescale for the collision. In this
+      figure, which represents a reactive collision, the distances RAC and RBC decrease
+      as atom HC collides with molecule HA-HB, which is vibrating before the reaction
+      takes place; after the reaction, the newly formed molecule, HB-HC, vibrates and
+      atom HA escapes. The yellow box in the figure indicates the time during which
+      strong interactions between the atoms are present; it corresponds to about 10
+      femtoseconds.
+           Figure 8 (lower left) shows a nonreactive collision in the same way as the
+      reactive collision is shown in Fig. 7. Again, the interaction time (yellow box)
+      is on the femtosecond timescale. In this case, the internuclear distance RA–RB
+      continues as a molecule vibration and the colliding atom HC escapes.
+           Soon after the calculations were done, Lee Pedersen and Keiji Morokuma,
+      postdoctoral fellows in my group, discovered that there was a graphics labora-
+      tory at Harvard and obtained permission to make a film, which shows a series of
+      reactive and non-reactive collisions. A snapshot from the film segments show-
+      ing a reactive and a nonreactive trajectory are on the lower right of Figs. 7 and
+      8, respectively. A brief description of each of the films is given in the Appendix.
+      The films are available via the links given in the Appendix.
+
+
+
+
+ok.indb 68                                                                                         11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems69
+
+
+
+
+             Figure 8. H+H2 Nonreactive Collision. Upper: non-collinear non-reactive collision;
+             Lower-left: atom distances during nonreactive collision with yellow box indicating the
+             strong interaction region; Lower-right: snapshot of a nonreactive collision (from Film 1)
+             (see refs. 8 and 36).
+
+
+
+
+                 Even though an individual reaction takes place on the femtosecond times-
+             cale, the macroscopic rate is much slower. This difference in timescales arises
+             from the fact that the reaction rate is determined by averaging over a large num-
+             ber of trajectories with an energy distribution corresponding to the Boltzmann
+             Law. Even at 1000K, a temperature high enough for the reaction to be easily
+             measured [9], most of the collisions do not have enough energy to get over the
+             barrier. Consequently, although an individual event is very fast, the overall rate
+             is many orders of magnitude slower.
+                 The classical trajectory calculations of the H+H2 reaction were in approxi-
+             mate agreement with the available experimental data [9,10]. However, it seemed
+             to me important to ascertain that the details of the classical results were correct.
+             For this purpose, it was necessary to have a full quantum mechanical calcula-
+             tion for the H+H2 reaction, which was not available at the time. A significant
+             theoretical development and much more computer time were required. It was
+             only ten years later that a good friend of mine, Aron Kuppermann [11], and also
+             Bob Wyatt [12] were able to do such a calculation (Fig. 9).
+                 Since we had used the approximate PK potential for the classical mechanical
+             calculation, both groups also used the PK potential; i.e., they were testing not
+             whether the results agreed with Nature but whether the classical calculations
+             were valid. As stated in the figure, they found that the classical results were as
+
+
+
+
+ok.indb 69                                                                                               11/4/14 2:25 PM
+
+
+      70                                                             The Nobel Prizes
+
+
+
+
+      Figure 9. Importance of an accurate quantum treatment for validating the classical
+      treatment (see refs. 8 and 11).
+
+
+
+      accurate as the quantum mechanical results that they obtained with much more
+      work.
+          The comparison showed that the reaction of hydrogen atoms, for which you
+      would expect the largest quantum effects, can be described classically in most
+      cases. At low temperatures, significant tunneling can occur, so that quantum
+      corrections are required [13]. Consequently, for heavier atoms, as well as for
+      hydrogen atoms, classical mechanics should be valid for studying the dynamics
+      at ambient temperatures. Since biomolecules are composed mainly of carbon,
+      nitrogen and oxygen, with hydrogen atoms bonded to them, I concluded that
+      classical mechanical molecular dynamics simulations would be meaningful.
+          Before focusing on the dynamics of larger molecules, I will discuss some
+      work related to one of the papers mentioned in the “Scientific Background” to
+      the Nobel Prize in Chemistry. I had become interested in the chemistry of vi-
+      sion as an undergraduate at Harvard and did research with Ruth Hubbard and
+      George Wald (Nobel Prize in Physiology in 1967). After I returned to Harvard
+      in 1966 as a Professor, I came across an article by Ruth Hubbard and George
+      Wald in a volume dedicated to Linus Pauling for his 65th birthday [14]. It was
+      entitled, “Pauling and Carotenoid Stereochemistry.” In it, Hubbard and Wald
+      reviewed Pauling’s contribution to the understanding of polyenes with emphasis
+      on the visual chromophore, retinal. The article contained a paragraph, which I
+      reproduce here because it describes an element of Pauling’s approach to science
+      that greatly influenced my research:
+
+
+
+
+ok.indb 70                                                                                 11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems71
+
+
+                 One of the admirable things about Linus Pauling’s thinking is that he
+                 pursues it always to the level of numbers. As a result, there is usually
+                 no doubt of exactly what he means. Sometimes his initial thought
+                 is tentative because the data are not yet adequate, and then it may
+                 require some later elaboration or revision. But it is frequently he who
+                 refines the first formulation.
+
+                 On looking through the article, it was clear to me that the theory of the elec-
+             tronic absorption spectrum of retinal and its geometric changes on excitation,
+             which play an essential role in vision, had not advanced significantly since my
+             discussions with Hubbard and Wald during my undergraduate days at Harvard.
+             I realized, in part from my time in Oxford as a postdoctoral fellow with Charles
+             Coulson, that polyenes, such as retinal, were ideal systems for study by the avail-
+             able semi-empirical approaches; that is, if any biologically interesting system in
+             which quantum effects are important could be treated adequately, retinal was it.
+             Barry Honig, who had received his PhD in theoretical chemistry working with
+             Joshua Jortner, joined my research group at that time. He was the perfect candi-
+             date to work on the retinal problem.
+
+
+
+
+             Figure 10. Retinal Conformers. (a) all-trans: the stable conformer after absorption of
+             light and photoisomerization; (b) 11-cis,12-s-cis: one possible photoactive conformer;
+             (c) 11-cis,12-s-trans: the other possible photoactive conformer (from ref. 15).
+
+
+
+
+ok.indb 71                                                                                            11/4/14 2:25 PM
+
+
+      72                                                                The Nobel Prizes
+
+
+           Figure 10 shows the important conformations of retinal. The active chro-
+      mophore is 11-cis; i.e., the C11–C12 double bond is in a cis configuration (see
+      Fig. 10b and 10c). When retinal is photoisomerized, the initial step of vision, it
+      is transformed to 11-trans; i.e., the C11–C12 double bond is isomerized from cis
+      (Fig. 10b and 10c) to trans (Fig. 10a). In the 11-cis state, it is possible to have
+      the two isomers: 11-cis,12-s-cis (i.e., the C12–C13 single bond is cis, Fig. 10b) and
+      11-cis, 12-s-trans (Fig. 10c). From looking at the two conformers, one would
+      guess that the 12-s-cis conformer would be significantly lower in energy, be-
+      cause the H10 and H14 hydrogens, which appear close enough to repel each other
+      are smaller (see Fig. 10b) than H10 and (CH3)13 (see Fig. 10c), which would be
+      expected to have a greater repulsion.
+           However, when Barry Honig and I calculated the energies in the first paper
+      [15] that used a quantum mechanical model for the π-electrons and a pairwise
+      nonbonded van der Waals interaction energy for the σ-bond framework, we
+      found that the two conformers are very close in energy because the larger ex-
+      pected repulsion in 12-s-trans can be reduced significantly by twisting around
+      the single bonds; the difference is only about 1.5 kcal/mol, with 12-s-cis lower.
+      Since these and other results in the paper had significant implications for the
+      visual cycle, we submitted the paper describing them to Nature. It received ex-
+      cellent reviews, but came back with a rejection letter stating that because there
+      was no experimental evidence to support our results, it was not certain that the
+      conclusions were correct. This was my first experience with Nature and with
+      the difficulty of publishing theoretical results related to biology, particularly in
+      “high impact” journals. The problem is almost as prevalent today as it was then;
+      i.e., if theory agrees with experiment it is not interesting because the result is
+      already known, whereas if one is making a prediction, then it is not publishable
+      because there is no evidence that the prediction is correct. I was sufficiently
+      upset by the editorial decision that I phoned John Maddox, the Editor of Nature,
+      and explained the situation to him. Apparently, I was successful, as the paper
+      was finally accepted. Fortunately for Maddox and for us, about six months later,
+      an X-ray structure by Jerome Karle (Nobel Prize in Chemistry, 1985) and co-
+      workers [16] was published which confirmed our results. In a review of studies
+      of the visual chromophore [17], we noted that “Theoretical chemists tend to use
+      the word ‘prediction’ rather loosely to refer to any calculation that agrees with
+      experiment, even when the latter was done before the former; the 12 s-cis geom-
+      etry was a prediction in the true meaning of the word.”
+           While Arieh Warshel was a postdoctoral fellow in my group, we extended
+      the mixed quantum/classical mechanical method introduced in ref. [15] to cal-
+      culations of the spectrum and vibrations of retinal [18] and similar molecules.
+
+
+
+
+ok.indb 72                                                                                    11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems73
+
+
+             This was followed by the use of classical trajectories of the type employed for
+             H+H2 with a simple surface crossing model treatment of the photoisomeriza-
+             tion process [19]. Figure 11 (bottom left) illustrates the case that was studied. It
+             was the photoisomerization of 2-butene from the cis configuration with the two
+             methyl groups on the same side of the double bond to the trans configuration
+             with the two methyl groups on opposite sides of the double bond.
+                 From looking at Fig. 11 (top), it is clear that the photosiomerization of reti-
+             nal from 11-cis to all-trans, involves a large displacement of the two ends of the
+             molecule relative to each other for both 12-s-cis and 12-s-trans. Shortly after
+             Warshel left my group, he published a paper [20] based on the idea that when
+             bound to the protein rhodopsin in the rods of the eye, the ends of the molecule
+             would be restricted from moving significantly during the isomerization. As in-
+             dicated in Fig. 11 (lower right), the model used fixed end groups. To allow the
+             retinal to isomerize without movement of the end groups, he proposed the so-
+             called “bicycle pedal” model. Of course, the rhodopsin was not included in the
+             calculation (i.e., no protein was present) since its structure was not known at
+             the time. Recent studies [21] have shown that the actual isomerization is more
+
+
+
+
+             Figure 11. Photoisomerization Dynamics. Bottom-left: transformation from cis to trans
+             2-butene; Bottom-right: suggested constraints on retinal in protein rhodopsin (adapted
+             from refs. 19 and 20).
+
+
+
+
+ok.indb 73                                                                                            11/4/14 2:25 PM
+
+
+      74                                                                 The Nobel Prizes
+
+
+      complicated than proposed by Warshel and that relaxation of rhodopsin plays
+      a significant role.
+          In the same year (1976), J. Andrew (Andy) McCammon, Bruce Gelin, and
+      I did the first calculation applying the classical trajectory methodology to a
+      protein, the bovine pancreatic trypsin inhibitor (BPTI). We chose this protein
+      because it was small (only 58 residues and only 458 (pseudo) atoms in the ex-
+      tended atom model) and because it was one of the few proteins for which a high
+      resolution crystal structure was available [22]. In the mid-1970s, it was difficult
+      to obtain the computer time required to do such a simulation in the United
+      States; the NSF centers did not yet exist. However, CECAM (Centre Européen
+      de Calcul Atomic et Moléculaire) in Orsay, France, directed by Carl Moser, a
+      person with an unusual vision for the future of computations in science, had
+      access to a large computer for scientific research. In the summer of 1976, a two-
+      month workshop was organized at CECAM by Herman Berendsen. Realizing
+      that the workshop was a great opportunity, perhaps the only opportunity, to do
+      the required calculations, Andy McCammon and Bruce Gelin worked very hard
+      to prepare and test a program to do the molecular dynamics simulation of BPTI
+      (Fig. 12). Because of their intense preparatory work, Andy was able to start run-
+      ning the molecular dynamics simulation as soon as he arrived. It was essentially
+      completed at the workshop and published in 1977 [23]. It is worth mentioning
+      that during this workshop, stimulated by the description of the BPTI simula-
+      tion, a number of groups began to use molecular dynamics for studying bio-
+      molecules. They include W. F. van Gunsteren and H.J.C. Berendsen, J. Hermans
+      and A. Rahman, and M. Levitt (see CECAM Workshop Report on “Models of
+      Protein Dynamics,” Orsay, May 24–July 17, 1976).
+
+
+
+
+      Figure 12. Methodology of BPTI simulation (see text and ref. 23).
+
+
+
+
+ok.indb 74                                                                                   11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems75
+
+
+                 We used a potential function developed by Bruce Gelin [24] that was a com-
+             bination of the Scheraga and Lifson group potential functions. The molecular
+             dynamics simulation of BPTI was an extension of what we had done for H+H2
+             from a system of 3 atoms to one of 458 (pseudo) atoms. As mentioned earlier, it
+             was a very natural generalization since the classical equations of motions should
+             be applicable, regardless of the number of atoms. It is also important to remem-
+             ber that the BPTI simulation was not the first simulation for a many-particle
+             system with a realistic potential function for the interactions. In particular, An-
+             eesur Rahman, a pioneer in the simulation field who unfortunately died young,
+             had studied liquid argon in 1964 [25] and liquid water, in a collaboration with
+             Frank Stillinger in 1974 [26]. They seem not to have been concerned with the
+             validity of classical mechanics for these systems; perhaps I was overly cautious.
+                 The 9.2 ps simulation of BPTI [23] gave results concerning the fluid-like
+             internal motions of proteins that contrast sharply with the rigid view inferred
+             from the X-ray structures. The extent of the protein mobility was, in fact, a great
+             surprise to many crystallographers [27] and is an early example of the concep-
+             tual insights concerning molecular properties that have been derived from mo-
+             lecular dynamics simulations.
+
+
+
+
+             Figure 13. BPTI simulation. Left: Initial structure; Right: Structure after 3.2 ps. The Cα
+             carbons are indicated by circles, the sulfurs in disulfide bonds by stippled circles, the
+             Cα carbons are connected by rods (from ref. 23).
+
+
+
+
+ok.indb 75                                                                                                11/4/14 2:25 PM
+
+
+      76                                                                  The Nobel Prizes
+
+
+          Obviously, the best way to illustrate the motions would have been a film of
+      the trajectory. However, the computer graphics facilities available to us were not
+      advanced enough to treat a 458 (pseudo)-atom system in a finite time. Instead,
+      Bruce Gelin made two drawings of the structure of BPTI (Fig. 13), one at the
+      beginning of the simulation (left) and the other (right) after 3.2 picoseconds. If
+      you look carefully at the figure, you can see that although the two structures are
+      very similar, every residue has moved by a small amount. Given that computer
+      graphics can now make the desired film of the trajectory very easily, Victor
+      Ovchinnikov, a postdoctoral fellow in my group, produced a film for the Nobel
+      Lecture using the corresponding representation (see Fig. 14 and Film 2)
+          In an oral history that Andy McCammon recorded in 1995 [28], he made
+      the prescient statement (Fig. 15): “There was a sense, even at the time, of some-
+      thing truly historic going on, of getting these first glimpses of how an enzyme
+      molecule, for example, might undergo internal motions that allow it to function
+      as a biological catalyst.”
+          Today, when thousands of molecular dynamics simulations of biomolecules
+      are being done by hundreds of scientists, it is clear that what we felt at that
+      time was indeed the beginning of a new era in the understanding of biological
+
+
+
+
+      Figure 14. BPTI simulation. Image for Film 2. Same as Fig. 13, except that the disulfide
+      bonds are indicated with yellow circles and connecting rods and light/dark Cα connec-
+      tors represent the result of light shining on the image. (Drawing made by Victor Ovchin-
+      nikov with VMD.)
+
+
+
+
+ok.indb 76                                                                                       11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems77
+
+
+
+
+             Figure 15. Based on an interview with J. A. McCammon in 1995, after he received the
+             1995 Cray Research Leadership Award for Breakthrough Science from the Computer
+             World Foundation (see ref. 28).
+
+
+
+
+             systems. As computers became faster, one could improve the results, not only
+             by refining the potentials, but also by doing longer simulations of more realistic
+             model systems. At the same CECAM workshop where the first BPTI simulation
+             was done, Peter Rossky and I [29,30], in a collaboration with Aneesur Rahman,
+             did a simulation of the alanine-dipeptide (Fig. 16) in a box of water molecules
+             and showed that the water around the hydrophobic methyl groups behaved dif-
+             ferently from the water interacting with the polar C=O and N–H groups.
+
+
+
+
+             Figure 16. Drawing of Alanine Dipeptide for the Solution Simulation. Top: Conforma-
+             tion used in simulation; Bottom: Chemical formula (ref. 29).
+
+
+
+
+ok.indb 77                                                                                         11/4/14 2:25 PM
+
+
+      78                                                             The Nobel Prizes
+
+
+          In 1988 Michael Levitt and Ruth Sharon [31] published a simulation of BPTI
+      (see Fig. 17) that was more than twenty times longer than the original simula-
+      tion and very importantly, the simulation was done in a box of water molecules.
+      The Levitt-Sharon simulation confirmed the water behavior observed in the
+      Rossky et al. papers [29,30]. Further, the simulation was qualitatively in agree-
+      ment with the original BPTI vacuum simulation results, although the motions
+      of the residues were somewhat smaller and because of the water friction, they
+      were also slightly slower. Recent work [32,33] has elaborated our understanding
+      of the role of the water environment in protein dynamics.
+          In 2010 Shaw and his coworkers [34] (Fig. 17) performed a 1 millisecond
+      simulation of BPTI described by a standard force field using a specially designed
+      computer. The paper analyzed the long time dynamics in detail, but for me the
+      most important aspect of the simulation is that they found that BPTI was stable
+      on the millisecond timescale. I had always wondered, perhaps been “scared” is
+      a better word, whether with the relatively crude potentials we were using the
+      protein would fall apart (denature) if the molecular dynamics simulations were
+      extended to such long times, the timescales that are of interest for many biologi-
+      cal processes.
+          In relation to such considerations, I would like to remind the audience
+      that a very difficult problem in the field of molecular dynamics simulations of
+
+
+
+
+             • So far, no all-atom simulation of BPTI folding exists,
+              though smaller protein folding simulations with all-atom
+              models in explicit solvent have been performed (Shaw
+              et al. 2011)
+
+
+      Figure 17. Summary of BPTI Solution Simulations (see text).
+
+
+
+
+ok.indb 78                                                                                 11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems79
+
+
+             biomolecules is to have a way of checking that the results are correct. Experi-
+             mental data (e.g. NMR measurements) that can be used for validation of the
+             results are important but limited; i.e., they do not provide enough information
+             for a quantitative test. Despite what the Nobel Prize press citation implies (“The
+             computer is just as important as the test tube”), experiments are essential to
+             verify that what we are doing is meaningful. It is often possible to verify that the
+             statistical error is sufficiently small that the simulations can be used to under-
+             stand the phenomenon being studied [35], but the systematic error due to the
+             approximations in the potentials is difficult to quantify.
+                 In addition to the dynamics of the native proteins like BPTI, how the poly-
+             peptide chain folds to the native state is of great interest [36]. No folding simula-
+             tion of BPTI is available as yet (Fig. 17), though such simulations have been per-
+             formed for smaller proteins [37]. The present status of our knowledge of BPTI
+             folding, which was first studied by Levitt and Warshel with an ultra-simplified
+             model [38], is summarized in ref. [39].
+                 An early example of “multiscale” modeling, in the sense emphasized by the
+             Nobel Prize citation, is the diffusion-collision model for protein folding, which
+             was developed in 1976 by David Weaver and me [40]. It used a coarse-grained
+             description of the protein with helices as the elementary particles, and it showed
+             how the search problem for the native state could be solved by a divide-and-
+             conquer approach. Formulated by Cy Levinthal, the so-called Levinthal Paradox
+             points out that to find the native state by a random search of the astronomically
+             large configuration space of a polypeptide chain would take longer than the age
+             of the earth, while proteins fold experimentally on a timescale of microseconds
+             to seconds. In addition to providing a conceptional answer to the question
+             posed by Levinthal, the diffusion-collision model made possible the estimation
+             of folding rates. The model was ahead of its time because data to test it were not
+             available. Only relatively recently have experimental studies demonstrated that
+             the diffusion-collision model describes the folding mechanism of many helical
+             proteins [41], as well as some others [42].
+                 In the lecture so far, I have focused on the history of molecular dynamics
+             simulations of proteins and the qualitative insights about protein motions that
+             were obtained from them. An essential conclusion from the early work, as al-
+             ready mentioned, is that fluid-like internal motions occur in proteins at room
+             temperature. Like so many things that occur naturally, Nature is likely to have
+             made use of them by evolutionary developments. The importance of the internal
+             motions is encapsulated in the now very well-known statement (Fig. 18): “. . .
+             everything that living things do can be understood in terms of the jigglings and
+             wigglings of atoms” [43]. However, I was amazed when I first found that 2000
+
+
+
+
+ok.indb 79                                                                                           11/4/14 2:25 PM
+
+
+      80                                                                The Nobel Prizes
+
+
+
+
+      Figure 18. Top: Quote from “Feynman Lectures” (see ref. 43); Bottom: Richard Feyn-
+      man (Nobel Prize in Physics, 1965) playing bongo drums (from http://www.richard-
+      feynman.net/index.htm).
+
+
+      years earlier, a Roman poet, Titus Lucretius, who is known for only one poem,
+      De Rerum Natura, made the following statement (Fig. 19):
+
+             The atoms are eternal and always moving. Everything comes into
+             existence simply because of the random movement of atoms, which
+             given enough time, will form and reform constantly experimenting
+
+
+
+
+      Figure 19. A rendition by Stephen Greenblatt of Titus Lucretius “The Way Things Are:
+      De Rerum Natura” (Vol. 1:1023ff), based on the translation of the poem by Martin Fer-
+      guson Smith (Hacket Publishing Co., Cambridge, 2001).
+
+
+
+
+ok.indb 80                                                                                    11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems81
+
+
+                 with different configurations of matter from which will eventually
+                 emerge everything we know . . .
+
+                  Titus Lucretius based his poem on the detailed atomic theory of matter de-
+             veloped by the Greek philosopher Democritus (about 400 BC). It distinguishes,
+             for example, the bonding between atoms in liquids and solids. The atomic the-
+             ory of matter apparently was lost for hundreds of years and revived in Europe
+             only in the 1800s by John Dalton.
+                  These quotations raise the question as to how Nature through evolution has
+             developed the structures of proteins so that their “jigglings and wigglings” have
+             a functional role. As Fig. 20 indicates, there are two aspects to this. First, evolu-
+             tion determines the protein structure, which in many cases, though not all, is
+             made up of relatively rigid units that are connected by hinges. They allow the
+             units to move with respect to one another. Second, there is a signal, usually the
+             binding of a ligand, that changes the equilibrium between two structures with
+             the rigid units in different positions.
+                  As an example, I will briefly discuss adenylate kinase, an enzyme which has
+             two major conformations (Fig. 21). Its function is to transfer one phosphate
+             group from adenosine diphosphate (A-P-P) to another A-P-P to produce ad-
+             enosine triphosphate (A-P-P-P) and adenosine monophosphate (A-P). On the
+             left of the figure is shown the open structure, which permits the substrates to
+
+
+
+
+             Figure 20. How the “Jigglings and Wigglings” in the Feynman quote are used by Nature
+             (as interpreted in this lecture).
+
+
+
+
+ok.indb 81                                                                                           11/4/14 2:25 PM
+
+
+      82                                                                The Nobel Prizes
+
+
+
+
+      Figure 21. Cartoon of Adenylate Kinase. Left: Open structure with no bound substrate
+      showing the hinges; Right: Closed structure with two bound adenosine diphosphates (A-
+      P-P) (prepared by Victor Ovchinnikov with VMD).
+
+
+      come in and the product to go out, and on the right is shown the closed struc-
+      ture. The closed structure creates a reaction “chamber,” which is isolated from
+      the solvent and has the catalytic residues in position for the reaction to take
+      place. Figure 22 (top) shows a series of snapshots from a cartoon movie (see
+      Film 3) with the substrate coming in and the enzyme closing; Fig. 22 (bottom)
+      shows the reaction taking place and the enzyme opening up to allow the prod-
+      ucts to escape.
+          This type of conformational change occurs in many enzymes as an essential
+      part of their mechanism. Moreover, in adenylate kinase and many other en-
+      zymes, the chemistry has been optimized such that it is not the rate-limiting step
+      for the overall reaction [44,45]. Jeremy Knowles [46] has called such enzymes
+      “perfect” since there is no rationale for evolution to further optimize the chem-
+      istry when the opening of the enzyme to let the products escape is rate-limiting.
+          Molecular motors are the prime example of how the “jigglings and wig-
+      glings” are put to work to do something that is essential for life (see Fig. 23).
+      My group has studied several different motors, including myosin V [47,48], F1
+      ATPase [49,50,51], and kinesin [52,53]. I will talk just about one of them, ki-
+      nesin, because of its relation to this year’s Physiology or Medicine Prize, which
+      was awarded for the “discoveries of machinery regulating vesicle traffic, a major
+      transport system in the cell.” The work was concerned with genetic analyses of
+
+
+
+
+ok.indb 82                                                                                    11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems83
+
+
+
+
+             Figure 22. Snapshots from Adenylate Kinase film (Film 3). (a) Closing of enzyme as
+             substrates bind; (b) Reaction of substrates and opening for product release (prepared by
+             Victor Ovchinnikov with VMD and FFMPEG).
+
+
+
+             how vesicles open to discharge their cargo at the right time in the right place.
+             Although not all vesicles need to be moved from one place to another, the ki-
+             nesins, which were discovered in 1982 in the giant squid axon [54], are very
+             important in the function of many vesicles. The kinesins transport the vesicles
+             large distances along the microtubule cytoskeleton of the cell.
+                 Figure 24 shows a set of snapshots from a film (see Film 4) that illustrates
+             how kinesin functions. The two globular “feet” are visible. Actually there are two
+             molecules, each with a globular foot, and they are joined together by a protein
+             strands one from each molecule (see also Fig. 25), to form a coil-coil at the
+             top of which the vesicle is carried. We know very little about the structure of
+             the vesicles or how they are attached at the top of the coiled-coil. Our research
+             is concerned with understanding the mechanism by which the kinesin dimer
+             walks along the microtubule cytoskeleton. If you look carefully at Film 4, you
+             can see that kinesin walks in the same way as we do: it puts the left foot forward,
+             then the right foot forward, and so on. However, as the film shows the molecules
+             do not walk “normally.” The way they walk is like a person who has artificial legs.
+             When you consider the complex muscular and nervous system involved in our
+             walking, how kinesin walks still appears amazing, at least to me.
+                 To understand the walking mechanism, Wonmuk Hwang, Matt Lang and
+             coworkers, and I [52] have been doing molecular dynamics simulations. The
+
+
+
+
+ok.indb 83                                                                                              11/4/14 2:25 PM
+
+
+      84                                                                   The Nobel Prizes
+
+
+
+
+      Figure 23. Cartoon of different types of molecular motors (see R. D. Vale, Cell 112, 467–
+      480 (2003) for details concerning the image).
+
+
+
+
+      snapshots from the film (Fig. 24) show that the molecule ATP and its hydrolysis
+      products, ADP and Pi are involved in the stepping mechanism. It is the binding
+      of ATP that trigger the motion by which the back “foot” is “thrown” forward
+      to take a step on the microtubule. To examine the mechanism in more detail,
+      the X-ray structure of a kinesin dimer shown in Fig. 25 was used as the basis
+      for the simulations [56]. Calculations showed that the β-strand, labeled β10 in
+      the figure, which serves as the connector, is not sufficiently rigid to be able to
+      perform the so-called “power stroke,” in which the back foot is thrown forward.
+
+
+
+
+ok.indb 84                                                                                        11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems85
+
+
+
+
+             Figure 24. Kinesin walking. Snapshots from Film 4 (created by Graham Johnson for
+             R. D. Vale and R. A. Milligan, 2000; see ref. 55). (a) View of two globular domains (the
+             “feet”) bound to a microtubule; ADP has been released and ATP is binding to the front
+             foot, triggering the power stroke (see Fig. 26 and text); (b) release of rear foot; (c) partly
+             complete power stroke; (d) completed step.
+
+
+
+
+             Figure 25. X-ray structure of rat brain kinesin dimer. The β10 strand of each monomer
+             connecting to the coiled-coil and the β0 strand which is the CS are evident (from ref. 56).
+
+
+
+
+ok.indb 85                                                                                                    11/4/14 2:25 PM
+
+
+      86                                                                 The Nobel Prizes
+
+
+      We noticed that there was another β-strand, labeled β0, at the N-terminus of
+      the molecule. It is disordered in certain structures, but in others it forms a two-
+      stranded β-sheet with β10. We called β0 the “cover strand” (CS) and the two-
+      stranded β-sheet, the “cover-neck bundle” (CNB).
+          Figure 26 shows a pictorial representation of the simulation results. In each
+      of the three diagrams on the left we can see the two feet with a model of the mi-
+      crotubule below. In the top diagram (A) the forward foot has a disordered cover
+      strand in blue. When ATP binds, the simulations show (middle panel (B)) that
+      the two-stranded cover-neck bundle is formed. It looks very much like a spring
+      and appears to be a high-energy construct. Simulations suggest that, in fact, it
+      acts like a spring with a forward bias that generates the power stroke by propel-
+      ling the back foot forward (bottom panel (C)) in readiness for the next step.
+          To test the model based on the simulations, optical trapping experiments
+      in the presence of an external force were performed for a wild-type kinesin and
+
+
+
+
+      Figure 26. Schematic representation of the generation of the power stroke based on the
+      simulations. (A) Before ATP binding; (B) After ATP binding; (C) Power stroke; (D) Dia-
+      gram highlighting the major molecular events leading to CNB formation and the power
+      stroke (see ref. 53 and text).
+
+
+
+
+ok.indb 86                                                                                     11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems87
+
+
+
+
+             Figure 27. Mutant Data for Testing the Power Stroke Mechanism (from ref. 53).
+
+
+
+
+             for two mutants [53]. One set of mutations introduced two glycines (G2), which
+             are expected to make the CNB more flexible and the other completely deleted
+             the cover strand (DEL) (Fig. 27a). Figure 27b shows a cartoon of the experi-
+             ment. Figure 27c presents one set of results, namely the decrease of the stall
+             force required for the G2 mutant and the almost zero stall force required for
+             DEL, which appears at best to “limp” along the microtubule; more details of
+             the experimental studies that support the CNB model are described separately
+             [53]. Additional simulations are in progress to increase our understanding of
+             how kinesins function. An essential element that is being investigated concerns
+             the role of the interactions between kinesin and the microtubule in the walking
+             mechanism.
+                  Kinesin motors, like other molecular motors, are very important in making
+             life possible [57]. As indicated in Fig. 28, mitosis and cell division are inhib-
+             ited when kinesins do not function due to deleterious mutations. Their impor-
+             tance in cell division makes them a target for cancer chemotherapy. Kinesins
+             are also essential for axonal transport where material has to be delivered over
+             long distances. Some viruses have learned that if they attach themselves to ki-
+             nesins where the normal cargo would be located, they are transported along the
+
+
+
+
+ok.indb 87                                                                                       11/4/14 2:25 PM
+
+
+      88                                                              The Nobel Prizes
+
+
+
+
+      Figure 28. Importance of Kinesin Motors.
+
+
+
+      microtubules from one part of the cell to another in a few minutes instead of
+      the ten or so hours that would be required by diffusion in the complex cellular
+      medium.
+           What does the future hold (Fig. 29)? All of us know that real predictions
+      are hard, so I have included relatively conservative ones in the figure. The first,
+      which was mentioned in the introduction, has been a dream of mine since I
+      began to do biomolecular simulations. It is not that simulations can replace all
+      experiments, as the Nobel press announcement seems to imply, but rather that
+      experimentalists would use simulations as a tool like any other (such as X-rays
+      or NMR) in their work to get a better understanding than they could derive
+      from either experiments or simulations alone. That experimentalists are begin-
+      ning to employ simulations in this way is evidenced by the literature [58]. The
+      respectability for molecular dynamics simulations provided by the Nobel Prize
+      is likely to increase their utilization by the scientific community.
+           In terms of actual simulations, people are studying more complicated sys-
+      tems. They are beginning to use molecular dynamics simulations for viruses,
+      ribosomes, and even cells so as to gain insights into how they function. If I were
+      thirty years younger I would be simulating the brain. About twenty years ago, I
+      spent a couple of years learning what was known about the brain and concluded
+      that not enough data were available to permit me to contribute significantly by
+      making studies on the molecular level. I do not regret the time spent in this
+      way since I learned much of interest and my research group continued to focus
+      on problems that we could solve. Our knowledge of the brain has increased
+
+
+
+
+ok.indb 88                                                                                  11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems89
+
+
+
+
+             Figure 29. Future of Molecular Dynamics Simulations.
+
+
+
+             sufficiently that I would now urge young scientists to work at this exciting fron-
+             tier, which is beginning to be probed by initiatives in both Europe and America.
+                  However bright the future, I want to caution the audience (as I always do
+             with my students) that simulations have limitations, just as do experiments. In
+             particular, when you appear to have discovered something new and exciting,
+             you should be doubly careful to make certain that there is no mistake in what
+             you have done. Moreover, the example of my exploration of brain research per-
+             mits me to make an important point. In working at the interface of chemistry
+             and biology with simulation techniques, it is essential to realize that of the many
+             exciting systems that are being studied experimentally, only relatively few pose
+             questions for which molecular dynamics simulations can provide useful insights
+             at their present stage of development.
+                  Figure 30 lists the people to whom this lecture is dedicated. They are the Kar-
+             plusians: 244 people who have worked in my “laboratory” in Illinois, Columbia,
+             Harvard, Paris and Strasbourg. Without them, I would not be here today. Over
+             the last forty years, many of them have contributed to the methodology and ap-
+             plications of molecular dynamics simulations. In writing this, I find it curious
+             that molecular dynamics simulations were not mentioned in the description of
+             the “Scientific Background” of the Nobel Prize. The large community involved in
+             molecular dynamics simulations, which includes all of this year’s Nobel Laure-
+             ates in Chemistry, has transformed the field from an esoteric subject of interest
+
+
+
+
+ok.indb 89                                                                                          11/4/14 2:25 PM
+
+
+      90                                                                 The Nobel Prizes
+
+
+
+
+      Figure 30. List of Karplusians (2013). These are collaborators who have worked with me
+      in Illinois, Columbia, Harvard, Paris, and Strasbourg.
+
+
+      to only a small group of specialists into a central element of modern chemistry
+      and structural biology. Without molecular dynamics simulations and their ex-
+      plosive development, no Nobel Prize would have been awarded in this area.
+           There is perhaps a parallel here between the fact that molecular dynamics
+      was not mentioned in the Nobel Prize citation and the citation for Einstein’s No-
+      bel Prize in Physics (1921). He was awarded the Nobel Prize for the theory of the
+      photoelectric effect and not for his most important work, the general theory of
+      relativity, which had already been verified by experiment and was the origin of
+      his worldwide fame as a scientist. Interestingly, when he gave his Nobel Lecture,
+      it was on relativity, even though he knew that he was supposed to talk about the
+      photoelectric effect. Correspondingly, I traced the history of molecular dynam-
+      ics simulations and their development in my lecture and did not emphasize the
+      development of potential functions for simulations, the focus of the Chemis-
+      try Nobel Prize citation. The complex deliberations of the Physics Committee
+
+
+
+
+ok.indb 90                                                                                     11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems91
+
+
+             in reaching its decision concerning Einstein’s Nobel Prize are now known be-
+             cause his prize was awarded more than fifty years ago [59]. The public will again
+             have to wait fifty years to find out what motivated the Chemistry Committee in
+             awarding this year’s Nobel Prize.
+                 I very much want to mention one other person, my wife Marci, who was
+             willing to live with me, someone “who spent all his time working,” in her words.
+             Even more than just living with me, she was brave enough to be my laboratory
+             administrator. Among many aspects of our life, it made possible our working in
+             both the U.S. and France over many years. Moreover, in preparing to come to
+             Stockholm, the complexity of arranging to be in the right place at the right time
+             would have been overwhelming if she had not been there to take care of what
+             was needed.
+
+
+             References
+              1. P. A. M. Dirac, Proc. Royal Soc. of London, Series A 123, 714–733 (1929).
+              2. N. L. Allinger, M. A. Miller, L. W. Chow, R. A. Ford and J. C. Graham, J. Amer.
+                 Chem. Soc. 87, 3430 (1965).
+              3. G. Némethy and H. Scheraga, Biopolymers 4, 155 (1965)
+              4. S. Lifson and A. Warshel, J. Chem. Phys. 49, 5116 (1968)
+              5. R. N. Porter and M. Karplus, J. Chem. Phys. 40, 1105–1115 (1964).
+              6. P. Siegbahn and B. Liu, J. Chem. Phys. 68, 2457 (1978).
+              7. G. C. Schatz, Theor. Chem. Acc. 103, 270–272 (2000).
+              8. M. Karplus, R. N. Porter, and R. D. Sharma, J. Chem. Phys. 45, 3871–3873 (1966).
+              9. A. Farkas and L. Farkas, Proc. Roy. Soc. (London) A152, 124 (1935).
+             10. S. Datz and E. H. Taylor, J. Chem. Phys. 39, 1896 (1963).
+             11. A. Kuppermann and G. C. Schatz, J. Chem. Phys. 62, 2502 (1975).
+             12. A. B. Elkowitz and R. E. Wyatt, J. Chem. Phys. 62, 2504 (1975).
+             13. M. Garcia-Viloca, J. Gao, M. Karplus, and D. G. Truhlar, Science 303, 186–195
+                 (2004).
+             14. R. Hubbard and G. Wald in “Structural implications of reaction kinetics,” in Struc-
+                 tural Chemistry and Molecular Biology: a Volume dedicated to Linus Pauling by his
+                 Students, Colleagues, and Friends, ed. A. Rich, N. Davidson, pp. 837–47. San Fran-
+                 cisco: Freeman
+             15. B. Honig and M. Karplus, Nature 229, 558–560 (1971).
+             16. R. Gilardi, I.L. Karle, J. Karle, W. Sperling, Nature 232, 187–189 (1971).
+             17. B. Honig, A. Warshel, and M. Karplus, Acc. Chem. Res. 8, 92–100 (1975).
+             18. A. Warshel and M. Karplus, J. Am. Chem. Soc. 94, 5612–5625 (1972).
+             19. A. Warshel and M. Karplus, Chem. Phys. Letters 32, 11–17 (1975).
+             20. A. Warshel, Nature 260, 679–683 (1976).
+             21. V. R. I. Kaila, R. Send, and D. Sundholm, J. Phys. Chem. B 116, 2249–2258 (2012).
+             22. J. Deisenhofer and W. Steigemann, Acta Crystallogr. B 31:238–250 (1975).
+             23. J. A. McCammon, B. R. Gelin, and M. Karplus, Nature 267, 585–590 (1977).
+
+
+
+
+ok.indb 91                                                                                             11/4/14 2:25 PM
+
+
+      92                                                                     The Nobel Prizes
+
+
+      24.    B. R. Gelin and M. Karplus, Proc. Natl. Acad. Sci. USA 72, 2002–2006 (1975).
+      25.    A. Rahman, Phys. Rev. 136:A405–11 (1964).
+      26.    F. H. Stillinger and A. Rahman, J. Chem. Phys. 60:1545–1557 (1974).
+      27.    D. C. Phillips, in Biomolecular Stereodynamics, II, R. H. Sarma, ed. (Adenine Press,
+             Guilderland, New York 1981), p. 497.
+      28.    The Computer World Information Technology Foundation, Oral History Collec-
+             tion Archives, 1995.
+      29.    P. J. Rossky, M. Karplus, and A. Rahman, Biopolymers 18, 825–854 (1979).
+      30.    P. J. Rossky and M. Karplus, J. Am. Chem. Soc. 101, 1913–1937 (1979).
+      31.    M. Levitt and R. Sharon, Proc. Natl. Acad. Sci. USA 85, 7557–7561 (1988).
+      32.    D. Vitkup, D. Ringe, G. A. Petsko, and M. Karplus, Nature Struc. Biol. 7, 34–38
+             (2000).
+      33.    A. L. Tournier, J. C. Xu, and J. C. Smith, Biophys. J. 85, 1871–1875 (2003).
+      34.    D. E. Shaw, P. Maragakis, K. Lindorff-Larsen, et al., Science 330, 341–346 (2010).
+      35.    W. Yang, R. Bitetti-Putzer, and M. Karplus, J. Chem. Phys. 120, 2618–2628 (2004).
+      36.    C. M. Dobson, A. Sali, and M. Karplus, Angew. Chem. Int. Ed. 37, 868–893 (1998).
+      37.    K. Lindorff-Larsen, S. Piana, R. O. Dror, and D. E. Shaw, Science 334, 517–520
+             (2011).
+      38.    M. Levitt and A. Warshel, Nature 253, 694 (1975).
+      39.    J. C. Smith and B. Roux, Structure 21, 2102–2105 (2013).
+      40.    M. Karplus and D. L. Weaver, Nature 260, 404–406 (1976).
+      41.    M. Karplus and D. L. Weaver, Biopolymers 18, 1421–1437 (1979).
+      42.    M. Karplus and D. L. Weaver, Protein Science 3, 650–668 (1994).
+      43.    R. P. Feynman, R. B. Leighton, and M. Sands (1963), The Feynman Lectures in Phys-
+             ics (Addison-Wesley, Reading), Vol. I, Chapter 3.
+      44.    K. A. Henzler-Wildman, V.Thai, M. Lei, M. Ott, M. Wolf-Watz, T. Fenn, E. Pozhar-
+             ski, M. A. Wilson, G. A. Petsko, M. Karplus, C. G. Hübner, and D. Kern, Nature 450,
+             838–844 (2007).
+      45.    K. A. Henzler-Wildman, M. Lei, V. Thai, S. J. Kerns, M. Karplus, and D. Kern, Na-
+             ture 450, 913–916 (2007).
+      46.    A. L. Wendell, R. J. Raines, and J. R. Knowles, Biochemistry 27, 1158–1167 (1988).
+      47.    M. Cecchini, A. Houdusse, and M. Karplus, PLoS Computational Biology 4,
+             e1000129:1–19 (2008).
+      48.    V. Ovchinnikov, B. L. Trout, and M. Karplus, J. Mol. Biol. 395, 815–833 2010).
+      49.    W. Yang, Y. Q. Gao, Q. Cui, J. Ma, and M. Karplus, Proc. Natl. Acad. Sci. USA 100,
+             874–879 (2003).
+      50.    Y. Q. Gao, W. Yang, and M. Karplus, Cell 123, 195–205 (2005).
+      51.    J. Pu and M. Karplus, Proc. Natl. Acad. Sci. USA 105, 1192–1197 (2008).
+      52.    W. Hwang, S. Zhang, R. D. Kamm, and M. Karplus, Proc. Natl. Acad. Sci. USA 101,
+             12916–12921 (2004).
+      53.    A. S. Khalil, D. C. Appleyard, A. K. Labno, A. Georges, M. Karplus, A. M. Belcher,
+             W. Hwang, and M. J. Lang, Proc. Natl. Acad. Sci. USA 105, 19246–19251 (2008).
+      54.    S. T. Brady, R. J. Lasek, and R. D. Allen, Science 218, 1129–1131 (1982).
+      55.    R. D. Vale and R. A. Milligan, Science 288, 88–95 (2000).
+      56.    F. Kozielsky, S. Sack, A. Marx, et Cell 91, 985–994 (1997).
+
+
+
+
+ok.indb 92                                                                                          11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems93
+
+
+             57. E. Mandelkow and E. M. Mandelkow, Trends in Cell Biology 12, 585–591 (2002).
+             58. M. A. Young, S. Gonfloni, G. Superti-Furga, B. Roux, and J. Kuriyan Cell 105, 115–
+                 126 (2001).
+             59. M. Friedman, The Politics of Excellence, Chapter 7 (Henry Holt and Company, New
+                 York, 2001).
+
+             Portrait photo of Martin Karplus by photographer Alexander Mahmoud.
+
+
+
+             Appendix: Background of Films
+
+             The film shows two trajectories, the first reactive (Film 1a) and the second non-
+             reactive (Film 1b). In the non-reactive trajectory, it is evident that one of the
+             atoms in the molecule comes out in front of the plane of the reaction and the
+             other goes into the back of the plane. This is done by introducing perspective;
+             i.e., by having an atom grow larger as it comes forward toward you and become
+             smaller as it goes away from you.
+                   In making the film, a question arose as to how to represent the perspective.
+             If the radius of the atomic circles was varied linearly with the distance in front or
+             in back, the perspective was difficult to perceive. So we had to find a better way
+             of showing the perspective.
+                   What I did was to look at the paintings of Canaletto in visits to Venice, and
+             compare the actual distances with how he presented them in his paintings. I
+             found that he seemed to use an approximate exponential law, E αR, where R is
+             the distance out of the plane and α is a coefficient, whose value I do not remem-
+             ber. If I had published this result (There are many things that I did, which were
+             not published.) perhaps there would be a Karplus Law in art theory, as well as
+             the Karplus Equation in nuclear magnetic resonance.
+
+
+
+
+                                                      
+
+             See Nobelprize.org for the films.
+             Film 1a and 1b. H+H2 Collisions
+
+
+
+
+ok.indb 93                                                                                            11/4/14 2:25 PM
+
+
+      94                                                               The Nobel Prizes
+
+
+          It is also worth remembering the film is of historical interest for several rea-
+      sons. Made in 1967, it is the first film to show pictorially the results of an accu-
+      rate calculation of the motions of the atoms involved in a chemical reaction. The
+      film was made in the laboratory of Professor Sutherland, who was developing
+      the first computer ray-graphics machine. It was a prototype of the devices now
+      manufactured by Evans and Sutherland, which are used, for example, for air
+      traffic control.
+          The film shows the dynamics of BPTI over about 10 ps, in correspondence
+      with Fig. 14. The film was made by Victor Ovchinnikov with FFMPEG based on
+      the images drawn with VMD.
+
+
+
+
+      See Nobelprize.org for the film.
+      Film 2. BPTI Dynamics
+
+
+
+          Film 3a shows the closing of adenylate kinase by the hinge-bending motions
+      as the two A-P-P substrates bind, and Film 3b shows the reaction to form A-P-P-
+      P and A-P in the closed molecule followed by opening through hinge-bending
+      motions as the products escape. The film was made by Victor Ovchinnikov with
+      FFMPEG using images prepared with VMD.
+
+
+
+
+ok.indb 94                                                                                   11/4/14 2:25 PM
+
+
+             Development of Multiscale Models for Complex Chemical Systems95
+
+
+
+
+                                                    
+
+             See Nobelprize.org for the films.
+             Film 3a and 3b. Cartoon: Adenylate Kinase Dynamics
+
+
+
+             The film shows kinesin taking several steps on the microtubule (see Fig. 24 and
+             text). It was made by the group of R. D. Vale and R. A. Milligan [55].
+
+
+
+
+             See Nobelprize.org for the film.
+             Film 4. Cartoon: Kinesin Walking on Microtubules
+
+
+
+
+ok.indb 95                                                                                     11/4/14 2:25 PM
+

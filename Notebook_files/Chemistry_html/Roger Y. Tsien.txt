@@ -1,0 +1,1042 @@
+CONSTRUCTING AND EXPLOITING
+THE FLUORESCENT PROTEIN PAINTBOX
+
+Nobel Lecture, December 8, 2008
+by
+
+Roger Y. Tsien
+Howard Hughes Medical Institute, University of California San Diego, 9500
+Gilman Drive, La Jolla, CA 92093-0647, USA.
+
+
+
+
+MOTIVATION
+My first exposure to visibly fluorescent proteins (FPs) was near the end of
+my time as a faculty member at the University of California, Berkeley. Prof.
+Alexander Glazer, a friend and colleague there, was the world’s expert on
+phycobiliproteins, the brilliantly colored and intensely fluorescent proteins
+that serve as light-harvesting antennae for the photosynthetic apparatus
+of blue-green algae or cyanobacteria. One day, probably around 1987–88,
+Glazer told me that his lab had cloned the gene for one of the phycobilipro-
+teins. Furthermore, he said, the apoprotein produced from this gene became
+fluorescent when mixed with its chromophore, a small molecule cofactor
+that could be extracted from dried cyanobacteria under conditions that
+cleaved its bond to the phycobiliprotein. I remember becoming very excited
+about the prospect that an arbitrary protein could be fluorescently tagged in
+situ by genetically fusing it to the phycobiliprotein, then administering the
+chromophore, which I hoped would be able to cross membranes and get
+inside cells. Unfortunately, Glazer’s lab then found out that the spontane-
+ous reaction between the apoprotein and the chromophore produced the
+“wrong” product, whose fluorescence was red-shifted and five-fold lower than
+that of the native phycobiliprotein1–3. An enzyme from the cyanobacteria was
+required to insert the chromophore correctly into the apoprotein. This en-
+zyme was a heterodimer of two gene products, so at least three cyanobacterial
+genes would have to be introduced into any other organism, not counting
+any gene products needed to synthesize the chromophore4.
+   Meanwhile fluorescence imaging of the second messenger cAMP (cyclic
+adenosine 3’,5’- monophosphate) had become one of my main research
+goals by 1988. I reasoned that the best way to create a fluorescent sensor
+to detect cAMP with the necessary affinity and selectivity inside cells would
+be to hijack a natural cAMP-binding protein. After much consideration of
+the various candidates known at the time, I chose cAMP-dependent protein
+kinase, now more commonly abbreviated PKA. PKA contains two types of
+
+
+186
+
+
+subunits, regulatory and catalytic. In the absence of cAMP, the regulatory
+subunits tightly bind and inhibit the catalytic subunits. When cAMP becomes
+available, it binds to the regulatory subunits, which then let go of the catalytic
+subunits, which in turn start transferring phosphate groups from ATP onto
+selected proteins5–7. But how could activation of PKA by cAMP be made di-
+rectly visible inside a single living cell? From my graduate student days I had
+been fascinated by a biophysical phenomenon called fluorescence resonance
+energy transfer (FRET), in which one excited dye molecule can transfer its
+energy to a close neighbor, much as a football or basketball player can pass
+the ball to a teammate with diminishing probability of success the greater the
+distance between the players. If we could attach one type of dye molecule to
+the regulatory subunits and the other type of dye molecule to the catalytic
+subunits, FRET would be possible in intact PKA, because the subunits are
+in intimate contact. But once cAMP had broken up the PKA complex and
+allowed the subunits to drift apart, FRET would be disrupted and a change in
+fluorescence color should be observable.
+   But to get these experiments to work, we needed abundant supplies of
+PKA subunits and lots of advice on how to handle them, especially because
+we had very little experience with protein biochemistry. I contacted Susan
+Taylor, who had become one of the world’s leading experts on PKA and was
+producing relatively large quantities of recombinant PKA subunits in order
+to solve their crystal structure8,9 (Figure 1). The Taylor lab kindly sent ship-
+ment after shipment of proteins on wet or dry ice from UCSD to Berkeley
+for us to try to label with dyes, but the dyes either refused to stick, or messed
+up the subunits to the point where they would no longer respond to cAMP.
+The wish to facilitate this collaboration was an important part of the reason
+that my lab moved from Berkeley to UCSD in 1989. Eventually, after a year
+of working side by side, Dr. Stephen Adams in my lab and Ying Ji Buechler
+and Wolfgang Dostmann in the Taylor lab devised a reproducible procedure
+to combine fluorescein-labeled catalytic subunits with rhodamine-labeled
+regulatory subunits to produce FRET-based sensors for cAMP10,11. Over the
+next few years, we used these protein complexes to study several interesting
+problems in cAMP signaling12–14. For example, we collaborated with Eric
+Kandel’s lab to demonstrate spatial gradients of cAMP within individual sea
+slug (Aplysia californica) neurons undergoing training procedures in a model
+of synaptic plasticity15.
+
+
+
+
+                                                                              187
+
+
+Figure 1. Schematic cartoon showing how cAMP-induced dissociation of regulatory from
+catalytic subunits of protein kinase A (PKA) can be reported by loss of FRET from fluores-
+cein to rhodamine labels.
+
+
+Although the cAMP sensor was moderately successful, the general approach
+would have been very difficult to extend to other proteins because it re-
+quired high level expression and purification of soluble proteins or subunits,
+controlled attachment of two different dyes in vitro to distinct domains or
+subunits without destroying the function of the protein, repurification, and
+microinjection back into living cells. Such cells had to be large and robust
+enough to tolerate poking with a hollow glass needle, and the experimenter
+had to be patient and dexterous, unlike me. All of the above obstacles could
+be circumvented if we had genes encoding two fluorescent proteins of the ap-
+propriate colors. These genes could be fused to the genes for the protein(s)
+of interest. One would still have to get the fusion genes into the cell(s) to be
+studied, but standard methodology has been worked out for most cells of
+interest. Introducing genes into cells (transfection) is generally much easier
+than introducing proteins, because each cell needs only one or a few copies
+of DNA (compared to billions of molecules of protein), the cell has plenty of
+time to recover from any membrane damage, and one can selectively propa-
+gate those cells that have successfully assimilated the DNA. Once in the cells,
+these genes would hopefully make composite proteins in situ that would both
+fluoresce and preserve native biological function.
+
+
+
+
+188
+
+
+Figure 2. The jellyfish Aequorea victoria or Aequorea aequorea from which aequorin and Green
+Fluorescent Protein were isolated. Photo courtesy of Dr. Claudia E. Mills, Friday Harbor
+Laboratories.
+
+
+Knowing that Prof. Glazer’s lab was still struggling with the phycobiliprotein
+approach, I sought simpler alternative fluorescent proteins. I remembered
+that certain jellyfish (Figure 2) contained a green fluorescent protein (GFP),
+because it was an annoying contaminant to be carefully separated away from
+aequorin, the jellyfish protein that some of our competitors used to measure
+calcium signals inside cells16. One day in April or May 1992, I typed “green
+fluorescent protein” into Medline, the National Library of Medicine’s com-
+puterized literature searching tool that had recently become accessible from
+UCSD. To my astonishment, up popped a citation to a just-published paper
+by Douglas Prasher and collaborators17, reporting the cloning of the gene
+for GFP and the likelihood that the chromophore was an integral part of
+the protein rather than being an external cofactor. I rushed to the library
+to photocopy the paper (Figure 3), which conveniently listed Prasher’s
+telephone number at the Woods Hole Oceanographic Institution. I phoned
+Prasher in May 1992 and was surprised to hear that he did not intend to work
+on GFP any more. En route to the full-length gene, he had first obtained a
+~70% length gene and tried to express it into bacteria, but no fluorescence
+appeared. Because of funding difficulties and a change in career direction,
+he was willing to pass the baton to us, provided that we promised to include
+him as a coauthor if we succeeded. I agreed to this very reasonable request,
+so he promised to send us a sample of the DNA encoding GFP, and some
+frozen jellyfish tissue in which we might hunt for the enzyme(s) that we
+both feared would be necessary to synthesize the chromophore within GFP.
+
+                                                                                       189
+
+
+However, I was not immediately ready to receive these samples, because no
+one in the lab was experienced in molecular genetics. Stephen Adams had
+learned much protein biochemistry during the collaboration with Susan
+Taylor, but her lab had already laid the molecular biological foundation8,9
+before we got involved. So I waited in 1992 for someone with molecular
+genetics experience to join my lab. That person was Roger Heim, who was
+just completing his Ph.D. in Switzerland on cloning Ca2+ pumps18,19. Heim
+came strongly recommended by his mentor Prof. Ernesto Carafoli, who said
+that his lab had an internal joke that if Heim could not get an experiment
+to work, nobody could. Ironically, Heim wanted a diversion from molecular
+biology and therefore applied to become a postdoctoral fellow in my lab to
+learn and use Ca2+ imaging, but he accepted my suggestion that he also see if
+he could make anything useful with Prasher’s GFP gene. He arrived at UCSD
+in late September 1992.
+
+
+
+
+Figure 3. Title, abstract, and acknowledgments from the paper describing the cloning of
+the gene encoding Green Fluorescent Protein and the structure of GFP’s chromophore17.
+
+
+INITIAL EXPERIMENTS
+When I re-contacted Prasher in early October 1992 to say that with Heim’s
+arrival we were ready to receive the samples, Prasher informed me that in the
+months since my first phone call, Martin Chalfie at Columbia had requested
+and already received the gene. Shortly thereafter, I met Chalfie at a Society
+for Neuroscience meeting and heard from him that the gene could make
+bacteria (E. coli) fluorescent, implying no other jellyfish-specific components
+
+190
+
+
+were required, which was a great relief. Heim therefore concentrated his ef-
+forts on getting GFP to work in yeast (S. cerevisiae), partly to avoid wasteful du-
+plication of Chalfie’s efforts, partly because we were getting advice and bor-
+rowing equipment and reagents from my nearest neighbor at UCSD, Scott
+Emr, an eminent molecular/cell biologist specializing in yeast. With the help
+of Chalfie’s advice to amplify only the protein-coding region of Prasher’s
+cDNA and thus discard the flanking upstream and downstream stretches
+of DNA, Heim succeeded in making some yeast cells fluorescent, though
+there was a huge variation in the brightness of individual cells in the popula-
+tion. Heim and I showed Emr the cells under the microscope and asked if
+he could suggest any biological question in yeast for which GFP could help
+supply the answer. Emr was excited to see Heim’s results and he indicated
+GFP may be used to track cargo protein movements through the secretory
+pathway of yeast. A postdoc in the Emr lab made GFP fusion constructs to
+a secreted protein and a lysosomal protein in yeast. Unfortunately, the GFP
+fluorescence signals were very weak and highly variable from cell to cell. This
+confirmed that wild-type GFP was too unreliable, so Emr’s lab put GFP aside
+until it could be sufficiently improved.
+   My original hope for fluorescent proteins was to fuse a different color to
+each of the two types of subunits of PKA, so we obviously needed a second
+color. Because the chromophore of GFP was mostly constructed from a
+tyrosine at position 66, I asked Heim to mutate this amino acid to trypto-
+phan, the other aromatic amino acid most conducive to absorbance and
+fluorescence. This alteration practically destroyed the fluorescence. After the
+failure of my naïve rational idea, Heim decided to mutate GFP randomly. To
+our delight, he soon found a blue-fluorescing mutant (Figure 4, upper right
+quadrant), which upon sequencing proved surprisingly to contain a histidine
+at position 6620. Later we discovered that tryptophan at 66 gives an even
+more useful and bleach-resistant cyan fluorescent protein (CFP), intermedi-
+ate between blue and green, but only if additional mutations carve out extra
+room inside the protein to accommodate the bulky tryptophan (Figure 4,
+lower right quadrant). Even histidine at 66 benefits from its own set of com-
+pensatory mutations21.
+
+
+
+
+                                                                               191
+
+
+Figure 4. Fluorescence from streaks of bacteria expressing (clockwise from upper right)
+improved blue, cyan, green, and yellow fluorescent proteins. Each streak is labeled with
+the mutation most responsible for its spectral alteration.
+
+
+It still bothered me that we did not understand how the chromophore (tech-
+nically, a p- hydroxybenzylideneimidazolidinone) inside GFP was spontane-
+ously formed from serine 65, tyrosine 66, and glycine 6717,22. There seemed
+to be no biochemical precedent for such a post-translational modification,
+which not only formed a new heterocyclic ring but also dehydrogenated the
+α-β single bond of tyrosine to a double bond. Dehydrogenations either evolve
+hydrogen gas (H2), which I thought most unlikely in this case, or require an
+oxidant to carry away the two hydrogen atoms. The only oxidant we could
+directly control within the cells was atmospheric O2. Heim therefore grew
+GFP-expressing bacteria under strictly anaerobic conditions and was pleas-
+antly surprised to find that the protein was made but not yet fluorescent.
+Upon re-exposure to air, that protein became green fluorescent over a few
+hours20. We were therefore lucky that the requisite oxidant, O2, is available
+in all organisms except obligate anaerobes, yet can be readily eliminated to
+demonstrate its necessity. This discovery allowed us to propose a plausible
+mechanism for chromophore formation (Figure 5). An important corollary
+is that two hydrogens + O2 gives H2O2 = hydrogen peroxide, a potentially
+toxic byproduct. I noticed this from having to balance chemical equations
+in high school. Surprisingly few researchers recognized this simple conse-
+quence of the conservation of matter, perhaps because detailed mass balance
+is de-emphasized in most chemistry courses from university level onwards.
+Much later the predicted generation of one molecule of H2O2 per molecule
+of mature GFP was experimentally confirmed23.
+
+192
+
+
+Figure 5. Initial proposal for mechanism of formation of the GFP chromophore74. The
+initial cyclization is analogous to the known tendency of Asn-Gly sequences to cyclize75.
+Recently it has been proposed that oxidation precedes dehydration23.
+
+
+We still had one other big problem before we could use FRET from the
+blue mutant (“BFP”) to GFP to sense protein conformational changes or
+protein-protein interactions. Ideally, GFP should be excitable only by the
+same blue wavelengths as BFP emits. Then irradiation with ultraviolet (UV)
+light to selectively excite BFP would either give blue emission in the absence
+of FRET, or transfer the energy to GFP to glow green. However, the original
+GFP was more strongly excited by UV than by blue, so that GFP was a very
+poor acceptor of FRET from BFP. Why did GFP have two excitation peaks,
+one big one in the UV and a much smaller one in the blue? I hypothesized
+that the major UV peak was due to the chromophore structure as guessed
+by Shimomura24 and Prasher17,22, whereas the minor blue peak was due to a
+small fraction of the chromophores undergoing dehydration of serine 65 to
+a dehydroalanine. Such dehydration would create an extra double bond in
+conjugation with the rest of the chromophore and perhaps explain a shift
+to longer wavelengths. To test this hypothesis, Heim mutated serine 65 to
+alanine or cysteine, which I thought would respectively prevent or promote
+the formation of the extra double bond, eliminating or accentuating the
+blue peak. Once again I was wrong: both mutations eliminated the UV peak
+and amplified the desired blue peak. Heim then tried replacing serine 65 by
+threonine. Even though threonine is the amino acid most closely resembling
+serine, differing only by a CH2 group, the unwanted UV peak disappeared
+completely, the blue peak became 5–6 fold higher, and it even shifted ~10
+nm to longer wavelengths (Figure 6)25. We therefore suggested this mutant,
+“S65T”, as a general improvement on wild-type GFP (Figure 4, lower left
+
+                                                                                    193
+
+
+quadrant). This mutation greatly improved GFP’s performance in yeast26 and
+thus began to address Emr’s difficulties. As an initial proof of principle21 that
+FRET between GFP mutants could report biochemical signals, Heim geneti-
+cally fused BFP to S65T GFP via a floppy peptide linker that could be pro-
+teolyzed, e.g. by trypsin. FRET was effective in the chimeric protein before
+enzyme exposure, but was disrupted after cleavage of the linker as expected
+(Figure 7A). Fortunately the FPs themselves were quite resistant to proteases.
+Other GFP mutants with spectra like S65T and their use as FRET acceptors
+from BFP were independently developed by Youvan’s group27,28.
+
+
+
+
+Figure 6. Excitation and emission spectra of wild-type (WT) GFP and several mutants of Ser
+6525. The inset shows the structure of the wild-type chromophore.
+
+
+In a random screen for optimal mutations of residues 55 to74, Cormack et
+al.29 confirmed the value of S65T and added another mutation, F64L, which
+permits folding at warmer temperatures. The resulting double mutant, “en-
+hanced GFP”, was aggressively marketed by Clontech, a molecular biology
+supply company, and became the basis for most subsequent applications
+of GFP, even when these two mutations are not explicitly acknowledged.
+Improvements like this helped repay our early debt to the Emr lab, which has
+exploited the brighter GFPs for numerous studies of protein sorting in the
+yeast secretory and endocytic pathways.
+
+
+
+
+194
+
+
+Figure 7. Schematic cartoons of genetically encoded fluorescent indicators based on FRET
+from CFP to YFP, to report A) protease activity, B) Ca2+ concentrations, C) cAMP concen-
+trations, and D) the balance between protein kinase and phosphatase activity.
+
+
+The above improvements were all made without any three-dimensional struc-
+tural information, which clearly would greatly facilitate further engineer-
+ing. My group had no experience with x-ray crystallography, and tentative
+approaches to local structural biologists found no takers. GFP had already
+been crystallized30 well before the gene was cloned, and I had heard that
+several other groups had entered the competition to solve the structure of
+the wild-type protein. When Jim Remington at the University of Oregon
+e-mailed me in May 1995 to get an expression vector for GFP, I suggested
+that he solve the S65T structure, because that ought to be publishable even
+if another group got the wild-type structure first. Within a few months, Dr.
+Mats Ormö in Remington’s lab had solved the crystal structure (Figure 8),
+using selenomethionine substitution for phasing. The protein was an almost
+perfect cylinder, 2.4 nm in diameter by 4.0 nm long, composed of eleven
+beta-strands surrounding a helix running up the central axis, into which
+the chromophore was inserted. The chromophore was deeply buried at
+the center of the protein, explaining how it could be shielded from solvent
+and rigidified to make it fluorescent. (Once the protein is denatured, the
+exposed chromophore completely loses its fluorescence.) We could also
+rationalize why the chromophore had to be formed spontaneously, because
+no enzyme could reach through the completely encapsulating shell formed
+by the rest of GFP. Remington noticed a cavity next to the chromophore
+and suggested that it could accommodate an aromatic ring in a π-stacking
+relationship, which might shift the fluorescence wavelengths. To introduce
+
+                                                                                   195
+
+
+this ring, Andrew Cubitt, a new postdoc in my lab, mutated Thr 203 to vari-
+ous aromatic amino acids, followed by re-annealing. Indeed, both excitation
+and emission maxima increased about 20 nm, producing a noticeably more
+yellowish fluorescent protein, hence dubbed YFP (Figure 4, upper left quad-
+rant). These shifts made YFP a good FRET acceptor from CFP. We were glad
+to have the CFP/YFP pair to replace our previous BFP/GFP combination,
+because BFP was too easy to bleach and required potentially injurious UV
+excitation.
+
+
+
+
+Figure 8. X-ray crystal structure of the S65T mutant of GFP31. Alpha helices and beta strands
+are shown as ribbons, connecting segments as tubes, and the chromophore in ball-and-
+stick representation. N- and C-terminii are marked.
+
+
+We felt this novel crystal structure deserved a high-profile publication, be-
+cause it explained so many features of GFP and enabled immediate rational
+improvement, so we submitted the work to Science. However, the referees
+were not impressed. One of them acknowledged that the structure was
+competently determined, but was not convinced that GFP was of sufficient
+importance or significance. The other reviewer voiced disappointment that
+our paper failed to answer the really important question about GFP, namely
+what is the native biological function of GFP within the jellyfish. We felt it
+unreasonable that a crystal structure should be expected to answer an eco-
+logical question, so I appealed to the Editor, who then sent the manuscript
+to a third reviewer. Many weeks elapsed without a response. Then one of the
+groups working on the structure of wild-type GFP announced to the Internet
+newsgroup on fluorescent proteins that they had solved the structure, which
+
+196
+
+
+would soon appear in Nature Biotechnology. I forwarded this announcement
+to Science, which accepted our paper the next day without the long-awaited
+third review. Fortunately, the two papers31,32, published within about a
+week of each other, were in good agreement on the major features of the
+structure, except that wild-type GFP was dimeric in Yang & Phillips’ crystals
+whereas S65T GFP was monomeric in Ormö and Remington’s crystals grown
+under different conditions. From these structures and a more detailed study
+by Brejc et al.33, it became evident that the UV and blue excitation peaks in
+wild-type GFP arose from the neutral and anionic forms of the chromophore
+respectively, and that mutation of serine 65 to threonine re-oriented the side
+chain hydroxyl enough to alter the hydrogen bonding network controlling
+the ionization of the chromophore.
+
+
+WATCHING INTRACELLULAR BIOCHEMISTRY
+Our first attempt to use FRET to measure real intracellular signals was
+launched by Atsushi Miyawaki, who came to my lab from Tokyo, where he
+had helped clone and characterize the receptor for inositol 1,4,5-trisphos-
+phate (InsP3)34,35. I very much wanted to image this second messenger,
+which is crucial for releasing Ca2+ from intracellular organelles such as the
+endoplasmic reticulum. Miyawaki and I hoped to accomplish this by attach-
+ing donor and acceptor FPs to opposite ends of the cytosolic domain of the
+InsP3 receptor, which was supposed to undergo a conformational change
+upon binding InsP3. However, none of Miyawaki’s constructs showed any
+significant change in FRET in response to InsP3, and we realized we hardly
+even knew where InsP3 bound within its receptor. With the invaluable help
+of Dr. Mitsuhiko Ikura in Toronto, Miyawaki decided to practice on an engi-
+neered receptor of known structure36, a fusion of calmodulin (CaM) with its
+target peptide, “M13”, from skeletal muscle myosin light chain kinase. CaM
+and M13 are relatively unstructured in the absence of Ca2+, but when free
+Ca2+ concentrations increase, Ca2+ binds to CaM, causing it to wrap around
+M13 in a way that is reminiscent of a hamburger bun wrapping around a
+frankfurter (Figure 7B). My enthusiasm for this diversion was limited at first,
+because my initial academic success had been in building and exploiting
+organic synthetic indicators for Ca2+, so I did not feel that we needed more
+Ca2+ reporters per se. But I conceded that this digression would be a good
+rehearsal, so Miyawaki put BFP (later replaced by CFP) at the N-terminus of
+CaM, while he attached S65T GFP (later replaced by YFP) at the C-terminus
+of M13. This quadripartite fusion (see Figure 7B for schematic structure) in-
+deed responded to Ca2+ with a FRET increase. Miyawaki dubbed these chime-
+ric proteins “cameleons”, spelled without an “h” to reflect their origin from
+CaM, yet alluding to their ability to change colors in response to Ca2+ and to
+change that response following seemingly minor mutations37,38. Nevertheless,
+genetic encodability gives cameleons some big complementary advantages:
+applicability to any cell or organism into which the DNA can be introduced,
+long-term continuous production of the indicator, precise targeting to spe-
+
+                                                                           197
+
+
+cific cell types within a complex tissue, precise targeting to subcellular loca-
+tions, and susceptibility to improvement by rational or random mutation. For
+these reasons, cameleons and their relatives have become the most popular
+means to image activity of identified neurons within intact nervous systems.
+A visually spectacular demonstration of dynamic Ca2+ signals seen with an im-
+proved cameleon is the transient Ca2+ rise seen within each cleavage furrow
+in the early development of a zebrafish embryo (Figure 9).
+
+
+
+
+Figure 9. Transgenic zebrafish embryo expressing yellow cameleon 3.6076. Single confocal
+z-plane, imaged every 5 sec (“mpf” = minutes post fertilization). Images selected from a
+video kindly provided by Hide Mizuno & Atsushi Miyawaki, RIKEN, Japan.
+
+What about labeling PKA, my original motivation for starting work on GFP?
+Eventually this worked as well (schematic structure in Figure 7C), due mainly
+to Manuela Zaccolo in Tullio Pozzan’s lab in collaboration with Charles Cho
+in my lab39. Ironically, PKA proved one of the more difficult proteins to tag
+with FPs, because an inordinate amount of trial and error was necessary
+to find linkers that allowed fusion of the FPs without disrupting the abil-
+ity of the subunits to respond to cAMP. Eventually these molecules allowed
+Zaccolo and Pozzan to directly image the long hypothesized subcellular com-
+partmentation of cAMP in cardiac muscle cells stimulated by an adrenaline
+analog40. We and others also developed a more general approach to visualize
+the dynamics of protein kinases, both those phosphorylating serines and
+threonines41–46 as well as those acting on tyrosines47–49. The design principle
+(Figure 7D) is a variation on the cameleons, in which M13 is replaced by a
+peptide substrate (pink) for the kinase of interest, and CaM is replaced by a
+protein domain (brown) that binds phosphorylated Ser, Thr, or Tyr as appro-
+
+198
+
+
+priate. Examples of such domains are 14-3-3 (for pSer or pThr), FHA1 (for
+pThr), and SH2 (for pTyr). Once the kinase phosphorylates the target Ser,
+Thr, or Tyr, that amino acid is intramolecularly complexed by the phospho-
+amino acid binding domain, changing the distance or orientation between
+the donor and acceptor FPs. An example of dynamic imaging of kinase activ-
+ity is in Figure 10.
+
+
+
+
+Figure 10. A fibroblast transfected with a reporter47 for the tyrosine kinase activity of the
+receptor for epidermal growth factor (EGF). The extent of FRET, indicating the extent of
+phosphorylation of the reporter, is shown in pseudocolors ranging from blue (negligible
+phosphorylation) to red (maximal phosphorylation). These colors are superimposed
+on differential interference contrast images to show cellular morphology. The colored
+cell was the only one transfected within this field of view. At rest the indicator showed
+negligible phosphorylation (A), but upon stimulation with EGF, phosphorylation (shown
+by warmer pseudocolors) started at the periphery of the cell (B) and spread towards the
+nucleus (C). After EGF was removed, the tide of phosphorylation receded back towards
+the most peripheral tip at the far left end of the cell (D).
+
+
+
+
+                                                                                        199
+
+
+Figure 11. Chromophore structure52 of DsRed, drawn on a Petri dish using bacteria express-
+ing the protein and showing its beautiful red fluorescence.
+
+
+The final major expansion in the palette of FPs originated in the revelation
+that they are not just accessory proteins in bioluminescent cnidaria but also
+are responsible for many of the colors of nonbioluminescent corals. In a
+breakthrough discovery, Matz et al. isolated a gene encoding a red fluorescent
+protein (“DsRed”) from a coral in a Moscow aquarium50. The rapid commer-
+cial availability of this gene enabled us to discover that DsRed is an obligate
+tetramer51 and that its chromophore (Figure 11) is initially the same as that
+of GFP but then undergoes another dehydrogenation to generate an un-
+precedented acylimine, which is stable only when buried inside the intact
+protein52. Theoretical calculations by Dr. Kim Baldridge at UCSD verified
+that extension of the chromophore by two double bonds could account for
+the red shift in excitation and emission spectra52. The tetrameric stoichiom-
+etry and chromophore structure were soon confirmed by independent X-ray
+crystal structures53,54. The very tight mutual binding of the four subunits se-
+verely hindered use of DsRed as a fusion tag, because any protein fusion had
+to become at least tetrameric. If the fusion partner engaged in any protein-
+protein interactions of its own, massive aggregation and visible precipitation
+often resulted. Nevertheless, Robert Campbell succeeded over many cycles
+of directed evolution in generating a monomeric red FP (RFP), which made
+protein fusions much more reliable55. He, Nathan Shaner, and Lei Wang then
+engineered an extensive palette of monomeric FPs whose emission maxima
+covered the rest of the visible spectrum out to 648 nm (Figure 12)56,57. Other
+groups have also developed a multitude of FPs with complementary desirable
+
+200
+
+
+phenotypes, including amazing and highly useful photoswitching capabili-
+ties58, but space does not permit an extensive review here.
+
+
+
+
+Figure 12. Monomeric or tandem dimeric fluorescent proteins derived from Aequorea GFP
+or Discosoma RFP, expressed in bacteria and purified. This photo is a time exposure of
+fluorescences excited at different wavelengths and viewed through different cutoff filters.
+
+
+EXAMPLES OF MEDICAL AND EDUCATIONAL SIGNIFICANCE
+One of the most common requests I get is to explain why GFP and related
+FPs are significant, preferably in lay terms. My usual answer has been that
+their genetically encoded fluorescent colors can make many key biochemical
+processes directly visible inside living cells and organisms. Using standard
+molecular biological tricks to connect host cell genes to FP genes, we can
+watch when and where those host cell genes get switched on and off, when
+the protein products are born, where they travel, with what other proteins
+they interact, and how long they survive. Even when we cannot directly tag
+the signals of interest, e.g. Ca2+, cAMP, protease or kinase activities, we can
+often engineer FP-based indicators as in Figure 7 to image those signals in-
+directly. These generalized explanations seem too abstract for many people,
+who would prefer more specific applications of relevance to major medical
+problems. I therefore mention a few rather arbitrarily chosen examples:
+   A vaccine against AIDS that would eradicate the disease from already-
+infected patients would be extremely desirable. Tagging of the causative
+virus with GFP and high-resolution time-lapse microscopy of infected T cells
+contacting naïve cells shows that the virus can pass directly from one cell to
+another through specialized transient adhesions dubbed virological synapses
+
+                                                                                      201
+
+
+(Figure 13). If the virus can really spread between host cells without even
+transiently exposing itself to the extracellular milieu where antibodies could
+neutralize it, then the task of any post-infection vaccine will be much harder.
+
+
+
+
+Figure 13. GFP labeling of human immunodeficiency virus (HIV) shows that the virus can
+spread from cell to cell through virological “synapses” without exposure to antibody neu-
+tralization. Reprinted with permission from Figure 6A,B of Chen et al.77.
+
+
+There is much interest in the hypothesis that some of the pathology in
+Alzheimer’s disease results from chronic elevations in cytosolic Ca2+ in the af-
+fected neurons59, but the evidence has come from neurons in culture rather
+than intact animals. The genetic encodability of cameleons has now enabled
+imaging of Ca2+ in the brains of normal mice vs. transgenic mice with a mod-
+el for Alzheimer’s disease60. In normal animals, free Ca2+ in neurons at rest is
+tightly regulated around 80 nM, whereas in the disease models, about 20% of
+the dendrites show much higher Ca2+ centered around 400 nM, particularly
+in the neighborhood of Alzheimer’s plaques (Figure 14). This observation
+provides direct evidence in vivo for dysregulation of neuronal Ca2+ during
+Alzheimer’s disease.
+
+
+
+
+202
+
+
+Figure 14. Two-photon imaging of yellow cameleon 3.6076 in brains of transgenic mice,
+without or with APP1/presenilin mutations to generate plaques modeling Alzheimer’s
+disease. Low to high cytosolic [Ca2+] level are shown in blue to red pseudocolors respec-
+tively. In the disease model, 20% of neurons show a distinctly higher cytosolic [Ca2+], espe-
+cially in the vicinity of disease plaques. Figure donated by Dr. Brian Bacskai and related to
+Kuchibhotla et al.60.
+
+
+An example of the use of FPs in drug discovery comes from efforts to find
+small molecules that inhibit the aggregation of the Alzheimer’s disease
+peptide Aβ into β-amyloid. When Aβ is fused to the N-terminus of GFP, the
+aggregation of Aβ is fast enough to prevent the GFP from folding and becom-
+ing fluorescent. Candidate drugs that prevent aggregation of Aβ allow GFP
+fluorescence to develop, constituting a simple high-throughput way to screen
+combinatorial libraries (Figure 15)61.
+
+
+
+
+                                                                                        203
+
+
+Figure 15. High-throughput screening of combinatorial drugs to find inhibitors of aggrega-
+tion of Aβ, the Alzheimer’s disease peptide. Inhibition of aggregation allows an Aβ42-GFP
+fusion to become fluorescent. Reprinted with permission from Figure 1 of Kim et al.61.
+
+
+
+
+Figure 16. Frames chosen from a time-lapse video of HEK293 cells growing and dividing in
+tissue culture while transfected with a two-color reporter of cell cycle progression. Green-
+fluorescing cells are actively undergoing mitosis, whereas red-fluorescing cells are in inter-
+phase62. Video courtesy of Asako Sawano & Atsushi Miyawaki, RIKEN, Japan.
+
+
+
+204
+
+
+A final example comes from indicators of the mitotic cell cycle. Certain
+protein domains tell cells to accumulate those proteins at particular phases
+of the cell cycle and to destroy them at other phases. If these domains are
+grafted onto FPs of different colors, the cells can be made to fluoresce one
+color (say green) while they are actively dividing and another color (say red)
+while resting62. In cell culture, these cells display spectacular oscillations like
+an aerial view of asynchronized traffic lights (Figure 16). If tagged cells from
+a benign tumor line (e.g. NMuMG) are transplanted into an animal, the tu-
+mor initially looks yellow at low magnification (Figure 17) because it contains
+a mixture of green- and red-fluorescing cells. Over several days, the tumor
+shifts to all red, telling us that the cells have stopped dividing, which is why
+the tumor is benign. If tagged cells from a malignant tumor line (e.g. HeLa)
+are similarly transplanted, the tumor persists in its yellow color. Higher mag-
+nification views show the cell cycle phase pattern of the tumor cells around
+blood vessels. Since the pattern depends on several factors, including the
+maturity of vessels and the degree of necrosis in the surrounding tissues, this
+experiment provides a visually powerful lesson on the importance of new
+blood vessel formation in permitting cancer cells to proliferate.
+
+
+
+
+Figure 17. Reporter of cell-cycle progression applied to benign (NMuMG) and malignant
+(HeLa) tumor implants in vivo. Figure 3A–H from Sakaue-Sawano et al.62, reprinted with
+permission.
+
+Multicolored FPs are helpful in education as well as research. Simple ex-
+periments with FPs enable secondary school students (Figure 18) to see with
+their own eyes how DNA can transform cells, when mutations have occurred,
+how proteins behave biochemically, and so on. After Jeremy Babendure
+
+                                                                                 205
+
+
+completed a Ph.D. in my lab, he began a very successful program (biobridge.
+ucsd.edu) to make experiments like these accessible to high school science
+classes, initially starting close to UCSD but now spreading wherever teachers
+and students are interested.
+
+
+
+
+Figure 18. High school science classes using fluorescent proteins as laboratory exercises as
+part of the BioBridge program (biobridge.ucsd.edu).
+
+TRANSCENDING THE LIMITATIONS OF EXISTING FPs
+FPs have obvious major limitations:
+1. All FPs with structures homologous to jellyfish GFP and coral RFP, i.e.
+   cylinders comprising 11 β-strands, contain >200 amino acids. Occasionally
+   this size proves too large and perturbative when fused to the protein of
+   interest63–65; also the time required for FPs to fold and form their chro-
+   mophores is sometimes too slow66,67. In such cases FPs can be replaced by
+   much shorter sequences, e.g. the 12 residue peptide FLNCCPGCCMEP68,
+   which bind dyes containing two appropriately placed arsenic atoms that
+   link to the four cysteine sulfhydryls.
+2. The O2 requirement for chromophore maturation prevents applications
+   in organisms that cannot tolerate even transient exposure to any O2. Aside
+   from the tetracysteine/biarsenical system just mentioned, flavin-binding
+   proteins offer another potential solution69.
+3. For imaging of transfected cells and organs inside live mammals, excita-
+   tion and emission wavelengths > 600 nm would be very advantageous
+   because hemoglobin and other pigments tremendously attenuate shorter
+
+206
+
+
+   wavelengths. Unfortunately, it has been very difficult to find or evolve
+   coral FPs that retain high brightness with excitation wavelengths > 600
+   nm. As mentioned at the outset, some phycobiliproteins from blue-green
+   algae have such long wavelengths and high brightness. More recently,
+   plant phytochromes have been mutated into long-wavelength FPs dubbed
+   phytofluors70,71. However, none of these has been successfully expressed
+   in mammalian cells, perhaps because the pigment cofactors are foreign.
+   Recently, Xiaokun Shu in my lab discovered that bacterial phytochromes
+   can also be mutated into FPs with excitation maxima in the far red, e.g.
+   684 nm, and emissions >700 nm72 (Figure 19). The crucial advantage of
+   bacterial phytochromes is that they spontaneously incorporate their cofac-
+   tor, biliverdin, the initial product of heme catabolism in all aerobic organ-
+   isms including humans. Thus we now have infrared FPs that work in intact
+   animals such as mice and flies, which I find particularly satisfying given my
+   early unsuccessful interest in exploiting phycobiliproteins.
+
+
+
+
+Figure 19. An infrared-fluorescing protein (IFP) can be evolved from a phytochrome from
+Deinococcus radiodurans. Upper left: crystal structure of the wild-type phytochrome (PDB:
+1ztu)78 with its chromophore, biliverdin, in purple, and residues targeted for mutagenesis
+labeled. Lower left: Normalized excitation (blue) and emission (red) spectra of IFP1.4.
+Right: Liver fluorescence of intact living mice injected with adenoviruses encoding IFP1.1,
+mKate (an RFP previously advocated for in vivo imaging79), or an enhanced GFP. Biliverdin
+(250 nmol) was injected intravenously 1 hr before obtaining the IFP image. The mKate im-
+age was 5-fold brightened in software to render it visible. Belly fur was removed with depila-
+tory cream but the skin was left unbroken. Arrows point to the liver. Note that the GFP im-
+ages are dominated by autofluorescence, rendering the livers invisible. The much greater
+visibility in the highly pigmented liver of IFP compared to previous FPs demonstrates the
+value of very long excitation and emission wavelengths for in vivo fluorescence imaging.
+
+
+
+                                                                                         207
+
+
+4. The crucial advantage of FPs, their genetic encodability, is of no or very
+   limited value in human patients, because human gene therapy would
+   have to become safe and effective, and introduction of an FP gene would
+   have to benefit the patient directly. Molecular imaging in human patients
+   must still rely on synthetic molecules. Furthermore, humans are even
+   thicker and more opaque than mice, so whole-body scanning of patients
+   requires nonoptical techniques such as X-ray computed tomography,
+   positron emission tomography, and magnetic resonance (MR) imaging.
+   Therefore we have been developing activatable cell penetrating peptides
+   (ACPPs), which are polycationic cell penetrating peptides (CPPs) whose
+   cellular uptake is minimized by a polyanionic inhibitory domain and then
+   restored upon proteolysis of the peptide linker connecting the polyan-
+   ionic and polycationic domains. Local activity of proteases able to cut the
+   linker causes amplified retention in tissues and uptake into cells73. Tumor
+   uptake of ACPPs is up to 4 fold higher with a matrix metalloproteinase
+   substrate (PLGLAG) as the linker than with a negative control composed
+   of D-amino acids (Figure 20). Conjugation of ACPPs to macromolecular
+   carriers such as dendrimers prolongs pharmacokinetics and increases
+   delivery of payload (Cy5 or Gd-DOTA or both in the same molecule) to
+   tumor for far-red or MR imaging. The dual labeled probe with Cy5 and
+   Gd-DOTA enables whole body MR imaging followed by fluorescence-
+   guided surgery. Thrombin-cleavable ACPPs accumulate in atherosclerotic
+   plaques and experimental stroke models, so vascular pathologies can also
+   be imaged. Because the ability of ACPPs to deliver various cargoes with en-
+   zymatic amplification to protease-expressing tissues in vivo offers clinical
+   potential, this is now the dominant effort in my lab.
+
+
+
+
+208
+
+
+Figure 20. Activatable cell penetrating peptides (ACPPs) localize to tumors in vivo. Hep2
+(human laryngeal carcinoma) tumor cells stably transfected with EGFP were xenografted
+into nude mice. 3 weeks after implanting 5x106 cells subcutaneously, the tumor had
+reached ~ 5 mm diameter. Top images: 6 hrs after systemic injection of an ACPP, 10 nmol
+succinyl-e8-XPLGLAG- r9c(Cy5), the skin was removed over the tumor, and GFP fluores-
+cence, Cy5 fluorescence, and reflected light images were acquired from the anesthetized
+animal. X denotes 6-aminohexanoyl, upper case letters represent L-amino acids, lower
+case letters are D-amino acids. PLGLAG is a sequence cleavable by matrix metalloprotein-
+ases-2 and -973. Bottom panel: an analogous experiment with a matching negative control,
+succinyl-e8-Xplglag-r9c(Cy5), in which the protease cleavage site has been changed to
+D-amino acids, rendering it protease-resistant. The lack of Cy5 signal in the tumor indi-
+cates that retention depends on cleavage by proteases.
+
+
+ACKNOWLEDGMENTS
+A list of the collaborators most relevant to the work described here is in
+Figure 21. Senior honorees often point out that the experiments were done
+by younger colleagues in their lab, but I have to go further and confess that I
+could not have done the experiments with my own hands because I lack the
+training in the relevant methods, especially the molecular biology. So I am
+particularly indebted to these key people as well as many others too numer-
+ous to list here. I am also grateful to the Howard Hughes Medical Institute,
+which has supported me from the time I moved to UCSD, as well as to the
+National Institutes of Health for many years of funding. Our recent transition
+to cancer research was supported by the Breast Cancer Research Program of
+the Department of Defense.
+
+
+
+
+                                                                                    209
+
+
+Figure 21. Key collaborators for the work described in this lecture, and a glowing California
+sunset in a Petri dish, drawn with multiple colors of bacteria expressing fluorescent pro-
+teins.
+
+
+
+
+210
+
+
+REFERENCES
+1.    Arciero, D. M., Bryant, D. A. & Glazer, A. N., “In vitro attachment of bilins to apo-
+      phycocyanin. I. Specific covalent adduct formation at cysteinyl residues involved in
+      phycocyanobilin binding in C-phycocyanin,” J. Biol. Chem. 263, 18343–18349 (1988).
+2.    Arciero, D. M., Dallas, J. L. & Glazer, A. N., “In vitro attachment of bilins to apophyco-
+      cyanin. II. Determination of the structures of tryptic bilin peptides derived from the
+      phycocyanobilin adduct,” J. Biol. Chem. 263, 18350–18357 (1988).
+3.    Arciero, D. M., Dallas, J. L. & Glazer, A. N., “In vitro attachment of bilins to apo-
+      phycocyanin. III. Properties of the phycoerythrobilin adduct,” J. Biol. Chem. 263,
+      18358–18363 (1988).
+4.    Fairchild, C. D. & Glazer, A. N., “Oligomeric structure, enzyme kinetics, and substrate
+      specificity of the phycocyanin α subunit phycocyanobilin lyase,” J. Biol. Chem. 269,
+      8686–8694 (1994).
+5.    Gill, G. N. & Garren, L. D., “A cyclic-3’,5’-adenosine monophosphate dependent pro-
+      tein kinase from the adrenal cortex: comparison with a cyclic AMP binding protein,”
+      Biochem. Biophys. Res. Commun. 39, 335–343 (1970).
+6.    Brostrom, M. A., Reimann, E. M., Walsh, D. A. & Krebs, E. G., “A cyclic 3’,5’-AMP-
+      stimulated protein kinase from cardiac muscle,” Adv. Enzyme Regul. 8, 191–203
+      (1970).
+7.    Tao, M., Salas, M. L. & Lipmann, F., “Mechanism of activation by adenosine 3’:5’-cyc-
+      lic monophosphate of a protein phosphokinase from rabbit reticulocytes,” Proc Natl
+      Acad Sci U.S.A. 67, 408–414 (1970).
+8.    Saraswat, L. D., Filutowicz, M. & Taylor, S. S., “Expression of the type I regula-
+      tory subunit of cAMP-dependent protein kinase in Escherichia coli,” J. Biol. Chem. 261,
+      11091–11096 (1986).
+9.    Slice, L. W. & Taylor, S. S., “Expression of the catalytic subunit of cAMP-dependent
+      protein kinase in Escherichia coli,” J. Biol. Chem. 264, 20940–20946 (1989).
+10.   Adams, S. R., Harootunian, A. T., Buechler, Y. J., Taylor, S. S. & Tsien, R. Y.,
+      “Fluorescence ratio imaging of cyclic AMP in single cells,” Nature 349, 694–697
+      (1991).
+11.   Adams, S. R., Bacskai, B. J., Taylor, S. S. & Tsien, R. Y., “Fluorescent Probes for
+      Biological Activity of Living Cells – A Practical Guide”, Mason, W. T. (ed.), pp. 133–
+      149 (Academic Press, New York, 1993).
+12.   Civitelli, R. et al., “Single-cell analysis of cyclic AMP response to parathyroid hormone
+      in osteoblastic cells,” J. Bone Miner. Res. 9, 1407–1417 (1994).
+13.   Hempel, C. M., Vincent, P., Adams, S. R., Tsien, R. Y. & Selverston, A. I., “Spatio-
+      temporal dynamics of cAMP signals in an intact neural circuit,” Nature 384, 166–169
+      (1996).
+14.   Sammak, P. J., Adams, S. R., Harootunian, A. T., Schliwa, M. & Tsien, R. Y.,
+      “Intracellular cyclic AMP not Ca2+ determines the direction of vesicle movement in
+      melanophores: direct measurements by fluorescence ratio imaging,” J. Cell Biol. 117,
+      57–72 (1992).
+15.   Bacskai, B. J. et al., “Spatially resolved dynamics of cAMP and protein kinase A sub-
+      units in Aplysia sensory neurons,” Science 260, 222–226 (1993).
+16.   Blinks, J. R., Wier, W. G., Hess, P. & Prendergast, F. G., “Measurement of Ca2+ concen-
+      trations in living cells,” Prog. Biophys. Mol. Biol. 40, 1–114 (1982).
+17.   Prasher, D. C., Eckenrode, V. K., Ward, W. W., Prendergast, F. G. & Cormier, M.
+      J., “Primary structure of the Aequorea victoria green-fluorescent protein,” Gene 111,
+      229–233 (1992).
+18.   Heim, R. et al., “Expression, purification, and properties of the plasma membrane
+      Ca2+ pump and of its N-terminally truncated 105-kDa fragment,” J. Biol. Chem. 267,
+      24476–24484 (1992).
+
+
+
+
+                                                                                           211
+
+
+19.   Heim, R., Hug, M., Iwata, T., Strehler, E. E. & Carafoli, E., “Microdiversity of human
+      plasma-membrane calcium-pump isoform 2 generated by alternative RNA splicing in
+      the N-terminal coding region,” Eur. J. Biochem. 205, 333–340 (1992).
+20.   Heim, R., Prasher, D. C. & Tsien, R. Y., “Wavelength mutations and post-translational
+      autooxidation of green fluorescent protein,” Proc. Natl. Acad. Sci. U.S.A. 91, 12501–
+      12504 (1994).
+21.   Heim, R. & Tsien, R. Y., “Engineering green fluorescent protein for improved bright-
+      ness, longer wavelengths and fluorescence energy transfer,” Curr. Biol. 6, 178–182
+      (1996).
+22.   Cody, C. W., Prasher, D. C., Westler, W. M., Prendergast, F. G. & Ward, W. W.,
+      “Chemical structure of the hexapeptide chromophore of the Aequorea green-fluores-
+      cent protein,” Biochemistry 32, 1212–1218 (1993).
+23.   Zhang, L., Patel, H. N., Lappe, J.W . & Wachter, R. M., “Reaction progress of chro-
+      mophore biogenesis in green fluorescent protein,” J. Am. Chem. Soc. 128, 4766–4772
+      (2006).
+24.   Shimomura, O., “Structure of the chromophore of Aequorea green fluorescent pro-
+      tein,” FEBS Lett. 104, 220–222 (1979).
+25.   Heim, R., Cubitt, A. B. & Tsien, R. Y., “Improved green fluorescence,” Nature 373,
+      663–664 (1995).
+26.   Wach, A., Brachat, A., Alberti-Segui, C., Rebischung, C. & Philippsen, P.,
+      “Heterologous HIS3 marker and GFP reporter modules for PCR-targeting in
+      Saccharomyces cerevisiae,” Yeast 13, 1065–1075 (1997).
+27.   Delagrave, S., Hawtin, R. E., Silva, C. M., Yang, M. M. & Youvan, D. C., “Red-shifted
+      excitation mutants of the green fluorescent protein,” Bio/Technology 13, 151–154
+      (1995).
+28.   Mitra, R. D., Silva, C. M. & Youvan, D. C., “Fluorescence resonance energy transfer
+      between blue-emitting and red-shifted excitation derivatives of the green fluorescent
+      protein,” Gene 173, 13–17 (1996).
+29.   Cormack, B. P., Valdivia, R. H. & Falkow, S., “FACS-optimized mutants of the green
+      fluorescent protein (GFP),” Gene 173, 33–38 (1996).
+30.   Perozzo, M. A., Ward, K. B., Thompson, R. B. & Ward, W. W., “X-ray diffraction and
+      time-resolved fluorescence analyses of Aequorea green fluorescent protein crystals,” J.
+      Biol. Chem. 263, 7713–7716 (1988).
+31.   Ormö, M. et al., “Crystal structure of the Aequorea victoria green fluorescent protein,”
+      Science 273, 1392–1395 (1996).
+32.   Yang, F., Moss, L. G. & Phillips, G. N., Jr., “The molecular structure of green fluores-
+      cent protein,” Nature Biotechnology 14, 1246–1251 (1996).
+33.   Brejc, K. et al., “Structural basis for dual excitation and photoisomerization of the
+      Aequorea victoria green fluorescent protein,” Proc. Natl. Acad. Sci. U.S.A. 94, 2306–2311
+      (1997).
+34.   Furuichi, T. et al., “Primary structure and functional expression of the inositol
+      1,4,5-trisphosphate-binding protein P400,” Nature 342, 32–38 (1989).
+35.   Miyawaki, A. et al., “Structure-function relationships of the mouse inositol 1,4,5-tris-
+      phosphate receptor,” Proc. Natl. Acad. Sci. U.S.A. 88, 4911–4915 (1991).
+36.   Porumb, T., Yau, P., Harvey, T. S. & Ikura, M., “A calmodulin-target peptide hybrid
+      molecule with unique calcium-binding properties,” Protein Eng. 7, 109–115 (1994).
+37.   Miyawaki, A. et al., “Fluorescent indicators for Ca2+ based on green fluorescent pro-
+      teins and calmodulin,” Nature 388, 882–887 (1997).
+38.   Miyawaki, A., Griesbeck, O., Heim, R. & Tsien, R. Y., “Dynamic and quantitative Ca2+
+      measurements using improved cameleons,” Proc. Natl. Acad. Sci. U.S.A. 96, 2135–2140
+      (1999).
+39.   Zaccolo, M. et al., “A genetically encoded, fluorescent indicator for cyclic AMP in liv-
+      ing cells,” Nature Cell Biology 2, 25–29 (2000).
+40.   Zaccolo, M. & Pozzan, T., “Discrete microdomains with high concentration of cAMP
+      in stimulated rat neonatal cardiac myocytes,” Science 295, 1711–1715 (2002).
+
+212
+
+
+41.   Zhang, J., Ma, Y., Taylor, S. S. & Tsien, R. Y., “Genetically encoded reporters of protein
+      kinase A activity reveal impact of substrate tethering,” Proc. Natl. Acad. Sci. U.S.A. 98,
+      14997–15002 (2001).
+42.   Zhang, J. & Allen, M. D., “FRET-based biosensors for protein kinases: illuminating the
+      kinome,” Mol. Biosyst. 3, 759–765 (2007).
+43.   Violin, J. D., Zhang, J., Tsien, R. Y. & Newton, A. C., “A genetically encoded fluores-
+      cent reporter reveals oscillatory phosphorylation,” J. Cell Biol. 161, 899–909 (2003).
+44.   Gallegos, L. L., Kunkel, M. T. & Newton, A. C., “Targeting protein kinase C activity re-
+      porter to discrete intracellular regions reveals spatiotemporal differences in agonist-
+      dependent signaling,” J. Biol. Chem. 281, 30947–30956 (2006).
+45.   Kunkel, M. T., Ni, Q., Tsien, R. Y., Zhang, J. & Newton, A. C., “Spatio-temporal dynam-
+      ics of protein kinase B/Akt signaling revealed by a genetically encoded fluorescent
+      reporter,” J. Biol. Chem. 280, 5581–5587 (2005).
+46.   Kunkel, M. T., Toker, A., Tsien, R. Y. & Newton, A. C., “Calcium-dependent regulation
+      of protein kinase D revealed by a genetically encoded kinase activity reporter,” J. Biol.
+      Chem. 282, 6733–6742 (2007).
+47.   Ting, A. Y., Kain, K. H., Klemke, R. L. & Tsien, R. Y., “Genetically encoded fluores-
+      cent reporters of protein tyrosine kinase activities in living cells,” Proc. Natl. Acad. Sci.
+      U.S.A. 98, 15003–15008 (2001).
+48.   Kurokawa, K. et al., “A pair of FRET-based probes for tyrosine phosphorylation of the
+      CrkII adaptor protein in vivo,” J. Biol. Chem. 276, 31305–31310 (2001).
+49.   Wang, Y. et al., “Visualizing the mechanical activation of Src.,” Nature 434, 1040–1045
+      (2005).
+50.   Matz, M. V. et al., “Fluorescent proteins from nonbioluminescent Anthozoa species,”
+      Nature Biotechnology 17, 969–973 (1999).
+51.   Baird, G. S., Zacharias, D. A. & Tsien, R. Y., “Biochemistry, mutagenesis, and oli-
+      gomerization of dsRed, a red fluorescent protein from coral,” Proc. Natl. Acad. Sci.
+      U.S.A. 97, 11984–11989 (2000).
+52.   Gross, L. A., Baird, G. S., Hoffman, R. C., Baldridge, K. K. & Tsien, R. Y., “The struc-
+      ture of the chromophore within DsRed, a red fluorescent protein from coral,” Proc.
+      Natl. Acad. Sci. U.S.A. 97, 11990–11995 (2000).
+53.   Yarbrough, D., Wachter, R. M., Kallio, K., Matz, M. V. & Remington, S. J., “Refined
+      crystal structure of DsRed, a red fluorescent protein from coral, at 2.0-Α resolution,”
+      Proc. Natl. Acad. Sci. U.S.A. 98, 462–467 (2001).
+54.   Wall, M. A., Socolich, M. & Ranganathan, R., “The structural basis for red fluo-
+      rescence in the tetrameric GFP homolog DsRed,” Nature Struct. Biol. 7, 1133–1138
+      (2000).
+55.   Campbell, R. E. et al., “A monomeric red fluorescent protein,” Proc. Natl. Acad. Sci.
+      U.S.A. 99, 7877–7882 (2002).
+56.   Shaner, N. C. et al., “Improved monomeric red, orange and yellow fluorescent
+      proteins derived from Discosoma sp. red fluorescent protein,” Nat. Biotechnol. 22,
+      1567–1572 (2004).
+57.   Wang, L., Jackson, W. C., Steinbach, P. A. & Tsien, R. Y., “Evolution of new nonanti-
+      body proteins via iterative somatic hypermutation,” Proc. Natl. Acad. Sci. U.S.A. 101,
+      16745–16749 (2004).
+58.   Shaner, N. C., Patterson, G. H. & Davidson, M. W., “Advances in fluorescent protein
+      technology,” J. Cell Sci. 120, 4247–4260 (2007).
+59.   Marx, J., “Alzheimer’s disease – Fresh evidence points to an old suspect: Calcium,”
+      Science 318, 384–385 (2007).
+60.   Kuchibhotla, K. V. et al., “A beta plaques lead to aberrant regulation of calcium
+      homeostasis in vivo resulting in structural and functional disruption of neuronal
+      networks,” Neuron 59, 214–225 (2008).
+61.   Kim, W. et al., “A high-throughput screen for compounds that inhibit aggregation of
+      the Alzheimer’s peptide,” ACS Chem. Biol. 1, 461–469 (2006).
+
+
+
+                                                                                              213
+
+
+62.   Sakaue-Sawano, A. et al., “Visualizing spatiotemporal dynamics of multicellular cell-
+      cycle progression,” Cell 132, 487–498 (2008).
+63.   Andresen, M., Schmitz-Salue, R. & Jakobs, S., “Short tetracysteine tags to beta-tubulin
+      demonstrate the significance of small labels for live cell imaging,” Mol. Biol. Cell 15,
+      5616–5622 (2004).
+64.   Hoffmann, C. et al., “A FlAsH-based FRET approach to determine G protein-coupled
+      receptor activation in living cells,” Nat. Methods 2, 171–176 (2005).
+65.   Enninga, J., Mounier, J., Sansonetti, P. & Van Nhieu, G. T., “Secretion of type III effec-
+      tors into host cells in real time,” Nature Methods 2, 959–965 (2005).
+66.   Rice, M. C., Czymmek, K. & Kmiec, E. B., “The potential of nucleic acid repair in
+      functional genomics,” Nat. Biotechnol. 19, 321–326 (2001).
+67.   Rodriguez, A. J., Shenoy, S. M., Singer, R. H. & Condeelis, J., “Visualization of mRNA
+      translation in living cells,” J. Cell Biol. 175, 67–76 (2006).
+68.   Martin, B. R., Giepmans, B. N., Adams, S. R. & Tsien, R. Y., “Mammalian cell-based
+      optimization of the biarsenical-binding tetracysteine motif for improved fluorescence
+      and affinity,” Nat. Biotechnol. 23, 1308–1314 (2005).
+69.   Drepper, T. et al., “Reporter proteins for in vivo fluorescence without oxygen,” Nature
+      Biotechnology 25, 443–445 (2007).
+70.   Fischer, A. J. & Lagarias, J. C., “Harnessing phytochrome’s glowing potential,” Proc.
+      Natl. Acad. Sci. U.S.A. 101, 17334–17339 (2004).
+71.   Murphy, J. T. & Lagarias, J. C., “The phytofluors: a new class of fluorescent protein
+      probes,” Curr. Biol. 7, 870–876 (1997).
+72.   Shu, X. et al., “Mammalian expression of infrared fluorescent proteins engineered
+      from a bacterial phytochrome,” Science 324, 804–807 (2009).
+73.   Jiang, T. et al., “Tumor imaging by means of proteolytic activation of cell-penetrating
+      peptides,” Proc. Natl. Acad. Sci. U.S.A. 101, 17867–17872 (2004).
+74.   Cubitt, A. B. et al., “Understanding, using and improving green fluorescent protein,”
+      Trends Biochem. Sci. 20, 448–455 (1995).
+75.   Wright, H. T., “Nonenzymatic deamidation of asparaginyl and glutaminyl residues in
+      proteins,” Crit. Rev. Biochem. Mol. Biol. 26, 1–52 (1991).
+76.   Nagai, T., Yamada, S., Tominaga, T., Ichikawa, M. & Miyawaki, A., “Expanded dynamic
+      range of fluorescent indicators for Ca(2+) by circularly permuted yellow fluorescent
+      proteins,” Proc. Natl. Acad. Sci. U.S.A. 101, 10554–10559 (2004).
+77.   Chen, P., Hubner, W., Spinelli, M. A. & Chen, B. K., “Predominant mode of human
+      immunodeficiency virus transfer between T cells is mediated by sustained Env-
+      dependent neutralization-resistant virological synapses,” J. Virol. 81, 12582–12595
+      (2007).
+78.   Wagner, J. R., Brunzelle, J. S., Forest, K. T. & Vierstra, R. D., “A light-sensing knot
+      revealed by the structure of the chromophore-binding domain of phytochrome,”
+      Nature 438, 325–331 (2005).
+79.   Shcherbo, D. et al., “Bright far-red fluorescent protein for whole-body imaging,” Nat.
+      Methods 4, 741–746 (2007).
+Portrait photo of Roger Y. Tsien by photographer Ulla Montan.
+
+
+
+
+214
+

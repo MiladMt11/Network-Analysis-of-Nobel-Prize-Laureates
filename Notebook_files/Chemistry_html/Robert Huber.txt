@@ -1,0 +1,1677 @@
+A STRUCTURAL BASIS OF LIGHT ENERGY AND
+ELECTRON TRANSFER IN BIOLOGY
+Nobel Lecture, December 8, 1988
+
+by
+ROBERT HUBER
+Max-Planck-Institut für Biochemie, 8033 Martinsried
+
+
+
+
+Dedicated to Christa
+
+
+
+ABBREVIATIONS
+PBS, phycobilisomes; light harvesting organelles peripheral to the thylakoid
+membrane in cyanobacteria, which carry out oxygenic photosynthesis and
+have photosystems I and II;
+PE, PEC, PC, APC, phycoerythrin, phycoerythrocyanin, phycocyanin, allo-
+phycocyanin; biliprotein components in PBS with covalently attached tetra-
+pyrrole (bilin) pigments;
+PS I, II; photosynthetic reaction centers in chloroplasts and cyanobacteria;
+EBP; retinol binding protein;
+BBP, bilin (biliverdin IX); binding protein in Pieris brassicae;
+A Rps. viridis, bacteriochlorophyll-b containing purple bacterium carrying
+out anoxygenic photosynthesis;
+RC, reaction centre;
+C, H, L, M; the four subunits of the reaction centre from Rps. viridis: the
+cytochrome c subunit (C), with 4 haems displaying two redox potentials
+             is located on the periplasmic side of the membrane; the L- and M-
+subunits are integrated in the membrane and their polypeptide chains span
+the membrane with 5                   each, labelled A, B, C, D, E; they bind the
+bacteriochlorophyll-b (BChl-b or BC), bacteriopheophytin-b (BPh-b or BP),
+menaquinone-9 (QA), ubiquinone-9 (UQ,QB) and Fe2+ cofactors; the sub-
+scripts P, A, M, L indicate pair, accessory, M-, L-subunit association, respec-
+tively; the H-subunit is located on the cytoplasmic side and its N-terminal α−
+helical segment (H) spans the membrane;
+P680, P960; primary electron donors in PS II and the RC of Rps. viridis,
+respectively, indicating the long wavelength absorption maxima;
+        electronically excited states of P and D A;
+LHC, light harvesting complexes;
+         light harvesting protein pigment complexes in BChl-a,b containing
+bacteria;
+
+
+                                    R. Huber                                 575
+
+
+Car, carotenoids;
+Sor; Soretbands of Chl and BChl;
+PCY, plastocyanin; electron carrier in the photosynthetic apparatus of
+plants;
+LAC, laccase; oxidase in plants and fungi;
+AO, ascorbate oxidase; oxidase in plants;
+CP, ceruloplasmin; oxidase in mammalian plasma.
+
+
+SUMMARY
+Aspects of intramolecular light energy and electron transfer will be dis-
+cussed for three protein cofactor complexes, whose three-dimensional
+structures have been elucidated by X-ray crystallography: Components of
+light harvesting cyanobacterial phycobilisomes, the purple bacterial reac-
+tion centre, and the blue multi-copper oxidases. A wealth of functional data
+is available for these systems which allow specific correlations between
+structure and function and general conclusions about light energy and
+electron transfer in biological materials to be made.
+                                      *
+INTRODUCTION
+All life on Earth depends ultimately on the sun, whose radiant energy is
+captured by plants and other organisms capable of growing by photosynthe-
+sis. They use sunlight to synthesize organic substances which serve as
+building materials or stores of energy. This was clearly formulated by L.
+Boltzmann, who stated that ‘there exist between the sun and the earth a
+colossal difference in temperature . . . . The equalization of temperature
+between these two bodies, a process which must occur because it is based on
+the law of probability will, because of the enormous distance and magnitude
+involved, last millions of years. The energy of the sun may, before reaching
+the temperature of the earth, assume improbable transition forms. It thus
+becomes possible to utilize the temperature drop between the sun and the
+earth to perform work as is the case with the temperature drop between
+steam and water . . . . To make the most use of this transition, green plants
+spread the enormous surface of their leaves and, in a still unknown way,
+force the energy of the sun to carry out chemical syntheses before it cools
+down to the temperature level of the Earth’s surface. These chemical
+syntheses are to us in our laboratories complete mysteries . . . . (Boltzmann,
+1886).
+   Today many of these ‘mysteries’ have been resolved by biochemical
+research and the protein components and their basic catalytic functions
+have been defined (Calvin & Bassham, 1962).
+   I will focus in my lecture on Boltzmann’s ‘improbable transition forms’,
+namely, excited electronic states and charge transfer states in modern
+terminology, the structures of biological materials involved and the inter-
+play of cofactors (pigments and metals) and proteins. I will discuss some
+aspects of the photosynthetic centre of Rps. viridis (see the original publica-
+
+
+576                                       Chemistry 1988
+
+
+tions cited later and short reviews (Deisenhofer et al., 1985 a, 1986, 1989))
+and of functionally related systems, whose structures have been studied in
+my laboratory: Light harvesting cyanobacterial phycobilisomes and blue
+oxidases. A wealth of structural and functional data is available for these
+three systems, which make them uniquely appropriate examples from which
+to derive general principles of light energy and electron transfer in biologi-
+cal materials. Indeed, there are very few systems known in sufficient detail
+for such purposes.*
+   We strive to understand the underlying physical principles of light and
+electron conduction in biological materials with considerable hope for
+success as these processes appear to be more tractable than other biological
+reactions, which involve diffusive motions of substrates and products and
+intramolecular motions. Large-scale motions have been identified in many
+proteins and shown to be essential for many functions (Bennett & Huber,
+1983; Huber, 1988). Theoretical treatments of these reactions have to take
+flexibility and solvent into account and become theoretically tractable only
+by applying the rather severe approximations of molecular dynamics (Kar-
+plus & McCammon, 1981; Burkert & Allinger, 1982) or by limiting the
+system to a few active site residues, which can then be treated by quantum
+mechanical methods.
+   Light and electron transfer processes seem to be amenable to a more
+quantitative theoretical treatment. The substrates are immaterial or very
+small and the transfer processes on which I focus are intramolecular and far
+removed from solvent. Molecular motions seem to be unimportant, as
+shown by generally small temperature dependences. The components active
+in energy and electron transport are cofactors, which, in a first approxima-
+tion suffice for a theoretical analysis, simplifying calculations considerably.
+
+
+1. Models for energy and electron transfer
+To test theories developed for energy and electron transfer appropriate
+model compounds are essential. Although it would be desirable these
+models need not be mimics of the biological structures.
+   Förster’s theory of inductive resonance (Förster, 1948, 1967) treats the
+cases of strong and very weak coupling in energy transfer. Strong interac-
+tions lead to optical spectra which are very different from the component
+spectra. Examples include concentrated solutions of some dyes, crystalline
+arrays, and the BC, discussed in Section 3.1. The electronic excitation is in
+this case delocalized over a molecular assembly. Very weak coupling pro-
+duces little or no alteration of the absorption spectra but the luminescence
+properties may be quite different. Structurally defined models for this case
+
+* The structure of the Rb. sphaeroides RC is closely related to the Rps. viridis RC (Allen et al.,
+1986, 1987; Chang et al., 1986). A green bacterial bacteriochlorophyll-a containing light
+harvesting protein is well defined in structure (Tronrud et al., 1986) but not in function. In the
+multiheme cytochromes (Pierrot et al., 1982; Higuchi et al., 1984) the existence or significance
+of intramolecular electron transfer is unclear.
+
+
+                                        R. Huber                                    577
+
+
+are scarce. The controlled deposited dye layers of Kuhn and Frommherz
+(Kuhn, 1970; Frommherz & Reinbold, 1988) may serve this purpose and
+have demonstrated the general validity of Förster’s theory, but with devi-
+ations.
+   Synthetic models with electron transfer are abundant and have recently
+been supplemented by appropriately chemically modified proteins (e.g.
+Mayo et al., 1986; Gray, 1986; McGoutry et al., 1987). They are covered in
+reviews (see, e.g. Taube & Gould, 1969; Hopfield, 1974; Cramer & Crofts,
+1982; Eberson, 1982; Marcus & Sutin, 1985; Mikkelsen et al., 1987; Ke-
+barle & Chowdhury, 1987; McLendon, 1988). Figure 1 shows essential
+elements of such models: Donor D (of electrons) and acceptor A may be
+connected by a bridging ligand (B) with a pendant group (P) embedded in a
+matrix M.
+
+
+
+
+Figure 1. Determinants of electron transfer models. D: Donor, A: Acceptor, B: Bridge, P:
+Pendant group, M: Matrix.
+   Models with porphyrins as donors and quinones as acceptors are mimics
+of the RC (Gust et al., 1987; Schmidt et al., 1988). Models with peptide
+bridging ligands (Isied et al., 1985) merit interest especially in relation to
+the blue oxidases. The effect of pendant groups (P), which are not in the
+direct line of electron transfer (Tube and Gould, 1969) is noteworthy in
+relation to the unused electron transfer branches in the RC and the blue
+oxidases. It is clear, however, that the biological systems are substantially
+more complex than synthetic models. The protein matrix is inhomogeneous
+and unique in each case. Despite these shortcomings, theory and models
+provide the framework within which the factors controlling the transfer of
+excitation energy and electrons and competing processes are to be evaluat-
+ed.
+
+1.1. Determinants of energy and electron transfer
+The important factors are summarized in Table I. They may be derived from
+Förster’s theory and forms of Marcus’ theory (Marcus & Sutin, 1985) for
+excitation and electron transfer, respectively. These theoretical treatments
+may in turn be derived from classical considerations or from Fermi’s Gold-
+en Rule with suitable approximations (see e.g. Barltrop & Coyle, 1978).
+Excitation and electron transfer depend on the geometric relation between
+
+
+578                               Chemistry 1988
+
+
+Table 1
+
+
+
+
+donors and acceptors. Excitation energy transfer may occur over wide
+distances when the transition dipole moments are favourably aligned. Fast
+electron transfer requires sufficient electronic orbital overlap. Fast electron
+transfer over wide distances must therefore involve a series of closely spaced
+intermediate carriers with low lying unoccupied molecular orbitals or suit-
+able ligands bridging donor and acceptor. Bridging ligands may actively
+participate in the transfer process and form ligand radical intermediates
+(chemical mechanism) or the electron may at no time be in a bound state of
+the ligands (resonance mechanism) (Hains, 19’75). The spectral overlap and
+the ‘driving force’, for energy and electron transfer, respectively, have
+obvious effects on the transfer rates and are largely determined by the
+chemical nature and geometry of donors and acceptors. Nuclear reorgani-
+zation of donor, acceptor, and the surrounding medium accompanying
+electron transfer is an important factor but difficult to evaluate in a com-
+plex protein system even qualitatively; we observe that the protein typically
+binds donors and acceptors firmly and rigidly, keeping reactant reorganiza-
+tion effects small. Surrounding polar groups may slow rapid electron trans-
+fer due to their reorientation. However, a polar environment also contri-
+butes to the energetics by stabilizing ion pairs (D + A-) or lowering activa-
+tion and tunneling barriers and may increase ‘driving force’ and rate.
+Energy transfer also depends on the medium and is disfavoured in media
+with a high refractive index.
+Table 2
+
+
+                                           R. Huber                                       579
+
+
+  Processes competing with productive energy and electron transfer from
+excited states ‘lurk’ everywere (Table 2). Quite generally, they are minimized
+by high transfer rates and conformational rigidity of the cofactors imposed
+by the protein.
+  I will discuss these factors in relation to the biological structures later on.
+
+2. The role of cofactors
+The naturally occurring amino acids are transparent to visible light and
+seem also to be unsuitable as single electron carriers with the exception of
+tyrosine. Tyrosyl radicals have been identified in PS II as and     interme-
+diates, which are involved in electron transfer from the water splitting
+manganese protein complex to the photooxidized P680+ (for reviews, see
+Barber, 1987; Prince, 1988). Their identification has been assisted by the
+observation that Tyr L162 lies in the electron transfer path from the
+
+
+
+
+Figure 2. Cofactors in PC, BBP, AO, RC. Phycocyanobilins are covalently bound by thioether
+linkages to the protein. Biliverdin IXγ is non-covalently bound to BBP. Type-l, type-2, type-3
+copper ions are linked to AO by coordination to the amino acid residues indicated. 4 BChl-b and
+2 BPh-b are bound to the RC. A pair of BChl-b serves as the primary electron donor, a
+menaquinone-9 is the primary electron acceptor (QA) and an ubiquione-9 the secondary
+acceptor (QB). The 4 haem groups are bound by thioether linkages to the cytochrome c.
+
+
+580                                          Chemistry 1988
+
+
+cytochrome to BCLP in the bacterial RC (Deisenhofer et al., 1985) (see
+3.2.2.2 and Figure 10c). A tyrosyl radical is not generated in the bacterial
+system, because the redox potential of P960+ is insufficient.
+   Generally therefore cofactors, pigments and metal ions, serve as light
+energy acceptors and redox active elements in biological materials.
+  Figure 2 is a gallery of the pigments and metals clusters which will be
+discussed further on, namely the bile pigments, phycocyanobilin and biliver-
+din      in the light harvesting complexes, the BChl-b, BP-b, and quinones
+in the purple bacterial RC and the copper centres in the blue oxidases.
+   The physical chemical properties of these cofactors determine the coarse
+features of the protein pigment complexes, but the protein part exerts a
+decisive influence on the spectral and redox properties.
+
+3. The role of the protein
+The role of the protein follows a hierarchy in determining the properties of
+the functional protein cofactor complexes shown in Table 3. These interac-
+tions are different for the various systems and shall be described separately,
+except point 1, as there are common features in the action of the protein as
+a polydentate ligand ascribed to a ‘rack mechanism’.
+
+Table 3. Hierarchy of protein cofactor interactions
+
+1. Influence on configuration and conformation of the cofactors by the nature and geometry of
+    ligands (the protein as a polydentate ligand).
+2. Determination of the spatial arrangements of arrays of cofactors (the protein as a scaffold ).
+3. The protein as the medium.
+4. Mediation of the interaction with other components in the supramolecular biological system.
+
+
+3.1. The protein as a polydentate ligand
+The ‘rack mechanism’ was introduced by Lumry and Eyring (Lumry &
+Eyring, 1954) and Gray and Malmström (Gray & Malmström, 1983) to
+explain unusual reactivities, spectral and redox properties of amino acids
+and cofactors by the distortion enforced by the protein.
+   A comparison of isolated and protein-bound bile pigments gives a clear
+demonstration of this effect. Isolated bile pigments in solution and in the
+crystalline state prefer a macrocyclic helical geometry with configuration
+ZZZ and conformation syn, syn, syn and show weak absorption in the visible
+range and low fluorescence quantum yield (Scharnagl et al., 1983; Huber et
+al., 1987a,b). When bound as cofactors to light harvesting phycocyanins
+they have strong absorption in the visible range and high fluorescence yield
+(Figure 3). The auxochromic shift, essential for the light harvesting func-
+tions, is due to a strained conformation of the chromophore, which has
+configuration ZZZ and conformation anti, syn, anti stabilized by tight polar
+interactions with the protein (Schirmer et. al., 1985, 1986, 1987) (Figure 4).
+Particularly noteworthy is an aspartate residue (A87 here) bound to the
+central pyrrole nitrogens and conserved in all pigment sites. It influences
+protonation, charge, and spectral properties of the tetrapyrrole systems.
+
+
+                                          R. Huber                               581
+
+
+
+
+Figure 3. Tetrapyrrole structures in PC and BBP and the associated optical and
+circular dichroism spectra (Schirmer et al. 1987; Huber et al., 1987 b).
+
+
+Tight binding is also effective against deexcitation by conformational
+changes. The structure shown in Figure 3 as representative of the free
+pigment is in fact observed in a bilin binding protein from insects (Huber et
+al., 1987a,b). This protein serves a different function and prefers the low
+energy conformer. The open chain tetrapyrrole bilins are conformationally
+adaptable, a property, which makes them appropriate cofactors for differ-
+ent purposes.
+   The cyclic BChl in the RC is conformationally restrained but responds to
+the environment by twisting and bending of the macrocycle. This may be
+one cause for the different electron transfer properties of the two pigment
+branches in the RC as will be discussed later. A more profound influence of
+
+
+582                                      Chemistry 1988
+
+
+
+
+Figure 4. Stereo drawing of phycocyanobilin A84 (thick bonds) and its protein environment
+(thin bonds). All polar groups of the bilin except those of the terminal D pyrrole ring are bound
+by hydrogen bonds and salt links to protein groups (Schirmer et al., 1987).
+
+ the protein on the RC pigment system is seen in the absorption spectra,
+which differ from the composite spectra of the individual components
+(Figure 5). The protein binds a pair of BChl-b (BC P) so that the two BChl-b
+interact strongly between their pyrrole rings I including the acetyl substitu-
+ents and the central magnesium ions (Deisenhofer et al., 1984). Alignment
+of the transition dipole moments and close approach cause excitonic coup-
+ling which partially explains the long wavelength absorption band P960
+(Knapp et al., 1985).
+   The optical spectra are even more perturbed in blue copper proteins
+ compared with cupric ions in normal tetragonal coordination (Figure 6 ).
+The redox potential is also raised to about 300 - 500 mV vs 150 mV for
+ Cu2+ (aq) (Gray & Solomon, 1981). These effects are caused by the distort-
+ ed tetraedral coordination of the type-l copper (a strained conformation
+ stabilizing the cuprous state) and a charge transfer transition from a ligand
+ cysteine S- Cu (Blair et al., 1985; Gray & Malmström, 1983).
+                   2 +
+
+
+
+    The examples presented demonstrate the influence of the protein on the
+ cofactors by various mechanisms, stabilization of unstable conformers and
+ strained ligand geometries and the generation of contacts between pig-
+ ments leading to strong electronic interaction.
+    The fixation of the relative arrangements of systems of cofactors is the
+ basis of the energy and charge transfer properties in each system.
+
+
+                                           R. Huber                                       583
+
+
+
+
+Figure 5. Stereodrawing of the special pair BCP in the RC (Deisenhofer et al. 1984) mainly
+responsible for the spectral alterations and the long wavelength absorption of the RC of Rps.
+viridis (- - -) compared with the spectra of BChl-b in ether solution (-) (spectra from Parson
+et al.. 1985).
+
+Figure 6. The type-l copper and its ligands in AO in stereo. The coordination of the copper is
+to His A446, His A513, Met A518, Cys A508 (Messerschmidt et al., 1989). The optical
+absorption spectra of “blue” copper in copper proteins (-) are compared with normal tetra-
+gonal copper (- - -) (spectrum from Gray & Solomon, 1981).
+
+
+584                               Chemistry I988
+
+
+3.2. Protein as a scaffold
+3.2.1. Light harvesting by phycobilisomes
+The limited number of pigment molecules associated with RC would absorb
+only a small portion of incident sunlight. The RC are therefore associated
+with LHC, which may be located within the photosynthetic membrane, or
+form layers or antenna-like organelles in association with the photosynthetic
+membrane. Cyanobacteria have particularly intricate light harvesting sys-
+tems, the PBS organelles peripheral to the thylakoid membrane. They
+absorb light of shorter wavelengths than do PS I and II, so that a wide
+spectral range of sunlight is used (Figure 7). The PBS are assembled from
+components with finely tuned spectral properties such that the light energy
+is channeled along an energy gradient to PS II.
+
+3.2.1.1. Morphology
+PBS consist of biliproteins and linker polypeptides. Biochemical and elec-
+tron microscopy studies (Gantt et al., 1976; Mörschel et al., 1977; Bryant et
+al., 1979; Nies & Wehrmeyer, 1981) lead to the model representative of a
+hemidiscoidal PBS in Figure 7. Accordingly PBS rods are assembled in a
+polar way from PE or PEC and PC, which is attached to a central core of
+APC. APC is next to the photosynthetic membrane and close to PS II (for a
+review see, MacColl & Guard-Friar, 1987). The PC component consists of α−
+and P-protein subunits, which are arranged as        disc-like aggregates with
+dimensions 120Å x 60Å (for reviews, see Scheer, 1982; Cohen-Bazire &
+Briant, 1982; Glazer, 1985; Zilinskas & Greenwald, 1986; Zuber, 1985,
+1986).
+   From crystallographic analyses, a detailed picture of PC and PEC compo-
+nents has emerged (Schirmer et al. 1985, 1986, 1987; Duerring, 1988;
+Duerring et al., 1989). Amino acid sequence homology suggests that all
+components have similar structures.
+
+
+                                         R. Huber                                      585
+
+3.2.1.2. Structure of phycocyanin
+The PC α-subunit and β-subunits have 162 and 172 amino acid residues,
+respectively (in Mastigocladus Zaminosus). Phycocyanobilin chromophores
+are linked via thioether bonds to cysteine residues at position 84 of both
+chains (A84, B84) and at position 155 of the β-subunit (B155) (Frank et al.,
+1978). Both subunits have similar structures and are folded into eight α-
+helices (X, Y, A, B, E, F, G, H: see Figure 13). A84 and B84 are attached to
+helix E, B155 to the G-H loop. α-helices X and Y form a protruding anti-
+parallel pair essential for formation of the (αβ) unit.
+   The isolated protein forms               with C3 symmetry and hexamers
+      as head to head associated trimers with D3 symmetry (Figure 8). The
+inter-trimer contact is exclusively mediated by the α-subunits, which are
+linked by an intricate network of polar bonds. The inter-hexamer contacts
+within the crystal (and in the native PBS rods) are made by the β-subunits
+(Schirmer et al., 1987).
+
+3.2.1.3. Oligomeric aggregates: spectral properties and energy transfer
+The spectral properties, absorption strength and quantum yield of fluores-
+cence of biliproteins depend on the state of aggregation. The absorption
+spectrum of the       unit resembles the sum of the spectra of the constitu-
+ent subunits, but the fluorescence quantum yield is somewhat higher. Upon
+trimer formation, the absorption is red-shifted and its strength and the
+quantum yield of fluorescence increased (Glazer et al., 1973; Mimuro et al.,
+
+Figure 8. Stereodrawing of the polypeptide chain fold of a    hexamer of PC seen along the
+disk axis (upper panel). The scheme (lower panel) indicates the packing of subunits in the
+hexamer seen from the side.
+
+
+586                                      Chemistry 1988
+
+
+
+
+Figure 9a. Arrangement of chromophores and preferred energy transfer pathways in
+trimers,       hexamers and stacked hexamers based on Table 10 in Schirmer et al.. (1987). For
+the trimer the detailed structures of the chromophores are drawn, otherwise their approximate
+transition dipole directions are indicated. For the trimer and hexamer the view is along the disk
+axis; for the stacked hexamers it is perpendicular. In the stacked hexamers only the inter-
+hexamer transfers are indicated. The strength of coupling is indicated by the thickness of the
+connecting lines. Transfer paths within and between the trimers are represented by full and
+broken lines, respectively.
+
+
+                                    R. Huber                               587
+
+
+ 1986; for a review, see Glazer, 1985). In the                 complexes, the
+ fluorescence is further increased and the absorption spectrum further
+altered (Lundell et al., 1981).
+    These observations can be rationalized by the structure of the aggregates.
+Formation of          units causes little change in the environment of the
+chromophores. They remain quite separated with distances > 36Å (Figure
+ 9a). Upon trimer formation, the environment of chromophore A84 changes
+profoundly by approach of chromophore B84 of a related unit (Figure 9a,
+upper panel). In the hexamer (Figure 9a, middle panel) the A84 and B155
+chromophores interact pairwise strongly across the trimer interface. Also
+the molecular structures become more rigid with increasing size of the
+aggregates as seen in the crystals of the trimeric and hexameric aggregates
+ (Schirmer et al., 1986, 1987). Rigidity hinders excitation relaxation by
+isomerization and thus increases the fluorescence quantum yield.
+    The chromophores can be divided into subsets of s (sensitizing) and f
+ (fluorescing) chromophores (Teale & Dale, 1970; Zickendraht-Wendelstadt
+et al., 1980). The s-chromophores absorb at the blue edge of the absorption
+band and transfer the excitation energy rapidly to the f-chromophores. This
+transfer is accompanied by depolarization (Hefferle et al., 1983). Excitation
+at the red absorption edge (f-chromophores), however, results in little
+depolarization, suggesting that the energy is transferred along stacks of
+similarly oriented f-chromophores (Gillbro et al., 1985). The assignment of
+the chromophores to s and f was made by steady-state spectroscopy on
+different aggregates (Mimuro et al., 1986), by chemical modification guided
+by the spatial structure (Siebzehnriibl et al., 1987) and conclusively by
+measurement of linear dichroism and polarized fluorescence in single cry-
+stals (Schirmer & Vincent, 1987). Accordingly B155 is the s-, B84 the f-, and
+A84 the intermediate chromophore.
+    Light energy is transferred rapidly within 50 to 100 psec from the tips of
+the PBS to the core (for a review, see e.g. Glazer, 1985; Porter et al., 1978;
+Searle et al., 1978; Wendler et al., 1984; Yamazaki et al., 1984; Gillbro et
+al., 1985; Holzwarth, 1986). The transfer times from the periphery to the
+base are several orders of magnitude faster than the intrinsic fluorescence
+life-times of the isolated components (Porter et al., 1978; Hefferle et al.,
+1983). The distances between the chromophores within and between the
+hexamers are too large for strong (excitonic) coupling, but efficient energy
+transfer by inductive resonance occurs. A Förster radius of about 50Å has
+been suggested by Grabowski & Gantt (1978). The relative orientations and
+distances of the chromophores as obtained by Schirmer et al. (1987) were
+the basis for the calculation of the energy transfer rates in Figure 9a. It
+shows the preferred energy transfer pathways in           units,      trimers,
+       hexamers and stacked disks as models for native antenna rods. There is
+very weak coupling of the chromophores in the             units. Some energy
+transfer takes place, however, as indicated by steady-state polarization
+measurements (Switalski & Sauer, 1984; Mimuro et al., 1986) probably
+between B155 and B84. Trimer formation generates strong coupling be-
+
+
+
+
+                                                   R. Huber                         589
+
+
+tween A84 and B84, but B155 is integrated only weakly. In the hexamer
+many additional transfer pathways are opened and B155 is efficiently coup-
+led. Hexamers are obviously the functional units, as the energy can be
+distributed and concentrated on the central f-chromophores, which couple
+the stacks of hexamers. Kinetic studies (Glazer et al., 1985; Gillbro et al.,
+1985; Holzwarth, 1985; Mimuro et al., 1986) have confirmed the picture of
+energy transfer along the rods as a random walk (trap or diffusion limited)
+along a one-dimensional array of f-chromophores. Sauer et al. (1987) have
+successfully simulated the observed energy transfer kinetics in PC aggre-
+gates on the basis of the structures using Förster’s mechanism. The PEC
+component at the tips of PBS rods is extremely similar to PC (Duerring,
+1989; Duerring et al., 1989). Its short wavelength absorbing chromophore
+A84 is located at the periphery (Figure 10a) as are the additional chromo-
+phores in PE which is also a tip component (Figure 9b).
+   The phycobilisome rods act as light collectors and energy concentrators
+from the peripheral onto the central chromophores, that is, as excitation
+energy funnels from the periphery to centre and from the tip to the bottom.
+   We may expect functional modulations by the linker polypeptides. Some
+of them are believed to be located in the central channel of the hexamers,
+where they may interact with B84.
+
+3.2.2. Electron transfer in the reaction centre*
+3.2.2.1. Reaction centre, composition**
+The RC of Rps. viridis is a complex of four protein subunits, C, L, M, H and
+cofactors arranged as in Figure 10a. As shown by the amino acid sequence
+they consist of 336, 273, 323, and 258 residues, respectively (Michel et al.,
+1985; Michel et al., 1986a; Weyer et al., 1987). The c-type cytochrome has
+four haem groups covalently bound via thioether linkages. The cofactors
+  are four BChl-b (BCMP, BCLP, BCLA,             two BPh-b (BPM, BPI), one
+menaquinone-9 (QA), and a ferrous iron involved in electron transfer. A
+second quinone (ubiquinone-9) (QB), which is a component of the function-
+al complex, is partially lost during preparation and crystallization of the RC.
+
+3.2.2.2. Chromophore arrangement and electron transfer
+The chromophores are arranged in L- and M-branches related by an axis of
+approximately two-fold symmetry which meet at BCP (Deisenhofer et al.,
+1984). This axis is normal to the plane of the membrane.
+  While many of the optical properties of the pigment system are rather
+well understood on the basis of the spatial structure (Knapp et al., 1985),
+electron transfer is less well understood. The excited BCP is quenched by
+electron transfer to BPL in 3 psec and further on to the primary acceptor
+Q A in about 200 psec, driven by the redox potential gradient between
+*
+  A historical background of the development of concepts and key features of the purple
+bacterial reaction centre is given by Parson (1978).
+**
+   The arrangement of the reaction centre in the thylakoid membranes of Rps. viridis as
+obtained by electron microscopy is described by Stark et al. (1984).
+
+
+590                              Chemistry 1988
+
+
+
+
+P*/P + (about - 760 mV) and              (about - 110 mV). The redox poten-
+tial of BP- is intermediate with about - 400 mV (Cogdell and Crofts, 1972;
+Carithers and Parson, 1975; Prince et al., 1976; Netzel et al., 1977; Bolton,
+1978; Holten et al., 1978; Woodbury et al., 1985; Breton et al., 1986).
+These functional data are summarized in Figure 10a. General factors con-
+trolling the transfer rates have been summarized in Table 1 and are detailed
+for the RC here:
+   Fast electron transfer requires effective overlap of the molecular orbitals.
+The orbital interaction decreases exponentially with the edge to edge dis-
+tance of donor and acceptor and is insignificant at distances larger than
+about 10Å (Kavarnos and Turro, 1986; McLendon, 1988). In the RC the
+distance between BCp and QA is far too large to allow fast direct electron
+transfer; instead the electron migrates via BPL. BP L- is a spectroscopically
+and kinetically well defined intermediate. Although located between BCP
+and BPL, BCLA is not an intermediate but is probably involved in electron
+                 -
+
+
+
+transfer by a “superexchange” mechanism mediating a strong quantum
+mechanical coupling (Fleming et al., 1988; for a review see Barber, 1988).
+The distance between BPL and QA seems large for a fast transfer. Indeed the
+
+
+                                          R.Huber                                       591
+
+
+
+
+Figure 10b. Stereo drawing of the arrangement of BPL, Trp M250 and QA in the L-branch of the
+RC pigment system.
+
+gap is bridged by the aromatic side chain of Trp M250 in the L branch of
+the pigment system (Figure 10b) (Deisenhofer et al., 1985; Michel et al.,
+1986b), which might mediate coupling via appropriate orbitals. In addition,
+the isoprenoid side chain of QA is close to BPL. Electron transfer via long
+connecting chains by through-bond coupling of donor and acceptor orbitals
+has been observed (Pasman et al., 1982; Moore et al., 1984; Kavarnos &
+Turro, 1986) but there is only Van der Waals contact here.
+  A second important factor for electron transfer is the free energy change
+(∆ G), which is governed by the chemical nature of the components, by
+geometrical factors, and by the environment (solvent polarity). It depends
+on the ionization potential of the donor in its excited state, the electron
+affinity of the acceptor, and on the coulombic interaction of the radical ion
+pair, which is probably small as donor and acceptor (BCP and QA in the RC)
+are far apart. The effect of the environment may be substantial by stabiliz-
+ing the radical ion pair by ionic interactions and hydrogen bonds. ∆ G is a
+determinant of the activation energy of electron transfer. Another is nucle-
+ar rearrangements of the reactants and the environment. As the charge on
+donor and acceptor develops the nuclear configurations change. These
+changes are likely to be small in the RC as the BChl-b macrocycles are
+relatively rigid and tightly packed in the protein and the charge is distribut-
+ed over the extended aromatic electron systems. Reorientable dipolar
+groups (peptide groups and side chains) may contribute strongly to the
+energy barrier of electron transfer. A matrix with high electronic polariza-
+bility on the other hand stabilizes the developing charge in the transition
+state of the reaction and reduces the activation energy. An alternative
+picture is that the potential energy barrier to electron tunnelling is de-
+creased. Aromatic compounds which are concentrated in the vicinity of the
+electron carriers in the RC have these characteristics (see Trp M250).
+   The electron transfer from P* to QA occurs with very low activation
+energy (Arnold and Clayton, 1960; Parson, 1974; Parson and Cogdell,
+1975; Carithers and Parson, 1975; Bolton, 1978; Kirmaier et al., 1985;
+Woodbury et al., 1985) and proceeds readily at 1°K. Thermally activated
+
+
+592                                Chemistry 1988
+
+
+processes, nuclear motions, and collisions are therefore not important for
+the initial very fast charge separation steps. There is even a slight increase in
+rate with temperature decrease either due to a closer approach of the
+pigments at low temperature, or to changes of the vibrational levels which
+may lead to a more favourable Franck-Condon factor.
+   The electron transfer between primary and secondary quinone acceptors,
+Q A and QB is rather different from the previous processes, because it is
+much slower (about 6 µs at pH7, derived from Carithers and Parson, 1975)
+and has a substantial activation energy of about 8 kcal mol-1. In Rps. viridis
+QA is a menaquinone-9 and QB a ubiquinone-9, which differ in their redox
+potentials in solution by about 100 mV. In other purple bacteria both QA
+and QB are ubiquinones. The redox potential difference required for
+efficient electron transfer in these cases is generated by the asymmetric
+protein matrix. The protein matrix is also responsible for the quite different
+functional properties of QA and QB. QA accepts only one electron (leading
+to a semiquinone anion), which is transferred to QB before the next electron
+transfer can occur. QB, however, accepts two electrons and is protonated to
+form a hydroquinone, which diffuses from the RC (two-electron gate
+(Wraight, 1982)). QB is close to Glu L212, which opens a path to the H-
+subunit and may protonate QB. The path between QA and QB is very
+different from the environment of the primary electron transfer compo-
+nents. The line connecting QA and QB (the QB binding site has been inferred
+from the binding mode of competitive inhibitors and ubiquinone-1 in Rps.
+viridis crystals (Deisenhofer et al., 1985)) is occupied by the iron and its five
+coordinating ligands, four histidine (M217, M264, L190, L230) and a
+glutamic acid (M232) residue. His M 217 forms a hydrogen bond to QA. His
+L 190 is close to QB. QAand QB have an edge to edge distance of about 15Å
+which might explain the slow transfer. If electron transfer and protonation
+are coupled, the observed pH dependence of the electron transfer rate of
+Q A to QB (Kleinfeld et al., 1985) could be explained and nuclear motions
+required for proton transfer may generate the observed activation energy
+barrier. The role of the charged Fe-His 4-Glu complex in the QA to QB
+electron transfer is poorly understood at present, as it also occurs in the
+absence of the iron (Debus et al., 1986). Its role seems to be predominantly
+structural.
+   The cycle of electron transfer is closed by rereduction of the BC p* from
+the cytochrome bridging a distance of about 11Å between pyrrole ring I of
+haem 3 and pyrrole ring II of BCLP. The transfer time is 270 ns (Holten et
+al., 1978; elder measurements in Case et al., 1970), considerably slower
+than the initial processes. Tyr L162, which is located midway (Figure 10c)
+may facilitate electron transfer by mediating electronic coupling between
+the widely spaced donor and acceptor. The biphasic temperature depen-
+dance indicates a complex mechanism in which at high temperatures nucle-
+ar motions play a role (for a review see, Dutton & Prince, 1978; DeVault &
+Chance, 1966).
+   The favourable rate controlling factors discussed are a necessary, but not
+sufficient condition for electron transfer, which competes with other
+
+
+                                           R. Huber                                       593
+
+
+
+
+Figure 10c. Stereo drawing of haem 3 (H3) of the cytochrome c, the special pair BC, and the
+intercalating Tyr L162 (Y L162) of the L-subunit (Deisenhofer et al. 1985). The His and Met
+ligands to the iron of H3 and the His ligands to the magnesium ions of the BC, are also shown.
+
+
+quenching processes summarized in Table 2 and detailed for the RC:
+   Energy transfer from P* back to the LHC or to other pigments may be
+favourable from orientation and proximity considerations but is disfavou-
+red for energetic reasons. The special pair absorbs usually (but not in Rps.
+viridis where the maximal absorption of the RC and the LHC are at 960 and
+1020 nm respectively, see Figure 7) at longer wavelengths than other pig-
+ments of the photosynthetic apparatus and represents the light energy sink.
+The natural radiative lifetime of the excited singlet state P* is around 20 ns
+(Slooten, 1972; Parson and Cogdell, 1975) and may serve as an estimate of
+the times involved in the other wasteful quenching processes. Clearly elec-
+tron transfer is much faster. Non-radiative relaxation of BCp* by isomeriza-
+tions and conformational changes is unlikely for the cyclic pigment systems
+tightly packed in the protein matrix.
+   The back reaction P+ Q A- to P QA has a favourable driving force (Figure
+10a) and proceeds independent of temperature, but is slow and insignifi-
+cant under physiological conditions (for a review see, Bolton, 1978). The
+physical basis for this has yet to be explained. It may be related to a gating
+function of BPL by its negative redox potential compared to QA to electron-
+ic properties of P+ disfavouring charge transfer, and to conformational
+changes induced by electron transfer.
+   The profound influence of the protein matrix on electron transfer in the
+RC is obvious in the observed asymmetry of electron transfer in the two
+branches of the BChl-b and BPh-b pigments. Only the branch more closely
+associated with the L-subunit is active. An explanation is offered by the fact
+that the protein environment of both branches, although provided by
+homologous proteins (L and M), is rather different in particular by the Trp
+M250 located between BPL and QA and the numerous differences in the QA
+and QB binding sites (Deisenhofer et al., 1985; Michel et al., 198613).
+
+
+594                               Chemistry 1988
+
+
+Asymmetry is observed in the BC, due to different distortions and hydrogen
+bonding of the macrocycles and in the slightly different spatial arrange-
+ments of the BCA and BP. It is suggested to facilitate electron release into
+the L-branch (Michel-Beyerle et al.; 1988). The M-branch may have influ-
+ence as a pendant group though.
+  The protein matrix also serves to dissipate the excess energy of about 650
+mV (Prince et al., 1976) of the excited special pair (P* Q A) over the radical
+ion pair P+Q A-. These processes are probably very fast.
+  In summary, the very fast electron transfer from BCp* to QA occurs
+between closely spaced aromatic macrocyles with matched redox potentials.
+The protein matrix in which the pigments are tightly held is lined predomi-
+nantly with apolar amino acid side chains with a high proportion of aromatic
+residues. The electron path is removed from bulk water.
+
+3.2.3. The blue oxidases
+Oxidases catalyse the reduction of dioxygen in single electron transfers
+from substrates. Dioxygen requires 4 electrons and 4 protons to be reduced
+to two water molecules. Oxidases must provide recognition sites for the two
+substrates, a storage site for electrons and/or means to stabilize reactive
+partially reduced oxygen intermediates (Malmström, 1978, 1982; Farver &
+Pecht, 1984)
+  The ‘blue’ oxidases are classified corresponding to distinct spectroscopic
+properties of the three types of copper which they contain: Type-l Cu ++ is
+responsible for the deep blue color of these proteins; type-2 or normal
+Cu ++ has undetectable optical absorption; type-l and type-2 cupric ions
+are paramagnetic; type-3 copper has a strong absorption around 330 nm
+and is antiferromagnetic, indicating coupling of a pair of cupric ions. The
+characteristic optical and electron paramagnetic resonance spectra disap-
+pear upon reduction.
+   Studies of the catalytic and redox properties of the ‘blue’ oxidases are
+well documented in several recent reviews (e.g. for lactase, Reinhammar,
+1984; for ascorbate oxidase, Mondovi & Avigliano, 1984; for ceruloplas-
+min, Rydén, 1984). Basically type-l Cu++ is reduced by electron transfer
+from the substrate. The electron is transferred on to the type-3 and type-2
+copper ions: The second substrate, dioxygen, is associated with the type-3
+and/or type-2 copper ions.
+
+3.2.3.1. Ascorbate oxidase, composition and copper arrangement
+Ascorbate oxidase is a polypeptide of 553 amino acid residues folded into
+three tightly associated domains (Messerschmidt et al., 1989). It is a dimer
+in solution, but the functional unit is the monomer. It belongs to the group
+of ‘blue’ oxidases together with laccase and ceruloplasmin (Malkin & Malm-
+ström, 1970).
+   Structures of copper proteins containing only one of the different copper
+types are known: Plastocyanin has a ‘blue’ type-l copper, which is coordi-
+nated to two histidine residues and the sulfur atoms of cysteine and methio-
+
+
+                                          R. Huber                                      595
+
+
+nine as a distorted tetrahedron (Guss & Freeman, 1983). Cu-Zn-superoxide
+dismutase contains a type-2 copper, which has 4 histidine ligands with
+slightly distorted quadratic coordination (Richardson et al., 1975). Hemo-
+cyanin of Panulirus interruptus has type-3 copper, a pair of copper ions 3.4
+Å apart with 6 histidine ligands (Gaykema et al., 1984).
+   In domain 3 of ascorbate oxidase (see section 4.4.) a copper ion is found
+in a strongly distorted tetrahedral (approaching trigonal pyramidal geome-
+try) coordination by the ligands His, Cys, His, Met as had been shown in
+Figure 6. It resembles the blue type-l copper in plastocyanin. Between
+domain 1 and domain 3, a trinuclear copper site is enclosed and shown in
+Figure 11a. Four (-His-X-His-) amino acid sequences provide the eight
+histidine ligands. The trinuclear copper site is subdivided in a pair of
+coppers (Cu31, Cu32) with 2x3 histidyl (A108, A451, A507; A64, A106,
+A509) ligands forming a trigonal prism. It represents the type-3 copper
+pair, as a comparable arrangement is observed in hemocyanin. The remain-
+ing copper (Cu 2) has two histidyl ligands (A62, A449). It is type-2 copper.
+The trinuclear copper cluster is the site where dioxygen binds, but the
+structural details including the presence of additional non-protein ligands
+require clarification. The close spatial association of the three copper ions
+in the cluster suggests facile electron exchange. It may function as an
+electron storage site and cooperative three-electron donor to dioxygen, to
+irreversibly break the O - O bond.
+
+3.2.3.2. Intramolecular electron transfer in ascorbate oxidase
+Electrons are transferred from the type-l copper to the trinuclear site. The
+shortest pathway is via Cys-A508 and His-A507 or His-A509. The (His-X-
+His-) segment links electron donor and acceptor bridging a distance of 12Å
+
+
+
+
+Figure 11a. Stereo drawing of the trinuclear copper site in AO. Coordination bonds between
+the copper ions and the protein residues are marked (- - - -) (Messerschmidt et al., 1989).
+
+
+596                                     Chemistry 1988
+
+
+
+
+Figure 11b. Stereo drawing of the tridentate peptide ligand (-His 507-Cys 508-His 509-) bridg-
+ing type-l copper (Cu 1) and the trinuclear cluster (Cu 31, Cu 32, Cu 2) (Messerschmidt et al.
+1989).
+
+
+(Figure 11b). The cysteine sulfur and the imidazole components of the
+bridging ligand have low lying unoccupied molecular orbitals and may
+favour a chemical mechanism of electron transfer but the intervening
+aliphatic and peptide chains are unlikely to form transient radicals and may
+participate by resonance. The optical absorption of the blue copper as-
+signed to a cysteine S             charge transfer transition supports the
+suggested electron pathway.
+   The putative electron path branches at the      atom of Cys A508. Model
+compounds have shown inequivalence and faster transfer in the N-C direc-
+tion of amide linking groups (Schmidt et al., 1988). This may apply also to
+the blue oxidases and cause preferred transfer to A507.
+   The redox potential differences between the type-l copper and the type-3
+copper are -40 mV in ascorbate oxidase. Unfortunately, there are no
+direct measurements of the intramolecular electron transfer rates available.
+The turnover number serves as a lower limit and is 7.5 X 10 3 sec -1 in AO
+(Dawson, 1966; Get-win et al., 1974) indicating a quite rapid transfer despite
+the long distance and small driving force. The electron pathway is intramo-
+lecular and removed from bulk water.
+   The characteristic distribution of redox centres as mono- and trinuclear
+sites in the blue oxidases may be found also in the most complex oxidase,
+cytochrome oxidase (see the hypothetical model of Holm et al., 1987) and in
+the water-splitting manganese protein complex of PS II, which carries out
+the reverse reaction of the oxidases. For its (Mn) 4 cofactor either two
+binuclear or a tetranuclear metal centre is favoured (Babcock, 1987), but
+mono- and trinuclear arrangements can not be excluded.
+
+
+                                         R. Huber                                      597
+
+
+3.3. The protein as medium
+The boundary between the action of the protein as ligand and as medium is
+fluid. The protein medium is microscopically extremely complex in struc-
+ture, polarity and polarisability, which may influence energy and electron
+transfer. There is no obvious common structural scheme in the protein
+systems discussed except a high proportion of aromatic residues (particular-
+ly tryptophans) bordering the electron transfer paths in RC and AO and
+their wide separation from bulk water by internal location within the pro-
+tein and the hydrocarbon bilayer (in RC). These effects have been men-
+tioned in sections 1.3 and 3.2.2.2.
+
+4. Structural relationships and internal repeats
+All four protein systems mentioned show internal repetition of structural
+motifs or similarities to other proteins of known folding patterns. This is a
+quite common phenomenon and not confined to energy and electron
+transfer proteins. It is also not uncommon that these relationships often
+remained undetected on the basis of the amino acid sequences, ultimately a
+reflection of our ignorance about the sequence structure relationships. An
+analysis of structural relationships will shed light on evolution and function
+of the protein systems and is thus appropriate here.
+
+4.1. Retinol and bilin binding proteins
+The simplest case is shown in Figure 12, where BBP (Huber et al., 1987) is
+compared to RBP (Newcomer et al., 1984). The structural similarity is
+obvious for the bottom of the P-barrel structure, while the upper part which
+is involved in binding of the pigments, biliverdin and retinol, differs greatly.
+The molecule is apparently divided in framework and hypervariable seg-
+ments which determine binding specificity in analogy to the immunoglobu-
+lins (Huber, 1984). The relationship suggests carrier functions for BBP as
+for RBP, although it serves also for pigmentation in butterflys.
+
+
+
+
+Figure 12 . Comparison of the polypeptide chain folds of BBP and RBP with bound cofactors.
+
+
+598                                      Chemistry 1988
+
+
+4.2. Phycocyanin
+The PC consist of two polypeptide chains α and β which are clearly related
+in structure (Figure 13) and originate probably from a common precursor.
+   The α-subunit is shorter in the .GH turn and lacks the s-chromophore
+B155 (see section 3.2.1.3.). The loss or acquisition of chromophores during
+evolution may be less important than differentiation of the and subun-
+its, which occupy non-equivalent positions in the           trimer, so that the
+homologous chromophores A84 and B84 are non-equivalent with B84 lying
+on the inner wall of the disk. In addition the α and β subunits play very
+different roles in the formation of the      hexamer as had been shown in
+Figure 8. Symmetrical precursor hexamers might have existed and could
+
+
+
+
+Figure 13. Polypeptide chain folds of the a- and P-subunits of phycocyanin (Schirmer et al.
+1987) (lower part, left and right) and comparison of the arrangements of a-helices in myoglobin
+and phycocyanin (upper part, left and right).
+
+
+                                           R. Huber                                       599
+
+
+have formed stacks, but would lack the differentiation of the chromo-
+phores, in particular the inequivalence and close interaction of A84 and
+B84 in the trimer. Functional improvement has probably driven divergent
+evolution of the and β-subunits. .
+  A most surprising similarity was discovered between the PC subunits and
+the globins shown in Figure 23. The globular helical assemblies A to H show
+similar topology. The N-terminal X,Y            forming a U-shaped exten-
+sion in PC is essential for formation of the  substructure. The amino acid
+sequence comparison after structural superposition reveals some homology
+suggesting divergent evolution of phycobiliproteins and globins (Schirmer
+et al., 1987), however, what function a precursor of light harvesting and
+oxygen binding proteins might have had remains mysterious.
+
+4.3. Reaction centre
+The RC lacks symmetry across the membrane plane, not surprising for a
+complex, which catalyses a vectorial process across the membrane. How-
+ever, there is quasi-symmetry relating the L- and M subunits and the
+pigment system. Structural similarity and amino acid sequence homology
+
+
+
+
+Figure 14. Stereo drawing of the polypeptide fold of the RC subunits and the cofactor system.
+The membrane-spanning α-helices of the L- and M-subunits (A, B, C, D, E in sequential and A,
+B, C, E, D in spatial order) and the H-subunit (H) are labelled (Deisenhofer et al., 1985).
+
+
+600                              Chemistry 1988
+
+
+between the L- and M-subunits suggest a common evolutionary origin. This
+relationship is extended to the PS II components Dl and D2 on the basis of
+sequence homology and conservation of residues involved in cofactor bind-
+ing (for reviews, see Trebst, 1986;. Michel & Deisenhofer, 1988). The
+putative precursor was a symmetrical dimer with identical electron transfer
+pathways. The interaction with the H subunit introduces asymmetry, par-
+ticularly noteworthy at the N-terminal transmembrane α-helix of the H-
+subunit (H), which is close to the E transmembrane α-helix of the M-subunit
+and the L-branch of the pigment system and QA (Figure 14). The improve-
+ment of the interaction with the H-subunit, which appears to play a role in
+the electron transfer from QA to QB and in protonation of QB might have
+driven divergent evolution of the L- and M-subunits at the expense of the
+inactivation of the M pigment branch. However, the electron transfer from
+BC, to QA is extremely fast and not rate-limiting for the overall reaction.
+The evolutionary conservation of the M branch of pigments may be of
+functional significance in light harvesting and electron transfer as a pendant
+group. There are also structural reasons, as its deletion would generate void
+space.
+   The cytochrome subunit adds to the asymmetry of the L-M complex and
+shows itself an internal duplication (Deisenhofer et al., 1985). All four heme
+groups are associated with a helix-turn-helix motif, but the turns are short
+for haem groups 1 and 3 and long for 2 and 4.
+
+4.4. Blue oxidases
+Gene multiplication and divergent evolution is most evident in the blue
+oxidase, ascorbate oxidase. Figure 15 shows the polypeptide chain of 553
+amino acid residues folded into 3 closely associated domains of similar
+topology (Messerschmidt et al., 1989). Although nearly twice as large, they
+resemble the simple, small copper protein plastocyanin (Guss & Freeman,
+1983) (Figure 16). In the blue oxidase domains I and III enclose the
+trinuclear copper cluster in a quasi-symmetrical fashion, but only domain
+III contains-the type 1 copper, the electron donor to the trinuclear site. A
+potential electron transfer pathway in domain I is not realized, reminiscent
+of the M-branch of pigments in the RC. Similar to the H subunit in the RC,
+the linking domain II introduces asymmetry in AO, which might have driven
+evolutionary divergence of domains I and III.
+   The proteins plastocyanin, ascorbate oxidase, laccase, and ceruloplasmin
+are members of a family of copper proteins as indicated by structural
+relations and sequence homology (Messerschmidt et al., 1989; Ohkawa et
+al., 1988; Germann et al., 1988; Takahashi et al., 1984). They provide a
+record from which an evolutionary tree may be proposed (Figure 17). The
+simplest molecule is plastocyanin containing only a type-l copper. A dimer
+of plastocyanin-like molecules could provide the 2x4 histidyl ligands for the
+trinuclear copper cluster, representing a symmetrical oxidase. From this
+hypothetical precursor the modern blue oxidases and ceruloplasmin might
+have evolved following different paths of gene (domain) insertion and loss
+
+
+                                          R. Huber                                        601
+
+
+
+
+Figure 15. Stereo drawing of the polypeptide chain folds of AO and explosion view of its three
+domains from top to bottom (Messerschmidt et al. 1989). β-strands are indicated as arrows and
+α-helices as cylinders (produced by the plot program of Lesk & Hardman, 1982).
+
+
+                                         Chemistry 1988
+
+
+
+
+Figure 16. Stereo drawing and superposition of domain III of AO (thin lines) and PCY (thick
+lines). The trinuclear copper site in AO is buried between domain I (not shown) and domain III.
+
+
+
+
+Figure 17. Homologous domains in plasto-
+cyanin, ascorbate oxidase, laccase and ceru-
+loplasmin. The mono- and trinuclear copper
+sites are indicated.
+
+
+                                   R. Huber                              603
+
+
+or aquisition of coppers. In both the arrangement of the N- and C-terminal
+domains, which contain the functional copper cluster has been preserved.
+Recombinant DNA technology has the tools to reconstruct the hypothetical
+precursor oxidase. This is under investigation.
+
+5. Implications from the structure of the reaction centre for membrane
+proteins in general
+The structures of water soluble proteins show a seemingly unlimited diversi-
+ty, although they are built from only a few defined secondary structural
+elements as helices, β-sheets and turns and despite their construction from
+domains and recurring structural motifs. The proteins discussed provide
+ample evidence. That there seems to be a limited set of basic folds may be
+related to the evolution of proteins from a basic set of structures and/or to
+constraints by protein stability and rates of folding. These basic folding
+motifs do not represent rigid building blocks, however, but adapt to se-
+quence changes and respond to the environment and association with other
+structural elements. Adaptability and plasticity (which is not to be confused
+with flexibility) is related to the fact that the entire protein and solvent
+system must attain the global minimum, not its individual components.
+Water is a good hydrogen bond donor and acceptor and is thus able to
+saturate polar surface exposed peptide groups nearly as well as intraprotein
+hydrogen bonds do (except for entropic effects).
+   Membrane proteins face the inert hydrocarbon part of the phospholipid
+bilayer and must satisfy their hydrogen bonds intramolecularly. Only two
+secondary structures form closed hydrogen bonding arrangements of their
+main chains, which satisfy this condition, namely the helix and the β-barrel.
+For assemblies of α-helices packing rules have been derived which predict
+certain preferred angles between the helix axes although with a broad
+distribution. Similarly, the arrangement of strands in β-sheets and β-barrels
+follows defined rules (Chothia, 1984).
+
+5.1. Structure of the membrane associated parts of the RC
+The structure of the RC may support some conclusions about membrane
+proteins in general, of which the RC structure was the first to be deter-
+mined at atomic resolution after the low resolution structure of bacterio-
+rhodopsin which has some common features (Henderson & Unwin, 1975).
+The RC has 11 transmembrane α-helices, which consist of 26 residues (H-
+subunit) or 24-30 residues (L- and M-subunits) appropriate lengths to
+span the membrane. The amino acid sequences of these segments are
+devoid of charged residues (Figure 18). Few charged residues occur close to
+the ends of the α-helices. Glycine residues initiate and terminate almost all
+α-helical segments, both the transmembrane and the connecting a-helices.
+It is well known from soluble proteins that glycine residues are abundant in
+turns and often associated with flexible regions of proteins (Bennett and
+Huber 1984). They may be important for the insertion into the membrane
+by allowing rearrangements. The angles between the axes of the contacting
+
+
+                                         Chemistry 1988
+
+
+
+
+Figure 18. Stereo drawing of the polypeptide chains of the L- and M-subunits of the RC in
+ribbon representation. The N-terminal residues of the membrane-spanning α-helices are la-
+belled (including the prefix M and L) and the tetra-helical motif of the D and E α-helices is
+marked by shading and lines. The side chains of charged residues are drawn. Asp, Glu, and
+carboxy-termini as negatively charged, and Lys, Arg and amino-termini are counted as positively
+charged and added for the cytoplasmic and periplasmic sides (Deisenhofer el al., 1985, 1988).
+
+
+α-helices of the L- and M-complex are inclined by 20º to 30º, a preferred
+angular range for the packing of the α-helices in soluble proteins. They have
+features in common with buried α-helices in large globular proteins, which
+are also characterized by the absence of charged residues and the prefer-
+ence of glycines and prolines at the termini (Loebermann et al., 1984;
+Remington et al., 1982). In addition, the D E α-helices of the L- and M-
+subunits (Figure 18) find counterparts in soluble proteins. They are associat-
+ed around the local diad axis and form the centre of the LM module, which
+binds the iron and the BC,. The four D and E α-helices of the L- and M-
+subunits are arranged as a bundle tied together by the iron ion and splay out
+towards the cytoplasmic side to accommodate the large special pair. This
+motif is quite common in soluble electron transfer proteins (Weber and
+Salemme, 1980). I will resume this discussion later and suggest appropriate
+substructures of soluble proteins as models for pore forming membrane
+proteins.
+
+5.2. Membrane insertion
+The structure of the RC is similarly important for our views of the mecha-
+nism of integration of membrane proteins into the phospholipid bilayer.
+The RC is composed of components which are quite differently arranged
+with respect to the membrane: The C-subunit is located on the periplasmic
+side. The H-subunit is folded into two parts: a globular part located on the
+cytoplasmic side and a transmembrane α-helix. The L- and M-subunits are
+
+
+                                    R. Huber                                605
+
+
+incorporated into the phospholipid bilayer. Consequently, C has to be
+completely translocated across the membrane from its intracellular site of
+synthesis. In the H-, L-, and M-subunits the transmembrane α-helices are
+embedded in the bilayer. Only the N-terminal segment of H and the C-
+termini and connecting segments of the α-helices located at the periplasmic
+side of L and M (A - B, C - D) require transfer.
+   It is interesting to note that only the cytochrome gene possesses a prokar-
+yotic signal sequence, as indicated by the sequence of the gene (Weyer et al.,
+1987). Transfer of the large hydrophilic C-subunit may require a complex
+translocation system and a signal sequence, while H, L, and M may sponta-
+neously insert into the bilayer due to the affinity of the contiguous hydro-
+phobic segments with the phospholipids (for a review of this and related
+problems see Rapoport, 1986). A “simple” dissolution still requires transfer
+across the membrane of those charged residues which are located at the
+periplasmic side (Deisenhofer et al., 1985; Michel et al, 1986b). The
+increasingly favourable protein lipid interaction which develops with inser-
+tion may assist in this process. M and L have considerably more charged
+residues at the cytoplasmic side (41) than at the periplasmic side (24),
+providing a lower activation energy barrier for correct insertion. The net
+charge distribution of the LM complex is asymmetric with 6 positive charges
+at the cytoplasmic side and 8 negative charges at the periplasmic side. As the
+intracellular membrane potential is negative, the observed orientation of
+the LM complex is energetically favoured (Figure 18).
+   The H-subunit has a very polar amino acid sequence at the C-terminus of
+the transmembrane α-helix with a stretch of 7 consecutive charged residues
+(H33 - H39) (Deisenhofer et al., 1985; Michel et al., 1985) which may
+efficiently stop membrane insertion. Similarly, there are 3 to 11 charged
+residues in each of the connecting segments of the α-helices at the cytoplas-
+mic side of the L- and M-subunits, which might stop the transfer of α-helices
+or α-helical pairs (Engelman et al., 1986). As an alternative to sequential
+insertion the L-, M-subunits may be inserted into the membrane as assem-
+bled protein pigment complexes, because they cohere tightly by protein
+protein and protein cofactor interactions.
+
+5.3. Models of pore forming proteins
+It is not obvious whether the structural principles observed in the RC apply
+also to ‘pore’ or ‘channel’ forming α-helical proteins. These could, in
+principle, elaborate quite complex structures within the aqueous channel
+(Lodish, 1988), but available evidence at low resolution for gap junction
+proteins (Milks et al., 1988) indicates in this specific case a simple hexameric
+arrangement of membrane spanning amphiphilic α-helices, whose polar
+sides face the aqueous channel.
+   Guided by the observation that rules for structure and packing of
+helices derived for soluble proteins apply also to the RC, we may derive
+models for membrane pore forming proteins from appropriate soluble
+protein substructures. The penta-helical pore seen at high resolution in the
+
+
+606                                      Chemistry 1988
+
+
+icosaedral multi-enzyme complex riboflavin synthase seems to be a suitable
+model (Ladenstein et al., 1988) (Figure 19). 5 amphiphilic              of 23
+residues each are nearly perpendicular to the capsid surface. The coiled coil
+of           has a right-handed twist and forms a pore for the putative
+import of substrates and export of products. They pack with their apolar
+sides against the central 4-stranded β-sheet of the protein, which mimics the
+hydrocarbon part of a phospholipid bilayer and project charged residues
+into the aqueous channel.
+   Similar modelling of membrane protein structures may be extended to
+another class of membrane proteins which have β-structures spanning the
+outer membrane, the bacterial pot-ins (Kleffel et al., 1985). In soluble
+proteins β-barrels observed have 4 to 8 or more strands. The lower limit is
+determined by the distortion of regular hydrogen bonds. An upper limit
+may be given by the possible sizes of stable protein domains. A four-
+stranded β-barrel with 4 parallel strands duplicated head to head with
+symmetry D4 is seen in the ovomucoid octamer (Weber et al., 1981). The
+strands lean against the hydrophobic core of the molecule and project their
+(short) polar residues into the channel (which is extremely narrow here).
+
+6. Some thoughts on the future of protein crystallography
+Thirty years after the elucidation of the first protein crystal structures by
+Perutz and Kendrew and after steady development, protein crystallography
+is undergoing a revolution. Recent technical and methodical developments
+enable us to analyse large functional protein complexes like the RC (Deisen-
+hofer et al., 1985; Allen et al., 1987), large virus structures (to mention only
+Harrison et al., 1978; Rossmann et al., 1985; Hogle et al., 1985), protein
+DNA complexes (to mention only Ollis et al., 1985), and multi-enzyme
+complexes like riboflavin synthase (Ladenstein et al., 1988).
+   The significance of these studies for understanding biological functions is
+obvious and has excited the interest of the scientific community in general.
+
+
+
+
+Figure 19. Penta-helical pore in heavy riboflavin synthase in stereo (Ladenstein et al., 1988).
+
+
+                                          R. Huber                                     607
+
+
+   In addition, it was recognized that detailed structural information is a
+prerequisite for rational design of drugs and proteins. For an illustration I
+chose human leucocyte elastase which is an important pathogenic agent. On
+the basis of its three-dimensional structure (Figure 20) (Bode et al., 1986)
+and the criteria of optimal stereochemical fit potent inhibitors are now
+being synthesized or natural inhibitors modified by use of recombinant
+DNA technology in many scientific and commercial institutions. Other,
+equally important proteins are similarly studied. This field especially bene-
+fits from the facile molecular modelling software (e.g. FRODO, Jones,
+1978) and a standard and depository of structural data, the Protein Data
+Bank (Bernstein et al., 1977).
+   Success and the new technical and methodical developments spur protein
+crystallography’s progress. These new developments are indeed remark-
+able: Area detectors for automatic recording of diffraction intensities have
+been designed. Brilliant X-ray sources (synchrotrons) are available for very
+fast measurements and now permit use of very small crystals or radiation
+sensitive materials. Their polychromatic radiation is used to obtain diffrac-
+tion data sets within milliseconds by Laue techniques (Hajdu et al., 1988)
+and their tunability allows the optimal use of anomalous dispersion effects
+(Hendrickson et al., 1988; Guss et al., 1988).
+   Refinement methods including crystallographic and conformational en-
+ergy terms provide improved protein models. Methods which allow the
+analysis of large protein complexes with internal symmetry averaging proce-
+dures were developed (Bricogne, 1976) leading from blurred to remarkably
+clear pictures. A priori information of a relationship to known proteins can
+be used to great advantage as it is possible to solve an unknown crystal
+structure using a known model of a variant structure by a method discov-
+ered and named the 'Faltmolekül' method by my teacher, W. Hoppe. It has
+become a very powerful tool in protein crystallography.
+
+
+
+
+Figure 20. Stereo drawing of the complex between human leucocyte elastase (thin lines) and
+turkey ovomucoid inhibitor (thick lines) (Bode el al., 1986).
+
+
+608                               Chemistry 1988
+
+
+   With this last paragraph I wish to pay tribute to W. Hoppe who in 1957
+laid the foundation to Patterson search methods by discovering that the
+Patterson function (the Fourier transform of the diffraction intensities) of
+molecular crystals can be decomposed into sums of intra- and intermolecu-
+lar vector sets (Hoppe, 1957) from which orientation and translation of the
+molecules can be derived when their approximate structure is known (Fi-
+gure 21 ). Hoppe’s method was profoundly elaborated, computerized, and
+reformulated (Rossmann & Blow, 1962; Huber, 1965; Crowther & Blow,
+ 1967). It provided a short-cut to the crystal structure of the RC of Rb.
+sphaeroides which was solved on the basis of the molecular structure of the
+RC of Rps. viridis and subsequently refined (Allen et al., 1986, 1987). The
+molecular architectures are very similar although the Rb. sphaeroides RC
+lacks the permanently bound cytochrome. The structure solution was inde-
+pendently confirmed using similar methods by Chang et al., (1986). With
+the Faltmolekül method the orientation and location of a molecule in a
+crystal cell can be determined. The detailed molecular structure and its
+deviations from the parent model have to be worked out by crystallographic
+refinement, to which W. Steigemann and J. Deisenhofer (in his thesis work)
+laid a foundation in my laboratory (Huber et al., 1974; Deisenhofer &
+Steigemann, 1975).
+   Recently, NMR techniques (nuclear magnetic resonance) have demon-
+strated their capability to determine three-dimensional structure of small
+proteins in solution. In one case, a detailed comparison between crystal and
+solution structure has shown very good correspondance (Kline et al., 1986;
+Pflugrath et al., 1986) but future developments will be needed to extend the
+power of the method to larger protein structures.
+   Protein crystallography is the only tool to unravel in detail the architec-
+ture of the large protein complexes described here and will continue in the
+foreseeable future to be the only experimental method that provides atomic
+resolution data on atom-atom and molecule-molecule interactions. It is the
+successful analytic method E. Fischer addressed in his 9th Faraday Lecture
+by pointing out that ‘the precise nature of the assimilation process. . . will
+only be accomplished when biological research, aided by improved analyt-
+ical methods, has succeeded in following the changes which take place in the
+actual chlorophyll granules’ (Fischer, 1907). Yet an ultimate goal for which
+we all struggle is the solution of the folding problem. The growing number
+of known protein structures and the design of single residue variants by
+recombinant DNA technology and their analysis by protein crystallography
+has brought us nearer to this goal. We are able to study contributions of
+individual residue to rates of folding, structure, stability, and function. Also
+theoretical analysis of protein structures has progressed (to mention only
+Levitt & Sharon, 1988) but a clue to the code relating sequence and
+structure is not in sight (Jaenicke, 1988). Like Carl von Linné who 250 years
+ago created a system of plants on the basis of morphology (Genera plan-
+tarum, Leiden 1737), we classify proteins by their shapes and structures.
+Whether this may lead to a solution of the folding problem is unclear, but it
+
+
+                                             R. Huber                                          609
+
+
+
+
+Figure 21. Faltmolekül construct A)           (a) and    (El)      (E2) (b)
+are the intra- and intermolecular vector sets of a triangular structure     respectively. Their sum
+represents the Patterson function. The intramolecular vector set can be constructed from the
+molecular structure, is located at the origin, and permits the determination of the orientation.
+From the intermolecular vector set the translation component relative to the mirror line can be
+derived. In (b) the intermolecular vector sets corresponding to two different orientations of
+are shown (Huber, 1985).
+
+B)
+Drawing of the main chain of the M-, L-, H-subunits and the cofactors which served as search
+model to solve the phase problem for the Rb. sphaeroides RC crystal structure. For the calcula-
+tion all homologous main chain and side chain atoms were included (Allen et al., 1986).
+
+
+610                                  Chemistry 1988
+
+is certain that the end of protein crystallography will only come through
+protein crystallography.
+
+
+ACKNOWLEDGEMENT
+J. Deisenhofer’s and my interest in structural studies of the photosynthetic
+reaction centre of Rps. viridis was raised by the establishment of D. Oester-
+helt’s department in Martinsried in 1980; he brought with him H. Michel,
+with whom a fruitful collaboration on the analysis of the crystal structure of
+ this large protein complex began. Later other members of my group, O.
+ Epp and K. Miki, became involved. We had been studying enzymes, pro-
+ teases and their natural inhibitors, immunoglobulins and had developed
+methods to improve data collection, electron density map interpretation
+and crystallographic refinement. The tools were available to attack a prob-
+lem which was and still is the largest asymmetric protein analysed at atomic
+resolution today.
+    The “heureka” moment of protein crystallography is at the very end
+when one sees for the first time a new macromolecule with the eyes of a
+discoverer of unknown territories. To reach this moment much, sometimes
+ tedious, work has to be done with the ever present possibility of failure. I
+am deeply grateful to my collaborators, those who are with me and those
+who had left, for their dedicated and patient work over many years. I
+mention by name those involved in the studies of the light harvesting
+cyanobacterial proteins and the blue oxidases: W. Bode, M. Duerring, R.
+ Ladenstein, A. Messerschmidt, T. Schirmer. These projects were collabora-
+ tive undertakings with biochemists in Switzerland (H. Zuber, W. Sidler),
+ USA (M. L. Hackert) and Italy (M. Bolognesi, A. Marchesini, A. Finazzi-
+Agro.
+    Scientific work needs a stimulating environment which was provided at
+the Max-Planck-Institut für Biochemie and it needs steady financial sup-
+port, which was provided by the Max-Planck-Gesellschaft and the Deutsche
+Forschungsgemeinschaft.
+    I thank R. Engh, S. Knof, R. Ladenstein, M. Duerring, E. Meyer for their
+helpful comments on this manuscript.
+
+LITERATURE
+Allen, J. P., Feher, G., Yeates, T. O., Rees, D. C., Deisenhofer, J., Michel, H.,
+    Huber, R. (1986) Proc. Natl. Acad. Sci. USA 83, 8589-8593.
+Allen, J. P., Feher, G., Yeates, T. O., Kemiya, H., Rees, D. C. (1987) Proc. Natl.
+   Acad. Sci. USA 84, 6162-6166.
+Arnold, W., and Clayton, R. D. (1960), Proc. Natl. Acad. Sci. USA 46, 769-776.
+Babcock, G. T. (1987) Oxygen-Evolving Process in Photosynthesis (J. Amesz, ed.)
+    Elsevier Science Publ.
+Barber, J. (1987) Trends Biochem. Sci. 12, 321-326.
+Barber, J. (1988) Nature 333, 114.
+Barltrop, J. A. and Coyle, J. D. (1978) Principles of Photochemistry, John Wiley and
+    Sons, Chichester.
+Bernstein, F. C., Koetzle, T. F., Williams, G. J. B., Meyer, Jr., E. F., Brice, M. D.,
+
+
+                                       R. Hubcr                                    611
+
+    Rodgers, J. R., Kennard, O., Shimonouchi, T., Tasumi, M (1977) J. Mol. Biol.
+    112, 535-542.
+Bennett, W. S. and Huber, R. (1984), CRC Critical Reviews in Biochemistry 15,
+    291-384.
+Blair, D. F., Campbell, G. W., Schoonover, J. R., Chan, S. I., Gray, H. B., Malm-
+    ström, B. G., Pecht, I., Swanson, B. F., Woodneff, W. H., Cho, W. K., English,
+    A. R., Fry, A. H., Lum, V., and Norton, K. A. (1985) J. Amer. Chem. Soc. 10,
+    5755-5766.
+Bode, W., Wei, A., Huber, R., Meyer, E., Travis, P., Neumann, S. (1986) EMBO J. 5,
+    2453-2458.
+Bolton, J. R. (1978) in: The Photosynthetic Bacteria, (R. K. Clayton and W. R.
+    Sistrom, eds.), Plenum Press, New York and London, pp. 419-442.
+Boltzmann, L. (1886) Der Zweite Hauptsatz der mechanischen Wärmetheorie (Essay
+    in Populire Schriften) L. Boltzmann-Gesamtausgabe Bd. 7 (1919) Akad. Druck-
+    und Verlagsanstalt Vieweg, Wiesbaden, pp 25-46 (English translation from
+    Arnon, D. L. (1961) in: Light and Life (W. D. McElroy, B. Glass, eds.) The Johns
+    Hopkins Press, Baltimore, pp. 489-569.
+Breton, J. (1985) Biochim. Biophys. Acta 810, 235-245.
+Breton, J., Farkas, D. L., and Parson, W. W. (1985) Biochim. Biophys. Acta 808,
+    421-427.
+Breton, J., Martin, J.-L., Migus, A., Antonetti, A., and Orszag, A. (1986) Proc. Natl.
+    Acad. Sci. USA 83, 5121-5125.
+Bricogne, G. (1976) Acta Crystallogr. A 32, 832-847.
+Bryant, D. A., Guglielmi, G., Tandeau de Marsac, N., Castets, A.-M. & Cohen-
+    Bazire, G. (1979) Arch. Microbial. 123, 113-127.
+Burkert, U., Allinger, N. L. (1982) Molecular Mechanics, American Chemical
+    Society.
+Calvin, M. and Bassham, J. A. (1962) in: The Photosynthesis of Carbon Compounds,
+    Benjamin, New York, pp. 1-127.
+Carithers, R. P., and Parson, W. W. (1975) Biochim. Biophys. Acta 387, 194-211.
+Case, G. D., Parson, W. W., and Thomber, J. P. (1970) Biochim. Biophys. Acta 223,
+    122-128.
+Chang, C.-H., Tiede, D., Tang, J., Smith, U., Norris, J., Schiffer, M. (1986) FEBS
+    Lett. 205, 82-86.
+Chothia, C. (1984) Ann. Rev. Biochem. 53, 537-572.
+Cogdell, R. J. and Crofts, A. R. (1972) FEBS Lett. 27,176-178.
+Cohen-Bazire, G. & Briant, D. A. (1982) in: The Biology of Cyanobacteria (Cat-r, N.
+    G. & Whitton, B. eds.), Blackwell, London, pp. 143-189.
+Crowther, R. A. & Blow, D. M. (1967) Acta Cryst. 23, 544-548.
+Cramer, W. A., and Crofts, A. R. (1982) in: Electron and Proton Transport in
+    Photosynthesis: Energy Conversion by Plants and Bacteria Vol 1, Academic Press
+    Inc., pp. 387.
+Dawson, C. R. (1966) in: The Biochemistry of Copper (Peisach, J., Aison, P. and
+    Blumberg, W. E., eds.), Academic Press, New York, pp. 305-337.
+Debus, R. J., Feher, G., and Okamura, M. Y. (1986) Biochemistry 25, 2276-2287.
+Deisenhofer, J., Huber, R., Michel, H. (1986) Nachr. Chem. Tech. Lab. 34, 416-
+    422.
+Deisenhofer, J., Steigemann, W. (1975) Acta Cryst. B 31, 238-280.
+Deisenhofer, J., Epp, O., Miki, K., Huber, R., and Michel, H., (1984) J. Mol: Biol.
+    180,385-398.
+Deisenhofer, J., Epp, O.. Miki, K., Huber, R., and Michel, H., (1985) Nature 318,
+    618-624.
+Deisenhofer, J., Michel, H., and Huber, R. (1985a) Trends Biochem. Sci. 10, 243-
+    248.
+
+
+612                                   Chemistry 1988
+
+Deisenhofer, J., Huber, R., Michel, H. (1989) in: Prediction of Protein Structure
+    and the Principles of Protein Conformation (G. D. Fasman, ed.) Plenum Pub.
+    Corp., New York, (in press.).
+DeVault D., and Chance, B. (1966) Biophys. J. 6, 825-847.
+Duerring, M. (1988) Thesis, Technical University, Miinchen.
+Duerring, M., Bode, W., Huber, R., Ruembeli, R., Zuber, H. (1989) to be submit-
+    ted.
+Duerring, M., Huber, R. and Bode W. (1988) FEBS Letters, 236, 167- 170.
+Dutton, P. L., and Prince, R. C. (1978) in: The Photosynthetic Bacteria (R. K. Clay-
+    ton and W. R. Sistrom, eds.), Plenum Press, New York and London, pp. 525-
+    565.
+Eberson, L. (1982) Adv. Phys. Org. Chem. 18, 79-185.
+Engelman, D. M., Steitz, T. A., and Goldman, A. (1986) Ann. Rev. Biophys. Chem.
+    15, 321-353.
+Farver, O., Pecht, I. (1984) in: Copper Proteins and Copper Enzymes (R. Lontie,
+    ed.) 1, CRC Press, Inc., Boca Raton, Florida, pp. 183-214.
+Fischer, E. (1907) J. Chem. Soc. 91, 1749-1765.
+Fleming, G. R., Marti, J. L. and Breton, J. (1988) Nature 333, 190-192.
+Forster, T. (1948) Ann. Physik 2, 55-75.
+Förster, T. (1967) in: Comprehensive Biochemistry (M. Florkin, E. H. Stotz, eds.),
+    Vol 22, pp. 61-80, Elsevier, Amsterdam.
+Frank, G., Sidler, W., Widmer, H. and Zuber, H. (1978) Hoppe-Seyler’s Z. Physiol.
+    Chem. 359, 1491-1507.
+Frommherz, P. and Reinbold, G. (1988) Thin Solid Films 160, 347 - 353.
+Gaykema, W. P. J., Hol, W. G. J., Verijken, J. M., Soeter, N. M., Bak, H. J., and
+    Beintema, J. J. (1984) Nature 309, 23-29.
+Gantt, E., Lipschultz, C.A., Zilinskas, B. (1976) Biochim. Biophys. Acta 430, 375-
+    388.
+Germann, U. A., Müller, G., Hunziker, P. E., Lerch, K. (1988) J. Biol. Chem. 263,
+    885-896.
+Gillbro, T., Sandstrom, A., Sundstrom, V., Wendler, J. and Holzwarth, A. R. (1985)
+    Biochem. Biophys. Acta 808, 52-65.
+Gerwin, B., Burstein, S. R., and Westley, J. (1974) J. Biol. Chem. 249, 2005-2008.
+Glazer, A. N., Fang, S. and Brown, D. M. (1973) J. Biol. Chem. 16, 5679-5685.
+Glazer, A. N. (1985) Ann. Rev. Biophys. Chem. 19, 47-77.
+Grabowski, J. and Gantt, E. (1978) Photochem. Photobiol. 28, 39-45.
+Gray, H. B., and Solomon, E. I. (1981) in: Copper proteins (T. G. Spiro, ed.) J. Wiley
+    & Sons, New York, pp. l-39.
+Gray, H. B., and Malmström, B. G. (1983) Comments Inorg. Chem. 2, 203-209.
+Gray, H.B. (1986) Chem. Soc. Rev. 15, 17-30.
+Gust, D., Moore, T. A., Lidell, P. A., Nemeth, G. A., Makings, L. R., Moore, A. L.,
+    Barrett, D., Pessiki, P. J., Bensasson, R.V., Rougée, M., Chachaty, C., De
+    Schryver, F. C., Van der Anweraer, M., Holzwarth, A. R., and Connolly, J. S.
+    (1987) J. Amer. Chem. Soc. 109, 846-856.
+Guss, J. M., Freeman, H. C. (1983) J. Mol. Biol. 169, 521-563.
+Guss, J. M., Merritt, E.A., Phizackerly, R. P., Hedman, B., Murata M., Hodgson,
+    K. O., Freeman, H. C. (1988) Science 241, 806-811.
+Hajdu, J., Acharya, K. R., Stuart, D.A., Barford, D., and Johnson, L. (1988) Trends
+    Biochem. Sci. 13, 104-109.
+Hains, A. (1975) Acc. Chem. Res. 8, 264-272.
+Harrison, S. C., Olsson, A. J., Schutt, C. E., Winkler, F. K., Bricogne, G. (1978)
+    Nature (London) 276, 368-373.
+Hendrickson, W. A., Smith, J. L., Phizackerly, R. P., Merritt, E. A. (1988) Proteins 4,
+    77-88.
+
+
+                                       R. Huber                                   613
+
+ Hefferle, P., Nies, M., Wehrmeyer, W. and Schneider, S. (1983) Photobiochem.
+    Photobiophys. 5, 41-51.
+ Henderson, R. and Unwin, P. N. T. (1975) Nature 257, 28-32.
+ Higuchi, Y., Kusunoki, M., Matsuura, Y., Yasuoka, N., Kakudo, M. (1984) J. Mol.
+    Biol. 172, 109-139.
+ Hogle, J. M., Chow, M., Filman, D. J. (1985) Science 229, 1358-1365.
+ Holm, L., Saraste, M., and Wikström, M. (1987) EMBO J. 6, 2819-2823.
+ Holten, D., Windsor, M. W., Parson, W. W. and Thomber, J. P. (1978) Biochem.
+    Biophys. Acta 501, 112-126.
+ Holzwarth, A. R. (1985) in: Antennas and Reaction Centers of Photosynthetic Bacte-
+    ria (Michel-Beyerle, M. E., ed.), Springer-Verlag, Berlin, pp. 45-52.
+ Holzwarth, A. R. (1986) Photochem. Photobiol. 43, 707-725.
+ Hopfield, J. J. (1974) Proc. Natl. Acad. Sci. USA 71, 3640-3644.
+ Hoppe, W. (1957) Acta Cryst. 10, 750-751.
+ Huber, R. (1965) Acta Cryst. 19, 353-356.
+Huber, R. (1985) in: Molecular Replacement. Proceedings of the Daresbury Study
+    Weekend (P. Machin, ed.) Daresbury Laboratory, pp. 58-61.
+ Huber, R., Kukla, D., Bode, W., Schwager, P., Bartels, K., Deisenhofer, J., Steige-
+    mann, W. (1974) J. Mol. Biol. 89, 70-101.
+Huber, R. (1984) in: Behring Institute Mitteilungen 76, 1-14 (Gronski, P., Seiler,
+    F. R., eds.), Die Medizinische Verlagsgesellschaft mbH, Marburg.
+ Huber, R., Schneider, M., Epp, O., Mayr, I., Messerschmidt, A., Pflugrath, J. and
+    Kayser, H. (1987a) J. Mol. Biol. 195, 423-434.
+Huber, R., Schneider, M., Mayr, I., Müller, R., Deutzmann, R., Suter, F., Zuber,
+    H., Falk, H. and Kayser, H. (1987b) J. Mol.Biol. 198, 499-513.
+Huber, R. (1988) Angew. Chem. Int. Ed. Engl. 27, 79-88.
+Isied, S., Vassilian, A., Magnuson, R., and Schwarz, H. (1985) J. Am. Chem. Soc.
+    107, 7432-7438.
+Jaenicke, R. (1988) in: 39. Mosbacher Kolloquium (E.-L. Winnacker and R. Huber,
+    eds.) pp. 16 - 36, Springer-Verlag, Berlin Heidelberg.
+Jones, A. T. (1978) J. Appl. Cryst. 11, 268-272.
+ Karplus, M., McCammon, J. A. (1981) CRC Crit. Rev. Biochem. 9, 293-349.
+Kavarnos, G. J. and Turro, N. J. (1986) Chem. Rev. 86, 401-449.
+ Kebarle, P., and Chowdhury, S. (1987) Chem. Rev. 87, 513-534.
+ Kirmaier, Ch., Holten, D., and Parson, W. W. (1985) Biochim. Biophys.Acta 810,
+    33-48.
+Kirmaier, Ch., Holton, D., and Parson, W. W. (1985). Biochem. Biophys. Acta 810,
+    49-61.
+Kleffel, B., Garavito, R. M., Baumeister, N., Rosenbusch, J. P. (1985) EMBO J. 4,
+    1589-1592.
+Kleinfeld, D., Okamura, M. Y., Feher, G. (1985) Biochem. Biophys.Acta 809, 291-
+    310.
+Kline, A. D., Braun, W., Wüthrich, K. (1986) J. Mol. Biol. 189, 377-382.
+Knapp, E. W., Fischer, S. F., Zinth, W., Sander, M., Kaiser, W., Deisenhofer, J., and
+    Michel, H. (1985) Proc. Natl. Acad. Sci. USA 82, 8463-8467.
+Kuhn, H. (1970) J.Chem. Phys. 53, 101-108.
+Ladenstein, R., Schneider, M., Huber, R., Bartunik, H.-D., Wilson, K., Schott, K.,
+    Bacher, A. (1988) J. Mol. Biol. 203, 1045-1070.
+Levitt, M., Sharon, R. (1988) Proc. Natl. Acad. Sci. USA 85, 7557-7561.
+Lesk, A. M. and Hardman, K. D. (1982) Science 216, 539-540.
+Lodish, H. F. (1988) Trends Biochem. Sci. 13, 332-334.
+Loebermann, H., Tokuoka, R., Deisenhofer, J., Huber, R. (1984) J. Mol. Biol. 177,
+    531-556.
+Lumry, R., Eyring, H. (1954) J. Phys. Chem. US 58, 110-2.
+
+
+614                                  Chemistry 1988
+
+Lundell, D. J., Williams, R. C. and Glazer, A. N. (1981) J. Biol. Chem. 256, 3580-
+    3952.
+MacColl, R., and Guard-Friar, D. (1987) Phycobiliproteins, CRC Press, Inc., Boca
+    Raton, pp. 157-173.
+Malkin, R. and Malmstrom, B. G. (1970) Adv. Enzymol. 33, 177-243.
+Malmström, B. G. (1978) New Trends, Bio-inorganic Chemistry, pp. 59-77, Acade-
+    mic Press.
+Malmström, B. G. (1982) Ann. Rev. Biochem. 51, 21-59.
+Marcus, R. A. and Sutin, N. (1985) Biochim. Biophys. Acta 811, 265-322.
+Mayo, S. L., Ellis, W. R., Crutchley, R. J. and Gray H. B. (1986) Science 233, 948-
+    952.
+McGoutry, J. L., Peterson-Kennedy, S. E., Ruo, W.Y. and Hoffman, B. M. (1987)
+    Biochemistry 26, 8302-8312.
+McLendon, G. (1988) Acc. Chem. Res. 21, 160-167.
+Messerschmidt, A., Rossi, A., Ladenstein, R., Huber, R., Bolognesi, M., Gatti, G.,
+    Marchesini, A., Petruzzelli, T., Finazzi-Agrb, A. (1989) J. Mol. Biol. 206, 513-
+    530.
+Michel, H., Weyer, K.A., Gruenberg, H., and Lottspeich, F. (1985) EMBO J. 4,
+    1667-1672.
+Michel, H., Epp, O., Deisenhofer, J. (1986b) EMBO J. 5, 2445-2451.
+Michel, H., Weyer, K. A., Gruenberg, H., Dunger, I., Oesterhelt, D. and Lottspeich,
+    F. (1986a) EMBO J. 5, 1149-1158.
+Michel, H., Deisenhofer, J., (1988) Biochemistry 27, l-7.
+Michel-Beyerle, M. E., Plato, M., Deisenhofer, J., Michel, H., Bixon, M., Jortner, J.
+    (1988) Biochem. Biophys. Acta 932, 52-70.
+Mikkelsen, K. V., and Ratner, M. A. (1987) Chem. Rev. 87, 113-153.
+Milks, L.C., Kumar, N. M., Houghten, R., Unwin, N., Gilula, N. B. (1988) EMBO J.
+    7, 2967-2975.
+Mimuro, M., Fliiglistaller, P., Rümbeli, R. and Zuber, H. (1986) Biochim. Bio-
+    phys. Acta 848, 155-166.
+Moore, T. A., Gust. D., Mathis, P., Bialoiq, J.-C., Chachaty, C., Bensasson, R. V.,
+    Land, E. J., Doizi, D., Liddell, P.A., Lehman, W. R., Nemeth, G.A., Moore,
+    A. L. (1984) Nature 307, 630-632.
+Morschel, E., Koller, K.-P., Wehrmeyer, W. &Schneider, H. (1977) Cytobiologie 16,
+    118-129.
+Mondovi, B. and Avigliano, L. (1984) in: Copper Proteins and Copper Enzymes
+    (Lontie, L. ed.) 3, CRC Press Inc., Boca Raton, Florida, pp. 101-118.
+Netzel, T. L., Rentzepis, P. M., Tiede, D. M., Prince, R. C., and Dutton, P. L. (1977)
+    Biochim. Biophys. Acta, 460, 467-479.
+Newcomer, M. E., Jones, T. A., Aqvist, J., Sundelin, J., Eriksson, U., Rask, I. &
+    Peterson, P. A. (1984) EMBO J. 3, 1451-1454.
+Nies, M. and Wehrmeyer, W. (1981) Arch. Microbial. 129, 374-379.
+Ohkawa, J., Okada, N., Shinmyo, A. and Takano, M. (1988) Proc. Nat. Acad. Sci.
+    USA, submitted.
+Ollis, D., Brick, P., Hamlin, R., Xuong, N. G., Steitz, T. A. (1985) Nature 313, 762-
+    766.
+Parson, W. W. (1974) Ann. Rev. Microbial. 28, 41-59.
+Parson, W. W., and Cogdell, R. J. (1975) Biochem. Biophys. Acta 416, 105-149.
+Parson, W. W. (1978) in: The Photosynthetic Bacteria (R. K. Clayton, W. R. Sistrom,
+    eds.) Plenum Press, New York, London, pp. 317-322.
+Parson, W. W., Scherz, A., Warshel, A. (1985) in: Antennas and Reaction Centers of
+    Photosynthetic Bacteria (M. E. Michel-Beyerle, ed.) Springer Verlag, Berlin, pp.
+    122-133,
+Pasman, P., Rob, F., Verhoeven, J. W. (1982) J.Am.Chem.Soc. 104, 5127-5133.
+Pflugrath, J. W., Wiegand, W., Huber, R. & Vertesy, L. (1986) J. Mol. Biol. 189,
+    383-386.
+
+
+                                       R. Huber                                  615
+
+Pierrot, M., Haser, R., Frey, M., Payan, F. & Astier, J.P. (1982) J. Biol. Chem. 257,
+     14341-14348.
+Porter, G., Tredwell, C. J., Searle, G. F. W. and Barber, J. (1978) Biochim. Biophys.
+    Acta 501, 232-245.
+Prince, R. C., Leigh, J. S., and Dutton, P. L. (1976) Biochim. Biophys. Acta 440,
+    622-636.
+Prince, R. C. (1988) Trends Biochem. Sci. 13, 286-288.
+Rapoport, T. A. (1986) CRC Critical Rev. Biochem. 20, 73-137.
+Reinhammar, B. (1984) in: Copper Proteins and Copper Enzymes (Lontie, L. ed.)
+    Vol. 3, pp. 1-35, CRC Press Inc., Boca Raton, Florida.
+Remington, S., Wiegand, G., Huber, R. (1982) J. Mol. Biol. 158, 111-152.
+Richardson, J. S., Thomas, K. A., Rubin, B. H., and Richardson, D. C. (1975) Proc.
+    Natl. Acad. Sci. USA 72, 1349-1353.
+Rossmann, M. G. and Blow, D. M. (1962) Acta Cryst. 15, 24-31.
+Rossmann, M. G., Arnold, E., Erickson, J. W., Frankenberger, E. A., Griffith, J. P.,
+    Hecht, H.-J., Johnson, J. E., Kamer, G., Luo, M., Mosser, A. G., Rueckert, R.,
+    Sherry, B., and Vriand, G. Nature (London) 317, 145-153.
+Ryden, L. (1984) in: Copper Proteins and Copper Enzymes (Lontie, L. ed.) 3,
+CRC Press Inc., Boca Raton, Florida, pp. 34-100.
+Sauer, K., Scheer, H., and Sauer, P. (1987) Photochem. Photobiol. 46, 427-440.
+Scharnagl, C., Köst-Reyes, E., Schneider, S., Köst, H.-P., Scheer, H. (1983) Z.
+    Naturforsch. 38c, 951-959.
+Scheer, H. (1982) in: Light Reaction Path of Photosynthesis (Fong, F. K., ed.)
+    Springer, Berlin, pp. 7-45.
+Schirmer, T., Bode, W., Huber, R., Sidler, W. and Zuber, H. (1985) J. Mol. Biol.
+    184, 257-277.
+Schirmer, T., Huber, R., Schneider, M., Bode, W., Miller, M. and Hackert, M. L.
+    (1986) J. Mol. Biol. 188, 651-676.
+Schirmer, T., Bode, W., and Huber, R. (1987) J. Mol. Biol. 196, 677-695.
+Schirmer, T. & Vincent M. G. (1987) Biochem. Biophys. Acta 893, 379-385.
+Schmidt, J. A., McIntosh, A. R., Weedon, A. C., Bolton, J. R., Connolly, J. S.,
+    Huxley, J. K., and Wasielewski, M. R. (1988) J. Amer. Chem. Soc. 110, 1733-
+    1740.
+Searle, G. F. W., Barber, J., Porter, G., Tredwell, C. J. (1978) Biochem. Biophys.
+    Acta 501, 246-256.
+Siebzehnrübl, S., Fischer, R., and Scheer, H. (1987) Z. Naturforsch. 42i, 258-262.
+Slooten, L. (1972) Biochim. Biophys. Acta 256, 452-466.
+Stark, N., Kuhlbrandt, W., Wildhaber, I., Wehrli, E. & Mühlethaler, K. (1984)
+    EMBO J. 3, 777-783.
+Switalski, S. C., and Sauer, J. (1984) Photochem. Photobiol. 40, 423-427.
+Takahashi, N., Ortel, T. L., Putnam, F. W. (1984) Proc. Natl. Acad. Sci. 81, 390-
+    394.
+Taube, H., and Gould, E. S. (1969) Acc. Chem. Res. 2, 321-329.
+Teale, F. W. J. and Dale, R. E. (1970) Biochem. J. 116, 161-169.
+Trebst, A. (1986) Z. Naturforsch. 41c, 240-245.
+Tronrud, D. E., Schmid, M. F., and Matthews, B. W. (1986) J. Mol. Biol. 188, 443-
+   454.
+Weber, P. C., and Salemme, F. R. (1980) Nature (London) 287, 82-84.
+Weber, E., Papamokos, E., Bode, W., Huber, R., Kato, F., Laskowski, M. (1981) J.
+   Mol. Biol. 149, 109-123.
+Wendler, J., Holzwarth, A. R., Wehrmeyer, W. (1984) Biochem. Biophys. Acta 765,
+   58-67.
+Weyer, K. A., Lottspeich, F., Gruenberg, H., Lang, F., Oesterhelt, D., and Michel,
+   H. (1987) EMBO J. 6, 2197-2202.
+
+
+616                                Chemistry 1988
+
+
+Woodbury, N. W., Becker, M., Middendorf, D., and Parson, W. W. (1985) Biochem-
+    istry 24, 7516-7521.
+Wraight, C. A. (1982) in: Function of Quinones in Energy Conserving Systems (B. L.
+    Trumpower, ed.) Academic Press, London, pp, 181-197.
+Yamazaki, I., Mimuro, M., Murao, T., Yamazaki, T., Yoshihara, K., Fujita, Y. (1984)
+    Photochem. Photobiol. 39, 233-240
+Zickendraht-Wendelstadt, B., Friedrich, J., and Rüdiger, W. (1980) Photochem.
+    Photobiol. 31, 367-376.
+Zilinskas, B. A. and Greenwald, L. S. (1986) Photosynth. Res. 10, 7-35.
+Zuber, H. (1985) Photochem. Photobiol. 42, 821-844.
+Zuber, H. (1986) Trends Biochem. Sci. 11, 414-419.
+

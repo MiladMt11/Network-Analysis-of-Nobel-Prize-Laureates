@@ -1,0 +1,560 @@
+                             A . F . HU X L E Y
+
+
+         The quantitative analysis of excitation
+               and conduction in nerve
+                      Nobel Lecture, December 11, 1963
+
+
+Professor Hodgkin has told you how he was influenced as an undergraduate
+by the writings of four Fellows of Trinity College, Cambridge. I too was an
+undergraduate at Trinity, but by the time I was taking physiology seriously,
+in my final year in 1938-1939, there was yet another Fellow of the College
+who influenced me even more directly than the ones mentioned by Hodgkin,
+and that was Hodgkin himself. He was one of my teachers during that year,
+and my first introduction to research was the short period that we spent
+together at the Marine Biological Laboratory at Plymouth in the summer of
+1939, when we succeeded in recording the resting and action potentials of the
+giant nerve fibre of the squid with an internal microelectrode. This work was
+brought to a stop by the war, but we joined up again at Cambridge early in
+1946, and almost the whole of my share in the work for which the prize was
+given was done jointly with him during the succeeding five or six years.
+
+
+
+
+Hodgkin has spoken about the ionic theory of the nerve impulse from a broad
+point of view, and I propose to go into greater detail on the quantitative
+aspects of the theory that we developed. The measurements on which this was
+based were made by a feed-back method which has become known as the
+"voltage clamp"1. In this, a pair of wires is introduced along the axis of the
+giant nerve fibre, as shown diagrammatically in Fig. 1. The potential differ-
+ence across the membrane is measured between one of these wires and an
+electrode in the sea water just outside the fibre, while the other wire is used
+for passing current through the membrane to another external electrode. The
+voltage wire is connected to the input of an amplifier whose output goes to the
+current wire, the direction of the connections being such that any accidental
+change of membrane potential is almost completely annulled by the current
+that the amplifier sends through the membrane. Rectangular pulses can also
+
+
+          EXCITATION AND CONDUCTION IN NERVE                                       53
+
+
+
+
+water, and the horizontal lines represent partitions in a box made of insulating material
+which guided the current flow. Potential difference across membrane measured between
+wires b and c; current passed from wire a to electrode e. Current through middle section
+of nerve measured as potential drop in sea water between wires c and d. From Hodgkin
+                                   et al. I.
+
+be fed into the amplifier through a second input. When this is done, the
+amplifier automatically sends through the current wire whatever current may
+be needed to make the membrane potential undergo step-wise changes pro-
+portional to those which are applied through the second input. This current
+is then displayed on a cathode-ray oscilloscope and photographed.
+   The net result is the same as would be obtained if a single ideal electrode was
+
+
+54                           1963 A . F . H U X L E Y
+
+placed inside the f1bre and connected to a low-impedance source of voltage
+steps, and the current is recorded. A method of this kind was indeed tried by
+Cole and Marmont2 in 1947, and gave useful results, but it is not suitable for
+quantitative work because the current density that the electrode has to pass is
+really quite large and no one has yet made an electrode that is sufficiently free
+from polarisation troubles.
+
+
+           Analysis of the Currents Through the Nerve Membrane
+
+In order to create a nearly instantaneous change in the potential difference
+across the membrane, the membrane capacity has to be charged or discharged
+by the passage of a substantial quantity of electricity in a very short time. This
+pulse of capacity current can be recorded by the voltage-clamp method, but
+in the figures reproduced here most of it cannot be seen because of its rapid
+rise and fall, and very short total duration, which is only a few microseconds.
+Analysis of these pulses has confirmed the existence of thecapacity in the mem-
+brane of about 1 microfarad per square centimetre which had been demon-
+strated many years earlier with alternating current methods by Curtis and
+Cole3. Our present concern is however with the currents which flow in the
+first few rnillisconds after the completion of this capacity current, while the
+membrane potential is held constant by the feedback system.
+   The general features of these components of the current are illustrated in
+Fig. 2. The right- hand side of the figure shows that when the normal potential
+difference across the membrane is increased by 40 mV (inside made more
+negative), the currents are very small. They are barely visible at the ampli-
+fication used in these records, but with more gain it is found that the current is
+always inwards, i. e. in the same direction as if the membrane obeyed Ohm’s
+law. But where the inside of the fibre is made more positive by an equal
+amount (left-hand column), the currents are of a larger order ofmagnitude;
+further, if the frbre is in seawater (as in record C) there is a conspicuous early
+phase in which the direction of the current is against the change of membrane
+potential. If it were not for the feedback, this current would drive the inside
+of the fibre still more positive, that is to say, it would produce the rising phase
+of an action potential; similarly, the late phase of outward current is clearly a
+manifestation of the process responsible for the falling phase. The evidence
+derived from quite different experiments that Professor Hodgkin has already
+presented thus suggested that the inward phase of current was carried pre-
+
+
+                EXCITATION                               AND                         CONDUCTION                                                      IN              NERVE                                                                           55
+
+      +U)mv..    .   .   .   .   .   -   .       .       .       .       .       .       .       .       .       .   .   .   .   .       .   .   .       .       .       .       .       .       .       .       .       .       .       .       .       .
+
+
+            A   -        .   .   .   .   .   .       .       .       .       .       .       .       .       .       .   -           .       .   .   .       .       .       .       .       .       .       .       .       .       .       .       .
+
+
+
+      -g)fiv .......................................
+
+
+ +,.mA./cm.‘.    ......................................
+
+
+
+
+ _,   ,,,&,,~‘. .....................................
+
+ +l   &,/cm.‘. . . . . . . .                                                                                             . . . :.. . . . . . . .._. ._
+
+                                             ..... . ..... -,
+
+ -1   ,,,A./c,,,.‘. ......................................
+
+ +1   m&/cm.‘. _ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+
+
+ -1   m&n.‘. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+
+
+Fig. 2. Currents recorded during operation of the voltage clamp. Right, when potential
+differrence across membrane is increased from the resting value; left, when it is decreased.
+(A) internal potential, measured from its resting level. (B) currents with axon immersed
+in sea water with 90% of its NaCl replaced by choline chloride. (C) axon in sea water.
+(D) again in same solution as B. Temperature, 8.5°C. Outward current is plotted up-
+                                         wards.
+
+
+dominantly by sodium ions, moving under the influence of concentration
+differences and the potential difference across the membrane. If so, it should
+disappear when the external sodium concentration is lowered by an appro-
+priate amount. Records B and D show that this is the case.
+   On this interpretation, the early phase ofcurrent should actually be reversed
+if the external sodium concentration is made low enough or if the internal
+potential is made high enough. This does actually occur, as is shown in Fig. 3.
+The curve which separates those with an early inward phase from those with
+an early outward phase evidently has zero sodium current; it defines the
+"sodium potential" at which the effect of the electrical potential difference
+
+
+                                 1963 A. F. HUXLEY
+
+
+
+
+Fig. 3. Membrane currents when the internal potential is raised to values comparable to
+the peak of an action potential. Axon in sea water; temperature 3.5ºC; outward current
+upwards. The records for 91 and 104 mV displacement of membrane potential show a
+phase of inward current, while those at 130 and 143 mV show an early hump in the out-
+ward current. The record at 117 mV shows neither, and it is therefore taken to be very
+close to the sodium equilibrium potential, at which the current carried by sodium is zero.
+                                  From Hodgkin et al. I.
+
+across the membrane just balances the tendency of the sodium ions to diffuse
+from the higher concentration outside to the lower concentration inside. This
+potential was found to vary with the sodium concentration in the external
+fluid, and indeed in exactly the way required by Nernst’s equation. This result
+is perhaps the strongest evidence for the sodium theory, and it justified us in
+separating the current into two components, the earlier of which is carried
+predominantly sodium ions. This was done by comparing records obtained
+with the fibre in solutions with different sodiumconcentrations : the procedure
+is illustrated in Fig. 4. There is evidence of several kinds that the late outward
+current is carried by potassium ions. Perhaps the most convincing is the equiv-
+alence that we found between the potassium efflux, measured with radioactive
+potassium, and the outward current4. This is illustrated in Fig. 5.
+   Each of the voltage-clamp records shown so far was taken with the mem-
+brane potential held constant after the initial step. The next stage in the analysis
+was to find how the two components changed if the membrane potential was
+suddenly altered. The result was unexpectedly simple: each component
+altered instantaneously to a value which depended in a linear manner on the
+new value of the membrane potential, and passed through zero at the "sodi-
+um potential" or the "potassium potential" respectively. This kind of behav-
+iour is what would be given by the circuit shown in Fig. 6: the resistances obey
+
+
+                 EXCITATION AND CONDUCTION IN NERVE                                        57
+
+Ohm’s law as far as concerns the effect of sudden changes in potential, but in
+addition the values of the resistances alter smoothly, in times of the order of a
+millisecond, to give the time courses of current that are shown for example in
+Figs. 2-4.
+    We can thus speak of a sodium conductance and a potassium conductance,
+ both in parallel with the membrane capacity, so that the total current observed
+is the sum of the currents through these channels. There was also a small
+ component of current which obeyed Ohm’s law (with a constant resistance)
+ and was not noticeably affected by changes in the composition of the external
+ fluid. This is represented by the "leak resistance" R l in Fig. 6.
+    The final stage of the analysis was to define the time course with which the
+sodium conductance and the potassium conductancechanged after the mem-
+brane potential had been brought to a new value. The main features to be
+incorporated are shown in Fig. 7. A striking point which for some time we
+
+
+
+
+Fig. 4. Separation of ionic current into components carried by Na and K ions. Curve C,
+representing the sodium current, is the difference between A (toral ionic current) and B
+(Na current brought to zero by lowering external Na concentration). Temperature,
+                               8.5ºC. From Hodgkin et a1. I.
+
+
+58                            1963 A. F. HUXLEY
+
+found difficult to formulate is the fact that each of the conductances rises with
+an S-shaped time course at the start, but falls along something very like a
+simple exponential if the membrane potential is restored to its resting value.
+The manner in which we did in the end represent it is most simply illustrated
+in connection with the potassium system. We defined a quantity n which
+varied with ordinary first-order kinetics: that is to say, for each value of
+membrane potential, there was corresponding equilibrium value of n and
+this equilibrium value was approached exponentially with a time constant
+which was also a function of membrane potential, and there was no discon-
+tinuity in the value of n if membrane potential was changed suddenly. Then
+the forth power of n varies in much the same way as the potassium conductance
+does. In the same way, the time course of the sodium conductance behaves like
+the product m3h, where m varies rather like n but an order of magnitude more
+rapidly, and h also obeys first-order kinetics but changes in the opposite direc-
+tion, i.e. its equilibrium value is smaller the more positive the inside of the fibre
+is made. The equilibrium values and time constants for n, m and h were esti-
+mated from the curves of conductance change, and converted into the equiva-
+
+
+
+
+ Fig. 5. Relation between potassium efflux and membrane current density when outward
+ current is drawn from a Sepia axon. Vertical bars show + 2 x standard error of means.
+                              From Hodgkin and Huxley4.
+
+
+            EXCITATION AND CONDUCTION IN NERVE                                         59
+
+
+
+
+CM
+
+
+
+
+      obey Ohm’s law for rapid changes in the potential difference across the membrane, but
+      change their values in times of the order of a millisecond if the membrane potential is held
+                                    at a new value. RL is constant.
+
+
+      lent pairs of first-order rate constants. Each rate constant-varied according to
+      the membrane potential during the step applied by the voltage clamp, and this
+      dependence was fitted by an empirical equation.
+        This analysis was in fact carried in the sequence I have presented, and the
+     voltage clamp results led directly to the formulation that we gave. But we
+     had thought up many of its features long before the voltage clamp was de-
+     veloped, and even before Hodgkin and Katz5, in the summer of 1947, de-
+     monstrated the part played by sodium in the generation of the action poten-
+     tial. Hodgkin and I spent a good deal of time in the early part of 1947 thinking
+     what kind of system might give rise to an action potential. For the rising phase,
+     we postulated, in the membrane, a system of sodium carriers which had a large
+     dipole moment. In the resting state, the dipoles were held in one position by
+
+
+60                             1963 A. F. HUXLEY
+
+
+
+
+Fig. 7. Time course of changes in sodium and potassium conductance when internal po-
+tential is raised by 56 mV. Temperature, 8.5ºC. The continuous curves are from the
+experiment of Fig. 4 and show the changes of conductance when the potential was
+maintained at the raised value; the broken curves show the effect of restoring the mem-
+        brane potential to its resting value after 0.6 or 6.3 msec. From refs. 8 and 16.
+
+the resting potential difference across the membrane. As the potential dif-
+ference was reduced, the dipoles became free to turn and thus to ferry sodium
+ions across. These carriers were assumed to become subject to "inactivation"
+by reacting relatively slowly, but reversibly, with some substance in the axo-
+plasm when they were in the position opposite to the one they took up in the
+resting state. The outward movement of charge in the falling phase was
+attributed to an increase in the potassium-permeability of the membrane
+which took place with a delay when the membrane potential was reduced; this
+was suggested directly by Cole’s observation6 of this kind of rectification in
+the membrane together with the "inductance" which he had found and had
+attributed to a lag in the establishment of the new resistance after the mem-
+brane potential had been changed. Using these assumptions we computed the
+time courses of membrane-potential change that would be caused by the ion
+movements, and after a good deal of trial and error we found that plausible-
+looking action potentials resulted when appropriate numerical values were
+inserted. A propagated action potential computed in May 1947 incorporated
+the main features that emerged two or three years later from the voltage-
+clamp analysis: reduction of membrane potential caused (a) a rapid rise of
+
+
+            EXCITATION AND CONDUCTION IN NERVE                               61
+
+sodium permeability, (b) a slower decay of sodium permeability as the carrier
+became inactivated, and (c) a delayed rectification due to a rise in potassium
+permeability. Features of the voltage-clamp results that we did not anticipate
+were the finite delay in the rise of sodium permeability and the S-shaped
+curve of potassium permeability increase; the form of the variations of
+permeability with membrane potential was of course also different from what
+we had assumed in 1947.
+
+
+
+
+ Returning to the voltage-clamp analysis, the procedure that I have described
+ led to a set of equations which described the time course of current through
+ the membrane when the potential difference across it was changed in a step-
+ wise manner. It was clear that the formulation we had used was not the only
+ one that might have fitted the voltage-clamp results adequately, and it was
+ by no means a foregone conclusion that the same equations would describe
+ the behaviour of the membrane under its normal conditions of operation,
+ where the ionic currents bring about changes of membrane potential instead
+ of being drawn off by the feed- back amplifier. We therefore calculated the
+ responses of our mathematical representations of the nerve membrane to the
+ equivalent of an electrical stimulus. Some of the computations of this kind
+ that we made in 1951 are shown in Figs. 8-14. They included the "membrane
+ action potential", i. e. an action potential in which all parts of the membrane
+ are active synchronously; the propagated action potential; the impedance
+ changes and the total movements of sodium and potassium-into and out of the
+ fibre in these action potentials; recovery during the relativerefractory period;
+ anode break excitation; and the oscillatory response of the membrane to a
+ rectangular pulse of current. All these results were published8 in 1952 and
+ showed a surprisingly good agreement with the behaviour of the real giant
+ axon of the squid.
+   The computations so far described were done by hand. This was a laborious
+business: a membrane action took a matter of days to compute, and a prop-
+agated action potential took a matter of weeks. But it was often quite ex-
+citing. For example, when calculating the effect of a stimulus close to the
+threshold value, one would see the forces of accommodation-inactivation of
+the sodium channel, and the delayed rise of potassium permeability-creeping
+up and reducing the excitatory effect of the rapid rise of sodium permeability.
+
+
+   62                                1963 A.F.HUXLEY
+
+
+
+
+Fig. 8. "Membrane" action potentials, i.e. responses in which all the length of the fibre is
+active synchronously. Top: computed; bottom, observed. Temperature, 6.3ºC. From
+                                            ref. 8.
+
+
+
+
+Fig. 9. Propagated action potentials. Top, computed; bottom, observed. Temperature,
+                                 18.5ºC From ref. 8.
+
+
+          EXCITATION AND CONDUCTION IN NERVE                                       63
+
+
+
+
+Fig. 10. Changes of sodium and potassium conductances (full lines and scale at left) during
+a propagated action potential (membrane potential change shown dotted; scale on right).
+                   Computed for temperature of 18.5ºC. From ref. 8.
+
+
+
+
+Fig. 11. Changes in total conductance of the membrane during an action potential. (A)
+computed. Broken line, membrane action potential, 6ºC; full line, total membrane
+conductance. (B ) records ofpropagated action potential (dots) and conductance change,
+                reproduced from Cole and Curtis7. From refs. 7 and 8.
+
+
+   64                              1963 A. F. HUXLEY
+
+
+
+
+Fig. 12. Recovery during the refractory period. Membrane responses: upper part, com-
+puted for 6.3ºC; lower part, records from an actual nerve, 9°C. Time scales differ by a
+factor appropriate to the temperature difference. A and E, responses in resting nerve to
+weak and strong stimuli respectively; B-D, responses to stimulus of same strength as in
+                            E at various times after A. From ref. 8.
+
+
+Would the membrane potential get away into a spike, or die in a subthreshold
+oscillation? Very often my expectations turned out to be wrong, and an
+important lesson I learnt from these manualcomputations was the complete
+inadequacy of one’s intuition in trying to deal with a system of this degree of
+complexity.
+    Later on, we extended the range of our calculated responses by using the
+ electronic computers EDSAC I and EDSAC II in the Mathematical Labora-
+ tory of Cambridge University. The first case we dealt with in this way 9 was
+ the effect of lowered calcium concentration. Frankenhaeuser and Hodgkin10
+ in 1957 had shown with the voltage clamp that the main effect of changing the
+ calcium concentration was to shift along the membrane potential axis all the
+functions which govern the permeability changes. Incorporating this change
+ alone into the equations made the computer deliver a variety of oscillatory
+ responses that were closely similar to the responses of real nerve fibres in low-
+
+
+          EXCITATION AND CONDUCTION IN NERVE
+
+
+
+
+Fig. 13. Anode break responses. Above: computed, 6.3%; below, record from a real
+nerve, 18.5ºC. Time scales differ by a factor appropriate to the temperature difference.
+In each case, a long-lasting steady current lowering the internal potential below its
+                 resting value is terminated at time zero. From ref. 8.
+
+
+
+
+Fig. 14. Responses of the membrane to a constant current, uniformly applied. (A) com-
+puted; (B1) and (B2)ob served, for currents of + I.49 PA/cm2 and - 1.49 PA/cm*
+                           respectively. 19°C. From ref. 8.
+
+
+66                              1963 A. F. HUXLEY
+
+calcium solutions. An example is shown in Fig. 15, where a single anodal
+shock starts off a series of increasing oscillations which build up into repetitive
+action potentials.
+   Later, we calculated the propagated action potentials corresponding to
+various temperatures. It was assumed that the only effect of altered tempera-
+ture was to change the rates of the permeability factors with a Q10 of 3; it is
+now known that there are also appreciable changes in the absolute values of
+the ionic currents11 but Fig. 16 shows that the single assumption led to results
+that were strikingly similar to the experimental records that Hodgkin and
+Katz12 had obtained in 1947 from real squid fibres.
+   Another case we computed was the effect of an anodal pulse during the
+action potential itself. Various authors-had shown that such a pulse, if of suf-
+ficient strength, could cause an all-or-none return of the membrane potential
+to approximately its resting level. Fig. 17 shows that the computed action
+potential can be abolished in the same way.
+
+
+
+
+calcium concentration. A small anodal stimulus gives rise to increasing oscillations which
+build up into a series of spikes which is continued indefinitely. Ordinate scale 10 times
+             larger in upper part of figure than in lower part. From ref. 9.
+
+
+        EXCITATION AND CONDUCTION IN NERVE                               67
+
+
+
+
+The other situation we have explored to some extent with EDSAC II is the
+response in a continuous nerve to stimuli of just threshold value applied at one
+point. Some of these computations have required the mathematical represen-
+tation to be set up as a partial differential equation, with the membrane prop-
+erties represented separately for each of a number of points along the length
+of the nerve. Several intriguing results have emerged, but it is not worth
+laying much emphasis on them since the equivalent experiments on the real
+nerve have not been performed, and the situations in question are so unstable
+
+
+mc!
+00                                             Calculated for squid nerve 10.5 ‘C.
+
+
+8 0E
+                                       i ‘\               Pulse strengths in units
+                                                                        of 10S9 coulomb /cm’
+
+
+
+
+20-
+        15
+ O-
+
+o-
+
+ 0                                     I
+        I    I   1     I    I    I     I       I      I     I     I     I     I      I   I      J
+       0                        0.5           mscc.              I.0                           I.5
+
+ 17. Abolition of an action potential by anodal pulses, computed for membrane
+ponse of squid nerve at 18.5°C. Pulses of 90 x 10-9 coulomb/cm2 or less cause only
+mporary drop from the time course of the spike; pulses of 100 x 10-9 coulomb/cm2
+more cause the internal potential to fall to a level close to that reached in the "positive
+                     phase" of the normal spike. From ref. 9.
+
+t it may well be impossible to realise them in practice even if they are pos-
+ e in principle. For example, the equations lead to solutions representing a
+ve, or even a series of waves, of just threshold amplitude, travelling along
+ fibre at much lower velocity than the normal spikers. Also, when a just
+eshold pulse is applied at one point, action potentials may propagate away
+both directions although the membrane potential change at the stimulated
+nt only reaches about 20 mV.
+
+
+                                      Conclusion
+
+e agreement between these computed responses and the potential changes
+ t can be recorded from real nerve fibres is certainly encouraging, but I
+ uld not like to leave you with the impression that the particular equations
+ produced in 1952 are definitive. First, it has been clear all along that these
+uations only cover the rapid events in and immediately after the action
+ ential and they are inadequate for dealing with questions like the mainte-
+nce of the resting potential. Second, Cole and Moore have shown that the
+                                                                   14
+
+
+
+e of potassium conductance can in some conditions be much more delayed
+
+
+             EXCITATION AND CONDUCTION IN NERVE                                      69
+
+than is accounted for by our fourth-power formulation. Thirdly, a recent
+paper by Rosalie Hoyt shows that the sodium conductance change may
+                          1 5
+
+
+
+satisfactorily be represented by a single variable governed by a second-order
+differential equation while in our formulation it was represented by a product
+of two variables each governed by a first order equation. Fourth, Bernhard
+Frankenhaeuser of the Nobel Institute here has achieved the remarkable feat
+of doing voltage-clamp measurements on single nodes of Ranvier in mye-
+linated nerve fibres and has found that there are substantial differences in
+behaviour from the squid giant axon, although the main outlines are the same.
+Both Hodgkin and I feel that these equations should be regarded as a first
+approximation which needs to be refined and extended in many ways in the
+search for the actual mechanism of the permeability changes on the molecular
+scale.
+
+
+
+
+ 1. A. L. Hodgkin, A. F. Huxley and B. Katz, J. Physiol. (London), 116 (1952) 424.
+ 2. G. Marmont, J. Cellular Comp. Physiol., 34 (1949) 351.
+ 3. H. J. Curtis and K. S. Cole, J. Gen. Physiol., 21(1938) 757.
+ 4. A. L. Hodgkin and A. F. Huxley, J. Physiol. (London), 121 (1953) 403.
+ 5. A. L. Hodgkin and B. Katz, J. Physiol. (London), 108 (1949) 37.
+ 6. K. S. Cole, J. Gen. Physiol., 25 (1941) 29.
+ 7. K. S. Cole and H. J. Curtis, J. Gen. Physiol., 22 (1939) 649.
+ 8. A. L. Hodgkin and A. F. Huxley, J. Physiol. (London), 117 (1952) 300.
+ 9. A. F. Huxley, Ann. N. Y. Acad. Sci., 81(1959) 221.
+10. B. Frankenhaeuser and A. L. Hodgkin, J. Physiol. (London), 137 (1957) 218.
+11. J. W. Moore, Federation Proc., 17 (1958) 113.
+12. A. L. Hodgkin and B. Katz, J. Physiol. (London), 109 (1949) 240.
+13. A. F. Huxley, J. PhysioI. (London), 148 (1959) 80P.
+14. K. S. Cole and J. W. Moore, Biophys. J., 1 (1960) 1.
+15. R. C. Hoyt, Biophys. J., 3 (1963) 399.
+16. A. L. Hodgkin, Proc. Roy. Soc. (London), Ser. B, 148 (1957) 1.
+

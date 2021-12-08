@@ -1,0 +1,2792 @@
+              The Molecular Machinery of
+              Neurotransmitter Release
+              Nobel Lecture, 7 December 2013
+
+              by Thomas C. Südhof
+              Dept. of Molecular and Cellular Physiology, and Howard Hughes
+              Medical Institute, Stanford University, USA.
+
+
+
+
+              1. THE NEUROTRANSMITTER RELEASE ENIGMA
+
+              Synapses have a long history in science. Synapses were first functionally demon-
+              strated by Emil duBois-Reymond (1818–1896), were morphologically identified
+              by classical neuroanatomists such as Rudolf von Kölliker (1817–1905) and San-
+              tiago Ramon y Cajal (1852–1934), and named in 1897 by Michael Foster (1836–
+              1907). Although the chemical nature of synaptic transmission was already sug-
+              gested by duBois-Reymond, it was long disputed because of its incredible speed.
+              Over time, however, overwhelming evidence established that most synapses use
+              chemical messengers called neurotransmitters, most notably with the pioneer-
+              ing contributions by Otto Loewi (1873–1961), Henry Dale (1875–1968), Ulf
+              von Euler (1905–1983), and Julius Axelrod (1912–2004). In parallel, arguably
+              the most important advance to understanding how synapses work was provided
+              by Bernard Katz (1911–2003), who elucidated the principal mechanism of syn-
+              aptic transmission (Katz, 1969). Most initial studies on synapses were carried
+              out on the neuromuscular junction, and central synapses have only come to the
+              fore in recent decades. Here, major contributions by many scientists, including
+              George Palade, Rodolfo Llinas, Chuck Stevens, Bert Sakmann, Eric Kandel, and
+              Victor Whittaker, to name just a few, not only confirmed the principal results
+              obtained in the neuromuscular junction by Katz, but also revealed that synapses
+
+
+
+                                                                                          259
+
+
+
+
+ok.indb 259                                                                                      11/4/14 2:29 PM
+
+
+      260                                                               The Nobel Prizes
+
+
+      exhibit an enormous diversity of properties as well as an unexpected capacity
+      for plasticity.
+           Arguably, the most important property of synaptic transmission is its speed.
+      At most synapses, synaptic transmission lasts for only a few milliseconds. This
+      amazing speed is crucial for the overall workings of the brain—how else could a
+      goalkeeper react to a shot in less than a second, or a ballerina pirouette without
+      crashing to the floor? Synapses differ dramatically from each other in properties
+      such as strength and plasticity, but always operate by the same canonical prin-
+      ciple to achieve this speed, as first elucidated by Bernard Katz. When an action
+      potential travels down an axon, it depolarizes the nerve terminals and opens
+      presynaptic Ca2+-channels. The in-flowing Ca2+ then triggers neurotransmitter
+      release in less than a millisecond, with a delay of possibly less than 100 micro-
+      seconds (Sabatini and Regehr, 1996). Amazingly given this speed, presynaptic
+      neurotransmitter release is mediated by membrane traffic. Presynaptic termi-
+      nals are chock-full with synaptic vesicles—uniformly small organelles with a 35
+      nm diameter—that contain high concentrations of neurotransmitters. Release is
+      triggered when Ca2+ induces the rapid fusion of these vesicles with the presyn-
+      aptic plasma membrane at a specialized region, the so-called active zone. The
+      active zone is located exactly opposite the postsynaptic density containing the
+      neurotransmitter receptors; as a result, neurotransmitters are released directly
+      onto their receptors (Fig. 1).
+           The active zone is the organizing principle that ensures the speed and preci-
+      sion of synaptic transmission. The active zone recruits and docks synaptic vesicles
+      at the release sites, transforms synaptic vesicles into a fusion-competent ‘primed’
+      state that is responsive to Ca2+-triggering of release, and tethers Ca2+-channels
+      next to the docking sites (Südhof, 2012). By co-localizing Ca2+-channels and
+      primed vesicles at the synaptic cleft, the active zone enables the tight coupling
+      of neurotransmitter release to an action potential and directs neurotransmitter
+      release to the synaptic cleft. After exocytosis, synaptic vesicles recycle by differ-
+      ent pathways, including fast endocytic mechanisms that are sometimes referred
+      to as ‘kiss-and-run’ (Ceccarelli et al., 1973), as well as slower endocytic mecha-
+      nisms involving clathrin-coated pits (Heuser and Reese, 1973; Fig. 1).
+           Compared to presynaptic neurotransmitter release, postsynaptic neu-
+      rotransmitter reception is conceptually more straightforward since it is largely
+      mediated by transmitter binding to ligand-gated ion channels. Postsynaptic
+      ionotropic receptors are highly developed molecular machines that are clus-
+      tered opposite to the presynaptic active zone, and quickly convert an extracel-
+      lular neurotransmitter signal into an intracellular ionic signal (Fig. 1). The ap-
+      parent simplicity of postsynaptic mechanisms, however, is deceptive because
+
+
+
+
+ok.indb 260                                                                                   11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release261
+
+
+
+                             Presynaptic
+                                                  Neurotransmitter
+                                             NT            Uptake
+                                                                                  Early Endosome
+
+                                                           1
+                                                                          Neurotransmitter
+                                                                                   Uptake
+                                                                                     NT
+                                                                                                                    H+
+                                                                          1                    Vesicle
+                                              2                                              Acidification
+
+
+                                                                                H+                       8
+
+                                3                                     6                      7
+                                               4
+                                                                                                             clathrin
+                                                                     Ca2+
+                                          Active Zone
+                                                                                       Active Zone
+                                Docking              Priming         Ca2+     Fusion
+                                                                                5
+                    Receptors
+                                                         Postsynaptic Density
+
+
+                                                                                                  Postsynaptic
+
+              Figure 1. The synaptic vesicle cycle. Synaptic vesicles undergo a membrane trafficking
+              cycle in presynaptic terminals that mediates neurotransmitter release. Step 1, vesicles are
+              replenished from endosomes or by recycling after exo- and endocytosis, and are filled
+              with neurotransmitters (NT); Step 2, vesicles are transported to the active zone of the pre-
+              synaptic plasma membrane, where they reside in a cluster ready to be recruited for exo-
+              cytosis; Step 3, vesicles are tethered to the presynaptic active zone in a ‘docking’ reaction
+              that depends on the synaptic vesicle proteins Rab3/27 and the active zone protein RIM
+              (see Fig. 14); Step 4, vesicles are ‘primed’ to render them competent for Ca2+-triggered
+              fusion; Step 5, Ca2+ triggers fusion-pore opening, releasing the neurotransmitters; Steps
+              6–8, vesicles recycle locally immediately after fusion-pore opening (6, ‘kiss-and-stay’), by
+              endocytosis via a rapid pathway that is likely clathrin-independent (7, ‘kiss-and-run’), or
+              by a clathrin-dependent pathway that involves an endosomal intermediate (8). Note that
+              most of the recycling pathways were worked out in classical studies by Heuser and Reese
+              (1973), Ceccarelli et al. (1973), and Zimmermann and Whittaker (1977). Drawing was
+              adapted from Südhof and Jahn (1991) and Südhof (2004).
+
+
+
+              postsynaptic neurotransmitter receptors are subject to complex regulatory
+              processes, including vesicular trafficking, that are incompletely understood.
+              Moreover, postsynaptic signal-transduction pathways are organized in a sophis-
+              ticated and compartmentalized manner that differs between various types of
+              synapses. Considering the simple yet complex canonical design of a chemical
+              synapse, one cannot but marvel at the ingenuity of this design that enables the
+              requisite speed and plasticity of synaptic transmission using specialized pre-
+              and postsynaptic machineries.
+
+
+
+
+ok.indb 261                                                                                                              11/4/14 2:29 PM
+
+
+      262                                                            The Nobel Prizes
+
+
+          When I started my laboratory in 1986, neurotransmitter release had been
+      described in exquisite physiological detail. However, there was no mechanistic
+      understanding, not even a hypothesis, of how synaptic vesicles might fuse, how
+      Ca2+ could possibly trigger such fusion so rapidly, and how the release machin-
+      ery is organized by the presynaptic active zone. No molecular component of the
+      release machinery had been characterized, and no conceptual framework was
+      available to explain the extraordinary plasticity and precision of Ca2+-triggered
+      release. I focused on these questions, as opposed to studying postsynaptic neu-
+      rotransmitter reception, because I was mesmerized by the apparent incompre-
+      hensibility of the speed of Ca2+-triggered release, and intrigued by the general
+      implications of understanding release for other membrane-trafficking reactions,
+      such as hormone secretion.
+          In the following, I will provide a brief personal overview of what we found.
+      I will present our work in the context of that of others which was indispensable
+      for our progress, but given space constraints I will not be able to do justice to
+      the many important contributions made by others. We performed our studies as
+      part of a larger scientific community working on this problem, and I will try to
+      provide as balanced an account of the field as I can within my space allowance.
+
+
+      2. MOLECULAR ANATOMY OF THE PRESYNAPTIC TERMINAL
+
+      When we started, we chose a simple approach to the understanding of neu-
+      rotransmitter release: to isolate and clone all major proteins of presynaptic ter-
+      minals. Largely in collaboration with Reinhard Jahn, we first focused on synap-
+      tic vesicles because they could be obtained at high yield and purity (Whittaker
+      and Sheridan, 1965; Südhof and Jahn, 1991). Later on, we expanded this ap-
+      proach to the presynaptic active zone. With these initial experiments, we aimed
+      to assemble a molecular catalogue of presynaptic proteins as a starting point for
+      a functional dissection of release.
+           The first synaptic vesicle proteins we purified and cloned were synapto-
+      physin (Südhof et al., 1987), cytochrome b561 (Perin et al., 1988), synapsins
+      (Südhof et al., 1989a), synaptobrevins (Südhof et al., 1989b; also independently
+      cloned by R.H. Scheller and named vesicle-associated membrane protein
+      [VAMP]; Trimble et al., 1988), proton pump components (Südhof et al., 1989c;
+      Perin et al., 1991), and synaptotagmins (Perin et al., 1990; Geppert et al., 1991;
+      Li et al., 1995). In addition, we found that Rab3 proteins, the brain’s most abun-
+      dant GTP-binding proteins originally identified as ras-homologous sequences
+      (Touchot et al., 1987), are associated with synaptic vesicles (von Mollard et al.,
+
+
+
+
+ok.indb 262                                                                                11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release263
+
+
+
+
+                                                                                      Südhof and Jahn, 1991
+
+
+              Figure 2. Diagram of synaptic vesicle proteins involved in neurotransmitter release as seen
+              in 1991. At the beginning of the effort to map the molecular anatomy of synaptic vesicles,
+              five major classes of synaptic vesicle proteins were identified: the synapsins that were at
+              that time thought to be major candidates for regulating neurotransmitter release (Süd-
+              hof et al., 1989a), Rab3 proteins (von Mollard et al., 1990), synaptophysins (Südhof et
+              al., 1987), synaptotagmins (Perin et al., 1990), and synaptobrevins/VAMPs (Südhof et
+              al., 1989b). Of these proteins, three classes (Rab3, synaptotagmins, and synaptobrevins)
+              turned out to be crucial for release in subsequent studies (reproduced from Südhof and
+              Jahn, 1991).
+
+
+
+              1990), and that Rab3 proteins cycle on and off synaptic vesicles during exocyto-
+              sis (von Mollard et al., 1991).
+                   Thus, in the beginning of the 1990s a fairly comprehensive characterization
+              of the synaptic vesicle as an organelle had emerged (Südhof and Jahn, 1991; Fig.
+              2). Subsequently, we and others cloned a series of additional vesicle proteins, in-
+              cluding SVOP (Janz et al., 1998) and SCAMPs (Fernandez-Chacon et al., 2000).
+              Furthermore, we expanded our attempts to molecularly characterize the release
+              machinery to the active zone, and identified Munc18s (Hata et al., 1993), com-
+              plexins (McMahon et al., 1995), Munc13s (Brose et al., 1995), CASK (Hata et al.,
+              1996), RIMs (Wang et al., 1997), RIM-BPs (Wang et al., 2000), and ELKS (Wang
+              et al., 2002; independently described by Ohtsuka et al., 2002). These studies were
+              complemented by those of others identifying as active-zone proteins α-liprins
+
+
+
+
+ok.indb 263                                                                                                   11/4/14 2:29 PM
+
+
+      264                                                              The Nobel Prizes
+
+
+      (Zhen and Jin, 1999), bassoon (tom Diek et al., 1998) and piccolo (Wang et al.,
+      1999; Fenster et al., 2000).
+           After having elucidated the primary structures of a growing number of syn-
+      aptic proteins, we faced the challenge of determining their functions. We decided
+      to examine these molecules broadly in an un-biased manner as systematically
+      as possible, and used a combination of methods ranging from biochemistry and
+      cell biology to structural biology, mouse genetics, and electrophysiology.
+           As I will describe in the following account, these studies enabled a new un-
+      derstanding of neurotransmitter release. However, not all efforts were produc-
+      tive, and not all abundant and conserved synaptic proteins were found to be im-
+      portant. For example, prominent proteins such as synapsins and synaptophysins
+      turned out to have only ancillary roles in the synaptic vesicle cycle that may be
+      important for the overall organism, but are not essential for the basic process of
+      synaptic vesicle exo- and endocytosis (e.g., Rosahl et al., 1993 and 1995; Janz et
+      al., 1999).
+           In the following description, I will divide neurotransmitter release into three
+      processes, membrane fusion as the basic mechanism that mediates release by
+      synaptic vesicle exocytosis, Ca2+-triggering as the key event that enables fast
+      synaptic transmission, and the spatial organization of the release machinery by
+      the active zone that allows precise coupling of a presynaptic action potential to
+      a postsynaptic response.
+
+
+
+      3. MECHANISM OF SYNAPTIC MEMBRANE FUSION
+
+      SNARE Proteins in Fusion
+      The first insights into how synaptic vesicles fuse with the presynaptic plasma
+      membrane during neurotransmitter release came from studies of tetanus and
+      botulinum toxins. These neurotoxins, which as disease agents cause tetanus and
+      botulism but also have great therapeutic value, are among the most powerful
+      neurotoxins known (Grumelli et al., 2005). Tetanus and botulinum toxins are
+      metalloproteases that block neurotransmitter release at nanomolar concentra-
+      tions by arresting the fusion of synaptic vesicles with the presynaptic plasma
+      membrane.
+          In 1992, studies in Cesare Montecucco’s, Heiner Niemann’s, and Reinhard
+      Jahn’s laboratories—to which we contributed—showed that tetanus toxin and
+      botulinum B toxin block synaptic vesicle fusion by proteolytic cleavage of Syn-
+      aptobrevin-2/VAMPs (Link et al., 1992; Schiavo et al., 1992). In the following
+      year, the same laboratories showed that other types of botulinum toxins cleave
+
+
+
+
+ok.indb 264                                                                                  11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release265
+
+
+              two other presynaptic membrane proteins, SNAP-25 and Syntaxin-1 (Blasi et
+              al., 1993a and 1993b; Schiavo et al., 1993). Moreover, we demonstrated that a
+              ubiquitously distributed synaptobrevin isoform (Cellubrevin) is also a tetanus
+              toxin substrate, suggesting that the inhibition of vesicle fusion by tetanus toxin-
+              dependent cleavage of Synaptobrevin-2 reflects a general function of synapto-
+              brevin-like molecules in membrane fusion (McMahon et al., 1993). Together,
+              these findings provided the first, and arguably still most compelling evidence
+              that Synaptobrevin-2, SNAP-25, and Syntaxin-1 are essential components of the
+              presynaptic membrane fusion machinery. As we will see now, evidence about
+              how these proteins, later named SNARE proteins (for ‘soluble NSF-attachment
+              protein receptors’), might work came from parallel studies in James Rothman’s
+              laboratory.
+                   Rothman had been studying membrane fusion by biochemically reconstitut-
+              ing vesicular traffic between compartments of the Golgi apparatus (Balch et al.,
+              1984). Using this assay, Rothman isolated an N-ethyl maleimide-sensitive factor
+              (referred to as NSF) and NSF-adaptor proteins that attach NSF to membranes
+              (referred to as SNAPs, an unfortunate coincidence of acronyms with SNAP-25).
+              Both NSF and SNAPs were essential for in vitro fusion in Rothman’s assay, and
+              were found to be homologous to yeast genes involved in secretion, suggesting
+              a fundamental function in membrane traffic (Wilson et al., 1989; Clary et al.,
+              1990). In a crucial study, Rothman’s laboratory then used immobilized NSF
+              and SNAPs as an affinity matrix to purify SNAP ‘receptors’ (i.e., SNAREs) from
+              brain because brain was the richest source of such receptors. He isolated Syn-
+              aptobrevin-2, Syntaxin-1 and SNAP-25, just as these proteins were revealed to
+              be tetanus and botulinum toxin substrates (Söllner et al., 1993a). Subsequently,
+              Rothman went on to show in collaboration with Richard Scheller that Synap-
+              tobrevin-2, Syntaxin-1, and SNAP-25 formed a complex with each other, and
+              that this complex is dissociated by NSF which acts as an ATPase (Söllner et
+              al., 1993b). This brilliant experiment provided an explanation for how these
+              proteins might work in fusion, although it took many more years to formulate
+              a compelling mechanism for their fusion function. Collaborating with Heiner
+              Niemann, we found that SNARE complexes are SDS-resistant and extremely
+              tight, and that only the SNARE complex but not individual SNARE proteins
+              binds to SNAPs and NSF, while only free SNARE proteins but not SNARE pro-
+              teins in the complex are substrates for botulinum and tetanus toxins (Hayashi et
+              al., 1994; McMahon et al., 1995a).
+                   Viewed together, these studies suggested to us that formation of SNARE
+              complexes between the synaptic vesicle and presynaptic plasma membranes
+              may mediate fusion, but the mechanism of fusion was unclear. One hypothesis
+
+
+
+
+ok.indb 265                                                                                         11/4/14 2:29 PM
+
+
+      266                                                              The Nobel Prizes
+
+
+      was that NSF and SNAPs are the actual fusion proteins, and that SNARE pro-
+      teins ensure the specificity of the fusion reaction mediated by NSF and SNAPs
+      by acting as their receptors after SNARE complexes have assembled (Söllner
+      et al., 1993a and 1993b). An alternative idea that we favored was motivated by
+      the botulinum and tetanus toxin data, and stated that SNARE proteins, espe-
+      cially synaptobrevin, are actually directly involved in fusion, although we did
+      not know by what mechanism (Südhof et al., 1993).
+          Two subsequent key experiments clarified the question whether NSF/
+      SNAPs or SNAREs are the actual membrane-fusion proteins. First, Bill Wick-
+      ner’s laboratory elegantly showed in yeast vacuole fusion assays that yeast NSF
+      does not function in fusion, but is only required to activate SNARE proteins for
+      fusion and to recycle the SNARE machinery after fusion (Mayer et al., 1996).
+      Second, in a seminal experiment Reinhard Jahn and John Heuser demonstrated
+      that SNARE complexes assemble in a parallel manner, such that SNARE-com-
+      plex assembly forces the C-terminal transmembrane regions of SNARE proteins
+      into close proximity (Hanson et al., 1997). This key observation by Heuser and
+      Jahn provided an immediate model for how SNARE proteins may mediate fu-
+      sion, namely by zippering up in an N- to C-terminal direction, thereby forcing
+      membranes that contain their C-terminal transmembrane regions into close
+      proximity. This model was quickly confirmed using biophysical studies and
+      crystallography (Lin and Scheller, 1997; Poirier et al., 1998, Sutton et al., 1998),
+      and further elaborated by Rothman and others using in vitro reconstitution ex-
+      periments with liposomes (Weber et al., 1998). It is now the standard model of
+      the field.
+
+
+      SM proteins are obligatory SNARE partners in membrane fusion
+      In 1993, just at the time at which SNARE proteins were being discovered as
+      membrane fusion proteins, we searched for other components of the fusion ma-
+      chinery using affinity chromatography on immobilized Syntaxin-1 (Hata et al.,
+      1993). We isolated a 65 kDa protein that we named Munc18-1 because of its
+      sequence homology to the C. elegans unc18 gene (Fig. 3A). Sidney Brenner had
+      isolated unc18-mutants because the mutant worms did not move properly (were
+      ‘uncoordinated’), but the function of the unc18 gene was unknown (Brenner,
+      1974). However, because Munc18 bound to the SNARE membrane-fusion ma-
+      chinery and because C. elegans unc18 was essential for movement, we hypoth-
+      esized that Munc18-1 was an intrinsic component of the fusion machinery, and
+      co-operates with SNARE proteins in fusion (Fig. 3A).
+
+
+
+
+ok.indb 266                                                                                  11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release267
+
+
+                   Further analyses revealed that Munc18-1 was also homologous to sec1,
+              which was the first gene isolated by Peter Novick and Randy Schekman in
+              screens for secretory yeast mutants, but whose function, like that of the previ-
+              ously described unc18, was unknown (Novick and Schekman, 1979). In fact,
+              this homology led some investigators to refer to Munc18-1 as n-sec1 or rb-sec1
+              (Garcia et al., 1994, Pevsner et al., 1994). Multiple additional homologs of Sec1p
+              and Munc18 were subsequently described, and the whole gene family is now
+              referred to as Sec1/Munc18-like proteins (SM proteins; Rizo and Südhof, 2012).
+                   After the discovery of Munc18-1, considerable confusion reigned about its
+              function, fueled by paradoxical observations. On the one hand, in yeast sec1
+              mutations blocked fusion (Novick and Schekman, 1979), in Drosophila dele-
+              tion of the Munc18-1 gene (rop) abolished synaptic transmission (Harrison
+              et al., 1994), and in mice knockout of Munc18-1 ablated neurotransmitter re-
+              lease (Verhage et al., 2000; Fig. 3B). These results suggested an essential role for
+              Munc18-1 in fusion itself, a hypothesis that was further supported by Novick’s
+              elegant studies demonstrating that yeast Sec1p binds to assembled SNARE com-
+              plexes (Carr et al., 1999), and acts downstream of SNARE-complex assembly
+              (Grote et al., 2000). On the other hand, we found that outside of the SNARE
+              complex, Syntaxin-1 assumes a ‘closed’ conformation in which its N-terminal
+              Habc-domain folds back on its SNARE-motif, and that Munc18-1 specifically
+              binds to this closed conformation of Syntaxin-1 (Dulubova et al., 1999). Habc-
+              domains are a conserved feature of syntaxins, and account for half of their se-
+              quences, while the SNARE motifs of synaxins form SNARE complexes by as-
+              sembling with similar SNARE motifs in synaptobrevins and SNAP-25 or their
+              homologs into a four-helical bundle (Fig. 3C; Fernandez et al., 1998; Sutton et
+              al., 1998). As a result, the intramolecular interaction in the closed Syntaxin-1
+              conformation of the N-terminal Habc-domain with the SNARE motif prevents
+              Syntaxin-1 from assembling into SNARE complexes, suggesting that Munc18-1
+              may be a negative regulator of SNARE-complex assembly. Thus, paradoxically at
+              this junction Munc18-1 seemed to be at the same time essential for fusion itself
+              and preventing fusion by blocking SNARE-complex assembly.
+                   We found a resolution to this apparent contradiction when we observed
+              in collaboration with Josep Rizo that both in vertebrates and in yeast, the SM
+              protein involved in vesicular transport from the endoplasmic reticulum to the
+              Golgi apparatus (Sly1) binds to its cognate syntaxins (Syntaxin-5 and -18 in
+              vertebrates, and Sed5p and Ufe1p in yeast) via a short, conserved N-terminal
+              peptide (the ‘N-peptide’; Yamaguchi et al., 2002; Figs. 3C and 3D). We also
+              found that the same mechanism applies to another SM protein—Vps45—that
+
+
+
+
+ok.indb 267                                                                                          11/4/14 2:29 PM
+
+
+      268                                                                   The Nobel Prizes
+
+
+        A      Munc18-1 as part of the membrane fusion machinery
+
+
+
+
+                                                         Hata et al., 1993
+
+        B              Analysis of Munc18-1 knockout mice
+
+
+
+
+                                                   Verhage et al., 2000
+
+        C                    Syntaxin domain structure
+                      Ha       Hb        Hc         SNARE motif     TMR
+        N-peptide          Habc-domain
+
+        D      Conserved syntaxin N-peptide binding to SM proteins
+              Plasma membrane
+              hSynt1A      MKDRTQELRTAKDSDD
+              hSynt1B      MKDRTQELRSAKDSDD
+              hSynt2       MRDRLPDLTACRKNDD
+              hSynt3       MKDRLEQLKAKQLTQD
+              hSynt11      MKDRLAELLDLSKQYD
+              hSynt19      MKDRLQELKQRTKEIE
+              hSynt4       MRDRTHELRQGDDSSD
+              ER/cis-Golgi
+              hSynt5    MSCRDRTQEFLSACKSLQ
+              Synt18     MAVDITLLFRASVKTVK
+              scSed5    MNIKDRTSEFQQSVLSYK
+              Endosome/trans-Golgi
+              hSynt16   MATRRLTDAFLLLRNNSI
+              scTlg2p    MFRDRTNLFLSYRRTFP
+                                                Yamaguchi et al., 2002
+
+        E       Syntaxin-1 N-peptide mediates binding of Munc18-1
+                         to assembled SNARE complexes
+
+
+
+
+                                                  Dulubova et al., 2007
+
+
+
+
+ok.indb 268                                                                                     11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release269
+
+
+              is involved in endosome and trans-Golgi fusion, and that binds to its cognate
+              Syntaxin-16 (Tlg2p in yeast) again via a very similar N-peptide sequence (Du-
+              lubova et al., 2002). Owing to this binding mechanism, these SM proteins could
+              remain associated with their cognate syntaxins throughout SNARE-complex
+              assembly, consistent with Novick’s studies on Sec1p (Grote et al., 2000; note,
+              however, that the details of Sec1p binding in yeast to the SNARE complex may
+              differ). We observed that the vertebrate plasma membrane syntaxins contain an
+              extremely similar conserved N-terminal sequence (Fig. 3D), prompting us to
+              search for a similar binding mode of Munc18-1 to Syntaxin-1.
+
+
+
+              Figure 3. (opposite) Definition of the interactions of Sec1/Munc18-like (‘SM’) proteins
+              with syntaxins and the SNARE complex during synaptic vesicle fusion.
+                A. Diagram of the Munc18-1/SNARE interactions proposed in the description of
+              Munc18-1 (originally referred to as ‘Munc-18’) as a Syntaxin-1 binding protein that con-
+              tributes to the fusion machinery (reproduced from Hata et al., 1993).
+                B. Demonstration that Munc18-1 is essential for vesicle fusion and does not pri-
+              marily function as a negative regulator of fusion. Images show synaptic activity recorded
+              from the cortex of newborn littermate wild-type (control) and Munc18-1 knockout mice
+              (null), demonstrating complete electrical silence in the absence of Munc18-1 (repro-
+              duced from Verhage et al., 2000).
+                C. Domain structure of syntaxins composed of a conserved N-terminal sequence
+              (N-peptide), an autonomously folded Habc-domain comprising three α-helices (Fer-
+              nandez et al., 1998), the SNARE motif that associates into a SNARE complex with the
+              homologous sequences present in synaptobrevins and SNAP-25 or their homologs, and
+              a C-terminal transmembrane region (TMR). Outside of the SNARE complex, syntaxins
+              spontaneously form a ‘closed’ conformation in which the N-terminal Habc-domain folds
+              back onto the SNARE motif, thereby occluding this motif and hindering SNARE-com-
+              plex assembly (Dulubova et al., 1999).
+                D. Discovery of a conserved N-terminal sequence motif of syntaxins that mediates
+              binding of most SM proteins to their cognate syntaxins. An alignment of the N-terminal
+              syntaxin sequences is shown on the left (red, conserved residues involved in SM-protein
+              binding), and immunoblots of the initial binding experiments demonstrating that the
+              N-terminus of the ER/Golgi syntaxin-5 binds to the SM protein Sly1 in a manner depen-
+              dent on the conserved N-terminal Syntaxin-5 sequence motif are shown on the right
+              (reproduced from Yamaguchi et al., 2002).
+                E. Demonstration by gel-filtration of a stable complex containing Munc18-1 bound
+              to fully assembled SNARE complexes. Munc18-1 or synaptic SNARE complexes contain-
+              ing the full N-terminal sequence of Syntaxin-1 were analyzed alone (black and blue
+              traces, respectively), or Munc18-1 was analyzed together with SNARE complexes con-
+              taining either the full N-terminal Syntaxin-1 sequence (red trace) or N-terminally trun-
+              cated Syntaxin-1 lacking 8 residues (green trace). Note that in the presence of SNARE
+              complexes containing full-length Syntaxin-1, most Munc18-1 co-elutes with SNARE
+              complexes, whereas in the presence of SNARE complexes containing N-terminally trun-
+              cated Syntaxin-1, no Munc18-1 co-elutes with the SNARE complexes (reproduced from
+              Dulubova et al., 2007).
+
+
+
+
+ok.indb 269                                                                                               11/4/14 2:29 PM
+
+
+      270                                                                   The Nobel Prizes
+
+
+          Indeed, we found that Munc18-1 bound tightly to assembled SNARE com-
+      plexes in a manner that depended on the Syntaxin-1 N-peptide (Fig. 3E; Du-
+      lubova et al., 2007). The Munc18-1/SNARE-complex assembly was stable dur-
+      ing size-exclusion chromatography, but disrupted by deletion of the N-peptide
+      from Syntaxin-1 (Fig. 3E; note that James Rothman’s laboratory simultaneously
+      made similar observations [Shen et al., 2007]). Fusing as little as a Myc-epitope
+      to the N-peptide of Syntaxin-1 impaired this binding mode, whereas binding of
+      Munc18-1 to the monomeric closed conformation of Syntaxin-1 did not require
+      the Syntaxin-1 N-peptide.
+          Viewed together, these results showed that Munc18-1 binds to Syntaxin-1
+      in two sequential modes that involve different Syntaxin-1 conformations (Fig.
+      4): an exocytosis-specific binding mode in which Munc18-1 binds to ‘closed’
+      Syntaxin-1 independent of the N-peptide (Dulubova et al., 1999), and a general
+
+
+
+
+      Figure 4. Conformational changes of SNARE and SM proteins mediating synaptic vesicle
+      fusion. Prior to fusion, Syntaxin-1 assumes a default ‘closed’ conformation that binds
+      Munc18-1 via an interaction which does not require the Syntaxin-1 N-peptide (Du-
+      lubova et al., 1999). In Reaction A, Syntaxin-1 is ‘opened’ (probably by Munc13-medi-
+      ated catalysis; Ma et al., 2011) to initiate synaptic vesicle priming. In Reaction B, SNARE
+      complexes partially assemble via N- to C-terminal zippering (Hanson et al., 1997), while
+      Munc18-1 stays associated with Syntaxin-1 during SNARE-complex assembly via its
+      binding to the Syntaxin-1 N-peptide (Khvotchev et al., 2007). In Reaction C, Ca2+-trig-
+      gers fusion-pore opening by stimulating the completion of SNARE-complex assembly;
+      Munc18-1 contributes to this process and is required for fusion-pore opening during this
+      step because the continuing association of Munc18-1 with SNARE-complexes is essential
+      for fusion-pore opening (Zhou et al., 2013a). After fusion, vesicles are endocytosed (see
+      Fig. 1), and SNARE complexes are disassembled by the NSF ATPase and its SNAP pro-
+      tein adaptor (no relation to the SNARE protein SNAP-25). Munc18-1 remains associated
+      with Syntaxin-1, and reverts to the heterodimeric interaction with ‘closed’ Syntaxin-1.
+      Thus, there are two major conformational transitions during exocytotic membrane fu-
+      sion: opening of Syntaxin-1 with rearrangement of the mode of Munc18-1 binding, and
+      folding of SNARE proteins into SNARE complexes.
+
+
+
+
+ok.indb 270                                                                                         11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release271
+
+
+              binding mode shared with some other SM protein/SNARE complex interactions
+              in which Munc18-1 binds to ‘open’ Syntaxin-1 assembled into SNARE com-
+              plexes via the Syntaxin-1 N-peptide, and additionally interacts with other parts
+              of the SNARE complex (Dulubova et al., 2007).
+                   What are the functions of the two Munc18-1 binding modes to SNARE pro-
+              teins, and which of the two modes is more important for fusion? Initial peptide
+              competition experiments in the calyx-of-Held synapse showed that displac-
+              ing the Syntaxin-1 N-terminus from Munc18-1 impairs synaptic vesicle fusion
+              (Khvotchev et al., 2007). Further studies described that mutations in Munc18-1
+              which decrease Munc18-1 binding to the Syntaxin-1 N-terminal sequences also
+              decrease fusion (Deak et al., 2009). It should be noted that in a later study in
+              which this result was disputed using similar but weaker mutations (Meijer et
+              al., 2012), the Munc18-1 mutations caused only a partial decrease in binding to
+              the Syntaxin-1 N-peptide. In these studies, all physiology was performed with
+              a high degree of overexpression, which could have easily compensated for the
+              decrease in binding affinity. Furthermore, elegant experiments in C. elegans re-
+              vealed that the Syntaxin-1 N-peptide was essential for fusion, but that it did not
+              actually need to be on Syntaxin-1 in order to function, as long as it was posi-
+              tioned close to SNARE complexes (Rathore et al., 2010). Finally, we showed that
+              in mammalian synapses, the Syntaxin-1 N-peptide was also required for fusion
+              under physiological conditions (Zhou et al., 2013b).
+                   These experiments show that binding of Munc18-1 to ‘open’ Syntaxin-1
+              within the SNARE complex is essential for fusion, and validate the function of
+              Munc18-1—analogous to that of Sec1p—as an intrinsic component of the fu-
+              sion machine. What then is the role of Munc18-1 binding to ‘closed’ Syntaxin-1?
+              To test this role, we created knock-in mice in which Syntaxin-1 was rendered
+              constitutively ‘open’ (Syntaxin-1Open), and thus binding of Munc18-1 to ‘closed’
+              Syntaxin-1 was suppressed (Gerber et al., 2008). In these mice, both Munc18-1
+              and Syntaxin-1 were destabilized and decreased in levels, consistent with other
+              evidence suggesting that the complex of Munc18-1 with the closed conforma-
+              tion of Syntaxin-1 stabilizes both proteins (Verhage et al., 2000). The decreased
+              levels of Syntaxin-1 and Munc18-1 in Syntaxin-1Open synapses resulted in de-
+              creased vesicle priming, presumably because fewer slots for vesicle fusion were
+              available (Gerber et al., 2008; Acuna et al., 2014).
+                   Nevertheless, the probability of Ca2+-triggered neurotransmitter release
+              was dramatically enhanced in Syntaxin-1Open synapses, and fusion was acceler-
+              ated. Even the fusion of individual vesicles, as judged by the kinetics of single
+              miniature release (‘mini’) events, was faster in Syntaxin-1Open than in wild-type
+              synapses (Acuna et al., 2014). These data, together with the finding that the
+
+
+
+
+ok.indb 271                                                                                        11/4/14 2:29 PM
+
+
+      272                                                           The Nobel Prizes
+
+
+      Habc-domain of Syntaxin-1, different from its N-peptide, is not essential for
+      fusion (Zhou et al., 2013a) demonstrate that Munc18-1 binding to the closed
+      conformation of Syntaxin-1 is not required for fusion, whereas binding to ‘open’
+      Syntaxin-1 in the SNARE complex is essential for fusion. Binding of Munc18-1
+      to closed Syntaxin-1 appears to serve two other functions that are not directly
+      part of fusion itself: to stabilize both proteins in the complex, and to ‘gate’
+      SNARE-complex assembly mediating fusion, i.e., to regulate the rate of fusion.
+
+
+      How do SNARE and SM proteins mediate fusion?
+      In principle, SNARE proteins act in fusion via a simple mechanism: SNARE
+      proteins are attached to both membranes destined to fuse, and form a trans-
+      complex that involves a progressive zippering of the four-helical SNARE-com-
+      plex bundle in an N- to C-terminal direction, forcing the fusing membranes
+      into close proximity and destabilizing their surfaces. This opens a fusion pore,
+      whose expansion then converts the initial ‘trans’-SNARE complexes into ‘cis’-
+      SNARE complexes which are subsequently dissociated by the NSF and SNAP
+      adapter proteins, thereby allowing a recycling of the vesicles and the SNARE
+      proteins for another round of fusion (Fig. 4).
+          However, at least two major questions arise at this point. First, do SNARE
+      proteins primarily act as force-generators to pull membranes together (which
+      may be sufficient for inducing in vitro fusion), or do SNARE proteins actually
+      open the fusion pore? Second, what is the precise function of SM proteins in
+      fusion—why are they required?
+          In vitro, the transmembrane regions of synaptobrevin and Syntaxin-1 inter-
+      act with each other in the plane of the membrane. The SNARE motifs of these
+      proteins form a continuous, rigid a-helix with their transmembrane regions,
+      suggesting that the SNARE protein transmembrane regions may actively con-
+      tribute to the fusion pore (Stein et al., 2009). However, in recent experiments
+      we found that Synaptobrevin-2 and Syntaxin-1 still mediate fusion when both
+      are attached to their resident membranes via lipid anchors, not transmembrane
+      regions, demonstrating that SNARE transmembrane regions are not essential
+      components of the fusion machine (Zhou et al., 2013b). These results support
+      the notion that SNARE proteins act as force generators, and that their trans-
+      membrane regions do not act as fusion catalysts.
+          What then do SM proteins do in fusion? The fact that SM proteins are re-
+      quired continuously during SNARE-complex assembly argues for a role either
+      in organizing proper SNARE-complex assembly and in preventing dead-end
+
+
+
+
+ok.indb 272                                                                              11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release273
+
+
+              inappropriate SNARE complexes, or in catalyzing lipid mixing during fusion.
+              At present, no conclusive data argue one way or the other, and this question will
+              clearly keep many of us busy for years to come.
+
+
+              SNARE chaperones are essential for maintaining the integrity of the presynaptic
+              terminal
+              Neurons fire action potentials often in bursts or trains, with high frequencies,
+              sometimes exceeding 100 Hz. Each neurotransmitter release event involves the
+              folding and unfolding of reactive SNARE proteins, exposing the presynaptic cy-
+              tosol to potentially deleterious misfolding of SNARE proteins and formation of
+              inappropriate complexes by reactive SNARE motifs. It is thus not surprising that
+              neurons express specialized chaperones which help proper folding of SNARE
+              proteins, and that deletion of these chaperones leads to neurodegeneration.
+                   We identified two classes of such chaperones, CSPα (for cysteine-string
+              protein-α, so named because it contains an eponymous string of cysteine resi-
+              dues that are palmitoylated to attach CSPα to the synaptic vesicle membrane;
+              Gundersen et al., 1994), and synucleins (so named because it was initially
+              thought that these presynaptic proteins may also be in the nucleus; Maroteaux
+              et al., 1988).
+                   Our discovery that these proteins function as SNARE chaperones was pure
+              serendipity. We found that deletion of CSPα in mice leads to massive neuro-
+              degeneration that kills affected mice in 3-4 months and is caused by an im-
+              pairment in SNARE-complex formation (Fernandez-Chacon et al., 2004). Sur-
+              prisingly, this neurodegeneration was suppressed by modest overexpression
+              of α-synuclein (Chandra et al., 2005). Following up on these observations, we
+              showed that CSPα—which contains a DNA-J domain and forms a catalytically
+              active, ATP-dependent chaperone complex with Hsc70 and the tetratricopep-
+              tide-repeat protein SGT (Tobaben et al., 2000)—catalyzes the proper folding
+              of SNAP-25, rendering SNAP-25 competent for SNARE-complex assem-
+              bly (Sharma et al., 2011a, 2011b, and 2012). In CSPα KO mice, misfolding of
+              SNAP-25 impaired SNARE-complex assembly which then caused neurodegen-
+              eration. α-Synuclein rescued this neurodegeneration by independently promot-
+              ing SNARE-complex assembly via a non-classical, ATP-independent chaperone
+              activity (Burre et al., 2010).
+                   Although these observations uncovered a potentially interesting facet of
+              SNARE protein biology, we do not yet understand how the physiological ac-
+              tivities of α-synuclein relate to its neurotoxic role in Parkinson’s disease. One
+
+
+
+
+ok.indb 273                                                                                       11/4/14 2:29 PM
+
+
+      274                                                                The Nobel Prizes
+
+
+      attractive hypothesis is that α-synuclein aggregation in Parkinson’s disease may
+      deplete neurons of all available functional α-synuclein, and thus cause SNARE
+      protein misfolding that is then deleterious, but alternative hypotheses, such as
+      a direct neurotoxic non-physiological activity of α-synuclein oligomers, are
+      equally plausible.
+
+
+      4. Ca 2+ -TRIGGERING OF FUSION: SYNAPTOTAGMINS AND MORE
+
+      At the same time as our work on synaptic membrane fusion was progressing, we
+      were studying a related question: how is neurotransmitter release by synaptic
+      membrane fusion triggered by Ca2+? Ever since I was a graduate student in Vic-
+      tor Whittaker’s laboratory in Göttingen, I had been fascinated by this question.
+      The central importance of Ca2+-triggered neurotransmitter release for brain
+      function intrigued me, its improbable speed and plasticity puzzled me, and the
+      similarity of Ca2+-induced synaptic vesicle exocytosis to other types of Ca2+-
+      induced exocytosis, such as those underlying hormone secretion, mast cell de-
+      granulation, or fertilization, suggested to me that understanding Ca2+-triggered
+      neurotransmitter release may be generally relevant for cellular signaling pro-
+      cesses. Although some key discoveries about synaptotagmins were made at the
+      same time as those about SNARE and SM proteins, the work on synaptotagmins
+      extended over a longer time period to satisfy even the most stringent critics, and
+      some of the most important observations are quite recent.
+
+
+      Discovery of Synaptotagmin-1: identification of C2-domains as versatile Ca2+-binding
+      domains
+      During our studies of the molecular anatomy of synaptic vesicles, we searched
+      for a candidate Ca2+-sensor that might mediate Ca2+-triggering of synaptic ves-
+      icle exocytosis. When we purified and cloned Synaptotagmin-1 (Syt1)—which
+      had been described earlier as a synaptic vesicle protein using a monoclonal anti-
+      body raised against synaptosomes (Matthew et al., 1981)—we were intrigued by
+      its primary structure because Syt1 included two C2-domains that were anchored
+      on the vesicle membrane by a transmembrane region (Perin et al., 1990; Figs. 2
+      and 5A). At that time, nothing was known about C2-domains except that they
+      represented the “2nd constant sequence” in classical protein-kinase C (PKC) iso-
+      zymes (Coussens et al., 1986). Since classical PKC isozymes are Ca2+-regulated
+      and interact with phospholipids, we speculated that the synaptotagmin C2-
+      domains may represent Ca2+-binding modules that interact with phospholip-
+      ids, and that Syt1 may be a Ca2+-sensor for neurotransmitter release (Perin et
+
+
+
+
+ok.indb 274                                                                                  11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release275
+
+
+              al., 1990). In pursuing this hypothesis over two decades, we showed that Ca2+-
+              triggering of neurotransmitter release is mediated by Ca2+-binding to Syt1 and
+              other synaptotagmins, and that different synaptotagmin isoforms additionally
+              perform similar Ca2+-sensor functions in other types of Ca2+-dependent exocy-
+              tosis in neuronal and non-neuronal cells.
+                   The first challenge after describing Syt1 was to test whether the Syt1 C2-
+              domains were indeed a novel type of Ca2+/phospholipid-binding domain. We
+              found that the Syt1 C2-domains bound to phospholipids (Perin et al., 1990),
+              that such binding was mediated by purified brain Syt1 in a Ca2+-dependent
+              manner (Brose et al., 1992), and that a single C2-domain of Syt1—the first ‘C2A-
+              domain—constituted an autonomously folded domain that bound Ca2+ and
+              phospholipids in a ternary complex (Davletov and Südhof, 1993 and 1994; Fig.
+              5B). In addition, we and others observed that the Syt1 C2-domains also bind to
+              Syntaxin-1 and to SNARE-complexes as a function of Ca2+ (Li et al., 1995a and
+              1995b; Chapman et al., 1995). In collaboration with Steven Sprang and Josep
+              Rizo, we obtained atomic structures of the C2-domains of Syt1, and defined
+              the architecture of their Ca2+-binding sites (Sutton et al., 1995; Shao et al., 1996
+              and 1997; Ubach et 1998 and 2001; Fernandez et al., 2001; Fig. 5A). Our struc-
+              tural studies demonstrated that the Syt1 C2-domains are composed of stable
+              β-sandwiches with flexible loops emerging from the top and bottom, and that
+              Ca2+ exclusively binds to the top loops of the C2-domains with incomplete co-
+              ordination spheres (Figs. 5A and 5C). As a result, intrinsic Ca2+-binding to Syt1
+              C2-domains exhibited low affinity, but was dramatically enhanced by binding
+              of phospholipids which complete the Ca2+-coordination spheres (Davletov and
+              Südhof, 1993 and 1994; Ubach et al., 1998 ; Fernandez et al., 2001).
+                   The biochemical and structural definition of the Syt1 C2A-domain as an au-
+              tonomously folded Ca2+-binding module − the first for any C2-domain—proved
+              paradigmatic for all C2-domains, which are now known to represent a common
+              Ca2+-binding motif found in many proteins (Rizo and Südhof, 1998; Corbalan-
+              Garcia and Gómez-Fernández, 2014). However, not all C2-domains bind Ca2+.
+              Some C2-domains are Ca2+-independent phospholipid-binding modules (e.g.,
+              the PTEN C2-domain; Lee et al., 1999), while others are Ca2+-independent pro-
+              tein interaction domains (e.g., the N-terminal C2-domain of Munc13 that binds
+              to RIMs as discussed below; Dulubova et al., 2005; Lu et al., 2006). Even C2-do-
+              mains that bind Ca2+ are functionally diverse. For example, different from Syt1
+              C2-domains, some C2-domains exhibit a high intrinsic Ca2+-affinity also in the
+              absence of phospholipids (e.g., the central C2-domain of Munc13-2; Shin et al.,
+              2010). Thus, C2-domains are versatile protein modules that most often are Ca2+/
+              phospholipid-binding domains but can adopt multifarious other functions.
+
+
+
+
+ok.indb 275                                                                                          11/4/14 2:29 PM
+
+
+      276                                                                                The Nobel Prizes
+
+
+
+       A       Structure of Synaptotagmin-1 C2-domains
+                                                  3.Ca 2+                2.Ca 2+
+                       Membrane
+        N
+               Y                                   C2A-
+                                                  domain
+                                                                          C2B-
+                                                                         domain      C
+
+
+                       C2A-domain                             C2B-domain
+
+
+
+
+        B            Ca2+-dependent phospholipid binding
+                           by the Syt1 C2A-domain
+
+
+
+
+                                      C2A-domain
+
+
+
+
+                                                                            Davletov &
+                                                                           Südhof, 1993
+
+        C        Ca2+-binding sites of Syt1 C2A-domain
+                                       D238
+                     H237
+            + NH                                             L171 D172
+                 3
+                                                                             M173
+                                         -        Ca2+
+         K236
+                                                                            G174
+                                      Ca2+
+        S235                                                     -
+                                                         -                         G175
+                           H
+              F234                            -
+                                                               Ca2+       Loop 1
+                     R233
+                                  D232                               -
+          Loop 3                  NH         F231 D230                         T176
+                                  C
+                       H2N             NH2
+                                  +                               S177
+                                                          D178
+                                                   Fernandez-Chacon et al., 2001
+
+
+
+
+ok.indb 276                                                                                                  11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release277
+
+
+              Demonstration that Syt1 is a Ca2+-sensor for exocytosis
+              After the biochemical studies had established that Syt1 binds Ca2+, the next
+              challenge was to show whether Syt1 constitutes Katz’s long-sought Ca2+-sensor
+              for neurotransmitter release. Initial experiments in C. elegans and Drosophila
+              disappointingly indicated that at least some neurotransmitter release remained
+              after deletion of Syt1, even though release was significantly reduced (Littleton
+              et al., 1993; DiAntonio et al., 1993; Nonet et al., 1993). Our electrophysiological
+              analyses of Syt1 knockout mice in which higher resolution measurements of re-
+              lease were possible then revealed that Syt1 is selectively and absolutely required
+              for fast synchronous synaptic fusion in forebrain neurons, whereas it is dispens-
+              able for other, slower forms of Ca2+-induced release (Fig. 6; Geppert et al., 1994;
+              Maximov and Südhof, 2005). These experiments, carried out in collaboration
+              with Chuck Stevens at the Salk Institute, accounted for the Drosophila and C.
+              elegans phenotypes, and established that Syt1 is essential for fast Ca2+-triggered
+              release, but is not required for fusion as such—is not even necessary for all Ca2+-
+              triggered fusion. Moreover, deletion of Syt1 increased spontaneous ‘mini’ re-
+              lease in some synapses, suggesting that Syt1 normally contributes to clamping
+              spontaneous synaptic vesicle exocytosis (Maximov and Südhof, 2005; Xu et al.,
+              2009).
+                  The Syt1 knockout analyses thus supported the ‘synaptotagmin Ca2+-sensor
+              hypothesis’, but did not exclude the possibility that Syt1 positions vesicles next
+              to voltage-gated Ca2+-channels (a function now known to be mediated by RIMs
+              and RIM-BPs [Kaeser et al., 2011]). Such a ‘positioning function’ would enable
+              another ‘real’ Ca2+-sensor to do the actual Ca2+-triggering, consistent with the
+              remaining Ca2+-induced release in Syt1 knockout synapses—an alternative hy-
+              pothesis that was widely discussed (Penner and Neher, 1994), but could not ac-
+              count for why Syt1 itself binds Ca2+.
+
+
+
+
+              Figure 5. (opposite) Domain structure and Ca2+-binding of Synaptotagmin-1
+                A. Domain structure of Synaptotagmin-1 (Syt1) and structure of the Syt1 C2-do-
+              mains (courtesy of J. Rizo; Shao et al., 1998; Fernandez et al., 2001).
+                B. Demonstration that the C2A-domain of Syt1, and by extension other C2-do-
+              mains, are autonomously folding Ca2+-binding domains. The data illustrate high-affinity
+              and highly cooperative Ca2+-regulation of phospholipid binding by the purified recom-
+              binant Syt1 C2A-domain (reproduced from Davletov and Südhof, 1993).
+                C. Architecture of the Syt1 C2A-domain Ca2+-binding sites as determined by NMR-
+              spectroscopy (modified from Fernandez-Chacon et al., 2001). Note that multiple Ca2+-
+              ions are ligated in incomplete coordination spheres by multiple overlapping aspartate
+              residues.
+
+
+
+
+ok.indb 277                                                                                             11/4/14 2:29 PM
+
+
+      278                                                                The Nobel Prizes
+
+
+
+                              WT                                Syt1 KO
+
+
+
+
+                                                                 Geppert et al., 1994
+
+      Figure 6. Synaptotagmin-1 (Syt1) knockout selectively ablates fast synchronous neu-
+      rotransmitter release. Traces of evoked synaptic responses recorded from hippocampal
+      neurons cultured from newborn littermate wild-type (WT, left) and Syt1 knockout mice
+      (right). Synaptic responses were induced by isolated action potentials; two different
+      scales are shown under (i) and (ii) as indicated by the calibration bars. Note that the
+      Syt1 knockout completely ablates fast synchronous response, but not slow asynchronous
+      responses (reproduced from Geppert et al., 1994a).
+
+
+          To directly test whether Ca2+-binding to Syt1 actually triggers neurotrans-
+      mitter release, we introduced into the endogenous mouse Syt1 gene a point mu-
+      tation (R233Q) that decreased the Syt1 Ca2+-binding affinity during phospho-
+      lipid binding ~2-fold, but had no detectable effect on Ca2+-dependent Syntaxin-1
+      binding (Figs. 7A and 7B; Fernandez-Chacon et al., 2001). Electrophysiological
+      recordings, carried out in collaboration with Christian Rosenmund, revealed
+      that the R233Q mutation converted synaptic depression during stimulus trains
+      into synaptic facilitation, consistent with a decrease in release probability (Fig.
+      7C). Importantly, this decrease in release probability was revealed to be caused
+      by a ~2-fold decrease in the apparent Ca2+-affinity of neurotransmitter release,
+      formally proving that Syt1 is the Ca2+-sensor for release (Fig. 7D).
+          In subsequent studies, we extended this analysis, and introduced into
+      knock-in mice other point mutations, including a mutation (D232N) that
+
+
+
+
+ok.indb 278                                                                                     11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release279
+
+
+              increased the Ca2+-dependent interaction of Syt1 with SNARE proteins (Fig.
+              7E; Pang et al., 2006a). We found that this mutation increased neurotransmit-
+              ter release accordingly. We showed in a detailed comparison of the R233Q and
+              D232N point mutations, which decrease or increase the apparent Ca2+-affinity
+              of Syt1, respectively, that they have corresponding opposite effects on the appar-
+              ent Ca2+-affinity of release (Figs. 7F and 7G). Moreover, in parallel experiments
+              in chromaffin cells performed in collaboration with Erwin Neher, we found that
+              Syt1 also functions as a Ca2+-sensor for endocrine granule exocytosis (Voets
+              et al., 2001; Sorensen et al., 2002), although here the Syt1 deletion causes only
+              a very small impairment in Ca2+-triggered exocytosis because Syt1 function is
+              largely redundant with that of Syt7 in chromaffin cells (Schonn et al., 2008; see
+              discussion below).
+                  Together, these studies proved that Syt1 functions as a Ca2+-sensor in syn-
+              aptic vesicle exocytosis. We next wondered whether Ca2+-binding to both of
+              the C2-domains of Syt1 contributes to triggering release. Initial studies in Dro-
+              sophila demonstrated that the C2B-domain Ca2+-binding sites of Syt1 are es-
+              sential for release (Mackler and Reist, 2001). A similar study suggested that the
+              C2A-domain Ca2+-binding sites are dispensable (Robinson et al., 2002), but the
+              signal-to-noise ratio of this study was too low to rule out a significant contri-
+              bution of the C2A-domain. Using systematic rescue experiments to perform a
+              direct quantitative comparison of the Ca2+-triggering activities of Syt1 mutants
+              lacking either C2A- or C2B-domain Ca2+-binding sites, we found that in addi-
+              tion to the C2B-domain Ca2+-binding sites, the C2A-domain Ca2+-binding sites
+              significantly contribute to release (Shin et al., 2009). Moreover, we observed that
+              in the absence of the C2A-domain Ca2+-binding sites, Ca2+-triggered release ex-
+              hibited a significantly decreased apparent Ca2+-cooperativity, documenting that
+              Ca2+-binding to the C2A-domain of Synaptotagmin-1 directly participates in
+              the Ca2+-triggering of fast release.
+
+
+              Diversity of synaptotagmins in fast Ca2+-triggered neurotransmitter release
+              Mammalian genomes encode 16 synaptotagmins (defined as double C2-domain
+              proteins with an N-terminal transmembrane region). The C2-domains of 8 syn-
+              aptotagmins (Syt1-Syt3, Syt5-Syt7, Syt9, and Syt10) bind Ca2+, whereas those of
+              the other 8 synaptotagmins do not. The 8 Ca2+-binding synaptotagmins com-
+              prise two classes which lack (Syt1, Syt2, Syt7, and Syt9) or contain N-terminal
+              disulfide bond that covalently dimerizes the respective synaptotagmins (Syt3,
+              Syt5, Syt6, and Syt10).
+
+
+
+
+ok.indb 279                                                                                         11/4/14 2:29 PM
+
+
+      280                                                                                                                                   The Nobel Prizes
+
+
+        A                                                                                                    B
+
+
+
+
+        C                                                                                                                D
+
+
+
+
+                                                                                                                                   Fernandez-Chacon et al., 2001
+
+        E                                                 Syt1               F                                                                    G
+                                      150                          D232N                           7
+                                                                                                                                    D232N
+                                                                                                                                                                                       **
+        Protein (% of wildtype maximum)
+
+
+
+
+                                                                                                                                        WT
+                                                                                                                                                  Apparent Kd for Ca2+ (mM)
+
+
+
+                                      100                                                          6                                                                          3
+            Co-Immunoprecipitated
+
+
+
+
+                                                                             IPSC Amplitude (nA)
+
+
+
+
+                                                                      WT                                                                WT
+                                          50               p<0.0001                                5
+
+                                          0                                                        4                                                                          2
+                                                        Munc18-1                                   3
+                                      100
+                                                                                                                                        R233Q
+                                                                                                                                                                                  **
+                                                                                                   2                                                                          1
+                                                         Cpx1/2
+                                                                                                   1
+                                      100
+                                                                                                   0                                                                          0
+                                               0 1 10    100          1000                             0.5       1                  5        10
+                                                                                                                                                                              D2 WT
+                                                                                                                                                                                   N
+                                                                                                                                                                              R2 WT
+                                                                                                                                                                                   Q
+                                                                                                                                                                                32
+
+                                                                                                                                                                                33
+
+
+
+
+                                                        [Ca2+] (µM)                                                  [Ca2+] (mM)
+                                                                                                                                                          Pang et al., 2006
+
+
+       Figure 7. Demonstration that Ca2+-binding to Synaptotagmin-1 (Syt1) triggers neu-
+      rotransmitter release using knock-in mice containing mutant Syt1 with altered Ca2+-affini-
+      ties
+        A & B. A single amino-acid substitution in the Syt1 C2A-domain (R233Q) de-
+      creases the apparent Ca2+-affinity of Syt1 during phospholipid but not during Syntaxin-1
+       binding. Data show measurements of Ca2+-dependent binding of the entire cytoplasmic
+      fragment of endogenous wild-type and R233Q-mutant mutant Syt1 obtained from lit-
+      termate knock-in mice to liposomes (A) or immobilized GST-Syntaxin-1 (B).
+        C. The R233Q amino-acid substitution decreases the probability of neurotransmit-
+      ter release as evidenced by a conversion of synaptic depression in wild-type synapses into
+      synaptic facilitation in R233Q-mutant synapses. Synaptic responses during a 10 Hz stim-
+       ulus train are measured (left, representative traces; right, normalized responses).
+                                                                                      (continues)
+
+
+
+
+ok.indb 280                                                                                                                                                                                 11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release281
+
+
+                  When the diversity of synaptotagmins emerged (e.g., see Geppert et al.,
+              1991; Li et al., 1995), it was surprising that the Syt1 knockout produced a dra-
+              matic phenotype because at least some of these other synaptotagmins are co-ex-
+              pressed with Syt1. However, using systematic rescue experiments we found that
+              only three of the eight Ca2+-binding synaptotagmins—Syt1, Syt2 and Syt9—me-
+              diate fast synaptic vesicle exocytosis (Xu et al., 2007). These synaptotagmins ex-
+              hibit distinct kinetics, with Syt2 triggering release faster, and Syt9 slower than
+              Syt1. Most forebrain neurons express only Syt1, accounting for the dramatic
+              Syt1 knockout phenotype. Syt2 is the Ca2+-sensor of fast synapses in the brain-
+              stem and the neuromuscular junction (Pang et al., 2006b; Sun et al., 2007; Figs.
+              8A and 8B), while Syt9 is primarily present in the limbic system (Xu et al., 2007).
+              Thus, the kinetic properties of Syt1, Syt2, and Syt9 correspond to the functional
+              needs of the synapses containing them.
+                  In the initial Syt1 KO studies (Geppert et al., 1994), we observed that al-
+              though fast release was ablated in Syt1-deficient synapses, a slower form of Ca2+-
+              triggered release remained (Fig. 6). We thus sought to biophysically define the
+
+
+
+                D. The R233Q-mutation decreases the apparent Ca2+-affinity of neurotransmitter
+              release approximately 2-fold similar to its effect on the apparent Ca2+-affinity of phos-
+              pholipid binding (see A), which accounts for the decrease in release probability in C.
+              Data show normalized amplitudes of synaptic responses as a function of extracellular
+              Ca2+-concentration.
+                 E. Another single amino-acid substitution in the Syt1 C2A-domain (D232N) has a
+              distinct effect on the Ca2+-binding properties of Syt1: it increases Ca2+-dependent bind-
+              ing of Syt1 to SNARE complexes. Data show measurements of Ca2+-dependent binding
+               of wild-type and D232N-mutant endogenous Syt1 to SNARE complexes in brain homog-
+               enates from knock-in mice solubilized with Triton X-100. SNARE complexes were im-
+               munoprecipated at the indicated concentrations of free Ca2+, and immunoprecipiates
+              were analyzed by quantitative immunoblotting for Syt1 (top graph), Munc18-1, and and
+              complexins (bottom graphs). Note that Munc18-1 and complexin constitutively co-im-
+              munoprecipitate with SNARE complexes whereas the co-IP of Syt1 is dramatically en-
+              hanced at increasing Ca2+-concentrations.
+                 F & G. Direct comparisons of the effects of D232N- and R233Q-knock-in muta-
+              tions in Syt1 demonstrate that these two mutations that have opposite effects on the Ca2+-
+               binding properties of Syt1 produce opposite shifts in the apparent Ca2+-affinity of release.
+               F. Measurements of the absolute amplitude of evoked inhibitory postsynaptic currents as
+               a function of extracellular Ca2+ in neurons cultured from littermate D232N- or R233Q-
+               mutant knock-in mice and their wild-type (WT) littermates; each mutant has its own
+               wild-type control. Synaptic amplitudes are fit to a Hill function. G. Apparent Ca2+-affin-
+               ity for release calculated by Hill function fits of the data in F comparing wild-type con-
+               trols to D232N- or R233Q-mutant synapses.
+                  Panels A–D were reproduced from Fernandez-Chacon et al. (2001); and panels E–G
+               from Pang et al. (2006) and Xu et al. (2009).
+
+
+
+
+ok.indb 281                                                                                                   11/4/14 2:29 PM
+
+
+      282                                                                                             The Nobel Prizes
+
+
+        A Localization B                                               25 Hz Action Potential Trains
+                                     Synapsin                 Wild-Type
+                                                                                                                         1 nA
+                                                                                                               0.2 s
+                                                                          Synaptotagmin-2 KO
+
+                                      Syt 2
+                                                                                                                        0.5 nA
+                                                                                                            0.2 s
+
+                                                                initial 4 EPSCs              last 4 EPSCs
+                                      Merged
+
+
+                                                                                  2 nA                                  0.25 nA
+                                                                         50 ms                              50 ms
+                                               10 µm
+
+
+        C                                                     Flash Photolysis of Caged Ca2+
+                                                               WT                                     Syt2 KO
+            [Ca2+]i 10
+             (µM) 0
+                                     EPSC
+                                                                          20 nA                                        4 nA
+                                                              100 ms                                  100 ms
+
+
+                        Release
+                           Rate                                           500 ves./ms                               20 ves./ms
+                                                              100 ms                                  100 ms
+
+        D                                          Measurements of Release as a Function of Free Ca2+
+                                                                                                                          WT
+                               1000
+
+                                                                                                                          Syt2
+                                    100                                                                                    KO
+         Peak release rate (ms-1)
+
+
+
+
+                                     10
+
+
+                                      1
+
+
+                                    0.1
+
+
+                                    0.01
+
+
+                            0.001
+                                            0.04        0.1               0.4            1        4             10
+                                                                         Peak [Ca2+] (µM)
+                                                                                                        Sun et al., 2007
+
+
+      Figure 8. Deletion of Synaptotagmin-2 (Syt2) the fast Ca2+-sensor for release in the Calyx
+      of Held synapse, uncovers a slower form of Ca2+-triggered release that is controlled by a
+      secondary Ca2+-sensor with a much lower Ca2+-cooperativity than Syt2.
+                                                                                     (continues)
+
+
+
+
+ok.indb 282                                                                                                                       11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release283
+
+
+              contribution of the ‘fast’ synaptotagmin-dependent form of release, and to de-
+              scribe the properties of the slower remaining form. To do so, we used the calyx-
+              of-Held synapse as a model system because it allows simultaneous patching of
+              pre- and postsynaptic compartments, providing an unparalleled resolution of
+              electrophysiological measurements (Forsythe, 1994; Borst and Sakmann, 1996).
+              The calyx-of-Held synapse expresses only Syt2 among the ‘fast’ synaptotagmins
+              (Fig. 8A; Sun et al., 2007). Knockout of Syt2 ablated all fast Ca2+-triggered neu-
+              rotransmitter release; only a slower form of release remained (Fig. 8B). In the
+              Syt2 KO calyx synapse, this remaining Ca2+-triggered release did not facilitate
+              during high-frequency stimulus trains, different from what we observed in Syt1
+              KO synapses in hippocampal and cortical neurons (see Maximov and Südhof,
+              2005, and Fig. 9 below). As a result, the Syt2 KO blocked the vast majority of
+
+
+
+
+                
+                   A. Localization of Syt2 by immunocytochemistry of Calyx synapses demonstrates
+              abundant expression in presynaptic terminals.
+                 B. Knockout (KO) of Syt2 in calyx synapses ablates most fast synchronous neu-
+              rotransmitter release induced by a high-frequency action potential train (40 stimuli at 25
+              Hz). Representative traces of synaptic responses (EPSCs) recorded during the overall
+              train are shown on top (note that wild-type and mutant traces are shown with different
+              scales), and expansions of the initial and the final 4 EPSCs at the bottom (note that here
+              wild-type and mutant traces have the same scales, but scales differ for the first and last 4
+              EPSCs). The baseline shift in the Syt2 KO traces reflects unclamping of unsynchronous
+              release that is not observed in wild-type synapses.
+                 C. KO of Syt2 severely impairs neurotransmitter release triggered by high concen-
+              trations of Ca2+ in the calyx of Held synapse. Presynaptic terminals were filled via a patch
+              pipette with caged Ca2+ and a Ca2+-indicator dye, and release was triggered by Ca2+ re-
+              leased by flash photolysis. The amount of release was measured postsynaptically by mon-
+              itoring the EPSC and then calculating the number of vesicles released at a given time
+              (release rate). Simultaneously, the presynaptic Ca2+-concentration was measured by mi-
+              crofluorometry.
+                 D. Ca2+-triggered neurotransmitter release exhibits a biphasic Ca2+-concentration
+              dependence in wild-type (WT) calyx synapses with a low apparent Ca2+-cooperativity of
+              release (~2 Ca2+-ions) at low Ca2+-concentrations, and a high apparent Ca2+-cooperativ-
+              ity at high Ca2+-concentrations (~5 Ca2+-ions). KO of Syt2 selectively ablates the high
+              Ca2+-cooperativity release phase, decreasing the release rates at physiological Ca2+-con-
+              centrations nearly 100-fold without significantly affecting Ca2+-triggered release at low
+              Ca2+-concentrations. Data show summary graph of EPSC peak release rates as a function
+              of different free Ca2+-concentrations in the presynaptic terminal. The dashed line repre-
+              sents a fit of a 5th power function to the data from wild-type terminals at >1 μM free
+              Ca2+; the solid line a 2nd power function to the data from mutant terminals at all Ca2+-
+              concentrations. Note that the solid line also fits the wild-type responses at low Ca2+-
+              concentrations.
+                 All data were adapted from Sun et al. (2007).
+
+
+
+
+ok.indb 283                                                                                                  11/4/14 2:29 PM
+
+
+      284                                                                                          The Nobel Prizes
+
+
+
+         A       IPSCs / 10 Hz stimulus trains                   B         IPSCs / 10 Hz stimulus trains
+                 Cultured hippocampal neurons                              Cultured hippocampal neurons
+                         WT Neurons                                              Syt1 KO Neurons
+              Control                                                   Control
+
+
+              Syt7 KD #1
+                                                                        Syt7 KD #1
+
+              Syt7 KD #2                                                Syt7 KD #2
+
+              Syt7 KD #3                                                Syt7 KD #3
+
+
+              Syt7 KD #4                                                Syt7 KD #4
+                                                        2 nA
+
+
+
+
+                                                                                                                   2 nA
+                                            0.5 s                                                          0.5 s
+
+         C       EPSCs / Single action potentials               D          EPSCs / 100 Hz stimulus trains
+                   CA1-subiculum synapses                                    CA1-subiculum synapses
+                   Control                                                        Syt1/7 DKD
+                                Syt7 KD
+
+
+
+
+                                                                                                                          100 pA
+                                                                                                           100 ms
+                                                                                      Syt1 KD
+                                               100 pA
+
+
+
+
+                                       25 ms                                              1     2    3
+                                                                                                         Syt1/7 DKD
+
+
+                                                                                                         Syt1 KD
+                                                                                                                            50 pA
+
+                  Syt1 KD
+                               Syt1/7 DKD                                                                     10 ms
+                                                                50 pA
+
+
+
+
+                                                        50 ms                                   Bacaj et al., 2013
+
+
+
+      Figure 9. Synaptotagmin-7 (Syt7) knockdown impairs the slow release remaining in Syn-
+      aptotagmin-1 (Syt1) knockout neurons
+        A & B. In cultured hippocampal neurons, suppression of Syt7 expression by knock-
+      down (KD) has no major effect on neurotransmitter release evoked by a high-frequency
+      stimulus train in wild-type synapses (A). However, suppressing Syt7 expression in Syt1-
+      deficient neurons (Syt1 KO) impairs most of the slow and facilitating Ca2+-triggered re-
+      lease that remains after the Syt1 KO (B). Data show representative traces of IPSCs evoked
+      by a 10 Hz stimulus train obtained in control neurons and neurons expressing four dif-
+      ferent Syt7 shRNAs to assure reproducibility. Note that in hippocampal neurons, the
+      high-frequency stimulus train induces in Syt1 KO neurons a strongly facilitating form of
+      asynchronous release, such that the amount of total release during the train is similar in
+      Syt1 KO and wild-type neurons. By contrast, in Syt2 KO calyx synapses no such facilita-
+      tion of the residual release is observed (see Fig. 8B).
+        C & D. In acute slices, suppression of Syt7 expression by itself also has no significant ef-
+      fect on release, but here again suppression of Syt1 expression ablates only the initial fast phase
+      of release but retains a strongly facilitating asynchronous form of release that is severely
+                                                                                           (continues)
+
+
+
+
+ok.indb 284                                                                                                                         11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release285
+
+
+              Ca2+-triggered release in this synapse independent of the stimulation frequency
+              (Sun et al., 2007).
+                  We then analyzed the Ca2+-dependence of neurotransmitter release in ca-
+              lyx synapses from wild-type and littermate Syt2 KO mice using flash-photolysis
+              of caged-Ca2+. We performed simultaneous measurements of the postsynaptic
+              response (which allows precise calculations of synaptic vesicle exocytosis) and
+              of presynaptic Ca2+-levels by microfluorometry, an approach that had been pio-
+              neered by the Sackmann, Schneggenburger, and Neher laboratories (Bollmann
+              et al., 2000; Schneggenburger and Neher, 2000). We found that as described
+              previously (Bollmann and Sakmann, 2000), release triggered by physiological
+              Ca2+-concentrations exhibited an apparent Ca2+-cooperativity of 5, similar to
+              the number of Ca2+-ions bound to synaptotagmins (Figs. 8C and 8D). However,
+              the small amount of remaining Ca2+-triggered release in Syt2 KO calyx synapses
+              exhibited an apparent Ca2+-cooperativity of only 2, suggesting that this release
+              was mediated by a different Ca2+-sensor that at least in the calyx of Held synapse
+              has properties distinct from those of Syt1, Syt2, and Syt9 (Sun et al., 2007).
+
+              Testing the function of Synaptotagmin-7 in slow Ca2+-triggered release
+              Which Ca2+-sensor induces the remaining release in Syt1 and Syt2 KO syn-
+              apses, and could this release be mediated by one of the other 5 Ca2+-binding
+              synaptotagmins? The remaining release in Syt1 KO neurons exhibits distinct,
+              synapse-dependent properties. Whereas in Syt2-deficient calyx-of-Held syn-
+              apses the remaining release remains small and constant even at high stimula-
+              tion frequencies (Fig. 8B), in Syt1-deficient hippocampal and cortical synapses
+              the remaining ‘asynchronous’ release is massively facilitating at high stimula-
+              tion frequencies (Fig. 9A). As a result, in the latter synapses the total amount of
+              Ca2+-triggered release induced by high-frequency stimulus trains is similar in
+              wild-type and Syt1-deficient synapses, even though the initial rate of fast release
+              differs more than 10-fold (Maximov and Südhof, 2005; Xu et al., 2012).
+
+
+
+              i mpaired by additional suppression of Syt7 expression. Data show measurements of EP-
+               SCs elicited by isolated stimuli applied with increasing strength (C) or by a 100 Hz, 0.1
+               sec stimulus train (D; representative traces with an expansion of the initial response be-
+               low). Measurements were performed in acute hippocampal slices from mice whose CA1
+               region had been injected with viruses encoding shRNAs for knockdown of the indicated
+               synaptotagmins two weeks prior to the experiments. EPSCs were measured in postsyn-
+               aptic subiculum neurons after presynaptic stimulation of axons emanating from CA1
+               region neurons.
+                  All data were adapted from Bacaj et al. (2013).
+
+
+
+
+ok.indb 285                                                                                                 11/4/14 2:29 PM
+
+
+      286                                                                 The Nobel Prizes
+
+
+          To define the Ca2+-sensor for the remaining release in Syt1-deficient hippo-
+      campal neurons, we focused on Syt7. We had found earlier that Syt7, similarly
+      to Syt1, functions as a Ca2+-sensor for exocytosis in chromaffin and other neu-
+      roendocrine and endocrine cells (Sugita et al., 2001; Gustavsson et al., 2008 and
+      2009; Schonn et al., 2009), and Paul Brehm had observed a role for Syt7 in re-
+      lease at the neuromuscular junction (Wen et al., 2010). We found that although
+      Syt7 loss-of-function did not produce a major change in neurotransmitter re-
+      lease in Syt1-containing wild-type neurons (Maximov et al., 2008), it impaired
+      most of the remaining slow Ca2+-triggered release in Syt1 knockout neurons
+      (Bacaj et al., 2013; Fig. 9). The Syt7 loss-of-function phenotype in Syt1-deficient
+      neurons could be rescued only by Syt7 containing functional Ca2+-binding sites,
+      suggesting that Syt7 functions as a Ca2+-sensor. Different from Syt1 in which
+      the C2B-domain Ca2+-binding sites were more important than the C2A-domain
+      Ca2+-binding sites, blocking the Syt7 C2B-domain Ca2+-binding sites of Syt7
+      had no effect on rescue. However, blocking the Syt7 C2A-domain Ca2+-binding
+      sites abolished its rescue activity (Bacaj et al., 2013). This result indicates that the
+      mechanisms of action of Syt1 and Syt7 partly differ from each other.
+          Viewed together, these observations suggest that Syt7—like the other syn-
+      aptotagmins of its class (Syt1, Syt2, and Syt9)—functions as a Ca2+-sensor for
+      exocytosis, but exhibits a slower kinetics than Syt1, Syt2, and Syt9. The relatively
+      slow action of Syt7 normally occludes its function in many wild-type synapses
+      in which the faster Syt1 or Syt2 probably outcompetes the slower Syt7. Although
+      the function of Syt7 was not immediately apparent at most normal synapses (Fig.
+      9), paired recordings showed that Syt7 does contribute physiologically to release
+      during stimulus trains even in the presence of Syt1 (Bacaj et al., 2013). There-
+      fore four synaptotagmins (Syt1, Syt2, Syt7, and Syt9) together account for nearly
+      all neurotransmitter release at a synapse. The different speed of action of Syt1
+      and Syt7 may be related to their localizations because Syt7 has been consistently
+      found to be absent from synaptic vesicles (Sugita et al., 2002; Maximov et al.,
+      2008), even though it is present on endocrine granules, suggesting that it is slow
+      because it is not as close to the site of Ca2+-triggered fusion as Syt1.
+
+
+      Complexins support synaptotagmin-dependent Ca2+-triggering of fusion
+      We identified complexins as small proteins bound to SNARE complexes but not
+      to individual SNARE proteins (McMahon et al., 1995; also later independently
+      identified by Ishizuka et al., 1995). The crystal structure of complexin bound to
+      the SNARE complex, obtained in collaboration with Josep Rizo, revealed that
+      complexin contains a central α-helix that nestles in an antiparallel orientation
+
+
+
+
+ok.indb 286                                                                                      11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release287
+
+
+              into the groove formed by the Syntaxin-1 and Synaptobrevin-2 SNARE motifs
+              (Chen et al., 2002). The central α-helix of complexin is N-terminally preceded
+              by an accessory α-helix and a short unstructured sequence, and C-terminally
+              followed by a longer unstructured sequence. Analysis of complexin-deficient
+              neurons showed that complexin represents a co-factor for synaptotagmin that
+              functions physiologically both as a clamp and as an activator of Ca2+-triggered
+              fusion (Reim et al., 2001; Tang et al., 2006; Huntwork and Littleton, 2007; Maxi-
+              mov et al., 2009; Yang et al., 2010). Complexin-deficient neurons exhibited a
+              milder phenocopy of Syt1-deficient neurons, with a partial suppression of fast
+              synchronous exocytosis and an increase in spontaneous exocytosis, suggesting
+              that complexins and synaptotagmins are functionally interdependent.
+                  Some confusion developed regarding complexin function because in vitro
+              fusion assays suggested that complexins act only as a clamp of fusion (Giraudo
+              et al., 2006), whereas in analyses of synaptic transmission in autapses (in which
+              isolated neurons form synapses with themselves for want of a better partner),
+              complexins acted only as an activator of Ca2+-triggered fusion (Reim et al.,
+              2001). Subsequent studies in cultures of dissociated neurons readily uncovered
+              both complexin activities in that the loss-of-function of complexin produced a
+              large increase in spontaneous ‘mini’ release (interpreted as unclamping) and a
+              major impairment in evoked release (interpreted as a lack of activation; Fig. 10
+              [Maximov et al., 2009]).
+
+               A     GFP control                                                                             B                                                                     ***
+                                                                                                                                        mEPSC frequency (Hz)
+
+
+
+
+                                                                                0.75                                 GFP control                           10
+                                                          EPSC amplitude (nA)
+
+
+
+
+                        shRNA + GFP
+                                                                                                                    shRNA + GFP
+                                                                                                                                                                         ***
+                                                                                0.50
+                             shRNA + Cpx11-134
+                                                                                                                                                               5
+
+                                    shRNA +
+                                                                                0.25         ***                 shRNA + Cpx11-134
+                                   Cpx11-134M                                                          ***
+                                                                                         20 22 12 10             shRNA + Cpx11-134M                                  21 30 20 13
+                                                                                   0                                                                           0
+                                                                                            1 1 -134
+
+
+
+
+                                                                                                                                                                        1 1 34
+                                                                                        + + rol
+
+
+
+                                                                                                       M
+                                                                                        C 11 P
+
+
+
+
+                                                                                                                                                                               l
+
+
+
+                                                                                                                                                                                   M
+                                                                                                                                                                    C 11 P
+                                                                                                                                                               tro
+                                                                                                   34
+                                                                                       + Cpx GF
+
+
+
+
+                                                                                                                                                                               34
+                                                                                                                                                                            -1
+                                                                                                                                                                   + Cpx GF
+                                                                                                 t
+                                                                                  on
+
+
+
+
+                                                                                                                                                 on
+                                                                                                 -1
+                                                 0.1 nA
+
+
+
+
+                                                                                                                                                                             -1
+                                                                                C
+
+
+
+
+                                                                                                                            25 pA
+
+
+
+
+                                                                                                                                                                    + +
+                                                                                                                                                C
+                                                                    FP
+
+
+
+
+                                                                                                                                       FP
+                                                                                         px
+
+
+
+
+                                                                                                                                                                     px
+                                                            G
+
+
+
+
+                                                                                                                                      G
+
+
+
+
+                                        0.2 s                                                                          1s
+                                                                                        shRNA                                                                      shRNA
+                                                                                                                                      Maximov et al., 2009
+
+
+              Figure 10. Complexin functions both as an activator and as a clamp of synaptic vesicle
+              fusion
+                A & B. Excitatory postsynaptic currents (EPSCs) elicited by isolated action poten-
+              tials (A) and spontaneous miniature EPSCs (mESPCs; B) monitored in control neurons
+              and complexin knockdown neurons without or with expression of complexin rescue
+              constructs (wild-type complexin-1 [Cpx1-134] and mutant complexin-1 unable to bind to
+              SNARE complexes [Cpx1-134M]). Representative traces are shown on the left, and sum-
+              mary graphs on the right to illustrate the dual nature of complexin action as an activator
+              of Ca2+-triggered exocytosis (A) and as a clamp of spontaneous mini release (B). Data are
+              adapted from Maximov et al. (2009).
+
+
+
+
+ok.indb 287                                                                                                                                                                              11/4/14 2:29 PM
+
+
+      288                                                              The Nobel Prizes
+
+
+           How does a small molecule like complexin, composed of only ~130 resi-
+      dues, act to activate and clamp synaptic vesicles for synaptotagmin action? The
+      central complexin α-helix that is bound to the SNARE complex is essential for
+      all complexin function (Fig. 10; Maximov et al., 2009). The accessory α-helix
+      is required only for the clamping but not the activating function of complexin,
+      demonstrating that clamping is not a prerequisite for the activation function of
+      complexin (Yang et al., 2010). The flexible N-terminal sequence of complexin,
+      conversely, mediates only the activating but not the clamping function of com-
+      plexin (Xue et al., 2007; Maximov et al., 2009). Recent results indicate that the
+      activating function of complexin is unexpectedly complex (no pun intended) in
+      that complexin also contributes to the priming of synaptic vesicles, but that for
+      this facet of its activating function the C-terminal sequence is required (Yang et
+      al., 2010; Kaeser-Woo et al., 2012).
+           Based on these studies, our current model posits that complexin binding to
+      SNAREs activates the SNARE/SM protein complex, and that at least part of com-
+      plexin competes with synaptotagmin for SNARE-complex binding and clamps
+      the complex to prevent its complete assembly (Tang et al., 2006). Ca2+-activated
+      synaptotagmin displaces this part of complexin, thereby enabling fusion-pore
+      opening (Fig. 11). However, it is likely that the clamping function of complexin
+      is relatively less important than its activation function. Even though a 10-fold
+      increase in the rate of spontaneous mini release induced by loss of complexin
+      function is significant, it is very small on a per synapse basis. If one considers
+      that each neuron receives thousands of synaptic inputs, the increased mini rate
+      still translates into only one release event or less per synapse and per minute
+      (Yang et al., 2013). Moreover, some complexin isoforms that are generally ex-
+      pressed at low levels (complexin-3 and -4) do not exhibit a clamping function
+      (Kaeser-Woo et al., 2012), and the function of complexin in Ca2+-triggered exo-
+      cytosis of IGF-1 containing vesicles (see below) does not involve clamping (Cao
+      et al., 2013). Thus, it is likely that complexin primarily functions as an activator
+      of exocytosis, and that its clamping function is either an epiphenomenon, or a
+      more minor fine-tuning activity in synaptic transmission.
+
+
+      An approximation of how SNARE and SM proteins collaborate with synaptotagmins and
+      complexins in Ca2+-triggered fusion
+      The convergence of biochemical and biophysical studies on the neurotransmit-
+      ter release machinery lead us to a preliminary model of how Ca2+-triggered neu-
+      rotransmitter release proceeds (Fig. 11).
+
+
+
+
+ok.indb 288                                                                                  11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release289
+
+
+                  Sketching the atomic structures of SNARE proteins, complexin and synap-
+              totagmin into the context of a docked and primed synaptic vesicle in an in-
+              scale drawing reveals a crowded space in which all partners are placed into
+              close proximity, allowing for rapid interactions (Fig. 11A). When we consider
+              how sequential interactions of SNARE and SM proteins with complexin and
+              synaptotagmin may mediate Ca2+-triggered fusion, the most plausible model is
+              that complexin and synaptotagmin act on top of the two sequential major con-
+              formational changes involved in SNARE/SM protein complex assembly (Fig.
+              11B; see also Fig. 4). Specifically, after docked and tethered vesicles are primed
+              for fusion by opening up the closed conformation of Syntaxin-1 and by partial
+              trans-SNARE-complex assembly (Priming I, Fig. 11B), complexin binds to the
+              partially assembled trans-SNARE complex to ‘superprime’ it and to energize the
+              vesicles for Ca2+-triggered fusion (Priming II). Synaptotagmins probably also
+              constitutively bind to assembling SNARE complexes independent of Ca2+, and
+              the complexin- and synaptotagmin-binding may contribute to ‘freeze’ the partly
+              assembled SNARE complex and thus ‘clamp’ it. Ca2+ then triggers fusion-pore
+              opening by binding to synaptotagmin, which in turn binds to phospholipids
+              and changes its interaction with the trans-SNARE complex to partly displace
+              complexin. It is likely that synaptotagmin and complexin constitutively interact
+              with the SNARE/SM protein complex in a Ca2+-independent manner to form a
+              single prefusion complex, and that Ca2+ does not cause an all-or-none binding
+              of synaptotagmin to the SNARE complex as it does for binding of synaptotag-
+              min to phospholipids, but instead causes a rearrangement of the prefusion com-
+              plex (e.g., see Shin et al., 2003).
+                  The simplest mechanism by which Ca2+-binding to synaptotagmin could
+              open the fusion pore would be by pulling on the SNARE/SM protein complex,
+              a pulling action that could be induced by Ca2+-triggered binding of synaptotag-
+              min to phospholipids. After fusion-pore opening, the pore expands, and NSF
+              and SNAPs are recruited to the assembled cis-SNARE complex. NSF then dis-
+              sociates the cis-SNARE complex, the Munc18-1/SNARE complex assembly is
+              transformed into the heteromeric Munc18-1/Syntaxin-1 complex, and synaptic
+              vesicles recycle via one of several forms of endocytosis (see Fig. 1).
+
+
+              Parallel synaptotagmin-mediated pathways of Ca2+-triggered exocytosis
+              The 4 synaptotagmins that lack N-terminal disulfide bonds (Syt1, Syt2, Syt7,
+              and Syt9) function in synaptic vesicle and neuroendocrine exocytosis, but
+              what about the other 4 Ca2+-binding synaptotagmins that are disulfide-bonded
+
+
+
+
+ok.indb 289                                                                                        11/4/14 2:29 PM
+
+
+      290                                                                                                                   The Nobel Prizes
+
+
+        A
+                                                          Y
+                                                                                                        Y
+                   C2A-
+                  domain
+                            C2B-
+                           domain
+                                                                                Synaptic                                        C2B-   C2A-
+                                                                                                                               domain domain
+                                                           N
+                                                                                Vesicle                N
+
+
+
+
+              N
+                                                                                                                                                N
+                               SNARE complex
+                                                    N                                                       N
+                                                                                  force
+        Habc-domain                                                                                                                 N
+                           N
+
+
+           Presynaptic
+        Plasma Membrane                                                           force
+                                                                             Synaptic Cleft
+
+        B                                                                                            Synaptotagmin-1/-2/-9
+
+                                                                                  SV                 Synaptobrevin/
+          NSF-mediated                                                                               VAMP
+                                                                                                                                 Assembly of
+         SNARE-complex                                                                                                        pre-fusion SNARE/
+          disassembly &                                                                                                       SM protein complex
+         vesicle recycling
+                                                          Munc18
+                                                                                                        Synapto-
+                                                                                                        tagmin-7
+                                                         Syntaxin-1           Docking      SNAP-25
+                                ADP
+                                + Pi               &
+
+                                       NSF         SNAPs
+
+
+                                                          fully assembled                     partly asssembled
+                                                       cis-SNARE complex                   trans-SNARE complex
+
+
+
+
+              Fusion completion                                                                                              Priming I
+                                       NSF         SNAPs
+                                                                            Ca2+-triggering of                          Complexin       Activation of
+         Fusion-pore           ATP                                                                                                        pre-fusion
+                                               &                           fusion-pore opening
+         expansion +                                                                                                                    SNARE/SM
+                                                                                                 Ca2+-binding   sites
+        NSF- & SNAP                                                                                                                        protein
+           binding                                                                                                                       complex by
+                                                                                                                                          complexin
+
+                                                                                   Ca2+
+                                       Ca2+ Ca2+               Ca2+ Ca2+
+
+
+
+
+                                    Fusion-pore opening                                            Priming II
+
+
+      Figure 11. Modeling how SNARE and SM proteins collaborate with synaptotagmins and
+      complexins in Ca2+-triggered neurotransmitter release
+        A. Atomic structures of SNARE proteins, complexin, and Syt1 during synaptic ves-
+      icle fusion. The illustration summarizes atomic structures obtained in collaboration with
+      Josep Rizo (UT Southwestern) of the Syt1 C2-domains (Shao et al., 1998; Fernandez et
+      al., 2001), the Syntaxin-1 Habc-domain (Ferndandez et al., 1997), and the assembled
+      SNARE complex containing bound complexin (pink; Chen et al., 2002). Transmembrane
+      regions are depicted as cylinders, and linker sequences as lines. All structures are in scale
+      relative to the synaptic vesicle, illustrating the space constraints of the collaboration be-
+      tween Syt1 and the SNARE complex/complexin assembly. Munc18-1 is also bound to the
+      SNARE complex at the same time (see Figs. 3D and 4) but is not shown since no structure
+      of Munc18-1 bound to the SNARE complex is available. The direction of the force pro-
+      duced by SNARE complex assembly that destabilizes the phospholipid membrane sur-
+      faces is indicated.
+                                                                                        (continues)
+
+
+
+
+ok.indb 290                                                                                                                                             11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release291
+
+
+              dimers? Recent studies revealed that one of these synaptotagmins, Syt10, also
+              acts as a Ca2+-sensor in exocytosis, but in a form of exocytosis that differs from
+              synaptic vesicle and neuroendocrine granule exocytosis. Specifically, we found
+              that Syt10 functions in olfactory neurons as a Ca2+-sensor for specialized vesicles
+              containing IGF-1 (Cao et al., 2011). These vesicles differ from neuropeptide-
+              containing vesicles present in the same neurons (which are more like neuroen-
+              docrine granules and contain Syt1; Cao et al., 2013). Among others, these exper-
+              iments demonstrated that even in a single neuron, different synaptotagmins act
+              as Ca2+-sensors for distinct Ca2+-triggered fusion reactions (Fig. 12). Moreover,
+              these observations indicated that Ca2+-triggered exocytosis generally depends
+              on synaptotagmin Ca2+-sensors, and that different synaptotagmins contribute
+              to the specificity and differential properties of distinct exocytosis pathways.
+                  Interestingly, complexin not only supports synaptotagmins acting in neu-
+              rotransmitter release, but also Syt10-dependent IGF1 secretion, despite the dif-
+              ferent covalent structures of Syt1 and Syt10 (Cao et al., 2013). Thus, complexin
+              likely is a general co-factor for all synaptotagmins in regulated exocytosis. This
+              hypothesis is supported by the fact that complexin is ubiquitously present in all
+              cells (McMahon et al., 1995), and is also central for the postsynaptic insertion
+              of AMPA-type glutamate receptors during LTP (Ahmad et al., 2012), suggesting
+              that complexins are general cofactors for regulated exocytosis.
+
+
+                
+                   B. Schematic diagram of the action of synaptotagmins and complexins in the
+              SNARE/SM protein cycle. The SNARE/SM protein cycle is composed of the assembly of
+              the SNARE proteins Synaptobrevin/VAMP, SNAP-25, and Syntaxin-1 into complexes
+              whose full formation forces fusion-pore opening; the SM protein Munc18-1 remains as-
+              sociated with Syntaxin-1 throughout the cycle and is essential for fusion-pore opening.
+              After fusion, the chaperone ATPase NSF and its SNAP adaptors catalyze SNARE-com-
+              plex dissociation. Complexin binds to partially assemble SNARE complexes during
+              priming, and serves as an essential adaptor that enables synaptotagmin to act as a Ca2+-
+              sensor in triggering fusion-pore opening (bottom limb of the cycle). Note that synapto-
+              tagmin likely constitutively interacts with the SNARE/SM protein complex in a Ca2+-in-
+              dependent manner to form a single prefusion complex prior to Ca2+-triggering of
+              exocytosis, and that Ca2+ does not cause an all-or-none binding of synaptotagmin to the
+              SNARE complex as it does for binding of synaptotagmin to phospholipids, but instead
+              causes a rearrangement of the prefusion complex. However, this is not shown in the dia-
+              gram due to difficulties of representing these multifarious three-dimensional interac-
+              tions in a two-dimensional format. Both synaptotagmins and complexins additionally
+              clamp spontaneous release, probably via their Ca2+-independent constitutive binding to
+              partly assembled SNARE complexes. Three vesicular synaptotagmins act as Ca2+-sensors
+              for fast exocytosis (Syt1, Syt2, and Syt9); in addition, Syt7 that is not present on synaptic
+              vesicles but probably localizes to the presynaptic plasma membrane (Sugita et al., 2001)
+              mediates slower forms of Ca2+-triggered exocytosis (Syt7 is only shown in the top over-
+              view for simplicity). Drawing was modified from Südhof (2013).
+
+
+
+
+ok.indb 291                                                                                                   11/4/14 2:29 PM
+
+
+      292                                                                    The Nobel Prizes
+
+
+
+
+      Figure 12. Overlapping and non-overlapping functions of different synaptotagmins in
+      Ca2+-triggering of various types of exocytosis in a single neuron. Three types of Ca2+-trig-
+      gered exocytosis are illustrated: Left, synaptic vesicle exocytosis mediating neurotrans-
+      mitter release that uses Syt1, Syt2, and/or Syt9 as fast Ca2+-sensors (Xu et al., 2007), and
+      Syt7 as a slow Ca2+-sensor (Bacaj et al., 2013). Center, large dense-core vesicle (LDCV)
+      exocytosis that uses the same Ca2+-sensors as synaptic vesicle exocytosis (Syt1 and Syt7
+      based on work in chromaffin cells [Sugita et al., 2001; Schonn et al., 2007], and probably
+      also Syt2 and Syt9). Right, exocytosis of a separate class of peptidergic vesicles that are
+      larger than LDCVs and utilize Syt10 as a Ca2+-sensor (Cao et al., 2011 and 2013). Note
+      that although Syt7 has been shown to operate in both synaptic vesicle and LDCV exo-
+      cytosis, it is absent from synaptic vesicles but present on LDCVs, and is thought that act
+      more slowly in neurotransmitter release because of its different localization. Diagram
+      was modified from Cao et al. (2011).
+
+
+
+
+      5. ORGANIZING THE RELEASE MACHINERY AT THE ACTIVE ZONE
+
+      In a presynaptic terminal, synaptic vesicles dock and fuse at the active zone of the
+      presynaptic plasma membrane. The active zone is a specialized area that appears
+      dense in electron microscopy pictures of fixed tissue and is localized precisely
+      opposite postsynaptic receptor clusters (Fig. 1). The first specific active zone
+      protein we identified was Munc13-1 (Brose et al., 1995). Munc 13-1 was named
+      like Munc18-1 (no relation!) after a homologous gene in C. elegans (unc13) that
+      is essential for coordinated worm movements but whose function was unknown
+      (Brenner, 1974). Based on this homology, the ‘uncoordinated’ worm phenotype,
+      and its localization to the active zone, we speculated that Munc13-1 may be
+      a component of the neurotransmitter release machinery (Brose et al., 1995).
+
+
+
+
+ok.indb 292                                                                                          11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release293
+
+
+              This supposition was confirmed when we analyzed knockout synapses lacking
+              Munc13-1, which exhibited a dramatic loss of synaptic vesicle priming (Augus-
+              tin et al., 1999).
+                  Quickly after Munc13-1, we identified a series of additional active zone pro-
+              teins such as CASK (Hata et al., 1996), RIMs (for Rab3-interacting molecules;
+              Wang et al., 1997), RIM-BPs (Wang et al., 2000), and ELKS (Wang et al., 2002;
+              see also Ohtsuka et al., 2002), while others identified additional active zone pro-
+              teins such as α-liprins (Zhen and Jin, 1999), bassoon (tom Dieck et al., 1998),
+              and piccolo (Wang et al., 1999; Fenster et al., 2000). Interestingly, most of these
+              proteins directly or indirectly bind to each other, forming a protein network at
+              the active zone (Südhof, 2012). Specifically, RIMs bind to Munc13-1, to RIM-
+              BPs, to ELKS (although it is not clear whether this binding is physiologically
+              important) and to α-liprins, suggesting that RIMs are the central hub of this
+              network, while additional interactions connect some of the other proteins with
+              each other (Wang et al., 2000 and 2003; Betz et al., 2001; Schoch et al., 2002).
+              Clearly, many questions about the active zone are still unanswered, most im-
+              portantly what mechanisms position the active zone precisely opposite a post-
+              synaptic specialization. Nevertheless, we now have a plausible view of how the
+              active zone performs its three main functions, namely the tethering (‘docking’)
+              of synaptic vesicles at the plasma membrane, the priming of such vesicles for fu-
+              sion, and the recruitment of Ca2+-channels next to docked and primed vesicles.
+
+
+              Tethering (‘docking’) of synaptic vesicles to the active zone
+              As in other membrane-trafficking processes, synaptic vesicle tethering involves
+              Rab proteins, small GTPases that are distantly related to ras proteins. The cen-
+              tral role of Rab proteins in membrane traffic was discovered in Novick’s studies
+              on Sec4p (Salminen and Novick, 1987). Following up on Novick’s work, we ob-
+              served in 1992 in collaboration with Reinhard Jahn that Rab3, the most abun-
+              dant Rab protein in brain, is highly enriched on synaptic vesicles at rest but
+              dissociates from the vesicles during exocytosis, suggesting a role in neurotrans-
+              mitter release (von Mollard et al., 1990 and 1991). Subsequent mouse genetic
+              analyses of the four different Rab3 isoforms (Rab3A, 3B, 3C, and 3D) confirmed
+              that Rab3 plays a central role in neurotransmitter release (Geppert et al., 1994b;
+              Schlüter et al., 2004 and 2006). Moreover, single Rab3 isoforms did perform
+              essential functions on their own in that deletions of Rab3A or Rab3B caused
+              major but distinct changes in short- and long-term forms of presynaptic plastic-
+              ity (Geppert et al., 1994b; Schlüter et al., 2004 and 2006; Tsetsenis et al., 2011).
+
+
+
+
+ok.indb 293                                                                                          11/4/14 2:29 PM
+
+
+      294                                                              The Nobel Prizes
+
+
+           In our search for a mechanism of action for Rab3s, we initially tested the
+      functional role of rabphilin, the first putative Rab3-effector identified by Yo-
+      shimi Takai (Shirataki et al., 1993). However, rabphilin deletions produced only
+      minor changes in release, suggesting that is it not a major player (Schlüter et al.,
+      1999; Deak et al., 2006).
+           We then searched for additional Rab3-effector proteins, defined by the
+      GTP-dependent binding to Rab3 but not other major Rabs. We identified RIMs
+      (for ‘Rab3-interacting molecules’), a family of large multi-domain active zone
+      proteins that are evolutionarily conserved (Wang et al., 1997 and 2000). In
+      mammals, four RIM-related genes are expressed, of which only two (RIMS1
+      and RIMS2) produce proteins that contain the Rab3-binding domain (Wang
+      et al., 2000 and 2002). The RIMS1 and RIMS2 genes, however, include mul-
+      tiple independent promoters, resulting in five principal forms (RIM1α, RIM1β,
+      RIM2α, RIM2β, and RIM2γ) that are further diversified by extensive alternative
+      splicing.
+           Subsequent studies extending over 15 years revealed that RIMs perform
+      multiple functions in the active zone which extend far beyond their role as
+      Rab3-effectors. As we will see below, RIMs are critical not only for tethering/
+      docking synaptic vesicles, but also for recruiting Ca2+-channels to the active
+      zone, for mediating short- and long-term presynaptic plasticity, and for activat-
+      ing the priming function of Munc13 proteins. As regards the tethering/dock-
+      ing function of RIMs that was suggested by their active zone localization and
+      Rab3-binding, this function was first validated in C. elegans, which contains
+      only a single RIM gene (referred to as unc10; Koushika et al., 2001; Gracheva et
+      al., 2008). However, in mice deletions of single RIM isoforms, including that of
+      the predominant RIM1α, did not detectably alter vesicle docking as analyzed by
+      conventional electron microscopy (Schoch et al., 2002), but double conditional
+      knockouts that deleted all isoforms produced by the RIMS1 and RIMS2 genes
+      exhibited a dramatic decrease in vesicle docking (Kaeser et al., 2011; Han et al.,
+      2011). Based on these studies, it is plausible that synaptic vesicles are tethered
+      (‘docked’) to active zones via a GTP-dependent binding of active zone RIM pro-
+      teins to synaptic vesicle Rab3/27 proteins.
+           It should be noted that no other proteins besides RIMs were found to be es-
+      sential for synaptic vesicle docking when such docking was analyzed in electron
+      micrographs of chemically fixed and traditionally stained sections. However, a
+      completely different picture emerges when electron microscopy is performed
+      on unfixed, rapidly frozen tissue—now, a large number of additional genes were
+      found to be essential for ‘docking’. In such preparations, even the single RIM1α
+
+
+
+
+ok.indb 294                                                                                  11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release295
+
+
+              knockout exhibits a docking phenotype. However, it is implausible that so many
+              proteins tether vesicles without redundancy, and these phenotypes may more
+              closely reflect priming than docking. Thus, although multiple molecules can
+              contribute to the stable attachment of synaptic vesicles to the active zone, only
+              RIMs appear to be truly required for docking. It should also be noted that ‘dock-
+              ing’ of secretory granules in chromaffin cells behaves differently from docking
+              of synaptic vesicles at the active zone. For example, the Syt1 KO blocks secretory
+              granule docking (de Wit et al., 2009) but not synaptic vesicle docking (Geppert
+              et al., 1994). However, the Syt1 KO has only a small effect on Ca2+-triggered exo-
+              cytosis in chromaffin cells in contrast to its large effect on synaptic exocytosis,
+              probably because Syt1 is fully redundant with Syt7 in chromaffin exocytosis but
+              not in synaptic exocytosis (Xu et al., 2007; Schonn et al., 2008). This discrepancy
+              between docking and exocytosis suggests that different from synapses, docking
+              may not even be essential for exocytosis in chromaffin cells.
+
+
+              Priming vesicles for fusion
+              Priming is thought to transfer vesicles into a readily-releasable pool (RRP) of
+              vesicles that are then competent for Ca2+-triggered fusion. A large number of
+              proteins have been implicated in priming. In addition to those proteins that are
+              involved in fusion itself (e.g., SNARE and SM proteins) and to complexin, the
+              most important priming factors are probably Munc13 and RIMs that bind to
+              each other.
+                  Analyses largely carried out in Nils Brose’s and Josep Rizo’s laboratories re-
+              vealed that Munc13 is essential for vesicle priming, probably because it cata-
+              lyzes SNARE-complex assembly via its MUN domain (Augustin et al., 1999;
+              Varoqueaux et al., 2002). The purified MUN domain can facilitate the open-
+              ing of ‘closed’ Syntaxin-1 for subsequent SNARE-complex assembly, providing
+              a mechanism for the phenotypes observed in mutant mice (Ma et al., 2011).
+              A striking observation is that Munc13 function is tightly regulated by multi-
+              ple signaling pathways. Among others, neuronal Munc13 isoforms contain a
+              C1-domain N-terminal to the central Ca2+-binding C2-domain. The Munc13
+              C1-domain binds diacylglycerol physiologically, and is activated pharmacologi-
+              cally by phorbol esters (Betz et al., 1998). Diacylglycerol binding to the Munc13
+              C1-domain regulates synaptic function since mouse mutants lacking phorbol
+              ester binding to Munc13-1 exhibit a dramatic impairment in priming and short-
+              term plasticity (Rhee et al., 2002). The Ca2+-binding C2-domain of Munc13s is
+              equally important since it also significantly contributes to short-term plasticity
+
+
+
+
+ok.indb 295                                                                                         11/4/14 2:29 PM
+
+
+      296                                                            The Nobel Prizes
+
+
+      of synapses (Shin et al., 2010). Finally, Munc13s bind to calmodulin which ad-
+      ditionally modulates its function (Lipstein et al., 2013).
+           Deletions of RIMs also cause a major impairment in priming (Schoch et
+      al., 2002; Koushika et al., 2001). The mechanism of this impairment, however,
+      seems to be indirect because RIMs bind to Munc13s and activate Munc13 func-
+      tion (Deng et al., 2011). Specifically, the N-terminal sequence of RIMs includes a
+      zinc-finger motif that avidly binds to the N-terminal Ca2+-independent C2-do-
+      main of Munc13 (Dulubova et al., 2005; Lu et al., 2006). Without such binding,
+      the Munc13-1 C2-domain forms a constitutive homodimer; upon RIM zinc-
+      finger binding, the homodimer is converted into a RIM-Munc13 heterodimer.
+      Strikingly, we found that the priming impairment in RIM-deficient synapses
+      can be at least partly suppressed by overexpression of an N-terminally trun-
+      cated Munc13-1 mutant that lacks the N-terminal C2-domain and no longer
+      homodimerizes, whereas overexpression of wild-type Munc13-1 has no effect
+      (Deng et al., 2011). These observations portray at least one mechanism by which
+      RIMs regulate the priming function of Munc13, consistent with an overall cen-
+      tral function of RIMs in all active zone activities.
+
+
+      Recruiting Ca2+-channels to the active zone
+      In order to achieve fast synchronous neurotransmitter release that is precisely
+      coupled to an action potential, the most important requirement is that Ca2+-
+      channels are localized at the active zone adjacent to docked and primed synaptic
+      vesicles. Only such an arrangement produces the short Ca2+-diffusion pathways
+      required for the requisite speed of a synapse, and only a short Ca2+-diffusion
+      path can explain how the extremely brief presynaptic Ca2+-transient triggers
+      release—after all, the Ca2+-sensors for neurotransmitter release and neuroen-
+      docrine exocytosis are the same, even though the latter are much slower than
+      the former.
+          A molecular mechanism that explains how synapses achieve the required
+      arrangement of Ca2+-channels and synaptic vesicles emerged with the demon-
+      stration that RIMs collaborate with their binding partners RIM-BPs to recruit
+      Ca2+-channels to release sites (Kaeser et al., 2011; Fig. 13). Since RIMs are also
+      the tethering agents for synaptic vesicles and contribute crucially to vesicle
+      priming, RIMs are thus the central elements in the organization of the active
+      zone that enable the amazing properties of neurotransmitter release. This simple
+      architecture of the active zone, whereby a single protein is the central agent in
+      assembling all components at one location, is at the same time parsimonious
+      and effective (Fig. 14).
+
+
+
+
+ok.indb 296                                                                                11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release297
+
+
+
+
+              Figure 13. RIM deletion decreases presynaptic Ca2+-transients
+                A. Isolated action potentials cause a rise in presynaptic Ca2+-concentrations that
+              is impaired by deletion of RIM proteins (RIM cDKO) but can be rescued by expres-
+              sion of a RIM1 fragment which binds to Ca2+-channels (RIM-PASB). Data show rep-
+              resentative traces of action potentials (top); line scans of Ca2+-transients in presyn-
+              aptic boutons induced by these action potentials, and monitored by fluorescence of
+              the Ca2+-indicator Fluo5F (middle); and quantitations of Ca2+-transients (bottom).
+                B. Summary plots of the time course of the intracellular Ca2+-concentration in
+              presynaptic terminals and in dendrites (inset) during an action potential. Data show
+              average Ca2+-concentrations monitored as shown in A in multiple independent experi-
+              ments in control neurons, neurons lacking RIM proteins (cDKO), and RIM-deficient
+              neurons that express a RIM fragment binding to Ca2+-channels (cDKO + RIM-PASB).
+                C. Same as B, except that rescue of impaired Ca2+-transients in RIM-deficient synapses
+              was tested for full-length wild-type RIM1α or for full-length RIM1α lacking the PDZ-domain.
+                 All images are from Kaeser et al. (2011).
+
+
+
+
+ok.indb 297                                                                                                 11/4/14 2:29 PM
+
+
+      298                                                                             The Nobel Prizes
+
+
+        synaptic
+         vesicle
+                                                                                                   x
+                                                           Rab3/27
+                                                                         Munc13
+                                                                     x
+
+
+
+
+                                                           G
+                                                            TP
+                                 Synapto-
+                                  tagmin
+                                                                                         x
+                Synaptobrevin/               C2                               RIM
+                    VAMP                              C2
+                                                                                  x
+                                 Munc18
+                                            Ca   2+
+                                                                                      RIM-BP
+                                                                 Ca2+
+                                                                                          active
+              Complexin                                                                    zone
+                                       SNAP-25
+
+                    Syntaxin                                             Ca2+-channel
+                                                                                        synaptic cleft
+
+      Figure 14. Schematic diagram of the RIM, RIM-BP, and Munc13 protein complex that
+      binds simultaneously to Rab3/27 on the synaptic vesicle and to Ca2+-channels on the plasma
+      membrane, thereby mediating the tethering (‘docking’) of vesicles at release sites, the prim-
+      ing of vesicles for release (arrow with dotted line), and the recruitment of Ca2+-channels
+      adjacent to tethered vesicles. RIM, RIM-BP, and Munc13 are multidomain proteins that
+      form a tight complex which mediates three essential functions of active zones: recruit-
+      ment of Ca2+-channels to enable tight coupling of action potentials to release by localiz-
+      ing Ca2+-influx next to the Ca2+-sensor synaptotagmin; docking of vesicles at the release
+      site; and Munc13-dependent priming of the fusion machinery composed of the SNARE
+      syntaxin, SNAP-25, synaptobrevin/VAMP, and Munc18-1. Spheres denote Ca2+-ions; of
+      the domains shown, only C2-domains are specifically labeled. Other active zone proteins
+      bind to the RIM/Munc13/RIM-BP complex such as α-liprins and ELKS, and contribute
+      to release but are not shown. Modified from Kaeser et al. (2011) and Südhof (2012).
+
+
+
+
+          We found that RIMs directly and selectively bind to Ca2+-channels expressed
+      in presynaptic active zones. Similar to the identification of the role of RIMs in
+      vesicle tethering/docking, however, identification of the role of RIMs in recruit-
+      ing Ca2+-channels to the active zone only became possible when we deleted all
+      RIM isoforms from presynaptic terminals (Kaeser et al., 2011). We found that
+      deletion of RIMs causes a decrease of presynaptic Ca2+-influx, a loss of pre-
+      synaptic Ca2+-channels, and a loss of the tight coupling of a presynaptic action
+      potential to release (Fig. 13; Han et al., 2011; Kaeser et al., 2011 and 2012). RIMs
+      perform their functions by forming a large complex with the Ca2+-channels,
+      with other active zone proteins such as RIM-BPs (which in turn also bind to
+      Ca2+-channels) and Munc13-1, and with synaptic vesicles. The role of RIMs and
+      RIM-BPs in recruiting Ca2+-channels and docking vesicles to active zones is
+
+
+
+
+ok.indb 298                                                                                               11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release299
+
+
+              evolutionarily conserved (Liu et al., 2011; Graf et al., 2012), and represents a
+              fundamental mechanism underlying synaptic transmission.
+
+
+              6. PUTTING IT ALL TOGETHER
+
+              The three levels of release that we have been studying—membrane fusion, Ca2+-
+              triggering of fusion, and the organization of the Ca2+-controlled fusion machin-
+              ery at the active zone—form a hierarchy of interdependent processes. Like a
+              Russian doll, these three levels are nestled into each other, with membrane fu-
+              sion as the inner core, and the scaffolding organizing the various components
+              into a single machine as the outer layer. Our work, together with that of others,
+              uncovered a plausible mechanism explaining how the synaptic vesicle mem-
+              brane and the plasma membrane undergo rapid fusion during neurotransmitter
+              release, how such fusion is triggered by Ca2+, and how those processes are spa-
+              tially organized in the presynaptic terminal, such that opening of Ca2+-channels
+              by an action potential allows rapid translation of the entering Ca2+ signal into a
+              fusion event.
+                   Together, the neurotransmitter release machinery that we uncovered ac-
+              counts for the astounding speed and precision of Ca2+-triggered release. More-
+              over, the overall design of this machinery and the identification of regulatory
+              domains in it suggest mechanisms to explain the dramatic short- and long-term
+              plasticity of release that plays a central role in determining circuit properties.
+              Nevertheless, many crucial questions remain. For example, what are the physi-
+              cochemical mechanisms underlying membrane fusion, how precisely do SNARE
+              and SM proteins work, what is the role of the fusion machine as outlined here in
+              disorders like Parkinson’s disease, how do presynaptic terminals undergo long-
+              term structural changes during plasticity, and what is the role of plasticity in
+              long-term memory? Moreover, what mechanisms render various types of syn-
+              apses different from each other—why do inhibitory synapses for example often
+              exhibit a higher release probability than excitatory synapses, and what mecha-
+              nisms confer distinct forms of plasticity onto different types of synapses? How is
+              the presynaptic active zone precisely aligned with the postsynaptic density, and
+              how is the size of a synapse regulated? Much remains to be done, and I hope to
+              see at least some of these intriguing questions addressed in my lifetime!
+
+
+              ACKNOWLEDGEMENTS
+
+              I thank my life-long mentors in science M.S. Brown, V.P. Whittaker, and J.L.
+              Goldstein for continuous advice, and my co-workers and collaborators for
+
+
+
+
+ok.indb 299                                                                                        11/4/14 2:29 PM
+
+
+      300                                                                The Nobel Prizes
+
+
+      invaluable guidance and support, in particular Reinhard Jahn, Robert E. Ham-
+      mer, Nils Brose, Rafael Fernandez-Chacon, Zhiping Pang, Irina Dulubova, Ji-
+      anyuan Sun, Axel Brunger, Christian Rosenmund, and Josep Rizo. I am grateful
+      to the Howard Hughes Medical Institute, the NIMH, and NINDS for financial
+      support for almost 30 years.
+
+
+      REFERENCES
+      Acuna C, Guo Q, Burre J, Sharma M, Sun J, and Südhof TC (2014). “Microsecond Dissec-
+           tion of Neurotransmitter Release: SNARE-Complex Assembly Dictates Speed and
+           Ca2+-Sensitivity.” Neuron 82,1088–1100.
+      Ahmad M et al. (2012). “Postsynaptic Complexin Controls AMPA Receptor Exocytosis
+           During LTP.” Neuron 73, 260–267.
+      Augustin I, Rosenmund C, Südhof TC, Brose N (1999). “Munc-13 is essential for fusion
+           competence of glutamatergic synaptic vesicles.” Nature 400, 457–461.
+      Bacaj T et al. (2013). “Synaptotagmin-1 and -7 Trigger Synchronous and Asynchronous
+           Phases of Neurotransmitter Release.” Neuron 80, 947–959.
+      Balch WE, Dunphy WG, Braell WA and Rothman JE (1984). “Reconstitution of the
+           transport of protein between successive compartments of the Golgi measured by
+           the coupled incorporation of N-acetylglucosamine.” Cell 39:405–416.
+      Betz A et al. (1998). “Munc13-1 is a presynaptic phorbol ester receptor that enhances
+           neurotransmitter release.” Neuron 21:123–36.
+      Betz A et al. (2001). “Functional interaction of the active zone proteins Munc13-1 and
+           RIM1 in synaptic vesicle priming.” Neuron 30:183–196.
+      Bollmann JH, Sakmann B and Borst JG (2000). “Calcium sensitivity of glutamate release
+           in a calyx-type terminal.” Science 289:953–957.
+      Borst JG and Sakmann B (1996). “Calcium influx and transmitter release in a fast CNS
+           synapse.” Nature 383:431–434.
+      Brenner S (1974). “The genetics of Caenorhabditis elegans.” Genetics 77:71–94.
+      Brose N, Petrenko AG, Südhof TC and Jahn R (1992). “Synaptotagmin: A Ca2+-sensor on
+           the synaptic vesicle surface.” Science 256:1021–1025.
+      Burré J et al. (2010). “α-Synuclein Promotes SNARE-Complex Assembly in Vivo and in
+           Vitro.” Science 329:1664–1668.
+      Cao P, Maximov A and Südhof TC (2011). “Activity-Dependent IGF-1 Exocytosis is Con-
+           trolled by the Ca2+-Sensor Synaptotagmin-10.” Cell 145:300–311.
+      Cao P, Yang X and Südhof TC (2013). “Complexin Activates Exocytosis of Distinct Secre-
+           tory Vesicles Controlled by Different Synaptotagmins.” J. Neurosci. 33:1714–1727.
+      Carr CM et al. (1999). “Sec1p binds to SNARE complexes and concentrates at sites of
+           secretion.” J. Cell Biol. 146:333–344.
+      Ceccarelli B, Hurlbut WP and Mauro A (1973). “Turnover of transmitter and synaptic
+           vesicles at the frog neuromuscular junction.” J. Cell Biol. 57:499–524
+      Chandra S et al. (2005). “α-Synuclein Cooperates with CSPα in Preventing Neurodegen-
+           eration.” Cell 123, 383–396.
+
+
+
+
+ok.indb 300                                                                                    11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release301
+
+
+              Chapman ER, Hanson PI, An S and Jahn R (1995). “Ca2+ regulates the interaction be-
+                   tween synaptotagmin and syntaxin 1.” J. Biol. Chem. 270:23667–23671.
+              Chen X et al. (2002). “Three-dimensional structure of the complexin/SNARE complex.”
+                   Neuron 33:397–409.
+              Clary DO, Griff IC and Rothman JE (1990). “SNAPs, a family of NSF attachment proteins
+                   involved in intracellular membrane fusion in animals and yeast.” Cell 61:709–721.
+              Coussens L et al. (1986). “Multiple, distinct forms of bovine and human protein kinase C
+                   suggest diversity in cellular signaling pathways.” Science 233:859–66.
+              Corbalan-Garcia S and Gómez-Fernández JC (2014). “Signaling through C2 domains:
+                   More than one lipid target.” Biochim Biophys Acta 1838:1536–1547.
+              Davletov BA and Südhof TC (1993). “A single C2-domain from synaptotagmin I is suffi-
+                   cient for high affinity Ca2+/phospholipid-binding.” J. Biol. Chem. 268:26386–26390.
+              Davletov BA and Südhof TC (1994). “Ca2+-dependent conformational change in synap-
+                   totagmin I.” J. Biol. Chem. 269:28547–28550.
+              Deák F et al. (2006). “Rabphilin Regulates SNARE-Dependent Re-Priming of Synaptic
+                   Vesicles for Fusion.” EMBO J. 25:2856–2866.
+              de Wit H et al. (2009). “Synaptotagmin-1 docks secretory vesicles to Syntaxin-1/SNAP-
+                   25 acceptor complexes.” Cell 138:935–946.
+              Deng L, Kaeser PS, Xu W and Südhof TC (2011). “RIM Proteins Activate Vesicle Priming
+                   by Reversing Auto-Inhibitory Homodimerization of Munc13.” Neuron 69:317–331.
+              DiAntonio A, Parfitt KD and Schwarz TL (1993). “Synaptic transmission persists in syn-
+                   aptotagmin mutants of Drosophila.” Cell 73:1281–1290.
+              Dulubova I, et al. (1999). “A conformational switch in syntaxin during exocytosis.”
+                   EMBO J. 18:4372–4382.
+              Dulubova I et al. (2002). “How Tlg2p/syntaxin16 ‘snares’ Vps45.” EMBO J. 21:3620–3631.
+              Dulubova I et al. (2005). “A Munc13/RIM/Rab3 Tripartite Complex: From Priming to
+                   Plasticity?” EMBO J. 24:2839–2850.
+              Dulubova I, Khvotchev M, Südhof TC and Rizo J (2007). “Munc18-1 Binds Directly to
+                   the Neuronal SNARE Complex.” Proc. Natl. Acad. Sci. U.S.A. 104: 2697–2702.
+              Fenster SD et al. (2000). “Piccolo, a presynaptic zinc finger protein structurally related to
+                   bassoon.” Neuron 25:203–214.
+              Fernandez I et al. (1998). “Three-dimensional structure of an evolutionarily conserved
+                   N-terminal domain of syntaxin 1A.” Cell 94:841–849.
+              Fernandez I et al. (2001). “Three-dimensional structure of the synaptotagmin 1 C2B-do-
+                   main: Synaptotagmin 1 as a phospholipid binding machine.” Neuron 32:1057–1069.
+              Fernández-Chacón R et al. (2001). “Synaptotagmin I functions as a Ca2+-regulator of
+                   release probability.” Nature 410:41–49.
+              Fernandez-Chacon R and Südhof TC (2000). “Novel SCAMPs lacking NPF repeats:
+                   ubiquitous and synaptic vesicle-specific forms implicate SCAMPs in multiple mem-
+                   brane-trafficking functions.” J. Neurosci. 20:7941–7950.
+              Fernandez-Chacon et al. (2004). “The synaptic vesicle protein CSPα prevents presynap-
+                   tic degeneration.” Neuron 42:237–251.
+              Forsythe ID (1994). “Direct patch recording from identified presynaptic terminals medi-
+                   ating glutamatergic EPSCs in the rat CNS, in vitro.” J. Physiol. 479 (Pt 3):381–387.
+
+
+
+
+ok.indb 301                                                                                                   11/4/14 2:29 PM
+
+
+      302                                                                   The Nobel Prizes
+
+
+      Garcia EP et al. (1994). “A rat brain Sec1 homologue related to Rop and UNC18 interacts
+           with syntaxin.” Proc. Natl. Acad. Sci. U.S.A. 91:2003–2007.
+      Geppert M, Archer BT III and Südhof TC (1991). “Synaptotagmin II: a novel differen-
+           tially distributed form of synaptotagmin.” J. Biol. Chem. 266:13548–13552
+      Geppert M et al. (1994a). “Synaptotagmin I: A major Ca2+-sensor for transmitter release
+           at a central synapse.” Cell 79:717–727.
+      Geppert M et al. (1994b). “The role of Rab3A in neurotransmitter release.” Nature
+           369:493–497.
+      Gerber SH et al. (2008). “Conformational Switch of Syntaxin-1 Controls Synaptic Vesicle
+           Fusion.” Science 321:1507–1510.
+      Giraudo CG, Eng WS, Melia TJ and Rothman JE (2006). “A clamping mechanism in-
+           volved in SNARE-dependent exocytosis.” Science 313:676–80.
+      Gracheva EO, Hadwiger G, Nonet ML and Richmond JE (2008). “Direct interactions
+           between C. elegans RAB-3 and Rim provide a mechanism to target vesicles to the
+           presynaptic density.” Neurosci Lett. 444:137–142.
+      Graf ER et al. (2012). “RIM promotes calcium channel accumulation at active zones of
+           the Drosophila neuromuscular junction.” J. Neurosci. 32:16586–16596.
+      Grote E, Carr CM and Novick PJ (2000). “Ordering the final events in yeast exocytosis.”
+           J. Cell Biol. 151:439–452.
+      Grumelli C et al. (2005). “Internalization and mechanism of action of clostridial toxins in
+           neurons.” Neurotoxicology 26:761–767.
+      Gundersen CB, Mastrogiacomo A, Faull K and Umbach JA (1994). “Extensive lipidation
+           of a Torpedo cysteine string protein.” J. Biol Chem. 269:19197–19199.
+      Gustavsson N et al. (2008). “Impaired insulin secretion and glucose intolerance in Synap-
+           totagmin-7 null mutant mice.” Proc. Natl. Acad. Sci. U.S.A. 105:3992–3997.
+      Gustavsson N et al. (2009). “Synaptotagmin-7 is a principal Ca2+ sensor for Ca2+-induced
+           glucagon exocytosis in pancreas.” J. Physiol. 587:1169–1178
+      Han Y, Kaeser PS, Südhof TC and Schneggenburger R (2011). “RIM determines Ca2+-
+           channel density and vesicle docking at the presynaptic active zone.” Neuron
+           69:304–316.
+      Hanson PI et al. (1997). “Structure and conformational changes in NSF and its mem-
+           brane receptor complexes visualized by quick-freeze/deep-etch electron micros-
+           copy.” Cell 90:523–35.
+      Harrison SD, Broadie K, van de Goor J and Rubin GM (1994). “Mutations in the Dro-
+           sophila Rop gene suggest a function in general secretion and synaptic transmission.”
+           Neuron 13:555–66.
+      Hata Y, Slaughter CA and Südhof TC (1993). “Synaptic vesicle fusion complex contains
+           unc-18 homologue bound to syntaxin.” Nature 366:347–351.
+      Hayashi T et al. (1994). “Synaptic vesicle membrane fusion complex: Action of clostridial
+           neurotoxins on assembly.” EMBO J. 13:5051–5061.
+      Heuser JE and Reese TS (1973). “Evidence for recycling of synaptic vesicle mem-
+           brane during transmitter release at the frog neuromuscular junction.” J. Cell Biol.
+           57:315–344.
+      Huntwork S and Littleton JT (2007). “A complexin fusion clamp regulates spontaneous
+           neurotransmitter release and synaptic growth.” Nat. Neurosci. 10:1235–1237.
+
+
+
+
+ok.indb 302                                                                                         11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release303
+
+
+              Ishizuka T, Saisu H, Odani S and Abe T (1995). “Synaphin: a protein associated with the
+                    docking/fusion complex in presynaptic terminals.” Biochem. Biophys. Res. Commun.
+                    213:1107–1114.
+              Janz R, Hofmann K and Südhof TC (1998). “SVOP, an evolutionarily conserved synaptic
+                    vesicle protein, suggests novel transport functions of synaptic vesicles.” J. Neurosci.
+                    18:9269–9281.
+              Janz, R et al. (1999). “Essential roles in synaptic plasticity for synaptogyrin I and synap-
+                    tophysin I.” Neuron 24:687–700.
+              Katz B (1969). “The Release of Neural Transmitter Substances.” Liverpool: Liverpool Univ.
+                    Press.
+              Kaeser PS et al. (2011). “RIM proteins tether Ca2+-channels to presynaptic active zones
+                    via a direct PDZ-domain interaction.” Cell 144:282–295.
+              Kaeser PS, Deng L, Fan M and Südhof TC (2012). “RIM Genes Differentially Con-
+                    tribute to Organizing Presynaptic Release Sites.” Proc. Natl. Acad. Sci. U.S.A.
+                    109:11830–11835.
+              Kaeser-Woo YJ, Yang X and Südhof TC (2012). “C-terminal Complexin Sequence is Se-
+                    lectively Required for Clamping and Priming but Not for Ca2+-Triggering of Synap-
+                    tic Exocytosis.” J. Neurosci. 32:2877–2885.
+              Khvotchev M et al. (2007). “Dual Modes of Munc18-1/SNARE Interactions Are Cou-
+                    pled by Functionally Critical Binding to Syntaxin-1 N-terminus.” J. Neurosci.
+                    27:12147–12155.
+              Koushika SP et al. (2001). “A post-docking role for active zone protein Rim.” Nat. Neu-
+                    rosci. 4:997–1005.
+              Lee JO et al. (1999). “Crystal structure of the PTEN tumor suppressor: implications for its
+                    phosphoinositide phosphatase activity and membrane association.” Cell 99:323–34.
+              Li C et al. (1995). “Ca2+-dependent and Ca2+-independent activities of neural and non-
+                    neural synaptotagmins.” Nature 375:594–599.
+              Li C, Davletov BA and Südhof TC (1995). “Distinct Ca2+- and Sr2+-binding properties of
+                    synaptotagmins: definition of candidate Ca2+-sensors for the fast and slow compo-
+                    nents of neurotransmitter release.” J. Biol. Chem. 270:24898–24902.
+              Lin RC and Scheller RH (1997). “Structural organization of the synaptic exocytosis core
+                    complex.” Neuron 19:1087–94.
+              Link E, et al. (1992). “Tetanus toxin action: Inhibition of neurotransmitter release linked
+                    to synaptobrevin poteolysis.” Biochem. Biophys. Res. Comm. 189:1017–1023.
+              Lipstein N et al. (2013). “Dynamic control of synaptic vesicle replenishment and short-
+                    term plasticity by Ca2+-calmodulin-Munc13-1 signaling.” Neuron 79:82–96.
+              Littleton JT et al. (1993). “Mutational analysis of Drosophila synaptotagmin demonstrates
+                    its essential role in Ca2+-activated neurotransmitter release.” Cell 74:1125–1134.
+              Liu KS et al. (2011). “RIM-binding protein, a central part of the active zone, is essential
+                    for neurotransmitter release.” Science 334:1565–1569.
+              Lu J et al. (2006). “Structural Basis for a Munc13-1 Homodimer-Munc13-1/RIM Het-
+                    erodimer Switch: C2-domains as Versatile Protein-Protein Interaction Modules.”
+                    PLOS Biology 4:e192.
+              Ma C, Li W, Xu Y and Rizo J (2011). “Munc13 mediates the transition from the closed syn-
+                    taxin-Munc18 complex to the SNARE complex.” Nat. Struct. Mol. Biol. 18:542–549.
+
+
+
+
+ok.indb 303                                                                                                   11/4/14 2:29 PM
+
+
+      304                                                                   The Nobel Prizes
+
+
+      Mackler JM and Reist NE (2001). “Mutations in the second C2 domain of synaptotagmin
+           disrupt synaptic transmission at Drosophila neuromuscular junctions.” J. Comp.
+           Neurol. 436:4–16.
+      Maroteaux L, Campanelli JT and Scheller RH (1988). “Synuclein: a neuron-specific pro-
+           tein localized to the nucleus and presynaptic nerve terminal.” J. Neurosci. 8:2804–15.
+      Matthew WD, Tsavaler L and Reichardt LF (1981). “Identification of a synaptic vesicle-
+           specific membrane protein with a wide distribution in neuronal and neurosecretory
+           tissue.” J. Cell Biol. 91:257–69.
+      Maximov A and Südhof TC (2005). “Autonomous Function of Synaptotagmin 1 in
+           Triggering Synchronous Release Independent of Asynchronous Release.” Neuron
+           48:547–554.
+      Maximov A et al. (2008). “Genetic analysis of Synaptotagmin-7 function in synaptic
+           vesicle exocytosis.” Proc. Natl. Acad. Sci. U.S.A. 105:3986–3991.
+      Maximov A et al. (2009). “Complexin Controls the Force Transfer from SNARE com-
+           plexes to membranes in Fusion.” Science 323:516–521.
+      Mayer A, Wickner W and Haas A (1996). “Sec18p (NSF)-driven release of Sec17p (al-
+           pha-SNAP) can precede docking and fusion of yeast vacuoles.” Cell 85:83–94.
+      McMahon H et al. (1993). “Cellubrevin: A ubiquitous tetanus-toxin substrate homolo-
+           gous to a putative synaptic vesicle fusion protein.” Nature 364:346–349.
+      McMahon HT and Südhof TC (1995). “Synaptic core complex of synaptobrevin, syntaxin,
+           and SNAPS forms high affinity α-SNAP binding site.” J. Biol. Chem. 270:2213–2217.
+      McMahon HT, Missler M, Li C and Südhof TC (1995). “Complexins: cytosolic proteins
+           that regulate SNAP-receptor function.” Cell 83:111–119.
+      Meijer M et al. (2012). “Munc18-1 mutations that strongly impair SNARE-complex bind-
+           ing support normal synaptic transmission.” EMBO J. 31:2156–2168.
+      Nonet ML, Grundahl K, Meyer BJ and Rand JB (1993). “Synaptic function is impaired but
+           not eliminated in C. elegans mutants lacking synaptotagmin.” Cell 73:1291–1305.
+      Novick P and Schekman R (1979). “Secretion and cell-surface growth are blocked in a
+           temperature-sensitive mutant of Saccharomyces cerevisiae.” Proc. Natl. Acad. Sci.
+           U.S.A. 76:1858–1862.
+      Ohtsuka T et al. (2002). “Cast: a novel protein of the cytomatrix at the active zone of
+           synapses that forms a ternary complex with RIM1 and munc13-1.” J. Cell Biol.
+           158:577–590.
+      Pang ZP et al. (2006a). “A gain-of-function mutation in Synaptotagmin-1 reveals a criti-
+           cal role of Ca2+-dependent SNARE-complex binding in synaptic exocytosis.” J. Neu-
+           rosci. 26, 12556–12565.
+      Pang ZP et al. (2006b). “Genetic Analysis of Synaptotagmin 2 in Spontaneous and Ca2+-
+           Triggered Neurotransmitter Release.” EMBO J. 25:2039–2050.
+      Pang ZP et al. (2007). “Synaptotagmin-2 is Essential for Survival and Contributes to
+           Ca2+-Triggering of Neurotransmitter Release in Central and Neuromuscular Syn-
+           apses.” J. Neurosci. 26:13493–13504.
+      Perin MS, Fried VA, Slaughter CA and Südhof TC (1988). “The structure of cytochrome
+           b561, a secretory vesicle-specific electron transport protein.” EMBO J. 7:2697–2703.
+      Perin MS et al. (1990). “Phospholipid binding by a synaptic vesicle protein homologous
+           to the regulatory region of protein kinase C.” Nature 345:260–263.
+
+
+
+
+ok.indb 304                                                                                         11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release305
+
+
+              Perin MS et al. (1991). “Structure of the 116 kDa polypeptide of the clathrin-coated ves-
+                   icle/synaptic vesicle proton pump.” J. Biol. Chem. 266:3877–3881.
+              Perin MS et al. (1991). “Structural and functional conservation of synaptotagmin (p65)
+                   in Drosophila and humans.” J. Biol. Chem. 266:615–622.
+              Pevsner J, Hsu SC and Scheller RH (1994). “n-Sec1: a neural-specific syntaxin-binding
+                   protein.” Proc. Natl. Acad. Sci. U.S.A. 91:1445–1449.
+              Poirier MA et al. (1998). “The synaptic SNARE complex is a parallel four-stranded helical
+                   bundle.” Nat Struct Biol. 5:765–769.
+              Rathore SS et al. (2010). “Syntaxin N-terminal peptide motif is an initiation factor for
+                   the assembly of the SNARE-Sec1/Munc18 membrane fusion complex.” Proc. Natl.
+                   Acad. Sci. U.S.A. 107:22399–22406.
+              Regehr WG (2012). “Short-term presynaptic plasticity.” Cold Spring Harb Perspect Biol.
+                   4:a005702.
+              Reim K et al. (2001). “Complexins regulate the Ca2+-sensitivity of the synaptic neu-
+                   rotransmitter release machinery.” Cell 104:71–81.
+              Rhee JS et al. (2002). “Beta phorbol ester- and diacylglycerol-induced augmentation of
+                   transmitter release is mediated by Munc13s and not by PKCs.” Cell 108:121–133.
+              Rizo J and Südhof TC (1998). “C2-domains, structure of a universal Ca2+-binding do-
+                   main.” J. Biol. Chem. 273:15879–15882.
+              Rizo J and Südhof TC (2012). “The Membrane Fusion Enigma: SNAREs, SM Sec1/
+                   Munc18 Proteins, and Their Accomplices—Guilty as Charged?” Annu. Rev. Cell
+                   Dev. Biol. 28: 279–308.
+              Robinson IM, Ranjan R and Schwarz TL (2002). “Synaptotagmin I and IV promote
+                   transmitter release independently of Ca2+ binding in the C2A domain.” Nature
+                   418:336–340.
+              Rosahl TW et al. (1993). “Short term synaptic plasticity is altered in mice lacking synap-
+                   sin I.” Cell 75:661–670.
+              Sabatini BL and Regehr WG (1996). “Timing of neurotransmission at fast synapses in the
+                   mammalian brain.” Nature 384:170–172.
+              Salminen A and Novick PJ (1987). “A ras-like protein is required for a post-Golgi event
+                   in yeast secretion.” Cell 49:527–538.
+              Schiavo G et al. (1992). “Tetanus and botulinum-B neurotoxins block neurotransmitter
+                   release by proteolytic cleavage of synaptobrevin.” Nature 359:832–835.
+              Schiavo G et al. (1993). “Identification of the nerve terminal targets of botulinum neuro-
+                   toxin serotypes A, D, and E.” J. Biol. Chem. 268:23784–23787.
+              Schlüter OM et al. (1999). “Rabphilin knock-out mice reveal rat rabphilin is not required
+                   for rab3 function in regulating neurotransmitter release.” J. Neurosci. 19:5834–5846.
+              Schlüter OM et al. (2004). “A complete genetic analysis of neuronal Rab3 function.” J.
+                   Neurosci. 24:6629–6637.
+              Schlüter OM, Südhof TC and Rosenmund C (2006). “Rab3 Superprimes Synaptic
+                   Vesicles for Release: Implications for Short Term Synaptic Plasticity.” J. Neurosci.
+                   26:1239–1246.
+              Schoch S et al. (2002). “RIM1α forms a protein scaffold for regulating neurotransmitter
+                   release at the active zone.” Nature 415:321–326.
+
+
+
+
+ok.indb 305                                                                                                11/4/14 2:29 PM
+
+
+      306                                                                   The Nobel Prizes
+
+
+      Schonn J et al. (2008). “Synaptotagmin-1 and -7 are functionally overlapping Ca2+ sen-
+           sors for exocytosis in adrenal chromaffin cells.” Proc. Natl. Acad. Sci. U.S.A. 105:
+           3998–4003.
+      Schoch S et al. (2002) RIM1α forms a protein scaffold for regulating neurotransmitter
+           release at the active zone.” Nature 415:321–326.
+      Shao X et al. (1996). “Bipartite Ca2+-binding motif in C2 domains of synaptotagmin and
+           protein kinase C.” Science 273:248–251.
+      Shao X et al. (1997). “Synaptotagmin-syntaxin interaction: the C2-domain as a Ca2+-
+           dependent electrostatic switch.” Neuron 18:133–142.
+      Shao X, Fernandez I, Südhof TC and Rizo J (1998). “Solution structures of the Ca2+-free
+           and Ca2+-bound C2A domain of synaptotagmin I: does Ca2+ induce a conforma-
+           tional change? Biochemistry 37:16106–16115.
+      Sharma M et al. (2011a). “CSPα Knockout Causes Neurodegeneration by Impairing
+           SNAP-25 Function.” EMBO J. 31:829–841.
+      Sharma M, Burré J and Südhof TC (2011b). “CSPα Promotes SNARE-Complex Assem-
+           bly by Chaperoning SNAP-25 during Synaptic Activity.” Nature Cell Biol. 13:30–39.
+      Sharma M, Burré J and Südhof TC (2012). “Proteasome Inhibition Alleviates SNARE-
+           Dependent Neurodegeneration in CSPα Knockout Mice.” Science Transl. Medicine
+           4: 147ra113.
+      Shen J et al. (2007). “Selective activation of cognate SNAREpins by Sec1/Munc18 pro-
+           teins.” Cell 128:183–95.
+      Shirataki H et al. (1993). “Rabphilin-3A, a putative target protein for smg p25A/rab3A
+           p25 small GTP-binding protein related to synaptotagmin.” Mol. Cell Biol. 13:2061–8.
+      Shin O-H et al. (2003). “Sr2+-Binding to the Ca2+-Binding Site of the Synaptotagmin 1
+           C2B-Domain Triggers Fast Exocytosis Without Stimulating SNARE Interactions.”
+           Neuron 37:99–108.
+      Shin O-H, Xu J, Rizo J and Südhof TC (2009). “Differential but convergent functions of
+           Ca2+-binding to Synaptotagmin-1 C2-domains mediate neurotransmitter release.”
+           Proc. Natl. Acad. Sci. U.S.A. 106:16469–16474.
+      Shin O-H et al. (2010). “Munc13 C2B-domain—an activity-dependent Ca2+-regulator of
+           synaptic exocytosis.” Nature Struct. Mol. Biol. 17:280–288.
+      Schneggenburger R and Neher E (2000). “Intracellular calcium dependence of transmit-
+           ter release rates at a fast central synapse.” Nature 406:889–893.
+      Söllner T et al. (1993). “SNAP receptors implicated in vesicle targeting and fusion.” Na-
+           ture 362:318–324.
+      Söllner T, Bennett MK, Whiteheart SW, Scheller RH and Rothman JE (1993). “A protein
+           assembly-disassembly pathway in vitro that may correspond to sequential steps of
+           synaptic vesicle docking, activation, and fusion.” Cell 75:409–418.
+      Sørensen JB, Fernandez-Chacon R, Südhof TC and Neher E (2003). “Examining synap-
+           totagmin 1 function in dense core vesicle exocytosis under direct control of Ca2+.” J.
+           Gen. Physiol. 122:265–276.
+      Stein A, Weber G, Wahl MC and Jahn R (2009). “Helical extension of the neuronal
+           SNARE complex into the membrane.” Nature 460:525–8.
+      Südhof TC (2004). “The synaptic vesicle cycle.” Annu. Rev. Neurosci. 27:509–547.
+      Südhof TC (2012). “The presynaptic active zone.” Neuron 75:11–25.
+
+
+
+
+ok.indb 306                                                                                         11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release307
+
+
+              Südhof TC (2013). “A molecular machine for neurotransmitter release: Synaptotagmin
+                   and beyond.” Nature Medicine 19:1227–1231.
+              Südhof TC (2013). “Neurotransmitter release: The last millisecond in the life of a synap-
+                   tic vesicle.” Neuron 80:675–690.
+              Südhof TC et al. (1987). “Synaptophysin: A synaptic vesicle protein with four transmem-
+                   brane regions and a novel cytoplasmic domain.” Science 238:1142–1144.
+              Südhof TC et al. (1989a). “Synapsins: mosaics of shared and individual domains in a fam-
+                   ily of synaptic vesicle phosphoproteins.” Science 245:1474–1480
+              Südhof TC, Baumert M, Perin MS and Jahn R (1989b). “A synaptic vesicle membrane
+                   protein is conserved from mammals to Drosophila.” Neuron 2:1475–1481.
+              Südhof TC et al. (1989c). “Human endomembrane H+-pump strongly resembles the
+                   ATP-synthetase of archaebacteria.” Proc. Natl. Acad. Sci. U.S.A. 86:6067–6071.
+              Südhof TC and Jahn R (1991). “Proteins of synaptic vesicles involved in exocytosis and
+                   membrane recycling.” Neuron 6:665–677.
+              Südhof TC, DeCamilli P, Niemann H and Jahn R (1993). “Membrane fusion machinery:
+                   Insights from synaptic proteins.” Cell 75:1–4.
+              Südhof TC and Rothman JE (2009). “Membrane Fusion: Grappling with SNARE and SM
+                   Proteins.” Science 323:474–477.
+              Sugita S, Hata Y and Südhof TC. (1996). “Distinct Ca2+ dependent properties of the first
+                   and second C2-domains of synaptotagmin I.” J. Biol. Chem. 271:1262–1265
+              Sugita S et al. (2001). “Synaptotagmin VII as a plasma membrane Ca2+-sensor in exocy-
+                   tosis.” Neuron 30:459–473
+              Sugita S et al. (2002). “Synaptotagmins form a hierarchy of exocytotic Ca2+-sensors with
+                   distinct Ca2+-affinities.” EMBO J. 21:270–280
+              Sun J et al. (2007). “A Dual Ca2+-Sensor Model for Neuro-transmitter Release in a Cen-
+                   tral Synapse.” Nature 450:676–682.
+              Sutton RB et al. (1995). “Structure of the first C2-domain of synaptotagmin I: A novel
+                   Ca2+/phospholipid binding fold.” Cell 80:929–938.
+              Sutton RB, Fasshauer D, Jahn R and Brunger AT (1998). “Crystal structure of a SNARE
+                   complex involved in synaptic exocytosis at 2.4 A resolution.” Nature 395:347–353.
+              Tang J et al. (2006). “A Complexin/Synaptotagmin-1 Switch Controls Fast Synaptic Vesi-
+                   cle Exocytosis.” Cell 126:1175–1187.
+              tom Dieck S et al. (1998). “Bassoon, a novel zinc-finger CAG/glutamine-repeat protein
+                   selectively localized at the active zone of presynaptic nerve terminals.” J. Cell Biol.
+                   142:499–509.
+              Tobaben S et al. (2001). “A trimeric protein complex functions as a synaptic chaperone
+                   machine.” Neuron 31:987–999.
+              Touchot N, Chardin P and Tavitian A (1987). “Four additional members of the ras gene
+                   superfamily isolated by an oligonucleotide strategy: molecular cloning of YPT-re-
+                   lated cDNAs from a rat brain library.” Proc. Natl. Acad. Sci. U.S.A. 84:8210–8214.
+              Tsetsenis T et al. (2011). “Rab3B protein is required for long-term depression of hippo-
+                   campal inhibitory synapses and for normal reversal learning.” Proc. Natl. Acad. Sci.
+                   U.S.A. 108:14300–14305.
+
+
+
+
+ok.indb 307                                                                                                  11/4/14 2:29 PM
+
+
+      308                                                                  The Nobel Prizes
+
+
+      Varoqueaux F et al. (2002). “Total arrest of spontaneous and evoked synaptic transmis-
+           sion but normal synaptogenesis in the absence of Munc13-mediated vesicle prim-
+           ing.” Proc. Natl. Acad. Sci. U.S.A. 99:9037–9042.
+      Verhage M et al. (2000). “Synaptic assembly of the brain in the absence of neurotransmit-
+           ter secretion.” Science 287:864–869.
+      Voets T et al. (2001). “Intracellular calcium dependence of large dense-core vesicle exo-
+           cytosis in the absence of synaptotagmin I.” Proc. Natl. Acad. Sci. U.S.A. 98:11680–​
+           11685.
+      von Mollard GF et al. (1990). “Rab3 is a small GTP-binding protein exclusively localized
+           to synaptic vesicles.” Proc. Natl. Acad. Sci. U.S.A. 87:1988–1992.
+      von Mollard GF, Südhof TC and Jahn R (1991). “A small GTP-binding protein (rab3A)
+           dissociates from synaptic vesicles during exocytosis.” Nature 349:79–81.
+      Wang Y et al. (1997). “RIM: A putative Rab3-effector in regulating synaptic vesicle fu-
+           sion.” Nature 388:593–598.
+      Wang X et al. (1999). “Aczonin, a 550-kD putative scaffolding protein of presynaptic ac-
+           tive zones, shares homology regions with Rim and Bassoon and binds profilin.” J.
+           Cell Biol. 147:151–162.
+      Wang Y, Sugita S and Südhof TC (2000). “The RIM/NIM family of neuronal SH3-domain
+           proteins: interactions with Rab3 and a new class of neuronal SH3-domain proteins.”
+           J. Biol. Chem. 275:20033–20044.
+      Wang Y, Liu X, Biederer T and Südhof TC. (2002). “A family of RIM-binding proteins
+           regulated by alternative splicing: Implications for the genesis of synaptic active
+           zones.” Proc. Natl. Acad. Sci. U.S.A. 99:14464–14469.
+      Weber T et al. (1998). “SNAREpins: minimal machinery for membrane fusion.” Cell 92:
+           759–772.
+      Wen H et al. (2010). “Distinct roles for two synaptotagmin isoforms in synchronous and
+           asynchronous transmitter release at zebrafish neuromuscular junction.” Proc. Natl.
+           Acad. Sci. U.S.A. 107:13906–13911.
+      Whittaker VP and Sheridan MN (1965). “The morphology and acetylcholine content of
+           isolated cerebral cortical synaptic vesicles.” J. Neurochem. 12:363–372
+      Wilson DW et al. (1989). “A fusion protein required for vesicle-mediated transport in
+           both mammalian cells and yeast.” Nature 339:355–359.
+      Xu J, Mashimo T and Südhof TC (2007). “Synaptotagmin-1, -2, and -9: Ca2+-sensors
+           for fast release that specify distinct presynaptic properties in subsets of neurons.”
+           Neuron 54: 801–812.
+      Xu J, Pang ZP, Shin OH and Südhof TC (2009). “Synaptotagmin-1 functions as a Ca2+
+           sensor for spontaneous release.“ Nature Neurosci. 12, 759–766.
+      Xue M et al. (2007). “Distinct domains of complexin I differentially regulate neurotrans-
+           mitter release.” Nat. Struct. Mol. Biol. 14:949–958.
+      Yamaguchi T et al. (2002). “Sly1 binds to Golgi and ER syntaxins via a conserved N-
+           terminal peptide motif.” Developmental Cell 2:295–305.
+      Yang X et al. (2010). “Complexin Clamps Asynchronous Release by Blocking a Second-
+           ary Ca2+-Sensor via its Accessory a-Helix.” Neuron 68:907–920.
+
+
+
+
+ok.indb 308                                                                                        11/4/14 2:29 PM
+
+
+              The Molecular Machinery of Neurotransmitter Release309
+
+
+              Yang X, Cao P and Südhof TC (2013). “Deconstructing complexin function in activating
+                  and clamping Ca2+-triggered exocytosis by comparing knockout and knockdown
+                  phenotypes.” Proc. Natl. Acad. Sci. U.S.A. 110:20777–20782.
+              Zhen M and Jin Y (1999). “The liprin protein SYD-2 regulates the differentiation of pre-
+                  synaptic termini in C. elegans.” Nature 401:371–375.
+              Zhou P et al. (2013). “Syntaxin-1 N-Peptide and Habc-Domain Perform Distinct Essen-
+                  tial Functions in Synaptic Vesicle Fusion.” EMBO J. 32:159–171.
+              Zhou P et al. (2013b). “Lipid-Anchored SNARE Lacking Transmembrane Regions Sup-
+                  port Membrane Fusion During Neurotransmitter Release.” Neuron 80:470–483.
+              Zimmermann H and Whittaker VP (1997). “Morphological and biochemical heteroge-
+                  neity of cholinergic synaptic vesicles.” Nature 267:633–635.
+
+              Portrait photo of Thomas C. Südhof by photographer Alexander Mahmoud.
+
+
+
+
+ok.indb 309                                                                                              11/4/14 2:29 PM
+

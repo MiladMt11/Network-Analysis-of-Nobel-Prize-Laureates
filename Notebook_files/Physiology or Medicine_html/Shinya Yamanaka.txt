@@ -1,0 +1,1013 @@
+                The Winding Road
+                to Pluripotency
+                Nobel Lecture, December 7, 2012
+
+                by Shinya Yamanaka
+                Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto 606-8507, Japan.
+                Gladstone Institute of Cardiovascular Disease, San Francisco, CA 94158, USA.
+
+
+
+                INTRODUCTION
+
+                John Gurdon received recognition for his landmark achievement in 1962, which
+                provided the first experimental evidence of reprogramming by the transplanta-
+                tion of amphibian somatic cell nuclei into enucleated oocytes [1]. This break-
+                through in technology introduced a new paradigm; that each nucleus of a dif-
+                ferentiated cell retains a complete set of blueprints for the whole body, while
+                oocytes possess a certain potential for reprogramming.
+                    Inspired by this paradigm shift and subsequent research achievements, we
+                identified four transcription factors that could induce pluripotency in somatic
+                cells by their forced expression and successfully consolidated effective repro-
+                gramming methods in mouse cells in 2006 [2] and in human cells in 2007 [3].
+                The established reprogrammed cells were named “induced pluripotent stem
+                (iPS) cells.” I would like to provide an overview focusing on the experimental
+                background of the generation of iPS cells, and the future perspectives regarding
+                iPS cell research, which has been developing rapidly.
+
+
+                MY EARLY DAYS AS A SCIENTIST
+
+                I graduated from Kobe University School of Medicine, Japan, and obtained my
+                medical license in 1987. I decided to become an orthopedic surgeon and started
+                my training as a resident in Osaka, Japan. During my school days, I had practiced
+
+                                                                                                                263
+
+
+
+
+Book.indb 263                                                                                                     3/24/14 12:59 PM
+
+
+        264                                                                   The Nobel Prizes
+
+
+
+
+        Figure 1. My first experiment as a graduate student. Intravenous injection of a vasoac-
+        tive molecule platelet activating factor (PAF) caused a transient decrease in blood pres-
+        sure in dogs (upper panel). We hypothesized that this hypotension would be blocked
+        by pretreatment with a thromboxane A2 inhibitor (lower left panel). Unexpectedly, we
+        observed a profound hypotension (lower right panel).
+
+
+        judo and played rugby, and injured myself many times, including more than 10
+        fractures throughout my body. It was thus natural for me to have become inter-
+        ested in orthopedic surgery. I especially wanted to treat patients suffering from
+        sport injuries and overtraining.
+             In 1989, however, my life took a new turn from clinical medicine in orthope-
+        dic surgery to basic science research for two reasons. First, I found that I was not
+        a very talented surgeon. Second, I saw many patients suffering from intractable
+        diseases and injuries, which even highly talented surgeons and physicians were
+        not able to cure. For example, I had encountered patients suffering from spinal
+        cord injuries, amyotrophic lateral sclerosis and osteosarcomas. Furthermore, I
+        lost my father due to liver cirrhosis during my residency. Basic medical research
+        is the only way to find cures for these patients. For these reasons, I decided to go
+        back to school. I became a Ph.D. student at Osaka City University Medical School
+        in April of 1989.
+             Among the many departments at the school, I applied to the Department
+        of Pharmacology, directed by Dr. Kenjiro Yamamoto. At the interview, I was not
+        able to answer many questions about pharmacology, because I had not studied
+
+
+
+
+Book.indb 264                                                                                       3/24/14 12:59 PM
+
+
+                The Winding Road to Pluripotency                                                265
+
+
+                pharmacology well enough when I was a medical student. Instead, I tried to
+                convince the interviewer, Dr. Fumihiko Ikemoto, that I really wanted to do
+                basic medical research, despite my lack of knowledge. I am so grateful that
+                Dr. Ike-moto accepted me into the department. Dr. Ikemoto repeatedly told
+                me that we should not perform research that simply reproduced somebody
+                else’s re-sults. Rather, we should do something unique and new. During my
+                training as a scientist, I was very fortunate to have two types of teachers:
+                namely, great men-tors and unexpected results from my experiments.
+                    My direct mentor at the graduate school was Dr. Katsuyuki Miura. In my first
+                few months as a Ph.D. student, Dr. Miura told me to read as many manuscripts
+                as possible and propose new projects. I felt like I was given a blank canvas and
+                told that I could draw whatever I wanted. This mentorship was very different
+                from what I had experienced during my residency. At the hospital, I’d had little
+                freedom, and had to follow instructions from senior physicians and textbooks. I
+                thought “wow, I like this system!” Another thing that Dr. Miura often told me was
+                that we were competing worldwide. Whatever project you chose, you will com-
+                pete with other scientists throughout the world, mostly in the U.S. or Europe, on
+                the same or similar projects. This was again very different from my experience
+                at the hospital, where I was competing only with other residents at the same
+                hospital. The idea of “worldwide” competition had never entered my mind when
+                I was working at the hospital. For all of these reasons, I found that basic research
+                was a more suitable career, based on my interests and temperament.
+                    In the summer of 1989, I was still struggling to find my project. Dr. Miura
+                proposed a simpler project to begin my research studies. He suggested that I ex-
+                amine the role of a vasoactive molecule, platelet activating factor (PAF), in dogs
+                to study the regulation of blood pressure (Fig. 1). Because it was known that
+                the intravenous injection of PAF into dogs caused a transient decrease in blood
+                pressure (transient hypotension), Dr. Miura hypothesized that this decrease in
+                blood pressure would be mediated by another vasoactive molecule, thrombox-
+                ane A2. If that hypothesis was correct, then pretreatment with a thromboxane
+                A2 inhibitor should block the PAF-induced transient decrease in blood pressure.
+                My first experiment, where I treated dogs with an inhibitor of thromboxane A2,
+                was performed based on his hypothesis, and I had expected no decrease in
+                the blood pressure in the pretreated dogs. It should have been a simple ex-
+                periment suitable for a beginner. However, the result was totally unexpected.
+                In the beginning, the thromboxane A2 inhibitor did not seem to be effective,
+                with subsequent PAF treatment inducing the normal transient decrease in the
+                blood pressure. Surprisingly, however, a few minutes after the treatment, a pro-
+                found and prolonged decrease in blood pressure was observed, which we had
+
+
+
+
+Book.indb 265                                                                                      3/24/14 12:59 PM
+
+
+        266                                                               The Nobel Prizes
+
+
+        never observed following treatment with PAF alone (Fig. 1). I got so excited! I ran
+        into Dr. Miura’s office to report this result excitedly. Although the result did not
+        support his hypothesis, Dr. Miura responded with excitement, too, and encour-
+        aged me to explore the finding further. I spent another two years uncovering
+        the mechanism responsible for this unexpected result [4, 5]. I was extremely
+        lucky to obtain this kind of unexpected result in my very first experiment as a
+        graduate student.
+            The fact that I got very excited with the result clearly told me that I had
+        found the correct career. During my thesis work, however, I was often frustrated
+        by my scientific approach, which relied on pharmacological tools, such as in-
+        hibitors and agonists. No drug can be 100% specific or effective, so there are
+        always non-specific activities or incomplete blockade of the targets. In contrast,
+        I was fascinated by the emerging gene engineering technologies being demon-
+        strated in mice, especially the knockout mouse technology, by which any gene
+        of interest could be deleted with 100% specificity and efficacy. There were a
+        few groups in Japan who brought the technology from the U.S. or Europe to
+        their pharmacological studies. This technology seemed like a miracle to me. I
+        really wanted to utilize the knockout mouse technology in my own research.
+        Therefore, in order to learn about the genetic engineering of mice, I decided
+        to become a postdoctoral fellow in the U.S., where the technology was being
+        widely used in many laboratories. I check advertisements in journals such as
+        Nature, Science and Cell, and applied to as many laboratories as possible. The
+        very first person who replied to my application was Dr. Thomas (Tom) Innerarity
+        at the Gladstone Institute of Cardiovascular Disease, San Francisco (Fig. 2). After a
+        short interview by telephone, Tom offered me a position. In April 1993, I crossed
+        the Pacific Ocean with my wife and two little daughters.
+            In Tom’s laboratory, I started working on the mechanisms underlying the
+        gene expression of Apo B (Apolipoprotein B), which is a constituent of LDL (low-
+        density lipoprotein) and thought to be important in cholesterol regulation. In
+        particular, we focused on an mRNA editing factor, APOBEC1 (Apo B mRNA edit-
+        ing catalytic subunit 1) to analyze its gene function. Our original objective was to
+        explore the possibility of using gene therapy for familial hypercholesterolemia
+        to prevent atherosclerosis. Tom hypothesized that the overexpression of APO-
+        BEC1 in the liver would lower the plasma cholesterol levels, and he planned
+        to examine this possibility using transgenic mice that overexpressed APOBEC1
+        in a liver-specific manner. I worked very hard and was able to quickly gener-
+        ate transgenic mouse lines. However, we observed totally unexpected results.
+        We found that there was abdominal expansion of transgenic mice as if they
+
+
+
+
+Book.indb 266                                                                                   3/24/14 12:59 PM
+
+
+                The Winding Road to Pluripotency                                                    267
+
+
+
+
+                Figure 2. Days at the Gladstone Institute as a Postdoctoral Fellow. A picture taken with
+                Dr. Thomas Innerarity in his laboratory (1995, Gladstone Institutes).
+
+
+                were pregnant, regardless of whether they were male or female. An exception-
+                ally high incidence of liver tumor in these mice was confirmed by autopsy (Fig.
+                3) [6]. It turned out that APOBEC1 is a very potent oncogene. Therefore, we
+                can never use this gene for gene therapy. Again, I got very excited about this
+                unexpected result, although it indicated that APOBEC1 could not be used to
+                prevent atherosclerosis, thereby effectively halting my previous line of research.
+                Although it contradicted his hypothesis, Dr. Innerarity kept supporting me while
+                I decided to work on liver cancer, showing a similar excitement as Dr. Miura did
+                in response to the unexpected results. He encouraged me to keep working on
+                APOBEC1 to elucidate the mechanism by which it led to cancer formation. I
+                became the only person who worked on liver cancer at the Gladstone Institute
+                of Cardiovascular Diseases.
+                     I met another person who ended up being very important in my life at Glad-
+                stone. It was the then president of the institute, Dr. Robert Mahley. He once told
+                us (postdoctoral fellows) about how to become successful in science. He said
+                the secret was “VW.” He had and still has a Volkswagen car, but in this case, VW
+                did not mean Volkswagen. Instead, he meant vision and hard work. Dr. Mahley
+
+
+
+
+Book.indb 267                                                                                              3/24/14 12:59 PM
+
+
+        268                                                                  The Nobel Prizes
+
+
+
+
+        Figure 3. Hepatocellular Carcinoma in APOBEC-1 transgenic mouse. Livers from non-
+        transgenic control mouse (left) and transgenic mouse (right). [6] (© 1995, the National
+        Academy of Sciences)
+
+
+
+
+        told us to have a clear vision and then work hard toward that goal. I was working
+        very hard day and night. However, I realized I did not have a clear vision. Why am
+        I doing many of my experiments? Why did I quit working at hospitals to become
+        a postdoctoral fellow in the U.S.? I then realized that my vision or motivation
+        for doing science was to contribute to patient health and longevity. Of course,
+        we cannot immediately help any patients by doing experiments in laboratories.
+        However, basic medical research has the potential to help thousands of patients
+        suffering from intractable diseases and injuries.
+            As noted above, I very was fortunate to have two types of great teachers in
+        my early days as a scientist. First, my mentors, including Dr. Miura, Dr. Innerar-
+        ity and Dr. Mahley, encouraged me to continue my projects despite the fact
+        that the results contradicted their hypotheses. They served as models of good
+        mentors for me to follow. The other great teacher was nature itself, which gave
+        me totally unexpected results that led me to completely new research themes.
+        Without these two types of great “teachers,” I could have never initiated my re-
+        search that led to the generation of iPS cells.
+
+
+
+
+Book.indb 268                                                                                     3/24/14 12:59 PM
+
+
+                The Winding Road to Pluripotency269
+
+
+                THE RESEARCH THAT LED TO THE PRODUCTION OF iPS CELLS
+
+                What brought me to cell reprogramming biology was another set of totally un-
+                expected experimental results and an encounter with ES (embryonic stem) cells
+                through my research experience, along with related scientific streams. While
+                trying to elucidate the molecular mechanisms underlying the carcinogenesis
+                induced by APOBEC1, I discovered an interesting molecule that was a novel tar-
+                get of APOBEC1. I named this molecule NAT1 (Novel APOBEC1 Target #1) [7]. We
+                found that the overexpression of APOBEC1 resulted in aberrant editing at nu-
+                merous sites of the NAT1 mRNA, including those that generated premature ter-
+                mination codons. Consequently, the NAT1 protein levels were markedly reduced.
+                I also found that the NAT1 protein was similar to eukaryotic translation initiation
+                factor (eIF) 4G and likely functioned as a translational regulator. Based on these
+                observations, I hypothesized that NAT1 could function as a tumor suppressor
+                gene. In order to examine this hypothesis, I decided to generate NAT1 knockout
+                mice. At that time, I had learned the skills necessary for generating knockout
+                mice, including the preparation of targeting vectors and cultivation of mouse ES
+                cells from Dr. Robert Farese Jr., a friend of mine who established the ES cell and
+                knockout core laboratory at Gladstone. This was how I first encountered ES cells.
+                     Again I worked very hard. Three years had passed since I joined Gladstone,
+                and my wife had to go back to Japan because we decided to send our elder
+                daughter to an elementary school there. After my family left San Francisco, I
+                worked even harder. I really wanted to find out the function of NAT1, the gene
+                I had identified myself. Without my family at home, I did not have anything else
+                to do. I literally worked day and night. I generated a targeting vector quickly and
+                was able to obtain targeted ES cell clones. I asked the knockout core laboratory
+                to inject the targeted ES cells into mouse blastocysts to generate chimeric mice.
+                I was happy about the scientific progress I was making.
+                     At the same time, however, I felt lonelier and lonelier without my family. The
+                only way to live with my family was to go back to Japan. However, I was unable
+                to find a good position in Japan. Fortunately, I obtained a fellowship from the
+                Japanese Government and decided to go back to Japan for a second postdoc-
+                toral fellowship. Owing to the invaluable help and generosity of Dr. Innerarity,
+                I was able to continue the research on NAT1 after I returned to Japan at Osaka
+                City University Medical School. The following year, I became an assistant profes-
+                sor and continued working on NAT1.
+                     The generation of the NAT1 knockout mice went smoothly. We obtained
+                good chimeric mice, and subsequently, F1 heterozygous mutant mice. Tom sent
+
+
+
+
+Book.indb 269                                                                                     3/24/14 12:59 PM
+
+
+        270                                                                The Nobel Prizes
+
+
+        those F1 mice to me. However, I could not obtain homozygous mutant mice
+        from intercrossing the heterozygous mutants, thus suggesting that NAT1 was
+        indispensable for mouse development. I then struggled with the analyses of
+        mutant embryos, since neither I nor anyone around me had ever worked on
+        mouse embryogenesis. I learned how to dissect embryos by reading textbooks.
+        With great encouragement from my colleagues, including Dr. Katsuyuki Miura, I
+        finally showed that NAT1 mutant embryos died around the time of implantation.
+            In order to further characterize the functions of NAT1, I generated homo-
+        zygous deletion mutant ES cells. In found that NAT1-null ES cells proliferated
+        normally when they were maintained on undifferentiated feeder cells. However,
+        when they were cultured without feeder cells or leukemia inhibitory factor, I
+        observed marked differences. Under these conditions, the wild-type ES cells
+        rapidly differentiated in terms of their morphology and gene expression. In con-
+        trast, mutant ES cells showed resistance to differentiation. This meant that NAT1
+        is essential for maintaining the pluripotency of ES cells [8]. This was the pivotal
+        moment when ES cells became my main research subject. My future career de-
+        veloped from merely a research tool (knockout mouse construction), thanks to
+        the unexpected results of the NAT1 functional analysis. This unexpected result
+        changed my project again—from cancer to ES cells.
+            Mammalian ES cells were first derived from mouse embryos in 1981 by Dr.
+        Martin Evans, and also by Dr. Gail R. Martin. ES cells have two important proper-
+        ties [9, 10]. The first is their rapid proliferation, which can be considered to pro-
+        vide them with immortality. The other important property is pluripotency, the
+        ability to differentiate into virtually all types of somatic and germ cells that exist
+        in the body. NAT1 is essential for pluripotency, but not for the rapid proliferation
+        of mouse ES cells. Because of the important role of NAT1, I became very inter-
+        ested in the biology of ES cells.
+            Although I was obtaining important results about the molecular functions
+        of NAT1, I started to become frustrated and wondered whether my basic re-
+        search could eventually contribute to clinical medicine, which was my true goal.
+        I was working at the medical school, where most of my colleagues participated
+        in medical research projects, such as drug development or understanding the
+        pathophysiology of diseases. My vision was (and still is) to contribute to the lives
+        of patients through basic research, but I was not sure whether working on NAT1
+        and mouse ES cells could realize my vision. At that time, my colleagues often
+        told me that, “Shinya, those mouse cells may be interesting, but you should do
+        something more closely related to human disease and human medicine.” Very
+        luckily, however, two events happened in the late 90s, which encouraged me to
+        continue working on ES cells.
+
+
+
+
+Book.indb 270                                                                                    3/24/14 12:59 PM
+
+
+                The Winding Road to Pluripotency                                                271
+
+
+                     The first event was the generation of human ES cells by Dr. James Thom-
+                son at the University of Wisconsin in 1998 [11]. Immediately after this paper was
+                published, the ES cell research field began to draw public attention because of
+                its potential value in regenerative medicine. Human ES cells have the two same
+                properties as mouse ES cells, rapid proliferation and pluripotency. Human ES
+                cells can be expanded indefinitely, and they can be used to generate various
+                types of human somatic cells, such as dopaminergic neurons, neural stem cells,
+                cardiac cells, and so on. These human cells should then be able to be used to
+                treat patients suffering from various diseases and injuries, such as Parkinson’s
+                disease, spinal cord injuries, etc. So again, it turned out that ES cells themselves
+                could help patients, not mouse patients, but human patients. When I first read
+                the landmark paper by Dr. Thomson, I got very excited—I still remember that
+                moment. However, the generation and use of human ES cells is associated with
+                an ethical obstacle regarding the use of human embryos. In Japan, we were not
+                allowed to use human ES cells. Thus, human ES cell research was a distant and
+                forbidden world to me then.
+                     The other event that encouraged me was my promotion. I had a chance to
+                organize my own laboratory. In 1999, I moved to the Nara Institute of Science
+                and Technology (NAIST) as an associate professor. In 1998, I found an advertise-
+                ment for that position in a Japanese scientific magazine. It said that the institute
+                was seeking a scientist at the associate professor level who would run his or her
+                own laboratory while organizing a core facility for mouse genetic engineering
+                for the institute. It seemed a perfect position for me, and I decided to apply for
+                the position. I did not expect to be chosen, since I had only published a few pa-
+                pers using the technology. Surprisingly, however, I was provided an opportunity
+                to give a job seminar at the institute, and more surprisingly, I got the position!
+                     In December of that year, I entered through the main gate of the NAIST with
+                excitement and nervousness. The NAIST is one of only a few national universities
+                that only have graduate schools in Japan (most also have medical and dental
+                schools). It has a beautiful campus, good equipment, talented faculty members,
+                and, most importantly, highly motivated and brilliant graduate students. My
+                frustration disappeared unconsciously. Because of these two events, the gen-
+                eration of human ES cells and my promotion to associate professor at the NAIST,
+                I was able to continue my research on ES cells.
+                     Then the word “VW” came to my mind again. Now that I was starting my own
+                laboratory, I decided that I needed to have a clear vision or long term goal that
+                I was going to share with future lab members. Many laboratories working on ES
+                cells, including those famous in the field, were working on in vitro directed dif-
+                ferentiation of cells into various lineages, such as cardiac myocytes and neuronal
+
+
+
+
+Book.indb 271                                                                                      3/24/14 12:59 PM
+
+
+        272                                                               The Nobel Prizes
+
+
+        cells. I did not think it would be wise to compete with these laboratories, since
+        my lab was very small and new. I decided to do the opposite. I decided that the
+        goal of my laboratory would be to establish ES cell-like pluripotent stem cells
+        that were not derived from embryos, but from differentiated somatic cells. By
+        achieving this goal, we would be able to overcome the obstacles facing the
+        development of medicine using human ES cells, namely, the use of human em-
+        bryos and immune rejection after transplantation. I thus started trying to repro-
+        gram somatic cells back into the embryonic state.
+            I knew reprogramming was possible, at least in theory. Somatic cell repro-
+        gramming techniques had been developed by several groups. For example, Dr.
+        Ian Wilmut succeeded in generating a first cloned mammal, “Dolly” the sheep,
+        by transplanting the nucleus of a fully developed cell into an enucleated egg
+        [12]. However, the efficiency of the method was extremely low. In addition, it
+        had been pointed out that this system was technically quite difficult to apply
+        to primates, including humans. Another example was the cell fusion technique
+        between ES cells and somatic cells to attain pluripotency [13]. However, the re-
+        sultant fused cells did not seem to be suitable for application in a clinical setting
+        due to the generation of tetraploid cells. However, the fact that somatic cells
+        were able to attain pluripotency following nuclear transplantation or fusion with
+        ES cells provided a lot of scientific encouragement, because it led us to hypothe-
+        size that oocytes or ES cells contain intrinsic factors that can reprogram somatic
+        cells into a pluripotent state.
+            In addition to this background, there were also other discoveries of master
+        transcription factors involved in vertebrate development, such as Antennapedia
+        in the fly [14] or MyoD in the mouse [15]. From these findings, it was a simple
+        logical step to deduce that a combination of factors should be able to induce
+        pluripotency in somatic cells. I just did not know which or how many factors
+        were required. When we first started our research, it could have been one, sev-
+        eral, one hundred or even more, and we thought at that time that the project
+        would take 10, 20, 30 years or even longer to complete.
+            I hypothesized that many of the reprograming factors are expressed pre-
+        dominantly in eggs and ES cells. In order to search for factors that are specifi-
+        cally expressed in ES cells, we planned to utilize an EST (expressed sequence
+        tag) database, which is a kind of catalog of genes that are expressed in each
+        tissue or organ, obtained by random sequencing of cDNA libraries made from
+        tissues or organs in various species. In a timely fashion, large quantities of mouse
+        EST data were disclosed by RIKEN [16]. Furthermore, a program that analyzed
+        EST databases to predict the expression pattern of each gene became available
+        from the National Center for Biotechnology Information (NCBI) [17]. I utilized
+
+
+
+
+Book.indb 272                                                                                   3/24/14 12:59 PM
+
+
+                The Winding Road to Pluripotency                                                273
+
+
+                this program, designated an in silico differential display, to compare EST libraries
+                from mouse ES cells and those from various somatic tissues. I was immediately
+                able to identify multiple genes that were highly and specifically expressed in un-
+                differentiated mouse ES cells and early embryos. Among them, we particularly
+                focused on the genes with the highest enrichment. These included well-known
+                genes, such as Oct3/4 [18, 19], Utf1 [20] and Rex1 [21], which had been experi-
+                mentally identified as ES cell-specific markers. This confirmed the usefulness of
+                this approach. We designated other ES cell-enriched genes “ES cell-associated
+                transcripts” (ECATs). We confirmed the ES cell-specific expression of ECATs by
+                performing northern blot analyses [22–24].
+                     I characterized the functions of ECATs in ES cells and mice with the new
+                members who had joined my lab, including three graduate students, Eiko Kaiho,
+                Yoshimi Tokuzawa and Kazutoshi Takahashi. I was lucky to have these talented
+                and hard-working students with me from the beginning. Furthermore, I was
+                very fortunate to have Tomoko Ichisaka in my lab, as a technical staff member of
+                the core facility for mouse molecular engineering. I believe that Tomoko is one
+                of the best technicians in terms of the manipulation of mouse embryos in Japan,
+                and maybe in the world. Thanks to Tomoko and the core facility, we were able to
+                generate knockout mice to examine many ECATs.
+                     The first gene we knocked out in mice at the NAIST was ECAT3, also known
+                as Fbox15. These mice were part of Yoshimi Tokuzawa’s project. Yoshimi, To-
+                moko and I were very happy when we obtained the first targeted ES line, the
+                first chimeric mice and then germ-line transmission. However, when we gen-
+                erated homozygous mutant mice lacking the functional ECAT3 gene, we did
+                not observe any obvious phenotypes [22]. Because of its specific expression in
+                mouse ES cells and embryos, we expected that its disruption would result in
+                early lethality during embryogenesis. Furthermore, we showed that Fbox15 is
+                a direct target of Oct3/4 and Sox2, another transcription factor essential for the
+                maintenance of pluripotency [25]. On the contrary, we obtained homozygous
+                mutant mice in accordance with the Mendelian law from heterozygous inter-
+                crosses. Yoshimi then generated homozygous mutant ES cell lines, hoping that
+                she would observe drastic phenotypes. However, again, we did not see any sig-
+                nificant changes. ECAT3-null ES cells proliferated normally and showed normal
+                differentiation potentials. Thus, both the ECAT3 knockout mice and ES cells were
+                apparently normal. This often happened with other ECATs. These experiences
+                reminded us that science is often tough.
+                     An exception was ECAT4, a transcription factor that was later re-named
+                Nanog. We and others found that Nanog played important roles in the main-
+                tenance of pluripotency in mouse ES cell [24, 26]. Nanog was also essential for
+
+
+
+
+Book.indb 273                                                                                      3/24/14 12:59 PM
+
+
+        274                                                            The Nobel Prizes
+
+
+        mouse embryonic development before implantation. In addition to Nanog, Yo-
+        shimi Tokuzawa identified another transcription factor, Klf4 that played impor-
+        tant roles in mouse ES cells. Another group reported the important role of the
+        well-known oncogene, c-Myc, in pluripotency. By 2004, we had identified a total
+        of 24 factors, including Oct3/4, Sox2, c-Myc, Nanog, other ECATs and Klf4, as
+        candidate reprogramming factors.
+            What we then needed was a sensitive and rapid assay system to screen
+        these candidate factors. It turned out that the Fbox15-null knockout mice pro-
+        vided such an assay system. When we made knockout mice of Fbox-15 and
+        other ECATs, we utilized a gene trap strategy, in which we knocked the neo-
+        mycin resistance gene into the gene of interest. Thus, in ECAT3 knockout cells,
+        the neomycin resistance gene is expressed from the enhancer and promoter of
+        ECAT3, which was active only in ES cells and early embryos, but not in somatic
+        cells. Somatic cells, such as mouse embryonic fibroblasts (MEFs) derived from
+        the ECAT3 knockout mice are sensitive to G418, whereas ECAT3 knockout ES
+        cells were resistant to high concentrations of G418. Based on these results, we
+        expected that if any of the 24 candidates could actually induce pluripotency
+        in ECAT3 knockout MEFs, the reprogrammed cells would become resistant to
+        G418. We confirmed this strategy by using a fusion reprogramming system. The
+        ECAT3 knockout mice that showed few phenotypes and thus disappointed Yo-
+        shimi and me turned out to provide a very useful assay system to evaluate can-
+        didate reprogramming factors.
+            My lab moved to Kyoto University in 2005, with the 24 gene candidates,
+        the ECAT3-based assay system and Tomoko Ichisaka and Kazutoshi Takahashi. In
+        Kyoto, I asked Kazutoshi Takahashi to examine the 24 factors by using the assay
+        system [2]. To tell the truth, we did not expect that we had the answer among
+        these 24 factors. We thought we had to screen many more factors, and had
+        already started to prepare cDNA libraries from mouse ES cells and testes. Never-
+        theless, Kazutoshi introduced each of the 24 candidate genes, one by one, into
+        ECAT3 knockout MEFs by retroviral transduction. As, in a sense, expected, we did
+        not obtain any drug-resistant colonies using any single factor, thus indicating
+        that no single candidate gene was sufficient to elicit reprograming and induce
+        pluripotency. In addition to the single factor transduction, Kazutoshi proposed
+        to transduce all 24 factors together into ECAT3 knockout MEFs as a practice
+        for performing a cDNA library screening. It was like a mini-library consisting of
+        24 cDNAs. To our surprise, four weeks after transduction, we obtained several
+        G418-resistant colonies. I thought this might be some kind of mistake, such as
+        contamination with ES cells. I asked Kazuthoshi to repeat the experiment again
+        and again. It always worked. Kazutoshi picked up the G418-resistant colonies
+
+
+
+
+Book.indb 274                                                                               3/24/14 12:59 PM
+
+
+                The Winding Road to Pluripotency275
+
+
+                for expansion. We found that these cells were expandable and showed a mor-
+                phology similar to that of mouse ES cells. A reverse transcription PCR (RT-PCR)
+                analysis revealed that the iPS-MEF24 clones expressed ES cell markers, including
+                Oct3/4, Nanog, E-Ras, Cripto, Dax1, Zfp296 [24] and Fgf4 [27].
+                     Next, to determine which of the 24 candidates were critical, Kazutoshi ex-
+                amined the effects of withdrawal of individual factors from the pool of trans-
+                duced candidate genes. ES cell-like colonies did not form when either Oct3/4
+                or Klf4 was removed. The removal of Sox2 resulted in only a few ES-like colonies.
+                When he removed c-Myc, the ES cell-like colonies did emerge, but these had a
+                flatter, non-ES-cell-like morphology. Removal of the remaining factors did not
+                significantly affect the colony numbers or characteristics. We finally showed
+                that a combination of four genes, Oct3/4, Klf4, Sox2 and c-Myc was sufficient to
+                produce ES cell-like colonies. These data demonstrated that pluripotency could
+                be induced from MEF culture by the introduction of four transcription factors;
+                Oct3/4, Sox2, c-Myc and Klf4. I designated the new pluripotent stem cells “iPS
+                cells,” short for induced pluripotent stem cells.
+                     We examined the pluripotency of iPS cells by the teratoma formation assay
+                in animals. We obtained tumors from iPS cells after subcutaneous injection into
+                nude mice. A histological examination revealed that the iPS cells differentiated
+                into all three germ layers, including neural tissues, cartilage and columnar epi-
+                thelium. We also examined the ability of iPS cells to produce adult chimeras. We
+                injected iPS cells into mouse-derived blastocysts, which we then transplanted
+                into the uteri of pseudo-pregnant mice. We obtained adult chimeras from those
+                injected iPS cells as determined by the coat color of the resulting pups. From
+                these chimeras, we were able to obtain F1 mice through germline transmission.
+                Based on these results, we concluded that iPS cells are comparable to ES cells in
+                terms of their pluripotency [28].
+                     The following year, we reported the generation of iPS cells from human fi-
+                broblasts using the same factors [3]. In the case of ES cells, it took 17 years to
+                move from the mouse to human cells. This was in part because, although mouse
+                ES cells and human ES cells share many similar features, they are very different
+                in many aspects, including the culture conditions and morphology. In the case
+                of iPS cells, it took much less time. This was because we already knew both how
+                to culture human pluripotent stem cells and what they should look like. In other
+                words, we could have never generated human iPS cells without the previous
+                reports on human ES cells.
+                     The generation of iPS cells was an exceptional experience in my scientific
+                career, in that everything went smoothly. In all other cases, my career has been
+                full of failures. This luck resulting from the dedicated work of young researchers,
+
+
+
+
+Book.indb 275                                                                                     3/24/14 12:59 PM
+
+
+        276                                                                The Nobel Prizes
+
+
+        especially three people, Kazutoshi Takahashi, Yoshimi Tokuzawa and Tomoko
+        Ichisaka. It was these three who generated the iPS cells. Without these three
+        young lab members, we could have never generated the iPS cells in my labora-
+        tory. Therefore, I am extremely grateful to these three and the other members of
+        my lab for their tireless efforts.
+            When I initiated my basic research 25 years ago, I did not imagine at all that I
+        was going to work on stem cells in the future. It was the unexpected results from
+        PAF, APOBEC1 transgenic mice and the NAT1 knockout mice that brought me to
+        the new field. The encouragement from my mentors, including Drs. Yamamoto,
+        Miura, Innerarity and Mahley was essential for me to continue my work as a sci-
+        entist. I am grateful to my two types of teachers, these mentors and nature itself.
+
+
+        THE POTENTIAL APPLICATIONS OF iPS CELLS
+
+        One of the advantages of the iPS cell technology is its simplicity and reproduc-
+        ibility. We can now generate human iPS cells not only from skin fibroblasts, but
+        also from other somatic cells, including peripheral blood cells. Hundreds of
+        laboratories all over the world are now working on iPS cells, trying to apply the
+        technology in medicine and in the pharmaceutical industry (Fig. 4). Without the
+        iPS cell technology, it would be difficult to obtain sufficient numbers of somatic
+        cells, such as heart cells or brain cells, from patients suffering from diseases af-
+        fecting the heart or brain. With the iPS cell technology, all that is needed is a tiny
+
+
+
+
+        Figure 4. Potential Applications of iPS Cells.
+
+
+
+
+Book.indb 276                                                                                    3/24/14 12:59 PM
+
+
+                The Winding Road to Pluripotency                                               277
+
+
+                amount of blood cells from the patients. We can then generate iPS cells, expand
+                the cells as much as we want, and then make heart cells or brain cells to specifi-
+                cally study the affected tissues. These cells have the same genetic information
+                as the patients and will provide unprecedented opportunities for predicting
+                the toxicity of drugs, making disease models in petri dishes, performing drug
+                screening and for cell transplantation therapies.
+                     Many effective drugs have been withdrawn from the market because of side
+                effects such as cardiac arrhythmia and liver toxicity. The best known cardiac tox-
+                icity is long QT syndrome, as characterized with prolonged intervals between
+                the Q and T waves in electrocardiograms, which often cause lethal arrhythmia.
+                Since human heart cells are hard to obtain, pharmaceutical companies have
+                been using non-cardiac cancer cell lines, into which only one cardiac gene has
+                been transfected, to predict the development of long QT syndrome and other
+                types of cardiac toxicity of their drug candidates. However, this artificial system
+                suffers from both false positive and false negative results. Now, human cardiac
+                myocytes derived from iPS cells are commercially available from multiple com-
+                panies. Pharmaceutical companies are now beginning to use these cells to pre-
+                dict cardiac toxicity. Similar approaches can be taken to predict the side effects
+                in the liver and brain. These new types of medical application of the iPS cell
+                technology are considered to be just around the corner.
+                     I believe that the biggest potential of this technology resides in disease
+                modeling and drug screening. Hundreds of diseases can be studied this way.
+                Progress has been made in modeling intractable diseases while searching for
+                new drugs with patient-derived iPS cells by many groups all over the world. To
+                my surprise, it has been shown that iPS cells can be used to recapitulate the phe-
+                notypes of not only monogenic diseases, but also some late-onset polygenic
+                diseases, such as ALS (amyotrophic lateral sclerosis, widely known in the U.S. as
+                Lou Gehrig’s disease) and Alzheimer’s disease [29, 30].
+                     ALS is a late-onset motor neuron disease. Most cases of ALS are sporadic,
+                and are not caused by a mutation in a single gene. It has been more than 100
+                years since this disease was first recognized. However, there is still no effective
+                treatment, despite numerous scientific efforts. In many diseases, animal models
+                have been useful to understand the mechanisms and identify effective drugs. In
+                the case of ALS, animal models do exist and many drugs have been developed
+                that are effective on those animal models. However, the same drugs are not
+                effective in human ALS patients. Therefore, drug screening for ALS needs to be
+                conducted with human cells, but it has been difficult to obtain sufficient num-
+                bers of motor neurons and other affected cells from patients.
+
+
+
+
+Book.indb 277                                                                                     3/24/14 12:59 PM
+
+
+        278                                                                      The Nobel Prizes
+
+
+             Now that iPS cells can be utilized to produce the cells of interest, many
+        scientists have been generating iPS cells from ALS patients and producing
+        large numbers of motor neurons having the same genetic information as the
+        patients. Among them is Dr. Haruhisa Inoue at our institute (CiRA, the Center
+        for iPS Cell Research and Application) [29]. Dr. Inoue demonstrated that motor
+        neurons from patients had significantly shorter projections, which are necessary
+        for signal transduction from the brain to muscles, than did those from healthy
+        control individuals (Fig. 5). He also found that a histone acetyltransferase inhibi-
+        tor, called anacardic acid, reverted the abnormal ALS motor neuron phenotype.
+        In addition to ALS, scientists at the CiRA have been working on other intractable
+        diseases, such as FOP (fibrodysplasia ossificans progressiva) and CINCA (chronic
+        infantile neurological cutaneous and articular) syndrome [31]. The findings of
+        their studies have shown that patient–derived iPS cells can provide a useful tool
+        for elucidating the disease pathogenesis and for screening drug candidates.
+
+        Stem cell therapy is another promising medical application of iPS cells. In Japan
+        and other countries, researchers are conducting pre-clinical studies to prove the
+        efficacy and safety of iPS cells for treating various diseases and injuries, such as
+        Parkinson’s disease, macular degeneration, cardiac failure, spinal cord injury and
+        platelet deficiency [32]. The iPS cell technology has progressed rapidly in the
+        last five years. We and others have reported an integration-free method that can
+        be used to generate human iPS cells using episomal vectors [33]. We also have
+        shown that p53 shRNA[34], L-Myc [35] and Glis1 [36], when strongly expressed,
+        can replace the oncogene c-Myc, and efficiently generate human iPS cells. We
+        have also developed systems to evaluate iPS cells. We believe that the technol-
+        ogy is getting closer to clinical trials. Dr. Masayo Takahashi at the Riken Center for
+        Developmental Biology (CDB) has already applied for permission to conduct an
+        iPS cell-based clinical trial for macular degeneration from the Japanese Ministry
+        of Health and Labor.
+                          Control                                       Patient
+
+
+
+
+        Figure 5. Disease Modeling of Motor Neuron from ALS Patient-Derived iPS Cells. Micro-
+        scopic images of motor neurons that were differentiated from iPS cells derived from a
+        control donor (left) and an ALS patient (right). [29] (© 2012, American Association for the
+        Advancement of Science).
+
+
+
+
+Book.indb 278                                                                                         3/24/14 12:59 PM
+
+
+                The Winding Road to Pluripotency279
+
+
+                    Some of these clinical trials will initially begin with autologous iPS cells de-
+                rived from the patients’ own somatic cells. However, for larger scale trials and
+                more standard therapies, preparing autologous iPS cells from each patient may
+                not be practical, since it will be time-, labor- and cost-intensive. Generating, ex-
+                panding and differentiating iPS cells under a good manufacturing protocol are
+                expensive. In addition, these processes take several months. In the case of spinal
+                cord injuries, it has been shown that the best result can be expected when cells
+                are transplanted within a month after the onset of injury. Therefore, if the gener-
+                ation, expansion and differentiation of iPS cells is started after a patient is injured,
+                the cells will never be ready in time. To overcome these practical problems, we
+                are now trying to establish iPS cell stocks for regenerative medicine purposes.
+                To minimize immune-mediated rejection, our plan is to generate iPS cells from
+                donors with HLA homozygous alleles. In Japan, we estimate that iPS cell lines
+                from 140 HLA homozygotes will cover up to 90% of the Japanese population.
+
+
+                SCIENTIFIC STREAMS TOWARD THE FUTURE
+
+                I receive this prize on behalf of numerous researchers and scientists who have
+                contributed to the generation and rapid progress of the iPS cell technology. As
+                I described, iPS cells were established on the basis of three preexisting scientific
+                streams (Fig. 6).
+
+
+
+
+                Figure 6. Three Scientific Streams That Led to the Development of iPS Cells. Shown are
+                landmark events with the name of senior authors and publication years.
+
+
+
+
+Book.indb 279                                                                                            3/24/14 12:59 PM
+
+
+        280                                                                The Nobel Prizes
+
+
+             The first stream was nuclear reprogramming, initiated by Dr. John Gurdon
+        more than 50 years ago. A nucleus from a fully differentiated intestinal cell of
+        a tadpole was transplanted into an unfertilized egg in which the nucleus had
+        been destroyed by ultraviolet light. The egg with the transplanted nucleus de-
+        veloped into an adult frog, thus achieving cloning [1]. A few decades later, Dr.
+        Ian Wilmut succeeded in the somatic cloning of a mammal, a sheep, for the first
+        time in 1997 [12]. Although nuclear transfer in mammals is more technically de-
+        manding due to the smaller cell size and physiological adjustment of the egg’s
+        cell cycle, his team demonstrated the birth of a lamb by nuclear transfer from an
+        adult mammary gland or differentiated fetal cells into an enucleated sheep egg.
+        Their successes in somatic cloning demonstrated that even differentiated cells
+        contain all of the genetic information required for the development of entire
+        organisms, and that oocytes contain factors that can reprogram somatic cell
+        nuclei. In 2001, Dr. Takashi Tada demonstrated that mouse ES cells also contain
+        reprogramming factors by showing that the fusion of somatic cells and ES cells
+        can induce reprogramming in somatic nuclei [13]. This scientific stream was es-
+        sential for me to initiate our project that led to the development of iPS cells.
+             The second important stream was factor-mediated cell fate conversion, first
+        demonstrated by Dr. Weintraub [15]. His team converted mouse fibroblasts into
+        myoblasts by forced expression of one of the myoblast-specific transcription
+        factors, “MyoD.” These results led to the concept of a ‘‘master’’ transcription factor
+        that determines the fate of the cell lineage.
+             The third essential stream was ES cell research, which was initiated by Dr.
+        Martin Evans and Dr. Gail Martin in 1981 [9, 10]. Until then, pluripotent cell lines
+        had been obtained only from teratocarcinoma cells. They established pluripo-
+        tent cell lines with a normal karyotype, which had been isolated directly from
+        mouse early embryos in vitro. Dr. Austin Smith and others identified (and are still
+        identifying) many factors which are essential for pluripotency, including Oct3/4
+        and Sox2 [19, 37, 38]. In 1998, Dr. James Thomson succeeded in generating hu-
+        man ES cells with optimal culture conditions, which are very different from those
+        for mouse ES cells [11]. All of these findings were indispensable for providing
+        ideas about the existence of reprogramming factors, the factor combinations
+        and culture conditions for pluripotent cells, eventually leading to the generation
+        of iPS cells.
+
+        New scientific streams have already emerged from the iPS cell studies (Fig. 7). In
+        2007, Dr. Rudolf Jaenisch provided the first proof of concept of iPS cell-based cell
+        therapy in mouse models [39]. They demonstrated that mouse models of sickle
+
+
+
+
+Book.indb 280                                                                                    3/24/14 12:59 PM
+
+
+                The Winding Road to Pluripotency281
+
+
+                cell anemia can be treated by transplantation with hematopoietic progenitors,
+                which were obtained in vitro from gene-corrected autologous iPS cells.
+                     In 2008, Dr. George Daley [40] and Dr. Kevin Eggan [41] first generated iPS
+                cells from patients. Dr. Daley established iPS cells from patients with a variety
+                of intractable diseases, such as adenosine deaminase deficiency-related severe
+                combined immunodeficiency (ADA-SCID), Shwachman-Bodian-Diamond syn-
+                drome (SBDS), Gaucher disease type III, Duchenne (DMD) and Becker muscular
+                dystrophy (BMD), Parkinson’s disease, Huntington’s disease, juvenile-onset type
+                1 diabetes mellitus, Down syndrome, Lesch-Nyhan syndrome, X-linked adreno-
+                leukodystrophy, dyskeratosis congenita, Hurler syndrome, fragile X syndrome
+                and NEMO deficiency [40, 42–45]. Dr. Eggan produced patient-specific iPS cells
+                directly from an elderly (82-year-old) familial ALS patient, and successfully dif-
+                ferentiated the iPS cells into motor neurons [41].
+                     Another important scientific stream that emerged from the iPS cell technol-
+                ogy is ‘‘direct reprogramming’’, which was first shown by Dr. Douglas Melton’s
+                group in 2008 [46]. They reported that the cell fate can be directly transdifferen-
+                tiated in vivo, in living mice, by introducing just a small number of transcription
+                factors. They identified a combination of transcription factors which converted
+                differentiated pancreatic exocrine cells into endocrine cells that secreted insulin.
+
+
+
+
+                Figure 7. New Scientific Streams Derived from iPS Cells.
+
+
+
+
+Book.indb 281                                                                                      3/24/14 12:59 PM
+
+
+        282                                                                     The Nobel Prizes
+
+
+        Many studies have followed, and in 2012, Dr. Deepak Srivastava provided the
+        first proof of concept of therapies based on direct reprogramming in mice [47].
+        They succeeded in directly converting cardiac fibroblasts into cardiac myocytes
+        in situ after coronary ligation. Their results showed decreased infarct size and
+        recovery of some cardiac functions.
+             The history of iPS cell research has only just begun, and this technology has
+        a remarkable potential for use in cell therapy, drug screening and personalized
+        medicine. Unexpected results have opened up an entirely new research field. I
+        hope that iPS cells will be utilized by many scientists in multiple research areas
+        related to medicine or biology, and that some of those researchers will also re-
+        ceive a Nobel Prize for their excellent work in the near future.
+
+
+        ACKNOWLEDGEMENT
+
+        I would like to express my sincere gratitude to all of the members of the Center
+        for iPS Cell Research and Application at Kyoto University, and the Gladstone In-
+        stitutes in San Francisco for their continuous support of my scientific research
+        and life. I wish to thank all of the previous and current colleagues in my labora-
+        tory for their dedicated and tireless efforts.
+             My deepest gratitude goes to my family for their unflagging support
+        throughout my life. I could not be here today without them. Although my father,
+        who talked me into pursuing a career in medicine, and my father-in-law, who
+        showed me how to be a good doctor, are no longer with us, I believe they all
+        share our happiness and joy in heaven. I sincerely wish to help make this iPS cell
+        technology a clinical reality before I meet both of my fathers again in the future.
+
+
+        REFERENCES
+          1. Gurdon, J.B., “The developmental capacity of nuclei taken from intestinal epithelium
+             cells of feeding tadpoles,” J Embryol Exp Morphol, 1962. 10: p. 622–40.
+          2. Takahashi, K. and S. Yamanaka, “Induction of pluripotent stem cells from mouse
+             embryonic and adult fibroblast cultures by defined factors,” Cell, 2006. 126(4): p.
+             663–676.
+          3. Takahashi, K., et al., “Induction of pluripotent stem cells from adult human fibroblasts
+             by defined factors,” Cell, 2007. 131(5): p. 861–72.
+          4. Yamanaka, S., et al., “Putative mechanism of hypotensive action of platelet-activating
+             factor in dogs,” Circ Res, 1992. 70(5): p. 893–901.
+          5. Yamanaka, S., et al., “Effect of the platelet-activating factor antagonist, TCV-309, and
+             the cyclo-oxygenase inhibitor, ibuprofen, on the haemodynamic changes in canine
+             experimental endotoxic shock,” Br J Pharmacol, 1993. 110(4): p. 1501–7.
+
+
+
+
+Book.indb 282                                                                                           3/24/14 12:59 PM
+
+
+                The Winding Road to Pluripotency283
+
+
+                 6. Yamanaka, S., et al., “Apolipoprotein B mRNA-editing protein induces hepatocellular
+                    carcinoma and dysplasia in transgenic animals,” Proc Natl Acad Sci U S A, 1995. 92(18):
+                    p. 8483–7.
+                 7. Yamanaka, S., et al., “A novel translational repressor mRNA is edited extensively in
+                    livers containing tumors caused by the transgene expression of the apoB mRNA-
+                    editing enzyme,” Genes Dev, 1997. 11(3): p. 321–33.
+                 8. Yamanaka, S., et al., “Essential role of NAT1/p97/DAP5 in embryonic differentiation
+                    and the retinoic acid pathway,” Embo J, 2000. 19(20): p. 5533–41.
+                 9. Evans, M.J. and M.H. Kaufman, “Establishment in culture of pluripotential cells from
+                    mouse embryos,” Nature, 1981. 292(5819): p. 154–6.
+                10. Martin, G.R., “Isolation of a pluripotent cell line from early mouse embryos cultured
+                    in medium conditioned by teratocarcinoma stem cells,” Proc Natl Acad Sci U S A, 1981.
+                    78(12): p. 7634–8.
+                11. Thomson, J.A., et al., “Embryonic stem cell lines derived from human blastocysts,”
+                    Science, 1998. 282(5391): p. 1145–7.
+                12. Wilmut, I., et al., “Viable offspring derived from fetal and adult mammalian cells,” Na-
+                    ture, 1997. 385(6619): p. 810–3.
+                13. Tada, M., et al., “Nuclear reprogramming of somatic cells by in vitro hybridization
+                    with ES cells,” Curr Biol, 2001. 11(19): p. 1553–8.
+                14. Schneuwly, S., R. Klemenz, and W.J. Gehring, “Redesigning the body plan of Dro-
+                    sophila by ectopic expression of the homoeotic gene Antennapedia,” Nature, 1987.
+                    325(6107): p. 816–8.
+                15. Davis, R.L., H. Weintraub, and A.B. Lassar, “Expression of a single transfected cDNA
+                    converts fibroblasts to myoblasts,” Cell, 1987. 51(6): p. 987–1000.
+                16. Kawai, J., et al., “Functional annotation of a full-length mouse cDNA collection,” Na-
+                    ture, 2001. 409(6821): p. 685–90.
+                17. “Digital Differential Display,” http://www.ncbi.nlm.nih.gov/UniGene/ddd.cgi
+                18. Nichols, J., et al., “Formation of pluripotent stem cells in the mammalian embryo
+                    depends on the POU transcription factor Oct4,” Cell, 1998. 95(3): p. 379–91.
+                19. Niwa, H., J. Miyazaki, and A.G. Smith, “Quantitative expression of Oct-3/4 defines dif-
+                    ferentiation, dedifferentiation or self-renewal of ES cells” Nat Genet, 2000. 24(4): p.
+                    372–6.
+                20. Okuda, A., et al., “UTF1, a novel transcriptional coactivator expressed in pluripotent
+                    embryonic stem cells and extra-embryonic cells,” Embo J, 1998. 17(7): p. 2019–32.
+                21. Rogers, M.B., B.A. Hosler, and L.J. Gudas, “Specific expression of a retinoic acid-reg-
+                    ulated, zinc-finger gene, Rex-1, in preimplantation embryos, trophoblast and sper-
+                    matocytes,” Development, 1991. 113(3): p. 815–24.
+                22. Tokuzawa, Y., et al., “Fbx15 is a novel target of Oct3/4 but is dispensable for embry-
+                    onic stem cell self-renewal and mouse development,” Mol Cell Biol, 2003. 23(8): p.
+                    2699–708.
+                23. Takahashi, K., K. Mitsui, and S. Yamanaka, “Role of ERas in promoting tumour-like
+                    properties in mouse embryonic stem cells,” Nature, 2003. 423(6939): p. 541–5.
+                24. Mitsui, K., et al., “The Homeoprotein Nanog Is Required for Maintenance of Pluripo-
+                    tency in Mouse Epiblast and ES Cells,” Cell, 2003. 113(5): p. 631–42.
+
+
+
+
+Book.indb 283                                                                                              3/24/14 12:59 PM
+
+
+        284                                                                      The Nobel Prizes
+
+
+        25. Masui, S., et al., “Pluripotency governed by Sox2 via regulation of Oct3/4 expression
+            in mouse embryonic stem cells,” Nat Cell Biol, 2007. 9(6): p. 625–635.
+        26. Chambers, I., et al., “Functional expression cloning of nanog, a pluripotency sustain-
+            ing factor in embryonic stem cells,” Cell, 2003. 113(5): p. 643–55.
+        27. Yuan, H., et al., “Developmental-specific activity of the FGF-4 enhancer requires the
+            synergistic action of Sox2 and Oct-3,” Genes Dev, 1995. 9(21): p. 2635–45.
+        28. Okita, K., T. Ichisaka, and S. Yamanaka, “Generation of germ-line competent induced
+            pluripotent stem cells,” Nature, 2007. 448: p. 313–7.
+        29. Egawa, N., et al., “Drug screening for ALS using patient-specific induced pluripotent
+            stem cells,” Sci Transl Med, 2012. 4(145): p. 145ra104.
+        30. Yahata, N., et al., “Anti-Abeta Drug Screening Platform Using Human iPS Cell-De-
+            rived Neurons for the Treatment of Alzheimer’s Disease,” PLoS One, 2011. 6(9): p.
+            e25788.
+        31. Tanaka, T., et al., “Induced pluripotent stem cells from CINCA syndrome patients as
+            a model for dissecting somatic mosaicism and drug discovery,” Blood, 2012. 120(6):
+            p. 1299–308.
+        32. Takayama, N., et al., “Transient activation of c-MYC expression is critical for efficient
+            platelet generation from human induced pluripotent stem cells,” J Exp Med, 2010.
+        33. Okita, K., et al., “A more efficient method to generate integration-free human iPS
+            cells,” Nat Methods, 2011. 8(5): p. 409–12.
+        34. Hong, H., et al., “Suppression of induced pluripotent stem cell generation by the
+            p53-p21 pathway,” Nature, 2009. 460(7259): p. 1132–5.
+        35. Nakagawa, M., et al., “Promotion of direct reprogramming by transformation-defi-
+            cient Myc,” Proc Natl Acad Sci U S A, 2010. 107(32): p. 14152–7.
+        36. Maekawa, M., et al., “Direct reprogramming of somatic cells is promoted by maternal
+            transcription factor Glis1,” Nature, 2011. 474(7350): p. 225–9.
+        37. Smith, A.G., et al., “Inhibition of pluripotential embryonic stem cell differentiation by
+            purified polypeptides,” Nature, 1988. 336(6200): p. 688–90.
+        38. Avilion, A.A., et al., “Multipotent cell lineages in early mouse development depend
+            on SOX2 function,” Genes Dev, 2003. 17(1): p. 126–40.
+        39. Hanna, J., et al., “Treatment of Sickle Cell Anemia Mouse Model with iPS Cells Gener-
+            ated from Autologous Skin,” Science, 2007. 318(5858): p. 1920–3.
+        40. Park, I.H., et al., “Disease-Specific Induced Pluripotent Stem Cells,” Cell, 2008. 134(5):
+            p. 877–886.
+        41. Dimos, J.T., et al., “Induced Pluripotent Stem Cells Generated from Patients with ALS
+            Can Be Differentiated into Motor Neurons,” Science, 2008. 321: p. 1218–1221.
+        42. Jang, J., et al., “Induced pluripotent stem cell models from X-linked adrenoleukodys-
+            trophy patients,” Ann Neurol, 2011. 70(3): p. 402–9.
+        43. Agarwal, S. and G.Q. Daley, “Telomere dynamics in dyskeratosis congenita: the long
+            and the short of iPS,” Cell Res, 2011. 21(8): p. 1157–60.
+        44. Urbach, A., et al., “Differential modeling of fragile X syndrome by human embryonic
+            stem cells and induced pluripotent stem cells,” Cell Stem Cell, 2010. 6(5): p. 407–11.
+        45. Guan, X., et al., “Derivation of human embryonic stem cells with NEMO deficiency,”
+            Stem Cell Res, 2012.
+
+
+
+
+Book.indb 284                                                                                            3/24/14 12:59 PM
+
+
+                The Winding Road to Pluripotency                                                   285
+
+
+                46. Zhou, Q., et al., “In vivo reprogramming of adult pancreatic exocrine cells to beta-
+                    cells,” Nature, 2008. 455(7213): p. 627–632.
+                47. Qian, L., et al., “In vivo reprogramming of murine cardiac fibroblasts into induced
+                    cardiomyocytes,” Nature, 2012. 485(7400): p. 593–8.
+
+                Portrait photo of Shinya Yamanaka by photographer Ulla Montan.
+
+
+
+
+Book.indb 285                                                                                          3/24/14 12:59 PM
+

@@ -1,0 +1,751 @@
+ELECTROMAGNETIC TRAPS FOR CHARGED
+AND NEUTRAL PARTICLES
+Nobel Lecture, December 8, 1989
+
+by
+WO L F G A N G P   AUL
+
+Physikalisches Institut der Universität Bonn, Nussallee 12, D-5300 Bonn,
+F.R.G.
+
+
+
+
+Experimental physics is the art of observing the structure of matter and of
+detecting the dynamic processes within it. But in order to understand the
+extremely complicated behaviour of natural processes as an interplay of a
+few constituents governed by as few as possible fundamental forces and
+laws, one has to measure the properties of the relevant constituents and
+their interaction as precisely as possible. And as all processes in nature are
+interwoven one must separate and study them individually. It is the skill of
+the experimentalist to carry out clear experiments in order to get answers to
+his questions undisturbed by undesired effects and it is his ingenuity to
+improve the art of measuring to ever higher precision. There are many
+examples in physics showing that higher precision revealed new phenom-
+ena, inspired new ideas or confirmed or dethroned well established theor-
+ies. On the other hand new experimental techniques conceived to answer
+special questions in one field of physics became very fruitful in other fields
+too, be it in chemistry, biology or engineering. In awarding the Nobel prize
+to my colleagues Norman Ramsey, Hans Dehmelt and me for new experi-
+mental methods the Swedish Academy indicates her appreciation for the
+aphorism the Göttingen physicist Georg Christoph Lichtenberg wrote two
+hundred years ago in his notebook “one has to do something new in order
+to see something new”. On the same page Lichtenberg said: “I think it is a
+sad situation in all our chemistry that we are unable to suspend the constitu-
+ents of matter free”.
+  Today the subject of my lecture will be the suspension of such constitu-
+ents of matter or in other words, about traps for free charged and neutral
+particles without material walls. Such traps permit the observation of isolat-
+ed particles, even of a single one, over a long period of time and therefore
+according to Heisenberg’s uncertainty principle enable us to measure their
+properties with extremely high accuracy.
+   In particular, the possibility to observe individual trapped particles opens
+up a new dimension in atomic measurements. Until few years ago all
+measurements were performed on an ensemble of particles. Therefore, the
+measured value - for example, the transition probability between two
+eigenstates of an atom - is a value averaged over many particles. Tacitly
+
+
+602                               Physics 1989
+
+
+one assumes that all atoms show exactly the same statistical behaviour if one
+attributes the result to the single atom. On a trapped single atom, however,
+one can observe its interaction with a radiation field and its own statistical
+behaviour alone.
+   The idea of building traps grew out of molecular beam physics, mass
+spectrometry and particle accelerator physics I was involved in during the
+first decade of my career as a physicist more than 30 years ago. In these
+years (1950 - 55) we had learned that plane electric and magnetic multipole
+fields are able to focus particles in two dimensions acting on the magnetic or
+electric dipole moment of the particles. Lenses for atomic and molecular
+beams [1,2,3] were conceived and realized improving considerably the
+molecular beam method for spectroscopy or for state selection. The lenses
+found application as well to the ammonia as to the hydrogen maser [4].
+   The question “What happens if one injects charged particles, ions or
+electrons, in such multipole fields” led to the development of the linear
+ quadrupole mass spectrometer. It employs not only the focusing and defo-
+cusing forces of a high frequency electric quadrupole field acting on ions
+but also exploits the stability properties of their equations of motion in
+ analogy to the principle of strong focusing for accelerators which had just
+been conceived.
+   If one extends the rules of two-dimensional focusing to three dimensions
+one posseses all ingredients for particle traps.
+   As already mentioned the physics or the particle dynamics in such focus-
+ing devices is very closely related to that of accelerators or storage rings for
+nuclear or particle physics. In fact, multipole fields were used in molecular
+beam physics first. But the two fields have complementary goals: the storage
+of particles, even of a single one, of extremely low energy down to the micro-
+electron volt region on the one side, and of as many as possible of extreme-
+ly high energy on the other. Today we will deal with the low energy part. At
+first I will talk about the physics of dynamic stabilization of ions in two- and
+three-dimensional radio frequency quadrupole fields, the quadrupole mass
+ spectrometer and the ion trap. In a second part I shall report on trapping of
+ neutral particles with emphasis on an experiment with magnetically stored
+ neutrons.
+   As in most cases in physics, especially in experimental physics, the
+achievements are not the achievements of a single person, even if he
+contributed in posing the problems and the basic ideas in solving them. All
+the experiments I am awarded for were done together with research stu-
+dents or young colleagues in mutual inspiration. In particular, I have to
+mention H. Friedburg and H. G. Bennewitz, C.H. Schlier and P. Toschek in
+the field of molecular beam physics, and in conceiving and realizing the
+linear quadrupole spectrometer and the r.f. ion trap H. Steinwedel, O.
+Osberghaus and especially the late Erhard Fischer. Later H.P. Reinhard, U.
+v. Zahn and F. v. Busch played an important role in developing this field.
+
+
+                                         W.Paul                             603
+
+
+  Focusing and Trapping of particles
+  What are the principles of focusing and trapping particles? Particles are
+  elastically bound to an axis or a coordinate in space if a binding force acts
+  on them which increases linearly with their distance r
+
+
+ In other words if they move in a parabolic potential
+
+
+   The tools appropriate to generate such fields of force to bind charged
+ particles or neutrals with a dipole moment are electric or magnetic multi-
+ pole fields. In such configurations the field strength, or the potential
+ respectively increases according to a power law and shows the desired
+ symmetry. Generally if m is the number of “poles” or the order of symmetry
+ the potential is given by
+
+
+ For a quadrupole m = 4 it gives ~ r2 cos 2ϕ, and for a sextupole m = 6 one
+ gets ~ r cos
+            3
+                 corresponding to a field strength increasing with r and r2
+ respectively.
+
+ Trapping of charged particles in 2- and J-dimensional quadrupole fields
+ In the electric quadrupole field the potential is quadratic in the Cartesian
+ coordinates.
+
+
+
+
+   The Laplace condition         = 0 imposes the condition α + β + γ = 0
+ There are two simple ways to satisfy this condition.
+   a) a = 1 = −γ, β=0 results in the two-dimensional field
+
+                                                                            (2)
+
+ b) a = β = 1 , γ = -2 generates the three-dimensional configuration, in
+    cylindrical coordinates
+
+
+
+
+  The two-dimensional quadrapole or the mass filter [5,6]
+  Configuration a) is generated by 4 hyperbolically shaped electrodes linearly
+  extended in the y-direction as is shown in Fig. 1. The potential on the
+electrodes is ±Φ0/2 if one applies the voltage        between the electrode
+  pairs. The field strength is given by
+
+
+604                                      Physics 1989
+
+
+
+
+Figure I. a) Equipotential lines for a plane quadrupole fild, b) the electrodes Structure for the
+mass filter.
+
+If one injects ions in the y-direction it is obvious that for a constant voltage
+    the ions will perform harmonic oscillations in the the x-y-plane but due
+to the opposite sign in the field E their amplitude in the z-direction will
+                                             z
+
+increase exponentially. The particles are defocused and will be lost by
+hitting the electrodes.
+   This behaviour can be avoided if the applied voltage is periodic. Due to
+the periodic change of the sign of the electric force one gets focusing and
+defocusing in both the x- and z-directions alternating in time. If the applied
+voltage is given by a dc voltage U plus an r.f. voltage V with the driving
+frequency ω
+
+
+the equations of motion are
+
+
+
+
+   At first sight one expects that the time-dependent term of the force
+cancels out in the time average. But this would be true only in a homogen-
+ous field. In a periodic inhomogenous field, like the quadrupole field there
+is a small average force left, which is always in the direction of the lower
+field, in our case toward the center. Therefore, certain conditions exist that
+enable the ions to traverse the quadrupole field without hitting the elec-
+trodes, i.e. their motion around the y-axis is stable with limited amplitudes
+in x- and z-directions. We learned these rules from the theory of the Mathieu
+equations, as this type of differential equation is called.
+   In dimensionless parameters these equations are written
+
+
+
+                                                                                              (5)
+
+
+                                               W.Paul                                            605
+
+
+By comparison with equation (4) one gets
+
+                                                                                                 63)
+
+The Mathieu equation has two types of solution.
+1. stable motion: the particles oscillate in the x-z-plane with limited amplitudes.
+   They pass the quadrupole field in y-direction without hitting the electrodes.
+
+
+
+
+Figure 2. The overall stability diagram for the two-dimensional quadrupole field.
+
+
+
+
+              0.3
+
+
+            0.23
+
+              0.2
+
+              t
+              a
+              0.1
+
+
+
+
+ Figure 3. The lowest region for simultaneous stability in x-and z-direction. All ion masses lie on the
+ operation line, m1 > m1.
+
+
+606                               Physics 1989
+
+
+2. unstable motion: the amplitudes grow exponentialy in x, z or in both
+    directions. The particles will be lost.
+   Whether stability exists depends only on the parameters a and q and not
+on the initial parameters of the ion motion, e.g. their velocity. Therefore, in
+an a-q-map there are regions of stability and instability (Fig.2). Only the
+overlapping region for x and z stability is of interest for our problem. The
+most relevant region 0 < a, q < 1 is plotted in Fig. 3. The motion is stable in
+x and z only within the triangle.
+   For fixed values r0 ω, U and V all ions with the same m/e have the same
+operating point in the stability diagram. Since a/q is equal to 2U/V and
+does not depend on m, all masses lie along the operating line a/q = const.
+On the q axis (a = 0, no d.c. voltage) one has stability from 0 < q < q =    max
+
+
+0.92 with the consequence that all masses between ∞ > m > m have       min
+
+stable orbits. In this case the quadrupole field works as a high pass mass
+filter. The mass range ∆m becomes narrower with increasing dc voltage U
+i.e. with a steeper operating line and approaches ∆m = 0, if the line goes
+through the tip of the stability region. The bandwidth in this case is given
+only by the fluctuation of the field parameters. If one changes U and V
+simultaneously and proportionally in such a way that a/q remains sonstant,
+one brings the ions of the various masses successively in the stability region
+scanning through the mass spectrum in this way. Thus the quadrupole
+works as a mass spectrometer.
+   A schematic view of such a mass spectrometer is given in Fig. 4. In Figs.
+5a,b. the first mass spectra obtained in 1954 are shown [6]. Clearly one sees
+the influence of the d.c. voltage U on the resolving power.
+   In quite a number of theses the performance and application of such
+
+
+                                              W.Paul                                         607
+
+
+
+
+Figure 5. a) Very first mass spectrum of Rubidium. Mass scanning was achieved by periodic
+variation of the driving frequency v. Parameter: u =       at u = 0.164 85 Rb and 87 Rb are fully
+resolved. b) Mass doublet Kr - C 6H 11. . Resolving power m/∆m = 6500 [9].
+                           83
+
+
+608                                       Physics 1989
+
+
+instruments was investigated at Bonn University [7,8,9]. We studied the
+influence of geometrical and electrical imperfections giving rise to higher
+multipole terms in the field. A very long instrument (l = 6 m) for high
+precision mass measurements was built achieving an accuracy of 2 10-7 in
+determining mass ratios at a resolving power      = 16 000. Very small ones
+were used in rockets to measure atomic abundances in the high atmosphere.
+In another experiment we succeeded in separating isotopes in amounts of
+milligrams using a resonance method to shake single masses out of an
+intense ion beam guided in the quadrupole.
+   In recent decades the r.f. quadrupole whether as mass spectrometer or
+beam guide due to its versatility and technical simplicity has found broad
+applications in many fields of science and technology. It became a kind of
+standard instrument and its properties were. treated extensively in the
+literature [10].
+The Ion Trap
+Already at the very beginning of our thinking about dynamic stabilization of
+ions we were aware of the possibility using it for trapping ions in a three-
+dimensional field. We called such a device “Ionenkäfig”[11,12,13]. Nowa-
+days the word “ion trap” is preferred.
+  The potential configuration in the ion trap has been given in eq. (3).
+This configuration is generated by an hyperbolically shaped ring and two
+hyperbolic rotationally symmetric caps as it is shown schematically in Fig.
+6a. Fig. 6b gives the view of the first realized trap in 1954.
+
+
+
+
+Figure 6. a) Schematic view of the ion trap. b) Cross section of the first trap (1955).
+
+
+                                                W. Paul                                           609
+
+
+    If one brings ions into the trap, which is easily achieved by ionizing inside
+a low pressure gas by electrons passing through the volume, they perform
+the same forced motions as in the two-dimensional case. The only difference
+is that the field in z-direction is stronger by a factor 2. Again a periodic field
+is needed for the stabilization of the orbits. If the voltage       = U + Vcos
+is applied between the caps and the ring electrode the equations of motion
+are represented by the same Mathieu functions of eq.(5). The relevant
+parameters for the r motion correspond to those in the x-direction in the
+plane field case. Only the z parameters are changed by a factor 2.
+   Accordingly, the region of stability in the a-q-map for the trap has a
+different shape as is shown in Fig. 7. Again the mass range of the storable
+ions (i.e. ions in the stable region) can be chosen by the slope of the
+operation line a/q = 2U/V. Starting with operating parameters in the tip of
+the stable region one can trap ions of a single mass number. By lowering the
+d.c. voltage one brings the ions near the q-axis where their motions are
+much more stable.
+   For many applications it is necessary to know the frequency spectrum of
+the oscillating ions. From mathematics we learn that the motion of the ions
+can be described as a slow (secular) oscillation with the fundamental fre-
+
+
+
+
+Figure 7. The lowest region for stability in the ion trap. On the lines inside the stability region
+and     resp. are constant.
+
+
+610
+
+
+quencies        =     . ω/2 modulated with a micromotion, a much faster
+oscillation of the driving frequency ω if one neglects higher harmonics. The
+frequency determining factor β is a function only of the Mathieu param-
+eters a and q and therefore mass dependent. Its value varies between 0 and
+1; lines of equal β are drawn in Fig. 7.
+   Due to the stronger field the frequency       of the secular motion becomes
+twice      The ratio        is a criterion for the stability. Ratios of 10: 1 are
+easily achieved and therefore the displacement by the micromotion averages
+out over a period of the secular motion.
+   The dynamic stabilization in the trap can easily be demonstrated in a
+mechanical analogue device. In the trap the equipotential lines form a
+saddle surface as is shown in Fig. 8. We have machined such a surface on a
+round disc. If one puts a small steel ball on it, then it will roll down: its
+position is unstable. But if one let the disk rotate with the right frequency
+
+
+
+
+Figure 8. Mechanical analogue model for the ion trap with steelball as “particle”
+
+
+                                     w. Paul                                611
+
+
+appropriate to the potential parameters and the mass of the ball (in our case
+a few turns/s) the ball becomes stable, makes small oscillations and can be
+kept in position over a long time. Even if one adds a second or a third ball
+they stay near the center of the disc. The only condition is that the related
+Mathieu parameter q be in the permitted range. I brought the device with
+me. It is made out of Plexiglas which allows demonstration of the particle
+motions with the overhead projector.
+   This behaviour gives us a hint of the physics of the dynamic stabilization.
+The ions oscillating in the r- and z-directions to first approximation har-
+monically, behave as if they are moving in a pseudo potential well quadratic
+in the coordinates. From their frequencies         and     we can calculate the
+depth of this well for both directions. It is related to the amplitude V of the
+driving voltage and to the parameters a and q. Without any d.c. voltage the
+depth is given by Dz = (q/8) V, in the r-direction it is half of this. As in
+practice V amounts to a few hundred volts the potential depth is of the
+order of 10 Volts. The width of the well is given by the geometric dimen-
+sions. The resulting configuration of the pseudo potential [14] is therefore
+given by
+
+
+
+
+Cooling process
+As mentioned, the depth of the relevant pseudopotential in the trap is of
+ the order of a few volts. Accordingly the permitted kinetic energy of the
+stored ions is of the same magnitude and the amplitude of the oscillations
+can reach the geometrical dimensions of the trap. But for many applications
+one needs particles of much lower energy well concentrated in the center of
+the trap. Especially for precise spectroscopic measurements it is desirable
+to have extremely low velocities to get rid of the Doppler effect and an
+eventual Stark effect, caused by the electric field. It becomes necessary to
+cool the ions. Relatively rough methods of cooling are the use of a cold
+buffer gas or the damping of the oscillations by an external electric circuit.
+The most effective method is the laser induced sideband fluorescence
+developed by Wineland and Dehmelt [15].
+   In 1959 Wuerker et al. [16] performed an experiment trapping small
+charged Aluminium particles (φ ~ mm) in the quadrupole trap. The
+necessary driving frequency was around 50 Hz accordingly. They studied all
+the eigenfrequencies and took photographs of the particle orbits; see Figs.
+9a, b. After they have damped the motion with a buffer gas they observed
+that the randomly moving particles arranged themselves in a regular pat-
+tern. They formed a crystal.
+   In recent years one has succeeded in observing optically single trapped
+ions by laser resonance fluorescence [17]. Walther et al., using a high
+resolution image intensifier observed the pseudo-crystallization of ions in
+the trap after cooling the ions with laser light. The ions are moving to such
+
+
+Figure 9. a) Photomicrograph of a Lissajous orbit in the r-z-plane of a single charged particle of
+Aluminium powder. The micro motion is visible. b) Pattern of “ condensed” Al particles [16].
+
+
+
+
+positions where the repulsive Coulomb force is compensated by the focus-
+ing forces in the trap and the energy of the ensemble has a minimum. Figs.
+10a, b show such a pattern with 7 ions. Their distance is of the order of a
+few micrometers. These observations opened a new field of research [18].
+
+The Ion Trap as Muss Spectrometer
+As mentioned the ions perform oscillations in the trap with frequencies
+and     which at fixed field parameters are determined by the mass of the
+ion. This enables a mass selective detection of the stored ions. If one
+connects the cap electrodes with an active r.f. circuit with the eigenfre-
+quency Ω, in the case of resonance Ω =       the amplitude of the oscillations
+increases linearly with time. The ions hit the cap or leave the field through a
+bore hole and can easily be detected by an electron multiplier device. By
+modulating the ion frequency determining voltage V in a sawtooth mode
+one brings the ions of the various masses one after the other into resonance,
+scanning the mass spectrum. Fig. 11 shows the first spectrum of this kind
+achieved by Rettinghaus [19].
+   The same effect with a faster increase of the amplitude is achieved if one
+inserts a small band of instability into the stability diagram . It can be
+generated by superimposing on the driving voltage V cos ω t a small additional
+rf voltage, e.g. with frequency ω/2, or by adding a higher multipole term
+to the potential configuration [5b,20].
+   In summary the ion trap works as ion source and mass spectrometer at
+the same time. It became the most sensitive mass analyzer available as only a
+few ions are necessary for detection. Its theory and performance is reviewed
+in detail by R.E. March [21].
+
+
+                                            W. Paul                                       613
+
+
+
+
+Figure 10. a) Pseudo crystal of 7 magnesium ions. Particle distance 23 µm. b) The same trapped
+particles at “higher temperature”. The crystal has melted [18].
+
+
+
+The Penning Trap
+If one applies to the quadrupole trap only a d.c. voltage in such a polarity
+that the ions perform stable oscillations in the z-direction with the fre-
+quency        = ,    the ions are unstable in the x-y-plane, since the field is
+directed outwards. Applying a magnetic field in the axial direction, the
+z-motion remains unchanged but the ions perform a cyclotron motion ω
+in the x-y-plane. It is generated by the Lorentz force F directed towards
+                                                                       L
+
+the center. This force is partially compensated by the radial electric force
+F, =       As long as the magnetic force is much larger than the electric one,
+stability exists in the r-y-plane as well. No r.f. field is needed. The resulting
+rotation frequency calculates to
+
+
+Figure Il. First mass spectrum achieved with the ion trap. Gas: air at 2 . 10 -9 torr [19]
+
+
+It is slightly smaller than the undisturbed cyclotron frequency eB/m. The
+difference is due to the magnetron frequency
+
+
+
+which is independent of the particle mass.
+   The Penning trap [22], as this device is called, is of advantage if magnetic
+properties of particles have to be measured, as for example Zeeman transi-
+tions in spectroscopic experiments, or cyclotron frequencies for a very
+precise comparison of masses as are performed e.g. by G. Werth. The most
+spectacular application the trap has found in the experiments of G. Gräff
+[23] and H. Dehmelt for measuring the anomalous magnetic moment of the
+electron. It was brought by Dehmelt [24] to an admirable precision by
+observing only a single electron stored for many months.
+
+Traps for neutral particles
+In the last examination I had to pass as a young man I was asked if it would
+be possible to confine neutrons in a bottle in order to prove if they are
+radioactive. This question, at that time only to be answered with “no”,
+pursued me for many years until I could have had replied: Yes, by means of
+a magnetic bottle. It took 30 years until by the development of super-
+conducting magnets its realization became feasible.
+   Using the example of such a bottle I would like to demonstrate the
+principle of confining neutral particles. Again the basis is our early work on
+focusing neutral atoms and molecules having a dipole moment by means of
+multipole fields making use of their Zeeman or Stark effect to first and
+second order [1,2,3]. Both effects can be used for trapping. Until now only
+magnetic traps were realized for atoms and neutrons. Particularly, B. Mar-
+tin, U. Trinks, and K. J. Kügler contributed to their development with great
+enthusiasm.
+
+
+                                              W. Paul                                         615
+
+
+The principle of magnetic bottles
+The potential energy U of a particle with a permanent magnetic moment µ
+in a magnetic field is given by U = -µB. If the field is inhomogenous it
+corresponds to a force F = grad(µB). In the case of the neutron with its spin
+h/2 only two spin directions relative to the field are permitted. Therefore,
+its magnetic moment can be oriented only parallel or antiparallel to B. In
+the parallel position the particles are drawn into the field and in the
+opposite orientation they are repelled. This permits their confinement to a
+volume with magnetic walls.
+   The appropriate field configuration to bind the particles harmonically is
+in this case a magnetic sextupole field. As I have pointed out such a field B
+increases with r2, B =          and the gradient        with r respectively.
+   In such a field neutrons with orientation             B satisfy the confining
+condition as their potential energy U = + µB ~ r2 and the restoring force
+µgradB = --Cr is always oriented towards the center. They oscillate in the
+field with the frequency ω2 =            P articles with     B are defocused and
+leave the field. This is valid only as long as the spin orientation is conserved.
+Of course, in the sextupole the direction of the magnetic field changes with
+the azimuth but as long as the particle motion is not too fast the spin follows
+the field direction adiabatically conserving the magnetic quantum state.
+This behaviour permits the use of a magnetic field constant in time in
+contrast to the charged particle in an ion trap.
+   An ideal linear sextupole in the x-z-plane is generated by six hyperbolically
+shaped magnetic poles of alternating polarity extended in y-direction, as
+shown in Figs. 12a, b. It might be approximated by six straight current leads
+
+
+
+
+Figure 12. a) Ideal sextupole field. Dashed: magnetic field lines, dotted: lines of equal magnetic
+potential, B = const. b) Linear sextupole made of 6 straight current leads with alternating
+current direction.
+
+
+616
+
+
+
+
+Figure 17. Sextupole sphere
+
+
+with alternating current directions arranged in a hexagon. Such a configu-
+ration works as a lense for particles moving along the y-axis.
+   There are two possibilities to achieve a closed storage volume: a sextupole
+sphere and a sextupole torus. We have realized and studied both.
+   The spherically symmetric field is generated by three ring currents in an
+arrangement shown in Fig. 13. The field B increases in all directions with r 2
+and has its maximum value B0 at the radius r0 of the sphere. Using supercon-
+ducting current leads we achieved B0 = 3T in a sphere with a radius of 5 cm.
+But due to the low magnetic moment of the neutron µ = 6 10-8 eV/T the
+potential depth µBo is only 1.8 10-7 eV and hence the highest velocity of
+storable neutrons is only v max = 6m/s . Due to their stronger moment for Na
+atoms these values are 2.2 10-4 eV and 37 m/s, respectively.
+   The main problem with such a closed configuration is the filling process,
+especially the cooling inside. However, in 1975 in a test experiment we
+succeeded in observing a storage time of 3 s for sodium atoms evaporated
+inside the bottle with its Helium cooled walls [25]. But the breakthrough in
+confining atoms was achieved by W. D. Phillip and H.J. Metcalf using the
+modern technique of Laser cooling [26].
+   The problem of storing neutrons becomes easier if one uses a linear
+sextupole field bent to a closed torus with a radius R as is shown in Fig. 14.
+The magnetic field in the torus volume is unchanged B =               and has
+no component in azimuthal direction. The neutrons move in a circular orbit
+with radius Rs if the centrifugal force is compensated by the magnetic force
+
+
+                                              w. Paul                        617
+
+
+
+
+Figure 14. Sextupole torus. Rs orbit of circulating neutrons.
+
+
+
+   In such a ring the permitted neutron energy is limited by
+
+
+
+It is increased by a factor         1) compared to the case of the sextupole
+sphere. As the neutrons have not only an azimuthal velocity but also
+components in r and z directions they are oscillating around the circular
+orbit.
+   But this toroidal configuration has not only the advantage of accepting
+higher neutron velocities, it also permits an easy injection of the neutrons in
+the ring from the inside. The neutrons are not only moving in the magnetic
+potential well but they also experience the centrifugal barrier. Accordingly,
+one can lower the magnetic wall on the inside by omitting the two inward
+current leads. The resulting superposition of the magnetic and the centrifu-
+gal potential still provides a potential well with its minimum at the beam
+orbit. But there is no barrier for the inflected neutrons.
+   It is obvious, that the toroidal trap in principle works analogous to the
+storage rings for high energy charged particles. In many respects the same
+problems of instabilities of the particle orbits by resonance phenomena
+exist, causing the loss of the particles. But also new problems arise like, e.g.
+undesired spin flips or the influence of the gravitational force. In accelera-
+tor physics one has learned to overcome such problems by shaping the
+magnetic field by employing the proper multipole components. This tech-
+nique is also appropriate in case of the neutron storage ring. The use of the
+magnetic force µ· gradB instead of the Lorentz force being proportional to
+B just requires multipole terms of one order higher. Quadrupoles for
+
+
+                                 Physics 1989
+
+
+
+
+focusing have to be replaced by sextupoles and e.g. octupoles for stabiliza-
+tion of the orbits by decapoles.
+   In the seventies we have designed and constructed such a magnetic
+storage ring with a diameter of the orbits of 1 m. The achieved usable field
+of 3.5 T permits the confinement of neutrons in the velocity range of 5 - 20
+m/s corresponding to a kinetic energy up to 2 10-6 eV. The neutrons are
+injected tangentially into the ring by a neutron guide with totally reflecting
+walls. The inflector can be moved mechanically into the storage volume and
+shortly afterwards be withdrawn.
+   The experimental set up is shown in Fig. 15. A detailed description of the
+
+
+                                            W. Paul                                        619
+
+
+storage ring, its theory and performance is given in [27]. In 1978 in a first
+experiment we have tested the instrument at the Grenoble high flux reac-
+tor. We could observe neutrons stored up to 20 min after injection by
+moving a neutron counter through the confined beam after a preset time.
+As by the detection process the neutrons are lost, one has to refill the ring
+starting a new measurement. But due to the relatively low flux of neutrons
+in the acceptable velocity range, their number was too low to make relevant
+measurements with it.
+   In a recent experiment [28] at a new neutron beam with a flux improved
+by a factor 40 we could observe neutrons up to 90 min, i.e. roughly 6 times
+the decay time of the neutron due to radioactive decay. Fig. 16 shows the
+measured profile of the neutron beam circulating inside the magnetic gap.
+Measuring carefully the number of stored neutrons as a function of time we
+could determine the lifetime to τ= 877 ± 10 s (Fig. 17).
+   The analysis of our measurements lets us conclude that the intrinsic
+storage time of the ring for neutrons is at least about one day. It shows that
+we had understood the relevant problems in its design.
+
+
+
+
+Figure 16. Beam profile of the stored neutrons inside the magnet gap 400 sec after injection.
+
+
+620                                    Physics 1989
+
+
+
+
+Figure 17. Logarithmic decrease of the number of stored neutrons with time.
+
+
+The storage ring as a balance
+This very reproducible performance permitted another interesting experi-
+ment. As I explained the neutrons are elastically bound to the symmetry
+plane of the magnetic field. Due to their low magnetic moment the restor-
+ing force is of the order of the gravitational force. Hence it follows that the
+weight of the neutron stretches the magnetic spring the particle is hanging
+on; the equilibrium center of the oscillating neutrons is shifted downwards.
+The shift z0. is given by the balance mg = µgradB. One needs a gradient
+ = 173 Gauss/cm for compensating the weight. As the gradient in the ring
+ increases with z and is proportional to the magnetic current Zone calculates
+the shift z0 to
+
+
+It amounts in our case to z0 = 1.2 mm at the highest magnet current Z = 200
+A and 4.8 mm at 50 A accordingly.
+   By moving a thin neutron counter through the storage volume we could
+measure the profile of the circulating neutron beam and its position in the
+magnet. Driving alternating the counter downwards and upwards in many
+measuring runs we determined z0 as a function of the magnet current.
+   The result is shown in Fig. 18. The measured data taken with different
+experimental parameters are following the predicted line. A detailed analy-
+sis gives for the gravitational mass of the neutron the value
+
+
+It agrees within 4 % with the well known inertial mass.
+   Thus the magnetic storage ring represents a balance with a sensitivity of
+10 -25 g. It is only achieved because the much higher electric forces play no
+role at all.
+
+
+                                             w. Paul                                       621
+
+
+  I am convinced that the magnetic bottles developed in our laboratory as
+described will be useful and fruitful instruments for many other experi-
+ments in the future as the Ion Trap has already proved.
+
+
+
+
+Figure 18. Downward shift of the equilibrium center of the neutron orbits due to the weight of
+the neutron as function of the magnetic current.
+
+
+622                                Physics 1989
+
+
+REFERENCES
+ [1]  H. Friedburg and W. Paul, Naturwissenschaft 38, 159 (1951).
+ [2]  H. G. Bennewitz and W. Paul, Z. f. Physik 139,489 (1954).
+ [3]  H. G. Bennewitz and W. Paul, Z. f. Physik, 141, 6 (1955).
+ [4]  C. H. Townes, Proc. Nat. Acad. of Science, 80, 7679 (1983).
+ [5]  a) W. Paul and H. Steinwedel, Z. f. Naturforschung 8a, 448 (1953); b) German
+      Patent Nr. 944 900; USA Patent 2939958.
+  [6] W. Paul and M. Raether, Z. f. Physik, 140, 262 (1955).
+  [7] W. Paul, H. P. Reinhardt, and U. v. Zahn, Z. f. Physik 152, 143 (1958).
+  [8] F. v. Busch and W. Paul, Z. f. Physik, 164, 581 (1961).
+  [9] U. v. Zahn, Z. f. Physik, 168, 129 (1962).
+[10] P. H. Dawson: Quadrupole Muss Spectrometry and its Application, Elsevier, Am-
+      sterdam 1976.
+[11] W. Paul, 0. Osberghaus, and E. Fischer, Forsch.Berichte des Wirtschaftsminis-
+      teriums Nordrhein-Westfalen Nr. 4 15 (1958).
+[12] K. Berkling, Thesis Bonn 1956.
+[13] E. Fischer, Zeitschrift f. Physik 156, 1 (1959).
+[14] H. Dehmelt, Adv. in Atom and Molec. Phys., Vol. 3 (1967).
+[15] D. J. Wineland and H. Dehmelt, Bull. Am. Phys. Soc., 20, 637 (1975).
+[16] R. F. Wuerker and R.V. Langmuir, Appl. Phys. 30, 342 (1959).
+[17] W. Neuhauser, M. Hohenstett, P. Toschek and A. Dehmelt, Phys. Rev. A22,
+      1137 (1980).
+[18] F. Dietrich, E. Chen, J. W. Quint and H. Walter, Phys. Rev. Lett. 59, 2931
+      (1987).
+[19] G. Rettinghaus, Zeitschrift Angew. Physik, 22, 321 (1967).
+[20] F. v. Busch and W. Paul, Z. f. Physik, 165, 580 (1961).
+[21] R. E. March and R. J. Hughes, “Quadrupole Storage Mass Spectrometry”, -John
+      Wiley, New York 1989.
+[22] F. M. Penning, Physica 3, 873 (1936).
+[23] G. Gräff, E. Klempt and G. Werth, Zeitschrift f. Physik 222, 201 (1969).
+[24] R. S. van Dyck, P. B. Schwinberg, H. G. Dehmelt, Phys. Lett. 38, 310 (1977).
+[25] B. Martin, Thesis Bonn University 1975.
+[26] A. L. Migdal, J. Prodan, W. D. Phillips, Th. H. Bergmann, and H.J. Metcalf,
+      Phys. Rev. I.ett. 54, 2596 (1985).
+[27] K. J. Kügler, W. Paul, and U. Trinks, Nucl. Instrument. Methods A 228, 240
+      (1985).
+[28] W. Paul, F. Anton, L. Paul, S. Paul, and W. Mampe, Z. f. Physik C 45, 25
+      (1989).
+

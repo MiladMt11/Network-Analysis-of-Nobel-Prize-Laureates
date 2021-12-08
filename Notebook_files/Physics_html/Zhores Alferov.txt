@@ -1,0 +1,1592 @@
+413
+
+THE DOUBLE HETEROSTRUCTURE:  CONCEPT AND ITS APPLICATIONS  IN PHYSICS, ELECTRONICS AND TECHNOLOGY
+
+Nobel Lecture, December 8, 2000 by
+ZHOnrs I. ALFEROV
+A. F. loffe Physico-Technical Institute, Russian Academy of Sciences, 26 Poli- technicheskaya, St. 
+Petersburg 194021, Russian Federation.
+
+
+
+1. INTRODUCTION
+It is impossible to imagine now modern solid state physics without semicon- ductor  
+heterostructures. Semiconductor  heterostructures and,  particularly, double heterostructures, 
+including Quantum Wells, Wires and Dots are today the subject of research of 2/3  of the 
+semiconductor  physics community.
+It can be said that if the possibility of controlling the type of conductivity of a semiconductor  
+material  by doping with various impurities and the idea of injecting  nonequilibrium charge  
+carriers  were  the  seeds from  which  semi- conductor electronics developed,  heterostructures 
+could  make it possible  to solve the considerably more general problem of controlling the 
+fundamental parameters inside  the semiconductor  crystals and devices: band gaps, effec- tive 
+masses of the charge carriers and the mobilities,  refractive indices, elec- trons energy spectrum 
+etc.
+Development  of  the  physics  and  technology  for  the semiconductor  hete- rostructures resulted 
+in remarkable changes in our everyday life. Heterostruc- ture electronics is widely used in many 
+areas of human civilization. It is hardly possible  to  imagine  our  recent  life  without  double 
+ heterostructure  (DHS) laser-based  telecommunication systems,  without  heterostructure-based 
+light- emitting diodes, heterostructure bipolar transistors, without low-noise HEMT for  high  
+frequency  applications  including,  for  example,  satellite  television. The DHS laser enters now 
+practically every house with CD-players. Heterostruc- ture solar cells have been widely used for 
+space and terrestrial applications.
+Our interest in semiconductor  heterostructures was not occasional. Syste- matic studies of 
+semiconductors were started  in  the early 1950s at Physico- Technical  Institute  under  the  
+direct  leadership  of  it's founder  — Abraham loffe. V. P. Zhuze and B. V. Kurchatov studied the 
+intrinsic and impurity con- ductivity of semiconductors in 1952 and  the same year A. F. loffe and 
+Ya. I. Frenkel  created  a  theory  of  rectification  in  a metal-semiconductor contact based on  
+the tunneling  phenomenon  [1]. In 1931 and 1936, Ya. I. Frenkel published  his famous articles 
+where  he predicted, gave the name and devel- oped the theory of excitons in semiconductors and E. 
+F. Gross experimental-
+
+414                                      Physics  2000
+
+ly discovered excitons in 1951  [2]. The first diffiision  theory of p-n hetero- junction 
+rectification, which became the base for W. Shockley's p-n junction theory, was published by B. I. 
+Davydov in 1939 [3]. By A. F. Ioffe's initiative in the late 1940s at the Physico-Technical 
+Institute the research into intermetal- lic  compounds  was  started.  Theoretical  prediction  and 
+ experimental  dis- covery of semiconductor properties of A'B’ compounds were done indepen- dently 
+by H. Welker and on the example of InSb by N. A. Gorunova and A. R. Regel at the Physico-Technical 
+Institute [4]. We benefited a lot from the high theoretical, technological and experimental level 
+in this area that had already existed at the loffe Institute at that time.
+
+2. CLASSICAL  HETEROSTRUCTURE
+The idea of using heterojunctions in semiconductor electronics was put for- ward already at the 
+very dawn of electronics. In the first patent concerned with p-n junction transistors W. Shockley 
+[5]  proposed a wide-gap emitter to obtain unidirectional injection. A. I. Gubanov at our Institute 
+first theoreti- cally  analyzed  volt-current  characteristics  of  isotype  and  anisotype  
+hetero- junctions [6], but the important theoretical considerations at this early stage of 
+heterostructure research have been done by H. Kroemer, who introduced the concept of quasi-electric 
+and quasi-magnetic fields in a graded hetero- junction  and  made  an  assumption  that  
+heterojunctions might  exhibit  ex- tremely high injection efficiencies  in comparison  to 
+homojunctions  [7] . In the same period there were various suggestions about applying heterostruc- 
+tures in semiconductor solar cells.
+The proposal of p-n junction semiconductor  lasers [8], the experimental observation of effective 
+radiative recombination in a GaAs p-n structure with a possible stimulated emission [9]  and the 
+creation of p-n junction lasers and LEDs [10] were the seeds from which semiconductor 
+optoelectronics started to grow. However, lasers were not efficient because of high optical and 
+elec- trical losses. The thresholds currents were very high and low temperature was necessary for 
+lasing. The efficiency of LEDs was very low as well due to high internal losses.
+The important step was made immediatly after the creation of p-n junction lasers when the concept 
+of double heterostructure laser was formulated in- dependently by us and H. Kroemer [11]. In his 
+article H. Kroemer proposed to use the double heterostructures for carriers confinement in the 
+active re- gion. He proposed that “laser action should be obtainable in many of the in- direct gap 
+semiconductors and improved in the direct gap ones, if it is pos- sible to supply them with a pair 
+of heterojunctions injectors”.
+In our patent we also outlined the possibility to achieve high density of in- jected  carriers  and 
+ inverse  population  by  “double”  injection. We  specially pointed out that homojunction  lasers 
+“do not provide CW at elevated tem- peratures” and as an additional advantage of DHS lasers we 
+considered the possibility “to enlarge the emitting surface and to use new materials in various 
+regions of the spectrum”.
+
+Zh‹rres I.   Alfenni                                                         415
+
+Initially  the theoretical  progress was much  faster  than  the experimental realization.  In 
+1966,  [12] we predicted that the density of injected  carriers could by several orders of 
+magnitude exceed the carrier density in the wide- gap emitter (“supeijunction” effect). At the same 
+year in the paper [13] sub- mitted  to a new Soviet Journal  “Fizika  i  Tekhnika  Poluprovodnikov” 
+ (Soy. Phys. Semiconductors) I summarized our understanding  of the main advan- tages of the DHS 
+for different devices, especially for lasers and high power rectifiers:  “The  recombination,  
+light  emitting,  and  population  inversion zones coincide and are concentrated in the middle 
+layer. Due to potential barriers at the boundaries of semiconductors having forbidden bands of dif- 
+ferent width, the through currents of electrons and holes are completely ab- sent, even under 
+strong forward voltages, and there is no recombination  in the emitters (in contrast to p-i-n, 
+p-n-n*, n-p-p* homostructures, in which the recombination  plays the dominant  role)  ... Because  
+of a considerable  dif- ference between the permittivities, the light is completely concentrated in 
+the middle  layer, which acts as a high-grade  waveguide, and thus there are no light losses in the 
+passive regions (emitters)”.
+Here are the most important peculiarities of semiconductor  heterostruc- tures we underlined  at 
+that time: (i)  superinjection of  carriers,  (ii) optical confinement, (iii) electron confinement.
+The realization of the wide-gap window effect was very important for pho- todetectors, solar cells 
+and LEDs applications. It permitted to broaden con- siderably and to control precisely spectral 
+region for solar cells and photode- tectors  and  to  improve  drastically  the  efficiency  for  
+LEDs.  Main  physical phenomena in double and single classical heterostructures are shown in Fig.
+1. Then it was only necessary to find heterostructures where these phenome- na could be realized.
+
+’a’                       Electrons          d)
+Fz- m                                                    y                         _
+
+
+
+Holes
+(b)
+O—           Electrons
+
+
+
+
+
+
+
+
+
+
+Figure 1. Main physical phenomena in classical heterostructures. (a) One-side injection and su- 
+perinjection; (b) Diffusion in built-in quasi-electric field; (c)  Electron and optical 
+confinement;
+(d)  Wlde-gap window effect; (e)  Diagonal tunneling through a heterostructure interface.
+
+416                  Physics  2000
+
+At that time general  skepticism  existed with respect to the possibility  of creating the “ideal” 
+heterojunction with a defect-free interface and first of all with theoretical injection properties. 
+Even a very pioneering study of the first lattice-matched epitaxially grown single-crystal 
+heterojunctions Ge-GaAs by R.
+L. Anderson  [14] did not give any proof of the injection of noneqvilibrium carriers in 
+heterostructures. Actual realization of the efficient wide-gap emit- ters was considered  as simply 
+close  to the impossible  and the double  he- terostructure laser patent was often referred to as a 
+“paper patent”.
+Mostly due to this general skepticism there existed only a few groups trying to find out the “ideal 
+couple”, which was, naturally, a difficult problem. There should be met many conditions of 
+compatibility between thermal, electrical, crystallochemical properties and between the crystal and 
+the band structure of the contacting materials.
+A lucky combination  of a number of properties, i.e. small effective mass and wide energy gap, 
+effective radiative recombination  and a sharp optical absorption edge due to the “direct” band 
+structure, a high mobility at the ab- solute minimum of the conduction band and its strong 
+reduction of the near- est minimum at the (100) point ensured for GaAs even at that time a place of 
+honor in semiconductor physics and electronics. Since the maximum effect is obtained by using 
+heterojunctions between the semiconductor serving as the active  region  and  more  wide  band  
+material,  the  most  promising  systems looked at in that time were GaP-GaAs and AIAs-GaAs.  To be 
+“compatible”, materials  of the “couple” should have, as the first and  the most important 
+condition, close values of the lattice constants; therefore heterojunctions in the system  
+AlAs-GaAs  were preferable.  However  prior  to starting  work  on preparation and study of these 
+heterojunctions one had to overcome a cer- tain psychological barrier. AlAs had been synthesized 
+long ago [15], but many properties of this compound remained unstudied since AlAs was known to be 
+chemically unstable and decompose in moist air. The possibility of preparing stable specimens 
+adequate to applications of heterojunctions in this system seemed to be not very promising.
+Initially, our attempts to create DHS were related to a lattice-mismatched GaAsP system. And we 
+succeeded in fabricating by VPE the first DHS lasers in this system. However, due to lattice 
+mismatch  the lasing like that in homo- junction lasers occurs only at liquid nitrogen temperature 
+[16]. From a more curious point of view, I would like to mention that it was the first practical 
+re- sult obtained for a lattice mismatched, even partially relaxed, system.
+Our experience, which we got from studying the GaAsP system, was very im- portant for understanding 
+ many specific heterojunction physical properties and basics of heteroepitaxy. Development of a 
+multichamber VPE method for the GaAsP system permitted us to create in 1970 superlattice structures 
+with a 200 A-period and to demonstrate the splitting of the conduction band [17].
+But from the general point of view at the end of 1966, we came to a con- clusion  that  even  a  
+small  lattice  mismatch  in  heterostructures  such  as
+GaP0 l5^•0.85—GaAs did  not permitt  to  realize  potential  advantages  of  the DHS. At that time 
+my co-worker D. N. Tret'yakov told me that small crystals of
+
+Shores  I.  Alferov                                              417
+
+Al,Ga,     solid solutions of different compositions, which had been prepared two years ago by 
+cooling from a melt, were put in the desk drawer by Dr. A. S. Bortshevsky  and  nothing  happened  
+to them. It immediately  became  clear that Al,Ga₁     solid solutions turned out to be chemically 
+stable and suitable for preparation  of durable  heterostructures and devices.  Studies  of phase 
+diagrams and the growth kinetics in this system and development of the LPE method especially for 
+heterostructure growth soon resulted in fabricating the first lattice-matched AlGaAs 
+heterostructures. When we published the first pa- per on this subject, we were lucky to be the 
+first to find out a unique, practi- cally an ideal lattice-matched system for GaAs, but as it 
+frequently happened simultaneously  and  independently  the  same  results  were  achieved  by  H. 
+Rupprecht and J. Woodall at T. Watson IBM Research Center [18].
+Then  the  progress  in  the semiconductor  heterostructure area  was very rapid. First of all we 
+experimentally proved the unique injection properties of the wide-gap emitters and the 
+superinjection effect [19], the stimulated emis- sion in AlGaAs DHS [20], established the 
+band-diagram of AlgGal      —GaAs,
+heterojunction, carefully studied luminescence properties, diffusion of carri-
+ers in a graded heterostructure and very interesting peculiarities of the cur- rent flow through 
+the heterojunction — that is similar, for instance, to diago- nal tunneling-recombination 
+transitions directly between holes of the narrow- band and electrons of the wide-band 
+heterojunction components [21].
+At the same time, we created the maority of the most important devices with realization of the main 
+advantages of the heterostructure concepts:
+— Low threshold at room temperature DHS lasers [22] (Fig. 2).
+
+
+
+1.59  eV
+(a)
+
+1.39 eV
+
+
+
+
+(2)           1.59  eV
+1.61 eVf        ^ ^
+
+
+
+t  .61 eV
+
+
+
+
+7100      7700       8300
+Wavelength (I)
+(b)
+
+
+
+
+
+
+
+
+
+
+8900         7760            7820
+
+Figure 2. Emission spectrum of the first low-threshold Al Ga, l
+DHS laser operating at room tem-
+
+perature (300 K),/,a
+-- 4300A/ cm2. The current rises: (a)  from (1) 0.7 A to (2) 8.3 A and then to
+2
+(3) 13.6 A; (b)  from (1) 13.6 A to (2)  18 A; s —— 2.2 x 10” cm .
+
+418                                      Physics  2000
+
+— High effective SHS and DHS LED [23]
+— Heterostructure solar cells [24]
+— Heterostructure bipolar transistors [25]
+— Heterostructure p-n-p-n switching devices [26].
+One of the first successful applications in industrial scale production in our country was 
+heterostructure solar cells in space research. We transferred our technology to the “Quant” company 
+and since 1974, GaAlAs solar cells have been installed on many of our sputniks. Our space station 
+“Mir” (Fig. 4) has been using them for 15 years.
+Most of these results were achieved afterwards in other laboratories in 1—2 years and in some cases 
+even later. But in 1970, the international competition became very strong. Later on one of our main 
+competitors I. Hayashi, who was working together with M. Panish at Bell Telephone Lab in Murray 
+Hill, wrote [27]: “In September 1969, Zhores Alferov of the loffe Institute in Leningrad visited  
+our  laboratory.  We  realized  he  was  already  getting  a /    ")   of  4.3 kA/cm* with a DH. We 
+had not realized that the competition was so close and redoubled our efforts ... Room temperature  
+CW operation was reported in May 1970 ...”. In our paper published in 1970, [28] the CW lasing was 
+real- ized in stripe-geometry lasers formed by photolithography and mounted on copper plates 
+covered by silver (Fig. 3). The lowest/y density at 300 K was 940 A/cm* for broad area lasers and 
+2.7 kA/cm* for stripe lasers. Independently, CW operation in DHS lasers was reported by Izuo 
+Hayashi and Morton Panish
+[29]  (for broad area lasers with diamond  heatsinks)  in a paper submitted only one month later 
+than our work. Achievement of CW at room tempera- ture produced  an explosion  of interest in 
+physics and technology of semi- conductor heterostructures. If in 19fi9, AlGaAs heterostructures 
+were studied just in a few laboratories mostly in USSR and US (A. F. loffe Institute, “Polyus” and 
+“Quant” — industrial lab's where we transferred our technology for appli- cations in USSR; Bell 
+Telephone, D. Sarnoff RCA Research Center, T. Watson IBM Res.Center  in US), in the beginning of 
+1971, many Universities, indu- strial  labs in USA,  USSR,  United KingdomsJapan and even  in  
+Brazil  and
+Poland started investigations of III—V  Heterostructures and Heterostructure
+Devices.
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. Schematic view of the structure of the first injection DHS laser operating in the CW 
+regime at room temperature.
+
+419
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. Space station “Mir" equipped with heterostructure solar cells.
+
+
+At  this early stage of  the development  of  the  heterostructure physics and technology  it 
+became clear  that we needed  to look for  new lattice-matched heterostructures in order to cover a 
+broad area of the energy spectrum. The first important step was done in our laboratory in 1970: in 
+the paper (30] we reported  that  various  lattice-matched  heterojunctions based  on  quaternary 
+III—V solid  solutions  were possible,  which  permitted  independent  variation between lattice 
+constant and band gap. Later on  G. Antipas with co-workers
+[31] came to the same conclusions. As a practical example utilizing this idea we  considered  
+different  InGaAsP  compositions  and  soon  this  material  was recognized  among  the  most  
+important  ones,  for  many  different  practical applications: photocathodes [32] and especially 
+lasers in infra-red  re   on for fiber optical communications [33] and the visible [$4] .
+
+2.8
+
+
+
+AlSb
+
+GaAs
+
+
+
+0.4
+5.40           5.56            5.72            5.88            6.04            6.20
+Lattice constant (1)
+Figure S. Energy gaps ve lactice constant for III-V Semiconductors. Lattice matched 
+heterojunctions:               1959 (R.L. Anderson); AIG       1967 (Zh. Alferov e/ nt, J. M. 
+Woodall & H. S. Rupprecht);
+Quaternary HS (InGaAsP & AlGaAsSb): Proposal—1970 (Zh. Alferov e/ a£);
+First experiment—1972 (Antipas ct at)
+
+420                                                 Physics  2000
+
+In the early 1970s a “world map” of ideal lattice-matched heterostructures was shown (Fig. 5). Not 
+before a decade later this “world map” was drastical- ly changed (Fig. 6). Nowadays, it is 
+necessary to add III-nitrides.
+The main ideas of a semiconductor distributed-feed-back laser were for- mulated by us in the patent 
+in 1971 [35]. The same year H. Kogelnilk and C.
+V. Shank considered the possibility of replacing the Fabry—Perot or similar types of resonator in 
+dye-lasers with volume periodical inhomogeneities [36]. It is necessary to note, that their 
+approach is not applicable to semiconductor lasers and all laboratories that carried out research 
+in DFB and DBR semi- conductor lasers used the ideas formulated in [35]:
+1. Diffraction  grating created  not in volume, but on  a surface  waveguide layer
+2. Interaction of waveguide modes with a surface diffraction grating, giving not only distributed 
+feedback but also highly collimated light output.
+Detailed theoretical analyses of the semiconductor  laser with surface dif- fraction grating was 
+published in 1972 (37]. In this paper the authors esta- blished  the  way  for  the  
+single-frequency generation.  First  semiconductor lasers with surface diffraction grating and 
+distributed feedback were realized practically  simultaneously  at the  Physico-Technical Institute 
+ [38],  Caltech
+[39] and Xerox Lab in Palo Alto [40].
+In the early 1980s H. Kroemer  and G. Griffiths published  a paper  [41] which stimulated strong 
+interest in staggered line-up heterostructures (type II heterojunction). Spatial separation of 
+electrons and holes at the interface re- sults in a tunability of their optical properties [21(c), 
+42]. Staggered band alignment gives a possibility to realize optical emission with a photon energy 
+much smaller than the band-gap energy of each of the semiconductors form-
+
+
+
+3.6
+
+3.0
+
+
+
+AIP
+
+Q(MnSe)
+
+
+(MfiTe)
+
+
+
+
+(EuTe)
+
+
+1.8       i
+CdSeQ       Sb
+
+
+so 1.2
+
+0.6
+
+
+Ge     PbSQ
+
+
+GaSb
+nAs          '
+
+
+
+'  iPbTe
+
+GeTe O —  PbSe
+O     O
+HgS         HgSe
+-  -  —               InSb
+•  x     Sn
+cr"    b
+SnTe   HgTe
+
+—0.6
+5.4           5.6
+6.0       6.2        6.4        6.6
+Lattice constants (&)
+Figure 6. Energy gaps vs lattice constants for semiconductors of IV elements, III—V and II(lV)—VI 
+compounds and magnetic materials in parentheses. Lines connecting the semiconductors, solid for  
+the III—V’s  and dotted for the others, indicate quantum  heterostructures that have been in- 
+vestigated.
+
+Zhmes  I.  Alferov                                              42t
+
+ing  a  heterojunction. The  demonstration  of  an  injection  laser  based  on  a type-II 
+GaInAsSb-GaSb  heterojunction [42] opens good perspectives for  the creation  of  effective  
+coherent  light  sources  in  the  infrared  optical  range. Radiation in such a device is due  to 
+the recombination  of electrons and holes localized  in  self-consistent  potential  wells  at  
+different  sides  of  the  hetero- interface.  Thus,  type-II  heterostructures open  possibilities 
+ both  for  funda- mental  physics  and  for  device  applications,  which  cannot  be  realized  
+with type-I heterostructures in the III—V material system. However, practical appli- cations  of  
+these  structures  are  still  hampered  by  a  poor  understanding  of their  fundamental  
+properties  and  the  few actual  systems,  which  have  been studied experimentally up to now.
+To  summanzé  this  brief  review  of  the  classical  heterostructures develop-
+ment, it would be very convenient to classify the most important results in the following way:
+
+Clâssical Heterostructures
+I. Fundamental Physical Phenomena (Fig. 1)
+•  One-side injection
+•  Superinjection
+•  Diffusion in Built-in Quasi-Electric Fields
+•  Electron confinement
+•  Optical confinement
+•  Wide-gap window effect
+•  Diagonal  tunneling through  heterostructure interface
+
+II. Important Applications in Electronics
+•  Semiconductor lasers — Low threshold and CW at  room  temperature, DFB and  DBR Lasers, Vertical 
+ Surface  Emitting  Lasers,  IR II-type  Heterostruc- ture Lasers
+•  High efficient LED
+•  Solar cells and  photodetectors, based on  the wide-gap window effect
+•  Semiconductor  integrated  optics,  based on  semiconductor  DFB and  DBR lasers
+•  Bipolar wide-gap  transistors
+•  Transistors,  thyristors, dynistors with photonic signal transmission
+•  High power diodes and  thyristors
+•  Infra-red  to visible converters
+•  Efficent cold cathodes.
+
+III. Important  Technological Peculiarities
+•   Lattice-matched structures are a necessity of principle
+•  Multi-component solid solutions are used for lattice-matching
+•  Epitaxial  growth  technology is needed of principle.
+Concluding   this  concise   summary   of   early  development   of   bulk   he- terostructures one 
+ may  say  that  the  invention  of  an  “ideal”  heterojunction
+
+422                                                 Physics  2000
+
+and  the  introduction  of  the  heterostructure  concept  into  semiconductor physics and 
+technology have led to the discovery of new physical effects, car- dinal improvement  of 
+characteristics of practically all known semiconductor devices, and  the  invention  of new ones.
+
+3. HETEROSTRUCTURE QUANTUM WELLS AND SUPERLATTICES
+Owing to electron confinement in DHS, the double-heterostructure laser be- came an important 
+precursor of a quantum well structure: when a middle- layer had a thickness of some hundred 
+angstroms, the electron levels would split due to the  quantum-size  effect.  The development  of 
+heterostructure growth  techniques  gave  a  possibility  to fabricate  high  quality  double  he- 
+terostructures with ultrathin layers. Two main methods of growth with very precise control of 
+thickness, planarity, compositions etc. were developed in the 70s. A modern molecular  beam epitaxy 
+method became practically im- portant for III—V heterostructure technology first of all due to the 
+pioneering work of A. Cho [43]. Metallo-organic chemical vapor deposition originated from an early 
+work of H. Manasevit [44] and found broad application in III-V heterostructure research after R. 
+Dupuis and P. Dapkus reported the room temperature injection of AlGaAs DHS lasers which had been 
+grown by the MOCVD method [45].
+Clear  manifestation   of  the  quantum-size   effect  in  optical  spectra  of G      AlGaAs  
+semiconductor  heterostructures  with  ultrathin  GaAs  layers (quantum wells) was demonstrated by 
+Raymond Dingle rI at. in 1974 [46]. The authors observed a characteristic step-like behavior in 
+absorption spectra and systematic shifts of the characteristic energies with a quantum well width 
+decrease.
+Studies of superlattices were started by the work of L. Esaki and R. Tsu in 1970 [47] who 
+considered the electron transport in a superlattice, i.e. an ad- ditional periodic potential 
+created by doping or changing the composition of semiconductor materials with the period bigger, 
+but comparable with a lattice constant of a crystal. In this, as Leo Esaki called it “man-made 
+crystal”, a para- bolic band would break into mini-bands separated by small forbidden gaps and 
+having Brillouin zones determined by this period. Similar ideas were de- scribed by L. V. Keldysh 
+in 1962 [48] when considering the periodic potential produced on a semiconductor surface by an 
+intense ultrasonic wave. At the Physico-Technical Institute R. Kazarinov and R. Suris theoretically 
+considered the current flow in superlattice structures in the early 1970s [49]. It was shown that 
+the current between wells is determined by tunneling through the poten- tial barriers separating 
+the wells and the authors predicted a very important phenomena: tunneling under electric field when 
+the ground state of a well co- incides with an excited state of the next well and stimulated 
+emission resulting from photon-assisted tunneling between the ground state of one well and ex- 
+cited state of a neighboring well, which is lower by the energy due to applied electric field. At 
+that time L. Esaki and R. Tsu independently considered reso- nant tunneling in superlattice 
+structures [50].
+
+Zhi›res I.  Alfemu                                            423
+
+The pioneering  experimental  studies of the superlattice  structures  were carried out by L. Esaki 
+and R. Tsu: the superlattices were grown by VPE in the system GaP       ,—GaAs. At the same time in 
+our laboratory we developed the first multichamber apparatus and, as it was mentioned before, 
+prepared a su- perlattice structure GaP  EAU y—GaAs with the thickness of each layer equal to 100 A 
+and total number of the layers being 200 [17]. Observed peculiarities of the volt-current 
+characteristics, their temperature dependence and photo- conductivity were explained by the 
+splitting of the conduction  band due to the one-dimensional periodic potential of the 
+superlattice. These first super-
+lattices  were  also  the  first  strained-layer  superlattices. E.  Blakeslee  and J Matthews who 
+were working with L. Esaki and R. Tsu at IBM succeeded in the
+mid-70's in growing strained-layer superlattices with a very low concentration of defects. But many 
+years later, after G. Osbourn's theoretical study [51] at Sandia lab and the first successful 
+preparation of a high quality strained-layer superlattice GaAs—Int $Ga        by M. Ludowise at 
+Varian, N. Holonyak at the University  of  Illinois  achieved  the  CW  room-temperature  laser  
+action  on those structures[52]. It became clear that in a strained-layer superlattice the lattice  
+strain  became  an additional  degree  of freedom  and  by varying  the layer  thicknesses  and  
+compositions  one  can  vary  continuously  and  inde- pendently of one another the forbidden gap, 
+lattice constant etc. of the over- all superlattice.
+In the early 1970s L.Esaki with co-workers passed to MBE technology in the
+AlGaAs system [53] and in March 1974, they submitted a paper on resonant tunneling [54]. It was the 
+first experimental demonstration of quantum well heterostructure physics. They measured  the 
+tunneling current and conduc- tance as a function of an applied voltage in GaAs-GaAlAs double 
+barriers and found current maxima associated with resonant tunneling. Later in the same year L. 
+Esaki and L. L. Chang observed resonant tunneling in a superlattice
+[55]. Strong interest in resonant tunneling obviously was connected with its potential applications 
+in high-speed electronics. In the late 1980, picosecond operation has been achieved in a double 
+resonant tunnel diode and oscilla- tions up to 420 GHz were reported in a GaAs resonant tunnel 
+diode at room temperature.
+The restriction of the electron motion to two dimensions in field effect tran- sistors were 
+recognized long time ago [56] and for trapped electrons in inver- sion layers was first verified by 
+the magneto-conductance experiment by A. B. Fowler et at. in 1966 [57]. Spectral effects due to 
+spatial quantization were ob- served in thin bismuth films in 1968 by V. N. Lutskii and L. A. Kulik 
+[58].
+The pioneering work on modulation-doped superlattices [59] demonstrat- ing a mobility enhancement 
+with respect to the bulk crystal, stimulated re- search data on application of the high-mobility 
+two-dimensional electron gas for microwave amplification. In France and Japan practically 
+simultaneously
+new types of transistors based on a single nAlGaAs—nGaAs modulation-doped
+heterostructure were created  that were labeled TEGFET  (two dimensional electron gas FET) in 
+France [60] and HEMT (high electron mobility transi- stor) in Japan [61].
+
+424                                         Physics  2000
+
+The first quantum well laser operation was demonstrated by J. P. van der Ziel et al. [62] but 
+parameters of the lasing were much worse than for average DHS  lasers.  In  1978,  R.  Dupuis  and  
+P.  Dapkus  in  collaboration  with  N. Holonyak first reported about the quantum well laser with 
+parameters com- parable with conventional  DHS lasers  [63]. The name  “quantum  well” was used in 
+that paper. Real advantages of quantum well lasers were demonstrat- ed much  later by W. T. Tsang 
+at Bell Telephone  Lab. Thanks  to many im- provements of MBE growth technology and introducing an 
+optimized struc- ture (GRIN SCH) he found threshold currents as low as 160 A/cm° [64].
+We started to develop MBE and MOCVD methods of growth of III—V he- terostructures only in the late 
+1970s.  First of all, we stimulated the design and construction  of  the  first  Soviet  MBE  
+machine  in  our  electronic  industry. During a few years there were developed three generations 
+of MBE machine and the last, which  had the name  “Cna”  (the nice  river not very far from Ryazan  
+—  the  city  where  NITI  —  industrial  laboratory  of  the  Electronic Industry was located, 
+this NITI carried out development of MBE machine) were good enough for our goals. In parallel, 
+later on, we started  to develop MBE system with NTO  AN - scientific Instruments company of the 
+Academy of Sciences in Leningrad. In the middle of the 80's we got a few systems of this version. 
+Both types of MBE systems are still working at the loffe Institute and other laboratories.
+The MOGVD systems we developed just in our Institute and later, in the 1980s, a Swedish company 
+“Epiquip” specially designed with our participation a couple of systems for our Institute, which 
+are still used in our research.
+The strong  interest  in experimental  study  of low-dimensional structures and lack of equipment 
+for MBE and MOCVD growth technology stimulated our  research  on  the  development  of  LPE  
+suitable  for  quantum  well  he- terostructures.
+However,  until  the  late  1970s  it  seemed  impossible  to  grow  III—V  he- terostructures with 
+an active-region  thickness of less than 500 & by LPE be- cause of the existence near the 
+heterojunction of extended interface regions with varying chemical compositions.
+The situation was changed due to work of N. Holonyak  et  al.  [65] for su- perlattice like InGaAsP 
+structures by using a rotating boat system. In our la- boratory we developed a new LPE method with 
+the usual translational motion in a standard horizontal system for InGaAsP heterostructures [6fi] 
+and a low- temperature LPE method for AlGaAs heterostructures [67]. These methods permitted us to 
+prepare practically any kind of excellent quality quantum well heterostructures with the thickness 
+of the active region up to 20 & and with the size of the interface regions comparable to one 
+lattice constant. Of great practical importance for InGaAsP laser heterostructures was the creation 
+of a record threshold current density for InGaAsP/InP (k = 1.3 and 1.55 ptm) and for InGaAsP/GaAs  
+(Z = 0.65—0.9 km) single quantum well separate confine- ment lasers [68]. For high power 
+InGaAsP/GaAs (Z = 0.8 km) lasers a total ef- ficiency of fi6 % with GW power 5 W for 100 Jim width 
+of the strips, a stripe- geometry laser was achieved [69]. In this lasers effective cooling of the 
+semi-
+
+425
+
+conductor power device by recombination radiation was for the first time re- alized as it had been 
+predicted much earlier [ l3). Another important con- clusion about InGaAsP heterostructure was its 
+unusual resistance to multipli- cation of dislocations and defects (Fig. 7) [70]. It was this 
+research that made a start to broad application of Al-free heterostructures.
+
+
+
+
+
+
+
+
+
+
+
+= 90 min
+Figure 7. Time evolution of DHS active region under high level photoexcitation. AlGaAs/GaAs (a), 
+InGaAsP/GaAs  (b). Diameter of Kr*-laser excitation  beam -  4O pm. Excitation  level (a) 10⁴ 
+W/cm*,  (b) 10* W/cm*.
+
+
+A most complicated quantum well laser structure, which combined a single quantum  well  with  short 
+ period  superlattices  (SPSL),  for the  creation  of GRIN SCH (the most favourable for the lowest 
+Jg) was demonstmted in our laboratory in 1988 [71] (Fig. 8). Using SPSL we achieved not only the 
+desir- able profile of a graded wave-guide region, thus creating a barrier for dislo- cation 
+movement to the active layer, but also got a possibility to grow different
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 8. MBE grown SPSL Q_WSCH laser structure.
+
+426                                                       Physics  2000
+
+parts of the  structure  at sufficiently large differences of  the  temperature.  In this way, we 
+have obtained both an excellent surface morphology and  a high internal quantum efficiency on  a 
+planar GaAs  (100) surface. The  lowestJp = 52 A/cm° and, shortly after some small optimization, 40 
+A/cm° was for a long time a world  record  for semiconductor  injection  lasers and  a good  demon- 
+stration  of  the  application  of  quantum  wells and  superlattices  in  electronic devices.
+The  idea of stimulated emission in superlattices that had been published by
+R. Kazarinov and  R. Suris  [49] was realized  nearly a quarter of century after the proposal, by 
+Federico Capasso [72] . The  proposed structure was strongly improved  and  a cascade laser 
+developed  by F. Capasso gave rise to a new ge- neration of unipolar lasers operating in the 
+middle-infrared range.
+The history of the semiconductor lasers is, from a certain point of view, the history  of evolution 
+ of  the  semiconductor  laser current  threshold,  which  is shown  in  Fig. 9. The  most dramatic 
+ changes  happened just after  the  intro- duction  of  the  DHS concept.  Impact  of SPSL  QW led  
+practically  to a  theo- retical limit of this most important parameter. What can happen as a 
+result of application  of  new quantum  wires and  quantum  dots structures  will  be dis- cussed 
+in the next part of our  paper.
+
+
+
+4.3 kA/cm2
+I@                 (1968)         Impact of double
+heterostructures
+Impact of
+
+
+
+102
+900 A/cm2
+(1970)
+
+
+160 A/cm2
+quantum wells
+
+Impact of quantum dots
+(1981)        4o ogpz
+10                                                    (1988)
+19 A/cm2
+
+Impact of  SPSL QW
+(2000)
+
+
+960   65      70     75      8
+85      90      95   2000
+S
+Figure 9. Evolution of the threshold current of semiconductor lasers.
+
+
+Maybe  the  crown  of  the  quantum  well  studies  was  the   discovery  of  the Quantum  Hall  
+effect  [73] . This discovery  and  its comprehensive  studies  in AlGaAs-GaAs  heterostructures, 
+which  shortly  led  to  the fractional  quantum Hall effect discovery  [74] , had  a  principal 
+effect on  the  whole physics of the solid state. Observation of the effect which deals only with 
+fundamental quan- tities and  does not  rely on  peculiarities of the  band structure, carrier 
+mobili- ty and   densities in a semiconductor, has shown  that heterostructures can be used to 
+model some very basic physical effects. Recently many studies in this area  have  been  
+concentrated  on  understanding  condensation  of  electrons and search of Wigner crystallization.
+
+Zh‹rtes I.  Alferov                                              42Y
+
+To summarize  this part of our  paper we present the summary in a way like that in the previous 
+classical heterostructure part.
+
+Heterostructure Quantum Wells and Superlattices
+I. Fundamental Physical Phenomena
+•   2D electron gas
+•  Step-like density-of-state function
+•  Quantum Hall effect
+•   Fractional Quantum Hall effect
+•  Excitons at room temperature
+•  Resonant tunneling in double-barrier structures and superlattices
+•  Energy spectrum in superlattices is determined  by choice of potential and strain
+•  Stimulated emission  at resonant tunneling in superlattices
+•  Pseudomorphic  growth of strained structures.
+
+II. Important Consequences for Applications
+•  Shorter emission wavelength, reduced threshold current, larger differential gain  and  reduced  
+temperature  dependence  of  the  threshold  current for semiconductor  lasers
+•  IR quantum cascade laser
+•  SPSL QW laser
+•  Optimization  of  Electron  and  Light  Confinement  and  Waveguiding  for semiconductor lasers
+•  2D electron gas transistors  (HEMT)
+•  Resonant-tunneling diodes
+•  Precise resistance standards
+•  SEEDs and  electro-optical modulators
+•  IR photodetectors based on quantum size level absorption.
+
+III. Important Technological Peculiarities
+•   Lattice-match  is unnecessary
+•  Low growth-rate technology  (MBE, MOCVD)  is needed of principle
+•  Submonolayer growth technique
+•  Blockading  mismatch dislocations during epitaxial growth
+•  Sharp increase of the variety of heterostructure components.
+
+
+4. HETEROSTRUCTURE QUANTUM WIRES AND QUANTUM  DOTS
+The principal advantage of application of quantum-size heterostructures for lasers originates from 
+the  noticeable increase of the  density of states with re- ducing dimensionalities for the 
+electron gas (Fig. 10).
+During  the  1980s,  progress  in  2D-quantum  well  heterostructures physics and  its applications 
+attracted many scientists to studying systems of far less di- mensionality  —  quantum  wires  and  
+quantum  dots.  In  contrast  to  quantum
+
+428                                     Physics  2000
+
+ID
+
+
+
+
+
+
+Figure 10. Density of states for charge carriers in structures with different dimensionalities.
+
+
+hells" where carriers are localized in the direction perpendicular to the lay- ers but move freely 
+in the layer plane, in quantum Cres" carriers are local- ized in two directions arid move freely 
+along the wire axis. And being con- fined in all three directions quantum “dots” — “artificial 
+atoms” with a totally discrete energy spectrum are created (Fig. 11).
+Experimental work on fabrication and investigation of quantum wire and dot structures began  more 
+than  l5 years ago. In 1982, Y. Arakawa and H. Sakaki  (75]  theoretically  considered some effeca  
+in lasers based on hete- rostructures  with size quantization  in one, two, and three directions. 
+They wrote: “Most important, the threshold current of such a laser is reported to be far lees 
+sensitive than that of a conventiona) laser reflecting the reduced di- mensionality  of the 
+electronic state.” The authors performed experimental studies on a O_W laser placed in 
+high-magnetic fields directed perpendicular to the QW plane and demonstrated that the 
+characteristic temperature ( Tq j describing the exponential growth of the threshold current with 
+temperature increases in a magnetic field from 144 to 313 °C. They pointed to a possibili- ty to 
+weaken the threshold current dependence  on temperature  for QWR lasers and full temperature 
+stability for JD lasers (Fig. 12). By now there is a significant number of both theoretical and 
+experimental papers in this field.
+
+
+
+
+
+
+
+e lectron
+
+
+
+gaps
+
+
+
+Atom            Semiconductor
+
+
+Figure 11. Schematic representation of energy diagrams in case of a tingle atom (left), a bulk 
+crystal (center), and a quantum dot (right).
+
+
+
+
+1.5
+
+
+
+0  i.o — (d)
+(c)
+Zh‹nes  I.  Alferov
+
+
+/ (o) =  exp (   j
+429
+
+fi             (b)
+
+p               (a)
+
+
+(a)  T   = 104 °C
+(b)  T   = 285 °C (c)  'r  = 481 °C
+(d)  'rd =        °C
+
+0.5       ›   ›   ›   ‹   ›   ‹   ‹   ‹   ‹   ‹
+V0    -40   -20     0    20    40    60
+Temperature  (°C)
+Figure l2.  Normalized temperature dependence of the threshold current for various DHS lasers.
+(a)  Bulk; (b) with QWs;  (c)  with QWRs,  (d) with QDs.
+
+
+
+The  first semiconductor  dots based on  II—VI  microcrystals  in glass  matrix were  proposed  and 
+ demonstrated  by  A.I.  Ekimov  and  A.A.  Onushchenko [7fi]. However, since the semiconductor 
+quantum dots were introduced in an insulating  glass  matrix  and  the  quality  of  the  interface 
+ between  glass  and semiconductor dot was not  high, both fundamental studies and  device appli- 
+cations were  limited.  Much  more exciting  possibilities  appeared  after  three dimensional 
+coherent quantum dots had been fabricated in a semiconductor matrix  [77].
+Several  methods  were  proposed  for  the  fabrication  of  these  structures. Indirect methods, 
+such as the  post-growth  lateral patterning of 2D quantum wells suffer  often  from  insufficient  
+lateral  resolution  and  interface  damage caused by the  patterning procedure. A more promising 
+way is the  fabrication by direct methods, i.e., growth in V-grooves and  on  corrugated surfaces 
+which may result in formation  of quantum wires and  dots. The  groups of the  loffe Institute  and 
+ Berlin  Technical  University  — last years we carried  out  this  re- search in close cooperation 
+— contributed significantly to the  last direction.
+Finally we came to the conclusion  that the most exciting method of the for- mation  of ordered  
+arrays of quantum wires and  dots is the  self-organization phenomena  on crystal surfaces. Strain 
+relaxation  on step or facet edges may result in formation of ordered arrays of quantum wires and  
+dots both for lat- tice-matched  and  lattice-mismatched growth.
+The first very uniform arrays of three dimensional quantum dots exhibiting also lateral ordering 
+were realized in the system IriAs—GaAs both by MBE and MOCVD growth  methods [78, 79].
+Elastic  strain  relaxation   on  facet  edges  and   island  interaction  via  the strained 
+substrate are driving forces for self-organization of ordered arrays of uniform, coherently 
+strained islands on crystal surfaces [80].
+In lattice-matched heteroepitaxial systems the growth mode is determined
+
+430                                      Ph si‹:s  2D00
+
+solely by the relation between the energies of two surfaces and the interface energy. If the sum of 
+the surface energy of epitaxial layer y  and energy of in- terface y,  is lower than the substrate 
+surface energy, y  + y,p < y , i.e., if the material 2 being deposited wets the substrate, then we 
+have the Frank—van der Merve growth. Changing the y2 • 7„  value may result in a transition from
+the Fralik—van dcr Merve mode to on Volmer—Weber  one where 3D islands
+are formed on a bare substate.
+In  a  heteroepitaxial system  with  lattice  mismatch  beseen  the rnatcrial being dep‹isited and 
+the substrate the growth may initially proceed in a layer- by-layer rr ode.
+However, a thicker layer has a higher elastic energy, and the elastic energy tends to be reduced 
+via formation of isolated islands. In these islands the ela- stic strains relax and, 
+correspondingly, the elastic energy decreases.  This re- sults in a Stranski—Krastanow growth mode 
+(Fig. IS). The characteristic size of islands is determined by the minimum in the energy of an 
+array of 3D co- herently strained islands per unit surface area as a function of the island size 
+(Fig. 14)  [80]. Interaction  between islands via elastically strained substrate would results in 
+lateral island ordering typical of the square lattice.
+Experiments show in most cases rather narrow size distribution of the is- lands, and on top of that 
+coherent islands of InAs form under certain condi- tions a quasi-periodic square lattice (Fig. 15) 
+The shape of quantum dots can be significantly  modified  dunng regrowth  or post-growth  
+annealing,  or by applying complex growth sequences. Short period alternating deposition of 
+strained materials leads to a splitting of QDs and to formation of vertically coupled quantum dot 
+superlattice structures (Fig. 15) [81 ] . Ground state QD emission,  absorption  and  lasing  
+energies  are  found  to  coincide  [78].
+
+
+
+
+
+
+Figure 13. (a) Frank-van der Merve,  (b)  Volmer-Weber,  (c) Stranski—Krastanow growth  modes.
+
+
+
+
+
+Figure 14. Energy of a sparse array of 3D c‹›lie- rently strained islands per unit surface area as 
+a function of island size. The parameter ct is the ratio between the change in the surfacc energy 
+upon  island  formation  and  the  contribution from island edges to the elastic relaxation ener- 
+gy. When ct > 1, the system  tends thcrmodyna- mically toward island coalescence. When ‹x < I , 
+there  exists  an  optimal  island  sixe  and  the system r›f islands is stable against 
+coalescence.
+
+Zhmes  I.   Alferov
+
+
+
+{0 )
+
+
+
+
+0aAs
+
+view
+
+Arrangement
+ofquantum
+
+3-ditriensional tetragonai lattice
+20 rim
+
+
+
+(010J
+
+Figure 15. Vertical and transverse or- dering of coupled QDs in the system InAs-GaAs.
+
+Observation  of  ultranarrow  (<  0.15  meV)  luminescence  lines  from single quantum dots [78], 
+which d‹› not exhibit broadening with temperature, is the proof of the formation of an electronic 
+quantum dot (Fig. 1 6).
+
+
+
+
+
+
+
+
+
+1.375              l.3te              isg5
+Energy teV)
+
+
+3D           kBT,           2D
+
+
+
+
+
+
+
+0      10      20      30      40      5       6G
+Lattice temperature (K)
+
+Figure 16. (a) High-resolution cathodolu- minescence  (CL)  spectrum  of InAs-GaAs QD  structures.  
+(b)   ’l'emperatore  depen- dense of the full width at half-maximum of the cathodoluminescense 
+peak.
+
+432
+
+Quantum dot lasers are expected to have superior properties with respect to conventional QW lasers. 
+High differential gain, ultralow threshold current ilensity and higih temperature stability of the 
+threshold current density are ex- pected  t‹i  ‹›cciir  simultaneously.  Additionally  t›rdered  
+arrays  of  scattercrs formed in aIi optical waveguide region may result in distributed feedback 
+and (or) in stabilizatit›n of single-mode lasing. Intrinsically buried quantum dtit strictures 
+spatially localise carriers and prevent them from recombining non- radiatively at resr›nat‹ir 
+faces. Overheating ‹›f facets, being one of‘ the most im- portant problems tor high-power and high 
+efficiency operation t›f AlGaAs— GaAs and AlGMs—InGaAs lisers, may thus be avoidable.
+Since the first realization t›f QD lasers [82] , it has become clear that the QD size uniformity  
+Was sufficient to achieve good device rerformance.But cven at that time, it was recognized  that 
+the main obstacle for    DHS laser
+operati‹›n at room and clcvated temperatures was connected t‹› tempcrature- induced evap‹›ration  
+‹›f  carriers from QD's. Different methods  were devel- oped to imprt›ve  the laseI  performance:  
+(i)  the increase  of the density  of QD's by stacking of    D's (Fig. 17); (ii) the insertion of   
+D's into a   W sheet;
+(iii) the use of‘ a matrix material with a higher bandgap energy. As a result, we got many 
+parameters ‹›f QDHS lasers better than ones for @WHS lasers basest on  the same  materials. As an 
+examplesthc world-rerord  thrcshold-current density of‘ 3 9 A/cm* has heen recently achieved [83J . 
+Further; the cw«›utput power up to 3.5—4.0 W (CW) ft›r a 1()0-pm strip wi‹ith, the quantum 
+efficien- cy of 95 &u and the wall-plug efficiency of '›0 % were obtained [84].
+Significant activities in theoretical understanding of QD lasers with realistic parameters  have 
+been  performed. i't›r a    D size dispersion  o1‘ about 10 No and other  practical  structure  
+parameters,  the  theory  [80]  predicts  typi‹:al
+threshol‹l-current dcnsities of S A/crn2 at room temrerature.Thc value of’ 10 A/cm* at 77 n [  6  
+and even 5 A/cm° at 4 K [S7] have been experimentally
+oliserveil.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Qli
+Figure  i 7. ”l”ran  niissi‹›n electron microscopy image of the active i'cgion of”h igh-power    
+T0fJ° Jascr.
+
+
+
+
+
+Tntracavity  Light oH‘t me\a] contacts
+AIO
+1.75 X. n)£iaAs s
+QD pcaviiy
+l.7f.X(n)GaAs s  acer
+AIGaAs/AIO DB
+
+
+
+
+
+
+
+
+
+s      200
+
+
+
+(10 W)
+
+
+
+
+6     7            9    10
+
+Figure l8. Schematic view of the @D VGSEL structure (a).
+Basic advantages of quantum dots: (i)  no interface recombination at oxide-defined apertures;
+(ii) reduced lateral spreading of carriers out of the aperture region. Single QD laser at ultralow 
+threshold current is possible.
+Dependence of the threshold current on the aperture size in a QD VCSEL (b).
+(i) low threshold current densities (170 mcm° at 300 K): Ui) low threshold currents at ultraamall 
+apertures; (iii) 1.3 pm range on GaAt substrate?
+
+In view of the advanced device applications of QD's, the incorporation of QD's in vertical-cavity 
+surfacmmitting lasers (VCSEL's) seems to be very im- portant. JD VCSEL's with parameters, which fit 
+to the best values for QW de- vices  of  the  similar  geometry,  have  been  demonstrated  (Fig.  
+18)  [88) . Recently, very promising results for l.3-pm QD VCSEL's on a GaAs substrate to use in 
+fiber optical communications have been obtained (Fig. 19) (89].
+In a free-standing 3D island formed on a lattice-mismatched substrate, the strains cari relax 
+elastically, without the formation of dislocations. Thus, suffi- ciently large volume of a coherent 
+narrow-gap QD material can be realized. This makee it possible to cover a spectral range of l.II.5 
+pm using a GaAs substrate and to develop wavelength-multiplexing systems on the basis of JD VGSEL's 
+in the future.
+
+434
+Physics  2000
+
+
+250
+3.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure  l9.  GaAs-based  QD VCSEL emitting at 1.3 pm.
+
+
+
+
+
+It ts very important  to emphasize  that we always realized  the DHS concept for QWR and  QD 
+structures because in both cases we have a narrow gap-band material in a wide-gap matrix.
+Let us summarize  this part again  by the  same way as it  had  been done for other parts.
+
+Heterostructure Quantum Wires and Dots
+I. fundamental Physicat Phenomena
+•   lD  electron gas (wires)
+•  Density-of-state function with sharp maximums  (wires)
+•  0D-electron gas (dots)
+•  delta-function type of density-of-state function  (dots)
+•  Increasing binding energy of excitons.
+
+II. Important  Applications in Electronics
+•   Reduced lasing threshold current and larger differential gain
+•  Reduced  temperature dependence of threshold current  (wires)
+•  Temperature stability of the threshold current (dots)
+•  Discrete amplification spectrum and a possibility of obtaining performance characteristics 
+similar to those of solid-state or gas lasers (dots)
+•  Higher modulation factor in electro-optical modulators
+•  A possibility of creation “single-electron” devices
+•  A new possibility for  the development of FET transistors.
+
+III. Important Technological Peculiarities
+•  The application of self-organization effects for growth
+•   Epitaxial growth in V-groves  (wires)
+•   High resolution lithography of HSQWL.
+
+Zh‹rres I. Alfero                                                435
+
+5. FUTURE TRENDS
+Recently very impressive  results for short wave-length light sources have been achieved on  the 
+basis of II—VI selenides and III—V nitrides. The success in this research  was  mostly determined  
+by application  of  heterostructure concepts and  methods of growth  which  had  been developed  
+for III—V quantum  wells and  superlattices. The  natural and  most predictable  trend  is the 
+application of  the  heterostructure concepts as well as technological  methods and  pecu- 
+liarities  to  new materials.  Different  III—V,  II—VI  and    IV—Vl  heterostructures, developed  
+in recent time, are  good examples of this statement.
+But from a general and  more deep point of view, heterostructures (it con- cerns all of them: the 
+classical, O_Ws and   SLs, QWRs and  QDs) are  a way of the creation  of  new  types  of  materials 
+ —  Heterosemiconductors.  By  using  Leo Esaki words — instead  of “God  made crystals”  we create 
+ by ourselves  — “Man made crystals”.
+The  classical  heterostructures, quantum  wells  and  superlattices  are  quite mature and we 
+exploit many of their unique properties. Quantum wires and dots structures are still very young: 
+exciting discoveries and  new unexpected applications  are  awaiting  us on  this way.  Even  now 
+we  can say  that ordered equilibrium arrays of quantum dots may be used in many devices: lasers, 
+light modulators,  far-infrared  detectors and  emitters, etc. Resonant  tunneling via 
+semiconductor  atoms introduced  in larger  band-gap  layers  may lead  to sig- nificant 
+improvement in device characteristics. More generally speaking, QD structures will be developed 
+both “in width” and  “in depth”.
+In niidth means  new material  systems  to cover  new energy spectrum.  The life-time problems of 
+the green and blue semiconductor lasers and  even more general problems of the  creation of 
+defect-free structures based on  wide-gap II—VI  and   III—V  (nitrides)  would  be solved  by 
+using QDs structures in  these systems.
+As  to  itt  depth it is  necessary  to  mention  that  the  degree  of  ordering  de- pends on 
+very complicated  growth conditions,  materials constants, concrete values of the  surface free 
+energy. The  way to  resonant tunneling and “single” electron  devices  including optical ones is a 
+ deep detailed  investigation  and evaluation  of these  parameters in order to achieve  the 
+maximal  possible de- gree of ordering. In general, it is necessary to find out more strong 
+self-orga- nization  mechanisms for ordered arrays of QDs creation.
+In  the early 1980s I was invited  to deliver a lecture about heterostructures and applications at 
+the Amoco Photonic Center near Chicago.
+The  summary of my lecture was as follows:
+1.  Heterostructures — a new kind of semiconductor  materials:
+—  expensive, complicated  chemically & technologically but most efficient
+2.  Modern optoelectronics is based on  heterostructure applications
+—  DHS laser — key device of the  modern optoelectronics
+—  HS PD — the    most efficient & high speed photo diode
+-   OEIC — only solves problem of high information density of optical com- munication  systems
+
+436                                               Physics  2000
+
+3. Future high speed microelectronics will mostly use heterostructures
+4.  High temperature,  high speed power electronics — a new broad field of
+heterostructure applications
+5.  Heterostructures in solar  energy  conversion:  the most expensive  photo-
+cells and the cheapest solar electricity producer
+6.  In the 21st century heterostructures in electronics will reserve only 1 % for
+homojunctions.
+And 20 years later I do not like to change any word there.
+It is hardly  possible  to describe  even  the  main  directions  of  the  modern physics  and  
+technology  of semiconductor  heterostructures. There  is  much more  than  was  mentioned.  Many 
+scientists  contributed  to  this  tremendous progress which not only defines to a great extent the 
+future prospects of con- densed matter physics and semiconductor  laser and communication  techno- 
+logy but, in a sense also, the future of the human society. I would like also to emphasize the 
+impact of scientists of previous generations who prepared our way. I am very happy that I had a 
+chance  to work in this field from  the very beginning. I am even more happy that we can continue  
+to contribute  to the progress in this area now.
+
+REFERENCES
+(l ]   V. P. Zhuze and I. V. Kurchatov, “Two questions about conductivity of cuprous oxide”.
+Zh. Eksp.  Teor.  Fix.  ].E.T.P.) 2, p. 309, 1932.
+V. P. Zhuze and B. V. Kurchatov, “Zur electrischen LeiMahigkeit von Kupferoxydul”.
+Phys.  Zs. SU 2, No 6, p. 453, 1932.
+Ya. I. Frenkel, A. loffe, “On the electrical and photoelectric  properties of contacts between a 
+metal and semiconductor”. f'/iys. Z. SU 1, No 1, p. 60, 1932.
+Ya. I. Frenkel, “On the transformation of light into heat in solids”. Plys.   eu. 37, p. 17, 1276, 
+1931.
+Ya. I. Frenkel, “Light absorption and electrons and holes sticking in dielectric cry- stals”. Zh. 
+Eksp.  Teor. Fix. b,  p. 647, 1936.
+E. F. Gross, N. A. Karryev, “Light absorption by cuprous oxide crystal in infrared and visible 
+spectrum”. DAN SSSR (Doklady  Academii Nauk) 84, p. 261, 1952.
+E. F. Gross, N. A. Karryev, “Exciton optical spectrum”. DAN SSSR  84, p. 471, 1952.
+[5]   B. I. Davydov, “Contact resistance of semiconductors”. ZA. £ns§. Teor. Fix.  9, p. 451, 1939.
+[4]  N. H. Welker, “Uber neue halblestende Verbindungen  (New semiconductor com- pounds)”. Zs. 
+Naturforsch.,  lo,   p. 744, 1939; A.  Naturforsch.,  8a, p. 248, 1953.
+N. A. Goryunova, “Seroe olovo (Gray tin)”, Thesis, Leningrad State University-Phy- sico-Technical 
+Inst., 1951.
+A. I. Blum, N. P. Mokrovsky, A. R. Regel, “The study of the conductivity of the semi- conductors 
+and intermetallic compounds in solid and liquid state”. Proc. of the VII Conference on 
+semiconductor properties. Kiev, 1950. Iz:u.  AN USSR,  Ser. Fix. XVI, p. 139, 1952.
+[5]  W.  Shockley,  “Circuit  Element  Utilizing  Semiconductor  Material”,  U.S.  Patent 2269347, 
+September 25, 1951.
+[6]  A. I. Gubanov, “Theory of the contact between two semiconductors with different types of 
+conduction”. ZS. Tekh. Fix. 20, p. 1287, 1950.
+A. I. Gubanov, “Theory of the contact of two semiconductors of the same type of con- ductivity”. 
+ZA. Tell. Fix. 21, p. 304, 1951.
+
+Zh‹zres I.  Alferov                                              437
+
+
+[7]
+
+
+[8)
+
+
+[9]
+
+
+[10]
+
+
+
+
+
+[11]
+
+
+
+[12]
+
+
+[l3]
+
+
+[14]
+
+
+
+[15]
+
+
+[l6J
+
+
+
+[17)
+
+
+[18)
+
+
+
+
+
+[19)
+
+
+[20]
+
+
+[21)
+
+H. Kroemer,  “Theory of a wide-gap emitter for transistors”,  f'rnc. Inf, 45, p. 1535, 1957;  
+“Q_uasi-electric and quasi-magnetic fields  in a non-uniform  semiconductor,” RCA Reu., 28, p. 332, 
+1957.
+N. G. Basov, O. N. Krokhin and Yu. M. Popov, “The possibility of use of indirect tran- sitions to 
+obtain negative temperature in semiconductors”, Soviet Physics -fETP (USA), 12, p. 1033, (May, 
+1961).
+D. N. Nasledov, A. A. Rogachev, S. M. Ryvkin and B. V. Tsarenkov, “Recombination ra- diation of 
+galium arsenic”, Fix. Toerd.  Te/a, 4, p. 1062—1065, 1962 (Soviet Physics- Solid State (USA), 4, 
+pp. 782—784, 1962.)
+R. H. Hall, G. E. Fenner, j. D. Kingsley, T.j. Soltys and R. O. Carlson, “Coherent light emission 
+from GaAs junction”, Phys. M.    Lett., 9, pp. 366—378, 1962.
+M.   I.  Nathan,  W. P. Dumke,  G.  Burns, F. H.  Dill Jr and G.  I.  Lasher,  “Stimulated emission 
+of radiation from GaAs p-n junctions”. Appl. Phys. Lett.,  l , pp. 62—64, 1962.
+N.  Holonyak  jr. and  S. F.  Bevacgua,  “Coherent  (visible)  light  emission  from  Ga (As;  P ) 
+junctions”, Appl. Phys. Lett., 1, pp. 8S-83, 1962.
+Zh. I. Alferov  and  R. F. Kazarinov,  “Semiconductor laser  with  electric  pumping,” Inventor's 
+Certificate No. 181737 [in Russian] , Application No. 950840, priority as of March 30, 1963; H. 
+Kroemer, “A proposed class of heterojunction injection lasers”. Proc. /fEE, 51, p. 1782, 1963.
+Zh. I. Alferov, V. B. Khalfin, and R. F. Kazarinov, “A characteristic feature of injection into 
+heterojunctions,” Fix.  Tverd.  Tela, 8, pp. 3102—3105, 1966 i Sov. Phys.  Solid State, 8, p. 2480, 
+1967].
+Zh. I. Alferov, “Possible development of a rectifier for very high current densities on the bases 
+of a p-i-n (p-n-n*, n-p-p*) structure with heterojunctions,” Fix.  Tekh. Polupro- oodn., 1, pp. 
+436-438, 1966  [Son. Phys.  Semicond. 1, pp. 358—361, 1967.]
+R. L. Anderson, “Gemanium-gallium arsenide heterojunctions”. IBM  J.  Res. Develop. 4,
+p. 283, 1960.
+P. L. Anderson, “Experiments on Ge-GaAs heterojunctions”. Solid  State Electron.  5, p.
+341, 1962.
+G. Natta, L. Passerini, Gnzz. Chim. Ital. 58, p. 458, 1928.
+V. M. Goldschmidt, “Crystal structure and chemical constitution”. Traits. Farad.  Soc.
+25, p. 253, 1929.
+Zh.  I. Alferov,  Garbuzov  D.  Z., Grigor'eva  V. S.,  Zhilyaev Yu. V., Kradinova  L. V., 
+Korol'kov V. I., Morozov E. P., Ninua O. A., Portnoy E. L., Prochukhan V. D., Trukan
+M. K  “Injection luminescence of epitaxial heterojunctions in the GaP-GaAs system”.
+Son. Phys.  Sol.  State. 9, p. 208—210, 1967.
+Zh. I. Alferov, Yu. V. Zhilyaev and Yu. V. Shmartsev, “The splitting of the conduction band in 
+’superlattice' on the base GaP,As, ,”. Fix.  Tekh.  Polupr.  5, p. 196, 1971  [Soc. Phys.- 
+Semicond. 5, p. 174, 1971).
+Zh. I. Alferov, V. M. Andreev, V. I. Korol'kov, D. N. Tret'yakov, and V. M. Tuchkevich, 
+“High-voltage  p-n  junctions  in  Ga„A3, ,As  crystalls,”  Liz.  Tekh.  Poluprorodn.,  1,  pp. 
+1579—1581, 1967 [Son. Phys.  Semicond.  l , pp. 131S—13l4, 1968] ;
+H. S. Rupprecht,  j.  M. Woodall,  and G. D. Pettit, “Efficient  visible  electrolumine- scence at 
+300 K from Ga, „AU    p-n junctions grown by liquid-phase epitaxy,”  Appl. Phys. Lett., 11, p. 81, 
+1967.
+Zh. I. Alferov, V. M. Andreev, V. I. Korol'kov, E. L. Portnoi, and D. N. Tret'yakov, “Injection 
+properties of n-Al,Ga, ,As-p-GaAs heterojunctions,” Fix.  Tekh. Poluprovodn., 2, pp. 101 €›—1017, 
+1968 [Son. Phys.-Semicond.  2, pp. 843-844, 1969.]
+Zh. I. Alferov, V. M. Andreev, V. I. Korol'kov, E. L. Portnoy, and D. N. Tret'yakov, “Cohe- rent 
+radiation of epitaxial heterojunction structures in the        GaAs system,” Liz. Tekh. Polufra  
+odn.  2,  pp. 1545—1547, 1968 [Sini. Phys.-Semicond.  Z, pp. 1289—1291, 1969) .
+(a)  Zh. I. Alferov, V. M. Andreev, V. I. Korol'kov, E. L. Portnoi, and D. N. Tret'yakov, 
+“Recombination radiation in epitaxial structures in the system AlAs-GaAs,”  in f'roc. Ninth Int.  
+Conf.  on Semiconductor  Structwes,  Moscow, july 23—29, 1968,  l  [in Russian] (Nauka, Leningrad, 
+1969) , pp. 534-540;
+
+438                                   Physics  2000
+
+(b) Zh. I. Alferov, “Electroluminescence of heavily-doped heterojunctions p Al,Ga, nGaAS,” in Proc. 
+Int. Conf. on Luminescence, Newark, Delaware, August 25—29, 1969,/. Lumin., 1, pp. 869—884, 1970-,
+(c) Zh. I. Alferov, D. Z. Garbuzov, E. P. Morozov, and E. L. Portnoi, “Diagonal tunne- ling and 
+polarization of radiation in Al,Ga,_    -GaAs heterojunctions and in GaAs p- n junctions,” Fiz. 
+Tekh. Poluprovodn., 3, pp. 105W1057, 1969  Sov. Phys.-Semicond. 3, pp. 88M887, 1970];
+(d)  Zh. I. Alferov, V. M. Andreev, V. I. Koro1'kov, E. L. Portnoi, and A. A. Yakovenko, 
+“Recombination radiation in Al,Gaj      solid solutions with variable forbidden gap” FT. Tech. 
+Polufm uodn. 3, pp. 541-645, 1969 [So. Phys.-Semicond. 3, pp. 46     63, 1970].
+122]   Zh. I. Alferov, V. M. Andreev, E. L. Portnoy, and M. K. Trukan, “AlAs-GaAs  hete- rojunction 
+ injection  lasers  with  a  low  room-temperature  threshold,”  his.   Tekh. Poluprooodn.,  3, pp. 
+1328—1332, 1969 [Son. Phys.  Semisond. 3, pp. 1107-1110, 1970] .
+[23]   Zh. I. Alferov, V. M. Andreev, V. I. Korol'kov, E. L. Portnoi, and A. A. Yakovenko, 
+“Spontaneous  radiation  sources  based  on  structures  with  AlAs-GaAs  heterojunc- tions,” Fix.  
+Tekh.  Polupnniodn.,  3, pp. 930-933, 1969  I S‹ni.-Phys.  Semicond.  8, pp. 785— 787, 1970] .
+[24]   Zh. I. Alferov, V. M. Andreev, M. B. Kagan, I. I. Protasov, and V. G. Trofim, “Solar- energy 
+converters based on p-n AI Ga,           aAs heterojunctions,” Fix.  Tech.  Polupro- uodn., 4, pp. 
+2378—2379, 1970 [Son. Phys.-Semicond. 4,  pp. 2047—2048, 1971] .
+[25]  Zh. I. Alferov, F. A. Ahmedov, V. I. Korol'kov, and V. G. Nikitin, “Phototransistor utili- 
+zing a GaAs-AlAs  heterojunction,” Fix.  Tekn.  Polupriniodn.,  1,  pp. 1159-1163, 1973 [Son. 
+Phys.-Semicond., 7, pp. 780-782, 1973].
+[26]   Zh. I. Alferov, V. M. Andreev, V. I. Korol'kov, V. G. Nikitin, and A. A. Yakovenko, “p-n- 
+p-n structures based on GaAs and on Al,Ga,      solid solutions,” Fix.  Tekn.  Polupro- oodn., 4, 
+pp. 578—581, 1970 [San. Phys.-Semicond., 4,  pp. 481—483, 1971] .
+[27]  I. Hayashi, “Heterostructure lasers,” Z ES Tran. £frctmn Devices,  ED-31,  pp. 1630— 1645, 
+1984.
+[28]  Zh. I. Alferov, V. M. Andreev, D. Z. Garbuzov, Yu. V. Zhilyaev, E. P. Morozov, E. L. Portnoi, 
+and V. G. Trofim, “Investigation of the influence of the AlAs-GaAs hetero- structure parameters on 
+the laser  threshold current and the realization  of conti- nuous emission at the room 
+temperature,” Liz.  Tekh. Poluprovodn., 4, pp. 1826-1829, 1970 [Sour. Phys. Semicond.  4, pp. 
+157Ml575, 1971] .
+[29]   I. Hayashi, M. B. Panish, P. W. Foy, and S. Sums    “Junctionlasers which operate con- 
+tinuously at room temperature,” Apal. Phys. Lett., 17, pp. 109—111, 1970.
+[30]  Zh. I. Alferov, V. M. Andreev, S. G. Konnikov, V. G. Nikitin, and D. N. Tret'yakov, 
+“Heterojunctions on the base of  A'I'B* semiconducting and of their solid solutions,” in Proc.  
+Int.  Conf. Phys.  Chem.  Semicond.  Heterojunctions and Layer Strictures,  Budapest, October, 
+1970, 1, G. Szigeti, Ed. (Academiai Kiado, Budapest, 1971), pp. 93-106.
+[31]  G. A. Antipas, R. L. Moon, L. W. James, J  Edgecumbe and R. L. Bell, “In gallium ar- senid 
+and related compounds”. Conf.Ser. IOP, 17, p. 48, 1973.
+(52]   L.J    es, G. Antipas, R. Moon,J Edecumbe, R. L. Bell, ‘Photoemission from cesium- 
+oxide-activated InGaAsP”. Appl. Phys. Lett. 22, p. 270, 1973.
+[33]  A. P. Bogatov, L. M. Dolgiriov, L. V. Druzhinina, P. G. Eliseev, L. N. Sverdlova, and E.
+G.  Shevchenko,   “Heterolasers  on  the  base  of  solid  solutions  Ga„Jn;        P     and
+
+Al,Ga
+1281,
+q," Kvantouaya EActn›n. 1, p. 2294, 1974 [Son. J.  Quantum Electn›n, 1, p.
+J J. Hsieh, “Room-temperature operation GaInAsPJInP double-heterostructure dio-
+de  lasers emitting at 1.1 pm,” Appl. Phys. Left., 28, p. 283, 1976.
+[34]   Zh. I. Alferov, I. N. Arsent'ev, D. Z. Garbuzov, S. G. Konnikov, and  V. D. Rumyantsev, 
+“Generation    of    coherent    radiation    in    nGao I•o."-pGa   . s'nj     ,-o N"›,r nGa  
+₅Inq₅P" Asia Zfi. Tech. Fix., 1, pp. 30M310, 1975  [Son. Phys.-Tech.  Phys.  Lett., 1,
+pp. 147-148, 1975];
+“Red injection  heterolasers  in the Ga-In-As-P  system,”  Anno H.  Tech.  Fix.,  1, pp. 40€›-408, 
+1975   Son. Phys.-Techn. Phys. Lett., 1, pp. 191-192, 1975];
+
+439
+
+W. R. Hitchens, N. Holonyak Yr., P. D. Wright, and J J  Coleman, “Low-theshold LPE In, ,,Ga,,P, 
+,,As,,/Inj  Gary @,/In, .Ga .P; ,As,,  yellow  double-heterojunction  laser diodes (/< 10’ A/cm°, 
+/= 5850 A, 77 K),” Appl. Phys. Lett., 27, p. 245, 1975.
+[35]    Zh.  I. Alferov,  V.  M. Andreev,  R. F.  Kazarinov,  E. L. Portnoi,  and  R.  A. Suris, 
+“Semiconductor optical quantum generator,” Inventor's Certificate No. 392875 [in Russian] , 
+Application No. 1677436, priority as of july 19, 1971.
+[36]  H. Kogelnik and C. V. Shank, “Stimulated emission  in a periodic structure,”  Appl. Phys. 
+Lett., 18, p. 152, 1971.
+[37]  R. F. Kazarinov and R. A. Suris, “Injection heterolaser with diffraction grating on con- tact 
+surface”. Fix. Tekh. Polupr. 6, p. 1359, 1972 (Soy. Phys.-Semicond. 6, p. 1184, 1973).
+[38]  Zh. I. Alferov ct al. “Laser with supersmall divergens of radiation”. Fix. Tekh. Polupr. 8, 
+p. 832, 1974 (Soy.Phys.-Semicond. 8, 541, 1974) .
+Zh. I. Alferov et al. “Semiconductor laser with distributed feedback in second order”.
+Pisma Zh. Tech. Liz. 1, p. 645, 1975 (Tech. Phys. Lett. 1, p. 286, 1975).
+[39]  M. Nakamura, A. Yariv, H. W. Yen, S. Somekh and H. L. Garvin, “Optically pumped GaAs surface 
+laser with corrugation feedback”. Appl. Phys. Lett. 22, p. 315, 1973.
+[40]  D. R. Scifres, R. D. Burnham and W. Streifer, “Distributed-feedback single heterojun-
+ction GaAs diode laser”. Appl. Phys. Lett. 25, p. 203, 1974.
+(41]  H. Kroemer and G. Griffiths, “Staggered-lineup heterojunctions as sources of tunable 
+bellow-gap  radiation:  Operating  principle  and  semiconductor  selection”.  ZfE Electron Deuice 
+Lett. EDU-4, p. 1, 20, 1983.
+[42]  A. N. Baranov et al. “Generation of the coherent radiation in quantum-sizeed struc- ture of 
+the single heterojunction”. Liz.  Tekh.  Polupr.  20, p. 2217, 1986  (Soy.Phys.- Semicond. 20, 
+1385, 1986) .
+[43]  A. Y. Cho, “Film deposition by molecular beam techniques,”/. Yac. Sci. Technol., 8, p. 31, 
+1971.
+A. Y. Cho, “Growth of periodic structures by the molecular-beam method”. Appl. Phys. Len. 19, p. 
+467, 1971.
+[44)  H. M. Manasevit, “Single crystal GaAs on insulating substrates,” Appl. Phys. Lett., 12, p.
+156, 1968.
+
+[45j
+
+
+(46]
+
+
+[47j [48j [49]
+
+
+
+
+
+[50]
+
+
+
+[52]
+
+[53]
+R. D. Dupuis and P. D. Dapkus, “Room temperature operation of Ga; „AJ,As/GaAs 
+double-heterostructure lasers grown by metalloorganic chemical vapor deposition,” Appl. Phys. Lett. 
+31, p. 466, 1977.
+R. Dingle, W. Wiegmann, and C. H. Henry, “Quantized states of confined carriers in very thin Al,Ga, 
+,As-GaAs-Al Ga,      heterostructures,” Phys.  Reu.  Lett.,  33, p. 827, 1974.
+L. Esaki and R. Tsu, “Superlattice and negative differential conductivity”. IBM J.  Res. Dan. 14, 
+p. 61, 1970.
+L. V. Keldysh, “Effect of ultrasonics on the electron spectrum of crystals”. Fiz. Tverd. Tela 4, p. 
+2265, 1962 (Soy.Phys.-Sol.State 4, 1658, 1963) .
+R. F. Kazarinov and R. A. Suris, “Possibility of the amplification of electromagnetic waves in a 
+semiconductor with a superlattice,” Fix. Tekh. Poluprooodn., 5, pp. 797—800, 1971 (So. Phys.  
+Semicond., 5, pp. 707—709, 1971] ; “Electric and electromagnetic pro- perties of semiconductors 
+with a superlattice,” Fix. Tekh. Poluprmiodn., 6, pp. 148—162, 1972  San. Phys.  Semicond., 6, pp. 
+120—131, 1972]; “Theory of  electrical properties of semiconductors with superlattices,” Fix. Tekh. 
+Polupnniodn., 7, pp. 48M98, 1973 [San. Phys.  Semicond., 7, pp. 347—352, 1973].
+R. Tsu and L. Esaki, “Tunneling  in finite superlattice”. Off. Phys.  Lett.  22, p. 562, 1973.
+G. Osbourn, “Strained-layer superlattices from lattice mismatched materials”. J  Appl. Phys. 53, p. 
+1586, 1982.
+M. Ludowise ct aL “Continuous 300 K laser operation of strained superlattices”. Appl. Phys. Lett. 
+42, p. 487, 1983.
+L. L. Chang, L. Esaki, W. E. Howard and R. Ludke, “Growth of GaAs-GaAlAs super- lattices”. J. Yoc. 
+Doc. ' ecAtiof. 10, p. 11, 1973.
+
+440
+
+
+[54]
+
+fssl
+L.  L.  Chang,  L.  Esaki,  R. Tsu,  “Resonant  tunneling  in  semiconductor  double  bar- riers”. 
+Appl. Phys. Lett. 24, p. 593, 1974.
+L. Esaki and L. L. Chang,  Neiu Transport  phenomenon  in a semiconductor ’Superlattice”’.
+Phys. Rev. W//. 33, p. 686, 1974.
+[56]   J  R. Shriffer, "Semiconductor surface physics"  (R. H. Kingston; ed.), p.68, University of 
+Pennsylvania  Press, Philadelphia.
+[57)   A. B. Fowler,  F. F. Fang, W. E. Howard  and     J  Stiles,  “Magnetooscillatory conduc- 
+tance in silicon surfaces“. Phys. Reu. Lett. 16, p. 901, 1966.
+[58]   V. N. Lutskii, “Quantum-size  effect — present state and  perspective  on experimental 
+investigations“. Phys. Stat. Sol. (a) l,  p. 199, 1970.
+[59]   R. Dingle, H. L. Stormer,  H. L. Gossard  and W. Wiegmann,  “Electron  mobilities in 
+modulation-doped semiconductor  heterojunction superlatticies". Appl. Phys. Lett. 33, p. 665, 1978.
+
+[60]
+
+[61]
+
+[62]
+
+
+[63]
+
+
+[64]
+
+
+[65]
+
+
+[66j
+
+
+[67]
+
+
+[68]
+
+
+
+
+
+
+[69]
+
+
+
+[70j
+D. Delagebeaudeuf et al. “Two-dimensional electron gas MESFET structure". Electron Lett. 16, p. 
+667, 1980.
+T. Mimura, S. Hiyamizu, T. Fuji and K. Nanbu, “A new field-effect  transistor with se- lectively 
+doped GaAs/n-Al Ga, ,As heterojunctions“.      .J.  Appl. Plys. 19, L225, 1980.
+j.  P. van  der  Ziel,  R.  Dingle,  R.  C.  Miller,  W. Wiegmann,  and  W. A.  Nordland, Jr., 
+“Laser  oscillations  from  quantum  states  in  very  thin  GaAs-All  Gap gAs  multilayer 
+structures,”  Appl. Phys. Lett., 26, pp. 46M65, 1975.
+R. D. Dupuis, P. D. Dapkus,  N. Holonyak, Yr., E. A. Rezek and R. Chin, “Room  tem- perature 
+operation of quantum-well  Ga, ,Al      GaAs laser diodes grown  by metalor- ganic chemical vapor 
+deposition,“  Appl. Phys. Lett., 32, pp. 295—297, 1978.
+W. T. Tsang,  “Extremely  low  threshold  (AlGa)As  graded-index  waveguide  separate- confinement  
+heterostructure lasers  grown  by  molecular-beam  epitaxy,”  Appl.  Phys. Lett., 40, pp. 217—219, 
+1982.
+E. Rezek, H. Shichijo, B. A. Vojak and N. Holonyak, “Confined-carrier luminescence of a thin In,   
+Ga,}'; ,As, well (x₀ -  0.13, z -  0.29, -  400 A) in an InP p-n-junction”. Appl. Phys. Lett. 31, 
+p. 534, 1977.
+Zh.  I.  Alferov  et  al.  “Auger-profiles  and  luminescence  investigations  LPE  grown 
+InGaAsP-heterostructures with active regions  (1.5-5)  x 10* cm”. Fix. Tekh. Polupr. l9, p. 1108, 
+1985 (Soy. Phys.-Semicond. l9,  p. 679, 1985) .
+Zh. I. Alferov et aL “AlGaAs-heterostructure quantum wells grown  by low temperatu- re LPE“.  Etna  
+Zh.  Tekh.  Fix. 12,  p. 1080, 1986  (Soy.  Phys.-Techn.  Phys.  Lett. 12,  p. 450,1986).
+Zh. I. Alferov ct at. “Low threshold  InGaAsP/InP separate confinement  lasers k =1.3 tim and  k = 
+1.55 qm  (j„ = 600—700 A/cm°)".  Pisma  2h. Tekhn. Fix. 12,  p. 210, 1986 (Soy.  Phys.-Techn.  
+Phys.  Lett. 12,  p. 87, 1986).  Zh.  I. Alferov  ct  aL  “Low  threshold quantum    well   
+InGaAsP/GaAs   separate   confinement   double   heterostructures lasers formed  by the LPE  (X = 
+0.86  pm, y,¿ = 90 A/cm°,  ñ = -;   j„  = 165 A/cm',  L -- 1150 pm, 300 K)". Fix. Tekh. Polupr. 21, 
+p. 914, 1987 (Soy.Phys.-Semicond. 21, p. 914,
+1987).
+Zh. I. Alferov et aL “Quantum-well  InGaAsP/GaAs  (X = 0.86: 0.78 qm) separate con- finement  
+lasers  (j,¿ = 100 A/cm2, efficiency  = 59 to)".  Fix.  Tech. f'ofu;t›r.  22,  p. 1031, 1988 (Soy. 
+Phys.-Semicond. 22, p. 650, 1988). D. Z. Garbuzov et al. "Technical Digest CLEO", paper THU44, p. 
+396, 1988.
+D. Z. Garbuzov et al. Conf. Digest  I2th Intern. Semicond. Laser Conf., Davos, Switzerland, paper 
+L-33, 238, 1990.
+[71]   Zh. I. Alferov ei at “Reducing  of the threshold current in GaAs-AlGaAs DHS SCH
+quantum well lasers (j,¿ = 52 A/cm', T= 300 K)  with quantum well restriction by short period 
+superlattice  of variable period”. Prime Zft.  left. Fix.  14, p. 1803, 1988 (Soy. Phys.-Technical 
+Physics Lett. 14, p. 782, 1988) .
+[72]   j. Faist, F. Capasso, D. L. Sivco, C. Sirtori, A. L. Hutchinson, A. Y. Cho “Quantum ca- 
+scade laser," Science, 264, pp. 553-556, 1994.
+[73]   K. v. Klitzing, G. Dorda and  M. Pepper,  “New method for high-accuracy  determina-
+
+Zh‹nes  I.  Alferov                                              441
+
+tion of the fine-structure constant based on quantized Hall resistance“. Phys. Rec. Lett.
+45, p. 494, 1980.
+[74]   D. C. Tsui, H. L. Stormer and A. C. Gossard, “Two dimensional magnetotransport in the 
+extreme quantum limit”. Phys. Rev. Lett. 48, p. 1559, 1982.
+[75]   Y. Arakawa  and  H. Sakaki,  “Multidimensional quantum  well laser and  temperature 
+dependence of its threshold current,”  Appl. Phys. Lett., 40, pp. 939—941, 1982.
+[76]   A.  I.  Ekimov and  A. A.  Onushchenko,  “Quantum  size  effect  in  three  dimensional 
+microscopic semiconductor  crystals,“fETP Lett., SA, p. 345, 1981.
+[77]   L. Goldstein,  F. Glas, j.  Y. Marzin, M.  N. Charasse and  G. Le Roux, “Growth  by mo- 
+lecular beam epitaxy and characterization of InAs/GaAs strained-layer superlattices,” Appl. Phys. 
+Lett., 47, pp. 1099—1101, 1985.
+[78]   N.  N. Ledentsov,  M. Grundmann,  N. Kirstaedter, J.  Christen,  R. Heitz, J.  Bohrer,  F.
+Heinrichsdorff,  D.  Bimberg,  S.  S.  Ruvimov,  P.  Werner,  U.  Richter,  U.  Gfisele, J. 
+Heydenreich,  V.  M.  Ustinov, A. Yu.  Egorov,  M. V.  Maximov,  P. S. Kop'ev  and  Zh. I. Alferov, 
+“Luminescence  and structural properties of (In,Ga)As-GaAs quantum dots,” in Proc.  22nd Int. Conf. 
+on the Physics of Semiconductors, Vancouver, Canada, 1994, D.j. Lockwood, Ed. (World Scientific, 
+Singapore, 1995), 3, p. 1855.
+[79]   Zh. I. Alferov, N. Yu. Gordeev, S. V. Zaitsev, P. S. Kop'ev, I. V. Kochnev, V. V. Khomin,
+I. L. Krestnikov,  N. N. Ledentsov, A. V. Lunev, M. V. Maksimov, S. S. Ruvimov, A. V. Sakharnov, A. 
+F. Tsatsul'nikov, Yu. M. Shernyakov, and D. Bimberg, “A low-threshold injection  heterojunction  
+laser  based  on quantum  dots,  produced  by gas-phase  epi- taxy from organometallic compounds,”  
+Fix. Tekh. Polufrauodn., $0, pp. 357—363, 1996 [Semiconductors, 30, pp. 197—200,  1996].
+[80]   V. A. Shchukin,  N. N. Ledentsov,  P. S. Kop'ev and D. Bimberg, “Spontaneous order- ing of 
+arrays of coherent strained islands,” flys.    eu. Lett., 75, pp. 2968-2972, 1995.
+[81]   Zh. I. Alferov, N. A. Bert, A. Yu. Egorov, A. E. Zhukov, P. S. Kop'ev, A. O.  Kosogov, I. L. 
+Krestnikov,  N.  N.  Ledenuov,  A.  V.  Lunev,  M.  V.  Maksimov,  A.  V.  Sakharov,  V.  M. 
+Ustinov, A. F. Tsatsul'nikov, Yu. M. Shernyakov,  and  D. Bimberg,  “An injection  hete- rojunction 
+ laser  based on arrays of vertically coupled  InAs quantum  dots in a GaAs matrix,”  Fix.  Tekh.  
+Polufmn odn., 30,  pp. 351—356,  1996  [Semiconductors, 30, pp.  l94— 196, 1996).
+[82]   N. Kirstaedter ci at., “Low threshold, large  Tq injection  laser emission from  (InGa)As
+quantum dots,” Electron. Lett., 30, pp. 141€›-1418, 1994.
+[83]   G. Park, O. B. Shchekin, D. L. Huffaker, and D. G. Deppe, “Low threshold oxide-con- fined 
+1.3 pm quantum dot laser,” IEEE Photon. Technol. Lett. 33, p. 230, 2000.
+[84]   A. E. Zhukov, A. R. Kovsh, S. S. Mikhrin, N. A. Maleev, V. M. Ustinov, D. A. Lifshiu, I.
+S. Tarasov,  D. A.  Bedarev,  M. V.  Maximov,  A. F. Tsatsu1'nikov, I.  P. Soshnikov,  P.  S. 
+Kop'ev, Zh. I. Alferov,  N. N. Ledentsov, and D. Bimberg, “3.9 W CW power from sub- monolayer 
+quantum dot diode laser,” €frctmn.  Lett., 35, pp. 1845—1846, 1999.
+[85]   L. V. Asryan and R. A. Suris, “Inhomogeneous line broadening and the threshold cur- rent  
+density  of  a semiconductor  quantum  dot  laser,”  Semicond.  Sci.  Tehnol.  11,  pp. 554-569, 
+1996.
+
+[86j
+
+
+
+[87]
+
+
+[88]
+
+
+[89]
+A. E. Zhukov, V. M. Ustinov, A. Yu. Egorov, A. R. Kovsh, A. F. Tsatsul'nikov, N. N. Ledentsov, S. 
+V. Zaitsev, N. Yu. Gordeev, P. S. Kop'ev, and Zh. I. Alferov, “Negative characteristic temperature 
+of InGaAs quantum dot injection laser,"J§ti. J. A ppl. Phys., pt. l , 36, pp. 421M218, 1997.
+G. Park, O. B. Shchekin, S. Csutak, D. L. Huffaker, and D. Deppe, “Room-tempera- ture 
+continuous-wave operation of a single-layered 1.3 ttm quantum dot laser,” A ppl. Phys. Lett., 75, 
+pp. 3267—3269, 1999.
+j. A. Lott, N. N. Ledentsov, V. M. Ustinov, A. Yu. Egorov, A. E. Zhukov, P. S. Kop'ev, Zh.
+I. Alferov, and D. Bimberg, “Vertical cavity lasers based on vertically coupled quan-
+tum dots,” Enctr‹m. L‹ti., 33, pp. i 1s0—l1sl, 1997.
+j. A. Lott, N. N. Ledentsov, V. M. Ustinov, N. A. Maleev, A. E. Zhukov, A. R. Kovsh, M. V. Maximov, 
+B. V. Volovik, Zh. I. Alferov, and D. Bimberg, “InAs-InGaAs  quantum  dot VCSELs on GaAs substrates 
+emitting at 1.3 pm,” Wfrcfron. Lett., 36, pp. 1384-1385, 2000.

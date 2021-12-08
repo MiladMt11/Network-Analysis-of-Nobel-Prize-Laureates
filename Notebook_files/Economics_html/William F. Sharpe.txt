@@ -1,0 +1,1197 @@
+CAPITAL ASSET PRICES
+WITH AND WITHOUT NEGATIVE HOLDINGS
+
+Nobel Lecture, December 7, 1990
+
+by
+W ILLIAM F. S H A R P E
+
+Stanford University Graduate School of Business, Stanford, California,
+USA
+
+
+
+
+INTRODUCTION*
+Following tradition, I deal here with the Capital Asset Pricing Model, a
+subject with which I have been associated for over 25 years, and which the
+Royal Swedish Academy of Sciences has cited in honoring me with the
+award of the Prize in Economic Sciences in Memory of Alfred Nobel.
+   I first present the Capital Asset Pricing Model (hence, CAPM), incorpo-
+rating not only my own contributions but also the outstanding work of
+                                          1
+
+
+
+Lintner (1965, 1969) and the contributions of Mossin (1966) and others. My
+goal is to do so succinctly yet in a manner designed to emphasize the
+economic content of the theory.
+   Following this, I modify the model to reflect an extreme case of an
+institutional arrangement that can preclude investors from choosing fully
+optimal portfolios. In particular, I assume that investors are unable to take
+negative positions in assets. For this version of the model I draw heavily
+from papers by Glenn (1976), Levy (1978), Merton (1987) and Markowitz
+(1987, 1990).
+   Finally, I discuss the stock index futures contract - a major financial
+innovation of worldwide importance that postdates the development of the
+CAPM. Such contracts can increase the efficiency of capital markets in
+many ways. In particular, they can bring actual markets closer to the
+idealized world assumed by the Capital Asset Pricing Model.
+
+THE CAPITAL ASSET PRICING MODEL
+The initial version of the CAPM, developed over 25 years ago, was extreme-
+ly parsimonious. It dealt with the central aspects of equilibrium in capital
+markets and assumed away many important aspects of such markets as they
+
+* I am particularly grateful for the detailed comments and suggestions on the contents of this
+lecture provided by Robert Litzenberger and Andre Perold. Subsequent comments and sugges-
+tions by Haim Levy and Harry Markowitz are also gratefully acknowledged. My longer-term
+debt to colleagues in many places is also substantial; I particularly wish to thank those at
+Stanford University and at William F. Sharpe Associates for their contributions to my work over
+the years.
+1
+  beginning with Sharpe (1961) and Sharpe (1964).
+
+
+                                     W. F. Sharpe                           313
+
+
+existed at the time. In the last 25 years, theorists have extended and adapted
+the approach to incorporate some of these real-world phenomena. Impor-
+tant examples are Lintner’s (1969) version, which focuses on returns in real
+terms; Brennan’s (1970) version, which deals with the effects of taxation;
+Black’s (1972) version in which there is no riskless asset; Merton’s (1973)
+version, which incorporates investors’ concern with future investment op-
+portunities; Rubinstein’s (1974) version, which deals with a more general
+class of utility functions; Kraus and Litzenberger’s (1976) version, which
+takes into account the third moment of the return distribution; Levy’s
+(1978) version, which incorporates transactions costs; Breeden’s (1979)
+version, which focuses on investors’ preferences for consumption; Merton’s
+(1987) version, which deals with market segmentation; and Markowitz’
+(1990) version, which considers restrictions on short sales.
+   Throughout, empiricists have subjected variations of the model to tests of
+increasing power. Moreover, alternative models have been proposed, most
+notably Ross’ (1976) Arbitrage Pricing Theory.
+   While theorists have been busy adapting the CAPM to incorporate real-
+world impediments to efficiency, practitioners have been equally busy re-
+ducing some of those impediments. Many of the financial instruments and
+institutions developed in the last decade serve to better “complete the
+markets” - in particular, to allow a more efficient distribution of risk
+among investors.
+   I will not attempt a general treatment of the institutional costs and
+constraints that can affect the efficiency with which risk is allocated, nor of
+the many recent financial innovations that serve to reduce such costs and
+constraints. Instead, I will focus on one prototypical example - restrictions
+on negative positions in securities, and one such innovation - stock index
+futures.
+   To facilitate the exposition, many formulas and proofs will be relegated
+to footnotes. In this I follow a long personal tradition, since a key proof in
+Sharpe (1964) - my first published paper on the Capital Asset Pricing
+Model - was contained in a footnote2.
+
+THE CAPM AND FINANCIAL ECONOMIC THEORY
+A common taxonomy of work in financial economics differentiates between
+normative (prescriptive) and positive (descriptive) theories. Markowitz’ (1952)
+path-breaking mean-variance portfolio theory falls cleanly into the former
+category, dealing as it does with rules for optimal portfolio choice by an
+individual. The CAPM can be neatly classified as belonging to the latter,
+since it is concerned with the determination of the prices of capital assets in
+a competitive market. But two such categories are not sufficient. Much of
+the work in the field can best be described as approaching normative issues in
+a positive context. The seminal Modigliani-Miller (1958) model is of this
+genre, since it prescribes optimal behavior for a corporation faced with a
+
+2
+    more specifically, footnote 22
+
+
+314                                Economic Sciences 1990
+
+ capital market in which security prices are determined by the actions of
+ individual investors cognizant of opportunities for substitution.
+    Even this three-way taxonomy fails to capture the interrelationships
+ among the alternative approaches. Most positive models in financial eco-
+ nomics, like those in the broader field of economics, are built on normative
+ foundations. Individuals engaging in maximizing behavior are assumed to
+ interact with one another until an equilibrium condition is reached. This is
+ clearly the case with the CAPM, which explicitly assumes that investors
+ follow the prescriptions of Markowitz’ portfolio theory. Moreover, as in
+ traditional micro-economic theory, financial economic theories of equilibri-
+ um relationships are taken as prescriptions for decisions in markets that
+ may not strictly conform to the conditions of the theory.
+    The domain of positive financial economics theory is sometimes divided
+ into a set of models that may be termed utility-based and a complementary
+ set that may be termed arbitrage-based. Models that fall in the latter category
+ derive implications from the assumption that capital asset prices will adjust
+ until it is impossible to find a strategy that requires no initial investment,
+ provides a positive cash flow in at least one state of nature, and requires no
+ negative cash flow in any future state of nature 3. Models that fall in the
+ former category typically conform to the conditions required for the latter,
+ but derive stronger implications due to added assumptions about the utility
+functions that investors are assumed to maximize4.
+    Much of the early work in financial economics dealt with markets in which
+ the interaction of a large number of individuals, each equally informed,
+ determined prices. In this sense the work followed the tradition of competi-
+ tive equilibrium theory in economics. More recently, attention has focused
+ on markets in which there are few participants and/or in which different
+ individuals have different sets of information.
+    The CAPM is, of course, a theory in the earlier tradition of the field. It is
+ a positive theory, incorporates assumptions about investors’ utility func-
+ tions, and assumes a market with a large number of participants, each of
+ whom has access to the same set of information.
+
+
+
+3
+  Prominent arbitrage-based theories in financial economics are the Black-Scholes (1973) model,
+which deals with the prices of options vis-a-vis related securities, and Ross’ (1976) Arbitrage
+Pricing Theory, which draws implications about the prices of capital assets when returns are
+generated by a specified factor model. While the monumental Arrow (1953) Debreu (1959)
+state-preference approach to uncertainty makes some assumptions about individual’s utility
+functions, many of its key results are arbitrage-based. A number of theories in financial
+economics have been constructed using the Arrow-Debreu “state of the world” paradigm,
+among them the binomial model of option pricing first presented in my textbook (1978) and
+then extended by Cox, Ross, and Rubinstein (1979) and many others.
+4
+  It is, of course, true that arbitrage-based models make some assumptions about investor
+preferences - for example, that investors prefer larger payoffs to smaller payoffs in any given
+state of the world. However, such assumptions are minimal, compared with the more detailed
+assumptions of utility-based models.
+
+
+                                           W. F. Sharpe                                         315
+
+
+CAPITAL ASSET PRICES WITH NEGATIVE HOLDINGS
+Assumptions
+Assume that the economy consists of K investors. Investor k’s invested
+wealth, expressed as a proportion of the total wealth invested by all inves-
+tors is Wk.. He or she wishes to maximize:
+
+                                                                                                 (1)
+
+    For expository convenience, I will term Uk investor K’s utility. It may be
+ regarded as a primitive utility function. Alternatively, it may be considered
+ an approximation to the investor’s expected utility in the sense of Von
+ Neumann and Morgenstern (1944). If the investor is assumed to have a
+ negative exponential utility function over wealth and returns are jointly
+ normally distributed, the approximation will be exact. Even if the investor
+ has some other utility function and/or returns are not jointly normally
+ distributed, Uk may provide an excellent approximation, as shown by Levy
+ and Markowitz (1979).
+    In equation (1), Ek is the expected return on investor k’s portfolio, V k is
+ the variance of the portfolio, and zk is his or her risk tolerance. Investors
+differ in risk tolerance.
+    This relationship can be interpreted in a number of useful ways. Clearly,
+ risk tolerance measures an investor’s marginal rate of substitution of variance
+for expected return. For convenience we assume that each investor’s risk
+ tolerance is constant over the feasible range of expected return and vari-
+ ance s.
+    The value obtained by dividing portfolio variance by an investor’s risk
+ tolerance can be characterized as a risk penalty, leading to the interpretation
+ of Uk as a risk-adjusted expected return. Alternatively, Uk may be considered a
+ certainty-equivalent return, since a portfolio with a return of Uk and zero risk
+ would have the same utility for the investor as the portfolio in question.
+    This is the objective function of Markowitz’ (1952) “mean-variance”
+ approach to portfolio selection. It is a highly parsimonious characterization
+ of investors’ goals, employing a myopic view (i.e. “one period at a time”)
+ and focusing on only two aspects of the probability distribution of possible
+ returns over that period6. Moreover, it assumes that the investor7 can assess
+ at least the first two moments of the probability distributions associated with
+ alternative investment portfolios. The genius of the approach is its ability to
+5
+  This is not required. The results that follow can be obtained under more general conditions,
+with the resultant values of 7k interpreted as investors’ marginal rates of substitution, given their
+optimal holdings.
+6
+  Note, however, that this assumption will be less onerous, the shorter the time period under
+consideration. In continuous-time versions of the model, the time period is (in effect) infinites-
+imal in length. Under such conditions, two moments may serve as adequate representations even
+if the probability distribution of returns over a finite period and/or investors’ preferences for
+returns over such a period are quite complex.
+7
+  aided, perhaps by an advisor
+
+
+316                                                    Economic, Sciences 1990
+
+
+c a pt ur e m u c h of w h at m att er s t o i n v e st or s. M or e o v er, it s er v e s w ell a s a b a s e
+f or e xt e n si o n s a n d a d a pt ati o n s d e si g n e d t o a c c o m m o d at e a d diti o n al a s p e ct s
+of i n v e st or’ s pr ef er e n c e s.
+    A s i n M ar k o wit z’ w or k, t h e e x p e ct e d r et ur n o n a p ortf oli o d e p e n d s o n t h e
+e x p e ct e d r et ur n s o n it s c o m p o n e nt s e c uriti e s 8 . A p ortf oli o’ s ri s k d e p e n d s
+o n b ot h t h e ri s k s of t h e c o m p o n e nt s e c uriti e s a n d o n t h eir c orr el ati o n s wit h
+o n e a n ot h er. M or e s u c ci n ctl y: p ortf oli o ri s k d e p e n d s o n t h e c o v ari a n c e s
+a m o n g s e c uriti e s’.
+    All i n v e st or s ar e i n a gr e e m e nt c o n c er ni n g e x p e ct e d r et ur n s a n d c o v ar-
+i a n c e s. Of c o ur s e, t h e s e m o m e nt s of t h e j oi nt di stri b uti o n of s e c urit y
+r et ur n s will b e a f u n cti o n of s e c urit y pri c e s. W h e n e q uili bri u m pri c e s ar e
+att ai n e d, h o w e v er, e a c h i n v e st or will c h o o s e a n o pti m al p ortf oli o, gi v e n t h e
+c urr e nt v al u e s of e x p e ct e d r et ur n s a n d c o v ari a n c e s; m or e o v er t h e r e s ult a nt
+p ortf oli o c h oi c e s will c a u s e t h e m ar k et s t o cl e ar.
+    I n v e st or s ar e all o w e d t o t a k e n e g ati v e p o siti o n s i n o n e or m or e a s s et s.
+T h u s h ol di n g s m a y b e p o siti v e, z er o or n e g ati v e. T h er e ar e n o tr a n s a cti o n s
+c o st s or ot h er c o n str ai nt s a n d a s s et p o siti o n s ar e f ull y di vi si bl e.
+
+P o rtf oli o O pti m alit y
+I n v e st or k s e e k s t o m a xi mi z e U k s u bj e ct t o a f ull i n v e st m e nt c o n st r ai nt of t h e
+f or m:
+
+
+
+     w h er e X i k r e pr e s e nt s t h e pr o p orti o n of i n v e st or k’ s p ortf oli o i n v e st e d i n
+a s s et i.
+     T o d o s o, h e or s h e m u st s el e ct a p ortf oli o i n w hi c h t h e m a r gi n al utilit y of
+e v er y s e c urit y i s t h e s a m e. If t hi s w er e n ot t h e c a s e, it w o ul d b e p o s si bl e t o
+r e all o c at e f u n d s fr o m a s e c urit y wit h a l o w er m ar gi n al utilit y t o o n e wit h a
+hi g h er o n e, t h er e b y i n cr e a si n g utilit y wit h o ut vi ol ati n g t h e f ull i n v e st m e nt
+c o n str ai nt.
+     T hi s fi r st o r d e r c o n diti o n f or p ortf oli o o pti m alit y c a n b e r e pr e s e nt e d a s
+f oll o w s:
+
+                                                                                 f or all i.                               ( 2)
+
+    H er e C i k i s t h e c o v ari a n c e of s e c urit y i wit h i n v e st or k’ s o pti m al p ortf oli o
+a n d h p i s i n v e st or k’ s m a r gi n al utilit y of w e alt h”.
+
+
+
+
+8
+    T h e e x p e ct e d r et ur n of i n v e st or k’ s p ortf oli o i s gi v e n b y:
+
+w h er e X i k r e pr e s e nt s t h e pr o p orti o n of i n v e st or k’ s p ortf oli o i n v e st e d i n a s s et i.
+9
+  T h e v ari a n c e of i n v e st or k’ s p ortf oli o i s gi v e n b y:
+
+
+w h er e C, r e pr e s e nt s t h e c o v ari a n c e b et w e e n t h e r et ur n s o n a s s et s i a n d j.
+
+
+                                              W. F. Sharpe                                           317
+
+Aggregation
+Assume that markets have cleared, so that all securities are held by the K
+investors in the economy. Relationships among key variables can be exam-
+ined by aggregating the conditions that must hold when each investor
+obtains an optimal solution, taking into account the relative amounts of
+wealth that each has invested. To do so requires only a few straightforward
+operations. In effect, a wealth-weighted average is taken of the first-order
+conditions for each security. Not surprisingly, the result is similar to that
+obtained earlier:
+
+                                                             for all i.
+
+  Here, z, is the wealth-weighted risk tolerance of the investors in the
+market, or the societal risk tolerance. The value of Cim represents the covar-
+iance of security i with the market portfolio, which includes all securities in
+the market, with each represented in proportion to its outstanding value.
+The last term is a weighted average of the values of J+ for the K investors,
+with the weights depending on the investors’ influences in the marketplace,
+where influence depends on both invested wealth and risk tolerance. It can
+be interpreted as the societal marginal utility of wealth”.
+
+Expected Returns
+One of the key implications of the CAPM concerns the relationships among
+the expected returns of capital assets. It can be obtained by a minor
+rearrangement of the previous equation to give:
+
+
+
+
+ Incorporating Uk, and the full investment constraint in a Lagrangean function to be maximized
+10
+
+
+
+gives:
+
+Clearly 5 is the marginal ulility of wealth for investor k, since it equals the partial derivative of Zk
+with respect to the investor’s wealth (in this metric, the value 1 in the parenthesized full
+investment constraint, since the Xik values are expressed as proportions of the investor’s total
+wealth).
+Recall that:
+
+
+
+Hence, taking the partial derivative of Zk with respect to investor k’s holding of security i gives:
+
+
+
+But note that the covariance of security i with any portfolio p will equal a weighted average of
+the covariances of the security with the securities in the portfolio, using relative portfolio
+holdings as weights. Here:
+
+Substituting this relationship in the prior equation and rearranging terms gives equation (2).
+
+
+318                                 Economic Sciences 1990
+
+   This shows that in equilibrium there is a linear relationship between the
+expected returns on securities and their covariances with the market portfo-
+lio. Usually the relationship is expressed in terms of a security’s beta, a scaled
+measure obtained by dividing a security’s covariance with the market port-
+folio by the variance of the market portfolio (Vm). Substituting this measure
+gives:
+
+                                                                 for all i,                   (5)
+
+where:
+
+
+
+
+   Of course, equation (5) is also linear. Moreover, since portfolio expected
+returns and covariances with the market portfolio are simply value-weighted
+averages of the corresponding measures for the component securities, it
+follows that this relationship holds for all portfolios as well as for all
+securities.
+
+The Risk Premium
+Since the previous equation holds for any portfolio, it will hold for the
+market portfolio itself. Moreover, the beta value of the market portfolio
+with itself must equal 1. Letting E m represent the expected return on the
+market portfolio, these relationships imply that:
+
+
+
+
+11
+  To derive equation (3) begin by multiplying all terms in equation (2) by Q and rearranging
+slightly, giving:
+
+Next, multiply all terms by Wk. then sum over all investors, giving:
+
+
+Define Tm as:
+
+Now consider the second term. Note that:
+
+where I?, and ri, are, respectively, the returns on security i and investor k’s portfolio. By the
+properties of covariance:
+
+But the summation on the right-hand side is simply a wealth-weighted average of the returns on
+the investor’s portfolios or, more simply put, the return on the market portfolio. Hence the
+summation on the left-hand side is the covariance of the return on security i with that of the
+market portfolio, which can be denoted Cim.
+Making these substitutions and dividing all terms by ~~ gives:
+
+
+
+The last term is a weighted average of the values of $ for the K investors, with the weights given
+by the product of Wk and rk. Denoting this h/- gives equation (3).
+
+
+                                        W. F. Sharpe                                      319
+
+
+  The term on the left-hand side is the risk premium per unit of variance. As
+the equation shows, it is inversely related to societal risk tolerance.
+
+The Security Market Line
+Substituting the risk premium per unit of variance for 2/2, in the equation
+for security expected returns gives a more traditional form of the relation-
+ship:
+
+                                                           for all i.
+   A graphical portrayal is termed the security market line. The CAPM implies
+that all securities and portfolios will plot along such a line. Many would
+argue that this relationship is the most important single conclusion derived
+from the CAPM. It shows that expected returns will be linearly related to
+market risk, but not, as often believed, to total risk
+
+Riskless Borrowing and Lending
+As can be seen from equation (7), hk may be interpreted as the expected
+return on any “zero-beta” portfolio, including the zero-beta portfolio with
+minimum variance, as suggested by Black (1972). If a riskless asset is
+available, If,,, will equal Rf, the riskless rate of return. Under these condi-
+tions, the Security Market Line relationship can be written:
+
+                                                          for all i
+   Henceforth, we assume that a riskless asset does exist and can be held in
+positive or negative amounts - i.e. that investors may either lend or borrow
+at the riskless rate Rf
+
+The Characteristic Line
+The value of pt,,, may be given an interpretation similar to that found in
+regression analysis utilizing historic data, although in the context of the
+CAPM it is to be interpreted strictly as an ex ante value based on probabilis-
+tic beliefs about future outcomes. The relationship between Ri and &, the
+stochastic returns on security i and the market portfolio, respectively, can
+be written as:
+
+
+  Given the manner in which &, is defined, it must be the case that Ei is
+uncorrelated with12 &. Moreover, ai can be defined so that the expected
+value of 6, is zero. However, there is no reason to expect that & - the
+residual return or non-market component of return for security i - will be
+uncorrelated with the comparable component for security j13.
+
+ but not necessarily independent of
+ 12
+
+
+
+ In fact, this cannot strictly be the case except in economies with infinitely many securities.
+ 13
+
+
+
+Since the market-value weighted sum of the left-hand sides of equation (9) equals fi,, the
+market-weighted sum of the g values must be zero. Thus at least two of the i values must be
+negatively correlated.
+
+
+320                                    Economic Sciences 1990
+
+  While the CAPM places no restrictions on the correlations of the residual
+terms, it does restrict the values of the intercept (ai ) terms. Since the
+expected value of Ei is zero, the security market line relationship requires
+that each intercept be related directly to the security’s beta value 14. The
+CAPM thus implies that:
+
+                                                                                        (10)
+   A graphical portrayal of this relationship is termed a security or portfo-
+lio’s characteristic line.
+
+Factor Models of Security Returns
+Much confusion has arisen concerning the relationship between the equilib-
+rium results of the CAPM and the underlying relationships among security
+returns. As can be seen, the CAPM makes no assumptions about the “return
+generating process”. Hence, its results are completely consistent with any
+such process.
+   Early approaches to portfolio selection15, assumed that returns were
+generated by a model similar (but not identical) to that of equation (9), with
+the further condition that the residual values were uncorrelated across
+securities 16. My initial approach to capital asset pricing in Sharpe (1961)
+made a similar assumption. Such a “single index” or “single factor” model
+represents a special case of a factor model of security returns. Multi-factor
+models have been explored by a number of researchers and currently enjoy
+widespread use in financial practice.
+   A factor model of security returns identifies a relatively few key factors to
+which a security’s return is assumed to be linearly related, in the following
+manner:
+
+                                                                                         (11)
+   In such a model the Ei values are assumed to be uncorrelated across
+securities. Ross’ (1976) Arbitrage Pricing Theory (APT) concludes that if
+returns are generated by such a model, expected returns must be approxi-
+mately linearly related to the bil values if opportunities to gain through
+arbitrage are to be precluded. However, the APT provides no implications
+concerning either the signs or the magnitudes of the coefficients in the
+associated pricing relationship.
+   It is entirely possible to augment the assumptions of the APT with those
+
+ 14
+      Taking expectations of equation (9) gives:
+
+ Comparison with (8) implies that:
+
+ 15
+    such as that suggested by Markowitz (1959) that I further developed in Sharpe (1961, 1963
+ and 1970).
+ 16
+    In such a model the “common factor” can be highly correlated with the return on the market
+ portfolio, but not precisely equal to it if the assumption that the residual values are to be
+ uncorrelated with one another is to be maintained.
+
+
+                                             W. F. Sharpe                                     321
+
+of the CAPM (most importantly, the assumption that investors maximize
+mean-variance utility functions). The resulting implications will then be
+consistent with both theories. Moreover, by making assumptions about
+investors’ objectives one can obtain precise statements about the signs and
+magnitudes of the coefficients of the APT pricing relationship, as I have
+shown in Sharpe (1984).
+
+The Efficiency of the Market Portfolio
+A key concept due to Markowitz (1952) is that of the efficiency of a portfolio.
+In the present context a portfolio can be said to be efficient if it would be
+optimal for an investor with some (non-negative) risk tolerance. Compari-
+son of equations (2) and (3) directly implies that the market portfolio is
+efficient in this sense.
+   Consider an investor who has a risk tolerance equal to z, and holds the
+market portfolio. Equation (3) shows that the first-order conditions for the
+maximization of his or her utility will be met for every security. Since the
+market portfolio will be optimal for such an investor, it must be efficient.
+More specifically, the market portfolio will be optimal for an investor with
+the average (societal) risk tolerance.
+
+The Two-fund Separation Theorem
+Under the conditions assumed in the CAPM, every investor’s optimal port-
+folio can be obtained by a suitably chosen combination of any two arbitrarily
+selected efficient portfolios17. Two natural choices are those that would be
+optimal for investors with risk tolerances of zero and 7,. The former is the
+minimum-variance portfolio. The latter is, of course, the market portfolio.
+Following Tobin (1969), this is generally termed the two-fund separation
+theorem.
+   When a riskless asset is available, the minimum-variance portfolio will be
+composed solely of that asset. Thus all investors will hold combinations of
+the riskless asset and the market portfolio. For investors with risk tolerance
+
+17
+     To provide two-fund separation in this case, rewrite equation (2) as follows:
+
+Portfolio optimality requires that this relationship be satisfied for each of the N securities and
+that the full-investment constraint be met. This gives rise to a set of N+ 1 simultaneous
+equations that can be written as:
+
+
+
+
+where hz represents ‘TV hp. Writing this in matrix notation gives:
+
+The solution, obtained by multiplying both sides by the inverse of D is thus:
+
+Note that the optimal portfolio is a linear function of Q. Thus it can be restated as a linear
+function of any two vectors satisfying the above equation associated with different values of Q.
+
+
+322                               Economic Sciences 1990
+
+greater than T,, optimal investment will involve a negative position in the
+riskless asset and a positive position in the market portfolio - and hence all
+risky assets. Note, however, that the market portfolio will include the net
+positive supply of riskless assets in the economy; hence only investors with $
+values considerably greater than ‘5, will actually have to borrow money.
+Every other investor will select some combination of the riskless asset and
+the market portfolio, and thus require only non-negative holdings.
+
+Key Implications
+The key implications of the CAPM are that:
+   1. the market portfolio will be efficient,
+   2. all efficient portfolios will be equivalent to investment in the market
+portfolio plus, possibly, lending or borrowing, and
+   3. there will be a linear relationship between expected return and beta.
+   Practical applications of these relationships are many. Investors can easily
+identify efficient portfolio strategies and such strategies can be effectively
+implemented through mutual funds and other institutional vehicles. Corpo-
+rate and governmental decision-makers can use the Security Market Line
+relationship to determine the desirability of an investment project by com-
+paring its expected return with that available in the capital market for
+projects with similar beta values (i.e. with similar market risk or sensitivity to
+economic conditions).
+   In the frictionless world of the CAPM, each investor chooses a portfolio
+that maximizes his or her utility. This leads to an efficient distribution of risk
+in the economy, given, of course, the distribution of wealth among inves-
+tors.
+
+NEGATIVE HOLDINGS
+The CAPM assumes that investors can take negative positions in assets. For
+the riskless asset, the traditional manner in which such a position is achieved
+involves borrowing money. For a risky asset, the traditional method re-
+quires a short sale.
+  A “short position” is achieved by borrowing an asset such as a share of
+stock, with a promise to repay in kind, typically on demand. The borrowed
+asset is then sold, generating a cash receipt. If the proceeds of the sale may
+be used for other types of investment, the overall effect is equivalent to that
+of a negative holding of the asset in question. If, however, the proceeds are
+“impounded” to serve as collateral for the borrowed asset, such a short
+position may differ from a negative holding of the asset in question. In many
+countries, proceeds from some short sales are impounded in this manner,
+and the short seller receives little or no interest on the impounded
+amount 18. Moreover, some institutional investors are precluded from the
+use of short positions, either through explicit rules or implicit threat of suit
+18
+  Often additional collateral must be “posted” as “margin”, but the short seller is generally
+allowed to receive the earnings associated with the investment of this amount.
+
+
+                                             W. F. Sharpe                                     321
+
+of the CAPM (most importantly, the assumption that investors maximize
+mean-variance utility functions). The resulting implications will then be
+consistent with both theories. Moreover, by making assumptions about
+investors’ objectives one can obtain precise statements about the signs and
+magnitudes of the coefficients of the APT pricing relationship, as I have
+shown in Sharpe (1984).
+
+The Efficiency of the Market Portfolio
+A key concept due to Markowitz (1952) is that of the efficiency of a portfolio.
+In the present context a portfolio can be said to be efficient if it would be
+optimal for an investor with some (non-negative) risk tolerance. Compari-
+son of equations (2) and (3) directly implies that the market portfolio is
+efficient in this sense.
+   Consider an investor who has a risk tolerance equal to z, and holds the
+market portfolio. Equation (3) shows that the first-order conditions for the
+maximization of his or her utility will be met for every security. Since the
+market portfolio will be optimal for such an investor, it must be efficient.
+More specifically, the market portfolio will be optimal for an investor with
+the average (societal) risk tolerance.
+
+The Two-fund Separation Theorem
+Under the conditions assumed in the CAPM, every investor’s optimal port-
+folio can be obtained by a suitably chosen combination of any two arbitrarily
+selected efficient portfolios17. Two natural choices are those that would be
+optimal for investors with risk tolerances of zero and 7,. The former is the
+minimum-variance portfolio. The latter is, of course, the market portfolio.
+Following Tobin (1969), this is generally termed the two-fund separation
+theorem.
+   When a riskless asset is available, the minimum-variance portfolio will be
+composed solely of that asset. Thus all investors will hold combinations of
+the riskless asset and the market portfolio. For investors with risk tolerance
+
+17
+     To provide two-fund separation in this case, rewrite equation (2) as follows:
+
+Portfolio optimality requires that this relationship be satisfied for each of the N securities and
+that the full-investment constraint be met. This gives rise to a set of N+ 1 simultaneous
+equations that can be written as:
+
+
+
+
+where hz represents rk hp. Writing this in matrix notation gives:
+
+The solution, obtained by multiplying both sides by the inverse of D is thus:
+
+Note that the optimal portfolio is a linear function of Q. Thus it can be restated as a linear
+function of any two vectors satisfying the above equation associated with different values of Q.
+
+
+322                               Economic Sciences 1990
+
+greater than r,, optimal investment will involve a negative position in the
+riskless asset and a positive position in the market portfolio - and hence all
+risky assets. Note, however, that the market portfolio will include the net
+positive supply of riskless assets in the economy; hence only investors with $
+values considerably greater than ‘5, will actually have to borrow money.
+Every other investor will select some combination of the riskless asset and
+the market portfolio, and thus require only non-negative holdings.
+
+Key Implications
+The key implications of the CAPM are that:
+   1. the market portfolio will be efficient,
+   2. all efficient portfolios will be equivalent to investment in the market
+portfolio plus, possibly, lending or borrowing, and
+   3. there will be a linear relationship between expected return and beta.
+   Practical applications of these relationships are many. Investors can easily
+identify efficient portfolio strategies and such strategies can be effectively
+implemented through mutual funds and other institutional vehicles. Corpo-
+rate and governmental decision-makers can use the Security Market Line
+relationship to determine the desirability of an investment project by com-
+paring its expected return with that available in the capital market for
+projects with similar beta values (i.e. with similar market risk or sensitivity to
+economic conditions).
+   In the frictionless world of the CAPM, each investor chooses a portfolio
+that maximizes his or her utility. This leads to an efficient distribution of risk
+in the economy, given, of course, the distribution of wealth among inves-
+tors.
+
+NEGATIVE HOLDINGS
+The CAPM assumes that investors can take negative positions in assets. For
+the riskless asset, the traditional manner in which such a position is achieved
+involves borrowing money. For a risky asset, the traditional method re-
+quires a short sale.
+  A “short position” is achieved by borrowing an asset such as a share of
+stock, with a promise to repay in kind, typically on demand. The borrowed
+asset is then sold, generating a cash receipt. If the proceeds of the sale may
+be used for other types of investment, the overall effect is equivalent to that
+of a negative holding of the asset in question. If, however, the proceeds are
+“impounded” to serve as collateral for the borrowed asset, such a short
+position may differ from a negative holding of the asset in question. In many
+countries, proceeds from some short sales are impounded in this manner,
+and the short seller receives little or no interest on the impounded
+amount 18. Moreover, some institutional investors are precluded from the
+use of short positions, either through explicit rules or implicit threat of suit
+18
+  Often additional collateral must be “posted” as “margin”, but the short seller is generally
+allowed to receive the earnings associated with the investment of this amount.
+
+
+                                   W. F. Sharpe                               323
+
+
+for violation of fiduciary standards. Other restrictions may apply - for
+example, exchanges may not allow a short sale following a previous decline
+in the price of the security in question.
+   Of necessity, arbitrage-based theories allow short positions. Whether
+such positions will be taken in equilibrium is usually unclear, since the
+models lack sufficient assumptions (i.e. those concerning utility functions)
+to characterize equilibrium holdings. More importantly, by the very nature
+of the arbitrage approach, multiple solutions in terms of holdings are
+possible in equilibrium due to the presence (or potential presence) of
+redundant securities.
+   While the CAPM assumes that investors can take negative positions in any
+asset, it implies that in equilibrium the only such positions taken will involve
+the minimum-variance portfolio. When a riskless asset is available, the only
+negative holdings in equilibrium will involve borrowing by investors with
+above-average risk tolerance who wish to finance added investment in a
+portfolio representing the overall capital market.
+   With costless monitoring of investors’ positions, zero transactions costs,
+and equal information about securities available to all investors, the only
+restrictions on negative holdings would be those required to achieve pay-
+ment of the requisite cash flows. An investor’s overall portfolio must be
+such that in each state of the world the sum of the positive cash flows is at
+least as large as the sum of the negative cash flows required to match the
+payments made by the issuers of the securities held in negative amounts. If
+this condition is violated, such securities have not been fully replicated and
+the investor cannot expect to receive the full price when taking the associat-
+ed negative positions.
+   Since all information is not fully public, and monitoring and transactions
+are costly, institutional arrangements for short selling have traditionally
+required the posting of separate collateral for each position, with little if
+any consideration given to the effects of diversification at the portfolio level.
+Under such conditions it is difficult or expensive for a high risk-tolerance
+investor to borrow money to finance added investment in a market-like
+portfolio. Stock index futures contracts now provide investors with a more
+efficient means for doing so. Before considering them, however, we investi-
+gate the characteristics of an extreme case in which no negative positions
+are allowed.
+
+
+CAPITAL ASSET PRICES WITHOUT NEGATIVE HOLDINGS
+Assumptions
+To explore the effects of constraints on asset holdings we retain all the
+assumptions of the CAPM and add N*K non-negativity constraints of the
+form:
+                                       for all i and k.
+
+
+324                          Economic Sciences 1990
+
+
+Portfolio Optimality
+Investor k seeks to maximize Uk subject to a full investment constraint and
+the relevant non-negativity constraints. This is a quadratic programming
+problem. An exact solution to a portfolio optimization problem of this form
+can be obtained using the critical line algorithm developed by Markowitz
+(1956).
+  When the solution is obtained, some values of X ik will be positive. The
+corresponding securities are said to be in the optimal portfolio. The remain-
+der will be at their lower bounds of zero and are said to be out of the
+portfolio.
+   Each of the securities in the optimal portfolio must have the same
+marginal utility. If this were not the case, it would be possible to reallocate
+funds from one such security with a lower marginal utility to one with a
+higher marginal utility, thereby increasing utility without violating either
+the full investment constraint or any of the non-negativity constraints. The
+common value of marginal utility for such securities will be the investor’s
+marginal utility of wealth, which we will again denote 1~.
+   Each of the securities out of the portfolio must have a marginal utility less
+than (or equal to) that of the securities in the portfolio. If this were not the
+case, it would be possible to reallocate funds from a security in the portfolio
+to one out of the portfolio, thereby increasing utility without violating any
+of the constraints.
+  These relationships, which derive from more general ones termed Kuhn-
+Tucker conditions, can be written conveniently as:
+
+
+
+
+where zik will be zero for securities in the portfolio and greater than or equal
+to zero for securities out of the portfolio.
+
+Aggregation
+As with the CAPM, we take a wealth-weighted average of the conditions for
+the optimality of individual investors’ portfolios. The result has a similar
+form:
+
+                                                                           (13)
+
+  Not surprisingly, zim is a weighted average of the zik values for the K
+investors, with the weights depending on the investors’ influences in the
+marketplace, where influence depends on both wealth and risk tolerance”.
+
+
+
+ 19
+      That is,
+
+
+                                           W. F. Sharpe                                         325
+
+
+Expected Returns
+The previous equation can be transformated simply to obtain:
+
+
+
+
+  Were it not for the last term, there would be a linear relationship between
+expected return and beta, as in the CAPM. But the last term implies that
+only securities that are in every investor’s optimal portfolio will plot along
+such a line Every
+               .      security that is out of at least one investor’s optimal
+            20
+
+
+
+                                       .
+portfolio will plot below the line 21 Moreover,   the larger the number of
+investors for whom the lower bound for a security is binding, the larger is
+the corresponding value of zim, likely to be.
+   It is important to note that the magnitudes of the z im values will be
+affected by the distribution of risk tolerances across investors. In the special
+case in which all investors have the same risk tolerance, everyone will choose
+to hold the market portfolio and all the zim, values will equal zero, giving
+results identical to those of the original CAPM. Loosely speaking, the
+greater the variation in risk tolerances across investors, the more likely it is
+that some of the zim values will be positive. Note, however, that in this
+connection each investor’s influence will depend on both his or her wealth
+and risk tolerance. Unless there is substantial variation in the risk tolerances
+of the wealthiest investors, the zim values may be very close to zero, giving
+results very similar to those of the original CAPM.
+
+The Risk Premium
+To determine the risk premium in this case, one must take a market value-
+weighted average of the equilibrium relationships in the previous equation.
+Doing so gives:
+
+
+
+
+  Clearly, the risk premium per unit of variance will be a function of the
+extent to which investors’ portfolios are affected by the non-negativity
+constraints”.
+
+
+20
+   Only for such securities will all the zik values be zero, giving value of zero for zim, (their
+weighted average).
+21
+   At least one zik value will be positive; since the remainder will all equal zero, the value of zim
+(their weighted average) will be positive.
+22
+   Multiplying equation (13) by Xim, and summing over i gives:
+
+
+Rearranging terms gives equation (1.5).
+ moreover, the magnitude of h,,,, will be also be affected by such restrictions.
+23
+
+
+326                                    Economic Sciences 1990
+
+
+The Security Market Line Relationship
+Given the final term in the previous equation, it is not particularly instruc-
+tive to drive a counterpart to the security market line of the CAPM.
+However, equation (14) can stand as the analogue to a security market line
+for this case. As indicated earlier, the first two terms do indeed provide such
+a line. However, in this case the line serves as an upper boundary. Some or
+all of the securities may plot below the line, with the distances dependent on
+the degree to which the associated non-negativity constraints are binding.
+Thus there may not be a precise linear relationship between expected
+returns and beta values.
+
+Riskless Securities
+In this case no riskless borrowing is allowed, since negative positions are
+precluded. The net positive supply of riskless securities will, however, be
+included in the market portfolio. For any investor for whom the constraint
+on borrowing is binding, 1~ will exceed R For all others, the two values will
+                                                         f.
+
+be equal. Hence, 3Lf, will equal or exceed R                  f
+
+
+
+
+The Efficiency of the Market Portfolio
+In the CAPM, the marginal utilities of all securities with respect to the
+holdings in the market portfolio are equal when evaluated using the societal
+risk tolerance. This is sufficient for the efficiency of the market portfolio. It
+is also necessary if the market portfolio is to be efficient for an investor with
+the societal risk tolerance.
+   More generally, for the market portfolio to be efficient, the marginal
+utilities of all securities measured relative to the market portfolio must be
+equal when evaluated using some positive risk tolerance. This follows from
+the fact that the market portfolio includes positive amounts of every securi-
+ty, hence all securities will be in such a portfolio.
+   For this condition to be met, there must be a linear relationship between
+security expected returns and their beta values24. With restrictions on
+negative holdings this may not be the case, due to the influences of the z im
+values 25. Hence the market portfolio may be inefficient. Of course, the
+
+
+
+
+To meet condition for efficiency of the market portfolio, there must thus be a strictly linear
+relationship between E, and p*,,,. Moreover, the intercept and slope must both be positive,
+otherwise the implied values of λ and τ, respectively will be negative.
+25
+   If all the zim values are zero, of course, the linear relationship will obtain. In the highly unlikely
+event that there is a linear relationship between the z im values and the corresponding beta values,
+there will also be a linear relationship between the E and p,, values.
+                                                          j
+
+
+                                             W. F. Sharpe                    327
+
+
+extent of the inefficiency will depend on the magnitudes of the z im values -
+if most are small, the degree of inefficiency of the market portfolio may be
+inconsequential.
+
+Fund Separation
+Markowitz (1959) showed that non-negativity constraints cause the efficient
+frontier to be piecewise linear in the space of holdings. Within each linear
+range, efficient portfolios can be obtained by combining any two other
+portfolios within the range . . However, no two portfolios can, in general,
+                              26
+
+
+
+be utilized to obtain all efficient portfolios. Hence two-fund separation may
+not strictly apply in this case.
+
+Key Implications
+When negative positions are precluded:
+   1. the market portfolio may not be efficient,
+   2. some efficient portfolios may not be equivalent to investment in the
+market portfolio plus, possibly, lending or borrowing, and
+   3. there may not be a linear relationship between expected return and
+beta.
+   All these implications suggest a diminution in the efficiency with which
+risk can be allocated in an economy. The choice of optimal portfolios
+becomes more difficult than in the simple setting of the CAPM. Calculations
+of cost of capital for corporate and governmental investment projects may
+require more than the determination of a simple relationship between
+expected return and market risk. More fundamentally, overall welfare may
+be lower than it would be if the constraints on negative holdings could be
+reduced or removed.
+   While the magnitudes of the departures from the implications of the
+original CAPM might be small even under the extreme conditions assumed
+in this case, it is clear that institutional arrangements to improve investor’s
+abilities to take negative positions can increase the efficiency with which risk
+is allocated in an economy. Following some comments on financial innova-
+tion in general, I will discuss the stock index futures contract - an innova-
+tion that provides such an improvement.
+
+
+FINANCIAL INNOVATION
+More than most sciences, economics not only analyzes reality, it also alters
+it. Theory leads to empiricism which changes behavior. Nowhere is this
+more evident than in financial economics. The academic field of finance
+differs radically from that of three decades ago, due in large part to
+advances in financial economic theory and to the extensive empirical re-
+search that has flowed from those advances. At least as important, the
+practice of finance has been affected in fundamental ways by the progress in
+
+26
+     those lying at the end-points provide convenient choices.
+
+
+328                           Economic Sciences 1990
+
+financial economics. Most notably, the last decade has been marked by
+unprecedented innovation in financial instruments, markets and institu-
+tions.
+   Given the bewildering pace of such innovation, it is not surprising that
+some individuals and organizations have at times found it difficult to fully
+understand the proper uses of some of the new instruments and proce-
+dures. Evidence abounds that those who fail to learn the principles of
+financial economics in more formal ways will do so through experience.
+Markets are effective although sometimes cruel teachers. In general, finan-
+cial systems are self-correcting. Given time, participants learn to use new
+instruments and procedures to improve overall welfare, not just to reallo-
+cate wealth from one set of hands to another. It is usually best to wait until
+the forces of competition are able to regulate a market rather than to
+impose regulations prematurely.
+   Much financial innovation has been possible due to the remarkable
+advances in computation and communication technology. Moreover, in-
+creased global competition, with the accompanying diminution of monopo-
+ly power on the part of organizations and governments, has played an
+important role. Nonetheless, I cannot help but believe that discoveries in
+the science of financial economics have had a major influence. Stock index
+futures contracts appear to provide a clear example of this.
+
+
+
+STOCK INDEX FUTURES CONTRACTS
+Features
+A traditional forward contract is an agreement on the part of the seller to
+deliver a stated amount of a commodity on a given future date to the buyer
+at a pre-specified price. A futures contract is a standardized forward contract
+with the further provision that the delivery price be reset at the end of each
+trading day to equal the price at which new agreements were struck. At the
+time of each such resetting, one of the two parties pays the other an amount
+equal to the difference between the new price and the old. This process is
+known as “posting variation margin” as a result of the “marking to market”
+of the price of the contract.
+   The seller of a futures contract is said to be short the contract; the buyer is
+said to be long .
+   Futures exchanges make it possible for the two parties in a contract to be
+“unlinked”. Thus A may sell a contract to B. B may later sell it to C without
+A’s involvement. And later, C may sell it to A, extinguishing it before the
+final delivery date.
+   To protect the other party in such an arrangement, each party must post
+collateral as “margin”. The amount need only cover potential losses be-
+tween two trading days, however, due to the process of marking to market.
+Margins equal to 10% to 20% of the value of a position typically suffice. To
+insure that collateral is maintained, yet preserve the standardization of the
+
+
+                                             W. F. Sharpe                    329
+
+contract, brokers representing those with positions utilize a clearing house,
+which provides assurance that obligations will be met.
+   A financial futures contract may call for the actual delivery of a stated
+financial instrument or one or more of a set of such instruments. Alternati-
+vely, it may call only for a final marking to market on the delivery day, with
+one party paying the other an amount equal to the difference between the
+prior futures price and the value of the underlying financial instrument on
+the delivery day. The latter is often termed cash delivery.
+   A stock index futures contract covers a pre-specified portfolio of stocks. It
+allows investors to take long or short positions in diversified portfolios.
+Most such contracts provide for cash delivery.
+
+Effects
+A key aspect of a stock index futures contract is its focus on a diversified
+portfolio rather than on an individual security or commodity. In this respect,
+such a contract is similar to a mutual fund, unit trust, commingled index
+fund or stock index option. All provide investors with “packages” of securi-
+ties, substantially reducing the costs associated with diversification. Recent
+growth in investors’ reliance on all such vehicles stands, at least in part, as
+testimony to the influence of financial economics on the process by which
+risk is borne in modern economies.
+   A second feature of a stock index futures contract is of particular interest
+in the present context. Such a contract provides an efficient method for
+simultaneously taking a positive position in a diversified stock portfolio and
+a negative position in a riskless asset. In effect, the purchaser of such a
+contract borrows money to purchase a stock portfolio while the seller lends
+money and takes a short position in the stock portfolio27. If the buyer of the
+contract posts as margin riskless securities with a value equal to that of the
+futures position, the net effect is similar to that of investing a comparable
+amount in the stocks in the associated index. If less than 100% margin is
+posted, the effect is similar to that of a levered purchase of the stocks in the
+index. While not precisely the same as borrowing at the riskless rate to
+purchase a portfolio of stocks, a long position in a futures contract can
+provide a very close approximation to such a strategy. Moreover, the upper
+limit on the borrowing implicit in the arrangement is sufficiently large to
+satisfy all but a potentially few investors with extremely high risk tolerances.
+   It is striking that a levered holding of a highly diversified portfolio (i.e.
+the market portfolio) is precisely the optimal investment strategy for high
+risk tolerance investors in the simple setting of the original CAPM. While no
+financial futures contract corresponds to the overall market portfolio,
+combinations of existing contracts (including those on bonds and other
+types of securities) may approximate such a strategy.
+   In a sense, the seller of a futures contract holds negative positions in the
+underlying securities, and the existence of such positions is inconsistent
+
+27
+     For details see, for example, Duffie (1989)
+
+
+330                            Economic Sciences 1990
+
+with the implications of the CAPM. However, when viewed more broadly,
+this inconsistency may be more apparent than real. Often the seller of a
+stock index futures contract also holds the individual securities that make
+up the index in question. The futures position thus provides a hedge against
+changes in the value of the portfolio of actual stocks. As a result, the hedged
+futures seller’s net position is virtually risk-free and hence equivalent to
+investment in a riskless asset. Such a person can assemble the securities in
+an economical manner and, in effect, provide a means for others to buy or
+sell the package without incurring the costs associated with the purchase or
+sale of large numbers of individual stocks. In effect, he or she loans money
+to the high risk-tolerance investor to enable the latter to purchase added
+amounts of risky securities.
+   Futures contracts written on diversified portfolios require less margin
+than would a set of contracts on individual securities, each with its own
+required margin. Moreover, stock index contracts take advantage of econo-
+mies of scale in transactions and record-keeping.
+   In effect, stock index futures contracts provide those who might be
+limited by traditional constraints on borrowing with a means for achieving
+desirable investment strategies. Moreover, the strategies are similar to those
+that are optimal for high risk-tolerance investors in the setting of the
+original CAPM. Hence, the existence of such contracts may well bring
+actual capital markets closer to those of this simple equilibrium theory. If
+so, stock index futures contracts may significantly improve the efficiency
+with which risk is allocated in an economy.
+
+CONCLUSIONS
+Here I have explicitly considered only one type of impediment to the
+efficient allocation of risk. However, this case can serve as a representative
+of many others. The greater the costs and constraints associated with the
+purchase and sale of securities, the farther will an economy be from the goal
+of allocating risk to those most able and willing to bear it.
+   Happily, technological advances and greater understanding of the princi-
+ples of financial economics are reducing costs and constraints of this type at
+a rapid pace. As a result, capital markets are moving closer to the conditions
+assumed in some of the simpler types of financial theory. Far more impor-
+tant: the combined efforts of theoreticians, empiricists and practitioners are
+increasing the efficiency with which risk is allocated among individuals,
+leading to improvements in social welfare.
+
+
+
+REFERENCES
+Arrow, K. (1953), “Le Role des Valeurs Boursieres pour la repartition la Meilleure
+  des Risques,” Econometric, Colloques Internationaux du Centre National de la
+  Recherche Scientifique, Vol. XI, Paris, 41-47.
+Black, F. (1972), “Capital Market Equilibrium with Restricted Borrowing,“Journal of
+  Business, 45:44-454.
+
+
+                                      W. F. Sharpe                                  331
+
+Black, F. and M. Scholes (1973), “The Pricing of Options and Corporate Liabilities,”
+  Journal of Political Economy, 81:637 - 654.
+Breeden, D. (1979), “An Intertemporal Asset Pricing Model with Stochastic Con-
+  sumption and Investment Opportunities,” Journal of Financial Economics, 7:265 -
+  296.
+Brennan, M.J. (1970), “Taxes, Market Valuation and Corporate Financial Policy,”
+  National Tax Journal, December 1970, pp. 417-427.
+Cox, J., S. Ross and M. Rubinstein (1979), “Option Pricing: A Simplified Ap-
+  proach,” Journal of Financial Economics, 7, pp. 229 - 263.
+Debreu, G. (1959), Theory of Value, New York: John Wiley and Sons.
+Duffie, D. (1989). Futures Markets, Englewood Cliffs, New Jersey: Prentice Hall.
+Glenn, D. (1976), “Super Premium Security Prices and Optimal Corporate Financ-
+  ing Decisions,” Journal of Finance, May 1976.
+Kraus, A. and R. Litzenberger (1976), “Skewness Preference and the Valuation of
+  Risk Assets,” Journal of Finance, 38: 1085-1100.
+Levy, H. (1978), “Equilibrium in an Imperfect Market: A Constraint on the Number
+  of Securities in a Portfolio,” American Economic Review, 68:643 - 658.
+Levy, H. and H. Markowitz (1979), “Approximating Expected Utility by a Function
+  of Mean and Variance,” American Economic Review, June 1979.
+Lintner, J. (1965), “The Valuation of Risk Assets and the Selection of Risky Invest-
+  ments in Stock Portfolios and Capital Budgets,” Review of Economics and Statistics,
+  47:13-37.
+Lintner, J. (1969), “The Aggregation of Investors’ Diverse Judgements and Prefer-
+  ences in Purely Competitive Markets,” Journal of Financial and Quantitative Analy-
+  sis, 4:346-382.
+Markowitz, H. (1952), “Portfolio Selection,” Journal of Finance, 7:77-91.
+Markowitz, H. (1956), “The Optimization of a Quadratic Function Subject to Linear
+  Constraints,” Naval Research Logistics Quarterly, 3, pp. 111 - 133.
+Markowitz, H. (1959), Portfolio Selection: Efficient Diversification of Investments, New
+  York: John Wiley and Sons, Inc.
+Markowitz, H. (1987), Mean-Variance Analysis in Portfolio Choice and Capital Markets,
+  New York: Basil Blackwell Inc.
+Markowitz, H. (1990), “Risk Adjustment,” Journal of Accounting, Auditing and Fi-
+  nance, forthcoming.
+Merton, R. (1973), “An Intertemporal Capital Asset Pricing Model,” Econometrica,
+  41:867-887.
+Merton, R. (1987), “A Simple Model of Capital Market Equilibrium With Incom-
+  plete Information,” Journal of Finance, 52:483-510.
+Modigliani, F. and M. Miller (1958), “The Cost of Capital, Corporation Finance, and
+  the Theory of Investment,” American Economic Review, 48:261-297.
+Mossin, J. (1966), “Equilibrium in a Capital Asset Market,” Econometrica, 35: pp.
+  768-783.
+Ross, S. (1976), “Arbitrage Theory of Capital Asset Pricing,” Journal of Economic
+  Theory, 13: pp. 341-360.
+Rubinstein, M. (1974). “An Aggregation Theorem for Securities Markets,” Journal of
+  Financial Economics, 1:225 - 244.
+Sharpe, W. (1961), “Portfolio Analysis Based on a Simplified Model of the Relation-
+  ships Among Securities,” PhD Dissertation, University of California at Los An-
+  geles, June 1961.
+Sharpe, W. (1963), “A Simplified Model for Portfolio Analysis,” Management Science,
+  9:277-293.
+Sharpe, W. (1964). “Capital Asset Prices: A Theory of Market Equilibrium Under
+  Conditions of Risk,“, Journal of Finance, 19:425-442.
+Sharpe, W. (1970), Portfolio Theory and Capital Markets, New York: McGraw-Hill.
+Sharpe, W. (1978), Investments, Englewood Cliffs, New Jersey: Prentice-Hall.
+
+
+332                            Economic Sciences 1990
+
+
+Sharpe, W. (1984), “Factor Models, CAPMs, and the APT,” Journal of Portfolio
+  Management, Fall 1984, pp. 21-25.
+Tobin, J. (1969), “Liquidity Preference as Behavior Towards Risk,” Review of Econom-
+  ic Studies, 25:65-86.
+Von Neumann, J. and O. Morgenstern (1944), Theory of Games and Economic Behavior,
+  Princeton: Princeton University Press.
+

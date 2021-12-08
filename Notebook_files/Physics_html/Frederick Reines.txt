@@ -1,0 +1,902 @@
+THE NEUTRINO: FROM POLTERGEIST
+TO PARTICLE
+Nobel Lecture, December 8, 1995
+
+
+
+FR E D E R I C K RE I N E S
+
+Physics Department, University of California, Irvine, California 92717, USA
+
+
+
+
+The Second World War had a great influence on the lives and careers of very
+many of us for whom those were formative years. I was involved during, and
+then subsequent to, the war in the testing of nuclear bombs, and several of
+us wondered whether this man-made star could be used to advance our
+knowledge of physics. For one thing this unusual object certainly had lots of
+fissions in it, and hence, was a very intense neutrino source. I mulled this
+over somewhat but took no action.
+   Then in 1951, following the tests at Eniwetok Atoll in the Pacific, I decided
+I really would like to do some fundamental physics. Accordingly, I ap-
+proached my boss, Los Alamos Theoretical Division Leader, J. Carson Mark,
+and asked him for a leave in residence so that I could ponder. He agreed, and
+I moved to a stark empty office, staring at a blank pad for several months search-
+ing for a meaningful question worthy of a life’s work. It was a very difficult
+time. The months passed and all I could dredge up out of the subconscious
+was the possible utility of a bomb for the direct detection of neutrinos. After
+all, such a device produced an extraordinarily intense pulse of neutrinos and
+thus the signals produced by neutrinos might be distinguishable from back-
+ground. Some handwaving and rough calculations led me to conclude that
+the bomb was the best source. All that was needed was a detector measuring
+a cubic meter or so. I thought, well, I must check this with a real expert.
+   It happened during the summer of 1951 that Enrico Fermi was at Los
+Alamos, and so I went down the hall, knocked timidly on the door and said,
+“I’d like to talk to you a few minutes about the possibility of neutrino detec-
+tion.” He was very pleasant, and said, “Well, tell me what’s on your mind?”
+I said, “First off as to the source, I think that the bomb is best.” After a
+moment’s thought he said, “Yes, the bomb is the best source.” So far, so
+good! Then I said, “But one needs a detector which is so big. I don’t know
+how to make such a detector.” He thought about it some and said he didn’t
+either. Coming from the Master that was very crushing. I put it on the back
+burner until a chance conversation with Clyde Cowan. We were on our way
+to Princeton to talk with Lyman Spitzer about controlled fusion when the air-
+plane was grounded in Kansas City because of engine trouble. At loose ends
+
+
+                                                                                               203
+
+
+we wandered around the place, and started to discuss what to do that’s inter-
+esting in physics. “Let’s do a real challenging problem,” I said. He said,
+“Let’s work on positronium.” I said, “No, positronium is a very good thing
+but Martin Deutsch has that sewed-up. So let’s not work on positronium.”
+Then I said, “Clyde let’s work on the neutrino.” His immediate response was,
+“GREAT IDEA.” He knew as little about the neutrino as I did but he was a
+good experimentalist with a sense of derring do. So we shook hands and got
+off to working on neutrinos.
+
+
+Need for Direct Detection
+
+Before continuing with this narrative it is perhaps appropriate to recall the
+evidence for the existence of the neutrino at the time Clyde and I started on
+our quest. The neutrino of Wolfgang Pauli[l] was postulated in order to
+account for an apparent loss of energy-momentum in the process of nuclear
+beta decay. In his famous 1930 letter to the Tübingen congress, he stated: “I
+admit that my expedient may seem rather improbable from the first, becau-
+se if neutrons 1 existed they would have been discovered long since.
+Nevertheless, nothing ventured nothing gained... We should therefore be
+seriously discussing every path to salvation.”
+   All the evidence up to 1951 was obtained “at the scene of the crime” so to
+speak since the neutrino once produced was not observed to interact further.
+No less an authority than Niels Bohr pointed out in 1930[2] that no eviden-
+ce “either empirical or theoretical” existed that supported the conservation
+of energy in this case. He was, in fact, willing to entertain the possibility that
+energy conservation must be abandoned in the nuclear realm.
+   However attractive the neutrino was as an explanation for beta decay, the
+proof of its existence had to be derived from an observation at a location
+other than that at which the decay process occurred - the neutrino had to be
+observed in its free state to interact with matter at a remote point.
+   It must be recognized, however, that, independently of the observation of
+a free neutrino interaction with matter, the theory was so attractive in its
+explanation of beta decay that belief in the neutrino as a “real” entity was
+general. Despite this widespread belief, the free neutrino’s apparent unde-
+tectability led it to be described as “elusive, a poltergeist.”
+   So why did we want to detect the free neutrino? Because everybody said,
+you couldn’t do it. Not very sensible, but we were attracted by the challenge.
+After all, we had a bomb which constituted an excellent intense neutrino
+source. So, maybe we had an edge on others. Well, once again being brash,
+but nevertheless having a certain respect for certain authorities, I comment-
+ed in this vein to Fermi, who agreed. A formal way to make some of these
+comments is to say that, if you demonstrate the existence of the neutrino in
+the free state, i.e. by an observation at a remote location, you extend the
+range of applicability of these fundamental conservation laws to the nuclear
+realm. On the other hand, if you didn’t see this particle in the predicted
+
+
+‘When the neutron was discovered by Chadwick, Fermi renamed Pauli’s particle the “neutrino”.
+
+
+204                                Physics 1995
+
+range then you have a very real problem.
+   As Bohr is reputed to have said, “A deep question is one where either a yes
+or no answer is interesting.” So I guess this question of the existence of the
+“free” neutrino might be construed to be deep. Alright, what about the pro-
+blem of detection? We fumbled around a great deal before we got to it.
+Finally, we chose to look for the reaction                    If the free neutri-
+no exists, this inverse beta decay reaction has to be there, as Hans Bethe and
+Rudolf Peierls recognized, and as I’m sure did Fermi, but they had no occa-
+sion to write it down in the early days. Further, it was not known at the time
+whether and were different. We chose to consider this reaction becau-
+se if you believe in what we today call “crossing symmetry” and use the mea-
+sured value of the neutron half life then you know what the cross section has
+to be - a nice clean result. (In fact, as we learned some years later from Lee
+and Yang, the cross section is a factor of two greater because of parity non-
+conservation and the handedness of the neutrino.) Well, we set about to
+assess the problem of neutrino detection. How big a detector is required?
+How many counts do we expect? What features of the interaction do we use
+for signals? Bethe and Peierls in 1934 [3], almost immediately after the Fermi
+paper on beta decay[4], estimated that if you are in the few MeV range the
+cross section with which you have to deal would be ~ l0-44 cm2. To apprecia-
+te how minuscule this interaction is we note that the mean free path is ~ 1000
+light years of liquid hydrogen. Pauli put his concern succinctly during a visit
+to Caltech when he remarked: “I have done a terrible thing. I have postulat-
+ed a particle that cannot be detected.” No wonder that Bethe and Peierls
+concluded in 1934 “there is no practically possible way of observing the neu-
+trino.” [3] I confronted Bethe with this pronouncement some 20 years later
+and with his characteristic good humor he said, “Well, you shouldn’t believe
+everything you read in the papers.”
+
+
+Detection Technique
+According to the Pauli-Fermi theory (1930-1934), the neutrino should be
+able to invert the process of beta decay as shown in Equation (1):
+
+                                                                             (1)
+
+  We chose to focus on the particular reaction
+                                                                             (2)
+
+because of its simplicity and our recognition of the possibility that the scin-
+tillation of organic liquids newly discovered by Kallmann et al. [5] might be
+employed on the large (~1 m3) scale appropriate to our needs. [At the time
+Cowan and I got into the act, a “big” detector was only a liter or so in volu-
+me. Despite the large (> 3 orders of magnitude) extrapolation in detector
+size we were envisioning, it seemed to us an interesting approach worth pur-
+
+
+                                     Frederick Reines                               205
+
+
+suing.] The initial idea was to view a large pot of liquid scintillator with many
+photomultiplier tubes located on its boundary. The neutrinos would then
+produce positrons which would ionize causing light flashes which could be
+sensed by the photomultipliers and converted to electrical pulses for display
+and analysis.
+   The idea that such a sensitive detector could be operated in the close prox-
+imity (within a hundred meters) of the most violent explosion produced by
+man was somewhat bizarre, but we had worked with bombs and felt we could
+design an appropriate system. In our bomb proposal a detector would be sus-
+pended in a vertical vacuum tank in the near vicinity of a nuclear explosion
+and allowed to fall freely for a few seconds until the shock wave had passed
+(Fig. 1). It would then gather data until the fireball carrying the fission frag-
+ment neutrino source ascended skyward. We anticipated a signal consisting
+of a few counts assuming the predicted (~ 10-43 c m2/proton) cross section,
+but background estimates suggested that our sensitivity could not be guar-
+anteed for cross sections < l0-39 cm 2/proton, four orders of magnitude short!
+It is a tribute to the wisdom of Los Alamos Director, Norris Bradbury, that he
+approved the attempt on the grounds that it would nevertheless be            1000
+times as sensitive as the then existing limits.
+   I recall a conversation with Bethe in which he asked how we proposed to
+distinguish a neutrino event from other bomb associated signals. I described
+how, in addition to the use of bulk shielding which would screen out gamma
+
+
+
+                                        NUCLEAR EXPLOSIVE
+
+
+
+                                          -FIREBALL
+
+
+
+
+                                   --               I
+
+
+
+
+Figure 1. Sketch of the originally proposed experimental setup to detect the neutrino
+using a nuclear bomb. This experiment was approved by the authorities at Los Alamos but
+was superceded by the approach which used a fission reactor.
+
+
+206                                  Physics 1995
+
+
+rays and neutrons, we could use the delayed coincidence between the pro-
+duct positron and neutron to identify the neutrino interaction. It was not
+until some months later that Clyde and I recognized this signature would
+drastically reduce other backgrounds so that we were able to use a steady fis-
+sion reactor as a source instead of a bomb. I have wondered since why it took
+so long for us to come to this now obvious conclusion and how it escaped
+others, despite what amounted to a description of its essence as we talked to
+those around us. But of one thing I am certain: the open, free communica-
+tion of our ideas was most stimulating to us and played a significant role in
+our eventual success. We were not inhibited in our communication by the
+concern that someone would scoop us. Neutrino detection was not a popu-
+lar activity in 1952.
+   We sent the following letter to Fermi relating our plan to use a nuclear
+pile.
+
+      October 4. 1952
+
+
+
+      Dear Enrico.
+
+      We thought that you might be interested in the latest version of our
+      experiment to detect the free neutrino, hence this letter. As you recall,
+      we planned to use a nuclear explosion for the source because of back-
+      ground difficulties. Only last week it occurred to us that background pro-
+      blems could be reduced to the point where a Hanford pile would suffi-
+      ce by counting only delayed coincidences between the positron pulse
+      and neutron capture pulse. You will remember that the reaction we plan
+      to use is p t      + β + . Boron loading a liquid scintillator makes it pos-
+      sible to adjust the mean time T between these two events and we are
+      considering T     l0µsec. Our detector is a 10 cubic foot fluor filled cylin-
+      der surrounded by about 90 5819’s operating as two large tubes of 45
+      5819’s each. These two banks of ganged tubes isotropically distributed
+      about the curved cylindrical wall are in coincidence to cut tube noise.
+      The inner wall of the chamber will be coated with a diffuse reflector and
+      in all we expect the system to be energy sensitive, and not particularly
+      sensitive to the position of the event in the fluor. This energy sensitivity
+      will be used to discriminate further against background. Cosmic ray anti-
+      coincidence will be used in addition to mercury and low background
+      lead for shielding against natural radioactivity. We plan to immerse the
+      entire detector in a large borax water solution for further necessary
+      reduction of pile background below that provided by the Hanford
+      shield.
+         Fortunately, the fast reactor here at Los Alamos provides the same leak-
+      age flux as Hanford so that we can check our gear before going to
+      Hanford. Further, if we allow enough fast neutrons from the fast reactor
+
+
+                                      Frederick Reines                                 207
+
+
+    to leak into our detector we can simulate double pulses because of the
+    proton recoil pulse followed by the neutron capture which occurs in this
+    case. We expect a counting rate at Hanford in our detector about six feet
+    from the pile face of ~ 15/min. with a background somewhat lower than
+    this.
+       As you can imagine, we are quite excited about the whole business,
+    have canceled preparations for use of a bomb, and are working like mad
+    to carry out the ideas sketched above. Because of the enormous simpli-
+    fication in the experiment, we have already made rapid progress with the
+    electronic gear and associated equipment and expect that in the next
+    few months we shall be at Hanford reaching for the slippery particle.
+       We would of course appreciate any comments you might care to make.
+
+                            Sincerely,
+
+                            Fred Reines, Clyde Cowan
+
+  That letter elicited the response from Fermi dated Oct. 8, 1952 (Fig. 2):
+
+
+
+
+Figure 2. Letter from Fermi in response to our Oct. 4th letter to him describing our inten-
+tion to use a nuclear pile rather than a bomb for the experiment.
+
+
+208                                Physics 1995
+
+
+      Dear Fred:
+
+      Thank you for your letter of October 4th by Clyde Cowan and yourself.
+      I was very much interested in your new plan for the detection of the neu-
+      trino. Certainly your new method should be much simpler to carry out
+      and have the great advantage that the measurement can be repeated any
+      number of times. I shall be very interested in seeing how your 10 cubic
+      foot scintillation counter is going to work, but I do not know of any rea-
+      son why it should not.
+         Good Luck.
+                             Sincerely yours,
+
+                           Enrico Fermi
+
+Reflecting on the trail that took us from bomb to reactor, it is evident that it
+was our persistence which led us from a virtually impossible experiment to
+one that showed considerable promise. The stage had been set for the detec-
+tion of neutrinos by the discovery of fission and organic scintillators - the
+most important barrier was the generally held belief that the neutrino was
+undetectable.
+
+
+The Hanford Experiment
+
+Our first attempt was made at one of the Hanford Engineering Works reac-
+tors in Hanford, Washington built during the Second World War to produce
+plutonium for the atomic bomb.
+   Viewed from the perspective of today’s computer-controlled kiloton detec-
+tors, sodium iodide crystal palaces, giant accelerators, and several hundred-
+person groups, our efforts to detect the neutrino appear quite modest. In the
+early 1950’s however, our work was thought to be large scale. The idea of
+using 90 photomultiplier tubes and detectors large enough to enclose a
+human was considered to be most unusual. We faced a host of unanswered
+questions. Was the scintillator sufficiently transparent to transmit its light for
+the necessary few meters? How reflective was the paint? Could one add a
+neutron capturer without poisoning the scintillator? Would the tube noise
+and afterpulses from such a vast number of photomultiplier tubes mask the
+signal? And besides, were we not monopolizing the market on photomulti-
+plier tubes?
+   It soon became clear that this new detector designed for neutrinos had
+unusual properties with regard to other particles as well - for instance, neu-
+tron and gamma-ray detection efficiencies near 100 percent. We recognized
+that detectors of this type could be used to study such diverse quantities as
+neutron multiplicities in fission, muon capture, muon decay lifetimes, and
+the natural radioactivity of humans. Incidentally, the detector we designed
+turned out to be big enough so that a person, bent up, could fit in an insert
+
+
+                                   Frederick Reines                              209
+
+
+placed in it. Intrigued, we proceeded to measure the total K40 radioactivity in
+a couple of humans. Prior to this detector development, if you wanted to
+measure the K40 in a human being you had to ash the specimen or reduce
+backgrounds by putting geiger counters deep underground. Incidentally,
+even though it was an excellent neutron as well as gamma ray detector, we
+resisted the temptation to be sidetracked and harvest these characteristics
+for anything other than the neutrino search.
+   Our entourage arrived at Hanford in the spring of 1953. Figure 3 shows
+Clyde and me sitting in front of some of our equipment. What results did we
+
+
+
+
+Figure 3. Photograph of Clyde Cowan (right) and me (left) with some of the equipment
+we used in the Hanford experiment.
+
+
+210                                Physics I995
+
+
+get from this particular reactor experiment? We had a 300 liter liquid scin-
+tillator viewed by 90, 2 inch photomultiplier tubes. Backgrounds were very
+troublesome and we found it necessary to pile and unpile hundreds of tons
+of lead to optimize the shielding. We worked around the clock as we strug-
+gled with dirty scintillator pipes, white reflecting paint that fell from the walls
+under the action of toluene based scintillator and cadmium propionate neu-
+tron capturer, etc., etc. We took the data with reactor on and off and labored
+until we were absolutely exhausted.
+    But despite our efforts, background rates due to cosmic rays and electrical
+noise during reactor off periods frustrated our attempts to achieve the requir-
+ed sensitivity.
+    After a few months of operation we concluded that we had done all we
+could in the face of an enormous reactor-independent background. We tur-
+ned off the equipment and took the train back to Los Alamos.
+    On the way home we analyzed the data. We had checked by means of neu-
+tron sources and shielding tests that the trace of a signal, 0.4 ± 0.2
+events/min., wasn’t just due to reactor neutrons leaking into the detector.
+These marginal results merely served to whet our appetites - we figured that
+we had to do better than that.
+    Back home we puzzled over the origin of the reactor-independent signal.
+Was it due to “natural” neutrinos? Could it be due to fast neutrons from the
+nuclear capture of cosmic-ray muons? The easiest way to find out was to put
+the detector underground. So back at Los Alamos we performed an under-
+ground test that showed that the background was in fact from cosmic rays.
+While we were engaged in this background test, some theorists were ru-
+mored to be constructing a world made predominantly of neutrinos!
+
+
+
+
+The Savannah River Experiment
+
+Encouraged by the Hanford results, we considered how it might be possible
+to build a detector which would be even more discriminating in its rejection
+of background. We were guided by the fact that neutrons and positrons were
+highly distinctive particles and that we could make better use of their char-
+acteristics.
+    Figure 4 is a schematic of the detection technique used in the new expe-
+riment. An antineutrino from fission products in the reactor is incident on a
+water target containing cadmium chloride. As previously noted, the         +p
+reaction produces a positron and a neutron. The positron slows down and is
+annihilated with an electron, producing two 0.5 MeV gamma rays, which
+penetrate the water target and are detected in coincidence by two large scin-
+tillation detectors on opposite sides of the target. The neutron is slowed
+down by the water and captured by the cadmium, producing multiple
+gamma rays, which are also observed in coincidence by the two scintillation
+detectors. The antineutrino signature is therefore a delayed coincidence be-
+
+
+                                       Fredrick Reines                                   211
+
+
+
+
+                                                         scintillation
+                                                           detector
+
+
+Figure 4. Schematic of the detection scheme used in the Savannah River experiment. An
+antineutrino from the reactor interacts with a proton in the target, creating a positron
+and a neutron. The positron annihilates on an electron in the target and creates two
+gamma rays which are detected by the liquid scintillators. The neutron slows down (in
+about 10 microseconds) and is captured by a cadmium nucleus in the target; the resulting
+gamma rays are detected in the liquid scintillators.
+
+tween the prompt pulses produced by e + annihilation and those produced
+microseconds later by the neutron capture in cadmium.
+   These ideas were translated into hardware and associated electronics with
+the help of various support groups at Los Alamos. Figure 5 is a sketch of the
+equipment. It shows the target chamber in the center, sandwiched between
+
+
+
+
+Figure 5. A sketch of the equipment used at Savannah River. The tanks marked I, II, and
+III contained 1400 liters of liquid scintillator solution, and were viewed on each end by 55
+photomultiplier tubes. The thin tanks marked A and B were polystyrene and contained
+200 liters of water, which provided the target protons and contained as much as 40 kilo
+grams of dissolved CdC12 to capture the product neutrons.
+
+
+212                                  Physics 1995
+
+
+the two scintillation chambers. Figure 6 shows one of the banks of 55 phot-
+omultiplier tubes that was used to view the scintillation chambers. Then, in
+the Fall of 1955 at the suggestion and with the moral support of John A.
+Wheeler, the detector was taken to a new, powerful (700 MW at that time),
+compact heavy water moderated reactor at the Savannah River Plant in
+Aiken, South Carolina.
+
+
+
+
+Figure 6. A photograph of one of the banks of phototubes which viewed a liquid scintil-
+lator box. (See Fig. 5)
+
+   The Savannah River reactor was well suited for neutrino studies because of
+the availability of a well shielded location 11 meters from the reactor center
+and some 12 meters underground in a massive building. The high            flux,
+1.2 x l0 /cm sec, and reduced cosmic ray background were essential to the
+        13    2
+
+
+
+success of the experiment which even under those favorable conditions
+involved a running time of 100 days over the period of approximately one
+year.
+
+
+Observation of the Neutrino
+
+  At Savannah River we carried out a series of measurements to show
+that: [6]
+  a) The reactor-associated delayed coincidence signal was consistent with
+theoretical expectation.
+  b) The first pulse of the delayed coincidence signal was due to positron
+annihilation.
+
+
+                                        Frederick Reines                     213
+
+   c) The second pulse of the delayed coincidence signal was due to neutron
+capture.
+   d) The signal was a function of the number of target protons.
+   e) Radiation other than neutrinos was ruled out as the cause of the signal
+by means of an absorption experiment.
+   Our standard of proof was that every test must yield the anticipated result
+for us to conclude that we were observing the Pauli-Fermi neutrino. An
+unanticipated result would imply either experimental error or the need to
+modify our view of the neutrino.
+
+
+
+Signal Rate
+A reactor-associated correlated signal rate of 3.0 0.2 events per hour was
+observed. This represented a very favorable set of signal to background
+ratios: signal to total accidental background of 4/l, signal to correlated (as
+in neutron capture) reactor-independent background 5/l, and signal to
+reactor-associated accidental background > 25/1. Determining the positron
+and the neutron detection efficiencies with radioactive sources and using the
+crudely known            we found the cross-section for fission     protons to
+be
+
+
+
+
+First and Second Pulses
+The first pulse of the delayed coincidence pair was shown to be due to a posi-
+tron by varying the thickness of a lead sheet interposed between the water
+target and one of the liquid scintillators, so reducing the positron detection
+efficiency in one of the detector triads but not in the others. The signal dimi-
+nished as expected in the leaded triad but remained unchanged in the triad
+without lead. A further check provided by the spectrum of first pulses sho-
+wed better agreement with that from a positron test source than with the
+background.
+   The second pulse was shown to be due to a neutron by varying the cad-
+mium concentration in the target water. As expected for neutrinos, removal
+of the cadmium totally removed the correlated count rate, giving a rate
+above accidentals of 0.2 0.7/hour. The spectrum of time intervals between
+the first and second pulses agreed with that expected for neutron capture
+gamma rays. A false pulse sequence in which neutrons also produced the first
+pulse was ruled out by use of a neutron source which showed that fast neu-
+trons cause primarily an increase in accidental rather than correlated rates,
+a fact incompatible with the observed reactor-associated rates noted above.
+
+2
+    This was the preparity prediction
+
+
+214                                  Physics 1995
+
+
+Signal as a Function of Target Protons
+
+The number of target protons was changed without drastically altering the
+detection efficiency of the system for both background and for          events.
+This was accomplished by mixing light and heavy water in approximately
+equal parts. The measured rate for the diluted target was 0.4 ± 0.1 of that for
+100% H 20, a number to be compared with the expected value of 0.5.
+
+
+Absorption Test
+
+The only known particles, other than          produced by the fission process,
+were discriminated against by means of a gamma-ray and neutron shield.
+When a bulk shield measured to attenuate gamma rays and neutrons by at
+least an order of magnitude was added, the signal was observed to remain
+constant; that is the reactor-associated signal was 1.74 ± O.12/hour with, and
+1.69 ± 0.17/hour without the shield.
+
+
+Telegram to Pauli
+
+The tests were completed and we were convinced[7]. It was a glorious feeling
+to have participated so intimately in learning a new thing, and in June of
+1956 we thought it was time to tell the man who had started it all when, as a
+young fellow, he wrote his famous letter in which he postulated the neutrino,
+saying something to the effect that he couldn’t come to a meeting and tell
+them about it in person because he had to go out to a dance!
+   The message, Fig. 7, was forwarded to him at CERN, where he interrupted
+the meeting he was attending to read the telegram to the conferees and then
+
+
+
+
+Figure 7. The telegram to Pauli which told of our detection of the neutrino at Savannah
+River. The contents of this message is quoted in the text.
+
+
+                                      Frederick Reines                              215
+
+
+made some impromptu remarks regarding the discovery. That message
+reads, “We are happy to inform you that we have definitely detected neutri-
+nos from fission fragments by observing inverse beta decay of protons.
+Observed cross section agrees well with expected six times ten to minus forty
+four square centimeters.” We learned later that Pauli and some friends con-
+sumed a case of champagne in celebration!
+   Many years later (~ 1986) C.P. Enz, a student of Pauli’s, sent us a copy of a
+night letter Pauli wrote us in 1956, but which never arrived. It is shown in Fig.
+8 and says, “Thanks for the message. Everything comes to him who knows
+how to wait. Pauli"
+
+
+
+
+Figure 8. The night letter Pauli sent in response to our message shown in Fig. 7.
+
+   The quest was completed, the challenge met. There was, however, some-
+thing missing-independent verification by other workers. As it turned out we
+were, in fact, correct but it took some eight years for this check to occur as a
+by-product of neutrino experiments at accelerators[B]. I suspect that the
+unseemly delay was largely due to the fact that our result was not unex-
+pected.
+   Some twenty years later stimulated by the possibility of neutrino oscilla-
+tions other groups also observed       + p at reactors[9].
+
+
+What Next?
+
+Having detected the neutrino the question arose, what next? What, as Luis
+Alvarez wrote me at the time, did we propose to do as an encore? A survey of
+the old notebooks indicated a variety of possibilities ranging from a study of
+the neutrino itself to its use as a tool in probing the weak interaction.
+
+
+216                                    Physics 1995
+
+Neutrino-electron elastic scattering
+One question I found particularly fascinating was: Did the neutrino possess
+a direct elastic scattering interaction with electrons
+
+                                                                                (3)
+
+e.g. via a magnetic moment? This question had great appeal for a variety of
+reasons which were not entirely sensible. First, there was no theoretical guide
+to suggest that such a reaction between two of nature’s “simplest” particles
+occurred and second, reminiscent of the earlier conversation with Fermi
+regarding bomb neutrinos, I had no idea how to construct a suitable detec-
+tor. Despite these excellent reasons for choosing a more sensible problem I
+decided to work on it.
+   The essence of the detection problem was to distinguish an electron pro-
+duced by the imagined elastic scattering process from an electron produced
+by gamma rays or beta emitters. This sorting out of such a non-descript pro-
+cess occupied me, and a succession of colleagues, for some twenty years [10].
+The key to the solution was the recognition (1959) that if one chose a low Z
+medium most of the gamma ray background would arise from Compton
+recoil electrons, whereas a scattering would occur only once. It was there-
+fore possible, in principle, to construct a detector in which spatial anticoin-
+cidences of the sequential Compton electrons would be discriminated
+against, thus reducing this source of background. While this idea was being
+translated to experimental reality and then eventual detection, various theo-
+retical developments took place in weak interaction physics. As the theorists
+labored they made predictions ranging from vague qualitative guesses about
+magnetic moments (1934) to statements that the interaction was zero[ll]
+ (1957), that it was given by VA (1958) [12] and that it is undefined. The situ-
+ation had finally settled down by 1976 to a specific prediction with the advent
+of the Weinberg, Salam, Glashow theory.
+   That same year marked the end of our intense 20 year effort [13]. The neu-
+trino-electron elastic scattering process has the smallest cross section of any
+process ever measured. The measurement also provided one of the earliest
+determinations of the weak mixing, or Weinberg, angle; it was only 1.2 stan-
+dard deviations from the current world average.
+   Once again, as in the case of the inverse beta decay process, even prior to
+experimental verification of the elastic scattering reaction, theorists, in particu-
+lar astrophysicists, assumed its existence and used it in building stellar models.
+   I find it interesting to contemplate the possible consequences of a closer
+coupling between theory and experiment in this case. If I had required a the-
+ory in the first place I would not have started to consider the scattering expe-
+riment when I did. If I had followed the theorists peregrinations I would have
+sacrificed the steadfastness of purpose which eventually led to the solution.
+This is not to say that experimentalists should proceed independently of the-
+ory, but it does suggest that the coupling should not be too tight.
+
+
+                                      Frederick Reines                        217
+
+Neutrino interactions with deuterons
+In 1956 we also began another lengthy search; this one was for the interac-
+tions of reactor neutrinos with deuterons. In 1969 we finally observed[l4]
+the so-called “charged-current” reaction         + d     +         and in
+1979[15] the “neutral-current” reaction        d              The neutral-
+current reaction had been previously discovered at an accelerator at CERN
+in 1973 with muon neutrinos, but it was nevertheless most gratifying to see
+that     exhibited the expected behaviour.
+
+Detection of atmospheric neutrinos
+In the early 1960’s many authors[16] had calculated the flux of high-energy
+neutrinos expected to arise from the decay of K and mesons and muons
+produced in the earth’s atmosphere by the interaction of primary cosmic
+ rays. A major experimental question was, How does one detect these atmos-
+ pheric neutrinos? The only practical method seemed to be to detect the
+ muons produced by the neutrinos in one of their rare interactions with mat-
+ ter. But this meant that one would have to place a detector deep under-
+ ground to reduce the major background, the flux of muons produced direct-
+ ly in the atmosphere.
+    So in 1963 we started construction of a detector some 2 miles under-
+ ground in the East Rand Proprietary gold mine near Johannesburg, South
+Africa. The design and construction of what was then the world’s largest par-
+ ticle detector - a 180 ft. long, 20 ton segmented scintillation detector
+ array - took a surprisingly short time, about one year. This experiment was a
+ collaboration between Case Institute of Technology, Cleveland, Ohio (now
+ Case-Western Reserve University) and the University of the Witwatersrand,
+Johannesburg.
+    On February 23, 1965, the first “natural” (meaning it did not arise from
+ a man-made nuclear reactor) neutrino was discovered. In all, 167 such events
+were recorded.
+
+Neutrino stability and oscillations
+When we first turned on our detector at Savannah River in the Fall of 1955
+no signals were observed. As we checked our apparatus, a desperate thought
+crossed our minds: the neutrino might be emitted from fission but did not
+survive the 11 meter journey from the reactor to our detector. Perhaps the
+neutrino was unstable! A moment of excitement ensued until we made some
+adjustments in our apparatus and neutrino-like signals began to appear. The
+consequence of these errors resulted in a notebook entry which suggested
+making a check of the inverse square law dependence of the neutrino signals
+on the distance from reactor to detector. But in any event we had no the-
+oretical basis at that time for questioning the stability of the neutrino and were
+reminded once again that experiment was the final arbiter in these matters.
+
+
+    I found the idea of neutrino instability to be a “repulsive” thought but
+ nevertheless proceeded to imagine what sorts of decay products there might
+ be if the neutrino was, in fact, unstable. In 1974 we measured a         lifetime
+ limit[17]. That experiment looked for the radiative decay of the neutrino at
+ a nuclear reactor.
+    Early on it had been suggested by Pontecorvo and by Nakagawa et al. [18]
+ that the neutrino may oscillate from one flavor to another as it travels from
+ its place of origin. A graphic analogy is the change of character from dog to
+ cat: Imagine at time zero a dog leaving his house to walk down the street to
+ another dog house at the end of the block. As he progresses down the street
+ a transformation takes place - his appearance gradually changes (à la Escher)
+ from that of a dog to that of a cat! Halfway down the block the transforma-
+ tion is complete and the erstwhile dog - now a cat - continues on its feline
+journey. But the transformation goes on and, mirabile dictu, upon arrival at
+ the dog house the erstwhile dog turned cat is once again a dog. If such bizar-
+ re behaviour is observed to occur in neutrinos it would provide evidence of
+ the neutrino’s structure. Neutrinos of all types would be construed to be
+ built out of common building blocks whose rearrangements en route would
+ give rise to observably different combinations.
+    There have been many searches for neutrino oscillations. The first expe-
+ riment to report on neutrino oscillations was performed in 1979, but it was
+ in no sense definitive; it was the same experiment in which we reported the
+ first measurement of the neutrino-deuteron neutral current cross sec-
+ tion [15]. Since the neutral-current reaction may be initiated by neutrinos of
+ any flavor, whereas the charged-current reaction may be initiated only
+ by v ’s, taking the ratio of the charged- to neutral-current cross sections is a
+    e
+
+
+ sensitive test for neutrino oscillations where the oscillations occur with a
+ wavelength short enough that the oscillation process has reached equilibri-
+ um before reaching the detector location. The results of that 1979 experi-
+ ment suggested that such oscillations might occur.
+
+
+Other Neutrino Physics Experiments
+
+It must be emphasized that this grand endeavor, which we now call Neutrino
+Physics, is being carried out by many groups. Even in 1970 there were
+several such groups around the world, some using nuclear reactors, some
+high-energy accelerators, and others cosmic rays.
+   We list here only a few of the salient results that they have obtained:
+   In 1961 the muon-neutrino was identified in an experiment at the
+Brookhaven AGS [19], and this marked the beginning of the fruitful use of
+high-energy neutrino beams at accelerators.
+   In 1973, at CERN, vµ-e elastic scattering was observed[20], and with it the
+landmark discovery of weak neutral currents.
+   Since the late 70’s great progress has been made in studying nucleon
+structure functions by looking at the deep inelastic scattering of neutrinos
+
+
+                                   Frederick Reines                            219
+
+
+and antineutrinos on nucleons. These studies are complementary to the
+deep inelastic electron and muon studies because the neutrinos couple to
+the nuclear constituents in a different manner and, due to parity noncon-
+servation, they can distinguish quarks from antiquarks.
+   Searches for vacuum oscillations have been performed at reactors and
+accelerators, and since the mid 80’s matter oscillations have been looked for
+in solar neutrinos and atmospheric neutrinos. To date there is no definitive
+evidence for neutrino oscillations.
+   Supernova 1987A was a windfall for neutrino physics[21]. Conventional
+supernova theory predicts that a supernova such as 1987A yields 3 x l0 53 ergs
+(99% of its gravitational binding energy) in a burst of l058 neutrinos in a
+few seconds. On earth 19 low-energy neutrino events were observed in two
+large               detectors each containing several kilotons of water. All of the
+events were recorded within about 10 seconds; the background event rate
+was only a few per day [22] !
+   Many determinations of neutrino properties were extracted from the
+supernova data. These include neutrino mass, charge, lifetime, magnetic
+moment, number of flavors, etc. In addition some of the most basic elements
+of supernova dynamics were studied and found to be in surprisingly good
+agreement with predictions. One interesting consequence was the testing of
+the Einstein Equivalence Principle. The fact that the fermions (neutrinos)
+and bosons (photons) reached the Earth within 3 hours of each other pro-
+vides a unique test of the equivalence principle of general relativity. The
+observation proved that the neutrinos and the first recorded photons are
+affected by the same gravitationally-induced time delay within 0.5% [23].
+   And while describing neutrinos arriving at the earth from the cosmos, we
+want to recall the intriguing history of the study of solar neutrinos. After 20
+years of observation by Ray Davis and others, and now with four detectors
+reporting, it appears that the number of neutrinos arriving at the earth from
+the sun is significantly less than that expected from the standard solar model
+ [24]. We are not yet sure whether this is telling us something about the sun
+or something about the properties of the neutrino.
+   During the latter part of the 1980’s several determinations of the number
+of light neutrino flavors were made. The values were derived from many
+sources including: cosmological limits, supernova 1987A neutrinos, pp col-
+liders, and e + e - colliders. By the end of the decade it was clear that there
+are only three families of light neutrinos[25].
+   Surely the longest series of experiments in neutrino physics concerns the
+attempt to measure the mass of the neutrino. These studies started in 1930
+with Pauli’s initial estimate that: “The mass of the neutron (neutrino) should
+be of the same order of magnitude as that of the electron and in any event
+no greater than 0.01 of the proton mass.” Since then many techniques have
+been used: nuclear beta decay (especially tritium), Supernova 1987A, cos-
+mological constraints, radiative nucleon capture of electrons and, for the
+mu- and tau-neutrinos, particle decays.
+
+
+220                                    Physics 1995
+
+
+The Future of Neutrino Physics
+
+The formative years of neutrino physics have been extraordinarily fruitful.
+But with all of the important accomplishments, are there any things left for
+the future? Most definitely yes.
+   We will continue to see more precise measurements of all of the neutri-
+no’s intrinsic properties, of course. In addition, from searches for neutrino-
+less double-beta decay[26] we may soon have an answer to a most funda-
+mental question: is the neutrino Majorana or Dirac?
+   Also we are all anxiously awaiting the discovery of the tau neutrino, as sig-
+naled by its detection at a point remote from its origin.
+   There are also several outstanding issues having to do with astrophysics
+and cosmology. For instance: Are neutrinos an important component of the
+Dark Matter? And wouldn’t it be exciting if someone could figure out how
+to observe the relic neutrinos left over from the Big Bang!
+   As large neutrino telescopes are constructed over the next few years, we
+may finally see neutrinos coming from cosmic sources such as other stars
+and active galactic nuclei.
+   I don’t think it is too much to hope that we will see a resolution to the
+solar neutrino puzzle in the next few years. And, if we are lucky, those same
+detectors which will be looking for solar neutrinos may see a supernova or
+two.
+   I am confident that the future of neutrino physics will be as exciting and
+fruitful as the past has been.
+
+
+Acknowledgements
+
+My activities over the past 40 years could not possibly have been accomplish-
+ed by myself alone. They have required the dedicated and tireless support
+of many talented coworkers. One in particular I must mention - my very
+good friend and colleague Clyde Cowan, who was an equal partner in the
+experiments to discover the neutrino. I regret that he did not live long
+enough to share in this honor with me. I also wish to thank the personnel at
+the Savannah River Site, and their managers, first the DuPont Corp. and
+later Westinghouse Corp., for their continued hospitality, interest, and good-
+natured tolerance over 35 years. The hospitality of Morton-Thiokol in their
+Fairport Mine for about 30 years is also gratefully acknowledged. The sup-
+port of the U.S. Department of Energy, and its predecessors beginning with
+the U.S. Atomic Energy Agency, are most gratefully acknowledged.
+
+
+R EF E R E N C E S
+
+  [l] Pauli, W., Jr. Address to Group on Radioactivity (Tübingen, December 4, 1930) (un-
+      published); Rappts. Septiems Conseil Phys. Solvay, Bruxelles, 1933 (Gautier-Villars,
+      Paris 1934).
+  [2] N. Bohr, J. Chem. Soc. 349 (1932).
+  [3] Bethe, H.A. and Peierls, R.E., Nature 133, 532 (1934).
+
+
+                                        Frederick Reines                                    221
+
+
+ [4] Fermi, E., Z. Physik, 88, 161 (1934).
+  [5] Kallmann, H. Phys. Rev. 78, 62 (1950). Agena, M., Chiozotto, M., Querzoli, R., Atti
+      Acad. Naz. Lincei Cl. Sri. Fis. Mat. Nat. Rend. 6, 626 (1949); Reynolds, G.T.,
+      Harrison, F.B., Salvini, G., Phys. Rev. 79 720 (1950).
+ [6] Reines, F. et al., Phys. Rev. 117, 159-173 (1960).
+  [7] Cowan, CL. Jr., Reines, F., Harrison, F.B., Kruse, H.W., McGuire, A.D., Science 124,
+      103 (1956).
+  [8] Block, M.M., Burmeister, H., Cundy, D.C., Eben, B., Franzinetti, E., Keren, J.,
+      Mollerud, R., Myatt, G., Nikolic, M., Lecourtois, A.O., Paty, M., Perkins, D.H., Ramm,
+      C., Schultze, K., Sletten, H., Soop, K., Stump, R., Venus, W., Yoshiki, H., Phys. Lett.
+      12, 281 (1964); Bienlein, ,J.K., Bohm, A., Von Dardel, G., Faissner, H., Ferrero, F.,
+      Gaillard, J.M., Gerber, HJ., Helm, B., Kaftanov, V., Krienen, F., Reinharz, R.A., Seiler,
+      P.G., Staude, A., Stein, J., Steiner, H.J., Phys. Lett. 13, 80 (1964).
+  [9] Reines, F., Sobel, H.W. and Pasierb, E., Phys. Rev. Lett. 45, 1307 (1980); Boehm, F.,
+      Cavaignac, J.F., Feilitzsch, F.V., Hahn, A., Henrikson, H.E., Koang, D.H., Kwon, H.,
+      Mossbauer, R.L., Vignon, B., Vuilleumeir, J.L., Physics Letters, 97B, 310 (1980).
+[10] Reines, F., Ann. Rev. Nucl. Sci. 10, 1 (1960).
+[11] Salam, A. Nuovo Cimento, 5, 299 (1957).
+[12] Feynman, R.P. and Gell-Mann, M. Phys. Rev. 109, 193 (1958); Marshak, R.E. and
+      Sudarshan, G. ibid 109 1860 (1958).
+[13] Reines, F., Gurr, H.S., Sobel, H.W., Phys. Rev. Lett. 37, 315 (1976).
+[14] Jenkins, T.L., Kinard, F.E., and Reines, F. Phys. Rev. 185, 1599 (1969).
+[15] Pasierb, E., Gurr, H.S., Lathrop, J., Reines, F., and Sobel, H.W., Phys. Rev. Lett. 43, 96
+      (1979)
+[16] K. Greisen, Proceedings of the International Conference on Instrumentation for High Energy
+      Physics, Berkely, California, September 1960     (Interscience Publishers, Inc., New York,
+      1961), p. 209; M. A. Markov and I. M. Zheleznykh, Nucl. Phys. 27, 385 (1961); G. T.
+      Zatsepin and V. A. Kuzmin, Zh. Eksperim. i Theor. Fiz. 41, 1919 (1961) [translation:
+      Soviet Physics.-JETP 14, 1294 (1962)]; R. Cowsic, Proceedings of the Eighth
+      Internat.. Conf. on Cosmic Rays, Jaipur, India, December 1963, edited by R. R.
+      Daniels, et al.
+[17] Reines, F., Sobel, H.W., and Gurr, H.S., Phys. Rev. Lett. 32, 180 (1974).
+[18] Pontecorvo, B., Zh. Eksp. Teor. Fiz 53, 1717 (1967) (Sov. Phys. J.E.T.P. 26, 984
+      (1968)); Nakagawa, M., Okonogi, H., Sakata, S., Toyoda, A. Prog. Theor. Phys. 30,
+      727 (1963).
+[19] Danby, G., Gaillard, J.M., Goulianios, K., Lederman, L.M., Mistry, N., Schwartz, M.,
+      Steinberger, J., Phys. Rev. Lett. 9, 36 (1961);
+[2O] Hasert, FJ. et al., Phys. Lett. 46B 121 (1973).
+[21] Kielczewska, D., Int. Jour. of Mod. Phys. D, 3, 331 (1994).
+[22] Bionta, R.M. et al., Phys. Rev. Lett. 58, 1494 (1987); Hirata, K. et al., Phys. Rev. Lett.
+      58, 1490 (1987).
+[23] Longo, M.J., Phys. Rev. Lett. 60, 173 (1988); Krauss, L.M. and Tremaine, S., Phys. Rev.
+      Lett. 60, 176 (1988).
+[24] Bahcall, J.N., Lande, K., Lanou, R.E., Learned, .J.G., Robertson, R.G.H., and
+      Wolfenstein, L., Nature 375, 29 (4 May 1995).
+[25] See for example: Denegri, D. and Martinelli, G., in Neutrino physics, K. Winter (ed.),
+      Cambridge Monographs on Particle Physics, Nuclear Physics, and Cosmology,
+      Cambridge University Press (1991).
+[26] Moe, M. and Vogel, P., Annu. Rev. Nucl. Part. Sci. 44, 247 (1994).
+

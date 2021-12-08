@@ -1,0 +1,1127 @@
+ONE HUNDRED YEARS OF LIGHT QUANTA
+Nobel Lecture, December 8, 2005
+by
+Roy J. Glauber
+Harvard University, 17 Oxford Street, Lyman 331, Cambridge, MA 02138, USA.
+
+
+
+
+It can’t have escaped you, after so many recent reminders, that this year
+marks the one hundredth birthday of the light quantum. I thought I would
+tell you this morning a few things about its century long biography. Of course
+we have had light quanta on earth for eons, in fact ever since the good Lord
+said “let there be quantum electrodynamics” – which is a modern translation,
+of course, from the biblical Aramaic. So in this talk I’ll try to tell you what
+quantum optics is about, but there will hardly be enough time to tell you of
+the many new directions in which it has led us. Several of those are directions
+that we would scarcely have anticipated as all of this work started.
+   My own involvement in this subject began somewhere around the middle
+of the last century, but I would like to describe some of the background of
+the scene I entered at that point as a student. Let’s begin, for a moment,
+even before the quantum theory was set in motion by Planck. It is important
+to recall some of the remarkable things that were found in the 19th century,
+thanks principally to the work of Thomas Young and Augustin Fresnel. They
+established within the first 20 years of the 19th century that light is a wave
+phenomenon, and that these waves, of whatever sort they might be, interpene-
+trate one another like waves on the surface of a pond. The wave displace-
+ments, in other words, add up algebraically. That’s called superposition,
+and it was found thus that if you have two waves that remain lastingly in step
+with one another, they can add up constructively, and thereby reinforce one
+another in some places, or they can even oscillate oppositely to one another,
+and thereby cancel one another out locally. That would be what we call de-
+structive interference.
+   Interference phenomena were very well understood by about 1820. On
+the other hand it wasn’t at all understood what made up the underlying
+waves until the fundamental laws of electricity and magnetism were gathered
+together and augmented in a remarkable way by James Clerk Maxwell, who
+developed thereby the electrodynamics we know today. Maxwell’s theory
+showed that light waves consist of oscillating electric and magnetic fields.
+The theory has been so perfect in describing the dynamics of electricity and
+magnetism over laboratory scale distances, that it has remained precisely
+intact. It has needed no fundamental additions in the years since the 1860’s,
+apart from those concerning the quantum theory. It serves still, in fact, as the
+basis for the discussion and analysis of virtually all the optical instrumenta-
+
+                                                                             75
+
+
+tion we have ever developed. That overwhelming and continuing success
+may eventually have led to a certain complacency. It seemed to imply that the
+field of optics, by the middle of the 20th century, scarcely needed to take any
+notice of the granular nature of light. Studying the behavior of light quanta
+was then left to the atomic and elementary particle physicists – whose inter-
+ests were largely directed toward other phenomena.
+   The story of the quantum theory, of course, really begins with Max Planck.
+Planck in 1900 was confronted with many measurements of the spectral
+distribution of the thermal radiation that is given off by a hot object. It was
+known that under ideally defined conditions, that is for complete (or black)
+absorbers and correspondingly perfect emitters this is a unique radiation
+distribution. The intensities of its color distribution, under such ideal condi-
+tions, should depend only on temperature and not at all on the character
+of the materials that are doing the radiating. That defines the so-called
+black-body distribution. Planck, following others, tried finding a formula
+that expresses the shape of that black-body color spectrum. Something of its
+shape was known at low frequencies, and there was a good guess present for
+its shape at high frequencies.
+   The remarkable thing that Planck did first was simply to devise an empiri-
+cal formula that interpolates between those two extremes. It was a relatively
+simple formula and it involved one constant which he had to adjust in order
+to fit the data at a single temperature. Then having done that, he found his
+formula worked at other temperatures. He presented the formula to the
+Germany Physical Society1 on October 19, 1900 and it turned out to be suc-
+cessful in describing still newer data. Within a few weeks the formula seemed
+to be established as a uniquely correct expression for the spectral distribu-
+tion of thermal radiation.
+   The next question obviously was: did this formula have a logical derivation
+of any sort? There Planck, who was a sophisticated theorist, ran into a bit of
+trouble. First of all he understood from his thermodynamic background that
+he could base his discussion on nearly any model of matter, however oversim-
+plified it might be, as long as it absorbed and emitted light efficiently. So he
+based his model on the mechanical system he understood best, a collection
+of one-dimensional harmonic oscillators, each of them oscillating rather like
+a weight at the end of a spring. They had to be electrically charged. He knew
+from Maxwell exactly how these charged oscillators interact with the electro-
+magnetic field. They both radiate and absorb in a way he could calculate. So
+then he ought to be able to find the equilibrium between these oscillators
+and the radiation field, which acted as a kind of thermal reservoir – and
+which he never made any claim to discuss in detail.
+   He found that he could not secure a derivation for his magic formula for
+the radiation distribution unless he made an assumption which, from a philo-
+sophical standpoint, he found all but unacceptable. The assumption was that
+the harmonic oscillators he was discussing had to possess energies that were
+distributed, not as the continuous variables one expected, but confined in-
+stead to discrete and regularly spaced values. The oscillators of frequency ν
+
+76
+
+
+would have to be restricted to energy values that were integer multiples, i.e.
+n-fold multiples (with n = 0, 1, 2, 3…) of something he called the quantum
+of energy, hν.
+   That number h was, in effect, the single number that he had to introduce
+in order to fit his magic formula to the observed data at a single tempera-
+ture. So he was saying, in effect, that these hypothetical harmonic oscilla-
+tors representing a simplified image of matter could have only a sequence
+amounting to a “ladder” of energy states. That assumption permits us to see
+immediately why the thermal radiation distribution must fall off rapidly with
+rising frequency. The energy steps between the oscillator states grow larger,
+according to his assumption, as you raise the frequency, but thermal excita-
+tion energies, on the other hand, are quite restricted in magnitude at any
+fixed temperature. High frequency oscillators at thermal equilibrium would
+never even reach the first step of excitation. Hence there tends to be very
+little high frequency radiation present at thermal equilibrium. Planck pre-
+sented this revolutionary suggestion2 to the Physical Society on December
+14, 1900, although he could scarcely believe it himself.
+   The next great innovation came in 1905 from the young Albert Einstein,
+employed still at the Bern Patent Office. Einstein first observed that Planck’s
+formula for the entropy of the radiation distribution, when he examined its
+high frequency contributions, looked like the entropy of a perfect gas of free
+particles of energy hν. That was a suggestion that light itself might be discrete
+in nature, but hardly a conclusive one.
+   To reach a stronger conclusion he turned to an examination of the photo-
+electric effect, which had first been observed in 1887 by Heinrich Hertz.
+Shining monochromatic light on metal surfaces drives electrons out of the
+metals, but only if the frequency of the light exceeds a certain threshold
+value characteristic of each metal. It would have been most reasonable to
+expect that as you shine more intense light on those metals the electrons
+would come out faster, that is with higher velocities in response to the strong-
+er oscillating electric fields – but they don’t. They come out always with the
+same velocities, provided that the incident light is of a frequency higher than
+the threshold frequency. If it were below that frequency there would be no
+photoelectrons at all.
+   The only response that the metals make to increasing the intensity of light
+lies in producing more photoelectrons. Einstein had a naively simple expla-
+nation for that.3 The light itself, he assumed, consists of localized energy
+packets and each possesses one quantum of energy. When light strikes the
+metal, each packet is absorbed by a single electron. That electron then flies
+off with a unique energy, an energy which is just the packet energy hν minus
+whatever energy the electron needs to expend in order to escape the metal.
+   It took until about 1914–16 to secure an adequate verification of Einstein’s
+law for the energies of the photoelectrons. When Millikan succeeded in doing
+that, it seemed clear that Einstein was right, and that light does indeed consist
+of quantized energy packets. It was thus Einstein who fathered the light quan-
+tum, in one of the several seminal papers he wrote in the year 1905.
+
+                                                                              77
+
+
+  To follow the history a bit further, Einstein began to realize in 1909 that
+his energy packets would have a momentum which, according to Maxwell,
+should be their energy divided by the velocity of light. These presumably
+localized packets would have to be emitted in single directions if they were
+to remain localized, or to constitute “Nadelstrahlung” (needle radiation),
+very different in behavior from the broadly continuous angular distribution
+of radiation that would spread from harmonic oscillators according to the
+Maxwell theory. A random distribution of these needle radiations could look
+appropriately continuous, but what was disturbing about that was the ran-
+domness with which these needle radiations would have to appear. That was
+evidently the first of the random variables in the quantum theory that began
+disturbing Einstein and kept nettling him for the rest of his life.
+  In 1916 Einstein found another and very much more congenial way of
+deriving Planck’s distribution by discussing the rate at which atoms radiate.
+Very little was known about atoms at that stage save that they must be capable
+of absorbing and giving off radiation. An atom lodged in a radiation field
+would surely have its constituent charges shaken by the field oscillations,
+and that shaking could lead either to the absorption of radiation or to the
+emission of still more radiation. Those were the processes of absorption or
+emission induced by the prior presence of radiation. But Einstein found that
+thermal equilibrium between matter and radiation could only be reached if,
+in addition to these induced processes, there exists also a spontaneous pro-
+cess, one in which an excited atom emits radiation even in the absence of any
+prior radiation field. It would be analogous to radioactive decays discovered
+by Rutherford. The rates at which these processes take place were governed
+by Einstein’s famous B and A coefficients respectively. The existence of spon-
+taneous radiation turned out to be an important guide to the construction of
+quantum electrodynamics.
+  Some doubts about the quantized nature of light inevitably persisted,
+but many of them were dispelled by Compton’s discovery in 1922 that x-ray
+quanta are scattered by electrons according to the same rules as govern the
+collisions of billiard balls. They both obey the conservation rules for energy
+and momentum in much the same way. It became clear that the particle pic-
+ture of light quanta, whatever were the dilemmas that accompanied it, was
+here to stay.
+  The next dramatic developments of the quantum theory, of course, took
+place between the years 1924 and 1926. They had the effect of ascribing to
+material particles such as electrons much of the same wave-like behavior as
+had long since been understood to characterize light. In those developments
+de Broglie, Heisenberg, Schrödinger and others accomplished literal mir-
+acles in explaining the structure of atoms. But however much this invention
+of modern quantum mechanics succeeded in laying the groundwork for a
+more general theory of the structure of matter, it seemed at first to have little
+new bearing on the understanding of electromagnetic phenomena. The
+spontaneous emission of light persisted as an outstanding puzzle.
+  Thus there remained a period of a couple of years more in which we de-
+
+78
+
+
+scribed radiation processes in terms that have usually been called “semiclas-
+sical.” Now the term “classical” is an interesting one – because, as you know,
+every field of study has its classics. Many of the classics that we are familiar
+with go back two or three thousand years in history. Some are less old, but
+all share an antique if not an ancient character. In physics we are a great deal
+more precise, as well as contemporary. Anything that we understood or could
+have understood prior to the date of Planck’s paper, December 14, 1900, is
+to us “classical.” Those understandings are our classics. It is the introduction
+of Planck’s constant that marks the transition from the classical era to our
+modern one.
+    The true “semiclassical era,” on the other hand, lasted only about two years.
+It ended formally with the discovery4 by Paul Dirac that one must treat the
+vacuum, that is to say empty space, as a dynamical system. The energy distrib-
+uted through space in an electromagnetic field had been shown by Maxwell
+to be a quadratic expression in the electric and magnetic field strengths.
+Those quadratic expressions are formally identical in their structure to the
+mathematical expressions for the energies of mechanical harmonic oscilla-
+tors. Dirac observed that even though there may not seem to be any orga-
+nized fields present in the vacuum, those mathematically defined oscillators
+that described the field energy would make contributions that could not be
+overlooked. The quantum mechanical nature of the oscillators would add an
+important but hitherto neglected correction to the argument of Planck.
+    Planck had said the energies of harmonic oscillators are restricted to values
+n times the quantum energy, hν, and the fully developed quantum mechanics
+had shown in fact that those energies are not nhν but (n + ½)hν. All of the in-
+tervals between energy levels remained unchanged, but the quantum mech-
+anical uncertainty principle required that additional ½ hν to be present. We
+can never have a harmonic oscillator completely empty of energy because
+that would require its position coordinate and its momentum simultaneously
+to have the precise values zero.
+    So, according to Dirac, the electromagnetic field is made up of field am-
+plitudes that can oscillate harmonically. But these amplitudes, because of the
+ever-present half quantum of energy ½ hν, can never be permanently at rest.
+They must always have their fundamental excitations, the so-called “zero-
+point fluctuations” going on. The vacuum then is an active dynamical system.
+It is not empty. It is forever buzzing with weak electromagnetic fields. They
+are part of the ground state of emptiness. We can withdraw no energy at all
+from those fluctuating electromagnetic fields. We have to regard them none-
+theless as real and present even though we are denied any way of perceiving
+them directly.
+    An immediate consequence of this picture was the unification of the notions
+of spontaneous and induced emission. Spontaneous emission is emission in-
+duced by those zero-point oscillations of the electromagnetic field. Furthermore
+it furnishes, in a sense, an indirect way of perceiving the zero-point fluctuations
+by amplifying them. Quantum amplifiers tend to generate background noise
+that consists of radiation induced by those vacuum fluctuations.
+
+                                                                                79
+
+
+   It is worth pointing out a small shift in terminology that took place in the
+late 1920’s. Once material particles were found to exhibit some of the wave-
+like behavior of light quanta, it seemed appropriate to acknowledge that
+the light quanta themselves might be elementary particles, and to call them
+“photons” as suggested by G. N. Lewis in 1926. They seemed every bit as
+discrete as material particles, even if their existence was more transitory, and
+they were at times freely created or annihilated.
+   The countless optical experiments that had been performed by the middle
+of the 20th century were in one or another way based on detecting only the
+intensity of light. It may even have seemed there wasn’t anything else worth
+measuring. Furthermore those measurements were generally made with
+steady light beams traversing passive media. It proved quite easy therefore
+to describe those measurements in simple and essentially classical terms. A
+characteristic first mathematical step was to split the expression for the oscil-
+lating electric field E into two complex conjugate terms
+           E = E(+) + E(–),                                                   (1)
+           E(–) = (E(+))*,                                                    (2)
+with the understanding that E(+) contains only positive frequency terms, i.e.
+those varying as e – iω t for all ω > 0, and E(–) contains only negative frequency
+terms e i ωt . This is a separation familiar to electrical engineers and motivated
+entirely by the mathematical convenience of dealing with exponential func-
+tions. It has no physical motivation in the context of classical theory, since
+the two complex fields E(±) are physically equivalent. They furnish identical
+descriptions of classical theory.
+   Each of the fields E(±)(rt) depends in general on both the space coordinate
+r and time t. The instantaneous field intensity at r,t would then be
+           | E(+)(r,t) | 2 = E(–)(r,t)E(+)(r,t).                              (3)
+In practice it was always an average intensity that was measured, usually a
+time average.
+   The truly ingenious element of many optical experiments, going all the
+way back to Young’s double-pinhole experiment, was the means their design
+afforded to superpose the fields arriving at different space-time points before
+the intensity observations were made. Thus in Young’s experiment, shown in
+Figure 1, light penetrating a single pinhole in the first screen passes through
+two pinholes in the second screen and then is detected as it falls on a third
+screen. The field E(+)(rt) at any point on the latter screen is the superposition
+of two waves radiated from the two prior pinholes with a slight difference in
+their arrival times at the third screen, due to the slightly different distances
+they have to travel.
+   If we wanted to discuss the resulting light intensities in detail we would
+find it most convenient to do that in terms of a field correlation function
+which we shall define as
+           G(1)(r1t1, r2t2) =     E(–)(r1t1)E(+)(r2t2)   .                    (4)
+
+80
+
+
+                                                                                     r
+                                              r1
+
+                                              r2
+
+
+
+Figure 1. Young’s experiment. Light passing through a pinhole in the first screen falls on
+two closely spaced pinholes in a second screen. The superposition of the waves radiated
+by those pinholes at r1 and r2 leads to interference fringes seen at points r on the third
+screen.
+
+
+
+
+This is a complex-valued function that depends, in general, on both space-
+time points r1t1 and r2t2. The angular brackets ... indicate that an average
+value is somehow taken, as we have noted. The average intensity of the field
+at the single point rt is then just G(1)(rt,rt).
+   If the field E(+)(rt) at any point on the third screen is given by the sum of
+two fields, i.e. proportional to E(+)(r1t1) + E(+)(r2t2), then it is easy to see that
+the average intensity at rt on the screen is given by a sum of four correlation
+functions,
+             G(1)(r1t1r1t1) + G(1)(r2t2r2t2) + G(1)(r1t1r2t2) + G(1)(r2t2r1t1).       (5)
+The first two of these terms are the separate contributions of the two pin-
+holes in the second screen, that is, the intensities they would contribute indi-
+vidually if each alone were present. Those smooth intensity distributions are
+supplemented however by the latter two terms of the sum, which represent
+the characteristic interference effect of the superposed waves. They are the
+terms that lead to the intensity fringes observed by Young.
+   Intensity fringes of that sort assume the greatest possible contrast or visibil-
+ity when the cross correlation terms like G(1)(r1t1r2t2) are as large in magni-
+tude as possible. But there is a simple limitation imposed on the magnitude
+of such correlations by a familiar inequality. There is a formal sense in which
+cross correlation functions like G(1)(r1t1r2t2) are analogous to the scalar prod-
+ucts of two vectors and are thus subject to a Schwarz inequality. The squared
+absolute value of that correlation function can then never exceed the prod-
+uct of the two intensities. If we let x abbreviate a coordinate pair r,t, we must
+have
+             | G(1)(x1x2) | 2   ≤ G(1)(x1x1)G(1)(x2x2).                               (6)
+The upper bound to the cross-correlation is attained if we have
+             | G(1)(x1x2) | 2 = G(1)(x1x1)G(1)(x2x2),                                 (7)
+and with it we achieve maximum fringe contrast. We shall then speak of the
+
+                                                                                         81
+
+
+fields at x1 and x2 as being optically coherent with one another. That is the
+definition of relative coherence that optics has traditionally used.5
+   There is another way of stating the condition for optical coherence that
+is also quite useful, particularly when we are discussing coherence at pairs
+of points extending over some specified region in space-time. Let us assume
+that it is possible to find a positive frequency field ε(rt) satisfying the appro-
+priate Maxwell equations and such that the correlation function (4) factor-
+izes into the form
+           G(1)(r1t1,r2t2) = ε*(r1t1)ε(r2t2).                                 (8)
+While the necessity of this factorization property requires a bit of proof, 6 it
+is at least clear that it does bring about the optical coherence that we have
+defined by means of the upper bound in the inequality (6) since in that case
+we have
+           | G(1)(r1 t1r2 t2) | 2 = | ε(r1t1) | 2 | ε(r2t2) | 2.              (9)
+   In the quantum theory, physical variables such as E(+–)(rt) are associated,
+not with simple complex numbers, but with operators on the Hilbert-space
+vectors        that represent the state of the system, which in the present case
+is the electromagnetic field. Multiplication of the operators E(+)(r1t1) and
+E(–)(r2t2) is not in general commutative, and the two operators can be dem-
+onstrated to act in altogether different ways on the vectors      that represent
+                                         (+)
+the state of the field. The operator E , in particular, can be shown to be an
+annihilation operator. It lowers by one the number of quanta present in the
+field. Applied to an n-photon state, n , it reduces it to an n – 1 photon state,
+ n − 1 . Further applications of E(+)(rt) keep reducing the number of quanta
+present still further, but the sequence must end with the n = 0 or vacuum
+state, | vac 〉, in which there are no quanta left. In that state we must finally
+have
+           E(+)(rt) | vacc = 0.                                              (10)
+                                 (+)              (–)
+  The operator adjoint to E , which is E must have the property of raising
+an n-photon state to an n + 1 photon state, so we may be sure, for example,
+that the state E(–)(rt) | vac is a one-photon state. Since the vacuum state can
+not be reached by raising the number of photons, we must also require the
+relation
+               vvac | E(–)(rt) = 0,                                          (11)
+which is adjoint to Eq. (10).
+  The results of quantum measurements often depend on the way in which
+the measurements are carried out. The most useful and informative ways of
+discussing such experiments are usually those based on the physics of the
+measurement process itself. To discuss measurements of the intensity of light
+then we should understand the functioning of the device that detects or
+counts photons.
+  Such devices generally work by absorbing quanta and registering each
+
+82
+
+
+such absorption process, for example, by the detection of an emitted photo-
+electron. We need not go into any of the details of the photoabsorption
+process to see the general nature of the expression for the photon counting
+probability. All we need to assume is that our idealized detector at the point
+r has negligibly small size and has a photo-absorption probability that is in-
+dependent of frequency so that it can be regarded as probing the field at a
+well-defined time t. Then if the field makes a transition from an initial state
+ i to a final state f in which there is one photon fewer, the probability
+amplitude for that particular transition is given by the scalar product – or
+matrix element
+
+             f E(+)(rt) i .                                                  (12)
+
+To find the total transition probability we must find the squared modulus of
+this amplitude and sum it over the complete set of possible final states f
+for the field. The expression for the completeness of the set of states f is
+
+           ∑f
+                     f       f      = 1,
+
+so that we then have a total transition probability proportional to
+
+           ∑f
+                 | f E(+)(rt) i | 2 =      ∑
+                                           f
+                                               i E(–)(rt) f   f E(+)(rt) i
+
+           = i E(–)(rt)E(+)(rt) i .                                          (13)
+   It is worth repeating here that in the quantum theory the fields E(+–) are
+non-commuting operators rather than simple numbers. Thus one could not
+reverse their ordering in the expression (13) while preserving its meaning.
+In the classical theory we discussed earlier E(+) and E(–) are simple numbers
+that convey equivalent information. There is no physical distinction between
+photo-absorption and emission since there are no classical photons. The fact
+that the quantum energy hν vanishes for h → 0 removes any distinction be-
+tween positive and negative values of the frequency variable.
+   The initial state of the field in our photon counting experiment depends,
+of course, on the output of whatever light source we use, and very few sources
+produce pure quantum states of any sort. We must thus regard the state i
+as depending in general on some set of random and uncontrollable param-
+eters characteristic of the source. The counting statistics we actually measure
+then may vary from one repetition of the experiment to another. The figure
+we would quote must be regarded as the average taken over these repetitions.
+The neatest way of specifying the random properties of the state i is to de-
+fine what von Neumann called the density operator
+           ρ=   {i       i   }av,                                            (14)
+which is the statistical average of the outer product of the vector i with
+itself. That expression permits us to write the average of the counting prob-
+ability as
+
+                                                                              83
+
+
+           {   i E(–)(rt)E(+)(rt) i       }av = Trace{ρE(–)(rt)E(+)rt)}.    (15)
+   Interference experiments like those of Young and Michelson, as we have
+noted earlier, often proceed by measuring the intensities of linear combina-
+tions of the fields characteristic of two different space-time points. To find
+the counting probability in a field like E(+)(r1t1) + E(+)(r2t2), for example, we
+will need to know expressions like that of Eq. (15) but with two different
+space-time arguments r1t1 and r2t2. It is convenient then to define the quan-
+tum theoretical form of the correlation functions (4) as
+                                      {
+           G(1)(r1t1r2t2) = Trace ρE(–)(r1t1)E(+)(r2t2) .    }              (16)
+This function has the same scalar product structure as the classical function
+(4) and can be shown likewise to obey the inequality (6). Once again we can
+take the upper bound of the modulus of this cross-correlation function or
+equivalently the factorization condition (8) to define optical coherence.
+   It is worth noting at this point that optical experiments aimed at achieving
+a high degree of coherence have almost always accomplished it by using the
+most nearly monochromatic light attainable. The reason for that is made
+clear by the factorization condition (8). These experiments were always
+based on steady or statistically stationary light sources. What we mean by a
+steady state is that the function G(1) with two different time arguments, t1 and
+t2, can in fact only depend on their difference t1–t2. Optical coherence then
+requires
+           G(1)(t1 – t2) = ε*(t1)ε(t2).                                     (17)
+The only possible solution of such a functional equation for the function
+ε(t) is one that oscillates with a single positive frequency. The requirement
+of monochromaticity thus follows from the limitation to steady sources. The
+factorization condition (8), on the other hand, defines optical coherence
+more generally for non-steady sources as well.
+  Although the energies of visible light quanta are quite small on the every-
+day scale, techniques for detecting them individually have existed for many
+decades. The simplest methods are based on the photoelectric effect and the
+use of electron photomultipliers to produce well defined current pulses. The
+possibility of detecting individual quanta raises interesting questions con-
+cerning their statistical distributions, distributions that should in principle
+be quite accessible to measurement. We might imagine, for example, putting
+a quantum counter in a given light beam and asking for the distribution of
+time intervals between successive counts. Statistical problems of that sort
+were never, to my knowledge, addressed until the importance of quantum
+correlations began to become clear in the 1950’s. Until that time virtually all
+optical experiments measured only average intensities or quantum counting
+rates, and the correlation function G(1) was all we needed to describe them. It
+was in that decade, however, that several new sorts of experiments requiring a
+more general approach were begun. That period seemed to mark the begin-
+ning of quantum optics as a relatively new or rejuvenated field.
+
+84
+
+
+                   D1                       M                         D2
+
+                                                Signal
+
+Figure 2. The intensity interferometry scheme of Hanbury Brown and Twiss. Radio frequen-
+cy waves are received and detected at two antennas. The filtered low-frequency signals that
+result are sent to a device that furnishes an output proportional to their product.
+
+
+
+
+   In the experiment I found most interesting, R. Hanbury Brown and R. Q.
+Twiss developed a new form of interferometry.7 They were interested at first
+in measuring the angular sizes of radio wave sources in the sky and found
+they could accomplish that by using two antennas, as shown in Figure 2, with
+a detector attached to each of them to remove the high-frequency oscilla-
+tions of the field. The noisy low frequency signals that were left were then
+sent to a central device that multiplied them together and recorded their
+time-averaged values. Each of the two detectors then was producing an out-
+put proportional to the square of the incident field, and the central device
+was recording a quantity that was quartic in the field strengths.
+   It is easy to show, by using classical expressions for the field strengths,
+that the quartic expression contains a measurable interference term, and
+by exploiting it Hanbury Brown and Twiss did measure the angular sizes
+of many radio sources. They then asked themselves whether they couldn’t
+perform the same sort of “intensity interferometry” with visible light, and
+thereby measure the angular diameters of visible stars. Although it seemed
+altogether logical that they could do that, the interference effect would have
+to involve the detection of pairs of photons and they were evidently inhibited
+in imagining the required interference effect by a statement Dirac makes in
+the first chapter of his famous textbook on quantum mechanics.8 In it he is
+discussing why one sees intensity fringes in the Michelson interferometer,
+
+                                                                                        85
+
+
+Figure 3. The Hanbury Brown-Twiss photon correlation experiment. Light from an ex-
+tremely monochromatic discharge tube falls on a half-silvered mirror which sends the split
+beam to two separate photo-detectors. The random photocurrents from the two detectors
+are multiplied together and then averaged. The variable time delay indicated is actually
+achieved by varying the distance of the detector D2 from the mirror.
+
+
+
+
+and says in ringingly clear terms “Each photon then interferes only with it-
+self. Interference between two different photons never occurs.”
+   It is worth recalling at this point that interference simply means that the
+probability amplitudes for alternative and indistinguishable histories must be
+added together algebraically. It is not the photons that interfere physically,
+it is their probability amplitudes that interfere – and probability amplitudes
+can be defined equally well for arbitrary numbers of photons.
+   Evidently Hanbury Brown and Twiss remained uncertain on this point
+and undertook an experiment9 to determine whether pairs of photons can
+indeed interfere. Their experimental arrangement is shown in Figure 3. The
+light source is an extremely monochromatic discharge tube. The light from
+that source is collimated and sent to a half-silvered mirror which sends the
+separated beams to two separate photo-detectors. The more or less random
+output signals of those two detectors are multiplied together, as they were in
+the radiofrequency experiments, and then averaged. The resulting averages
+showed a slight tendency for both of the photo-detectors to register photons
+simultaneously (Figure 4). The effect could be removed by displacing one
+of the counters and thus introducing an effective time delay between them.
+The coincidence effect thus observed was greatly weakened by the poor time
+resolution of the detectors, but it raised considerable surprise nonetheless.
+The observation of temporal correlations between photons in a steady beam
+was something altogether new. The experiment has been repeated several
+times, with better resolution, and the correlation effect has emerged in each
+case more clearly.10
+   The correlation effect was enough of a surprise to call for a clear explana-
+tion. The closest it came to that was a clever argument11 by Purcell who used
+the semi-classical form of the radiation theory in conjunction with a formula
+for the relaxation time of radiofrequency noise developed in wartime radar
+
+86
+
+
+Figure 4. The photon coincidence rate measured rises slightly above the constant back-
+ground of accidental coincidences for sufficiently small time delays. The observed rise was
+actually weakened in magnitude and extended over longer time delays by the relatively
+slow response of the photo-detectors. With ideal detectors it would take the more sharply
+peaked form shown.
+
+
+
+
+studies. It seemed to indicate that the photon correlation time would be in-
+creased by just using a more monochromatic light source.
+   The late 1950’s were, of course, the time in which the laser was being
+developed, but it was not until 1960 that the helium-neon laser12 was on the
+scene with its extremely monochromatic and stable beams. The question
+then arose: what are the correlations of the photons in a laser beam? Would
+they extend, as one might guess, over much longer time intervals as the beam
+became more monochromatic? I puzzled over the question for some time, I
+must admit, since it seemed to me, even without any detailed theory of the
+laser mechanism, that there would not be any such extended correlation.
+   The oscillating electric current that radiates light in a laser tube is not a
+current of free charges. It is a polarization current of bound charges oscil-
+lating in a direction perpendicular to the axis of the tube (Figure 5). If it is
+sufficiently strong it can be regarded as a predetermined classical current,
+one that suffers negligible recoil when individual photons are emitted. Such
+currents, I knew,13 emitted Poisson distributions of photons, which indicated
+clearly that the photons were statistically independent of one another. It
+seemed then that a laser beam would show no Hanbury Brown-Twiss photon
+correlations at all.
+   How then would one describe the delayed-coincidence counting measure-
+ment of Hanbury Brown and Twiss? If the two photon counters are sensitive
+at the space-time points r1t1 and r2t2 we will need to make use of the annihila-
+tion operators E(+)(r1t1) and E(+)(r2t2)(which do, in fact commute). The amp-
+litude for the field to go from the state i to a state f with two quanta
+fewer is
+               f   E(+)(r2t2)E(+)(r1t1) i .                                          (18)
+When this expression is squared, summed over final states f                and averaged
+
+                                                                                        87
+
+
+Figure 5. Schematic picture of a gas laser. The standing light wave in the discharge tube
+generates an intense transverse polarization current in the gas. Its oscillation sustains the
+standing wave and generates the radiated beam.
+
+
+
+over the initial states i we have a new kind of correlation function that we
+can write as
+             G(2)(r1t1r2t2r2t2r1t1) = Trace{ρE(–)(r1t1)E(–)(r2t2)E(+)(r2t2)E(+)(r1t1)}.
+                                                                                    (19)
+This is a special case of a somewhat more general second order correlation
+function that we can write (with the abbreviation xj = rjtj) as
+             G(2)(x1x2x3x4) = Trace{ρE(–)(x1)E(–)(x2)E(+)(x3)E(+)(x4)}.                (20)
+Now Hanbury Brown and Twiss had seen to it that the beams falling on their
+two detectors were as coherent as possible in the usual optical sense. The
+function G(1) should thus have satisfied the factorization condition (8), but
+that statement doesn’t at all imply any corresponding factorization property
+of the functions G(2) given by Eqs. (19) or (20).
+  We are free to define a kind of second-order coherence by requiring a
+parallel factorization of G(2),
+             G(2)(x1x2x3x4) = ε*(x1)ε*(x2)ε(x3)ε(x4),                                  (21)
+and the definition can be a useful one even though the Hanbury Brown-
+Twiss correlation assures us that no such factorization is present in their ex-
+periment. If it were present the coincidence rate according to Eq. (21) would
+be proportional to
+             G(2)(x1x2x2x1) = G(1)(x1x1) G(1)(x2x2),                                   (22)
+that is, to the product of the two average intensities measured separately
+– and that is what was not found. Ordinary light beams, that is, light from
+ordinary sources, even extremely monochromatic ones as in the Hanbury
+Brown-Twiss experiment, do not have any such second order coherence.
+   We can go on defining still higher-order forms of coherence by defining
+n-th order correlation functions G(n) that depend on 2n space-time coordi-
+nates. The usefulness of such functions may not be clear since carrying out
+the n-fold delayed coincidence counting experiments that measure them
+would be quite difficult in practice. It is nonetheless useful to discuss such
+functions since they do turn out to play an essential role in most calculations
+of the statistical distributions of photons. If we turn on a photon counter for
+
+88
+
+
+any given length of time, for example, the number of photons it records will
+be a random integer. Repeating the experiment many times will lead us to
+a distribution function for that number. To predict those distributions14 we
+need, in general, to know the correlation functions G(n) of arbitrary orders.
+  Once we are defining higher order forms of coherence, it is worth asking
+whether we can find fields that lead to factorization of the complete set of
+correlation functions G(n). If so, we could speak of those as possessing full
+coherence. Now, are there any such states of the field? In fact there are lots
+of them, and some can describe precisely the fields generated by predeter-
+mined classical current distributions. These fields have the remarkable prop-
+erty that annihilating a single quantum in them by means of the operator E(+)
+leaves the field essentially unchanged. It just multiplies the state vector by an
+ordinary number. That is a relation we can write as
+           E(+)(rt)    = ε(rt)     ,                                        (23)
+where ε(rt) is a positive frequency function of the space-time point rt. It is
+immediately clear that such states must have indefinite numbers of quanta
+present. Only in that way can they remain unchanged when one quantum is
+removed. This remarkable relation does in fact hold for all of the quantum
+states radiated by a classical current distribution, and in that case the func-
+tion ε(rt) happens to be the classical solution for the electric field.
+   Any state vector that obeys the relation (23) will also obey the adjoint rela-
+tion
+               E(–)(rt) = ε*(rt)       .                                    (24)
+Hence the n-th order correlation function will indeed factorize into the
+form
+           G(n)(x1….x2n) = ε*(x1)….ε*(xn)ε(xn+1)….ε(x2n)                    (25)
+that we require for n-th order coherence. Such states represent fully coher-
+ent fields, and delayed coincidence counting measurements carried out in
+them will reveal no photon correlations at all. To explain, for example, the
+Hanbury Brown-Twiss correlations we must use not pure coherent states but
+mixtures of them, for which the factorization conditions like Eq. (25) no
+longer hold. To see how these mixtures arise, it helps to discuss the modes of
+oscillation of the field individually.
+   The electromagnetic field in free space has a continuum of possible
+frequencies of oscillation, and a continuum of available modes of spatial
+oscillation at any given frequency. It is often simpler, instead of discussing
+all these modes at once, to isolate a single mode and discuss the behavior of
+that one alone. The field as a whole is then a sum of the contributions of the
+individual modes. In fact when experiments are carried out within reflecting
+enclosures the field modes form a discrete set, and their contributions are
+often physically separable.
+   The oscillations of a single mode of the field, as we have noted earlier, are
+essentially the same as those of a harmonic oscillator. The n-th excitation
+
+                                                                              89
+
+
+state of the oscillator represents the presence of exactly n light quanta in that
+mode. The operator that decreases the quantum number of the oscillator
+is usually written as a , and the adjoint operator – which raises the quantum
+number by one unit as a †. These operators then obey the relation
+            a a † – a † a = 1,                                                 (26)
+which shows that their multiplication is not commutative. We can take the
+field operator E(+)(rt) for the mode we are studying to be proportional to the
+operator a. Then any state vector for the mode that obeys the relation (23)
+will have the property
+            a        =α                                                        (27)
+where α is some complex number. It is not difficult to solve for the state
+vectors that satisfy the relation (27) for any given value of α. They can be
+expressed as a sum taken over all possible quantum-number states n , n = 0,
+1, 2…. that takes the form
+                    – | α|
+                      1    2 ∞
+                                   αn
+            α =e 2               ∑      n ,                             (28)
+                                 n =0       n!
+in which we have chosen to label the state with the arbitrary complex param-
+eter α. The states α are fully coherent states of the field mode.
+   The squared moduli of the coefficients of the states n in Eq. (28) tell us
+the probability for the presence of n quanta in the mode, and those numbers
+do indeed form a Poisson distribution, one with the mean value of n equal to
+| α |2. The coherent states form a complete set of states in the sense that any
+state of the mode can be expressed as a suitable sum taken over them. As we
+have defined them they are equivalent to certain oscillator states defined by
+Schrödinger15 in his earliest discussions of wave functions. Known thus from
+the very beginning of wave mechanics, they seemed not to have found any
+important role in the earlier development of the theory.
+   Coherent excitations of fields have a particularly simple way of combining.
+Let us suppose that one excitation mechanism brings a field mode from its
+empty state 0 to the coherent state α1 . A second mechanism could bring
+it, for example, from the state 0 to the state α 2 . If the two mechanisms
+act simultaneously the resulting state can be written as e iϕ α1 + α 2 where e iϕ is
+a phase factor that depends on α1 and α2 , but we don’t need to know it since
+it cancels out of the expression for the density operator
+            ρ=     α1+ α2               α1 + α2   .                            (29)
+This relation embodies the superposition principle for field excitations and
+tells us all about the resulting quantum statistics. It is easily generalized to
+treat the superposition of many excitations. If, say, j coherent excitations
+were present, we should have a density operator
+            ρ = α1 + ... + α j      α1 + ... + α j .                           (30)
+  Let us suppose now that the individual excitation amplitudes αj are in one
+
+90
+
+
+          P(n)
+
+
+
+
+                                                                                          n
+Figure 6. Geometrical or fixed-ratio sequence of probabilities for the presence of n quanta
+in a mode that is excited chaotically.
+
+
+
+
+or another sense random complex numbers. Then the sum α1+ ... + αj will
+describe a suitably defined random walk in the complex plane. In the limit j
+→ ∞ the probability distribution for the sum α = α1+ ... + αj will be given by
+a Gaussian distribution which we can write as
+                                                       | α |2
+                        1    -
+                                                       〈n〉
+                P(α) =     e                                     ,                            (31)
+                       π n
+in which the mean value of | α |2 which has been written as n , is the mean
+number of quanta in the mode.
+  The density operator that describes this sort of random excitation is a
+probabilistic mixture of coherent states,
+                                                        | α |2
+                    1                              -
+                                                         〈n〉
+                ρ=
+                   π n                 ∫       e                     α        α d 2α,         (32)
+
+where d 2α is an element of area in the complex plane. When we express ρ
+in terms of m-quantum states by using the expansion (28) we find
+
+                        1                  ∞       ⎛ n                   ⎞    m
+                ρ=                     ∑           ⎜⎜                    ⎟⎟       m m .       (33)
+                      1+ n             m=0          ⎝ 1+ n                ⎠
+This kind of random excitation mechanism is thus always associated with a
+geometrical or fixed-ratio distribution of quantum numbers (Figure 6). In
+the best known example of the latter, the Planck distribution, we have n =
+      ν
+⎛ kThhv
+           ⎞   −1
+⎜ e     − 1⎟        , and the density operator (33) then contains the familiar
+⎝          ⎠
+                             mhv
+                         –
+                             kT
+thermal weights e                  .
+
+                                                                                               91
+
+
+   There is something remarkably universal about the geometrical sequence
+of n-quantum probabilities. The image of chaotic excitation we have derived it
+from, on the other hand, excitation in effect by a random collection of lasers,
+may well seem rather specialized. It may be useful therefore to have a more
+general way of characterizing the same distribution. If a quantum state is speci-
+fied by the density operator ρ, we may associate with it an entropy S given by
+           S = -Trace(ρ log ρ),                                             (34)
+which is a measure, roughly speaking, of the disorder characteristic of the
+state. The most disordered, or chaotic, state is reached by maximizing S, but
+in finding the maximum we must observe two constraints. The first is
+           Trace ρ = 1,                                                     (35)
+which says simply that all probabilities add up to one. The second is
+           Trace (ρ a †a) =   n ,                                           (36)
+which fixes the average occupation number of the mode.
+   When S is maximized, subject to these two constraints, we find indeed that
+the density operator ρ takes the form given by Eq. (33). The geometrical dis-
+tribution is thus uniquely representative of chaotic excitation. Most ordinary
+light sources consist of vast numbers of atoms radiating as nearly indepen-
+dently of one another as the field equations will permit. It should be no sur-
+prise then that these are largely maximum entropy or chaotic sources. When
+many modes are excited, the light they radiate is, in effect, colored noise and
+indistinguishable from appropriately filtered black body radiation.
+   For chaotic sources, the density operator (32) permits us to evaluate all of
+the higher order correlation functions G(n)(x1…x2n). In fact they can all be
+reduced14 to sums of products of first order correlation functions G(1)(xixj).
+In particular, for example, the Hanbury Brown-Twiss coincidence rate corre-
+sponding to the two space time points x1 and x2 can be written as
+           G(2)(x1x2x2x1) = G(1)(x1x1)G(1)(x2x2) + G(1)(x1x2)G(1)(x2x1).    (37)
+The first of the two terms on the right side of this equation is simply the
+product of the two counting rates that would be measured at x1 and x2 in-
+dependently. The second term is the additional delayed coincidence rate
+detected first by Hanbury Brown and Twiss, and it is indeed contributed by
+a two-photon interference effect. If we let x1 = x2, which corresponds to zero
+time delay in their experiment, we see that
+           G(2)(x1x1x1x1) = 2{G(1)(x1x1)}2,                                 (38)
+or the coincidence rate for vanishing time delay should be double the back-
+ground or accidental rate.
+   The Gaussian representation of the density operator in terms of coherent
+states is an example of a broader class of so-called “diagonal representations”
+that are quite convenient to use – when they are available. If the density op-
+erator for a single mode, for example, can be written in the form
+
+92
+
+
+          P
+
+
+
+
+Figure 7. The quasiprobability function P(α) for a chaotic excitation is Gaussian in form,
+while for a stable laser beam it takes on non-zero values only near a fixed value of  α .
+
+
+
+
+             ρ=   ∫   P(α) α       α d 2α                                             (39)
+then the expectation values of operator products like a†nam can be evaluated
+as simple integrals over the function P such as
+             {a†nam}av =   ∫   P(α)α*nαmd 2 α.                                        (40)
+The function P(α) then takes on some of the role of a probability density,
+but that can be a bit misleading since the condition that the probabilities
+derived from ρ all be positive or zero does not require P(α) to be positive
+definite. It can and sometimes does take on negative values over limited areas
+of the α-plane in certain physical examples, and it may also be singular. It is a
+member, as we shall see, of a broader class of quasi-probability densities. The
+representation (39), the P-representation, unfortunately is not always avail-
+able.16,17 It can not be defined, for example, for the familiar “squeezed” states
+of the field in which one or the other of the complementary uncertainties is
+smaller than that of the coherent states.
+   The difference between a monochromatic laser beam and a chaotic beam
+is most easily expressed in terms of the function P(α). For a stationary laser
+beam the function P depends only on the magnitude of α and vanishes un-
+less α assumes some fixed value. A graph of that function P is shown in
+Figure 7, where it can be compared with the Gaussian function for the same
+mean occupation number n given by Eq. (31).
+   How do we measure the statistical properties of photon distributions? A
+relatively simple way is to place a photon counter in a light beam behind ei-
+ther a mechanical or an electrical shutter. If we open the shutter for a given
+length of time t, the counter will register some random number n of pho-
+tons. By repeating that measurement sufficiently many times we can establish
+a statistical distribution for those random integers n. The analysis necessary
+to derive this distribution mathematically can be a bit complicated since it re-
+
+                                                                                         93
+
+
+p(n)
+                         coherent
+
+                                                       Figure 8. The two P(α) dis-
+
+                                   chaotic
+                                                       tributions of Fig. 7 lead to
+                                                       different photon occupation
+                                                       number distributions p(n): for
+                                                       chaotic excitation a geometric
+                                                       distribution, for coherent exci-
+                                                 n     tation a Poisson distribution.
+
+
+
+
+quires, in general, a knowledge of all the higher order correlation functions.
+Experimental measurements of the distribution, conversely, can tell us about
+those correlation functions.
+  For the two cases in which we already know all the correlation functions, it is
+particularly easy to find the photocount distributions. If the average rate at which
+photons are recorded is w, then the mean number recorded in time t is
+             n = wt .
+In a coherent beam the result for the probability of n photocounts is just the
+Poisson distribution
+                      (wt)n –wt
+            pn(t) =        e .                                                   (41)
+                       n!
+In a chaotic beam, on the other hand, the probability of counting n quanta is
+given by the rather more spread-out distribution
+
+                                             n
+            pn(t) =
+                        1
+                      1 + wt   (     wt
+                                   1 + wt   ).                                   (42)
+
+
+These results, which are fairly obvious from the occupation number prob-
+abilities implicit in Eqs. (28) and (33), are illustrated in Figure 8.
+   Here is a closely related question that can also be investigated experimen-
+tally without much difficulty. If we open the shutter in front of the counter
+at an arbitrary moment, some random interval of time will pass before the
+first photon is counted. What is the distribution of those random times? In a
+steady coherent beam, in fact, it is just an exponential distribution
+            Wcoh = we – wt ,                                                     (43)
+while in a chaotic beam it assumes the less obvious form
+
+            Wch(t) =
+                             w
+                                      .                                          (44)
+                         (1 + wt )2
+
+  There is an alternative way of finding a distribution of time intervals.
+Instead of simply opening a shutter at an arbitrary moment, we can begin the
+
+94
+
+
+               W
+               Wch(0 | t)
+                  ch
+                                                           Figure 9. Time interval
+                                                           distributions for counting
+                                                           experiments in a chaoti-
+                                                           cally excited mode: Wch(t)
+                               Wch(t)                      is the distribution of in-
+                                                           tervals from an arbitrary
+                                                           moment until the first
+                                                           photocount. Wch(0 | t) is
+                                                           the distribution of inter-
+                                                           vals between two successive
+                                                           photocounts.
+
+
+
+
+measurement with the registration of a given photocount at time zero and
+then ask what is the distribution, of time intervals until the next photocount.
+This distribution, which we may write as W(0 | t), takes the same form for a
+coherent beam as it does for the measurement described earlier, which starts
+at arbitrary moments,
+            Wcoh(0 | t) = we–wt = Wcoh(t).                                      (45)
+This identity is simply a restatement of the statistically independent or uncor-
+related quality of all photons in a coherent beam.
+  For a chaotic beam, on the other hand, the distribution Wch(o | t) takes a
+form quite different from Wch(t). It is
+
+            Wch(0 | t) =
+                              2w
+                                       ,                                        (46)
+                           (1 + wt)3
+
+an expression which exceeds Wch(t) for times for which wt < 1, and is in fact
+twice as large as Wch(t) for t = 0 (Figure 9). The reason for that lies in the
+Gaussian distribution of amplitudes implicit in Eqs. (31) and (32). The very
+fact that we have counted a photon at t = 0 makes it more probable that
+the field amplitude α has fluctuated to a large value at that moment, and hence
+the probability for counting a second photon remains larger than average for
+some time later. The functions Wch(t) and Wch(0 | t) are compared in Figure 8.
+   All of the experiments we have discussed thus far are based on the proce-
+dure of photon counting, whether with individual counters or with several
+of them arranged to be sensitive in delayed coincidence. The functions they
+measure, the correlation functions G(n), are all expectation values of products
+of field operators written in a particular order. If one reads from right to left,
+the annihilation operator always precedes the creation operators in our corre-
+lation functions, as they do, for example, in Eq. (19) for G(2). It is that so-called
+“normal ordering” that gives the coherent states, and the quasiprobability den-
+sity P(α) the special roles they occupy in discussing this class of experiments.
+   But there are other kinds of expectation values that one sometimes needs
+in order to discuss other classes of experiments. These could, for example,
+involve symmetrically ordered sums of operator products, or even anti-nor-
+
+                                                                                   95
+
+
+mally ordered products which are opposite to the normally ordered ones.
+The commutation relations for the multiplication of field operators will ulti-
+mately relate all these expectation values to one another, but it is often pos-
+sible to find much simpler ways of evaluating them. There exists a quasiprob-
+ability density that plays much the same role for symmetrized products as
+the function P does for the normally ordered ones. It is, in fact, the function
+Wigner18 devised in 1932 as a kind of quantum mechanical replacement for
+the classical phase space density. For anti-normally ordered operator prod-
+ucts, the role of the quasiprobability density is taken over by the expectation
+
+                                    1
+value which for a single mode is      α ρ α . The three quasiprobability
+                                    π
+densities associated with the three operator orderings and whatever experi-
+ments they describe are all members of a larger family that can be shown to
+have many properties in common.17
+   The developments I have described to you were all relatively early ones
+in the development of the field we now call quantum optics. The further
+developments that have come in rapid succession in recent years are too nu-
+merous to recount here. Let me just mention a few. A great variety of careful
+measurements of photon counting distributions and correlations of the type
+we have discussed have been carried out19 and furnish clear agreement with
+the theory. They have furthermore shown in detail how the properties of la-
+ser beams change as they rise in power from below threshold to above it.
+   The fully quantum mechanical theory of the laser was difficult to develop20
+since the laser is an intrinsically nonlinear device, but only through such a
+theory can its quantum noise properties be understood. The theories of a
+considerable assortment of other kinds of oscillators and amplifiers have now
+been worked out.
+   Nonlinear optics has furnished us with new classes of quantum phenom-
+ena such as parametric down conversion in which a single photon is split into
+a pair of highly correlated or entangled photons. Entanglement has been a
+rich source of the quantum phenomena that are perhaps most interesting
+– and baffling – in everyday terms.
+   It is worth emphasizing that the mathematical tools we have developed for
+dealing with light quanta can be applied equally well to the much broader
+class of particles obeying Bose-Einstein statistics. These include atoms of He4,
+Na23, Rb87, and all of the others which have recently been Bose-condensed by
+optical means. When proper account is taken of the atomic interactions and
+the non-vanishing atomic masses, the coherent state formalism is found to
+furnish useful descriptions of the behavior of these bosonic gases.
+   The formalism seems likewise to apply to subatomic particles, to bosons that
+are only short-lived. The pions that emerge by hundreds or even thousands
+from the high-energy collisions of heavy ions are also bosons. The pions of
+similar charge have a clearly noticeable tendency to be emitted with closely
+correlated momenta, an effect which is evidently analogous to the Hanbury
+Brown-Twiss correlation of photons, and invites the same sort of analysis.21
+
+96
+
+
+Figure 10. Professor Einstein, encountered in the spring of 1951 in Princeton, NJ.
+
+
+
+
+   Particles obeying Fermi-Dirac statistics, of course, behave quite differently
+from photons or pions. No more than a single one of them ever occupies any
+given quantum state. This kind of reckoning associated with fermion fields
+is radically different therefore from the sort we have associated with bosons,
+like photons. It has proved possible, nonetheless, to develop an algebraic
+scheme22 for calculating expectation values of products of fermion fields
+that is remarkably parallel to the one we have described for photon fields.
+There is a one-to-one correspondence between the mathematical operations
+and expressions for boson fields on the one hand and fermion fields on the
+other. That correspondence has promise of proving useful in describing the
+dynamics of degenerate fermion gases.
+   I’d like, as a final note, to share with you an experience I had in 1951, while
+I was a postdoc at the Institute for Advanced Study in Princeton. Possessed by
+the habit of working late at night – in fact on photon statistics13 at the time
+– I didn’t often appear at my Institute desk early in the day. Occasionally
+I walked out to the Institute around noon, and that was closer to the end
+of the work day for Professor Einstein. Our paths thus crossed quite a few
+times, and on one of those occasions I had ventured to bring my camera.
+He seemed more than willing to let me take his picture as if acknowledging
+
+                                                                                     97
+
+
+his role as a local landmark, and he stood for me just as rigidly still. Here,
+in Figure 10, is the hitherto unpublished result. I shall always treasure that
+image, and harbor the enduring wish I had been able to ask him just a few
+questions about that remarkable year, 1905.
+
+
+REFERENCES
+1.    M. Planck, Ann. d. Phys. 1, 69 (1900).
+2.    M. Planck, Ann. d. Phys. 1, 719 (1900).
+3.    A. Einstein, Ann. d. Phys. 17, 132 (1905).
+4.    P. A. M. Dirac, Proc. Roy. Soc. 114, 243, 710 (1927).
+5.    M. Born and E. Wolf, Principles of Optics (London: Pergamon Press, 1959), Chap. X.
+6.    U. M. Titulaer and R. J. Glauber, Phys. Rev. 140B, 676 (1965), 145B, 1041 (1966).
+7.    R. Hanbury Brown and R. Q. Twiss, Phil. Mag. Ser. 7, 45, 663 (1954).
+8.    P. A. M. Dirac, The Principles of Quantum Mechanics, Fourth ed. (Oxford University
+      Press, 1958), p. 9.
+9.    R. Hanbury Brown and R. Q. Twiss, Nature 177, 27 (1956); Proc. Roy. Soc. (London)
+      A242, 300 (1957), A243, 291 (1957).
+10.   G. A. Rebka and R. V. Pound, Nature 180, 1035 (1957),
+      D. B. Scarl, Phys.Rev. 175, 1661 (1968).
+11.   E. M. Purcell, Nature 178, 1449 (1956).
+12.   A. Javan, W. R. Bennett and D. R. Herriot, Phys. Rev. Lett. 6, 106 (1961).
+13.   R. J. Glauber, Phys. Rev. 84, 395 (1951).
+14.   R. J. Glauber, in Quantum Optics and Electronics (Les Houches 1964), eds. C. de Witt, A.
+      Blandin and C. Cohen-Tannoudji (New York: Gordon and Breach Science Publishers,
+      Inc., 1965), p. 63.
+15.   E. Schrödinger, Naturwissenschaften 14, 664 (1926).
+16.   E. C. G. Sudarshan, Phys. Rev. Letters 10, 277 (1963).
+17.   K. E. Cahill and R. J. Glauber, Phys. Rev. 177, 1857 (1969), 177, 1882 (1969).
+18.   E. Wigner, Phys. Rev. 40, 749 (1932).
+19.   See for example, F. T. Arecchi, in: Quantum Optics, Course XLII, Enrico Fermi School,
+      Varenna, 1969, ed. R. J. Glauber (New York: Academic Press, 1969); E. Jakeman and
+      E. R. Pike, J. Phys. A2, 411 (1969).
+20.   M. O. Scully and W. E. Lamb, Jr., Phys. Rev. 159, 208 (1967); M. Lax, in: Brandeis
+      University Summer Institute Lectures (1966), Vol. II, eds. M. Cretien et al (New York:
+      Gordon and Breach, 1968); H. Haken, Laser Theory, in: Encyclopedia of Physics XXV/2c,
+      ed. S. Flügge (Heidelberg: Springer-Verlag, 1970).
+21.   R. J. Glauber, Quantum Optics and Heavy Ion Physics, http://arxiv.org/nucl-th/0604021,
+      2006.
+22.   K. E. Cahill and R. J. Glauber, Phys. Rev. A59, 1538 (1999).
+
+Portrait photo of Roy J.Glauber by photographer J. Reed.
+
+
+
+
+98
+

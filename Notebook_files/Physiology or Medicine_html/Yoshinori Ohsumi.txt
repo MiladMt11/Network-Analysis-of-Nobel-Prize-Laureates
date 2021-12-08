@@ -1,0 +1,1328 @@
+Molecular Mechanisms of
+Autophagy in Yeast
+Nobel Lecture, December 7, 2016
+
+by Yoshinori Ohsumi
+Tokyo Institute of Technology, Tokyo, Japan.
+
+
+
+
+S     cience is a system of knowledge that is gradually accumulated over many
+      years by society, but it is also an inherently human activity. I believe that
+every scientist is a product of the era in which they live. So I’d like to start from
+a brief introduction of my life, and then give a historical overview of my scien-
+tific work.
+
+Early life
+I was born in Fukuoka, southern Japan, in 1945, half a year before the end of
+World War II. This was a very challenging time in Japan, and everyone had
+difficulty getting basic daily necessities, including food. I myself suffered from
+severe malnutrition and was a very sickly child. Around this time my mother
+got tuberculosis and spent a long period bed-bound, but she was miraculously
+able to recover thanks to a gift of just-developed antibiotics from a family friend
+in Hawaii. When I was about 8 years old, my mother was finally able to resume
+a normal life. My brother, Kazuo, who is 12 and a half years my senior, left home
+to enter the Faculty of Literature at the University of Tokyo as I began elemen-
+tary school. I was brought up through the efforts of my father and two sisters,
+Reiko and Junko, and many other people throughout what was a difficult time
+for our family.
+
+
+
+                                                                                 277
+
+
+278                                                                The Nobel Prizes
+
+
+     My childhood home was surrounded by nature, with rice paddies, streams,
+hills and the sea all nearby. I spent a lot of time outdoors catching fish and pick-
+ing plants. As an elementary school student, I was engrossed in collecting insects
+and watching the night sky. I would say that this intimacy with nature had a
+strong influence on me. My brother, every time he returned home from Tokyo
+during university holidays, would bring a book, such as carefully chosen works
+of George Gamow and Michael Faraday that broadened my awareness of the
+world beyond what we learned at school (Faraday, 1861; Gamow, 1940). Being a
+weak child, I had no talent for sports and was neither artistic nor gifted in litera-
+ture. But I managed to achieve good results at school. At the time, I had a vague
+longing to be a scientist that was influenced by the expectations of my parents.
+
+
+University & first experience of research
+In high school, I joined the chemistry club, where I first experienced the wonder
+of chemical reactions. Partly thanks to this experience, I entered the University
+of Tokyo, where I initially hoped to become a chemist, but I had difficulty find-
+ing a field to specialise in. Thankfully, this was the time when the central dogma
+of molecular biology was just being established. Molecular biology immediately
+fascinated me, so I decided to join the lab of Kazutomo Imahori, who was one of
+the few scientists running a molecular biology laboratory in Japan at the time.
+Imahori’s laboratory had adopted a physicochemical approach to assess interac-
+tions between proteins and nucleic acids. Under the direction of Akio Maeda,
+I began to study the role of ribosome subunits in protein synthesis. Although I
+was unable to produce particularly interesting results, my time in the Imahori lab
+was exciting as we participated in the work of a rapidly developing field and I got
+my first taste of the joy of experimental work. The experience also provided me
+with a strong sense of the continuous process of protein synthesis within cells.
+     From the second year of my doctoral studies, I decided to move to Kyoto
+University, where Maeda had joined the just-founded Department of Biophys-
+ics as an associate professor. Kyoto University provided a very free environment,
+and I was stimulated by talented new students and friends I met in the bio-
+chemistry lab of the Department of Chemistry. Throughout my graduate studies,
+the Summer Seminar for Young Biochemists also allowed me to make a large
+number of friends from all over Japan who would have a great impact on my
+life. In my research, I became interested in colicin E3, a toxic protein that is able
+to pass through the membrane of bacterial cells and instantly inhibits protein
+synthesis. I think I was also influenced by my growing interest in biological
+membranes during this period.
+
+
+Molecular Mechanisms of Autophagy in Yeast                                       279
+
+
+Post-doc life in New York
+After I finished my doctoral studies, I enrolled in the lab of Gerald Edelman at
+The Rockefeller University, New York. I was asked was to establish an in vitro
+fertilisation system for mouse egg cells, which I reluctantly accepted. Experi-
+mentally it was not too difficult, but I had no idea how to examine such fascinat-
+ing yet few early embryos. After some time, Mike Jazwinski joined our group
+from Arthur Kornberg’s lab, where he had been studying phage DNA duplica-
+tion. Taking inspiration from the elegant study of the cell cycle through the cdc
+mutants by Hartwell (Hartwell, 1974), a project to uncover the mechanism of
+DNA replication initiation in yeast began in Edelman’s lab, which I joined in
+my final year. This was to be my first encounter with yeast as an experimen-
+tal organism.
+     We had first planned to use isolated nuclei in this project, but it was difficult
+to obtain these organelles in an undamaged state. During our use of density-
+gradient centrifugation to purify nuclei, I noticed a white layer at the top of
+the centrifuge tube. Out of mere curiosity I looked at this white layer under the
+microscope, and realised that it was a highly-enriched vacuole fraction. The ease
+with which this organelle could be purified left a strong impression on me, and
+I think helped to decide the direction of my research.
+
+Return to Japan and work on the vacuole
+At the end of 1977 I returned to Japan as an assistant professor in Yasuhiro Anr-
+aku’s lab at the University of Tokyo. Anraku’s entire lab was tasked with study-
+ing the transporters and the respiratory chain in E. coli. In spite of this, Anraku
+allowed me to start a project on yeast, and in retrospect I really appreciate his
+decisiveness in affording me this opportunity, which resulted in the beginning
+of my nearly 40 years of work in yeast (Figure 1). In those days, the plasma
+membrane and its transport mechanisms were the focus of much research. But
+I have never been a competitive person, and prefer to work on a subject that few
+people are interested in. After a period of reflection, I decided instead to work on
+transport across the membrane of an intracellular organelle, the vacuole. While
+we now know that elaborate transport systems exist on the vacuolar membrane,
+this was by no means a fashionable topic.
+    At that time the vacuole was thought to be no more than a garbage dump in
+the cell, but I thought it must play yet unknown roles in cell physiology. First I
+established procedures for purifying vacuoles and making vacuolar membrane
+vesicles, and was able to show active transport systems of amino acids and cal-
+cium ions over the vacuolar membrane, providing evidence that the vacuole is
+
+
+280                                                                   The Nobel Prizes
+
+
+
+
+FIGURE 1. Thin-section electron micrograph of a yeast cell. The vacuole is visible as the
+large, pale region near the centre of each cell.
+
+
+important for homeostasis of metabolites and ions (Ohsumi and Anraku, 1981;
+Ohsumi and Anraku, 1983). We also described a novel proton-pump on the vac-
+uolar membrane, the V-type ATPase, which generates a proton gradient across
+the vacuolar membrane as a driving force of these transport systems (Kakinuma
+et al., 1981; Uchida et al., 1985) (Figure 2). These experiences played an impor-
+tant role in the development of my scientific interests, leading into my continued
+study of the vacuole and foreshadowing my research on autophagy. Since then,
+
+
+
+
+FIGURE 2. Vacuolar membrane transport systems in yeast. The V-type ATPase maintains
+the acidity of the vacuole by pumping H+ into the vacuole, while various active trans-
+porters modulate the flow of calcium, amino acids and ions between the cytoplasm and
+this organelle.
+
+
+Molecular Mechanisms of Autophagy in Yeast                                       281
+
+
+the structure and function of the V-type ATPase has become a major field of cell
+biology research in its own right.
+
+
+STARTING MY OWN LAB AT TOKYO UNIVERSITY, KOMABA CAMPUS
+
+In 1988 I was able to start my own lab—consisting of just myself—at the College
+of Arts and Sciences at the Komaba campus of the University of Tokyo. My lab
+here was modestly equipped, without any fancy instruments. I decided to devote
+myself to a related but completely novel task: the lytic function of the yeast vacu-
+ole. Since the vacuole is an acidic compartment, due to the function of V-type
+ATPase, and contains various hydrolytic enzymes including proteases, I thought
+it might be homologous to the lysosome of mammalian cells. However, I had no
+well-articulated idea how to test this hypothesis.
+
+Thinking about the life of proteins
+Before going into experimental details, I would like to briefly outline protein
+metabolism in cells. Proteins, which are a polymer of amino acids, are the key
+players in all biological processes. The central dogma of molecular biology states
+that protein is synthesised according to the genetic information encoded in DNA
+through RNA. As a consequence of this, many researchers throughout the latter
+half of the 20th century worked diligently to understand gene expression and its
+regulation, and the mechanisms of protein synthesis. Another important consid-
+eration that subsequently came to scrutiny was the compartmentalisation of the
+cell, as proteins are able only able to properly function after being delivered to the
+appropriate part of the cell. This spurred an effort to understand the localisation
+of each protein within the cell. Thanks to the efforts of researchers, we now know
+that each protein is intricately and precisely trafficked to the correct destination
+within the cell according to an intrinsic localisation signal (Figure 3).
+     However, one aspect that was missing from this picture when I started my
+own lab was the fate of proteins, or in other words the question of how intracel-
+lular protein degradation occurs. It was known that each protein has a distinct
+lifetime, ranging from a few minutes to several months. But for many years, the
+degradation of protein was thought to be a passive process that is not particularly
+important or interesting.
+
+The significance of protein turnover
+I used to begin biology class for first-year undergraduate students with this ques-
+tion: how many red blood cells are made within just one second in your body?
+
+
+282                                                                      The Nobel Prizes
+
+
+
+
+FIGURE 3. Overview of protein metabolism in cells. In addition to the emphasis on syn-
+thesis provided by the central dogma, the delivery, function and eventual degradation of
+proteins are important aspects of their life in the cell. The delivery of proteins to various
+cellular compartments following translation by the ribosome (purple) is represented at
+the bottom of the figure.
+
+
+
+The calculation is quite simple and gives an answer of about three million cells
+per second. How about hemoglobin in the red blood cell? This number can also
+be easily derived, giving about 1x1015—one million billion—hemoglobin mol-
+ecules per second. It follows that exactly the same amount of cells and proteins
+are degraded. The key message is that living things are extremely dynamically
+maintained.
+    The Japanese climate is characterised by four distinct seasons that influence
+our culture, and students at school learn that all things are in a cycle of continu-
+ous change. Plant leaves offer an excellent example of this concept. In spring,
+leaves develop and then actively synthesise starch by sunlight, but in autumn
+leaves become red or yellow and fall off (Figure 4). What we see as beautiful
+autumn colours is actually caused by the degradation of the leaf ’s photosyn-
+thetic machinery: green chloroplasts are completely degraded, and the resulting
+amino acids are transported to the trunk, leaving only the red or yellow-coloured
+
+
+Molecular Mechanisms of Autophagy in Yeast                                          283
+
+
+
+
+FIGURE 4. Ginkgo trees throughout the four seasons at the University of Tokyo. The
+removal of green chloroplasts in autumn, leaving golden accessory pigments in the leaves,
+is one striking example of the importance of degradation in the dynamic cycle of life.
+
+
+
+accessory photosynthetic pigments in leaves. Similarly, rice leaves turn yellow at
+harvest time. All the protein in the leaves is degraded and transported to make
+proteins in rice grains for the next generation. These examples demonstrate that
+degradation is not an adverse process, but rather is essential for new construc-
+tion or regeneration. Let’s think about the human body. Our bodies make about
+2–300 grams of protein every day, but we only intake about 70–80 grams of
+
+
+284                                                                     The Nobel Prizes
+
+
+
+
+FIGURE 5. Protein dynamics in the human body. The bulk of amino acids required for
+synthesis are met not through dietary intake, but through the turnover of existing proteins
+in the cell.
+
+
+
+protein from our diet (Figure 5). The amino acids required for protein synthesis
+mostly come from the degradation of the body’s own proteins. Life is maintained
+by a tightly controlled balance between synthesis and degradation. Just two years
+ago I experienced this personally when I learned that my wife Mariko’s mother
+had lived without any food and even water for 13 days. This was another shock-
+ing reminder that the recycling of cellular constituents is a potent force in the
+robust nature of life.
+
+Historical perspectives on protein turnover
+The establishment of the central role of proteins in biology was a very important
+development in modern biological science. In contrast to the process of synthesis
+emphasised by the central dogma, when I began my research the degradation
+of proteins was seen as a passive process that was not particularly important by
+many of my contemporaries. In this regard Rudolph Schoenheimer was a pioneer
+in the field, as he had proposed the concept of “protein turnover” in the 1930s
+following his development of isotopes to follow metabolic processes (Schoen-
+heimer et al., 1939; Schoenheimer, 1942) (Figure 6A). Unfortunately, however,
+his contention was controversial and not widely accepted. After this, Christian
+de Duve, recipient of the Nobel Prize in 1974, used cell fractionation to discover
+the lysosome, an organelle containing a range of degradative enzymes (De Duve
+
+
+Molecular Mechanisms of Autophagy in Yeast                                    285
+
+
+
+
+(a)                                             (b)
+FIGURE 6. (a) Rudolph Schoenheimer and (b) Christian de Duve.
+
+
+et al., 1955) (Figure 6B). Researchers at The Rockefeller University subsequently
+observed the delivery of extracellular material to the lysosome using electron
+microscopy (Novikoff et al., 1956). The delivery of intracellular material includ-
+ing organelles such as mitochondria to the lysosome was also observed. De Duve
+referred to these processes as ‘heterophagy’ (now known as endocytosis) and
+‘autophagy’, respectively (de Duve, 1963). Autophagy, from the Greek for ‘self-
+eating,’ was described by The Rockefeller University researchers as having several
+hallmarks. Firstly, a membrane sac appears and enwraps a portion of the cyto-
+plasm, forming a double-membrane structure, the autophagosome. Next, the
+outer membrane of the autophagosome fuses with the lysosome, and finally the
+inner membrane and its contents are degraded within the lysosome.
+     Autophagy research was continued by two key groups: one, led by Glenn
+Mortimore (Figure 7A), conducted detailed physiological and biochemical anal-
+yses of the phenomenon using liver perfusion in rats (Mortimore and Ward,
+1976; Mortimore et al., 1983), while a second group, led by Per Seglen, examined
+the effect of nutrient starvation on autophagy and the regulation of autophagy,
+mainly using cultured cells (Seglen and Gordon, 1982; Seglen et al., 1980) (Figure
+7B). However, as electron microscopy was the only means of assessing autophagy
+at the time and the lysosome is a dynamic organelle, most works focused on the
+analysis of membrane dynamics in autophagy, leaving the genes and proteins
+implicated in the autophagy mechanism unidentified for many years. A simpler
+model system was required to make further progress in the field.
+
+
+286                                                                  The Nobel Prizes
+
+
+
+
+(a)                                                  (b)
+FIGURE 7. (a) Glenn Mortimore and (b) Per Seglen.
+
+
+
+     In the meantime, another intracellular degradation system, the ubiquitin/
+proteasome system, was discovered. As it became clear that this system plays
+important roles in the regulation of a variety of cellular processes, protein degra-
+dation suddenly attracted a huge amount of attention in biological research. This
+was ultimately recognized by the Nobel Prize in Chemistry in 2004, which was
+awarded to Aaron Ciechanover, Avram Hershko and Irwin Rose, but the field
+of lysosomal degradation and autophagy remained quiet. Now it is thought that
+these two systems function together as the major means of cytoplasmic protein
+degradation.
+
+Discovering autophagy in yeast by light microscopy
+Assuming that the vacuole functions as a lytic compartment, the questions I
+had were when, what and how cytoplasmic constituents go across the vacuolar
+membrane and become accessible to vacuolar enzymes. First, I searched for a
+condition where massive protein degradation might occur in the yeast life cycle.
+Spore formation is a meiotic process that generates four spores and is induced by
+the depletion of nitrogen, the essential element of amino acids (Figure 8). I rea-
+soned that this dramatic cellular remodelling should require the degradation of
+pre-existing proteins to make the proteins necessary for this cell differentiation.
+    I have to admit that I’ve always loved to observe yeast cells by light micros-
+copy. The vacuole is relatively large, is the only clearly visible organelle in the cell
+and contains a salt-like solution that has a very low concentration of protein, so I
+knew that it would be easy to see structures if they were inside. I probably spent
+more time sitting at the light microscope than anyone else during my studies of
+
+
+Molecular Mechanisms of Autophagy in Yeast                                          287
+
+
+
+
+FIGURE 8. Morphological changes associated with sporulation in yeast. The onset of nitro-
+gen starvation causes diploid cells to undergo meiosis and cell division, forming four
+spores in a process that requires vast remodelling of the protein component of the cell.
+N = nucleus, V = vacuole, CW = cell wall, M = mitochondrion.
+
+
+
+
+the vacuole, looking for morphological changes that might provide hints about
+the function of this dynamic organelle.
+    I carefully observed the early stages of the sporulation process, but couldn’t
+see any obvious changes in the vacuole. I thought that this may be due to the
+degradation of structures in the vacuole. I conceived that if I were to use a cell
+lacking vacuolar proteases, structures delivered to the vacuole for degradation
+would remain in this organelle and might be visible. Fortunately, the well-known
+yeast geneticist Elizabeth Jones had donated many proteinase mutants to the
+Yeast Genetic Stock Center at UC Berkeley, so I obtained these strains and shifted
+to nitrogen depleted medium.
+    Looking down the microscope, I saw many spherical structures vigorously
+moving around inside the vacuole. These structures appeared within 30 min-
+utes and almost completely filled the vacuole after 3–4 hours (Figure 9). For
+me, this observation marked the exact starting point of more than 27 years of
+autophagy research. The reason that I was able to discover this phenomenon
+with only a common low magnification light microscope owes to the vigorous
+movement of these structures by Brownian motion. I was also fortunate that the
+structures, which we now call autophagic bodies, were large enough to be vis-
+ible under a light microscope. In the otherwise tranquil yeast cell, this dramatic
+
+
+288                                                                 The Nobel Prizes
+
+
+
+
+FIGURE 9. Accumulation of autophagic bodies within the vacuole under nitrogen star-
+vation, as observed by bright-field (top) and phase contrast (bottom) light microscopy.
+
+
+
+
+phenotypic change really struck me, and I remember staring down the micro-
+scope for some hours, unable to tear my gaze away. I knew that I had encountered
+an unknown and fascinating phenomenon; this was the starting point of my
+autophagy research.
+
+Electron microscopy and the morphology of autophagy
+I next called on the excellent electron microscopists Misuzu Baba and Masako
+Osumi to capture the morphology of this phenomenon by electron microscopy.
+Their efforts produced beautiful images that provided irrefutable evidence of
+the topological features of the entire autophagy process (Baba et al., 1994), as
+shown in Figure 10.
+    A thin section image of a nitrogen starved cell is shown in Figure 10A. Spher-
+ical structures can be seen within vacuole, and the high-magnification image
+presented in Figure 10B shows that these structures are bound by a single mem-
+brane. We can see that their contents are exactly the same as the cytoplasm, con-
+taining the same density of ribosomes and various cytoplasmic structures, such
+as the rough ER observed in Figure 10C, suggesting nonselective sequestration
+of cytoplasmic components. A membrane sac next to the vacuole, the isolation
+membrane, is also visible in Figure 10C enwrapping a portion of the cytoplasm.
+After completion of membrane expansion and sealing, a double membrane
+structure, the autophagosome, is formed (Figure 10D). Freeze-fracture imag-
+ing (Figure 10E) shows the fusion event of an autophagosome with the vacu-
+olar membrane, where the outer membrane of the autophagosome is continu-
+ous with the vacuolar membrane (Baba et al., 1995), and the inner membrane
+structures that we named autophagic bodies are also present. Autophagic bodies
+
+
+Molecular Mechanisms of Autophagy in Yeast                                        289
+
+
+
+
+FIGURE 10. Electron micrographs showing topological phenomena associated with nitro-
+gen starvation-induced autophagy. (A) Autophagic bodies within the vacuole, (B) high-
+magnification image of autophagic bodies, (C) cup-shaped isolation membrane adjacent
+to the vacuole, (D) an autophagosome adjacent to the vacuole, (E) freeze-fracture image
+of an autophagosome fusing with the vacuole, (F) mitochondria within autophagic bodies
+delivered to the vacuole.
+
+
+
+occasionally contain mitochondria, as can be seen in Figure 10F, indicating that
+autophagy can degrade not only cytosolic protein but also supramolecular struc-
+tures, such as ribosomes and even entire organelles, which is a characteristic
+feature of autophagy. This is in contrast to the specific recognition of smaller,
+individual targets by the ubiquitin/protease system. Autophagosomes are tran-
+sient, ephemeral structures, and autophagic bodies are degraded immediately
+in the vacuole in wild-type cells, features that prevented their identification for
+many years.
+    A scheme of the autophagic process in yeast is presented in Figure 11. When
+cells are faced with starvation conditions, a small membrane sac appears next to
+the vacuole and expands to enwrap a portion of cytoplasm. Then, a double mem-
+brane structure, the autophagosome, targets the vacuole and fuses with the vacu-
+olar membrane, releasing the inner membrane structure into the vacuole. In wild
+type cells these structures are immediately disrupted by vacuolar enzymes, and
+their contents are degraded for reuse. The proteinase-deficient mutant allowed us
+to follow the progression of autophagy as the accumulation of autophagic bodies.
+
+
+290                                                               The Nobel Prizes
+
+
+
+
+FIGURE 11. Schematic diagram of nitrogen starvation-induced autophagy in yeast.
+
+
+
+
+    Importantly, while the vacuole is a vastly larger organelle than the mamma-
+lian lysosome, the entire process that we observed was topologically the same
+as macroautophagy in mammalian cells, confirming that yeast could be used
+as a model organism in the study of autophagy (Baba et al., 1994). Kazuhiko
+Takeshige was also able to show early on that this phenomenon is not restricted
+to sporulation, but is a general cellular response to a range of nutrient starvation
+conditions (Takeshige et al., 1992). These factors gave the first indication that
+autophagy is a general process that is induced in diverse organisms in response
+to a range of stimuli, further convincing me that we had discovered an important
+cellular process.
+
+Identifying autophagy-related genes in yeast
+Yeast is a very good organism for the dissection of complicated biological phe-
+nomena through genetic analyses. In this regard I was inspired by the beautiful
+works of Lee Hartwell, whose group uncovered details of the cell cycle through
+their analysis of the cdc mutants (Johnston et al., 1977), and also by the intricate
+analysis of the secretory pathway using sec mutants by Randy Schekman’s group
+(Novick et al., 1980). These contributions were recognized with the Nobel Prize
+in Physiology or Medicine in 2001 and 2013, respectively.
+    As we knew nothing of the genes and proteins that are involved in the autoph-
+agy mechanism, I thought that the isolation of mutants defective in autophagy
+
+
+Molecular Mechanisms of Autophagy in Yeast                                     291
+
+
+was the first step in opening up the field of autophagy. However, we had no
+idea what an autophagy-defective phenotype would look like. At this point, we
+decided to use autophagic body accumulation in the vacuole as a morphologi-
+cal indicator of autophagy progression. My first Master’s course student, Miki
+Tsukada, was central at this stage of our work and did an excellent job isolating
+autophagy defective mutants. We took mutagenised cells, individually subjected
+them to starvation and checked for the accumulation of autophagic bodies,
+aiming to isolate cells in which autophagic bodies were not observed. Using this
+approach, we identified the first autophagy mutant strain, which we called apg1,
+now referred to as atg1 (Tsukada and Ohsumi, 1993). We then confirmed, by
+the failure to induce protein degradation in this strain, that the autophagic body
+is indeed an intermediate structure of the degradation process. We also found
+that, as expected, the homozygous diploid mutant was not able to sporulate.
+However, under standard growth conditions in the nutrient rich medium YEPD,
+no difference was observed between the atg1 strain and wild-type cells, and there
+appeared to be no obvious defect in vacuolar function or secretion.
+     It seemed impossible that such an intricate pathway of delivery to the vacu-
+ole could be controlled by a single gene, and I was convinced that we should be
+able to identify many more. We found that atg1 cells that were subjected to pro-
+longed nitrogen starvation lose viability faster than their wild-type counterparts.
+Assuming this loss of viability phenotype was caused by the defect in autophagy,
+we next conducted a primary screen looking at the viability of mutant strains. By
+isolating strains in which viability was reduced and then performing a secondary
+screen examining these strains for vacuolar morphology defects, we were able to
+identify roughly 100 autophagy-defective strains at once (Tsukada and Ohsumi,
+1993) (Figure 12). Further genetic analysis showed that 14 complementation
+groups were among these mutants. As we now know that in nitrogen starved
+cells 18 genes are essential for autophagy, I can say that this refined approach
+was extremely effective. We initially predicted that these mutant strains would
+be characterised by defects at various stages of the autophagy mechanism, but as
+it turned out all of these genes were essential for the formation of the autophago-
+some, the most important process in autophagy.
+     This was a morphological screen, based on the inability to accumulate
+autophagic bodies in the vacuole. We therefore eliminated mutants character-
+ised by a severe growth defect, cells lacking essential genes and also strains with
+abnormal vacuolar morphology. In addition, as we used the decline in viability
+as a primary screen, which only appears with a complete block of autophagy
+function, we only identified autophagy null mutants, to the exclusion of partially
+defective mutants.
+
+
+292                                                                     The Nobel Prizes
+
+
+
+
+FIGURE 12. Overview of the experimental approach used to isolate autophagy-defective
+mutants. This screen allowed us to identify most of the ATG genes in a short period of time.
+
+
+
+    Next, we set out to clone and identify the genes implicated in the mutant
+phenotypes observed in the screen. Tsukada was the first to succeed, cloning the
+ATG1 gene. Through the sequencing of ATG1, we learned that this gene encodes
+a protein kinase (Matsuura et al., 1997). However, as we identified the remain-
+ing genes, starting with Kametaka’s work on ATG5 (Kametaka et al., 1996) and
+ATG6, we found that all the other ATG genes encoded unidentified proteins that
+were otherwise not essential for growth in nutrient replete conditions and had
+no phenotypic implications for cells other than a defect in autophagy. There-
+fore, although we had identified nearly all the genes responsible for autophagy,
+we were unable to deduce anything about their function from their amino acid
+sequences and went through a difficult period where we were unable to officially
+announce our findings.
+    Yeast had been the subject of comprehensive genetic analysis throughout
+the world for many years at this point, and it was very surprising that autophagy
+genes had somehow escaped the attention of other researchers. I suspect that this
+is because researchers were interested in essential genes, and the conventional
+definition of an essential gene was the cell’s inability to grow in nutrient rich
+medium when the gene in question was disrupted.
+
+
+Molecular Mechanisms of Autophagy in Yeast                                       293
+
+
+     One important product of our time at the College of Arts and Sciences of
+Tokyo University that deserves mention was Takeshi Noda’s establishment of an
+assay of autophagic activity (Noda and Ohsumi, 1998; Noda and Klionsky, 2008).
+Noda constructed a strain in which the precursor of the vacuolar alkaline phos-
+phatase Pho8 lacks its N-terminal vacuolar targeting sequence, and expressed
+this precursor in the cytosol. Upon the induction of autophagy, a portion of the
+modified version of Pho8 would be taken up by the non-selective activity of
+autophagy and delivered to the vacuole. Here, the precursor is processed to yield
+the mature, enzymatically active form of Pho8. Therefore, we were able to quan-
+titatively measure the extent of autophagy by assessing Pho8 activity. This assay,
+in which degradation can be quantitatively detected through the appearance of
+enzymatic activity, has been an excellent and widely-used tool in the analysis of
+autophagic activity that is still used today. I hope that this type of enzymatic assay
+can also be developed for use in other organisms, especially mammalian systems.
+     In this way, my career in autophagy research began in that small labora-
+tory at the Komaba campus. The discovery of autophagy by light microscopy, its
+morphological analysis by electron microscopy, the isolation of mutant strains
+implicated in autophagy and the beginning of the identification of genes respon-
+sible for the process were all achieved within eight years.
+
+
+A GOLDEN AGE OF AUTOPHAGY RESEARCH AT NIBB
+
+In 1996, I became a professor at the National Institute for Basic Biology (NIBB)
+in Okazaki, which provided us with a very conducive research environment. I
+asked Tamotsu Yoshimori to join our lab as an associate professor to start work
+on autophagy in mammalian cells, and also Takeshi Noda and Yoshiaki Kamada
+to join us as assistant professors. The following year, Noboru Mizushima came
+to my lab as a postdoctoral researcher, and later as an assistant professor. Year by
+year, talented postdoctoral researchers and graduate students gathered to my lab.
+In 1997, just after we started at the NIBB, we also organised the first International
+Symposium on Autophagy (ISA) meeting, which we held at the institute. This
+forum for the discussion of autophagy research has proven to be very successful,
+and we will hold the 8th ISA in 2017, the largest yet.
+    Thanks to the NIBB, we were able to produce a truly unique research envi-
+ronment where our work in yeast was accompanied by studies in mammalian
+and plant cells. I was expecting that it would take a long time to identify all the
+genes required for autophagy, but thanks to our collaboration with Mariko’s labo-
+ratory at the Teikyo University of Science, which helped with cloning, as well as
+the sequencing of the entire yeast genome in 1996, we were able to elucidate the
+
+
+294                                                               The Nobel Prizes
+
+
+
+
+FIGURE 13. Immunoblot analysis of the Atg12 protein. (Left) The appearance of a band
+of much higher molecular weight than expected for Atg12 is indicated by an asterisk.
+(Right) The high molecular weight band disappears in cells lacking ATG5, ATG7 or
+ATG10, but not ATG1.
+
+
+
+genetic context of nearly all the ATG genes in a relatively short period. With our
+subsequent effort to identify interacting proteins of the characterised ATG gene
+products, we were able to confidently identify all 18 of the genes essential for
+autophagy under nitrogen starvation conditions. From this point, we focused on
+the characterisation of the Atg proteins and the mechanistic details of autophagy.
+
+The Atg12 conjugation system
+The first breakthrough was made by Mizushima when he examined the only
+just cloned Atg12 protein (Mizushima et al., 1998a). Using immunoblotting,
+he noticed two bands corresponding to Atg12, one of which indicated a much
+greater apparent molecular weight than that predicted from the protein sequence
+(Figure 13). In the absence of Atg5, Atg7 or Atg10, however, the high molecular
+weight band disappeared. This was the first indication we found of a relationship
+between Atg proteins, and within a short period we were able to demonstrate
+that these proteins together constituted a unique ubiquitin-like conjugation
+pathway. Although Atg12 is a vastly larger protein than ubiquitin, it ends with
+a glycine residue at its C-terminus and is expressed as a mature protein without
+any additional residues. Atg12 is then activated by Atg7, an E1 enzyme, to yield a
+thioester intermediate that is then transferred to the E2 enzyme Atg10, before it
+ultimately forms an isopeptide bond at a lysine residue at the centre of the Atg5
+molecule. This Atg12-Atg5 conjugate then binds to a dimeric form of Atg16,
+yielding a functional dimer of Atg12-Atg5—Atg16 molecules (Figure 14A). A
+
+
+Molecular Mechanisms of Autophagy in Yeast                                      295
+
+
+
+
+FIGURE 14. The six functional groups of Atg proteins: (A) the Atg12-Atg5 conjugation
+system, (B) the Atg8-PE conjugation system, (C) the Atg1 protein kinase complex, (D)
+the autophagy-specific PI3 kinase complex I, (E) Atg9 vesicles and (F) the Atg2-Atg18
+complex. The concerted action of all groups is necessary for autophagosome formation.
+
+
+
+unique feature of this conjugation reaction is that Atg5 is the sole target of the
+system and the reaction is not regulated by environmental conditions, such as
+starvation. With the elucidation of this conjugation system, we were able to char-
+acterise the functions of five Atg proteins in one series of experiments. However,
+why such an elaborate conjugation system is required to form this functional
+complex remains a mystery.
+
+The Atg8 conjugation system
+We were also interested in the small protein Atg8. We knew from immunoelec-
+tron microscopy that Atg8 localises to the isolation membrane and autophago-
+some, and were therefore hopeful that this protein could be used as a marker of
+membrane formation in autophagy (Figure 15). During these studies, the work of
+two graduate students, Takayoshi Kirisako and Yoshinobu Ichimura, unveiled a
+second ubiquitin-like conjugation system (Ichimura et al., 2000). Atg8 is another
+ubiquitin-like protein that is involved in autophagy that contains an arginine
+residue at its C-terminus. This arginine is cleaved by the cysteine protease Atg4
+to expose a glycine residue, giving the mature form of the protein (Kirisako et
+al., 2000). The mature Atg8 molecule is then activated and transferred to Atg3
+
+
+296                                                             The Nobel Prizes
+
+
+
+
+FIGURE 15. Immunoelectron micrograph showing Atg8 (dark spots) residing on the
+membrane of an autophagosome.
+
+
+by Atg7, which is the same E1 enzyme as found in the Atg12 conjugation system.
+However, we weren’t able to detect the final product of this reaction by conven-
+tional SDS-PAGE analysis. We soon found that most Atg8 resides as a tightly
+membrane-bound form, and when we purified this bound form we determined
+that the apparent molecular weight had increased by approximately 635 dal-
+tons. Through our collaboration with Toshifumi Takao of Osaka University, we
+were also able to attribute the binding of Atg8 to a membrane phospholipid,
+phosphatidylethanolamine, which we confirmed by isolating Atg8-PE using urea
+SDS-PAGE (Figure 14B). This attracted a lot of attention because the target of
+conjugation was not a protein but a lipid, which is very unusual for this type of
+reaction. We were also able to reconstitute the Atg8 conjugation system in vitro
+(Ichimura et al., 2004), which eventually allowed us to show that Atg8 is involved
+in membrane tethering and hemifusion that supports the expansion of the isola-
+tion membrane (Nakatogawa et al., 2007).
+     Thus, to our surprise, we found that about half of the ATG genes are involved
+in these two conjugation systems. Both Atg12 and Atg8 are activated by the
+same E1 enzyme, Atg7, before the protein is transferred to distinct E2 enzymes,
+Atg10 or Atg3, respectively. In addition, we also found that the Atg12 system
+is required for the conjugation of Atg8 to PE, further hinting at the close rela-
+tionship between these two systems (Hanada et al., 2007). Recently, it has been
+demonstrated that the Atg12-Atg5 conjugate induces a conformational change in
+Atg3, promoting Atg8-PE formation (Sakoh-Nakatogawa et al., 2013). Structural
+details of the complexes involved in these reactions were solved thanks to our
+
+
+Molecular Mechanisms of Autophagy in Yeast                                           297
+
+
+
+
+FIGURE 16. Schematic overview of the two ubiquitin-like conjugation systems involved in
+autophagosome formation. Structures of the associated proteins are included in the figure.
+
+
+
+close collaboration with Fuyuhiko Inagaki and Nobuo Noda’s groups, but details
+of their functions in the cell remain to be uncovered (Figure 16).
+
+Events during autophagy induction and their regulation
+In 1998, Takeshi Noda found that rapamycin induces autophagy even when cells
+are grown in rich medium (Noda and Ohsumi, 1998). As rapamycin is an inhibi-
+tor of TOR kinase, which is an important nutrient sensing complex, we therefore
+proposed that TOR kinase is the most upstream regulator of autophagy. Mean-
+while, work by our group led by Tomoko Funakoshi and Yoshiaki Kamada also
+discovered the important role of Atg13 in the activation of Atg1 kinase function
+(Kamada et al., 2000). Atg13 is one of the targets of TOR kinase and functions
+as the key regulator of autophagy induction (Figure 14C). When nutrients are
+replete in the environment, Tor kinase heavily phosphorylates Atg13, blocking
+its interaction with Atg1. Upon starvation, Atg13 is quickly dephosphorylated,
+however, and associates with Atg1, subsequently facilitating its interaction with
+other Atg proteins. This crucial upstream event is essential for the induction
+of autophagy. Kamada also led the discovery of Atg17 (Kamada et al., 2000),
+which interacts with Atg13. Subsequently two other proteins, Atg29 and Atg31,
+were found by Tomoko Kawamata and Yukiko Kabeya (Kawamata et al., 2005;
+Kabeya et al., 2007). These latter two proteins form a stable complex with Atg17,
+
+
+298                                                             The Nobel Prizes
+
+
+and together with Atg1 and Atg13 this complex, known as the Atg1 complex,
+is essential for the induction of autophagy under conditions of starvation, as
+described below.
+
+The autophagy specific PI3 kinase complex I
+Although every other ATG gene encoded novel proteins that had not been
+described elsewhere, ATG6 turned out to be the same gene as VPS30, which
+had only just been discovered by Scott Emr’s group as a protein of the vacuolar
+protein sorting (Vps) pathway (Seaman et al., 1997). This attracted our attention,
+and through biochemical analyses led by Akio Kihara we discovered that this
+protein is actually a component of a PI3 kinase complex essential for autophagy,
+comprising Vps34, Vps15, Atg14 and Vps30, which we termed PI3 kinase com-
+plex I (Kihara et al., 2001) (Figure 14D). Interestingly, PI3 kinase complex II,
+which is involved in the Vps pathway, contains Vps38 in the place of Atg14,
+and these subunits are responsible for the appropriate localisation of the com-
+plexes to play their specific function. Following this, Yasuhiro Araki uncovered
+yet another specific component of PI3 kinase complex I, Atg38 (Araki et al.,
+2013). This protein localises to the isolation membrane and is essential for the
+incorporation of the product of PI3 kinase, PI3P, into the isolation membrane,
+with which it is ultimately delivered to the vacuole
+
+Atg9 and the supply of membranes to the isolation membrane
+An unsolved mystery in the field is the origin of membranes that are supplied to
+the autophagosome during its formation. A protein that attracted much atten-
+tion for its role in membrane expansion is Atg9, the only multiple-pass trans-
+membrane protein among the Atg proteins (Figure 14E). There has been much
+speculation about the localisation of Atg9 within the cell, but we observed that
+Atg9 resides mostly on small membrane vesicles arising from the Golgi apparatus
+that freely move throughout the cytoplasm (Yamamoto et al., 2012). Our analyses
+indicated that a small number of Atg9 vesicles are required for the early stages
+of the formation of a single autophagosome, suggesting that these vesicles form
+seed membranes that incorporate membranes from other sources for isolation
+membrane expansion.
+
+Atg2 and Atg18
+In addition, Atg18, which was first identified by Michael Thumm’s group, contains
+many WD repeats and binds with PI3P to form a complex with Atg2, thereby
+exerting its essential function in both the Cvt pathway and autophagy (Barth et
+
+
+Molecular Mechanisms of Autophagy in Yeast                                            299
+
+
+al., 2001) (Figure 14F). Atg2, on the other hand, is very large protein that while
+essential for autophagy does not contain any known functional domains, and its
+role in the mechanism of autophagy remains poorly understood. Considering all
+these findings, we therefore concluded that a total of 18 Atg proteins are essential
+for autophagy, and that these proteins can be classified into the six functional
+groups presented in Figure 14: the Atg1 kinase and its regulators, the specific PI3
+kinase complex, two conjugation systems, the sole membrane spanning mem-
+brane protein Atg9, and the Atg2-Atg18 complex.
+
+
+
+
+FIGURE 17. Atg proteins, tagged with GFP, at least partially localise to the PAS, indicated
+by RFP-tagged Ape1. In response to an induction signal, Atg proteins, usually moving
+freely throughout the cytosol, associate with the PAS near the surface of the vacuole,
+facilitating the progression of autophagy.
+
+
+300                                                                   The Nobel Prizes
+
+
+Identification of the PAS
+Although we had identified the core machinery of autophagosome formation,
+the next questions were where and how these proteins function in the cell.
+Kuninori Suzuki, who was observing Atg8 localisation under starvation condi-
+tions, noticed that these proteins form a dot near the vacuole from which the
+autophagosome subsequently generated (Suzuki et al., 2001). We called this dot
+the Pre-Autophagosomal Structure (PAS). By fusing each Atg protein with GFP
+and confirming their continued function, Suzuki found that all Atg proteins
+at least partially localise to the PAS under starvation conditions (Suzuki et al.,
+2007) (Figure 17). We next devised a systematic approach to understand the
+relationship between each Atg protein and the PAS by assessing the localization
+of Atg proteins in strains lacking individual ATG genes. Through this work, we
+learned that the six functional groups of Atg proteins associate with the PAS in
+a hierarchical manner (Suzuki et al., 2007) (Figure 18). Atg17 exists at the top of
+
+
+
+
+FIGURE 18. Overview of the sequential nature of Atg protein recruitment to the PAS.
+Upon starvation, a scaffold complex is formed through the interaction of dephosphory-
+lated Atg13 with Atg1 and the Atg17-Atg29-Atg31 complex at the vacuolar membrane (I).
+Membrane recruitment then begins as Atg9 vesicles associate with the PAS (II) before PI3
+kinase complex I joins the PAS to contribute PI3P to the expanding isolation membrane
+(III). Atg2 and Atg18 then interact with the PAS through an unknown mechanism that
+is essential for autophagy progression (IV). Finally, Atg8-PE, a product of the Atg12 and
+Atg8 conjugation reactions, plays a role in membrane expansion.
+
+
+Molecular Mechanisms of Autophagy in Yeast                                          301
+
+
+this hierarchy, and the association of other Atg proteins follows a strict order of
+precedence. This study was at the forefront of the many molecular studies of the
+PAS that followed, becoming a field in its own right.
+    Thanks to these fluorescence microscopy studies of the spatiotemporal
+dynamics of Atg proteins, we now know that most Atg proteins exist in a dif-
+fuse localisation during nutrient replete conditions, free to move randomly
+through the cytosol. The onset of starvation causes a fraction of these proteins
+to be recruited to the PAS. The hierarchical relationship amongst Atg proteins
+describes the order and timing of each Atg protein’s recruitment to the PAS.
+
+Mammalian ATG genes and the expansion of autophagy research
+Also during our time at NIBB, Mizushima and Yoshimori began to study mam-
+malian autophagy, and successfully showed that the Atg12 conjugation system is
+well conserved in mammalian cells (Mizushima et al., 1998b). Yoshimori defini-
+tively proved that LC3, the yeast Atg8 homologue, can be used as a very effective
+marker of autophagy progression (Kabeya et al., 2000). At around this time, two
+of my colleagues, Hideki Hanaoka and Kohki Yoshimoto, succeeded in identify-
+ing ATG genes in plant cells (Yoshimoto et al., 2004). Although the homology
+of ATG genes is low, the ATG system is well conserved between yeast, mammals
+
+
+
+
+FIGURE 19. Expression of GFP-LC3 in tissues of a transgenic mouse. Shown are the locali-
+sation of autophagosomes, observed as puncta, in skeletal muscle (A, from a starved adult
+mouse), the heart (B, from a neonate), an embryo (C, post-fertilisation) and the pancreas
+(D, from a mouse with acute pancreatitis), as observed by fluorescence microscopy.
+
+
+302                                                                 The Nobel Prizes
+
+
+and plants, indicating that the core machinery of autophagy was acquired at an
+early stage of evolution.
+     The identification of ATG genes essential for autophagy changed the entire
+landscape of autophagy research. One aspect of this revolution is that we can now
+visualize the process of autophagy by fluorescence microscopy using Atg proteins
+as markers. Mizushima took advantage of this when he constructed a transgenic
+mouse expressing GFP-LC3 (Mizushima et al., 2004) (Figure 19). This mouse has
+allowed us to assess the degree to which autophagy occurs in every organ of the
+mouse’s body and has been shared with labs all over the world. Mizushima also
+developed the first ATG gene knockout mouse, which allowed us to show that
+autophagy plays a crucial role for survival at birth (Kuma et al., 2004). Masaaki
+Komatsu was also able to demonstrate that conditional knockout of the ATG7
+gene causes accumulation of ubiquitinated proteins and ultimately tumour in
+the liver (Takamura et al., 2011). From this point, manipulation of ATG genes
+in various organisms, different cell types, a variety of tissues and organs, and
+individuals started in many labs around the world and revealed a vast array of
+physiological functions of autophagy (Figure 20). The relevance of autophagy
+in various diseases is becoming clear. This rapid expansion of autophagy would
+not have been possible without the concerted efforts of autophagy researchers
+all over the world. But this expanding area falls outside the scope of this lecture,
+which focuses on my fundamental research in yeast.
+
+
+
+
+FIGURE 20. The diverse physiological roles of autophagy in mammalian cells.
+
+
+Molecular Mechanisms of Autophagy in Yeast                                      303
+
+
+STARTING MY FINAL LAB AT THE TOKYO INSTITUTE OF TECHNOLOGY
+
+In 2009, another important change occurred in my career. I was offered a posi-
+tion as a specially appointed professor at the Tokyo Institute of Technology,
+where we were given access to excellent research facilities. I brought along many
+colleagues from the NIBB to this institute, and with Hitoshi Nakatogawa and
+Kuninori Suzuki as assistant professors initially, later joined by Assistant Profes-
+sors Hayashi Yamamoto, Yasuhiro Araki and Tomoko Kawamata, we started a
+new laboratory. Here, we have been conducting increasingly advanced analy-
+ses of the Atg machinery and more recently have been considering the role of
+autophagy as one of many cellular processes.
+
+Atg13 and its role in Atg protein assembly at the PAS
+Yamamoto and Nobuo Noda worked together to uncover details of the early
+steps of PAS organisation. Atg13, a key player, has a unique structure that is
+made up of an N-terminal globular domain and a long, naturally disordered
+C-terminal region. This disordered region contains many amino acid residues
+that are phosphorylated by Tor1 kinase. As mentioned above, Atg13 is quickly
+dephosphorylated upon starvation, which allows it to bind to Atg1 and Atg17 via
+specific sites in the disordered region. Atg17 exists as a dimer of Atg17-Atg29-
+Atg31 complexes, the structure of which was recently solved (Ragusa et al., 2012).
+As a result, a dimeric complex of Atg1, Atg13, Atg17, Atg29 and Atg31 is formed,
+known as the Atg1 complex. However, work by Dan Klionsky’s group had sug-
+gested that the actual number of Atg proteins assembling at the PAS is actually
+30–40 (Geng et al., 2008). It was therefore clear that further assembly was occur-
+ring. Recently, we found that Atg13 has a second, weak Atg17 binding site that is
+also essential for PAS formation and autophagy (Yamamoto et al., 2016). Atg13 is
+not able to use both of the binding sites to associate with a single Atg17 protein,
+but rather links two Atg17 molecules, resulting in the formation of the PAS scaf-
+fold. In this way, the scaffold can form a large assembly (Figure 21).
+    Why is such a higher-order supramolecular structure necessary for autoph-
+agy? The answer lies in the activation of Atg1 kinase. Within the PAS scaffold,
+this higher-order organisation brings Atg1 kinases into proximity of each other,
+which results in auto-phosphorylation between adjacent Atg1 molecules (Figure
+21). This activation of Atg1 kinase activity facilitates the next step of membrane
+formation, the recruitment of Atg9 vesicles to the PAS, contributing the initial
+membrane for isolation membrane expansion. Recently, Sho Suzuki found that
+the N-terminal HORMA domain of Atg13 binds to the N-terminal disordered
+region of Atg9 (Figure 22) (Suzuki et al., 2015). Assembly of many HORMA
+
+
+304                                                                   The Nobel Prizes
+
+
+
+
+FIGURE 21. Formation of the supramolecular Atg1 complex by higher-order interactions
+of Atg13 molecules. Dephosphorylation of Atg13, causing Atg1 complex formation, is
+followed by inter-complex linkages that facilitate the activation of Atg1 kinase. Activa-
+tion is achieved by autophosphorylation by adjacent Atg1 proteins enmeshed within the
+surpramolecular complex.
+
+
+domains might be essential for interaction with Atg9 on the recruited vesicles.
+These findings together demonstrate that the PAS is not static, but is in fact a
+dynamic and flexible structure consisting of a large number of Atg proteins and
+membrane structures. During membrane formation, the PAS must be regulated
+spatiotemporally in a concerted manner by protein modification and the forma-
+tion of a transient assembly, but we still need to extend our analyses to the later
+steps of autophagosome formation to get a clear picture of these events.
+
+Alternate forms of autophagy
+I mentioned earlier that nutrient starvation is the most potent signal for the
+induction of autophagy, representing a fundamental evolutionary adaptation to
+the persistent challenge of nutrient limitation, starvation. In our work, we have
+predominantly assessed autophagy in cells that have been subjected to starva-
+tion. But evolution is highly resourceful, and as with many highly-conserved core
+cellular processes, autophagy has found a range of diverse applications in the
+cell. In contrast to the canonical autophagy pathway, where induction is tightly
+
+
+Molecular Mechanisms of Autophagy in Yeast                                           305
+
+
+
+
+FIGURE 22. 3D model of the interaction between the supramolecular Atg1 complex
+(center) and Atg9 vesicles (membranes in pink, Atg9 in red). This interaction supports
+the delivery of the first membranes to the PAS, and is essential as the seed of the isola-
+tion membrane.
+
+
+regulated and induced in response to starvation, constitutive forms of autophagy,
+which occur continuously at a basal level in the cell, have also been uncovered.
+Constitutive autophagy, the progress of which is independent of starvation,
+is important for the maintenance of cytoplasmic homeostasis. Dan Klionsky
+was central in the uncovering of one such form of constitutive autophagy, the
+Cvt pathway, which is an anabolic process that depends on the core autophagy
+machinery (Umekawa and Klionsky, 2012). In the Cvt pathway, the receptor pro-
+tein Atg19 allows Ape1 complexes to interact with the PAS. Following this, the
+core autophagic machinery then very selectively packages the Ape1 complexes
+into a Cvt vesicle. This vesicle is then delivered to the vacuole in the same manner
+as the much larger autophagosome. Once delivered, the cargo of peptidases is
+released into the vacuolar lumen, where they are then processed to yield the
+mature, active hydrolases. This demonstrates that evolution has resulted both
+in selective applications of the autophagic machinery and anabolic processes in
+the cell, aside from its widespread induction in response to cellular crises such
+as nutrient deprivation.
+     This is not the only form of selective autophagy, which is now a burgeoning
+field in autophagy research. The targeted isolation and degradation of a range
+of cellular components, including specific proteins, supramolecular complexes,
+protein aggregates, organelles and even viruses and invasive bacteria (Amano
+et al., 2006) (Figure 23). As an example, Koji Okamoto, in our lab, identified
+Atg32, a receptor protein for the selective degradation of mitochondria that was
+concurrently identified by Klionsky’s group (Okamoto et al., 2009; Kanki et al.,
+2009). Our analysis showed that Atg32 interacts with Atg11, adaptor protein for
+
+
+306                                                                The Nobel Prizes
+
+
+
+
+FIGURE 23. Selective autophagy in yeast. In contrast to starvation-induced autophagy,
+selective autophagy allows the degradation of specific cargo using the core autophagy
+mechanism. Proteins involved in the selective degradation of peroxisome (purple),
+mitochondria (blue), the ER (green) and the maturation of Ape1 (teal) are shown in the
+coloured boxes. Receptor proteins are indicated in red.
+
+selective autophagy, which allows the canonical autophagy mechanism to isolate
+the targeted organelle for vacuolar degradation. In yeast, receptor proteins for
+the peroxisome (Atg28, Stasyk et al., 2006) and α-mannosidase (Atg34, Suzuki
+et al., 2010) have been uncovered in addition to Atg32, and Nakatogawa’s group
+recently discovered receptors for selective autophagy of the ER and the nucleus
+(Atg39 and Atg40, Mochida et al., 2015). These receptor proteins, of which many
+more will be identified, carry an Atg8-interacting motif, as well as an Atg11
+binding site. Atg11 is essential for all forms of selective autophagy, serving as a
+scaffold much like the Atg17 complex involved in starvation-induced autophagy.
+The mechanism by which individual organelles are marked for degradation is
+not clear and further research is essential, but it appears that selective autophagy
+plays a role in maintaining the efficient function and health of intracellular com-
+ponents, removing organelles as they age or accumulate damage. Autophagy
+therefore also plays a role in the maintenance of cellular homeostasis, regardless
+of environmental circumstances such as starvation.
+
+Current work
+Autophagy research is still at a very early stage, and our understanding of the
+physiological role of autophagy is only in its infancy. Over twenty years, our
+
+
+Molecular Mechanisms of Autophagy in Yeast                                     307
+
+
+functional analysis of the Atg proteins allowed us to focus on one question: how
+the autophagosome is formed. To this end, we predominantly used cells that
+were shifted from nutrient rich conditions to a synthetic medium lacking nitro-
+gen. This is because the induction of bulk autophagy is most striking using this
+experimental regime, and is thereby easiest to analyse. However, such nutrient
+rich conditions very rarely exist in nature, and I believe that we must endeavour
+to understand the contribution that autophagy makes during the natural life
+of yeast cells. From this perspective, I feel that we have returned to the starting
+point of autophagy research by going back to the original, fundamental ques-
+tions—when, how, and what is degraded by autophagy? Yeast still offers striking
+advantages in comparison to mammalian cells, including the ease of vacuole
+purification and biochemical analyses. However, a major weakness in the study
+of autophagy has been the relatively limited repertoire of biochemical techniques
+available to researchers. Whilst developing new techniques, we must systemati-
+cally address the conditions that induce autophagy, identify specific degradation
+targets, determine how degradation occurs within the vacuole and identify the
+final products of degradation and how they are exported back to the cytoplasm.
+We must extend our consideration of degradation to targets other than protein,
+which has been the focus until now, to include other cellular material, such as
+nucleic acids, lipids and polysaccharides. As an example, our group has recently
+shown bulk RNA degradation by autophagy, and that the nucleotides result-
+ing from this process are secreted to the outside of the cell (Huang et al., 2015)
+(Figure 24). In order to capture such fascinating phenomena, the identification
+of the products that arise from autophagic degradation, the mechanism of their
+export from the vacuole as well as their effect on and implications for cellular
+metabolism have to be considered. I believe that this research will deepen our
+understanding of degradation and also help to characterise the ambiguous rela-
+tionship between genetics, phenotype and disease.
+
+
+Reflections on the nature of discovery in science
+My autophagy research has always been driven by nothing more than intellectual
+curiosity and a thirst to get a better understanding of life through protein dynam-
+ics within the cell. When I started my work, I never thought it would become
+relevant in diseases as diverse as neuro-degeneration, infectious disease, cancer
+and others in such a short time. But now autophagy research has become a major
+field in biology. Figure 25 shows that the number of papers related to autophagy
+published in the literature continues to rapidly increase. It goes without saying
+
+
+308                                                                  The Nobel Prizes
+
+
+
+
+FIGURE 24. Diagram of autophagy-dependent RNA degradation in yeast. The standard
+process of RNA degradation by autophagy is indicated by thick arrows, whereas minor
+products are indicated by thin arrows.
+
+
+
+that this is thanks in large part to the tremendous efforts of many researchers
+all over the world, so I would like to express my sincere thanks and share this
+honour with all of them.
+     But Figure 25 also tells us it takes a while to establish a new field. Truly origi-
+nal discoveries in science are often triggered by unpredictable and unforeseen
+small findings. Nowadays, the distance between basic discoveries and practical
+applications is getting closer. While this is exciting, scientists are increasingly
+required to provide evidence of immediate and tangible applications of their
+work. It is my sincere hope that society is able to nurture not only purpose-
+oriented science, but also science as a core cultural activity. If my small idea
+and decades of work have made a contribution to fundamental science through
+autophagy research, and the Nobel Foundation recognizes the basic nature of
+this work with this prize, it is honestly my greatest pleasure and satisfaction as
+a basic scientist.
+
+
+Molecular Mechanisms of Autophagy in Yeast                                     309
+
+
+
+
+FIGURE 25. Number of papers published in the field of autophagy. Major developments
+in the Ohsumi lab are indicated in boxes for the relevant years.
+
+
+
+Acknowledgements and closing remarks
+I feel that I have been very fortunate over the 40 years of my research career. I
+am most appreciative for the many wonderful colleagues who I have worked
+with over the years. I have been lucky to work with postdoctoral researchers and
+graduate students who appreciate the importance of basic research. Many of
+them have shared my passion to study difficult projects that do not necessarily
+give immediate results. I am very pleased to note that many of these colleagues
+are now working at a range of universities as researchers. I have also been very
+fortunate to have met and worked with many collaborators over the years who
+have helped us along the way. In particular I want to note the contribution of two
+researchers who have collaborated closely with us for over a decade in the sys-
+tematic analysis of the Atg proteins: Nobuo Noda, who now works at the Institute
+of Microbial Chemistry, and Fuyuhiko Inagaki, who very unfortunately passed
+away in 2016. I deeply appreciate their collaboration over the years.
+    I have only been able to make these achievements thanks to a good dose of
+fortune, the excellent colleagues who have joined me on this journey, the great
+efforts of many collaborators, good friends, the continuous support of many
+
+
+310                                                                    The Nobel Prizes
+
+
+grants and my caring family, especially my wife Mariko. I am truly moved by
+your support over the years.
+
+REFERENCES
+AMANO, A., NAKAGAWA, I. & YOSHIMORI, T. 2006. Autophagy in innate immunity
+    against intracellular bacteria. J Biochem, 140, 161–6.
+ARAKI, Y., KU, W. C., AKIOKA, M., MAY, A. I., HAYASHI, Y., ARISAKA, F., ISHIHAMA,
+    Y. & OHSUMI, Y. 2013. Atg38 is required for autophagy-specific phosphatidylinosi-
+    tol 3-kinase complex integrity. J Cell Biol, 203, 299–313.
+BABA, M., OSUMI, M. & OHSUMI, Y. 1995. Analysis of the membrane structures involved
+    in autophagy in yeast by freeze-replica method. Cell Struct Funct, 20, 465–71.
+BABA, M., TAKESHIGE, K., BABA, N. & OHSUMI, Y. 1994. Ultrastructural analysis of
+    the autophagic process in yeast: detection of autophagosomes and their characteriza-
+    tion. J Cell Biol, 124, 903–13.
+BARTH, H., MEILING-WESSE, K., EPPLE, U. D. & THUMM, M. 2001. Autophagy
+    and the cytoplasm to vacuole targeting pathway both require Aut10p. FEBS Lett,
+    508, 23–8.
+DE DUVE, C. 1963. The Lysosome Concept. Ciba Foundation Symposium—Anterior
+    Pituitary Secretion (Book I of Colloquia on Endocrinology). John Wiley & Sons, Ltd.
+DE DUVE, C., PRESSMAN, B. C., GIANETTO, R., WATTIAUX, R. & APPELMANS, F.
+    1955. Tissue fractionation studies. 6. Intracellular distribution patterns of enzymes
+    in rat-liver tissue. Biochem J, 60, 604–17.
+FARADAY, M. 1861. A Course of Six Lectures on the Chemical History of a Candle, London,
+    Griffin, Bohn and Company.
+GAMOW, G. 1940. Mr. Tompkins in Wonderland, Cambridge, Cambridge University Press.
+GENG, J., BABA, M., NAIR, U. & KLIONSKY, D. J. 2008. Quantitative analysis of
+    autophagy-related protein stoichiometry by fluorescence microscopy. J Cell Biol,
+    182, 129–40.
+HANADA, T., NODA, N. N., SATOMI, Y., ICHIMURA, Y., FUJIOKA, Y., TAKAO, T.,
+    INAGAKI, F. & OHSUMI, Y. 2007. The Atg12-Atg5 conjugate has a novel E3-like
+    activity for protein lipidation in autophagy. J Biol Chem, 282, 37298–302.
+HARTWELL, L. H. 1974. Saccharomyces cerevisiae cell cycle. Bacteriol Rev, 38, 164–98.
+HUANG, H., KAWAMATA, T., HORIE, T., TSUGAWA, H., NAKAYAMA, Y., OHSUMI,
+    Y. & FUKUSAKI, E. 2015. Bulk RNA degradation by nitrogen starvation-induced
+    autophagy in yeast. Embo j, 34, 154–68.
+ICHIMURA, Y., IMAMURA, Y., EMOTO, K., UMEDA, M., NODA, T. & OHSUMI, Y.
+    2004. In vivo and in vitro reconstitution of Atg8 conjugation essential for autophagy.
+    J Biol Chem, 279, 40584–92.
+ICHIMURA, Y., KIRISAKO, T., TAKAO, T., SATOMI, Y., SHIMONISHI, Y., ISHIHARA,
+    N., MIZUSHIMA, N., TANIDA, I., KOMINAMI, E., OHSUMI, M., NODA, T. &
+    OHSUMI, Y. 2000. A ubiquitin-like system mediates protein lipidation. Nature,
+    408, 488–92.
+JOHNSTON, G. C., PRINGLE, J. R. & HARTWELL, L. H. 1977. Coordination of growth
+    with cell division in the yeast Saccharomyces cerevisiae. Exp Cell Res, 105, 79–98.
+
+
+Molecular Mechanisms of Autophagy in Yeast                                         311
+
+
+KABEYA, Y., KAWAMATA, T., SUZUKI, K. & OHSUMI, Y. 2007. Cis1/Atg31 is required
+    for autophagosome formation in Saccharomyces cerevisiae. Biochem Biophys Res
+    Commun, 356, 405–10.
+KABEYA, Y., MIZUSHIMA, N., UENO, T., YAMAMOTO, A., KIRISAKO, T., NODA, T.,
+    KOMINAMI, E., OHSUMI, Y. & YOSHIMORI, T. 2000. LC3, a mammalian homo-
+    logue of yeast Apg8p, is localized in autophagosome membranes after processing.
+    Embo j, 19, 5720–8.
+KAKINUMA, Y., OHSUMI, Y. & ANRAKU, Y. 1981. Properties of H+-translocating
+    adenosine triphosphatase in vacuolar membranes of SAccharomyces cerevisiae. J
+    Biol Chem, 256, 10859–63.
+KAMADA, Y., FUNAKOSHI, T., SHINTANI, T., NAGANO, K., OHSUMI, M. &
+    OHSUMI, Y. 2000. Tor-mediated induction of autophagy via an Apg1 protein kinase
+    complex. J Cell Biol, 150, 1507–13.
+KAMETAKA, S., MATSUURA, A., WADA, Y. & OHSUMI, Y. 1996. Structural and func-
+    tional analyses of APG5, a gene involved in autophagy in yeast. Gene, 178, 139–43.
+KANKI, T., WANG, K., CAO, Y., BABA, M. & KLIONSKY, D. J. 2009. Atg32 is a
+    mitochondrial protein that confers selectivity during mitophagy. Dev Cell,
+    17, 98–109.
+KAWAMATA, T., KAMADA, Y., SUZUKI, K., KUBOSHIMA, N., AKIMATSU, H., OTA,
+    S., OHSUMI, M. & OHSUMI, Y. 2005. Characterization of a novel autophagy-spe-
+    cific gene, ATG29. Biochem Biophys Res Commun, 338, 1884–9.
+KIHARA, A., NODA, T., ISHIHARA, N. & OHSUMI, Y. 2001. Two distinct Vps34 phos-
+    phatidylinositol 3-kinase complexes function in autophagy and carboxypeptidase Y
+    sorting in Saccharomyces cerevisiae. J Cell Biol, 152, 519–30.
+KIRISAKO, T., ICHIMURA, Y., OKADA, H., KABEYA, Y., MIZUSHIMA, N.,
+    YOSHIMORI, T., OHSUMI, M., TAKAO, T., NODA, T. & OHSUMI, Y. 2000.
+    The reversible modification regulates the membrane-binding state of Apg8/Aut7
+    essential for autophagy and the cytoplasm to vacuole targeting pathway. J Cell Biol,
+    151, 263–76.
+KUMA, A., HATANO, M., MATSUI, M., YAMAMOTO, A., NAKAYA, H., YOSHIMORI,
+    T., OHSUMI, Y., TOKUHISA, T. & MIZUSHIMA, N. 2004. The role of autophagy
+    during the early neonatal starvation period. Nature, 432, 1032–6.
+MATSUURA, A., TSUKADA, M., WADA, Y. & OHSUMI, Y. 1997. Apg1p, a novel pro-
+    tein kinase required for the autophagic process in Saccharomyces cerevisiae. Gene,
+    192, 245–50.
+MIZUSHIMA, N., NODA, T., YOSHIMORI, T., TANAKA, Y., ISHII, T., GEORGE, M.
+    D., KLIONSKY, D. J., OHSUMI, M. & OHSUMI, Y. 1998a. A protein conjugation
+    system essential for autophagy. Nature, 395, 395–8.
+MIZUSHIMA, N., SUGITA, H., YOSHIMORI, T. & OHSUMI, Y. 1998b. A new protein
+    conjugation system in human. The counterpart of the yeast Apg12p conjugation
+    system essential for autophagy. J Biol Chem, 273, 33889–92.
+MIZUSHIMA, N., YAMAMOTO, A., MATSUI, M., YOSHIMORI, T. & OHSUMI,
+    Y. 2004. In vivo analysis of autophagy in response to nutrient starvation using
+    transgenic mice expressing a fluorescent autophagosome marker. Mol Biol Cell,
+    15, 1101–11.
+
+
+312                                                                    The Nobel Prizes
+
+
+MOCHIDA, K., OIKAWA, Y., KIMURA, Y., KIRISAKO, H., HIRANO, H., OHSUMI, Y.
+   & NAKATOGAWA, H. 2015. Receptor-mediated selective autophagy degrades the
+   endoplasmic reticulum and the nucleus. Nature, 522, 359–62.
+MORTIMORE, G. E., HUTSON, N. J. & SURMACZ, C. A. 1983. Quantitative correlation
+   between proteolysis and macro- and microautophagy in mouse hepatocytes during
+   starvation and refeeding. Proc Natl Acad Sci U S A, 80, 2179–83.
+MORTIMORE, G. E. & WARD, W. F. 1976. Behavior of the lysosomal system during
+   organ perfusion. An inquiry into the mechanism of hepatic proteolysis. Front Biol,
+   45, 157–84.
+NAKATOGAWA, H., ICHIMURA, Y. & OHSUMI, Y. 2007. Atg8, a ubiquitin-like protein
+   required for autophagosome formation, mediates membrane tethering and hemifu-
+   sion. Cell, 130, 165–78.
+NODA, T. & KLIONSKY, D. J. 2008. The quantitative Pho8Delta60 assay of nonspecific
+   autophagy. Methods Enzymol, 451, 33–42.
+NODA, T. & OHSUMI, Y. 1998. Tor, a phosphatidylinositol kinase homologue, controls
+   autophagy in yeast. J Biol Chem, 273, 3963–6.
+NOVICK, P., FIELD, C. & SCHEKMAN, R. 1980. Identification of 23 complementation
+   groups required for post-translational events in the yeast secretory pathway. Cell,
+   21, 205–15.
+NOVIKOFF, A. B., BEAUFAY, H. & DE DUVE, C. 1956. Electron microscopy of lysoso-
+   merich fractions from rat liver. J Biophys Biochem Cytol, 2, 179–84.
+OHSUMI, Y. & ANRAKU, Y. 1981. Active transport of basic amino acids driven by a
+   proton motive force in vacuolar membrane vesicles of Saccharomyces cerevisiae. J
+   Biol Chem, 256, 2079–82.
+OHSUMI, Y. & ANRAKU, Y. 1983. Calcium transport driven by a proton motive force in
+   vacuolar membrane vesicles of Saccharomyces cerevisiae. J Biol Chem, 258, 5614–7.
+OKAMOTO, K., KONDO-OKAMOTO, N. & OHSUMI, Y. 2009. Mitochondria-anchored
+   receptor Atg32 mediates degradation of mitochondria via selective autophagy. Dev
+   Cell, 17, 87–97.
+RAGUSA, M. J., STANLEY, R. E. & HURLEY, J. H. 2012. Architecture of the Atg17 com-
+   plex as a scaffold for autophagosome biogenesis. Cell, 151, 1501–12.
+SAKOH-NAKATOGAWA, M., MATOBA, K., ASAI, E., KIRISAKO, H., ISHII, J., NODA,
+   N. N., INAGAKI, F., NAKATOGAWA, H. & OHSUMI, Y. 2013. Atg12-Atg5 con-
+   jugate enhances E2 activity of Atg3 by rearranging its catalytic site. Nat Struct Mol
+   Biol, 20, 433–9.
+SCHOENHEIMER, R. The Dynamic State of Body Constituents. The Edward K. Dunham
+   Lectures for the Promotion of the Medical Sciences, 1942. Harvard University Press.
+SCHOENHEIMER, R., RATNER, S. & RITTENBERG, D. 1939. The process of continu-
+   ous deamination and reamination of amino acids in the proteins of normal animals.
+   Science, 89, 272–3.
+SEAMAN, M. N., MARCUSSON, E. G., CEREGHINO, J. L. & EMR, S. D. 1997. Endosome
+   to Golgi retrieval of the vacuolar protein sorting receptor, Vps10p, requires the func-
+   tion of the VPS29, VPS30, and VPS35 gene products. J Cell Biol, 137, 79–92.
+SEGLEN, P. O. & GORDON, P. B. 1982. 3-Methyladenine: specific inhibitor of autopha-
+   gic/lysosomal protein degradation in isolated rat hepatocytes. Proc Natl Acad Sci U
+   S A, 79, 1889–92.
+
+
+Molecular Mechanisms of Autophagy in Yeast                                         313
+
+
+SEGLEN, P. O., GORDON, P. B. & POLI, A. 1980. Amino acid inhibition of the autopha-
+    gic/lysosomal pathway of protein degradation in isolated rat hepatocytes. Biochim
+    Biophys Acta, 630, 103–18.
+STASYK, O. V., STASYK, O. G., MATHEWSON, R. D., FARRE, J. C., NAZARKO, V. Y.,
+    KRASOVSKA, O. S., SUBRAMANI, S., CREGG, J. M. & SIBIRNY, A. A. 2006. Atg28,
+    a novel coiled-coil protein involved in autophagic degradation of peroxisomes in the
+    methylotrophic yeast Pichia pastoris. Autophagy, 2, 30–8.
+SUZUKI, K., KIRISAKO, T., KAMADA, Y., MIZUSHIMA, N., NODA, T. & OHSUMI, Y.
+    2001. The pre-autophagosomal structure organized by concerted functions of APG
+    genes is essential for autophagosome formation. Embo j, 20, 5971–81.
+SUZUKI, K., KONDO, C., MORIMOTO, M. & OHSUMI, Y. 2010. Selective transport
+    of alpha-mannosidase by autophagic pathways: identification of a novel receptor,
+    Atg34p. J Biol Chem, 285, 30019–25.
+SUZUKI, K., KUBOTA, Y., SEKITO, T. & OHSUMI, Y. 2007. Hierarchy of Atg proteins in
+    pre-autophagosomal structure organization. Genes Cells, 12, 209–18.
+SUZUKI, S. W., YAMAMOTO, H., OIKAWA, Y., KONDO-KAKUTA, C., KIMURA, Y.,
+    HIRANO, H. & OHSUMI, Y. 2015. Atg13 HORMA domain recruits Atg9 vesicles
+    during autophagosome formation. Proc Natl Acad Sci U S A, 112, 3350–5.
+TAKAMURA, A., KOMATSU, M., HARA, T., SAKAMOTO, A., KISHI, C., WAGURI, S.,
+    EISHI, Y., HINO, O., TANAKA, K. & MIZUSHIMA, N. 2011. Autophagy-deficient
+    mice develop multiple liver tumors. Genes Dev, 25, 795–800.
+TAKESHIGE, K., BABA, M., TSUBOI, S., NODA, T. & OHSUMI, Y. 1992. Autophagy in
+    yeast demonstrated with proteinase-deficient mutants and conditions for its induc-
+    tion. J Cell Biol, 119, 301–11.
+TSUKADA, M. & OHSUMI, Y. 1993. Isolation and characterization of autophagy-defec-
+    tive mutants of Saccharomyces cerevisiae. FEBS Lett, 333, 169–74.
+UCHIDA, E., OHSUMI, Y. & ANRAKU, Y. 1985. Purification and properties of
+    H+-translocating, Mg2+-adenosine triphosphatase from vacuolar membranes of
+    Saccharomyces cerevisiae. J Biol Chem, 260, 1090–5.
+UMEKAWA, M. & KLIONSKY, D. J. 2012. The Cytoplasm-to-Vacuole Targeting Pathway:
+    A Historical Perspective. Int J Cell Biol, 2012, 142634.
+YAMAMOTO, H., FUJIOKA, Y., SUZUKI, S. W., NOSHIRO, D., SUZUKI, H., KONDO-
+    KAKUTA, C., KIMURA, Y., HIRANO, H., ANDO, T., NODA, N. N. & OHSUMI,
+    Y. 2016. The Intrinsically Disordered Protein Atg13 Mediates Supramolecular
+    Assembly of Autophagy Initiation Complexes. Dev Cell, 38, 86–99.
+YAMAMOTO, H., KAKUTA, S., WATANABE, T. M., KITAMURA, A., SEKITO, T.,
+    KONDO-KAKUTA, C., ICHIKAWA, R., KINJO, M. & OHSUMI, Y. 2012. Atg9
+    vesicles are an important membrane source during early steps of autophagosome
+    formation. J Cell Biol, 198, 219–33.
+YOSHIMOTO, K., HANAOKA, H., SATO, S., KATO, T., TABATA, S., NODA, T. &
+    OHSUMI, Y. 2004. Processing of ATG8s, ubiquitin-like proteins, and their decon-
+    jugation by ATG4s are essential for plant autophagy. Plant Cell, 16, 2967–83.
+

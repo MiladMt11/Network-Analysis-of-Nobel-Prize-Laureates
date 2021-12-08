@@ -1,0 +1,1237 @@
+                                 M   ANFRED      EIGEN
+
+
+                     Immeasurably fast reactions*
+                          Nobel Lecture, December 11, 1967
+
+
+
+                                1. "Prejudice and Pride"
+
+"The rate of true neutralization reactions has proved to be immeasurably
+fast". I found this quotation in Eucken’s Lehrbuch der Chemischen PhysikI while
+I was preparing for my doctor’s examination. Although as a student of
+Eucken, this book was for me the "bible of physical chemistry", I was then at
+the age when one accepts practically nothing unquestioned, and so I started to
+reflect on just how fast an "immeasurably fast" reaction might be.
+   Clearly, the two reagents - the H+ and OH- ions in the case of neutrali-
+zation - must come together before they can combine to form the reaction
+product: the H2O molecule. The maximum rate will be determined by the
+frequency of such encounters or collisions, and this in turn will depend only
+on the diffusion rate and the mean separation of the reaction partners. This
+problem had already been analysed by Langevin2, von Smoluchowski3, Ein-
+stein 4, Onsager5, and Debye6, all of whom had derived expressions for the
+frequency of ionic collisions. It was fortunate that I was unable at that time to
+find in Göttingen Debye’s paper in which this problem is solved in general
+form, for this meant that I had to sit down and derive again for myself the
+expression for the rate constant of diffusion-controlled reactions. The result
+was a theory which also applies to the mechanism of reactions in which not
+every encounter is successful. In such reactions the "lifetime of the collision
+complex" i. e. the time after which the partners diffuse apart once more if the
+encounter has not resulted in reaction, plays an important part. This time
+worked out as
+
+
+
+* The investigation of fast reactions particularly the more recent applications in biologi-
+cal chemistry, has been dealt with in more detail in a number of recently published
+reviews 55,56,66,72,75 . The present lecture is not intended to duplicate these papers, but
+represents an attempt to record the development of a scientific idea from a personal point
+of view.
+
+
+                  IMMEASURABLY FAST REACTIONS                                 171
+where R is the separation at closest approach, D + and D - are the diffusion
+coefficients of the reagents, and is the energy of electrostatic interaction
+divided by kT (ref. 15).
+   If in this expression we expand the exponential term for the electrostatic
+interaction of the reaction partners, which is generally relatively small, and
+use Einstein’s correlation between the diffusion coefficient and the "mean
+square displacement", we find that the encounter time is simply the time re-
+quired by the reaction partners to diffuse a distance corresponding to their
+separation at closest approach. Using the known values for D
+sec) , this time works out at
+
+
+
+
+If the actual "chemical" change takes place more quickly than this, the reaction
+rate is determined entirely by the collision frequency, and if it takes place
+more slowly, the reaction rate is independent of the rate of diffusion of the
+reaction partners (and hence of the viscosity of the solvent). It is then simply
+given by the rate of the chemical change (determined by a frequency factor
+and an exponential term containing the activation energy) multiplied by the
+statistical probability of the formation of the reaction complex.
+    At that time a reaction time of the order of magnitude of 10-10 set did in fact
+seem "immeasurable".
+   We generally describe as "fast" anything that takes place quickly compared
+to the rate of resolution of our sense perceptions. However, since our per-
+ceptions are in turn based on chemical processes - including the charge neutra-
+lization reactions that have just been mentioned - these processes must neces-
+sarily be "fast" - indeed "extremely fast".
+    But what does "immeasurable" mean? If we wish to measure the rate of a
+chemical reaction, we must do two things: (1) induce the reaction; and (2)
+follow the course of the reaction in time.
+    Chemists generally induce a reaction by mixing the reagents with each
+other. This must be done very quickly, and here the first difficulty appeared:
+in many cases the mixing takes longer than the entire reaction under investi-
+gation. Attempts were therefore made to reduce the mixing time, and
+Hartridge and Roughton7 succeeded by using a flow method in which the
+partners flow together at high velocity and are mixed together within about
+one-thousandth of a second. At the same time, Hartridge and Roughton
+also solved the second problem, that of the rapid observation of the course
+
+
+172                       1967 MANFRED EIGEN
+
+of the reaction. In the observation tube the time sequence of the reaction
+appears as a sequence in space, since the mixture flows at a constant velocity.
+The distance from the mixing chamber (in which the reaction is induced)
+is a measure of the age of the reaction mixture. This method was undoubt-
+edly a great step forward, and it was subsequently refined and developed
+into an extremely effective instrument, especially for the enzyme chemist,
+by Britton Chance and his school in particular, but the reaction times were
+restricted to the range of milliseconds. Neutralization reactions thus still
+proved to be "immeasurably fast". If, as has just been shown, we had to
+assume that the shortest reaction time that might have to be observed was
+of the order of 10-10-10 -11 sec, there was a gap here of some 7 or 8 orders of
+magnitude. On a logarithmic scale, this is the same span as between a milli-
+second and a day or between a second and the duration of the studies for a
+doctor’s degree, or again the span between the duration of the shortest "meas-
+urable" reaction at that time and the time spent in the laboratory to carry
+out the experiment. This was the situation around 1950, and in this sense
+neutralization reactions would still have to be regarded as "immeasurably
+fast" today.
+   However, there are always two possible courses when one is faced by an
+obstacle. One can either attempt to overcome the obstacle, as was done by
+Hartridge and Roughton, or to get around it.
+   In this case, the second course achieved our objective more quickly: we
+tried to get around the obstacle. This can be done in the following way: We
+know that chemical reactions are never entirely completed, and that an
+equilibrium between the various reagents is always established. Such chemical
+equilibrium is not static - it does not imply that the individual changes comes
+to a halt. The situation is, rather, that an opposing reaction sets in and ensures
+that eventually the number of products formed in unit time becomes equal to
+the number breaking down in that time. The number of units of the various
+partners will then on average remain constant. In the case of neutralization,
+    "equilibrium" this means that H 2O molecules are continually breaking down
+into H+ and OH- ions, but that these ions very rapidly combine again to form
+water molecules, so that on average there are very few H+ and OH-ions "in
+  equilibrium" with very many H 2O molecules. In pure water the ratio of the
+number of H2O molecules to be number of H+ ions is almost 10 9. Unfortu-
+nately, it is not generally possible to see the rapid "to and fro" occurrence of
+these reactions in equilibrium, even if one attempts to "observe" the processes
+with "rapid resolution" methods. The individual reaction signals average out
+
+
+                   IMMEASURABLY           FAST    REACTIONS                      173
+precisely*. It would be necessary to seek to "align" or "synchronize" these
+mutually compensating individual signals. This can be done by rapidly
+disturbing the equilibrium, thus producing an "excess reaction" in one par-
+ticular direction for a brief period (this reaction naturally vanishes when
+equilibrium is re-established). The only further requirement is that we must
+look quickly enough to see the decay of the excess reaction. We are therefore
+once again faced with the problem of inducing the reaction and observing it,
+but it is no longer necessary for us to mix the reaction partners. We need only
+transmit the inducing signal into the reaction system and then receive the
+reaction signal from the system. Since the signal must act through a large
+number of molecules, it must always travel a certain distance, and since there
+is a limit to the velocity of the signal it is not possible to measure "infinitely"
+short times. Where then does the limit lie?
+   The inducing signal can be either mechanical or electrical. A mechanical
+signal, for instance a pressure wave such as is observed in an explosion, propa-
+gates at about the velocity of sound, i.e. at about 10 5 cm/sec in condensed
+phases. An electric signal, for example a travelling electric wave, is about one
+hundred thousand times as fast, and its rate of propagation (in condensed
+phases) is only slightly less than the velocity of light in vacuum. If such signals
+are made to travel distances of 1-10 mm (the diameter of a measurement cell),
+we can attain "resolution times" of 1            in the case of mechanical signals and
+of less then 10 set with electrical signals. It is naturally also necessary to use
+                -10
+
+
+
+inertia-free, i.e. optical or electrical, signals to observe the reaction. We shall
+see that the main difficulty will lie in recording such signals. In the case of
+chemical equilibrium reactions, the signals emitted are so weak that they are
+only slightly above the "thermal noise". However, we can see that in principle
+we have already solved our problem, namely that of following chemical re-
+actions down to within the time range of 10-10 sec. "Immeasurably" fast reac-
+tions should therefore be measurable after all.
+   However, I must now make two reservations: (1) When a problem has
+been solved in principle it is still far from having been solved specifically. (2)
+New discoveries are not generally made in this deductive manner, even if it
+appears so in retrospect.
+   First, chance had to come to our aid.
+
+
+* We shall for the moment omit from consideration a fairly new class of methods in
+which the line width of resonance signals emitted by the reaction partners provides a
+certain amount of information about these individual processes.
+
+
+174                       1967 MANFRED EIGEN
+
+                            2. A Trip to the Seaside
+
+At the Third Physics Institute of the University of Göttingen, my colleagues
+Konrad Tamm and Günther Kurtze had investigated the absorption of sound
+by aqueous electrolyte solutions. Behind these investigations there was a
+technical problem, that of measuring distances in sea water by means of
+acoustic probes. When an acoustic signal is emitted in the sea, it does not
+travel far; it is absorbed. Now, it was found that in certain frequency ranges
+sea water absorbs sound even more strongly than distilled water.
+    What was the reason for this phenomenon?
+    Tamm and his colleagues - and also some groups of workers in the United
+States 9,10 - had found that it is the magnesium sulphate present in the sea water
+which is essentially responsible for the absorption. However, it was not clear
+to what interaction the energy loss of the sound waves was due. Was it the
+hydrodynamic properties of the ions, was it their interaction with the water,
+i. e. hydration of the ions, or was it some interaction between the ions them-
+selves? Since I had considered such interactions in some detail in my disser-
+tation, Tamm and Kurtze turned to me, and we started a joint programme of
+measurements. It was very quickly found that the absorption could not be
+caused solely by the interaction between the Mg2+ and SO42- ions and the
+water, for neither magnesium chloride nor sodium sulphate dissolved on their
+own produced comparable effects. On the other hand, neither could a simple
+inter-ionic interaction be the explanation, either in terms of the Debye-
+Hückel ion clouds, for which we would expect a broad continuum of ab-
+sorption at high frequenciesII, or in terms of ionic association as described by
+Nernst12a or Bjerrum 12b , which should give a single absorption maximum.
+Two separate maxima were in fact found in the ultrasonic region, one at about
+105 Hz and the other at about 108 Hz, which had to be in some way related to
+each other because of the way in which they were found to depend on con-
+centration 13. In short, it appeared that there was an interaction between mag-
+nesium ions, sulphate ions, and water molecules in the form of a sequence of
+linked reactions. Here I should anticipate what will be said in a later section
+(Section 8a, p. 193) by stating that this was in fact the correct explanation: the
+interaction involves a stepwise substitution of the water molecules bound in
+the coordination shells of the magnesium-aquo complex by the sulphate ion,
+with the absorption continuum of the ion-cloud interactions appearing only
+at higher frequencies (which could not be reached at that time).
+
+
+                   IMMEASURABLY FAST REACTIONS                                   175
+                                3. Back to Physics
+
+At this point I feel I should interrupt my account of the historical course of
+events, and show how chemical interactions can cause the absorption of sound
+in the first place.
+   A sound wave represents an adiabatic pressure change progressing period-
+ically in space and time. In water, as a result of the density maximum at 4ºC,
+the simultaneously appearing temperature wave is very small in magnitude
+compared to the pressure wave. Thus, in the present case essentially we have
+to consider only the effect of the pressure change on the chemical equilibrium.
+A chemical equilibrium is always pressure-dependent whenever the reaction
+partners (in equilibrium with each other) differ in volume. When this is the
+case, a pressure change will induce a chemical excess reaction which takes
+place at a finite rate and leads to adaptation to the particular equilibrium state
+concerned. If the periodic pressure change takes place very rapidly in relation
+to the chemical reaction, the system will practically not "notice" these changes:
+the rapid positive and negative disturbances average out before the onset of
+any appreciable reaction (cf. Fig. 1a).
+   On the other hand, if the pressure change takes place very slowly compared
+to the chemical reaction, the system follows these changes with practically no
+lag. The sound then merely propagates at a slightly lower velocity, for the
+compressibility of the medium contains a contribution from the state of the
+chemical equilibrium (cf. Fig. 1b). Now, the interesting case is that in which
+the rate of re-establishment of equilibrium is comparable to the rate of the
+pressure change (i. e. when the time constant for the establishment of chemical
+equilibrium is of the same order of magnitude as the period of the acoustic
+wave). In this case the system tries to adapt continuously to the pressure change
+but does not quite succeed, so that it lags behind the pressure change by a finite
+phase difference. The chemical state is characterized by the concentrations of
+the reaction partners or the reaction variable. Because of the finite volume
+difference between the reaction partners in equilibrium, a volume increment
+characteristic of the chemical change follows the pressure change with a cer-
+tain phase lag. In all fields of physics where there is this kind of phase difference
+between "conjugate" variables there is a transfer of energy (in this case a re-
+duction in the amplitude of the sound waves). For a finite phase difference, the
+integral           different for the compression and dilatation periods.
+   The physical situation just described can also be given mathematical ex-
+pression. The essential steps in the calculation are shown in Tables 1A and 1B.
+
+
+176                           1967 MANFRED EIGEN
+
+
+
+
+Fig. 1a. Periodic disturbances of a chemical equilibrium. Continuous line, disturbing
+parameter (e.g. sound pressure, affinity). Broken line, instantaneous value of an "inter-
+nal" system parameter (e.g. concentration, reaction variable, volume increment of the
+chemical change). (I) The disturbance occurs slowly in relation to the chemical change.
+(2) The period of the        disturbance and the reaction time are of the same order of magni-
+              tude. (3) The disturbance is rapid in relation to the reaction.
+
+Fig. 1b. Amplitude and phase of the equilibrium disturbance and the energy absorption
+during one period, all as functions of the angular frequency =       in the relaxation
+                                         range.
+
+
+The starting point is the reaction rate of a particular system. For small distur-
+bances the relevant differential equation can always be reduced to linear form.
+The concentration variable is then       i.e. the deviation of the concentration at
+any instant from a given reference value (e.g. the mean in the case of periodic
+disturbances) ; is then the deviation of the hypothetical-equilibrium value
+(relative to the instantaneous value of the pressure) from the same reference
+value. The deviation of the instantaneous value of the concentration from its
+equilibrium value is then             This difference is proportional to the rate of
+the chemical change. In the case of periodic disturbances, the differential
+equation has a complex solution. The imaginary part ultimately re-appears in
+the absorption coefficient ( cf. also Table 1B and Fig. 2). The decreases in am-
+plitude, phase difference, and energy absorption per wavelength (2              are
+shown as functions of frequency in Fig. 1b. The chemical contribution to
+
+
+                  IMMEASURABLY            FAST    REACTIONS                         177
+                                      Table 1
+        Dispersion and absorption of sound as a result of chemical relaxation
+    (A comprehensive theoretical treatment with bibliography is given in ref. 32)
+
+
+
+
+compressibility has been assumed to be small compared to the contribution of
+the solvent.
+   The calculations shown in Table 1 formed the starting point for our investi-
+gations on fast chemical reactions . It can be seen that the relaxation time of
+                                  14,15
+
+
+
+the chemical equilibrium state can be read off directly from the variation of
+the absorption with frequency e.g. as the reciprocal of the frequency at the
+maximum absorption per wavelength. This relaxation time is simply related
+to the kinetic constants of the reaction system, as shown by the example in
+Fig. 3. This gives us a direct approach to the kinetics of fast reactions - even
+reactions that were hitherto "immeasurably" fast.
+   Of course this simple theory of single-stage relaxation processes cannot be
+applied directly to magnesium sulphate, but a sufficiently simple system was
+
+
+178                          1967 MANFRED EIGEN
+
+
+
+
+Fig. 2. Schematic representation of a plane propagating sound wave. Top, undamped
+                       (U real); below, damped (U complex).
+
+
+                                                              --
+
+
+
+
+Fig. 3. Reciprocal of the relaxation time of a dissociation equilibrium as a function of the
+equilibrium concentration of the reaction partners. The gradient and the intercept on the
+          ordinate give the rate constants for recombination and dissociation.
+
+
+                    IMMEASURABLY FAST REACTIONS                                     179
+soon found: the hydrolysis equilibrium of ammonia in aqueous solution. A
+predictive calculation of the absorption and relaxation time (assuming diffu-
+sion-controlled recombination of NH4+ and OH-) gave full agreement with
+the experimental data15,16 (Fig. 4.).
+
+
+
+
+Fig. 4. Absorption of sound as a result of chemical relaxation in a system consisting of
+NH, in aqueous solution. Q. (absorption cross-section x wavelength) as a function of
+frequency (Q corresponds to the energy absorption coefficient related to the total
+number of NH, molecules per unit volume). Parameter, molar concentration of NH,.
+
+
+At the same time it was also possible to solve a problem which had interested
+chemists for a long time. It was shown that in alkaline solution the reaction
+does not proceed via dissociation of the cationic acid (cf. the reaction scheme
+given in Fig. 5). In the reverse reaction, the dissociation of H2O is accelerated
+by about ten orders of magnitude by the vicinity of NH3:
+
+
+
+
+The situation was much more complicated in the case of magnesium sulphate.
+Here it was first necessary to assume a scheme of stages for the stepwise for-
+mation of an aquo complex between the magnesium and sulphate ions (see
+Section 8a, p. 193). For the reaction rates of the different stages we get a system
+of linked differential equations from which, after reduction to linear form, the
+
+
+180                         1967 MANFRED EIGEN
+
+
+
+
+Fig. 5. Equilibrium state in the ammonia-water system. The direction of the reaction
+depends on the pH of the solution. There are three coupled reactions: ( 1) neutralization
+of the cationic acid NH.,+ and splitting of water in the complex NH 3· H2O; (2) depro-
+tonation of the cationic acid and protonation of the anhydro base NH3; (3) dissociation
+of the solvent water and recombination of the H+ and OH- ions originating from the
+                                        solvent.
+
+relaxation times are found as (negative, reciprocal) eigenvalues18,19 . They
+cannot in general be attributed to individual stages of the reaction, as with the
+normal frequencies of a system of coupled oscillators, but the rate constants
+ofindividual stages of the reaction can be determined from the relaxation time
+spectrum with the aid of suitable transformations.
+
+
+
+                                4. Historical Review
+
+The principle of the method described above is quite well-known to physi-
+cists. Albert Einstein20 had already shown in 1916 that relaxation effects ap-
+pear in a dissociating gas subjected to the periodic temperature variations of a
+sound wave, and that these effects result in a dispersion of the velocity of
+sound. At about the same time, Walter Nernst and his associates attempted to
+detect this effect experimentally in the 2                    system21. However,
+these measurements were unsuccessful because the techniques of sound trans-
+mission were still insufficiently developed. Later, i.e. at about the beginning of
+the thirties, and following investigations by K.F. Herzfeld 22 and H.O.Kneser
+(ref.23), the interest of physicists and physical chemists turned to the relax-
+ation effects which result from a lag in the establishment of equilibrium in
+"internal" temperature, i.e. to lags in energy transfers between the different
+degrees of freedom (translation, rotation, and vibration). It was only after
+these investigations that the "chemical" relaxation effects were detected and
+analysed. At about the same time, John Iamb and his school were studying
+the absorption of sound by rotation isomers24,25 . The detection of chemical
+
+
+                  IMMEASURABLY FAST REACTIONS                                181
+
+relaxation effects in gases by means of sound absorption measurements was
+eventually achieved for the classic example of the dissociation of N 2O4, but
+only after a delay of about 40 years26. In the meantime, the theory of the
+dispersion of sound based on the thermodynamics of irreversible processes 27,28
+had also been developed in very general form, especially by J. Meixner , .
+                                                                           29 30
+
+
+
+   Today we know the relaxation spectra of many chemical reactions, but
+very few of them derive from sound absorption measurements. The sound
+absorption method is generally too insensitive for studying chemical relax-
+ation effects. One of the reasons for this is the high background absorption of
+the solvent. Since this increases with the square of the frequency, very different
+methods are required to cover a wide frequency range. Thus, at 100 kHz the
+amplitude of sound in pure water falls by about 37% (1/e) over a distance of
+4 km, while at 100 MHz the same percentage reduction takes place over a
+distance of only 4 mm.
+   At low frequencies (< 100 kHz) resonance or reverberation techniques are
+generally used, and at very high frequencies (> 10 MHz) mainly pulse-echo
+methods are preferred. Several methods are available in the intermediate fre-
+quency range: interferometric methods and direct measurement of the damp -
+ing from observations on the amplitude of the sound from the refraction of
+light waves in the acoustic field (after Debye and Sears). A review of the
+various techniques of measurement can be found in refs. 31 and 32. Because of
+the long wavelengths at low frequencies, large volumes of liquid and hence
+relatively large amounts ofsubstances are required at such frequencies. At high
+frequencies it is necessary to work with very high concentrations because of
+the strong background absorption of the solvent. Even if it has by now by and
+large proved to be possible to adapt various sound absorption methods to the
+requirements of chemical relaxation studies33 - e.g. by considerably reducing
+the liquid volume while at the same time increasing the sensitivity by using
+difference methods - the application of this method, particularly to the more
+interesting multi-stage reaction mechanisms of biochemistry, remains very
+limited.
+
+
+
+                                 5. New Paths
+
+Our first thoughts were along the lines of developing new relaxation methods
+in which the pressure of the sound waves was replaced by another variable,
+possibly electric field strength. It is of course impossible to carry out such
+
+
+182                          1967 MANFRED EIGEN
+
+measurements in travelling electromagnetic waves, for the wavelengths are
+larger than those of sound waves of comparable frequency by a factor of 105.
+On the other hand, it should be relatively easy to determine dielectric dis-
+persion and absorption directly by means of capacitance measurements using
+tuned circuits. On examining the literature, we found that although there was
+here a highly developed measurement technique and a great wealth of experi-
+mental data, it related exclusively to the relaxation of dipole orientation and
+not to chemical effects. The reason for this can be seen immediately from
+Fig. 6: the equilibrium constant for a chemical change of polar molecules is a
+quadratic function of the electric field. Small amplitudes are generally used in
+determining the dielectric constant (ε) or the energy loss (tan δ ), so that the
+chemical increment does not appear in the linear field terms measured. It was
+but a short step from recognizing this to going on to develop an appropriate
+non-linear method34, even if this left a whole series of technical problems to
+be solved. In a resonant circuit of high efficiency (with sharp resonance line),
+a strong steady field is superimposed on a low-amplitude alternating field.
+The associated chemical reaction leads to a broadening of, and shift in, the
+resonance line, which can be measured as a function of the field strength
+         concentration (corresponding to a second-order reaction) and fre-
+
+
+
+
+Fig. 6. Dependence of the equilibrium constant K of a chemical change on the electric
+field. (Example : the base pairing reaction adenine [A] + uracil [U].) In dilute solution
+the "reaction moment" ∆ M varies as shown with the dipole moments of the individual
+          reaction partners. E, electric field strength; kT, Boltzmann factor.
+
+
+                     IMMEASURABLY FAST REACTIONS                                         183
+
+
+
+
+Fig. 7. Dielectric absorption in strong fields as a result of chemical relaxation. (Increment
+in the loss angle        as a function of frequency.) The two maxima are the result of a
+relaxation of the coupled chemical reactions indicated. A,                       B, 2-amino-
+                      pyrimidine, in cyclohexane, 22ºC. 200 kV/cm.
+
+
+
+
+quency                   In contradistinction to the simple orientation relaxation
+of dipoles (which generally occurs in the microwave range), the relaxation
+time of the chemical change is concentration-dependent in accordance with
+the order of the reaction. This enables the chemical effects to be distinguished
+from other relaxation effects relatively easily - once they have been made
+accessible to measurement in the first place. The main factor responsible for
+the technical difficulties of such measurements is that the effect is very small.
+Field strengths of up to 3.105 V/cm (the breakdown limit) were required,
+and tan (the loss angle) had to be accurate to fractions of 10-6. My colleagues
+Klaus Bergmann and Leo De Maeyer developed a method of this accu-
+                    35                       36
+
+
+
+racy. Fig. 7 shows some absorption curves           as a function of the frequency
+of the alternating field) obtained by Julian Suarez37. The curves are for two
+coupled association reactions of hydrogen-bridge-forming substances in
+non-polar solvents. Unfortunately, the method cannot be applied directly
+to polar solvents (because their conductivity is too high), but pulse methods
+are available in this case, as will be shown later in Section 6 (p.184).
+
+
+184                       1967 MANFRED EIGEN
+
+   The dielectric method has attained great importance because it enables
+direct investigation of the kinetics of hydrogen bonding. This method thus
+enables the kinetics of the individual stages of base pairing in nucleic acids to
+be followed directly 38. With long-chain macromolecules it can happen that
+orientation requires a longer time than the chemical reaction, and in this case
+the chemical relaxation appears in the linear terms as well. Gerhard Schwarz
+used a method like this (which does not require a strong steady field to be
+superimposed) to investigate the kinetics of structural changes in polypep-
+tides39.
+
+
+
+
+Periodic relaxation methods have added greatly to our knowledge of the
+kinetics of chemical reactions, particularly in the time range from micro-
+seconds to nanoseconds, but their use has always been confined to specific
+individual cases. In many cases the contribution of a chemical change to the
+thermodynamic parameters of the solution as a whole (e.g. its compressibility
+or dielectric permittivity) is so small that precise measurement is impossible.
+This is particularly so when we are concerned with multi-stage reactions, in
+which the relaxation spectrum could give detailed information on the inter-
+mediate stages and hence on the mechanism of the reaction. Here the approach
+to adopt was to follow the chemical change directly by means of specific
+properties of the reaction partners. This principle has now become familiar to
+us: in its simplest form, it can be formulated as follows:
+   The equilibrium constant must be rapidly changed by a constant (small)
+amount and the establishment of the new equilibrium followed immediately.
+   We then obtain a system of homogeneous linear differential equations for
+the reaction rates. The solutions are exponential functions with real, negative
+arguments.
+   However, it is not always simple to carry out in practice what appears to be
+simple in mathematical terms or in its physical principle.
+   Although we have now learned how to produce such step-like disturbances
+(with steep rising and descending branches), we initially attempted to use
+sinusoidal single pulses. As the disturbing parameter for investigating electro-
+lytic dissociation equilibria we used the electric field strength. M. Wien40 had
+already shown at the beginning of the thirties that binary electrolytes exhibit
+increased dissociation in strong fields. Lars Onsager41 gave a complete theo-
+
+
+                     IMMEASURABLY FAST REACTIONS                                          185
+
+
+
+
+    Fig. 8. Relaxation behaviour following pulse-like disturbance of equilibrium.
+
+
+
+
+Fig. 9. Dispersion of the dissociation field effect in the systems ammonia andacetic acid in
+aqueous solution. The (normalized) change in the amplitude of the shift at equilibrium
+( cf. Fig.8) is plotted as a function of the reciprocal of the pulse duration (relative to the
+relaxation time). is the angular frequency of the critically damped sinusoidal pulse;
+                                      cf. ref. 42.) t, 20ºC.
+
+
+186                          1967 MANFRED EIGEN
+
+
+
+
+Fig.10. 200 kV high-voltage apparatus, pulse circuit, and impedance bridge with which
+the first chemical relaxation measurements using the dissociation field effect were carried
+                               out in 1953/1954 ( cf. Fig.9).
+
+
+
+retical interpretation of this "dissociation field effect". Fig. 8 shows how the
+dispersion of this effect can be measured with the aid of short-duration field
+pulses, and hence used to determine the relaxation time for the chemical
+equilibrium state. The amplitude of the shiftin equilibrium - measured as a
+change in conductivity - was determined directly with the help of a null
+method specially developed for this purpose in collaboration with Josef
+Schoen 42. Fig. 9 shows the dispersion of the amplitude of the field effect as a
+function of pulse duration (or the frequency of a strongly damped harmonic
+vibration). The high-voltage apparatus used at that time is shown in Fig. 10.
+   A fairly large number of individual measurements with different pulse
+lengths were required to obtain a dispersion curve, but in contrast the relax-
+ation time could be measured in a single experiment using a rectangular pulse.
+This advantage appeared to us decisive in determining the rate of a neutrali-
+zation reaction. In this case it is possible to obtain a measurable disturbance in
+the equilibrium only by starting with "very pure" water, in which 10-7 moles
+of H+ and OH- ions are in equilibrium with about 55 moles of H 2O. A change
+in the equilibrium concentration of the ions can easily be followed by means
+of the electrical conductivity provided no contaminating ions get into the
+
+
+                   IMMEASURABLY FAST REACTIONS                                       187
+
+solution. But this is precisely what happens when the highly purified water is
+subjected to too many high-voltage pulses. A single rectangular pulse - pro-
+duced by a double spark circuit17- made it possible for the first time to measure
+the chemical relaxation of the dissociation of H2O and hence the neutralization
+kinetics. At the same time, a stationary field method made possible the direct
+measurement of dissociation rates (e.g. in ice crystals)43, thus enabling the
+kinetic parameters of the transport and neutralization of proton charges in
+hydrogen-bridge systems to be finally established.
+
+
+
+
+Today we use step-type disturbances, which are the most suitable for study-
+ing complex, multi-stage reaction mechanisms (see Fig. 11), almost exclu-
+sively. This procedure enables the relaxation spectrum to be followed directly
+by means of discrete steps (with logarithmic time scale). Fig. 12 shows the
+relaxation spectrum of a biochemical reaction. With a closely packed se-
+quence of steps (a relaxation continuum) we obtain clearly defined mean
+values, either from the integral or from the initial gradient of the relaxation
+curve (mean values oft and       respectively44).
+
+
+
+
+Fig. II. Relaxation resulting from the disturbance of an equilibrium by a temperature
+jump. (1) A single relaxation process on a linear time scale. (2) Relaxation spectrum on a
+                                 logarithmic time scale.
+
+
+                              1967 MANFRED EIGEN
+
+
+
+
+Fig. 12. Oscillogram of a relaxation spectrum with 3 time constants (the system glyceral-
+dehyde-3-phosphate                                  The spectrum describes the reaction
+mechanism of an allosteric enzyme. The relaxation measurements yielded important
+information on the nature of allosteric control ( cf. refs. 66-68, see also Figs. 22 and 23).
+pH, 8.5; 40ºC; D0= 6.10 -4(M). (a) 0.2 msec/cm,              = 7000sec-1. (b) 1.0msec/cm,
+                       = 690sec . (c) 500 msec/cm,
+                                 -1
+                                                               = 0.2 sec-1.
+
+
+The time resolution depends on the steepness of the step and also on the
+signal-to-noise ratio that can be attained. Fig. 13 shows as example the field
+effect of oxyhaemoglobin, measured by Georg Ilgenfritz45 with a time reso-
+lution of about 50 nsec. In this case, the rectangular field pulse was obtained in
+the form of a travelling wave by discharging a high-tension cable across two
+spark gaps (Fig. 14)46.
+   Pressure waves with very steep ascending and descending branches can also
+be produced in a shock tube on a similar principle. The shock tube is now a
+standard instrument for studying fast reactions in gas kinetics 47. Fig. 15 shows
+
+
+
+
+Fig. 13. Oscillogram of the dissociation field effect in oxyhaemoglobin (time scale 10-6
+sec/cm, relaxation time ~ 50 nsec). The measurement was made by the method de-
+scribed in Fig. 14. System: oxyhaemoglobin (sheep), conc. 10-4 M, pH 8.9,      577
+                 field strength 75 kV/cm, time constant 10-7 sec.
+
+
+                     IMMEASURABLY FAST REACTIONS                                          189
+
+
+
+
+method for studying chemical relaxation. The (rectangular) electric pulse is produced by
+discharging a coaxial high-tension cable (time of travel about 3                  The cable is
+connected through one spark gap (on the left in the figure) with a resistance matched to
+the impedance of the cable and through the other spark gap (above, right) to the (high-
+resistance) measuring cell. Depending on which of the two spark gaps is triggered first,
+it is possible to produce pulse durations that are fractions or multiples of the time of
+travel (in the former case the energy is dissipated in the matched resistance, and in the
+latter multiple reflection occurs at the measuring cell). The field effect is recorded spectro-
+photometrically. (The apparatus was constructed by Georg Ilgenfritz, Dissertation,
+                                       Göttingen, 1966.)
+
+
+the principle of a shock tube for liquids developed by Alexander Jost for
+studying fast reactions in solutions 4 8. Simple pressure jump methods have
+been given by Hans Strehlow48, among others.
+   However, particular mention should be made here of temperature jump
+methods. Very simple in principle, these methods are especially wide-ranging
+in their applicability to the study of fast reactions.
+   There are two ways of producing temperature jumps: firstly by adiabatic
+compression or dilatation, and secondly by heating by means of electrical
+impulses in electrolyte systems. The first method is not suitable for aqueous
+solutions, because of the maximum in the density of water at 4ºC. Electrical
+heating can be achieved in two ways: (1) simply with a current impulse in
+solutions having a finite electrolytic conductivity; and (2) with microwave
+impulses in the X-band range (dispersion of H2O orientation) for any con-
+ductivity. Strong fields (~ 100 kV/cm) are required in both cases. In the case of
+microwave heating, this means radar impulses with powers of the order of
+megawatts. The chemical change is best followed by optical methods (spec-
+ trophotometry, fluorimetry, polarimetry). After initial difficulties (inho-
+
+
+190                                      1 9 6 7   M A N F R E D           E I G E N
+
+
+
+
+Fig. 15. Mechanical pressure wave method for studying chemical relaxation effects in
+liquids. The method is a mechanical analogue of the electrical impulse method shown in
+Fig. 14 (although in this case the time of travel is limited by the velocity of sound which
+is about 5 orders of magnitude slower). The thickwaled shock tube is completely filled
+with liquid. The shock wave originates when the metal membrane bursts following the
+production of a pressure of about 1000-1500 atm in the upper part of the tube. The
+measurement is made using the reflected shock wave (time of travel from the measure-
+                                                          -2
+ment chamber to the top end of the tube and back: about 10 sec; steepness of ascending
+                                -6
+and descending branches < 10 sec). The solution in the measurement chamber (at
+the bottom end of the tube) is separated from the liquid filling the tube by a plastic
+membrane "transparent" to the pressure wave. The chemical reaction is followed
+spectrophotometrically. The apparatus was constructed by Alexander Jost, Dissertation,
+                                            Göttingen, 1966, ref. 48.
+
+
+
+
+mogeneous     heating         in    "electric      lenses",           cavitation   resulting          from    pressure
+waves,   "cross-talk"        of    the     high-voltage           impulse     on    the          electrical   measure-
+ment equipment, unfavourable signal- to-noise ratio in the short time range)
+had been overcome, the temperature jump method was eventually developed
+into a standard procedure, which now has an extremely wide range of appli-
+cations extending from inorganic to biological chemistry. This is particularly
+                                                                                       50                                51
+due to the development work of Leo de Maeyer , Georg Czerlinski ,
+                        52                                    5   3                         54
+H a r t m u t D i e b l e r , G o r d o n H a m m e s , R o l a n d R a b l , and others. Fig. 16
+shows a T-jump apparatus developed by Leo de Maeyer and now available
+commercially. Fig. 17 is a schematic representation of the circuit of a micro-
+                                                                                                                         54
+wave T-jump apparatus developed by Roland Rabl and Leo de Maeyer .
+
+
+                          I M M E A S U R A B L Y          F A S T      R E A C T I O N S                         191
+
+Two important improvements considerably extend the possible range of ap-
+plications : (1) A flow arrangement is used instead of a static measurement cell,
+so that it is also possible to carry out relaxation measurements on systems
+which are not in equilibrium (but have reached a stationary state). This im-
+provement is of decisive importance in investigating many biochemical re-
+a c t i o n m e c h a n i s m s . (2) T h e s t a t i o n a r y - s t a t e r e a c t i o n m i x t u r e f l o w i n g
+through the observation capillary can be heated periodically with the aid of
+repeated microwave impulses. A "ime sampling" procedure can be used to
+obtain an average over many individual measurements, thus considerably
+i m p r o v i n g t h e s i g n a l - t o - n o i s e r a t i o . The desicive limitation on previous
+methods in their application to chemical reaction systems concerned the sensi-
+tivity of recording rather than the time range involved. The greater the
+precision and sensitivity of our measurements, the more reaction stages be-
+come accessible to direct analysis ( cf. also ref. 55).
+                                                                   32
+   Present-day methods of measurement cover without a gap the time
+range between fractions of a nanosecond and several seconds, and thus bridge
+
+
+
+
+Fig. 16. Photograph of a standard present-day temperature jump instrument, developed
+by Leo de Maeyer and built by Messanlagen Studiengesellschaft, Göttingen. The lower
+part contains the high-tension generator, impulse circuit, lamps and multiplier power
+source and amplifier. The upper part consists of a spectrophotometer with the T-jump
+cell set up in its beam. This part contains interchangeable units which can also be com-
+                       bined to make a fluorimeter or polarimeter.
+
+
+192                           1 9 6 7   M A N F R E D   E I G E N
+
+
+
+
+9.35 GHz, power 0.6 MW, pulse duration 0.5-3.0                temperature jump 3-15ºC).
+The optical measurement cell, which is matched to the impedance of the hollow con-
+ductor, is either a static microcell (volume 30    for simple T-jump studies or a capillary
+for relaxation studies on flowing reaction mixtures in a stationary state. In the latter case,
+the temperature jump can be repeated with a frequency < 300 Hz. Measurements by
+spectrophotometry. (Developed by Carl-Roland Rabl, Dissertation, in preparation.)
+
+
+
+the gap between the time ranges of classical kinetics and molecular spectros-
+copy ( cf. Fig. 18). It has therefore been possible to elucidate the individual
+steps in many of the reactions previously considered to be "immeasurably
+fast". Some examples of this will be discussed in the following sections.
+
+
+
+
+Fig. 18. The time scale of the chemist (see also ref. 56). Hatched part from left to right:
+proton transfer, electron transfer, formation and rupture of H bridges, isomerization,
+substitution in coordination compounds, secondary structure changes in proteins, en-
+zymatic changes, elementary processes in biology. T E , elementary time (dimension of
+the nucleus/velocity of light) ; T A, time constant for processes in the atomic shell (exci-
+tation); T C , time limit for chemical changes (~ h/kT); tR , present lower time limit for
+direct measurements of reaction rate; tS, time limit for flow methods; tK , classical time
+limit for reaction rate measurements; tD , time to obtain a doctor’s degree; T W , age of the
+                                            world.
+
+
+                         I M M E A S U R A B L Y         F A S T    R E A C T I O N S                              193
+
+
+
+
+We have already learned some of the applications of relaxation spectrometry
+from individual examples. Charge neutralization in the reaction H+ +
+H 2O     does   in    fact   take    place    almost      "instantaneously".           Every        encounter       be-
+                                                                                               II            -1.   -1
+t w e e n t h e s o l v a t e d i o n s r e s u l t s i n c o m b i n a t i o n ( k = 1 . 4 ·1 0 m o l e s e c a t
+25ºC). In this process the proton "tunnels" through a whole chain of hydrogen
+                                                                                                        43
+bonds, as has been shown directly by measurements on ice cyrstals . Are all
+reactions involving a neutralization of charges then diffusion-controlled?
+   Let us first have a look at inorganic chemistry. Here we find many reac-
+tions in which a positively charged metal ion combines with a negatively
+charged ligand to form a neutral complex. It is precisely this kind of reaction
+that is frequently described in the literature as "immeasurably fast". The for-
+                                                                   2+             2-
+m a t i o n o f a n a q u o c o m p l e x b e t w e e n M g a n d S O4 , m e n t i o n e d a t t h e
+beginning of this lecture, is a typical example of this class of reaction.
+   A metal ion in aqueous solution is surrounded by one or more shells of co-
+ordinated water molecules. If it is to combine with another ion of opposite
+charge, the latter must penetrate the hydration shells, substituting successive
+water molecules in the different shells. Since the water molecules in the inner
+coordination shell are bound most strongly, their substitution will be the
+slowest step of the process. Relaxation studies on very widely differing metal
+ions have confirmed this assumption. The mechanism of the stepwise sub-
+                                                                                                                        57
+stitution reveals itself in a relaxation spectrum with several time constants .
+The chemist is primarily interested in substitution in the inner coordination
+shell. The specific properties of the metal ion, such as charge, radius, coordi-
+nation number, and electronic structure should be expressed directly at this
+stage.
+   Fig. 19 summarizes the measured values of the rate constants for substitution
+in the inner coordination shell. With a few exceptions, these values are typical
+of the metal ion alone, i. e. they are practically independent of the nature of the
+substituting ligand. (A more detailed compilation of measurements can be
+found in ref. 58 and a discussion of the mechanisms involved in ref. 59). Metal
+ions with an electronic configuration similar to that of the noble gases exhibit
+the expected dependence on charge and radius. The smaller the radius and the
+higher the charge the more strongly are the H 2 O molecules to be substituted
+bound, and hence the more slowly does the substitution take place. An in-
+
+
+194                                       1 9 6 7   M A N F R E D   E I G E N
+
+
+
+
+                                                            -I
+Fig. 19. Characteristic rate constants (in sec ) for HzO substitution in the formation of
+metal complexes. Most of the values are specific to the metal ion and relatively indepen-
+dent of the nature of the ligand (cf. refs. 57-59), which also discuss in particular detail the
+exceptions to this rule). The rate constants for the alkali metal ions and alkaline earth
+metal ions are essentially determined by radius and charge Among the alkaline earth
+metal ions - and especially among the rare earths - the coordination number has an
+additional specific effect. The ions of the transition metals also reflect the specific prop-
+erties of their electronic structure (ligand field stabilization and the Jahn-Teller effect.)
+
+
+
+crease in coordination number makes the coordination shell more labile and
+therefore accelerates the reaction ( cf. the lanthamides). Specific effects of elec-
+tronic structure are revealed only in the case of the transition metals (filling
+                       2+                 2+
+of the d shell). V and Ni ions have strikingly slow rates of substitution, as
+                                                                                            59
+a result of particularly strong ligand field stabilization in the transition state ,
+              2+                2+
+whereas Cr a n d C u ions are extremely labile to substitution because of
+distortion of the octahedral structure in consequence of the Jahn-Teller
+      59
+effect . Fig. 19 shows that most of the rate constants for substitution lie in the
+                   3        9        -1
+range from 1 0 to 10 s e c . The mechanism of many inorganic reactions was
+thus inaccessible to experimental elucidation until the introduction of relax-
+ation methods.
+
+
+
+
+The method proved even more successful in measuring the rates of protolytic
+reactions. The kinetics of proton transfer have been studied exhaustively with
+                                                                                60
+reference to a large number of organic acids and bases . These studies have
+resulted in the elucidation of the reaction mechanism of acid-base catalysis
+                                                                                     61
+and enabled the Bronsted relations to be extended and generalized .
+
+
+                        I M M E A S U R A B L Y              F A S T   R E A C T I O N S                      195
+
+     We shall now consider one example: the keto-enol transformation in
+                                                                       62
+heterocyclic compounds, e.g. barbituric acid .
+                                                                                                               (-)
+     The anion of this acid (enolate, E-) can acquire a proton either at the O
+                    (-)
+atom or at the C atom. The first reaction results in the enol (E H) and the
+second in the ketone (KH). T he reaction scheme is as shown in Fig. 21. Both
+reactions take place so quickly that they cannot be followed by classical meth-
+ods. When barbituric acid                                 4 . 0 ) is dissolved in water, the ionization
+equilibrium    (conductivity)         is           established   "at    once".      Relaxation     measure-
+
+
+
+
+ments using the electric field method showed that enol formation, like most
+protolytic recombination processes, is entirely a diffusion- controlled reaction
+(k          mole-                    Direct determination of the rate of this step is difficult
+when there is only a small amount of enol in the presence of a large excess of
+ketone. If we measure the relaxation time in such a system, then at low con-
+                    +            -
+centrations of H a n d E we find a reaction of second order, namely the for-
+                             -                 +                                -
+m a t i o n o f K H f r o m E a n d H . The second step, E +                                   H, is negligible
+                                                                            -         -
+in this case. However, at high concentrations of E a n d H we eventually reach
+a state in which the enol concentration becomes very much higher than the
+enolate concentration. What we then find is practically only the conversion
+                                 -         +
+of KH into EH (with E + H as a stationary intermediate state), i.e. a first-
+                                                                                           -
+order reaction (which can, however, be base-catalysed by E ). The transition
+from a second-order type of reaction                              increases linearly with
+to a first-order type of reaction                           = constant) is shown in Fig. 21. Relax-
+ation measurements by the temperature jump confirmed that this shape of
+                                                     62
+curve applied to barbituric acid .
+     It was found that in the case of rapid keto-enol transformations this method
+enables small amounts of enol to be determined quantitatively in the presence
+of a large excess of ketone. The gradient of the linear part of the curve in
+
+
+196                          1 9 6 7   M A N F R E D   E I G E N
+
+
+
+
+gives a relaxation spectrum with two time constants. The establishment of the enol
+equilibrium is very rapid compared to the establishment of the keto equilibrium. The
+shorter relaxation time is therefore of the form shown in Fig. 3 :     =
+The longer relaxation time is also of this form (see Fig. 3) as long as  and     are small
+compared to           (there is then so little EH present that the keto equilibrium may
+establish itself independently). However, at high concentrations of E- and       the quickly
+established enol equilibrium is always coupled with the keto reaction.            ultimately
+tends to a constant limiting value-behaviour characteristic of a first-order reaction
+(namely EH         KH (In the case of base catalysis by E-, the limiting value can be found
+by extrapolation.) This method permits the determination of all the kinetic constants
+and also a very precise determination of both equilibrium constants (and hence also of
+the keto/enol ratio, even when one form is present in large excess and both reactions are
+                                taking place quickly).
+
+
+Fig. 21 and its intercept on the ordinate give the kinetic constants of the keto
+reaction. The plateau value contains the equilibrium constant of the enol.
+Other methods generally fail when the dissociation constant of the enol
+becomes very much larger than that of the ketone and the equilibrium between
+ketone and enol is rapidly established.
+
+
+
+
+The main field of application of relaxation spectrometry is now in biology.
+Many methods of measurement have been developed solely for the purpose of
+studying complex sequences of biological rections or single specific elemen-
+
+
+                         I M M E A S U R A B L Y         F A S T     R E A C T I O N S                       197
+
+tary steps in such reactions. The slight disturbance to which the system is
+subjected enables us to "listen in" on the natural course of processes without
+going beyond the relatively narrow limits imposed by the "conditions of life".
+   Naturally enough, it was the enzymes, the key substances in the whole mass
+and energy balance of the cell, that first attracted our interest. Where pre-
+viously only the gross, overall rates of enzymatic catalysis had been accessible
+to the biochemist, it was now possible to come to grips with the "fine struc-
+ture" on the reaction mechanisms.
+  This opens up an entirely new world: a world of well-"planned", econom-
+ically-functioning       molecular          "machines".      The        molecules       of    the      inorganic
+chemist can say only "yes" or "no" -by reacting or not reacting. They may
+also   occasionally      exchange      a    "perhaps"      by       temporarily    entering     into    a    "non-
+specific"    interaction,      but   this    achieves     little,     for   they   "forget"    everything      as
+soon as they are parted. The molecules of the biochemist are quite different;
+they   can     "read",    "program",        "control",     "correlate"      different    functions       -   and
+even "learn". Here is an example.
+  For a long time biochemists were uncertain how to interpret the fact that
+certain enzymes do not bind their substrates in accordance with the law of
+mass action (as any proper molecule should), but exhibit a cooperative behav-
+iour, even though the individual binding groups are so far apart from each
+other that there is no possibility of a direct interaction between them.
+  In this case, it is evident that the affinity (or "attraction") of the enzyme for
+its substrate is initially only moderate, i.e. the first molecules of the substrate
+are bound with only a relatively low affinity but they succeed in arousing the
+"attraction" of the enzyme. This increases with the supply of substrate mole-
+cules, so that finally - close to saturation point - all substrate molecules are
+bound with high affinity. The interaction of haemoglobin with oxygen is such
+a case. In the lung, when there is a large supply of O 2 , there is a complete
+(cooperative) saturation, but if the partial pressure of O 2 drops below a cer-
+tain threshold value the haemoglobin suddenly becomes disinterested and
+once more gives up all its oxygen. If the saturation of the enzyme with sub-
+strate is measured as a function of substrate concentration, a sigmoid curve is
+obtained instead of the hyperbola expected from simple application of the
+                          63
+law of mass action .
+                                                  64
+  M o n o d , W y m a n a n d C h a n g e u x have proposed a model to explain this
+cooperative interaction. Their starting point is that an enzyme consisting of
+several subunits can occur in two different spatial conformations - one with
+affinity for the substrate or activator (or of high catalytic efficiency) and one
+
+
+198                                   1 9 6 7     M A N F R E D     E I G E N
+
+
+with low affinity (or low catalytic efficiency). In Fig.22, the two different
+conformations are indicated schematically by squares and circles; their fre-
+quency in the population at the various stages is indicated by the boldness of
+type used for the lines. In a given conformation all the subunits bind with the
+same affinity; the sites of binding are so widely separated that they have no
+direct influence on each other. The arrangement of the subunits is sym-
+metrical. It is assumed that all the subunits are present in the same form, and
+that this can change only according to an "all-or-none" law. Hybrids are
+excluded, for the transformation of a single subunit would have a marked
+effect on the pattern of the interactions between the subunits. Such a model
+can be described by three parameters and can be made to fit the measured
+sigmoid binding curves perfectly. These three parameters describe the binding
+of the substrate by both forms and their isomerization. The Monod model
+makes a number of assumptions whose justification can be tested experimen-
+                                        65
+t a l l y . D . E . K o s h l a n d et al. p u t f o r w a r d a n a l t e r n a t i v e m o d e l , w h i c h a l s o
+enabled the binding curves to be reproduced exactly with the aid of 3 param-
+eters.   One     such     alternative        is   the   "induced-fit"    mechanism,        shown      in        the
+diagonal of Fig. 22, in which the change in the structure of a subunit is always
+associated with the uptake of substrate or activator by that subunit. A decision
+between the different models can be made with the aid of relaxation measure-
+ments. The individual stages of the reaction can be analysed in detail in the
+                                                                                                                66
+relaxation time spectrum, and inappropriate models can be eliminated .
+   My colleague Kasper Kirschner was able to show that the mechanism
+postulated by Monod, Wyman and Changeux applies for the enzyme glyc-
+                                                                                                           67
+eraldehyde-phosphate dehydrogenase, a key enzyme in glycolysis . It was
+possible to give all the values for the rate and equilibrium constants of the
+                         68
+individual stages . The relaxation spectrum obtained has already been shown
+in Fig. 12. This mechanism dies not apply so simply in the case of haemo-
+globin, and there are deviations in the direction of the alternative mechanism
+                                         69
+proposed by Koshland et al. . It has been found that the two models represent
+the two possible limiting cases of a single, more general reaction scheme
+(Fig. 22), and that it is possible to state the conditions under which the system
+                                                               66
+will approximate to one case or the other .
+   These investigations have proved to be very important, for, as Fig.23
+shows, such a mechanism can explain properties which we meet nowhere else
+on the plane of molecules and which we have only come to know through the
+man-made circuit and control elements of electronics and transistor technol-
+ogy. It has been known for a long time that such properties occur in biology,
+
+
+                        I M M E A S U R A B L Y   F A S T   R E A C T I O N S            199
+
+
+
+
+identical subunits. The squares and circles indicate two different conformations, only one
+of which (circle) is capable of transforming the substrate, i.e. exhibits catalytic activity;
+this is indicated by "opening" a site of binding which is "closed" in the square form. The
+change in conformation is "regulated" by the binding of an activator A. Two alternative
+mechanisms are shown here: (I) The change in conformation of both forms. which have
+different affinities for A, always takes place cooperatively according to an "all-or-none"
+law, but with the square form being preferred in the absence of A and the circular form
+                                                                     64
+preferred when A is present at saturation concentration (Monod et al. ). (2) The change
+in conformation of the subunits takes place independently of each other, but must first
+be "induced" in the subunit concerned by the binding of A. A can thus be bound only in
+one conformation. The induced change in conformation affects the behaviour of adja-
+                                                                                 65
+cent units and thus also brings about cooperative binding (Koshland et al. ). The two
+                                                                                          66
+alternatives are naturally only idealized limiting cases of a more general reaction scheme .
+
+
+
+but it is a new discovery, confirmed by quantitative analysis of molecular
+mechanisms, that such properties are possessed by single - indeed program-
+med - molecules, and are not the consequence of a complex of mutually
+coupled reactions.
+  Many enzymes have been analysed in this way in various laboratories in
+               70-72
+recent years           . Here I should like in particular to mention the work of
+                   73                                                              74
+B r i t t o n C h a n c e and his school and that of H. T. Witt and his school on the
+                                      72
+mechanism of photosynthesis .
+
+
+200                               1 9 6 7 M A N F R E D E I G E N
+
+
+
+
+Fig. 23, Comparison of an allosteric enzyme (after Fig. 22) with an electronic circuit
+element. The activator has the role of a control lattice. Conversion of the substrate into
+a reaction product corresponds to the current to be regulated. T and R indicate the
+different conformations of the enzyme (e.g. T = squares, R = circles in Fig. 22). Enzyme
+activity is restricted to the R-form, i.e. there is no conversion of the substrate in the T-
+                                   form (see also ref. 66).
+
+
+
+Other classes of biological macromolecules have also been investigated in
+detail, for example nucleic acids and lipids. The dynamics of code translation
+                    66,75,76
+in nucleic acids               are of particular interest. Here again we encounter
+extremely fast reactions. The lifetime of a base pair is measured in fractions of
+a microsecond. The reading of a code sequence makes use of these reaction
+steps. Replication, with many correlated individual steps per code unit (such
+as reading, linking, transporting), takes place in fractions of a millisecond.
+
+
+
+
+We are just beginning to understand how molecular reaction systems have
+found a way to <<organize themselves>>. We know that processes of this nature
+ultimately led to the life cycle, and that (for the time being?) Man with his
+central nervous system, i.e. his memory, his mind, and his soul, stands at the
+
+
+                   I M M E A S U R A B L Y   F A S T   R E A C T I O N S              201
+
+end of this development and feels compelled to understand this development.
+For this purpose he must penetrate into the smallest units of time and space,
+which also requires new ideas to make these familiar concepts from physics
+of service in understanding what has, right into our century, appeared to be
+beyond the confines of space and time.
+
+
+
+
+This description has perhaps failed to do justice to some things that were
+essential to the development of the main idea. I remember with gratitude
+those who taught and encouraged me: Arnold Eucken, Ewald Wicke, Karl
+Friedrich Bonhoeffer and Carl Wagner, who showed me the way and self-
+lessly encouraged and helped my work. Karl Friedrich Bonhoeffer who
+turned my path from physical chemistry to biology. Much that I have de-
+scribed is based on the fundamental work of Lars Onsager, Josef Meixner, and
+many others I was unable to mention. Much was achieved by named and un-
+named colleagues and associates, to two of whom I should like to give special
+mention as representing the others: Konrad Tamm and Leo de Maeyer.
+
+
+
+
+ 1. A. Eucken, Lehrbuch der chemischen Physik, Vol. II/2, Akad.Verlagsges., Leipzig,
+     1949, p.1135.
+ 2. P. Langevin, Ann. Chim. Phys., 28 (1903) 433.
+ 3. M. von Smoluchowsky, Physik. Z., 17 (1916), 557, 585.
+ 4. A. Einstein, Ann. Physik., 17 (1905) 549, 19 (1906) 289, 371.
+ 5. L. Onsager, J. Chem. Phys., 2 (1934) 599.
+ 6. P. Debye, Trans. Electrochem. Soc, 82 (1942) 265.
+ 7. H. Hartridge and F. J. W. Roughton, Proc. Roy. Soc. (London), Ser. A, 104 (1923) 376.
+ 8. B. Chance, in A. Weisberger (Ed.), Technique of Organic Chemistry, Vol. S, Part II,
+     Interscience, New York, 1963, p. 728.
+ 9. L. Liebermann, Phys. Rev., 76 (1949) 1520.
+10. O.B. Wilson and R.W. Leonhard, ]. Acoust. Soc. Am., 26 (1954) 223.
+11. L. Hall, J. Acoust. Soc. Am., 24 (1952) 704.
+12. (a) W. Nernst, Z. Elektrochem, 33 (1927) 428; (b) N. Bjerrum, Dansk. Mat. Fys.
+    Medd., 7 (1926) 9.
+13. K. Tamm and G. Kurtze, Nature, 168 (1951) 346; Acustica, 3 (1953) 33.
+14. M. Eigen, G. Kurtze and K. Tamm, Z.     Elektrochem., 57 (1953) 103.
+
+
+202                             1 9 6 7   M A N F R E D   E I G E N
+
+
+15.     M.Eigen, Z.Physik.Chem. (Frankfurt), 1(1954)176.
+16.     K.Tamm, G.Kurtze and R.Kaiser, Acustica, 4(1954)380.
+17.     M.Eigen and L.de Maeyer, Z.Elektrochem., 59(1955)986.
+18.    M.Eigen, Discussions Faraday Soc., 24(1957)25.
+19.    M.Eigen and K.Tamm, Z.Elecktrochem., 66(1962)107.
+20.     A.Einstein, Sitz,ber.Preuss.Akad.Wiss.,Physik.-math.Kll    (1920)380.
+21.     W.Nernst, see F.Keutel, Dissertation, Berlin, 1910; E.Grüneisen and E.Goens, Ann.
+       Physik, 72(1923)193.
+22.    K.F.Herzfeld and F.O.Rice, Pkys.Rev., 31(1928) 691; see also G.W.Pierce, Proc.
+       Am. Acad. Arts Sci., 60(1925)271.
+23.    H.O.Kneser, Am.Phys., 11(1931)761,777.
+24.    J.Lamb and J.Sherwood, Trans.Faraday Soc., 51(1955)1674.
+25.    R.O.Davies and J.Lamb, Quart.Rev. (London), 11,No.2(1957)134.
+26. H.J.Bauer, H.O.Kneser and E.Sittig, Acustica, 9(1959)181; G.Sessler, Acustica, 1 0
+    (1960)44.
+27. L.Onsager, Phys.Rev., 37(1931)405; 38(1931)2265.
+28. I.Prigogine, Etude Thermodynamique des Phénoménes Irreversibles, Dunod, Paris,
+     1947; S.R. de Groot and P.Mazur, Non-equilibrium Thermodynamics, North-Hol-
+       land, Amsterdam, 1962.
+29. J.Meixner, Am. Phys., 43(1943)470.
+30. J.Meixner, Kolloid-Z., 134(1953)3.
+31. K.Tamm, Z.Elektrochem., 64(1960)73.
+32. M.Eigen and L. de Maeyer, in A. Weissberger (Ed.), Technique of Organic Chemistry,
+    Vol. 8, Part II, Interscience, New York, 1963, p.895.
+3 3. F.Eggers, Acustica, in the press.
+34. K.Bergmann, M. Eigen and L. de Maeyer, Ber.Bunsenges. Physik. Chem., 67(1963)
+     819.
+35. K.Bergmann, Ber.Bunsenges. Physik.Chem., 67(1963)826.
+36. L. de Maeyer, Methods in Enzymology, Academic Press, New York, 1968.
+37. J.Suarez, Dissertation, T.H.Braunschweig, 1967; L. de Maeyer, M.Eigen and J.Su-
+    arez, J.Am.Chem.Soc., in the press.
+3 8.   M.Eigen and T.Funck, in preparation.
+39.    G.Schwarz and J.Seelig, Biopolymers, in the press.
+40.    M.Wien and J.Schiele, Z.Physik, 32(1931)545.
+41.    L.Onsager, J.Chem.Phys., 2(1934)599.
+42.    M.Eigenand J.Schoen, Z.Elektrochem., 59(1955)483.
+43.    M.Eigen and L.de Maeyer, Proc.Roy.Soc. (London), Ser. A, 247(1958)505; see also
+       M.Eigen, L. de Maeyer and H.Ch.Spatz, Ber.Bunsenges. Phys.Chem., 68(1964)19.
+44. G.Schwarz, Rev.Mod.Phys.,         40(1968)206.
+45. G.Ilgenfritz, in preparation.
+46. G.Ilgenfritz and L. de Maeyer, in preparation.
+47. E.F.Greene and J.P.Toennies, Chemical Reaction in Shock Waves, Arnold,       London,
+    1964.
+48. A.Jost, Ber.Bunsenges.Physik.Chem., 70(1966)1057.
+49. H.Strehlow and H.Wendt, Inorg.Chem., 2(1963)6.
+
+
+IMMEASURABLY FAST REACTIONS   203
+

@@ -1,0 +1,489 @@
+                    JOHANNES D.       VAN DER     W   AALS
+
+
+
+        The equation of state for gases and liquids
+                      Nobel Lecture, December 12, 1910
+
+
+
+Now that I am privileged to appear before this distinguished gathering to
+speak of my theoretical studies on the nature of gases and liquids, I must
+overcome my diffidence to talk about myself and my own work. Yet the
+thought that you are entitled to expect that of me leads me to hope that you
+will forgive me if I state my views in this field with utter conviction, even
+in regard to aspects which are not yet universally known and which have
+so far not achieved universal recognition. I intend to discuss in sequence:
+(1) the broad outlines of my equation of state and how I arrived at it;
+(2) what my attitude was and still is to that equation;
+(3) how in the last four years I have sought to account for the discrepancies
+which remained between the experimental results and this equation;
+(4) how I have also sought to explain the behaviour of binary and ternary
+mixtures by means of the equation of state.
+
+(1) The first incentive to this my life’s work came to me when, after my
+studies at university, I learned of a treatise by Clausius (1857) on the nature
+of the motion which we call heat. In this treatise, which is now taught with
+negligible modifications in every highschool in Holland, he showed how
+Boyle’s law can very readily be derived on the assumption that a gas consists
+of material points which move at high velocity, that this velocity is of the
+order of that of sound and increases in proportion to the square root of the
+absolute temperature. It was subsequently realized that this is only the root
+mean square of the velocities and that, as Maxwell stated, although he er-
+roneously considered to have proved it, there is a law for the distribution
+of the velocities known as the Maxwell law. Boltzmann was the first to give
+the correct proof for this velocity distribution law. Clausius’ treatise was a
+revelation for me although it occurred to me at the same time that if a gas
+in the extremely dilute state, where the volume is so large that the molecules
+can be regarded as points, consists of small moving particles, this is obviously
+still so when the volume is reduced; indeed, such must still be the case down
+to the maximum compression and also in liquids, which can only be re-
+
+
+          EQUATION OF STATE FOR GASES AND LIQUID S                          255
+garded as compressed gases at low temperature. Thus I conceived the idea
+that there is no essential difference between the gaseous and the liquid state
+of matter - that the factors which, apart from the motion of the molecules,
+act to determine the pressure must be regarded as quantitatively different
+when the density changes and perhaps also when the temperature changes,
+but that they must be the very factors which exercise their influence through-
+out. And so the idea of continuity occurred to me. I then also asked myself
+how the solid state behaved. Although I have not as yet seriously gone into
+that question I do think that in the amorphous state the close proximity of
+the molecules impedes their mutual displacement. The crystalline state def-
+initely behaves in a slightly different way. Actually I should still be silent
+on this question. Nevertheless it can now scarcely be doubted that continuity
+exists between the other two states of aggregation.
+   As you are aware the two factors which I specified as reasons why a non-
+dilute aggregate of moving particles fails to comply with Boyle’s law are
+firstly the attraction between the particles, secondly their proper volume.
+Turning first to the second factor I should like to point out the following:
+originally I had anticipated that simply the total volume must be decreased
+with the total volume of the molecules to find the volume remaining for
+the motion. But closer examination showed me that matters were not so
+simple. To my surprise I realized that the amount by which the volume
+must be reduced is variable, that in the extremely dilute state this amount,
+which I have notated b, is fourfold the molecular volume - but that this
+amount decreases with decreasing external volume and gradually falls to
+about half. But the law governing this decrease has still not been found. This
+very point has proved to be the most difficult in the study of the equation of
+state. Korteweg, Lorentz, Boltzmann, Jeans, and of my pupils, Van Laar,
+my son, and Kohnstamm have subsequently worked on it. I had thought
+that it was simply a matter of studying how the mean free path decreases
+between the collisions of the molecules which are the consequence of their
+extensiveness, i.e. of the fact that they must not be considered material points
+but small particles with a real volume in common with all bodies known to
+us, and so I arrived at this formula:
+
+
+                                                                            (A)
+
+
+where bg is fourfold the molecular volume.
+
+
+256                     1910 J.D. VAN DER WAAL S
+
+    Boltzmann has shown, however, that this is inadequate and later on Kohn-
+stamm proved that the formula will be more complex and that for                b/bg a
+quotient will be obtained of two series in which powers of b g/v occur. It is
+so difficult to determine the coefficients α, β etc. that Van Laar was compelled
+to carry out fearfully long calculations when determining the second co-
+efficient β by my method (α gave rise to far less trouble). This prevented me
+from proceeding further. And here I have come to the weak point in the
+study of the equation of state. I still wonder whether there is a better way.
+In fact this question continually obsesses me, I can never free myself from it,
+it is with me even in my dreams.
+    As regards the other cause underlying the non-compliance of real gases
+and liquids with Boyle’s law, i.e. the mutual attraction of the molecules, the
+situation is somewhat better although here again the last word has not yet
+been spoken. Using the procedure adopted by Laplace in his capillarity the-
+ory, in my continuous theory I have reduced this attraction, which acts in the
+whole volume, to a surface force which acts towards the interior and thus,
+together with the external pressure, holds together the moving molecules.
+Laplace regards his liquid actually as a continuum; at the time he was still
+unaware of molecules. And if we were dealing with stationary molecules it
+would have been inadmissible to reduce the attracting forces in the interior
+to just a surface force. Yet since the molecules are in motion each point in the
+interior will certainly not be filled with matter at every moment. But space
+may be regarded as continuously filled with matter of mean - normal - den-
+sity. I shall return to this point however when I speak of my studies in recent
+years. The above considerations brought me to the following formula:
+
+
+
+
+which became universally known only as a result of Eilhard Wiedemann’s
+efforts.
+
+(2) Having reached the second part of my lecture I must now mention my
+own attitude to this equation. It will be abundantly plain from my earlier
+comments that I never expected this equation, with a and b assigned a con-
+stant value, to give results numerically in agreement with experiment and
+yet people almost always act as though that were my opinion. This astonishes
+me as in my treatise of 1873 not only did I expressly emphasize the variability
+
+
+           EQUATION OF STATE FOR GASES AND LIQUID S                           257
+of b but also quoted a series of b-values from Andrews' experiment in which
+for small volumes the change i n b with the volume is calculated. For carbon
+dioxide I moved from the limiting value bg = 0.0023 down to b = 0.001565.
+In this series of values the volumes of the liquid even go below the limiting
+value of bg for infinite volume.
+   Perhaps the reason why my opinion tha t b is variable has rarely been re-
+garded as seriously intended is to be found in the manner in which I cal-
+culated the critical parameters. In this calculation I had to assum e b as in-
+variable. But that was because I believed that Andrews’ values justified still
+assigning the limiting value     bg to b in the critical volume. But as I later
+showed that was a mistake; the value o f b in the critical volume has, of
+course, slightly decreased. Yet to determine the critical volume whe           n b
+changes with the volume, the first and second differential quotients d b/dv
+and d 2b/dv 2 also need to be known. To determine the critical volume, as I
+later showed, we obtain the equation:
+
+
+
+
+                                                                             (C)
+
+
+
+Only when we neglect d b/dv and d 2b/dv 2 do we find v k = 3b. And it can
+again be seen from this equation that what I have termed the weak point
+of my theory is actually responsible for the theoretical impossibility of cal-
+culating accurately the critical volume. Using an approximation formula for
+b I was able to determine v k as about 2.2 bg. This equation for determining
+the critical volume I gave and used in my paper in honour of Boltzmann;
+it was repeated in part in my 1910 treatises. When I had realized this large
+deviation in the critical volume I also feared a large deviation in the other
+critical data, i.e. non-compliance with the formulae:
+
+
+
+
+To my great joy, however, and not without astonishment, I found that the
+two equations used to calculate a and b from the critical data remain un-
+changed. That I was able to conclude from the results of Sydney Young’s
+admirable experiments on the volumes of co-existing vapour and liquid
+
+
+258                       1910 J.D. VAN DER WAALS
+
+phases and on the saturation pressure level at various temperatures. I showed
+this recently in a treatise to which I shall refer again in the present lecture.
+However I can explain it as follows: Sydney Young determines inter alia
+the value of
+
+
+                                                                              (D´)
+
+
+at the critical point and finds 1/3.77. If p and T have the same values as in
+my theory, providing b is imagined to be constant, the difference from 3/8, the
+value which I found for pv/RT, can be ascribed wholly to the volume. And
+this, we can say, is entirely correct. The critical volume is not 3 bg, but (3/ 2)
+bg = 2.125 bg (approximately). And the product pv/RT is not 3/8 but 3/8
+For the value of
+
+
+
+
+my equation give s a/pv . A value of about 6 is found for this value
+                             2
+
+
+
+from Sydney Young’s experiments. Therefore fo           r p k we have the value:
+p k = a/6vk2, and with v k = (3/2)b g the value p k = (1/27)a/b g 2 , as was
+originally found, is again obtained for pk.
+    It will thus be seen that I have never been able to consider that the last
+word had been said about the equation of state and I have continually re-
+turned to it during other studies. As early as 1873 I recognized the possibility
+that a and b might vary with temperature, and it is well known that Clausius
+even assumed the value of a to be inversely proportional to the absolute
+temperature. Thus he thought he could with probability account for the
+equation
+
+
+
+
+only the half being found when a an d b are held constant. The foregoing
+remarks signify that this value does not arise from a change in a with tem-
+perature, but merely from the change i n b with the volume.
+  For a long time I searched for a definite characteristic to find whether just
+making b variable is sufficient to bring about complete agreement between
+
+
+           EQUATION OF STATE FOR GASES AND LIQUID                    S        259
+my formula and experiment, and in the case of remaining discrepancies,
+whether perhaps it is necessary to assume variability o f a and b with tempera-
+ture; and now I come to my latest studies on the equation of state.
+
+
+(3) In 1906 before the Royal Academy of Sciences in Amsterdam I gave a
+lecture entitled: pseudo association. At the time, however, I contented my-
+self with an oral communication. But one of my pupils, Dr. Hallo, took it
+down in shorthand and later Dr. Van Rij incorporated it in his inaugural
+dissertation and developed the theme further. As the criterion whether the
+variability of b with the volume would be sufficient to bring about agree-
+ment between my formula and Sydney Young’s experimentally determined
+liquid and vapour volumes I used in my lecture the Clapeyron principle
+which, with b varying only with v and not with T, and with a constant,
+leads to the equation
+
+
+
+
+or
+
+
+
+
+To ensure that only parameters are involved which are directly determinable
+by experiment, we may also write
+
+
+
+
+All the parameters on the left of this equation were accurately determined
+by Sydney Young for a series of substances. At the critical temperature the
+value of the left-hand side is, of course, equal to unity; but what is the value
+at temperatures that are only a fraction of T k? Here it appears that as the
+temperature decreases the value of the left-hand side increases, very rapidly
+at first, then at an imperceptible rate.
+
+
+260                    1910 J.D. VAN DER WAALS
+
+   Sydney Young’s experiments only go as far as a value o f T/T k = 2/3. The
+right-hand side has then increased to 1.4 and seems to be approaching
+asymptotically the value 1.5. The value of the right-hand side may very
+accurately be represented by the empirical formula
+
+
+
+
+where T / T k = m.
+   At a temperature very close to the critical, e.g.     m = 0.99, the increase in
+this expression is as much as 0.1 whereas if the square root of 1 - m did not
+occur in the formula and the increase were only to be represented by 1 - m,
+it would be less by a factor of ten.
+    I then had to examine whether the assumption that a or b is temperature-
+dependent could account correctly for this increase of the right-hand side;
+and were such not the case, whether another expression for the internal
+pressure, which I have always written as a/v 2, could explain it. As a result
+of this examination it was found that each temperature function for a and b
+compatible with such a rapid initial increase of the right-hand side, must
+contain           m. Yet above the critical temperature that would give imag-
+inary values for a and b and is obviously at variance with the whole behav-
+iour of gases. It also appeared that no other assumption for the internal
+pressure can lead to such a rapid initial increase as the one under discussion.
+It should not be forgotten that the critical temperature is actually not a
+special temperature. At this temperature the co-existing densities are equal
+in magnitude. That alone gives this temperature a meaning which under
+ all other circumstances it does not have. An abrupt jump, a rapid increase
+ either in a or b would make the temperature quite a special one at any level
+ of compression and its determination would then be possible at any density
+ level. In fact, bluntly speaki ng, the result would be: an equation of state
+ compatible with experimental data is totally impossible. No such equation
+ is possible, unless something is added, namely that the molecules associate
+ to form larger complexes ; this year, therefore, I have given two treatises
+ at the Academy in Amsterdam on this possible association. I have termed it
+ "pseudo association" to differentiate it from the association which is of chem-
+ ical origin. The possible formation of larger molecular complexes, partic-
+ ularly in the liquid state, has frequently been emphasized and the finding that
+ the assumption is necessary to achieve agreement between the state equation
+
+
+            EQUATION OF STATE FOR GASES AND LIQUID                       S       261
+
+and experiment will hence cause no surprise. Unfortunately my examination
+is still incomplete. I have found it arduous. And I have had to make use of
+every piece of evidence to derive something concrete. Nevertheless so much
+has emerged that it will have to be assumed that a large number of single
+molecules are required to form a new group which holds together and be-
+haves as a new, larger unit in the molecular motion.
+    What is the origin of this complex formation, this pseudo association?           I
+was compelled to assume it because it seemed to me the only way to make
+an equation of state - whichever it is - compatible with the results of meas-
+urements. However, as a result of a remark by               Debye in last month’s An-
+nalen der Physik, I remembered a phrase of Boltzmann’s. When a few years
+ago I was privileged to have him with me for some days, among the many
+ matters which we discussed he told me in passing that he was unable to
+ reduce the attraction of molecules to a surface force. At the time the sig-
+nificance of this remark of Boltzmann’s did not dawn on me - only now
+ do I think I appreciate what he meant. As far back as in my treatise of 1873
+ I came to the conclusion that the attraction of the molecules decreases ex-
+ tremely quickly with distance, indeed that the attraction only has an ap-
+ preciable value at distances close to the size of the molecules. At the time
+ this even prompted me to state that in the case of gases the collisions alone
+ are responsible for their exhibiting an attraction. And it must have been
+ Boltzmann’s view that it is only admissible to adopt Laplace’s procedure and
+ assume a surface force as a consequence of the attraction provided it does not
+ fall off so rapidly.* Debye’s remark implied that Boltzmann had predicted
+ the formation of a complex. Thus, so I believe, the assumption of pseudo
+ association is justified from the theoretical standpoint. And now I think I
+ may state how I proceeded in my           latest treatise which appeared in November
+ of this year. Pseudo association differs from true association in that the latter
+ is the result of new chemical forces which arise only when molecules are
+ combined to form e.g. double molecules, whereas pseudo association must
+  be ascribed wholly to the normal molecular forces. Now, since this force
+  diminishes so quickly, it has two consequences. Firstly it results in the forma-
+  tion of a complex, but that is not all. Secondly it leads to a surface pressure,
+  although a lower one. And this is precisely what I was compelled to assume
+ in my calculations were I to have some prospect of accounting for the cited
+  differences. I thus sought to make this clear in the following manner. Let the
+ number of molecules that have combined into a complex be so large that it
+  * Cf. L. Boltzmann, Gastheorie, I I, p. 176.
+
+
+262                     1910 J.D. VAN DER WAALS
+
+is possible to speak of a molecule at the centre surrounded by a single layer
+containing almost as many other molecules as is possible simultaneously.
+Then, for the surrounding molecules the attraction directed towards the
+interior acts only to maintain the complex; and this part of its attraction is
+lost for the surface pressure. Only the forces acting outwards from these
+molecules can contribute to the formation of the internal pressure. But of
+course, for pseudo association as for true association the number of formed
+complexes increases with decreasing temperature and volume. At the critical
+point, so I was compelled to conclude, only a very small part of the weight
+is present as complexes.
+   If pseudo association exists in a substance, there are at least two types of
+molecules, namely simple and complex. I say at least two types because it
+cannot be assumed that all complexes are of equal size. But as a first step I
+have assumed only two types, i.e. simple molecules and n-fold molecules.
+For a really scientific treatment, of course, it would be necessary to assume
+all values of n as possible and to seek the law of distribution for these values.
+For the time being, however, I have confined myself to assuming only a
+single type of complex. We then have a binary mixture. It was very for-
+tunate that for many years I had made a serious study of the laws of binary
+mixtures - and so I come to the fourth point of my lecture. Not to demand
+too much of your attention, however, I promise to be quite brief.
+
+(4) When I first conceived the idea of utilizing my equation to study the
+properties of binary mixtures I can no longer say. But even 20 years ago,
+at the insistence of my friend Kamerlingh Onnes, I was able to publish a
+complete theory for binary mixtures. My "Théorie moléculaire d’une sub-
+stance composée de deux matières différentes" (Molecular theory of a sub-
+stance made up of two different constituents) appeared in the Archives Néer-
+landaises for 1890. I had written it in Dutch but my esteemed friend Bosscha
+undertook the difficult task of rendering it into French, a task which was all
+the more exacting as I had written it in an extremely concise form and the
+mathematical treatment led to particular points (plait points) and partic-
+ular curves which at the time had rarely been examined in detail. Previous-
+ly, however, my friend Korteweg, to whom I had communicated in broad
+outlines the outcome of my examinations, had studied the mathematical
+properties of these points and curves, a study which I have often found of
+great use. The reasons why I hesitated so long over publication were many
+and it would serve little purpose to enumerate them here. But one of the
+
+
+            EQUATION OF STATE FOR GASES AND LIQUID                   S       263
+reasons of scientific importance was the question which I kept asking my-
+self: is it any use, until the study of the equation of state has been completed,
+applying it to mixtures ? I appreciated in advance that as long as I was ignorant
+of the law governing the variability of b and hence had to assume that b did
+not vary with the volume, the results for many parameters would yield
+values exhibiting numerically large differences as compared with the values
+of these parameters as determined by experiment. Nevertheless, the consid-
+eration that even with b constant my theory had not been unimportant in
+the case of a single substance gave me the hope that many phenomena would
+be explained qualitatively provided that a suitable value for a and b were
+introduced for mixtures. It was of great importance for me to be acquainted
+with Gibbs’ treatises on the equilibrium of heterogeneous substances which
+he had sent me immediately after their appearance. I made use inter alia of
+his principle that for a given amount of substance equilibrium sets in if the
+free energy is minimum for the given temperature and volume. In his
+honour I named the equilibrium surface for a binary system the ψ-surface.
+For, the free energy whose significance for the equilibrium he was the first
+to recognize, he always represents by the sign ψ.
+   The phenomena are really not complex in the case of a simple substance
+and it is an easy matter to obtain a general picture of them. It is therefore
+very surprising that in a mere binary mixture they become so complex that
+they have often been compared with a labyrinth. This is particularly so
+where three-phase pressure can exist. And it has now become clear that they
+are at least qualitatively in agreement with the "Théorie moléculaire, etc."
+from which they can be derived and indeed often predicted. Owing to the
+many experimental studies to which it has given rise I have frequently found
+the opportunity of discussing it closely in special communications. Thus in
+the years 1907 to 1909 about 15 treatises of this nature have appeared in the
+proceedings of the Academy at Amsterdam. It would be an impressive
+number were I just to mention the names of the physicists and chemists who,
+guided by this theory, have studied and still are studying binary mixtures.
+It begins with Kuenen and ends with Dr. Jean Timmermans of Belgium
+whose studies have still to be completed but which have already been pub-
+lished in part.
+
+And if now I may be permitted to look back on the way I have come, I
+must confess that it may fairly be called a detour. Immediately the necessity
+of assuming association became clear to me I extended my equation of state
+
+
+264                     1910 J.D. VAN DER WAALS
+
+analogously to the formula for a binary mixture and introduced a new para-
+meter, the degree of association. This degree of association is determined by
+means of Gibbs’ equation to which I have referred. The degree of association
+thus determined must then be introduced into the equation of state. And I
+confess that this is a detour. Perhaps there is a direct way. That this way is
+seriously being sought I know from those in direct contact with me. In the
+search for this way Gibbs’ Elementary Principles of Statistical Mechanics will be
+a necessary guide. In this lecture, I have only given the history of the origin
+and further elaboration of my theoretical studies and therefore had to speak
+of the difficulties that had to be surmounted. Consequently I could not, or
+only meagrely, discuss how they have assisted in correctly understanding the
+phenomena. One of the main conclusions, which I have termed the "Law
+of corresponding states", has, I may say, become universally known. Nor
+have I discussed how this law was a potent contributory factor in Dewar’s
+determination of the method of liquefying hydrogen, and particularly in
+Kamerlingh Onnes’ determination of the method of liquefying helium. I
+have also forgone detailed discussion of the temperature at which, to use
+Regnault’s nomenclature, a gas starts to behave like a "pluperfect gas" (gaz
+plus que parfait), which temperature has been found to have a value of
+               -
+(27/8) T k - besides the temperature at which it may be stated that the Joule-
+Kelvin effect reverses: its value is found to be (27/4 ) T k.
+   Neither have I spoken of my perhaps somewhat overhasty efforts to
+determine the equation of state of the molecule itself. I have even omitted
+to say why I thought I had to go to such trouble to determine the relation
+between p, v and T for a substance. The formulae of thermodynamics are
+effective and can actually be applied in all problems, even to determining
+thermal parameters, only when this relation is known, otherwise they can
+be regarded as just one equation between two unknowns. I have explicitly
+emphasised this in the book in commemoration of Kamerlingh Onnes pub-
+lished in 1904.
+   But it was not my intention to discuss all that and I would not have had
+sufficient time. Yet it does not seem to me superfluous, perhaps it is even
+necessary, to make a general observation. It will be perfectly clear that in
+all my studies I was quite convinced of the real existence of molecules, that
+I never regarded them as a figment of my imagination, nor even as mere
+centres of force effects. I considered them to be the actual bodies, thus what we
+term "body" in daily speech ought better to be called "pseudo body". It is
+an aggregate of bodies and empty space. We do not know the nature of a
+
+
+           EQUATION OF STATE FOR GASES AND LIQUID S                        265
+molecule consisting of a single chemical atom. It would be premature to
+seek to answer this question but to admit this ignorance in no way impairs
+the belief in its real existence. When I began my studies I had the feeling
+that I was almost alone in holding that view. And when, as occurred already
+in my 1873 treatise, I determined their number in one gram-mol, their size
+and the nature of their action, I was strengthened in my opinion, yet still
+there often arose within me the question whether in the final analysis a
+molecule is a figment of the imagination and the entire molecular theory
+too. And now I do not think it any exaggeration to state that the real
+existence of molecules is universally assumed by physicists. Many of those
+who opposed it most have ultimately been won over, and my theory may
+have been a contributory factor. And precisely this, I feel, is a step forward.
+Anyone acquainted with the writings of Boltzmann and Willard Gibbs will
+admit that physicists carrying great authority believe that the complex
+phenomena of the heat theory can only be interpreted in this way. It is a
+great pleasure for me that an increasing number of younger physicists find
+the inspiration for their work in studies and contemplations of the molecular
+theory. The crowning of my studies by the esteemed Royal Swedish Acad-
+emy affords me satisfaction and fills me with gratitude, a gratitude which I
+cannot call eternal and in my old age I cannot even promise that it will be
+of long duration, but perhaps for this very reason my gratitude is all the
+more intense.
+

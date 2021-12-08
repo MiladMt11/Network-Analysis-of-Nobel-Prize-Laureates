@@ -1,0 +1,2148 @@
+MOLECULAR DYNAMICS OF
+ELEMENTARY CHEMICAL REACTIONS
+Nobel Lecture. 8 December 1986
+
+
+
+DUDLEY R. HERSCHBACH
+
+Department of Chemistry, Harvard University, Cambridge,
+Massachusetts 02138, U.S.A.
+
+
+
+
+The vast field of Chemical Kinetics embraces three distinct levels of under-
+standing or abstraction [1]. Th e b roadest level is qualitative description. Here
+the emphasis is on substances: what products are obtained from what reagents
+under what conditions. The information gathered is encyclopedic, but quite
+feeble in predictive power. This is because the overall observed transformation
+in most reactions comprises a more or less complex sequence or network of
+elementary steps.
+   At the next level, the aim is to identify the distinct elementary steps and to
+determine quantitatively the rate factors of the Arrhenius equation, k = Aexp
+              a remarkably durable formula now nearly a century old! Some
+steps involve intermediate species that do not appear among the final products;
+whenever possible, these intermediates are also characterized by structural,
+spectral, and thermodynamic properties. Over about the past 70 years, im-
+mense effort has been devoted to compiling such quantitative data. It is of great
+practical value because predictions can be made for many reaction systems, on
+the usually reliable assumption that the rate parameters for each indivisible
+elementary step can be carried over from one system to another.
+   As well as mapping the cooperation and competition among elementary
+processes, kinetic studies at this level also gave rise to many key chemical ideas.
+These include such concepts as chain reactions carried by free radical interme-
+diates, collisional energy transfer, and the time-lag for energy flow within an
+excited molecule. Most fundamental was the idea introduced by Henry Eyring
+and Michael Polanyi of a transition-state on a potential energy surface. This
+has guided qualitative reasoning about molecular mechanisms, and when
+augmented by resourceful semitheoretical approximations for potential param-
+eters has enabled limited but useful estimates of rate factors. However, these
+valuable insights were won despite frustrating handicaps. The basic experi-
+mental variables of concentration and temperature are not incisive enough to
+allow further progress. Postulated elementary steps or intermediates often
+prove incomplete or illusory. The observable rate factors, which represent
+averages over myriad random collisions, are too remote from the molecular
+interactions.
+
+
+266                                 Chemistry 1986
+
+
+Emergence of Chemical Dynamics
+Over the past 30 years a new level has been attained by study of the intimate
+molecular dynamics of individual reactive collisions. One of the chief experimental
+approaches is molecular beam scattering. This involves forming the reagent
+molecules into two collimated beams, each so dilute that collisions within them
+are negligible. The two beams intersect in a vacuum and the direction and
+velocity of the product molecules emitted from the collision zone are measured.
+A host of reactions can now be studied readily in this way, by virtue of an
+extremely sensitive mass spectrometric detector and the use of supersonic
+nozzles which generate beams with greatly enhanced intensity and with colli-
+sion energies much higher than provided by ordinary thermal sources. The
+coupling of spectroscopic techniques with molecular beams has provided fur-
+ther advances in selectivity and sensitivity, particularly by use of intense laser
+light sources.
+   The reaction properties now accessible include the disposal of energy among
+translation, rotation, and vibration of the product molecules; angles of product
+emission; angular momentum and its orientation in space; and variation of
+reaction yield and other attributes with impact energy, closeness of collision,
+rotational orientation or vibrational excitation of the target molecule. From the
+earliest stages these experiments have stimulated and responded to a vigorous
+outburst of theoretical developments. Especially helpful are computer simula-
+tions in which dynamical properties are predicted for various postulated forces
+by Monte Carlo sampling of huge numbers of calculated collisions trajectories.
+Both the laboratory experiments and computer simulations have prompted a
+variety of insightful mechanical models as well as very useful diagnostic proce-
+dures based on information theory. Ab initio electronic structure calculations
+have also begun to contribute significantly to the exploration of reaction
+dynamics, although (except for H + H 2) satifying overall accuracy has yet to be
+achieved for potential energy surfaces.
+   As urged by my students, on this occasion I want both to view our still
+youthful field of research from a wider perspective and to recount some favor-
+ite, instructive episodes from its infancy. I will also briefly discuss several
+prototype reactions that have served to develop heuristic models and to reveal
+how electronic structure governs the reaction dynamics. More technical and
+systematic surveys are abundant [2]. Particularly recommended are recent
+books by Bernstein and by Levine and Bernstein [3]. The latter, about to
+appear in its second edition, contains references to 500 review articles in the
+field of molecular reaction dynamics. Nobody has tried recently to count the
+research papers in this prolific field; these probably now exceed 5000. This does
+not include kindred developments in the study of molecular dynamics in
+solution or the solid phase.
+   The emergence of chemical dynamics captivated many enterprising scien-
+tists and imbued them with a sense of historical imperative. Figure 1 indicates
+this in the wider context of physical chemistry. The subject began with thermo-
+chemistry, still its foundation. The thermochemical era can be considered to
+reach a pinnacle in 1923, with the publication of the classic text by Lewis and
+
+
+                                          D. R. Herschbach                                            267
+
+
+Randall. This was shortly before the discovery of quantum mechanics ushered
+in the new structural era (and spawned chemical physics). In turn, the grand
+pursuit of molecular structure and spectra reached a twin pinnacle in 1951 and
+1953 with the monumental discoveries of the alpha-helix by Pauling and the
+DNA double-helix by Watson and Crick. This was shortly before the early
+molecular beam and infrared chemiluminescence experiments appeared as
+har-
+
+
+
+
+ Fig. 1. Historical perspective. Ascending mountains represent three eras, since thermochemistry was
+ prerequisite for the structure era and both underlie the dynamics era. All three connect to a vast range
+ representing synthetic chemistry, which draws closest to dynamics as both disappear heavenwards
+ into clouds symbolizing the ultimate triumph of ab initio quantum chemistry.
+
+
+268                                 Chemistry 1986
+
+
+bingers of the dynamics era. It is striking that the prequantum models of Lewis
+and Langmuir, still valued today, came well before the onset of the structural
+era. Likewise, the potential surface and transition-state concepts of Eyring and
+Polanyi anticipated the dynamics era.
+   Not evident in Fig. 1, and in contrast to the scientific continuity, are cultural
+chasms between the eras. Linus Pauling once told me of the gulf his students
+encountered in the late 1920’s when, as candidates for an academic position,
+they presented seminars describing molecular structures they had determined
+by electron diffraction. All the faculty in the audience had done their Ph.D.'s in
+thermochemistry, and so imbibed a tradition which emphasized that it did not
+need to postulate the existence of molecules! Worse, interpretation of the
+diffraction rings then relied entirely on the so-called “visual method”. A
+densitometer tracing showed only monotonically decreasing intensity curves;
+the rings could only be seen because the human eye can detect slight changes in
+intensity. The molecular structures obtained thus depended on an “optical
+illusion,” incomprehensible and reprehensible to many professors of thermody-
+namics. Forty years later, my own students encountered a similar gulf when
+presenting seminars describing our early crude molecular beam reactive scat-
+tering studies. Almost all the incumbent faculty then had done their Ph.D.'s in
+structure or spectroscopy. They were dubious about work that depended on
+drawing velocity vector diagrams to interpret bumps on scattering curves.
+
+Molecular Beams Before Chemical Dynamics
+The first molecular beam experiments were carried out 75 years ago, immedi-
+ately after the invention of the high speed vacuum pump had made it possible
+to form directed “rays” of neutral molecules at sufficiently low pressures to
+prevent their disruption by collisions with background gas. Figure 2 indicates
+the historical progression. Systematic research began with Otto Stern, who
+developed many aspects of beam techniques. He had retired and was living in
+Berkeley when I arrived there in 1959. Occasionally Stern attended seminars,
+and I had the opportunity to hear from him several memorable stories about
+his work. Two of these are pertinent here.
+   In his first work, done at Frankfurt in 1919, Stern undertook to test the
+Maxwell-Boltzmann velocity distribution by analyzing the speeds of a silver
+atom beam with a rotating device. Gleefully, he described how the money to
+build the apparatus was supplied by Max Born; the great theoretical physicist
+was renowed as a public speaker and gave a special lecture series to raise the
+funds. Stern found that his experimental results were in approximate agree-
+ment with the Maxwell-Boltzmann distribution, but deviated from it in a
+systematic way. He said [4]:
+      “After my paper was sent off, I received a letter pointing out that I had
+      overlooked an extra factor of v (the velocity) which enters because the
+      detected atoms must pass through a slit. When this factor was inserted,
+      the agreement became quantitative. That letter came from Albert Ein-
+      stein!”
+The “extra factor” represents the Jacobian for the transformation from number
+
+
+                                      D. R Herschbach                          269
+
+
+
+
+Fig. 2. Evolution of molecular beam and kindred methods.
+
+
+density (atoms cm - 3) to flux density (atoms cm -2 s e c-1 ). That same factor and
+Jacobians for numerous other transformations often appear in chemical dy-
+namics, so I’ve had reason to tell Stern’s story to many bedeviled students. As
+noted below, some striking effects in molecular collisions are due entirely to a
+Jacobian factor.
+   The other favorite story concerns the celebrated Stern-Gerlach experiment,
+in which a beam of silver atoms was sent through an inhomogeneous magnetic
+field and discovered to split into two, thereby revealing the space-quantization
+of the electron spin. This is how Stern told the story [4]:
+
+
+270                                  Chemistry 1986
+
+        “The question whether a gas might be magnetically birefringent (in the
+        words we used in those days) was raised at a seminar. The next morning
+        I awoke early, too early to go to the lab. As it was too cold to get out of
+        bed, I lay there thinking about the seminar question and had the idea for
+        the experiment. When I got to the lab, I recruited Gerlach as a collabora-
+        tor. He was a skilful experimentalist, while I was not. In fact, each part of
+        the apparatus that I constructed had to be remade by Gerlach.”
+            “We were never able to get the apparatus to work before midnight.
+        When finally all seemed to function properly, we had a strange experi-
+        ence. After venting to release the vacuum, Gerlach removed the detector
+        flange. But he could see no trace of the silver atom beam and handed the
+        flange to me. With Gerlach looking over my shoulder as I peered closely
+        at the plate, we were surprised to see gradually emerge two distinct traces
+        of the beam. Several times we repeated the experiment, with the same
+        mysterious result. Finally we realized what it was. I was then the equiv-
+        alent of an assistant professor. My salary was too low to afford good
+        cigars, so I smoked bad cigars. These had a lot of sulfur in them, so my
+        breath on the plate turned the silver into silver sulfide, which is jet black
+        so easily visible. It was like developing a photographic film.”
+Although I’ve rarely tried a cigar, our first reactive scattering work also
+benefited from lucky contamination of the detector, as described later.
+    Soon Stern could afford good cigars, as he was appointed professor of
+physical chemistry at Hamburg. His Institute there conducted a series of
+remarkable molecular beam studies, including invention of the surface ioniza-
+tion that was to be so vital in the “alkali age” of chemical dynamics. This
+detector, derived from Langmuir’s studies of surface ionization, has since been
+used in thousands of experiments. It consists simply of a heated filament of a
+metal such as tungsten and will ionize with nearly 100 % efficiency materials
+having ionization potentials lower than about 4 or 5 volts, such as alkali atoms.
+Stern had to abandon his splendid work at Hamburg in 1933 when Hitler took
+office.
+    Other epochal molecular beam contributions to physics came from Isidor
+Rabi. He had also been educated as a chemist and worked with Stern as a
+postdoctoral fellow before joining the physics faculty at Columbia. In 1937 he
+invented his magnetic resonance method. This followed a seminar by Gorter
+from Leiden describing his failed attempt to detect nuclear magnetic resonance
+in a crystal. It was then not obvious that the tiny nucleus, with dimensions of
+t h e o r d e r 1 0- 1 3 cm, would interact appreciably with the external atomic elec-
+tron distribution, with dimensions of the order 10 -8 cm. If not, the different
+nuclear spin orientations (favorable: “up” or unfavorable: “down”) would
+remain equally probable even when subjected to an external magnetic field.
+There would then be no net absorption of radiofrequency radiation in the
+magnetic resonance experiment. Spin flips induced by the radiation are equally
+likely up or down, so net absorption cannot occur unless interactions permit the
+spins to relax toward thermal equilibrium where more will be up than down.
+    Rabi immediately realized how to exploit beams to escape this constraint. He
+
+
+                                 D. R Herschbach                            271
+
+
+introduced two opposing Stern-Gerlach fields. A beam traversing the first field
+(denoted A) is split into its nuclear spin components, but on passing through
+the second field (denoted B) these are recombined. Between these fields, which
+act like diverging and converging lenses, Rabi introduced a third field (the C-
+field). This was homogeneous and so had no lens action, but it served the role
+of Gorter’s field in defining “up” and “down”. Since there are no collisions in
+the beam, there is no means to relax the spin component populations. But now
+none is needed. Radiofrequency radiation in the C-field region will at reso-
+nance flip equal numbers of spins up or down; but now any spin changing its
+orientation after the A-field will not be refocussed in the B-held. In this
+ingenious way, Rabi could detect which frequencies produced resonances. He
+thus created a versatile new spectroscopy with extremely high resolving power.
+It has provided a wealth of information about nuclear structure. An analogous
+electric resonance spectroscopy operates with rotational states of polar mole-
+cules. This has likewise been very fruitful for molecular structure. It has also
+been used to fully analyze the quantum states of products in some reactive
+scattering experiments.
+   Shortly before inventing his resonance spectroscopy, Rabi undertook some
+simple elastic scattering studies by observing the attenuation of an alkali atom
+beam sent through a gas-filled chamber and detected on a surface ionization
+filament. If Gorter had not come by, perhaps Rabi would have continued on to
+develop reactive scattering. Another quirk of fate was only revealed in 1945,
+when nuclear magnetic resonance was successfully done in liquids and solids
+by Purcell at Harvard and Block at Stanford. Only then did it become clear
+that Gorter’s original experiment would have worked if he had used a material
+with magnetic impurities which would have induced the necessary relaxation.
+Yet another epilogue, also of great portent, was the invention of the maser in
+1955 by Townes at Columbia. In this device, the precursor of lasers, he sent a
+beam of ammonia molecules through an electric quadrupole focussing field
+which selected an energetically unfavorable state. When illuminated with
+microwave radiation, the molecule reverted to the energetically favorable state,
+emitting the excess energy as a photon. Thus was born molecular amplifiers
+and oscillators and the now vast industry of quantum electronics. The idea
+came to Townes on a sunny park bench, 35 years after Stern woke up early in
+his warm bed.
+
+My first Encounters with Kinetics and Beams
+Within days of my arrival at college, I first learned something of the challeng-
+ing field of chemical kinetics from my freshman advisor, Harold S. Johnston.
+He was then a young assistant professor at Stanford University, applying new
+methods of his own devising to measure rates of fast gas-phase reactions in
+regimes previously inaccessible. In the summer after my sophomore year, and
+again after my junior year, Hal hired me as a lab assistant for his research
+group. One project involved weeks of glassblowing, silver soldering, and plas-
+tering with great quantities of asbestos paste (now outlawed) to install a large
+volume reaction vessel that could be maintained at a high and uniform tem-
+
+
+272                                Chemistry 1986
+
+
+perature. I was greatly impressed with the care and attention to detail shown
+by Hal and his graduate students, and his emphasis on testing theory. He
+stressed that this could only be done with a reaction known to be an elementary
+step - and that we could never be entirely certain that all steps and interme-
+diates had been correctly identified.
+   In my senior year, I took Hal’s excellent course in chemical kinetics, and the
+following year a study of transition-state theory begun there became my
+master’s thesis. In this, we calculated the Arrhenius A-factors for twelve well-
+characterized bimolecular reactions involving only 4 to 6 atoms. Necessary
+assumptions about the properties of the transition state were made uniform for
+the whole set and consistent with similar stable molecules. Internal rotations of
+the reaction complexes received special attention, thanks to the help of Ken-
+neth Pitzer at Berkeley, who kindly showed me how to design a sensible
+approximation. Previous tests had been piecemeal and often capricious about
+internal rotations; Hal expected our test might prove embarassing for the
+theory. In fact, the agreement with experiment was good. This persuaded Hal
+that the theory deserved further development; over the next decade he carried
+this out and produced an exemplary book. Although Hal’s contagious enthusi-
+asm had long since convinced me that I wanted to pursue kinetics, the thesis
+project made me decide to study first the dynamics of stable molecules. Thus I
+applied to the chemical physics program at Harvard in order to do Ph.D.
+research with E. Bright Wilson, Jr.
+   A few weeks before turning in the master’s thesis, I first heard of molecular
+beams. In his course on statistical thermodynamics, Walter Meyerhof briefly
+described Stern’s test of the Maxwell-Boltzmann velocity distribution. It was
+love at first sight. I remember a flush of excitement at the thought that this was
+the way to study elementary reactions, the unequivocal way to know a reaction
+is elementary and to study directly its properties. This was the spring of 1955. I
+did not imagine that 5 years later my own first beam apparatus would be nearly
+complete at Berkeley and I would have met Otto Stern himself.
+   On arrival at Harvard in the fall, I was delighted to discover that Norman
+Ramsey was offering a seminar course based on the proof sheets of his book on
+molecular beams. E. B. Wilson was giving a course using his just published
+book on molecular vibrations. Roy Glauber provided a rigorous treatment of
+electromagnetic theory, working through all the mathematical derivations in
+class with no notes at all. The dessert course of this remarkable academic menu
+was entitled “Chemical Physics”, and given by the legendary Peter Debye, a
+visitor that year. His course had 40 or more auditors, but only 3 of us took it for
+credit and thus had individual oral exams with Debye. I still relish the memory
+of his lucid lectures and the twinkle in his eye as he so often began, “Let me tell
+you a story . . . ” Early in Ramsey’s course, he too discussed Stern’s velocity
+analysis study and actually announced, in his booming voice: “This would be a
+wonderful way to do chemistry!” In the spring term I took among others
+Kenneth Bainbridge’s course on nuclear physics to learn something about
+nuclear reactions; this was indeed to prove very useful later.
+   Even more exhilerating that year and thereafter was my experience in Bright
+
+
+                                          D. R. Herschbach                                         273
+
+
+Wilson’s research group. With microwave spectroscopy, he and his students
+were developing an elegant new way to study internal rotation by exploiting the
+tunnel effect. Typical systems had a methyl group attached to an asymmetric
+molecular frame. The torsion or internal rotation of the methyl group about its
+axis is hindered by a sinusoidal potential barrier with three equivalent minima.
+If the barrier is very high, then essentially there are only small torsional
+oscillations in three separate potential wells, and to good approximation the
+microwave spectrum is that of a rigid rotor molecule. If the barrier is low
+enough, however, tunneling between the well occurs and this causes the micro-
+wave rotational transitions to split into doublets. These splittings are very
+sensitive to the barrier height, so an approximate dynamical theory is adequate
+to extract an accurate value for the barrier. Since I already had seen how
+prevalent internal rotation is, not only in stable molecules but in transition-
+states for reaction, I was very excited about this new method. It was such a
+fresh and powerful approach that almost every day some member of the group
+had an unanticipated result to report. Because the microwave spectra display a
+forest of transitions, there was ample need to work out variations on the basic
+theme and satisfying opportunity for definitive tests.
+    Although this research was entirely different in character from molecular
+collisions, I learned invaluable lessons from it and from working with Bright
+and his extremely able group. A microwave spectroscopist simply must calcu-
+late as much as possible before plunging into the forest; for a molecular
+ beamist, the need is less obvious but just as vital. Bright’s high standards and
+a b s o l u t e i n t e g r i t y h a d g r e a t i m p a c t o n h i s s tudents . Thus he put s trong
+ emphasis on analyzing and clearly stating what is well-established and what is
+ really based on unproven assumptions. He also gave strong emphasis to
+ blocking out the big questions and on coupling theoretical investigations with
+ experiments.
+    Microwaves soon led to my first work with beams, in collaboration with an
+ ebullient young instructor, Bill Klemperer. He had developed a technique for
+ high temperature infrared spectroscopy and was using it to study alkali halides
+ (later to become my favorite molecules). Bill invited me to help build a high
+ temperature microwave spectrometer, again a project requiring much asbestos
+ paste. One day Bill came in with a paper just published by Marple and
+ Trischka reporting an electric resonance study of lithium chloride. They had
+ used the venerable tungsten surface ionization filiment as a detector. Depend-
+ ing on resonance field settings, the apparatus could resolve four vibrational
+ states. However, the vibrational frequency derived from the relative intensities
+ was much lower than Bill had measured in the infrared. We examined various
+ possibilities and concluded that most likely was an increase in the efficiency of
+ the surface reaction (dissociation of the salt molecule to ions) with vibrational
+ excitation of the incident molecule [5]. This was near Christmas, 1956. Almost
+  15 years later, the vibrational excitation mechanism was confirmed and recent-
+ ly it has become a leading issue in surface chemistry.
+    We were eager to study the surface ionization process experimentally. Since
+ an electric resonance apparatus was not available (at that time only 3 existed,
+
+
+274                                 Chemistry 1986
+
+
+none closer than 300 miles of Cambridge), we could not study alkali halide
+molecules. Hence we decided to study ionization of alkali atoms as a function of
+the surface temperature. Ramsey kindly lent us one of his machines over
+Christmas vacation and we quickly obtained a hundred pages or so of data
+from which we derived residence times and heats of adsorption for atoms on
+tungsten and platinum surfaces. Then we discovered that very similar data
+existed in the Russian literature, so did not publish our results. However, this
+was a key episode for both Bill and me. He too fell in love with molecular
+beams, and immediately undertook to build an electric resonance apparatus.
+Bill and his students have since turned this into a cornocopia for molecular
+spectroscopy, unprecedented in resolution and chemical scope. Especially re-
+vealing have been their studies in recent years of molecules held together by
+weak van der Waals forces. This work is building an understanding of these
+ubiquitous forces which may help elucidate the specificity and selectivity of
+interactions in biomolecules.
+   In studying the literature on surface ionization, I was elated to discover [6] a
+paper by Taylor and Datz from Oak Ridge describing an actual crossed beam
+study of the reaction K +            KBr + H. Although the traditional tungsten
+surface ionization detector is about equally sensitive to K and KBr, Taylor and
+Datz found that a platinum alloy is much more effective for K than for KBr.
+From the difference in the signals read on the two detector filaments, they were
+able to distinguish the small amount of reactively scattered KBr from the large
+background of elastically scattered K atoms. Small as it was, the little differ-
+ence bump was a joyful sight. In a series of classic studies in the 1920’s,
+Michael Polanyi had shown that many alkali reactions proceeded at rates
+corresponding to “reaction at every collision”. With this differential surface
+ionization detector, there was now prospect that crossed-beam studies of many
+of these reactions could be made with relatively simple apparatus.
+   Soon I found another intriguing crossed-beam study, published two years
+before by Bull and Moon at Birmingham. They bombarded a stream of Cs
+vapor with a pulsed accelerated beam of CCl 4 produced by swatting with a
+paddle attached to a high-s peed rotor. The intense CCl4 b e a m c o u l d b e
+monitored with a simple ionization gauge and signal pulses due to scattered Cs
+or CsCl were detected by surface ionization on a tungsten filament. Although
+there was no direct means to distinguish between Cs and CsCl, the observed
+signal pulses appeared to come primarily from reactively scattered CsCl, on the
+basis of time-of-flight analysis and blank runs with the CCl 4 replaced by Hg
+vapor. Unjustly, these experiments were long discounted or ignored. This was
+due to the misconception that elastic scattering would always predominate.
+The high-speed rotor technique also intimidated other prospective experiment-
+ers; thus this line early work did not have the impact deserved.
+   During the spring of 1958, while completing my Ph.D thesis, I visited several
+universities as a faculty candidate. My seminar about internal rotation was
+always well received, but my plans for beam experiments sometimes produced
+outright dismay. Yet the response was often enthusiastic from faculty young in
+either age or spirit. I was delighted to accept an assistant professorship at
+
+
+                                D. R. Herschbach                            275
+
+
+Berkeley, especially since Hal Johnston was now there and also Bruce Mahan,
+who had the year before completed his Ph.D. at Harvard in kinetics with
+George Kistiakowsky. My appointment was to take effect a year later; mean-
+while I continued at Harvard as a Junior Fellow of the Society of Fellows. The
+intervening year was extremely useful. It gave me time to work out detailed
+calculations for design of the beam apparatus and a kinematic theory for
+interpreting crossed-beam experiments. Membership in the Society of Fellows
+was also a great pleasure because it brought together intense people from all
+academic disciplines. Monday night dinners included the two dozen Junior
+Fellows, ten Senior Fellows and typically ten guests, in a “neo-pickwickian
+atmosphere” with ample wine and cigars too good to have saved the Stern-
+Gerlach experiment [7].
+   Just before departing to Berkeley, I went to say goodbye to Kistiakowsky.
+Like so many others, I revered him as a scientist and a sage as well as an
+awesome personality. He confirmed a legendary story about a molecular beam
+experiment he and Slichter had tried in 1951 to test early theoretical calcula-
+tions on the properties of supersonic expansions [8]. Because of inadequate
+pumping speed, the experiment was inconclusive and a miserable struggle.
+Afterwards, Kisty destroyed the apparatus with an ax! He said to me, with his
+extra heavy Russian accent (conveying whimsey - or so I hoped): "So you have
+been bitten by the molecular beam bug. Too bad! The trouble is that there are
+no collisions in one beam, and no collisions in the other beam, so when you
+cross them there are still no collisions!”
+
+
+Early Alkali Age of Reactive Scattering
+At Berkeley, I was soon joined by two graduate students, George Kwei and Jim
+Norris. Space was in short supply, and we were content with a corner (only
+4 m × 6m) of a lab in Lewis Hall. Our first task was to remove a large
+calorimeter that had long occupied that corner; this we viewed as a rite of
+passage, with the historical perspective of Fig. 1 already in mind. The beam
+apparatus we installed (dubbed Big Bertha) was almost rudimentary. As shown
+in Fig. 3, the beams were formed by thermal effusion from ovens mounted on
+turnable which could be rotated to sweep the angular distribution of scattered
+atoms and molecules past the surface ionization detector. Typically, the dis-
+tance from the scattering center to the alkali oven was 10 cm, to the other oven
+1.5 cm, and to the detector 10 cm. Use of a double-chamber oven for the alkali
+allowed the temperature of the beam emerging from the upper chamber to be
+varied by about 300 degrees independently of the vapor pressure established in
+the lower chamber (about 0.1 torr), which governed the beam intensity. The
+oven for the reactant gas was connected to an external barostat by a supply
+tube which passed through the support column in the rotatable lid. Cold
+shields and collimating slits hid both ovens from the scattering center, and a
+cold shield also surrounded the detector. The entire scattering chamber was
+enclosed in a copper box attached to a large liquid nitrogen trap. Since the
+reactants are condensable, the cold shields and trap provided very high pump-
+ing speed. This kept the background vacuum in the scattering chamber low
+
+
+276                                    Chemistry 1986
+
+
+MICROMETER
+                                                             PERMANENT GAS
+SCREW
+                                                             OVEN SUPPORT
+
+                                                              ROTATABLE PLATFORM
+DOUBLE CHAMBER
+OVEN SUPPORT
+
+
+                                                                    ,-BALL BEARINGS
+
+
+
+
+                                                                       O-RING SEAL
+                                                                       PERMANENT
+
+
+
+
+Fig. 3. Crossed-beam apparatus Big Bertha for study of alkali atom reactions. Cold shields,
+collimating slits, shutters to interrupt the beams, and other details omitted.
+
+
+enough (of the order 10 - 7 torr) to ensure that collisions with background gas
+were negligible for both the reactant beams and the product molecules in flight
+to the detector.
+   In typical experiments, the concentration of alkali atoms within the volume
+defined by the intersection of the beams was about 10 1 0 / c m3 , equivalent to a
+pressure of 10 - 6 torr, and that of the reactant gas molecules was about 100-fold
+greater. About 10 1 4 alkali atoms/sec entered the reaction volume, of which
+roughly 0.1-1% reacted to form products while about 10% underwent elastic
+scattering. The steady-state concentration of products in the reaction volume
+was roughly 10 7 to 10 8 molecules/cm 3 , the pressure about 10 -9 to 10 -10 torr. At
+the peak of the angular distribution of reactive scattering about 10 10 to 10 1 1
+product molecules/cm 2/sec arrive at the detector. Since conversion to ions on a
+hot tungsten or platinum surface is nearly 100% efficient for alkali species,
+such yields gave readily measureable signals of the order of 10 -13 Amps. For
+many of the reactions studied more than a month would be required to deposit
+a monolayer of product molecules, so it was essential to have a detector far
+more sensitive than Stern’s cigar.
+
+Experiments Revealing Product Recoil
+Our first experiments were begun in the fall of 1960. On the basis of simple
+theoretical considerations, we decided to try
+
+
+                                         D. R. Herschbach                                       277
+
+
+From the angular distribution of the reactively scattered KI we hoped to learn
+whether there was any preferred direction relating the reactant and product
+relative velocity vectors and also to get some idea how the reaction energy is
+partitioned between internal excitation. of the product molecules and their
+relative translational motion. Our rationale was based on the CH 3 /KI mass
+ratio. A simple kinematic calculation (displayed later in Fig. 5) showed that
+this ratio was large enough to permit the detected product KI to recoil
+sufficiently far away from the centroid to reveal any directional preference, but
+small enough to inhibit the KI from spraying out so widely that the reactive
+scattering became too weak to observe. Happily, even the first experiments
+worked nicely. Our kinematic rationale was vindicated, but it was not until
+three years later that we learned how lucky was this choice of reaction system;
+it turned out that CH 3I played the role of Stern’s cigar.
+   Figure 4 shows typical results. In (a), the parent K beam was attentuated
+7 % by the perpendicularly crossed CH 3I beam; that represents chiefly elastic
+scattering. Readings on the platinum detector (solid points) were normalized to
+those on tungsten (open points) at the parent beam peak. In this case, the use
+of differential detection was not crucial, as the KI distribution is displaced
+
+
+
+
+Fig. 4. Reactive scattering data: (a) Parent K beam of 5 x 10 -8 A attenuated 7 % by crossed CH3I
+beam. Readings on Pt detector (solid circles) normalized to W (open circles) at parent beam peak.
+(b) KI distributions; circles derived from (a), triangles from a replicate experiment several months
+later. Area under curves gives collision yield.
+
+
+278                                        Chemistry 1986
+
+
+far enough from the K beam to appear as a pronounced bump in the signal
+from the tungsten detector. In (b), the KI distribution is normalized so that the
+area under the curve gives the collision yield (integrated intensity of KI divided
+by total K scattered out of the parent beam). This is about 5 × 10 - 4 a n d
+indicated the reaction cross section (or effective target area) is about 7 A 2 .
+Measurements at several temperatures of the incident beams indicated that the
+activation energy for the reaction is negligibly small, less than 0.3 kcal/mol.
+The new dynamical information we were after is contained in the location and
+shape of the product angular distribution, however. To extract that informa-
+tion we used a kinematic analysis derived from conservation laws that hold
+regardless of the forces governing the collision.
+
+Kinematic Analysis Via Newton Diagrams
+Velocity vector diagrams such as Fig. 5 are a convenient aid in the kinematic
+analysis. The vectors pertain to the asymptotic initial and final states of the
+collision. By virtue of momentum conservation, the center-of-mass velocity
+vector C remains constant throughout; only motion relative to C involves
+chemical interactions. The recoil velocity u which carries the product KI a w a y
+from C can have any direction but energy conservation limits its magnitude.
+Thus, the possible spectrum of recoil vectors u is represented by a set of
+
+
+
+
+Fig. 5. Newton diagram corresponding to most probable velocitites of reactants in Fig 4. Spheres
+indicate range of KI recoil vectors allowed by conservation of energy and linear momentum; each is
+labelled by value of E'(kcal/mol), the final relative translational kinetic energy. Distribution of
+recoil vectors must have cylindrical symmetry about initial relative velocity vector, by virtue of
+“dart board” randomness of collisions. Three sample recoil vectors are shown that correspond to
+the KI observed at the peak of the angular distribution. Also shown is estimate of most probable
+recoil vector for CH3 product.
+
+
+                                  D. R. Herschbach                              279
+
+
+spheres, one for each accessible value of the final relative translational energy of
+the products. This energy ranges up to a maximum determined by the initial
+collision energy and the difference in dissociation energy of the new bond
+formed and the old bond broken.
+   From the velocity vector diagram we see that the broad peak observed near
+83º in the laboratory corresponds to reactive scattering in which an observer
+riding with the center-of-mass would see the product KI recoil into the back-
+ward hemisphere (and the CH 3 forwards) with respect to the incoming K beam.
+Markedly anisotropic scattering of this kind evidently corresponds to a “hard”
+collision dominated by repulsion, as the K atom, the CH 3 g r o u p , a n d t h e
+center-of-mass of KI must all reverse direction. We called this the r e b o u n d
+mechanism. It was later found for many other reactions dominated by repul-
+sion.
+   Comparison with the velocity vector diagram also permits an estimate of the
+energy in product relative translation. This affects the displacement of the
+laboratory angular distribution from that of C as computed from the initial
+conditions. In assessing the displacement, it is necessary to take proper account
+of a Jacobian factor which enhances the intensity of the laboratory scattering at
+low recoil velocities. We failed to include this Jacobian in our early work
+(thereby unwittingly emulating Otto Stern) and hence underestimated the
+product translation. The correct analysis showed that for the K + CH 3 I reac-
+tion about half of the available energy appears in recoil of the products. This
+result, later confirmed by direct measurement of the KI velocity distributions,
+again exhibited the dominant role of repulsive forces in a rebound reaction.
+   For kinematic analysis, Newton’s laws suffice. In the asymptotic transla-
+tional states the beam molecules are too far apart to interact, hence need not be
+precisely localized in space and can be assigned definite momenta despite
+Heisenberg’s principle. Accordingly, we named our velocity vector construc-
+tions “Newton diagrams”. These are still much used today, as kinematic
+analysis is an essential part of the design and interpretation of any collision
+experiment.
+
+Frustrations and Preparations
+We were very happy to find this clear evidence for a preferred range of product
+recoil and energy and were eager to study other alkali atom reactions to look for
+variations in the scattering patterns that might be correlated with electronic
+structure. However, we encountered frustrating difficulties with the surface
+ionization detector. Many reactant gases (other than alkyl halides) poisoned
+the Pt filament, inducing spurious and irreproducible responses that precluded
+measurement of reactive scattering. This difficulty stymied us until the fall of
+1963, when we finally eliminated it by means of a procedure due to Touw and
+Trischka. They demonstrated that the Pt filament could be stabilized in either
+of two distinct modes. The Pt filament becomes essentially nondetecting for alkali
+compounds (but still detects alkali atoms) if it is preheated while doused with
+methane or another hydrocarbon. The Pt filament becomes detecting for alkali
+compounds and acts just like a W filament if it is instead preheated while
+
+
+280                                      Chemistry 1986
+
+
+doused with oxygen or merely operated in sufficiently clean vacuum. The
+nondetecting mode evidently requires a stable carbon layer on the filament.
+Thus, the differential detection so useful for alkali reactive scattering results
+from a dirty surface. Before the preheating procedure was developed, the
+carbon deposit was a matter of luck, supplied either by pump oil vapor if the
+vacuum were poor or by hydrocarbon-rich reactant species such as methyl
+iodide; either acted like Stern’s cigar.
+   During the lean period of more than two years before rescue by a dirty
+detector, our only successful reactive scattering experiments dealt with variants
+of the K + CH3 I reaction, involving other alkali atoms and alkyl groups with
+up to seven carbon atoms. However, in this period our research group expand-
+ed rapidly and we constructed much new apparatus, experimental and theo-
+retical, that was destined to bring a harvest of results. Jim Kinsey, Ken
+Cashion, Mark Child and Malcolm Fluendy joined as a postdoctoral fellows,
+and Phil Brooks, Kent Wilson, John Birely, Ron Herm, Jim Cross and Dick
+Zare as graduate students. Figure 6 provides a succinct summary, indicating
+the chief projects pursued by this distinguished roster during our Berkeley era.
+   In particular, we note among the apparatus construction projects three
+analyzing devices: rotating slotted-disk velocity selector, inhomogeneous mag-
+netic deflecting field, and inhomogeneous electric deflecting field. These de-
+vices are quite similar to those used by Otto Stern; we liked to say that reactive
+scattering followed the evolutionary principle, “Ontogeny recapitulates Phy-
+logeny”. As seen already, velocity analysis was essential to obtain quantitative
+
+
+
+
+Fig. 6. Roster of graduate students and postdoctoral fellows with chief research projects during
+Berkeley era. Our first apparatus was a helium leak detector called Annie; hence our successive
+beam machines were named Bertha, Charity, Dodo, Eve, Faith, Gloria, Stars indicate comple-
+tion of Ph. D. theses or postdoctoral terms.
+
+
+                                  D. R. Herschbach                             281
+
+
+data for the recoil angle and translational energy distributions. Magnetic
+analysis provided, among other things, a definitive test of our detection tech-
+nique, immune to poisoning of the filaments. By deflecting away most of the
+paramagnetic alkali atoms, we could measure directly the distribution of
+diamagnetic alkali halide molecules produced by reactive scattering. Electric
+deflection of these polar molecules enabled us to determine the rotational
+angular momentum. This had special appeal for me because of my background
+in rotational spectroscopy. Furthermore, since mass, velocity, and position all
+enter into angular momentum, it was clearly a key property for theoretical
+models of reaction dynamics.
+    Among our theoretical studies of this period was a treatment of the velocity
+ vector distribution of fragments from molecular photodissociation. This was
+ undertaken because already we had vague notions of a kinship between chemi-
+ cal reactions and photodissociation. In electronic excitation by photons, the
+ angular dependence is determined simply by the dipole selection rule whereas
+ the exit velocity of the photofragments is determined by the repulsive potential
+ of the excited state. This “half-collision” model, worked out nicely by Dick
+ Zare, provided rather general “form factors” for numerous properties [9].
+ Subsequently, this has served as the basis for extracting a lode of information
+ about dissociative excited states by means of laser spectroscopy, and the
+ suspected link with reaction dynamics did indeed emerge.
+    Our Berkeley days also included several memorable visits with others
+ captivated by reaction dynamics. One of these occurred in the early summer of
+ 1961, when I visited Don Bunker at Los Alamos. He had undertaken the first
+ realistic Monte Carlo calculations of classical trajectories for chemical reac-
+ tions, and his initial aim was to interpret our results for the K + CH 3 I system
+ in terms of potential surface features. The scene in his office comes back vividly
+ [10]:
+       He was decorating the walls with strips of recorder chart paper several
+       yards long, on which were plotted a series of undulating, intertwined
+       curves. These were the first results of his Monte Carlo calculations... The
+       room was bright with sunshine and the varicolored curves seemed to
+       shimmer and dance about, as if choreographed to Don’s crisp and witty
+       description. It was an exhilerating moment. Henceforth the mechanics of
+       molecular collisions for any postulated force field could be computed, as he
+       liked to say, “in instructive and entertaining detail.”
+ Such classical trajectory calculations, as developed especially by Martin Kar-
+ plus and John Polanyi, have indeed proven invaluable for interpreting data and
+ testing concepts of reaction dynamics.
+    Other inspiring encounters came in April, 1962, at a Faraday Society Discus-
+ sion held at Cambridge University, where I met many leading workers in
+ chemical kinetics. Equally inspiring was a solo visit to Berkeley a few months
+ later by Michael Polanyi. He witnessed an unsuccessful scattering experiment
+ on the K + Br2 reaction while he described to us his prescient speculations of
+ 30 years before that it might proceed by a stripping mechanism with high
+ vibrational excitation of the KBr product. He also mentioned that he liked to
+
+
+282                                          Chemistry 1986
+
+
+think that the attacking alkali atom used its valence electron to “harpoon” the
+halogen. Later I adopted this term to enliven numerous discussions of electron
+transfer reactions.
+
+From Rebound to Stripping with Rainbows Between
+Within a few months my group was discussing an unanticipated transfer to
+Harvard. We had expected to relocate in a new lab about 100 m away in the
+basement of the nearly completed Latimer Hall, but in the late summer of 1963
+instead moved 5000 km to the basement of Mallinckrodt Laboratory. I went
+even further that summer, as I’d agreed to present a lecture course on molecu-
+lar collisions at Göttingen University. There I strolled daily along the path
+atop the encircling medieval wall, the path taken by many of the pioneers of
+quantum mechanics during ambulatory debates. But only by communing with
+the charming little Goose Girl in the Rathaus fountain was I reconciled to the
+quantum-like dualities of the Harvard/Berkeley choice.
+   Our new lab was in nearly full swing by Halloween and soon we learned how
+to avoid poisoning our detector filaments. Thereafter results were rapidly
+obtained for a wide range of alkali reactions. As illustrated in Fig. 7, many
+showed striking contrasts to the methyl iodide reaction. We found that for
+
+
+
+and similar systems the reaction cross section is remarkably large, ~ 200 A 2 ,
+and most of the alkali halide product recoils into the forward hemisphere with
+respect to the incident alkali atom. These features indicate dominantly attrac-
+tive interaction in which the bond exchange can occur for quite large impact
+parameters. This suggests a stripping mechanism of the type familiar in nuclear
+p h y s ics . I n an in d ep en d en t s tu d y o f th e Br2 r e a c t i o n , M i n t u r n a n d D a t z
+obtained similar results and many other examples of stripping reactions were
+soon found.
+   Before long, we had examples for which the reaction cross section is of
+intermediate size and the product peaks sideways, giving a conical angular
+distribution about the direction of the initial relative velocity vector. Such a
+case is the reaction
+
+
+
+A strong correlation emerged: as the magnitude of the total reaction cross
+section increases, the preferred recoil direction of the alkali halide product
+shifts forwards. This is exemplified as K        Rb    Cs for the CCl 4 reaction,
+whereas the angular distributions do not change much with the identity of the
+alkali atom for the CH 3 I case or the Br 2 case. Velocity analysis experiments
+likewise show a nice contrast. The product translational energy is large for the
+C H3 I case and small for the Br 2 case, but the angular distributions do not
+change much with the exit energy. For the CCl 4 reaction, the preferred direc-
+tion of the product moves forward rapidly as the translational recoil energy
+increases. The form of this strong angle-energy coupling resembles the rainbows
+familiar in elastic scattering of molecules and in sunny but moist skies.
+
+
+                                        D. R. Herschbach                                       283
+
+
+
+
+Fig. 7. Comparison of scattering angle distributions for reactions of alkali atoms with Br2, CCl4,
+and CH 3 I, illustrating stripping, transitional, and rebound behavior. Ordinate scale indicates
+approximate normalization to total reaction cross sections. Distributions show angular varation
+that would be seen by a hypothetical observer traveling with the center-of-mass. Scattering angle
+indicates deviation of product relative velocity from reactant relative velocity; for =  the alkali
+halide emerges in same direction as incident alkali atom.
+
+
+
+   The marked anisotropy of the product angular distributions for this family of
+reactions, ranging between rebound and stripping, indicates that all proceed by
+a direct or impulsive mechanism. The duration of the reactive collisions must be
+so short that most of the transient collision complexes decompose before
+rotating through 180°. Since the rotational velocities are quite high, roughly
+half or more of the complexes must decompose within about 5 x 1 0 sec, a                 -13
+
+
+
+time not much longer than a vibrational period.
+   The dynamical properties and chemical variations found for these alkali
+reactions were well suited to the early Monte Carlo trajectory studies and also
+prompted several insightful heuristic models. Ironically, trajectory studies of
+product angular distributions suffered at first from an instructive malady akin
+to the poisoning problem that had held up our experiments. The calculations
+
+
+284                                 Chemistry 1986
+
+
+for atom exchange reactions, A + BC           AB + C, used plausible forms of
+potential energy surfaces with empirical parameters. These surfaces were con-
+structed by adding up pairwise interactions modulated by switching functions
+to weaken each bond as the collision partner draws nigh. Blais and Bunker
+found that reactive trajectories for such surfaces gave chiefly backward scatter-
+ing, in satisfying agreement with our first experiments. But this rebound
+behavior was unduly prevalent; for about two years after the discovery of
+stripping and rainbow-like reactive scattering, trajectory calculations remained
+unable to obtain anything but backward scattering. Godfrey and Karplus
+cured this affliction using potential surfaces derived from approximate quan-
+tum mechanical secular equations. This ensured a smooth surface, free from
+spurious bumps and wrinkles that appeared in surfaces constructed by adding
+piecewise interactions. It was “contamination by such warts” that induced too
+much backward scattering. By varying the repulsive or attractive character of
+the wartless surfaces, the trajectory calculations nicely elucidated the various
+trends associated with transition from rebound to stripping. Likewise, trajec-
+tory studies by John Polanyi and his students mapped out the systematics of
+energy disposal among product translation, vibration, and rotation.
+   We now could also relate these genera1 dynamical properties of alkali reac-
+tions to the electronic structure of the target molecules. All these reactions
+involve converting a covalent bond into an ionic bond, and in effect are gas-
+phase acid-base or ion-recombination processes, via
+
+
+
+According to Michael Polanyi’s harpooning model, the attacking alkali atom
+tosses out its valence electron, hooks the halogen-containing molecule, and
+hauls it in with the Coulomb force. The basic features of the initial electron
+transfer had been examined as early as 1940 in an exemplary theoretical study
+by Magee. As pictured schematically in Fig. 8, the transfer occurs in the
+vicinity of “curve crossing” between zeroth-order “purely covalent” and “ion-
+pair” potential surfaces. When the crossing radius r c is large enough, Coulom-
+bic attraction is dominant there and this radius may be estimated from
+
+
+
+the difference in the ionization potential of the alkali atom and the electron
+affinity of the target molecule. This relates the size of the reaction cross section
+to the energy required to create the ion-pair.
+   However, the dynamical properties are also greatly influenced by the exit
+interaction as the A+ ion approaches the intermediate molecule-ion BC ,
+                                                                                   -
+
+
+
+which is severely distorted by the strong electric field and dissociates. Accor-
+dingly, many dynamical features will differ with the shape and particularly the
+location of the asymptote of the potential curve for the negative molecule ion.
+Often we could estimate the relevant potential curves for the BC - ion from
+data obtained in electron impact experiments or by means of arguments
+developed by Mulliken for the analysis of charge-transfer spectra. Figure 9
+classifies some of the possibilities.
+
+
+                                         D. R. Herschbach                                      285
+
+
+
+
+                                                                                          M+X
+
+
+
+
+Fig. 8. Potential energy curves for an alkali halide molecule (drawn for KBr) showing the “zeroth-
+order” crossing of the ionic and covalent states.
+
+
+
+
+Fig. 9. Classification of electron attachment processes producing negative molecule-ions (XY + e
+    XY-). Here D denotes the bond dissociation energy, E the adiabatic and     the vertical electron
+affinity.
+
+
+286                                Chemistry 1986
+
+
+   For instance, the case designated           pertains to the CH 3 I reaction and
+many other examples of rebound reactions. The negative ion is then formed in
+a strongly repulsive state, because the harpooning electron enters a strongly
+antibonding molecular orbital with a node between the originally bonded
+atoms. This is usually the same orbital that governs photodissociation of the
+parent molecule, so we could derive the location and shape of the exit potential
+curve from its absorption spectrum.
+   In contrast, the case designated I + A pertains to the Br2 reaction and many of
+the prototype stripping systems. These involve exceptionally large electron
+affinities, which accounts for the very big reaction cross section and the long-
+range attraction that gives forward scattering. Here the intermediate negative
+molecule ion would be stable in the absence of the positive ion, although highly
+excited vibrationally. But when the ions are within the crossing radius of about
+7 A2, the Coulomb field exceeds 3 x 109 V/cm and thus the negative ion will be
+pulled apart in a time comparable to a vibrational period, or ~10 -13 sec. This
+accounts for the direct character of the reaction. However, the transient attrac-
+tive coupling between B - and C in the exit channel has a major role in the
+energy disposal.
+   The harpooning model prompted treatments of many other properties, such
+as the mechanics of curve crossing and dissociative electron attachment, orien-
+tation dependence, and orbiting outside a centrifugal barrier at the crossing
+radius. But in terms of chemical perspective, the most striking aspect was the
+connection to charge-transfer spectra. In retrospect, the detection-imposed
+limitation of early beam studies was fortunate, as this alkali family was ideally
+suited for relating reaction dynamics to the electronic structure of reactant
+molecules.
+
+Elucidating Polanyi Flame Reactions
+As well as demonstrating very large reaction rates, the classic studies of alkali-
+halogen reactions by Michael Polanyi also revealed intense emission from
+electronically excited alkali atoms. This had a major role in early discussions
+about interaction of electronic and nuclear motions, as the Polanyi flames
+preceded by a few years the Born-Oppenheimer and Franck-Condon approx-
+imations, both found in 1925. Some central questions concerning the chemilu-
+minescence remained unresolved 40 years later, however, when we undertook
+beam experiments to examine each of the postulated elementary steps in the
+flame mechanism. Again, the results exemplified prototypcial aspects of elect-
+ronic structure.
+   One of the key steps producing chemiluminescence involves vibrational-to-
+electronic energy transfer. This we studied by means of a “triple-beam” experi-
+ment. Vibrationally excited               was formed at the intersection of crossed
+beams of K and Br2 and sent into a second scattering chamber containing a Na
+crossed beam, where fluorescence from K* was observed. The cross section
+found for this reactive transfer process,
+
+
+                                        D. R Herschbach                                        287
+
+
+
+
+is at least tenfold smaller. (The dagger denotes high vibrational energy, the
+asterisk denotes the lowest 2P excited electronic state.) This result is interesting
+because the initial energy distributions of the reactants are nearly the same in
+the Na + KBr + and the K + NaBr + experiments and the same set of potential
+surfaces is accessible in both cases. On energetic or statistical grounds, both
+processes might have been expected to form K* + NaBr with the same probabi-
+lity. The interpretation becomes clear when the ionic character of the bonding
+is considered. If in the intermediate (AB) + X - complex the (AB) + ion decom-
+poses rapidly and irreversibly in the field of the X - ion, configurations in which
+both A and B are symmetrical with respect to both charge-sharing and interac-
+t i o n w i t h X- may seldom be traversed. The chemical exchange process
+(A +                             + B*) is then more favorable for electronic excitation
+because it involves charge-transfer                             +       B*) whereas the nonreactive
+process (A +                      A* +                   does not involve charge-transfer. Later,
+we found translational-to-electronic energy transfer for these systems exhibits the
+same strong preference for reactive over nonreactive transfer, although the
+cross sections are a thousandfold smaller. Potential surface calculations indica-
+te this preference appears to involve a “stereospecific” orientation dependence.
+The potential surfaces for the ground and excited states remain widely separa-
+ted except for nearly collinear configurations with the halogen between the two
+alkali atoms.
+    I n t h e o t h e r m a j o r c h e m i l u m i n e s c e n t s tep, the same potential surface
+complex is reached via harpooning, X +                                                   + B*. This
+we studied by generating a beam of halogen atoms from thermal dissociation in
+a graphite oven and a beam of alkali dimers from a supersonic expansion.
+Contrary to previous indirect evidence, our beam experiments showed that this
+step occurs with a large cross section, ~ 10 A . A “degeneracy-induced” excita-
+                                                                    2
+
+
+
+tion mechanism proposed long before by Magee was thereby vindicated. The
+reactant halogen atom has three-fold orbital degeneracy, corresponding to
+location of its valence-shell “hole” in the p x, pY , or pz orbital, whereas the
+reactant and product molecules are in nondegenerate electronic states. Thus
+the reactants give rise to three distinct potential energy surfaces but only one of
+these can lead to the nondegenerate ground state of the product alkali atom and
+the other two surfaces must lead to electronically excited states.
+    Many other aspects of the harpooning mechanism were revealed in subsequ-
+ent studies of electronic excitation processes [11]. Particularly striking was
+evidence for an “internal reflection” mechanism. This is illustrated in Fig. 10
+for K + SO 2 collisions. Intense emission of K*( 2 P) fluorescence is seen at
+collision energies above the endoergicity (1.6 eV) for this excitation. The
+emission increases strongly up to the threshold (3 eV) for formation of
+K + + S O2 - ion-pairs and then declines steeply. At energies above the A* + X
+a s y m p t o t e b u t b e l o w t h e A+ + X- asymptote, trajectories which make the
+A +              A+ X - crossing and intend to exit via the ion-pair channel find it
+
+
+288                                        Chemistry 1986
+
+
+
+
+Fig. 10. Cross sections for electronic excitation and ion-pair formation on impact of K atoms with
+SO, molecules, as functions of initial relative kinetic energy. Schematic potential curves at right
+show reaction path illustrating “internal reflection” mechanism.
+
+
+
+closed. This flux must be reflected back and redistributed at the
+           A* + X and             A + X crossings until ultimately it escapes via
+either the excitation channel or the original entrance channel.
+
+Persistent Collision Complexes with Glorys Galore
+   Until late 1966, the alkali reactions studied in crossed beams or in Polanyi
+flames all converted a covalent bond into an ionic bond, and all appeared to
+involve abrupt, impulsive reaction dynamics. Likewise, by then trajectory calcu-
+lations for A + BC reactions had explored a variety of “mountain-pass” and
+“ski-run” potential energy surfaces, and found that the lifetime of the transient
+A-B-C complex is usually too short for rotational or even vibrational motions;
+the products typically emerge within 10 - 1 3 sec or less. However, we expected
+that suitable systems would form a lingering or persistent complex with lifetime
+long compared to rotational as well as vibrational periods. In this regime, the
+angle and energy distributions of the scattered products would give information
+about the unimolecular decomposition of the complex.
+   Among alkali reactions likely candidates were the exchange reactions with
+alkali halides,
+
+
+
+at ordinary thermal energies, too low to permit electronic excitation. For these
+             reactions, since an ion-pair is present throughout, electron transfer
+can enhance attraction rather than induce exit repulsion. Furthermore, the
+near equality of the A+ X - a n d B X b o n d s t r e n g t h s a n d t h e e x c e p t i o n a l
+                                      +  -
+
+
+
+stability of the diatomic alkali molecule-ions (just then confirmed in the Ph.D.
+work of Yuan Lee with Bruce Mahan) favor formation of an (AB) +X - complex
+of appreciable lifetime. Electronic structure calculations subsequently de-
+
+
+                                  D. R. Herschbach                             289
+
+
+monstrated that the potential energy surfaces for dialkali halides indeed have a
+pronounced basin, corresponding at its minimum to a triangular complex stable
+by about 10 kcal/mol or more with respect to the separated products.
+   With the aim of studying these alkali atom + akali halide reactions, before
+departing Berkeley we had begun constructing an apparatus with a mass
+spectrometer behind the surface ionization filament, to provide differential
+detection for both of the product species and both of the reactant species.
+Walter Miller and Sanford Safron completed the apparatus at Harvard and
+obtained lovely evidence for persistent collision complexes in more than a
+dozen of these exchange reactions. In each case, the angular distribution of
+products has symmetry about 90º and peaks very strongly near 0º and 180º.
+Furthermore, at wide angles the nonreactive scattering shows a “sticky colli-
+sion bump” arising from break-up of the complex to reform the reactants rather
+than proceed to products.
+   We found the angular distributions could be nicely interpreted in terms of a
+statistical model adapted from the compound nucleus treatment of nuclear
+fission. The symmetry about 90° indicates that the complex persists for at least
+a few rotational periods and hence many vibrational periods. This permits a
+rough estimate of 5 x 10 - 1 2 sec as a lower limit for the mean lifetime of the
+complex. The strong peaking at 0º and 180º indicates that the typical complex
+forms and dissociates with centrifugal angular momentum much larger than
+the rotational momenta of the reactant or product salt molecules. As illustrated
+in Fig. 11, the products emerge with equal probability at all azimuthal angles
+about the total angular momentum vector J of the complex, like water from a
+lawn sprinkler. The complete angular distribution is obtained by averaging
+uniformly over all orientations of the sprinkler about the relative velocity vector
+V of the reactants. The result corresponds to the intersections of circles of
+latitude and longitude on a globe. The product intensity is low in the equatorial
+regions but becomes very high in the polar regions, near 0° and 180°. This
+prominent peaking forward or backward along V is called a “glory”, after an
+analogous effect in light scattering from raindrops.
+    The glory peaks are rounded off when much of the angular momentum J
+appears in rotational tumbling of the reactant or product molecules rather than
+centrifugal motion. As seen in Fig. 11, this tilts the spinning sprinkler away
+from the polar regions. The shape of the product angular distribution thus
+reveals the relative contribution of the centrifugal and tumbling motions. This
+is illustrated in Fig. 12. In turn, the statistical model links the angular momen-
+ tum disposal to the moments of inertia of the complex in the transition-states
+for formation and decomposition. The arrangement of atoms and the rotational
+ motions in the transition-state thereby can leave its imprint in the product
+ angular distribution, even though the complex may dissociate after only a few
+ rotations.
+    The product energy distributions are more directly related to properties long
+ familiar in the theory of unimolecular reaction rates. The main features are
+ governed primarily by the statistical densities of rotational and vibrational
+ states at the transition-state, as in the Rice-Ramsberger-Kassel-Marcus treat-
+
+
+290                                         Chemistry 1986
+
+
+
+
+Fig. 11. Relationships among initial and final angular momenta and relative velocity vectors for a
+long-lived collision complex. In case (a) there is no rotational momentum for either the reactant or
+product molecules; in (b) it is present only for the products; in (c) for both reactants and products.
+For fixed magnitudes of the total angular momentum J and the projections m and m’ on the
+relative velocity vectors the product angular distribution is generated by uniform precessions of V’
+about J and J about V.
+
+
+
+
+ment of unimolecular rates. Qualitative aspects are illustrated in Fig. 13. In
+partitioning the available energy among relative translation, vibration, and
+rotation of the products, the statistically favored situation puts only a small
+part into translation, since the vibrational and rotational modes are more
+numerous. Thus, the probability distribution decline rather rapidly with incre-
+
+
+                                          D. R. Herschbach                                        291
+
+
+
+
+Fig. 12. Angular distributions for the statistical complex model, averaged over distributions of
+angular momenta appropriate to a prolate complex (solid curves) or an oblate complex (dashed
+curves), for case (b) of Fig. 11. All the curves are symmetric about 90º. The index gives the ratio of
+the maximum value of reactant orbital angular momentum                   to the average value of the
+projection m’ for the dissocating complex; thus the index indicates the relative contribution of
+centrifugal and tumbling motions.
+
+
+ase in product translational energy. This decline becomes more rapid as the
+number of atoms in the complex increases and hence the number of vibrational
+modes increases. Another effect enters when the complex is rotating, however.
+The energy in centrifugal motion is not available for statistical distribution
+among the other modes. On decomposition of the complex this centrifugal
+energy is converted into relative motion of the emerging product molecules.
+This changes the shape of the product translational energy distribution. The
+low energy region is determined by the centrifugal contribution, the high
+energy region by the statistical contribution.
+  As outlined here, the statistical model pertains to a “loose” complex defined
+by the exit and entrance centrifugal barriers associated with long-range attrac-
+
+
+292
+
+
+
+
+Fig. 13. Schematic distribution of product relative kinetic energy as predicted from statistical
+theory, without (dashed) and with (solid) the centrifugal contribution that enters for a rotating
+complex.
+
+
+
+
+tion. Within these barriers, the energy disposal is assumed to be statistical;
+outside, the collision partners are assumed to rotate freely and travel like point
+masses subject to two-body forces. This simple model has worked well for many
+reactions, although various refinements are needed for quantitative analysis.
+Other basic factors enter for a “tight” complex. The transition-state then
+occurs at a potential barrier rather than a centrifugal barrier, and bond
+deformations are required to surmount the barrier. This implies that energy
+can be exchanged between different degrees of freedom as the system moves
+from the transition-state to the separated products. With allowance for such
+effects, statistical treatments akin to the RRKM theory usually prove adequate
+in the persistent complex realm.
+   A major, instructive discrepancy appeared for the dialkali halide systems,
+however. Despite its good agreement with the angle and energy distributions,
+the statistical model overestimated the ratio of reactive to nonreactive decay of
+the collision complex, often by a factor of 3 to 5 or more. This striking discre-
+pancy is attributed to preferred reaction geometry. The potential energy sur-
+faces predict that the preferred direction of approach is collinear, with the
+incoming alkali atom attacking the “wrong end” of the salt molecule. This
+
+
+                                       D. R Herschbach                                      293
+
+
+corresponds to linear (AB) + X - and reflects the stability of the dialkali ion. By
+virtue of the strong long-range attraction, most complexes are formed in
+collisions with large impact parameters and thus the centrifugal momentum
+often restrains the roughly collinear (AB) + X - configurations from bending
+into the triangular configurations required for reaction. Later, we found many
+similar instances of preferred reaction geometry.
+   In search of another prototypical deviation from the statistical case, we
+looked for a collision complex with lifetime comparable to its mean rotational
+period. This is called an osculating complex, a term applied by Wigner to an
+analogous realm in nuclear reactions. As indicated in Fig. 14, our model
+calculations for this case assume that during rotation about its total angular
+momentum J the complex is subject to decomposition with a random lifetime
+
+
+
+
+Fig. 14. Ratio of intensity appearing at angle to the peak intensity for forward scattering
+as calculated for the osculating model. The corresponding angular distribution is obtained by-
+multiplying this “falloff function” by the appropriate curve from Fig. 12. The faloff curves are
+labelled by the ratio of the mean lifetime of the complex to a typical rotational period.
+
+
+294                                 Chemistry 1986
+
+
+distribution, exp(-τ/τ). This gives an angle-dependent form factor governed by
+the ratio τ/τ, of the mean lifetime to a typical rotational period. The angular
+distribution is approximated by multiplying that for a persistant complex by
+this factor. For         we thus expect the forward and backward glory peaks to
+be about equally strong, whereas for τ-τ, the backward peak should be
+attenuated by about 50%. Reactions of alkali atoms with thallium halides were
+examined as likely candidates. We expected the lifetime of the complex might
+be shortened by the higher ionization potential of the Tl atom, which inhibits
+the sharing of charge, and by the higher reaction exoergicity. Indeed, George
+Fisk and Doug McDonald found these systems show the glory peaks character-
+istic of a complex, but the backword peak is substantially weaker, by 30% to
+50%. Again, similar behavior was later found for many other reactions. Attrac-
+tive chemistry often yields not a persistent coupling but just a flirtatious whirl.
+    Another aspect of unimolecular kinetics explored with alkali reactions is the
+dependence on the number of degrees of freedom. Even some
+reactions with sizable exoergicity proved to involve persistent or osculating
+complexes when six or eight atoms are involved. The most fully characterized
+example is the Cs + SF 6 reaction; in addition to angle and velocity distribu-
+ tions, we measured the CsF rotational excitation by electric deflection and the
+vibrational populations by electric resonance spectroscopy. Although the avail-
+ able energy is rather large, 40-50 kcal/mol, the reaction appears throughly
+statistical. It has symmetrical forward and backward glory peaks and the same
+effective temperatures for translation, rotation, and vibration, corresponding to
+equipartition of energy. In this study, a miniature crossed-beam apparatus was
+joined with Klemperer’s electric resonance spectrometer. This enabled quan-
+ tum states of the reactively scattered CsF to be completely identified with
+ respect to vibrational level, rotational angular momentum, and space orienta-
+ tion of the angular momentum. It also completed another link with the saga of
+ Stern and Rabi.
+
+Beyond the Alkali Age
+From the beginning, we spoke of the “early alkali age”, a phrase both wistful
+and whimsical. It was intended to suggest that broader ages would inevitably
+follow, without predicting how soon. Skeptics discounted alkali reactions as an
+eccentric, unrepresentative family, but we gladly persisted because they re-
+vealed such instructive dynamical variety. Meanwhile, an unduly pessimistic
+view of prospects for beam studies of nonalkali reactions arose elsewhere. This
+came from attempts to use mass spectrometric detection which failed to reduce
+sufficiently the interfering background in the electron bombardment region. In
+March of 1967 we began designing av new apparatus, to be named Hope. O n l y
+nine months later it would take us “beyond the alkali age”.
+
+
+Universal Detector and Supersonic Nozzles
+Hope was undertaken when Yuan Lee joined our group as a postdoctoral
+fellow. With Bruce Mahan at Berkeley, he had already built a major apparatus
+for beam studies of ion-molecule reactions. In this, as in Hope, he made elegant
+
+
+                                      D. R Herschbach                                     295
+
+
+use of ion counting techniques adapted from nuclear physics. Yuan was teamed
+with two beginning graduate students, Pierre LeBreton and Doug McDonald,
+and several machinists in our Departmental Shop, headed by George Pisiello.
+It was a group of extraordinary skill and zeal, inspired by Yuan’s genius and
+fervent sense of mission. Blissfully, as each of the myriad design questions was
+settled, we all relished his verdict: “Should be all right”.
+   The main features of Hope are shown in Fig. 15. The entire detector unit is
+mounted on a rotatable lid and the beam sources are fixed, to facilitate
+changing the source modules and strong pumping of the source chambers. The
+key component of the detector, the electron bombardment ionizer, is located
+within three nested chambers, each differentially pumped by ion pumps and
+cryogenic traps. This fulfills two vital design criteria for the ionization region.
+(1) The background gas (at the mass of interest) which diffuses in from the
+scattering chamber must be reduced to a partial pressure comparable to or
+lower than the product species which enters in free flight. This partial pressure
+is typically ~ 1 0 torr, only tenfold above the vacuum in interstellar space.
+                  -14
+
+
+
+(2) Background from deposit of product molecules on surfaces near the ionizer
+
+
+
+
+Fig. 15. Cutaway view of crossed beam apparatus Hope with mass spectrometric detector, showing
+beam geometry and arrangement ofdifferential pumping for detector and source chambers.
+
+
+296                                Chemistry 1986
+
+
+must be avoided. This is accomplished by the nested design, which permits
+product molecules that pass through the ionizer without being ionized (the fate
+of 99.9%!) to fly on to another differentially pumped region before hitting a
+surface. In practice, Hope and its successors made accessible reactions with
+much smaller yields as well as greatly extending the chemical scope. Respect-
+able reactive scattering data are now often obtained with product fluxes of only
+~ 103 molecules/sec.
+   Supersonic nozzles also greatly expanded the variety and scope of beam
+experiments. Beyond providing very high intensity (typically ~10 18 molecules/
+steradian/sec), beams generated from such nozzles can be aptly viewed as a
+“new state of matter”, with special properties much different from the old
+trinity of gas, liquid, and solid. The collisions occurring the high pressure
+region of a supersonic nozzle organize the beam molecules to a remarkable
+extent. The exiting crowd of molecules may have mean separations of only 50
+diameters, yet have nearly the same velocity and direction and hence suffer
+almost no collisions. Likewise, the temperatures associated with relative trans-
+lation and rotation of molecules within the beam are typically very low (of the
+order of 1      or less) whereas the vibrational temperature can be kept high or
+made low by choice of conditions. Another option is translational acceleration
+by “seeding”. The reactant gas is mixed with a large excess (typically 100-fold)
+of light diluent gas such as helium or hydrogen. Collisions during the superson-
+ic expansion then bring the seeded molecules to the same exit velocity as the
+diluent gas, and also concentrate the heavier species along the beam axis.
+Intense beams are thereby obtained with kinetic energy readily variable over a
+wide range extending well above typical activation energies for chemical reac-
+tions.
+   Like many others since, our adoption of supersonic nozzles was spurred by
+John Fenn and Jim Anderson, ardent evangelists among the chemical engi-
+neers then exploring fluid flow in nozzles. Again, there was a cultural gap to be
+bridged; at a 1965 ecumenical meeting [12]:
+   “The engineers spoke only to one another about Reynolds numbers;
+   the chemists likewise talked just to each other about harpooning electrons.”
+The Kistiakowsky ax story also prompted us to try nozzles and indeed we had
+already used them in a modest way in alkali studies. Later we extended the
+scope of the seeding technique by a nozzle design suitable for solid or liquid
+substances, and others have developed many variants that have found wide
+application in both collision and spectroscopic experiments. The splinters from
+Kisty’s ax sprouted into a bountiful garden.
+
+Recognizing Covalent and Ionic Cousins
+For our first experiments with Hope, we chose to study
+
+
+
+and other exchange reactions of halogen atoms and molecules. These were
+inviting because the reactant beams were easy to produce and all species could
+be very effectively pumped cryogenically. Furthermore, trihalogen complexes
+
+
+                                          D. R. Herschbach                                        297
+
+
+had long been postulated as intermediates in the mechanism of halogen atom
+recombination and other processes. Such complexes had not been detected in
+the gas phase, and the only rate constants available for the exchange reactions
+had been derived from the always equivocal analysis of multistep processes in
+photochemical systems.
+   O u r f i r s t a t t e m p t t o s t u d y C l + B r2 gave data of excellent quality and
+revealed instructive dynamical features. Although the total reaction cross
+section is ~ 10 A2, smaller than the hard-sphere cross section, the BrCl angular
+distribution peaks strongly in the forward hemisphere. This indicates that the
+dominant interaction is short-range and yet attractive. In previous beam
+experiments and trajectory calculations, the reactive scattering had always
+peaked backwards when the cross section was smaller than the hard-sphere
+value. However, despite its much smaller reaction cross section, the Cl + Br2
+reaction gives product angle and translational energy distributions quite simi-
+lar in form to the K + Br 2 reaction. We suggested this was evidence for an
+osculating complex mechanism.
+   Only a few months after our results for Cl + Br2 were announced, groups at
+Freiburg and Los Alamos had confirmed our study, using mass spectrometric
+apparatus of appreciably different design. This illustrates the value of choosing
+a n a m e n a b l e s y s t e m t o t e s t n e w a p p a r a t u s or to extend an experimental
+domain. Yet the reaction cross sections found in the beam studies indicated
+that the rate constants derived from the photochemical experiments were about
+ 100-fold too low. Later the photochemical studies were repeated, with results in
+agreement with the beam work.
+    In studies of other trihalogen systems, we obtained further evidence for an
+osculating complex with preferred reaction geometry. The wide-angle reactive
+scattering indicates complexes containing iodine are more stable than those
+with only bromine or chlorine, in accord with simple electronic structure
+ arguments. Likewise, for complexes containing different atoms, the most stable
+ configuration has the least electronegative atom in the central position. One of
+ the striking results attributed to this preferred geometry appeared in the Br +
+ClI case. The yield of BrCl is about 5-fold smaller than otherwise expected and
+its angular distribution peaks backwards, indicating repulsive interaction.
+ Subsequent studies, including variation of collision energy, brought out other
+dynamical features. Often these could also be interpreted by analogy to alkali
+ reactions, despite the marked contrast in covalent and ionic bonding.
+    N e x t w e p u r s u e d t h e r e a c t i o n t h a t J o h n P o lan y i h ad emp lo y ed as th e
+ prototype in developing his infrared chemiluminescence method,
+
+
+
+This system proved to have a gratifying kinship both to photodissociation of C1 2
+and to the K + CH 3 I reaction. Angle-velocity contour maps displaying this
+comparison are shown in Fig. 16. For the Polanyi reaction, the product angular
+distribution is broad but quite anisotropic, with the HCl recoiling backwards
+and Cl forwards with respect to the incident H atom. The product velocity is
+very high, about 1600 m/sec at the peak of the distribution. This corresponds to
+
+
+298                                      Chemistry 1986
+
+
+
+
+Fig. 16. Comparison of contour maps for photodissociation of the Cl 2 molecule and for reactive
+scattering of H + Cl, and K + CH3I. Map for the latter case from work of A.M. Rulis and R.B.
+Bernstein [3]. For each map, origin is at center-of-mass and horizontal axis is along reactant
+relative velocity vector, with direction of incident atom or photon designated =     Tic marks
+along radial lines indicate velocity internals of 200 m/sec.
+
+
+
+release of about half of the available energy (reaction exoergicity of ~45 kcal/
+mol plus initial collision energy of -10 kcal/mol) in the translational recoil of
+HCl and Cl. The rest appears in vibrational and rotational excitation of HCl,
+which is observed in the infrared luminescence. The form of the angular
+distribution indicates collinear H-Cl-Cl as the preferred reaction geometry and
+the high recoil energy shows that strong repulsive forces are abruptly released.
+   The contour map for photodissociation was constructed from the continuous
+absorption spectrum of Cl 2 , which shows directly the distribution of relative
+translational energy of the fragment Cl atoms and hence the repulsive energy
+release. The spectrum can be closely approximated by simply “reflecting” the
+Gaussian vibrational distribution of the ground electronic state from the steep
+(~7 eV/A) repulsive wall of the dissociative excited electronic state. The
+angular distribution is governed by the dipole selection rule for absorption,
+which makes the transition probability vary as the square of the cosine of the
+angle between the Cl-Cl axis and the photon beam direction. We see that H +
+C l2 and hν + Cl 2 give remarkably similar angle-velocity maps.
+   More remarkable still is the close resemblance of H + Cl 2 and K + CH 3 I ;
+except for a change of scale, the contour maps are almost congruent. In terms
+of electronic structure, as already noted, the analogy to photodissociation is
+obvious in the K + CH3I case because the harpooning electron enters the same
+strongly antibonding molecular orbital excited in photodissociation. In the H
++ Cl2 case the analogy is not obvious, since the very high ionization potential of
+
+
+                                           D. R Herschbach                                         299
+
+
+         REACTANTS                                                COMPLEX
+                     x - x                                         H - X - X
+
+
+
+
+Fig. 17. Schematic construction of the three molecular orbitals of collinear H-X-X. The frontier
+orbital, 2σ, may be regarded as a superposition of two components, one H-X antibonding and X-X
+bonding, the other vice-versa.
+
+
+
+
+the H atom prohibits electron transfer. However, we found a molecular orbital
+rationale using the “frontier orbital” concept of Fukui. This is indicated in Fig.
+ 17. Collinear approach of the H atom generates three                orbitals for the H-Cl-Cl
+complex. The middle one of these,                    is expected to be the highest occupied
+orbital in the reaction complex. This frontier orbital has one node, resulting
+from the superposition of two components, one H-Cl antibonding and Cl-Cl
+bonding, the other vice versa. Simple calculations based on empirical data
+indicate the latter component is dominant. Thus, the frontier node lies roughly
+midway between the chlorine atoms, just as in the lowest-lying unoccupied
+orbital of Cl2, the orbital excited during photodissociation. The similarity in the
+contour maps stems from the congruence in frontier nodes which govern the
+repulsive energy release in both reaction and photodissociation.
+    I t i s u n c a n n y t h a t t h e H + C l2 a n d K + C H3 I r e a c t i o n s , s e m i n a l i n
+developing the infrared chemiluminescence and molecular beam methods,
+proved to be so closely related; not only are both rebound reactions, they are
+even “kissing cousins.” T he nineteenth century notation still used to write
+down chemical reactions gives no hint of such kinships, whereas electronic
+structure interpretations often bring out the underlying simplicity and broad
+scope of reaction dynamics.
+   Other hydrogen atom + halogen reactions provide instructive contrasts. As
+                        the repulsive energy release becomes a smaller fraction of that
+in photodissociation and the hydrogen halide angular distribution shifts from
+backwards to sideways with respect to the H atom direction. These aspects are
+illustrated in Fig. 18. The molecular orbital treatment relates both trends to the
+decrease in halogen electronegativity. This enhances the p-character of hybrid
+orbitals involving the central atom and thereby favors a bent configuration.
+
+
+300                                        Chemistry 1986
+
+
+
+
+Fig. 18. Comparison of angle-velocity contour maps for reactions of H atoms with halogen
+molecules. Since maps must be symmetric with respect to the horizontal axis, only upper halves
+are shown. Tic marks along radial lines indicate velocity intervals of 200 m/sec for Cl2 case, 100 m/
+sec for Br2 and I2 . Panels at right compare distributions of product relative translational energy
+(solid curves) with continuous absorption spectra of halogen molecules (dashed curves). Abscissa
+scales for spectra are shifted to place origin at the dissociation asymptote, and thus show directly
+the repulsive energy release in photodissociation.
+
+
+
+
+The frontier node also shifts from about midway between the halogen atoms in
+H-Cl-Cl to close to the central atom in H-I-I. Many analogous stable molecules
+are known which have one more or one less valence electron than these H-X-X
+systems. The molecules with one more electron are linear or nearly so; those
+having one less electron are strongly bent, with bond angles of 90° to 110°. The
+shift of the frontier node might be expected to make H-I-I resemble a case with
+one less electron. Thus it is plausible that decreasing the halogen electronega-
+tivity fosters bent reaction geometry and reduces the repulsive energy release.
+   The H + ICl reaction is especially interesting. On an energetic or statistical
+basis, reaction at the “Cl-end” would be more favorable than at the “I-end”,
+since the H-Cl bond strength (102 kcal/mol) is much larger than H-I (70 kcal/
+mol). The molecular orbitals suggest the H atom should prefer to attack the I-
+end, however. As a consequence of the electronegativity difference, in ICl both
+the highest occupied orbital ( π ∗ ) and the lowest unoccupied orbital        are
+predominantly I atom orbitals. The beam studies find the HI yield is at least
+comparable to HCl and probably substantially higher (although the effect of
+some experimental factors that discriminate against HCI remains unresolved).
+The angular distribution of HI peaks sideways, the HCl backwards. The
+
+
+                                          D. R. Herschbach                                          301
+
+
+infrared chemiluminescence detects only HCl and not HI, but this is compati-
+ble with the beam results because the dipole derivative of HI is exceptionally
+small and hence the infrared emission is very weak. The HCl energy distribu-
+tion has a very unusual bimodal form. Comparison with trajectory calculations
+suggests that some of the HCl results from direct attack at the Cl-end, but most
+comes from indirect reaction after initial attack at the I-end. These two
+reaction modes produce HCl in low and high rotation-vibration states, respec-
+tively. Analogous steric preferences for many other reactions can likewise be
+attributed to orbital asymmetry arising from differences in electronegativity.
+   Further aspects of this theme were examined by studying reactions of oxygen
+atoms with halogen molecules. We found the reaction
+
+
+
+goes via a persistent complex with large yield and no activation energy. The
+product contour map shows prominent glory peaks. For other reactions with
+such maps, the intermediate complex usually corresponds to a stable molecular
+species which correlates with the ground-state reactants and products. Here,
+however, different spin states are involved. The reactants approach on a triplet
+surface, whereas the products can depart on either a singlet or triplet surface.
+The known stable OBr 2 molecule has a symmetric, strongly bent geometry and
+a singlet ground state. Qualitative electronic structure arguments suggest that
+the reaction goes predominantly via a less stable, triplet O-Br-Br potential
+surface without transition to the more stable, singlet Br-O-Br surface. Like-
+wise, the O + ICl reaction would be expected to give primarily IO + Cl rather
+than ClO + I, although the latter path is much more exoergic. We indeed
+found a large yield of IO but no detectable ClO, nice evidence that the reaction
+i n v o l v e s e n d - on a t t a c k r a t h e r t h a n i n s e r t i on. These results led us to the
+u n o r t h o d o x p r e d i c t i o n t h a t t h e O + F2 reaction should prefer the F-O-F
+geometry rather than O-F-F, since oxygen is less electronegative than fluorine.
+This implies a relatively high activation energy, associated with the switch to
+an insertion mechanism, despite the large reaction exoergicity and the notori-
+ous chemical personalities of the reactants. Subsequent experiments [13] in-
+deed confirmed that O + F2 is inhibited by a large activation energy.
+
+
+Migratory Atoms and Bonds
+With the mass spectrometric detector, we could now also proceed to “the
+organic age” and thereby pursue many further aspects of reaction dynamics.
+Particularly inviting were unimolecular reactions involving isomerizations or
+rearrangements. Fig. 19 shows the contour maps obtained for a favorite pair of
+examples, the displacement reactions of chlorine atoms with vinyl bromide and
+with allyl bromide. In these systems,
+
+
+
+where R denotes CH 2 = C H o r C H2 = C H C H2 , respectively, the intermediate
+chlorobromoalkyl radical is a known, stable species. It is vibrationally excited
+by ~30 kcal/mol, the sum of the initial collision energy and thermal excitation
+
+
+302                                        Chemistry 1986
+
+
+
+
+Fig. 19. Comparison of contour maps for chlorolefin products from reactions of chlorine atoms with
+(a) vinyl bromide and (b) ally1 bromide. Tic marks along radial lines indicate velocity intervals of
+100 m/sec.
+
+
+
+
+of the reactant olefin, the loss in bond strength in converting the double bond to
+a single bond (~57 kcal/mol), and the gain in forming the new C-Cl bond (80
+kcal/mol). Under our single-collision conditions, the excited radical cannot be
+deactivated by a subsequent collision and thus must undergo unimolecular
+decomposition. The net energy available to the products on reforming the
+double bond and releasing the Br atom is -19 kcal/mol. These energetic
+aspects are the same for the vinylic and the allylic reactions.
+   The customary theory of unimolecular processes predicts that the allylic
+reaction should proceed more slowly and hence show more nearly statistical
+behavior, since it involves more atoms and therefore the excitation energy
+
+
+                                         D. R. Herschbach                                        303
+
+
+shuffles among more vibrational modes than in the vinylic reaction. On the
+contrary, the contour map for the vinylic reaction indicates a persistent com-
+plex, that for the allylic reaction an osculating complex. Some special feature
+must intervene to make the vinylic reaction more nearly statistical than the
+allylic reaction. Indeed, this was anticipated in choosing these systems for
+study. According to a large body of work on organic reaction mechanisms, the
+initial stage in both reactions should involve addition of the Cl atom to the
+carbon atom “most distant” from that with the Br atom. As pictured in Fig. 20,
+this implies that a “free valence” appears on the carbon linked to Br in the
+vinylic case, but not in the allylic case. Thus, the vinylic reaction seems likely to
+proceed via a 1,2-chlorine atom migration, whereas the allylic reaction can go via
+a 1,3-bond migration. Since the heavy atom migration would be much slower
+than the bond migration, this might provide a rate-limiting process which
+makes the vinylic reaction more statistical than the allylic one.
+   These mechanisms require the product chlorolefin to have Cl on the carbon
+to which Br was originally bonded in the vinylic case, but to remain on the
+“most distant” carbon in the allylic case. We verified this by analysis of the
+fragment ion mass spectra of chlorolefins formed in corresponding reactions
+with a methyl group added to “label” one or another carbon atom. The methyl
+substitutions also produced revealing changes in the reactive scattering. For
+the vinylic cases, the angular distributions show variations which reflect
+changes in the rotational motions caused by the methyl group. For the allylic
+cases, the product translational energy distributions become statistical, as if the
+methyl group diverts the intramolecular energy flow and thereby makes it more
+random.
+   Further tests of the migration mechanisms were later obtained by Rowland
+using radioactive tracers [14]. In this work, the same vinylic and allylic
+reactions examined in the beam experiments were studied under “bulb” condi-
+tions. At low pressures, the products obtained were those expected for the
+atom- and bond-migration mechanisms, respectively. At high pressures, how-
+
+
+
+
+Allylic Reaction:
+
+
+
+
+Fig. 20. Stereoselective mechanisms for 1,2-chlorine atom migration in vinylic reaction and 1,3-bond
+migration in allylic reaction.
+
+
+304                                 Chemistry 1986
+
+
+ever, different products were obtained. These corresponded to the species
+expected from collisional stabilization of the intermediate chlorobromoalkyl
+radicals, followed by standard reactions of those radicals.
+  A host of other organic reactions have now been studied by beam methods,
+especially by Yuan Lee and his students. Often the intermediates and initial
+elementary steps have proven to be quite different than those postulated in
+conventional mechanistic studies. The wide range of bonding and stereochemi-
+cal situations in organic systems ensures vast scope for dynamical detective
+work in this domain.
+
+Facile Molecular Reactions
+The reaction systems discussed so far all involve attack by an open-shell atom
+or free radical. One of the chief criteria invoked in postulating elementary steps
+in reaction mechanisms is that only such processes have very low activation
+energies, less than 5 or 10 kcal/mol. The advent of the Woodward-Hoffmann
+rules focussed attention on reactions of molecules with molecules, which in-
+volve the concerted making and breaking of two or three pairs of bonds. These
+processes typically have activation energies above 20 kcal/mol when fully
+“allowed” by the rules and above about 40 kcal/mol when “forbidden.” In this
+context, we sought instructive examples of facile bimolecular and termolecular
+reactions of diatomic molecules.
+
+
+
+
+This might be termed a “no-electron” reaction, since the salt molecules are
+essentially closed-shell ion-pairs. Accordingly, no restraints are imposed by the
+molecular orbital correlations involved in the Woodward-Hoffmann rules. Yet
+a contemporary theoretical paper had concluded that even this alkali halide
+reaction would be subject to a high activation energy of -50 kcal/mol. This
+seemed unlikely in view of the strong long-range dipole-dipole attraction. Since
+alkali halides form rhombic quadrupolar dimers with dissociation energ y
+∼30−50 kcal/mol, the potential surface for the exchange reaction has a deep
+basin. Our beam experiments indeed found the reaction proceeds via a persis-
+tent complex. There is no activation energy and the reaction cross section is
+extremely large, corresponding to formation of the complex in collisions with
+impact parameters up to ∼8−9 A. We therefore spoke of a “vacuum cleaner”
+potential. The product angle and velocity distributions conform nicely to the
+usual statistical model, but the ratio of nonreactive to reactive decay of the
+complex was 2 or 3 times larger than statistical. As in the analogous atom +
+salt case, this can be attributed to geometrical isomerism. Ionic model calcula-
+tions predict less stabel, linear chain isomers exist in addition to the rhombic
+dimer. These linear chain isomers may often dissociate nonreactively rather
+than rearrange to the cyclic form required for the exchange process, especially
+when the centrifugal angular momentum in the collision keeps the chain
+“ e n d s ” a p a r t . It is like two pairs of ice skaters playing “crack the whip.”
+
+
+                                       D. R. Herschbach                                     305
+
+
+Extensive trajectory calculations by Brumer and Karplus confirmed this strik-
+ing role of geometrical isomerism.
+   Since the four-center ionic + ionic reaction proved facile whereas the typical
+covalent + covalent case was forbidden according to Hoffmann’s obital corre-
+lations, we examined several reactions involving ionic + covalent reactions.
+These also proved facile at thermal collision energies; for example,
+
+
+
+This reaction very likely involves formation of an alkali trihalide salt, Cs +
+(BrICl) - , and charge migration within the trihalide anion. Although apparent-
+ly unknown in the gas phase, trihalides have been much studied in solution and
+in the solid state. In agreement with molecular orbital theory, the trihalide
+anions are linear or nearly linear, the middle atom is always the least electrone-
+gative (I, in this case) and it acquires a small positive charge whereas the end
+atoms share the negative charge. Clear evidence for this structure appears in
+the reactive scattering. There is no observable yield of Cs + I - + BrCl, even at
+collision energies more than 20 kcal/mol above the energetic threshold for this
+channel. Furthermore, as seen in Fig. 21, the IBr angle-velocity contour map
+has a very unusual skewed shape. The lefthand product peak has distinctly
+higher intensity and velocity than the righthand peak. This shows that colli-
+sions from which IBr and CsCl rebound backwards with respect to the incident
+ICl and CsBr, respectively, are more probable and involve more repulsive
+energy release than collisions from which IBr and CsCl emerge in the same
+direction as the incident ICl and CsBr, respectively. These properties are
+
+
+
+
+Fig. 21. Contour map of IBr product distribution from CsBr + ICI reaction at collision energy of
+3.9 kcal/mol.
+
+
+306                                 Chemistry 1986
+
+
+consistent with the expectation that in Cs + B r- + ICl reactive configurations,
+B r- tends to be collinear with ICl while Cs + is likely to collide with the central
+I atom. The positive charge acquired by I as the trihalide forms then repels
+C s+ , which picks up the emerging Cl- and departs quickly in the direction
+opposite to the incident salt. Similar ionic + covalent reactions such as CsF +
+HCl and NaO + HCI [15] likewise go with near zero activation energy.
+   In the domain of four-center covalent + covalent reactions, the landmark is
+the classic work of Sullivan on the favorite “textbook” case,
+
+
+
+In 1967 he showed this does not occur as a four-center reaction but involves
+dissociation or near-dissociation of I2 followed by I + H2 + I. Soon after, Jaffe
+and Anderson studied Hl + DI using the seeded supersonic beam technique
+and found no detectable HD yield at collision energies far above the empirical
+activation energy. This is certainly an allowed reaction, at least as the reverse
+of I + HD + I, but apparently vibrational rather than translational activation
+is required. Likewise, in our laboratory David Dixon and David King found no
+evidence for the four-center exchange reaction
+
+
+
+Their experiment employed two supersonic nozzles and scanned the collision
+energy up to ~25 kcal/mol. Formation of BrCl is readily observed on mixing
+the reactants in a bulb, and rate studies had indicated a relatively low activa-
+tion energy, only ~15 kcal/mol. However, this was suspect because of “possible
+catalysis by moisture or surfaces,” a traditional lament in kinetic studies.
+Hoffmann’s molecular orbital correlation diagram predicts a much larger
+activation barrier, comparable to the promotion energy of two electrons from a
+bonding to an antibonding orbital and thus above the dissociation energy of the
+weaker reactant bond 45 kcal/mol.
+   Since a six-center, termolecular reaction is allowed by the orbital correla-
+tions, we decided to look for
+
+
+
+Scattering experiments using three crossed beams are utterly impractial, but
+appreciable fluxes of reactant dimer molecules, linked by a weak van der Waals
+bond, can readily be generated by a supersonic expansion. We were encour-
+aged by tantalizing evidence obtained by Noyes for a third order reaction of
+halogen molecules in solution. Yet analogy to other allowed six-center cases
+(such as Diels-Alder reactions) suggested that the activation barrier might well
+be ~20 kcal/mol, and it might also require chiefly vibrational rather than
+translational excitation. Thus, we were startled when King and Dixon found
+large yields of BrCl that appeared to come from the termolecular process even
+at thermal collision energies of only ~3 kcal/mol. However, velocity analysis
+data for this system and the analogous HI reaction provided several kinematic
+consistency tests which even indicated that three sequential bond scissions can
+be resolved in the termolecular exchange process. Soon another example of a
+
+
+                                      D. R. Herschbach                                  307
+
+
+facile molecular reaction fostered by a van der Waals dimer was provided by
+Durana and McDonald [16]. They found that F2 + (HI) 2 yields intense HF
+infrared chemiluminescence whereas F 2 + HI gives none. Whether or not these
+processes actually involve six-center transition-states, the weak van der Waals
+link is remarkably effective in promoting a reaction that otherwise does not go.
+   Subsequently, we undertook potential surface calculations to examine termo-
+lecular six-center bond exchange processes. For Cl 6 a traditional semiempiri-
+cal treatment [17] indicates facile reaction but the approximations involved are
+dubious. For hexagonal H 6 ab initio calculations of high quality were carried out
+by D i x o n a n d S t e v e n s [ 1 8 ] a n d s h o w t h a t a termolecular path is indeed
+accessible without breaking an H-H bond whereas there appears to be no such
+path for a bimolecular, four-center exchange. The results for H4 and H 6 t h u s
+conform to the rule, amply demonstrated in organic chemistry, that cycloaddi-
+tion reactions involving 4m electrons are forbidden as concerted processes
+while those involving 4m + 2 electrons are allowed. But it turns out that H 6
+obeys this rule only through configuration interaction, not by virtue of the
+usually invoked nodal properties.
+   The special role of H 6 was elucidated further by comparison with several
+previous calculations for larger H n polygons, available for n = 4m + 2 extend-
+ing from n = 14 to 62. These calculations, pertinent to model treatments of
+metallic hydrogen, found the bond length and cohesive energy (binding per
+atom) to be nearly constant for the whole series. Since our values for H 6 proved
+to be practically the same, we can reliably estimate the stability of H 1 0 a n d
+higher polygons by taking the cohesive energy as constant. This shows that H6
+is the only H 4 m + 2 polygon that is stable with respect to dissociation of an H 2
+bond and hence the only polygon that can serve as transition-state for a
+concerted bond exchange. The customary orbital symmetry criterion thus fails
+for all the higher 4m + 2 polygons; it must be supplemented by an energetic
+criterion in order to predict whether a reaction is concerted.
+   The unique stability of H6 relative to dissociation of an H2 bond also suggests
+that solid molecular hydrogen might undergo a high pressure transition to form
+a new phase involving termolecular complexes before transistion to the long-
+sought atomic or metallic phase (predicted in 1948 by Wigner). This possibility
+was examined by Rich LeSar by means of lattice-energy calculations employ-
+ing approximate pair potentials [19]. Although uncertainties in the potentials
+prevent a definite conclusion, the results obtained for a range of parameters
+indicate that a phase comprising a “partly dissociated” form of the six-center
+transition state may be stable at pressures above a few hundred kilobars. As
+shown in Fig. 22, repulsive forces from the neighboring units in the crystal
+prevent dissociation of this complex to diatoms. A marked drop in the H 2
+stretching frequency observed at high pressure is qualitatively consistent with
+formation of molecular clusters but by no means a clear test. In any case, these
+calculations serve to illustrate how pursuit of reaction dynamics can lead to far
+distant domains!
+
+
+                                          Chemistry 1986
+
+
+
+
+Fig. 22. Potential energy profile for dissociation of a hexagonal H 6 complex in free space (solid
+curve) and in a hexagonal closest-packed crystal (dashed curve, computed for pressure of 400 kbar)
+in which repulsive interactions with neighbors prevent the dissociation. At right are shown
+configurations of the thermolecular complexes corresponding to positions marked along abcissa. The
+circles for each H atom have a radius of half of the free H2 bond length.
+
+
+
+Van der Waals Dimers and Clusters
+Supersonic expansions make accessible a vast range of species and processes
+involving feeble bonds. In effect, the very low internal temperaturs in superson-
+ic beams circumvent the Second Law, since the entropy term in the free energy,
+∆ H - T∆ S, can be made negligible. Even a weakly favorable enthalpy term
+then suffices to produce large yields of dimers or bigger clusters. This permits
+studies involving “solvation” of reactant species and other interactions akin to
+condensed phase or surface chemistry. In the past few years such work has
+created a major new field, with particular emphasis on metal clusters [20].
+Here we describe some of our experiments to illustrate a few favorite themes.
+   In solution kinetics, much attention has been devoted to photodissociation
+and recombination processes. These are usually interpreted in terms of “the
+cage effect,” in which the solvent inhibits diffusive separations of the photofrag-
+ments. A different perspective has now emerged from beam experiments [21].
+Complexes of I 2 with various solvent species such as Ar, N 2, benzene, . . were
+formed by supersonic expansion and excited with a laser in a spectral region
+above the dissociation threshold for the bare I 2 m o l e c u l e . T h i s p r o d u c e d
+intense fluorescence, showing that instead of dissociating much of the iodine
+relaxes into bound vibrational levels of the electronically excited B state. Energy
+balance is maintained by breaking the van der Waals bond(s) of the original
+solvent complex and releasing some repulsion into relative translation of the
+product fragments. In solution photodissociation must likewise by mollified by
+energy transfer to the solvent and the surviving excited iodine molecules may
+account for features previously attributed to recombination of caged atoms.
+
+
+                                       D. R. Herschbach                                      309
+
+
+   Another typical role of solvation is exemplified in reactions of ammonia
+clusters with hydrogen halides. For unclustered ammonia proton transfer is
+endoergic to form the inoic salt, NH 4 + X - ,increasingly so for X =
+In crossed-beam scattering with clustered ammonia, new mass peaks appear
+that correspond to (NH 3) n HX adducts with n as large as 15 or more. Framen-
+tation of these peaks appears to decrease markedly on completion of the first
+solvation shell. For sufficiently large clusters the complex formation probably
+involves proton transfer and is driven by solvation of the resulting NH + X - ion -
+pair by the “extra” ammonia molecules in the reactant cluster.
+   Although solvated ions govern a host of solution phenomena, the individual
+molecular species and processes often cannot be resolved or characterized in
+condensed phases. Thus studies of molecular cluster ions in the gas phase have
+become another major field; for instance, the elusive hydrated electron has now
+been produced in beams of unfragmented water clusters [22]. In related work,
+we studied collisional electron transfer from alkali atoms to molecular clusters.
+Since the process is endoergic, fast atoms are generated from a seeded super-
+sonic expansion. Because the electron transfer can only occur within the
+crossing radius for the ionic-covalent potential curves, the time-scale becomes
+very short, typically ~0.3 psec. This limits use of the method for electron
+affinity studies but also provides a means to probe the size of cluster subunits
+involved in impulsive interactions [23].
+   For small clusters, particularly dimers, it is feasible to study the exchange of
+van der Waals bonds by the same methods employed for chemical bonds. Fig.
+23 shows an angle-velocity contour map obtained by Worsnop and Buelow [24]
+for the Xe + Ar2 reaction. Since thermal collision energies are typically several
+times larger than the dimer well depth, conservation of energy and momentum
+constrain the scattered diatom product to a narrow circular band centered on
+the center-of-mass velocity; only within that band can XeAr be formed with
+low enough internal excitation to hang together. However, several other fea-
+
+
+
+
+Fig. 23. Contour map for XeAr from Xe + Ar2 reaction at collision energy of 1.3 kcal/mol. The
+dotted circular band shows the kinematically allowed scattering region for nominal parent beam
+velocities. At right angular distribution derived from experimental map (solid curve) is compared
+with predictions from the hard-sphere model, including knock-out (dashed curve) and sequential
+impulse (dotted curve) contributions.
+
+
+310                                  Chemistry 1986
+
+
+tures provide dynamical information. These include the pronounced “hole” in
+the reactive scattering in the forward direction, which is accompanied by
+strong peaking near        and an even stronger backward scattering.
+   This pattern is remarkably similar to that found for some ion-molecule
+reactions, such as the O + +                     + D reaction, for which the collision
+energies and bond strengths are more than 100-fold higher. As illustrated in
+Fig. 23, we find several properties are in nearly quantitative agreement with an
+impulsive model based on pairwise hard sphere interactions. Two distinct
+collision modes give the chief contributions. In the mode that accounts for the
+forward pitched scattering, A + BC interact via sequential hard sphere elastic
+collisions (A off B, then B off C); the exchange reaction occurs only when the
+final relative velocity of A and B corresponds to an energy less than the AB
+bond strength. For this mode, the angular distribution may be found from a
+geometric construction devised by Mahan for high energy ion-molecule reac-
+tions [25]. The other mode gives strong backward scattering by a process
+familiar in billiards; A k n o c k s - o u t B and thereby comes nearly to rest with
+respect to the C atom, so the resulting AC molecule moves briskly backward
+with respect to the center-of-mass. This study of an exchange of feeble bonds
+thus helped develop a more comprehensive asymptotic model applicable to any
+atom transfer reaction when the ratio of collision energy to bond strength
+becomes large.
+
+Pursuit of Vector Correlations
+In addition to the product angular distribution, many other directional or
+vector properties of reactions are now accessible in beam experiments, especial-
+ly by means of laser-induced fluorescence techniques developed by Zare which
+exploit the orientation dependence of the dipole selection rule for electronic
+excitation [26]. These vector properties offer much information not provided
+by energetic or other scalar properties, and their study is now emerging as a
+vigorous field referred to as dynamical stereochemistry or stereodynamics. F o r
+instance, as indicated in Fig. 24, of special interest is the triple-vector correlation
+among the initial and final relative velocities and the product rotational angu-
+lar momentum. In principle, this vector correlation offers a means to undo the
+“dart-board” averaging over the random azimuthal orientations of initial
+impact parameters. The distributions of both k’ and j’ must have azimuthal
+symmetry about k, but when a subset is selected of k’ vectors with particular j ’
+(or vice-versa), this subset in general will not have azimuthal symmetry about
+k. Model calulations and an early electric deflection study by Hsu and McClel-
+land of the Cs + CH 3 I reaction revealed marked asymmetry; as the freshly
+formed CsI recoils from the collision, its internuclear axis tends to rotate in or
+near the plane of the initial and final relative velocity vectors. Far more detailed
+information of this kind is in prospect from studies using laser-induced fluores-
+cence, especially since the great sensitivity of the method may allow the
+alignment of individual rotaton-vibration states to be measured as a function of
+the scattering angle.
+  We may even be optimistic about measuring some properties of the four
+
+
+                                           D. R. Herschbach                                         311
+
+
+
+
+                                                                 k
+
+
+
+
+                                    k
+
+
+
+
+Fig. 24. Three-vector correlation among initial and final relative velocity vectors, here denoted by k
+and k’, and product rotational angular momentum vector j'. Upper pair of diagrams indicate the
+azimuthal symmetry about k of the k’ and j’ product vectors inherent when these are observed
+separately, as in the two-vector correlations (k,k’) and (k,j’). Lower pair of diagrams indicates how
+the threr-vector correction (k,k’,j’) can give information about the dihedral angle            in effect
+undoing the azimuthal averaging about the initial velocity.
+
+
+
+
+vector correlation involving both the velocity vectors and the reactant as well as
+product rotation. This correlation of course contains still more information
+than found in the six two-vector and four three-vector correlations involving
+pairs or triads of the four vectors. As exhibited in a model calculation [27], such
+information includes the azimuthal asymmetry with respect to both k and k’,
+the preferred rotational orientation of both the reactant and product molecules
+with respect to the k, k’ plane, and even the relative sense of rotation (parallel
+or contrary). Several averages implicit in lower order vector correlations are
+thus undone. The loss of information otherwise imposed by the random aspects
+of the initial conditions resembles the celebrated “phase problem” encountered
+in X-ray scattering. Thus the complications required to unravel phases for a
+molecular structure determination are heuristically analogous to undoing im-
+pact parameter averaging by observing one or two “extra angles” in collision
+experiments. In such ways, a further level of molecular resolution awaits
+reaction dynamics.
+
+
+312                                      Chemistry 1986
+
+
+ACKNOWLEDGEMENTS
+
+This paper is a tour through a family album. The frequent mentions of work by
+“we” pertain to my colleagues listed in Table 1 a roster of 51 graduate
+students and 35 postdoctoral fellows (in italics) listed in order of their “gradu-
+ation” from our research group. Their work totals about 250 years of research,
+150 of that in reaction dynamics. The investment of human resources is far
+greater, however. Beyond the direct contributions by the machine shop and
+other staff, all of us received vital help along the way from our teachers, our
+relatives, and many friends and colleagues. Sustained financial support was
+likewise vital, including many scholarship and fellowship awards as well as
+research grants from several agencies, especially the National Science Founda-
+tion. To all who made our research possible, I am deeply grateful.
+   In revisiting the album, I have lingered fondly on the early episodes because,
+as in dynamics generally, the initial conditions are often as important as the
+force field. I hope that students and young researchers starting their own work
+might be encouraged to see how simple and naive were our first steps. I hope
+also that some research administrators and funding agencies might be encour-
+aged to take a longer-range view of quixotic projects. In our work the essential
+impetus was the evangelical fervor of young scientists captivated by new vistas.
+But to pursue such distant vistas we have freedom and support. In many
+quarters this seems less fortcoming today. In expressing thanks for our good
+fortune, I must urge renewed efforts to foster enterprising work on fundamental
+problems.
+   The family album contains far more than shown here, including many
+intriguing chapters from other laboratories. Again I recommend an admirable
+pair of texts [3] which survey much work deserving of honor at this forum.
+Over 30 years of reaction dynamics, the fellowship of striving and joy of
+discovery have created an intense sense of community. Perhaps in emulation of
+our molecular friends, recruits to this field seem unusually excitable, zestful,
+and generous. Working in such a community in pursuit of new insights is a
+splendid prize, enhanced in the sharing. Thereby we offer thanks for the
+privilege of studying our ever mysterious atoms and molecules.
+
+
+
+
+‘62   J.L. Kinsey, M.S. Child
+‘63   J.A. Norris, P.R. Brooks
+‘64    R.N. Zare, K.R. Wilson, M.A.D. Fluendy, RJ. McNeal
+‘65    M.C. Moulton, R.J. Cross, R.R. Herm, R.M. Martin, J. Chryusochoos
+‘66   J.H. Birely, E.A. Gislason, M. Cosandey, J.R. Jordan, A. Niehaus
+‘67   G.H. Kwei, R. Grice, E.A. Entremann, H.D. Cohen, P.M. Strudler, P.B. Empedocles
+‘68    W.C. Stwalley, R.W. Anderson, Y.T. Lee, Ch. Ottinger. G.A. Fisk, J.F. Wilson, V. Aquilanti
+‘69    S.A. Safron, W.B. Miller, P.E. Siska, H.L. Kramer, C. Maltz, T. Kitagawa
+‘70    P.R. LeBreton, R.J. Gordon, S.J. Riley, R.H. Harris, S.M. Freund, K. Lacmann
+'71   J.U. McDonald, R.M. Düren
+
+
+                                                     D. R H ers c h b a c h                                                   313
+
+
+'72       N. D.      W ei nst ei n, S. A. A d el m a n, W. S. Str u v e, H. J. L o es c h
+'73       R. P.    M ari ell a, D. L. M c F a d d e n, D. D. P arris h, J. R. Kr e n os
+'74       D. L.     Ki n g, D. S. Y. Hs u, J. T. C h e u n g, R. A. L ars e n, D. M. Li n ds a y, P. E.      Mc Na mee
+'75       S. K.     N e o h, D. A. Di x o n
+'76       D. A.    C as e, R. A. S a n d ers
+'77        K. H.     B o we n
+'78        L. D.   Tr o w bri d g e, G. W. Li es g a n g, J. J. V al e nti ni
+'79       G. M.       M c Cl ell a n d, W. L e e
+'80        E. L.   Q uit e vis, R. N a a m a n
+'81        K. L.   S a e n g er, R. A. L es ar, N. A g m o n, O. C h e s h n o v s k y
+'82        D. R.     W ors n o p, S. R a y n or, A. Y o k oz e ki
+'83        S.J.    B u el o w, J. D. B ar n w ell
+'84       J. G.     L o es er, C. J. S a n d r off
+'86        M. R.    Z a ki n, D.J. D or e n, D. Z. G o o ds o n, S. G. G r u b b
+
+
+
+R EF E R E N C ES
+ [l ]     H. S. J o h nst o n, G as P h as e R e a cti o n R at e T h e or y, R o n al d Pr ess, N e w Y or k, 1 9 6 6.
+ [ 2]     F or m o st of t h e w or k d e s cri b e d h er e, r ef er e n c e s t o t h e ori gi n al lit er at ur e m a y b e
+          o bt ai n e d r e a dil y fr o m a f e w r e vi e w s. E arl y c h e mi c al a p pli c ati o n s ar e di s c u s s e d b y
+          S. D at z a n d E. H. T a yl or, i n R e c e nt R es e ar c h i n M ol e c ul ar B e a ms, I. Est er m a n n, E d.,
+          A c a d e mi c Pr e s s, N e w Y or k, 1 9 5 9. W e h a v e s ur v e y e d t h e d e v el o p m e nt of o ur
+          st u di e s a n d alli e d w or k i n: Di s c. F ar a d a y S o c. 3 3, 1 4 9 ( 1 9 6 2); A p p. O pti c s S u p pl.
+          ( C h e mi c al L a s e r s), 1 2 8 ( 1 9 6 5); A d v. C h e m. P h y s. 1 0, 3 1 9 ( 1 9 6 6); F ar a d a y Di s c.
+          C h e m. S o c. 5 5, 2 3 3 ( 1 9 7 3); P ur e a n d A p pli e d C h e m. 4 7, 6 1 ( 1 9 7 6). U s u all y w e
+          will o mit s p e cifi c cit ati o n e x c e pt f or p a p er s n ot r ef er e n c e d i n t h e s e r e vi e w s.
+ [ 3]     R. B. B er nst ei n, C h e mi c al D y n a mi cs vi a M ol e c ul ar B e a m a n d L as er T e c h ni q u es, Cl ar e n-
+          d o n Pr e s s, O xf or d, 1 9 8 2; R. D. L e vi n e a n d R. B. B er n st ei n, M ol e c ul a r R e a cti o n
+          D y n a mi c s, 2 n d E d., O xf or d U ni v er sit y Pr e s s, N e w Y or k, 1 9 8 7.
+ [ 4]     Of c o ur s e, t h e s e ar e n ot St er n’ s e x a ct w or d s, alt h o u g h m y m e m or y of hi m i s vi vi d.
+           I h a v e pr e s e nt e d hi s st ori e s i n fir st p er s o n a s a n att e m pt t o c a pt ur e hi s w a y of
+          t elli n g t h e m.
+ [ 5]      W. Kl e m p e r e r a n d D. R. H e r s c h b a c h, P r o c. N atl. A c a d. S ci. ( U. S. ) 4 3, 4 2 9
+           ( 1 9 5 7). T h e r e s p o n s e t o vi br ati o n al e x cit ati o n w a s s h o w n b y K. T. Gill e n a n d
+          R. B. B er n st ei n, C h e m. P h y s. L ett s. 5, 2 7 5 ( 1 9 7 0).
+ [ 6]     T hi s h a d b e e n p u bli s h e d a b o ut a y e ar b ef or e b ut s o m e h o w I h a d mi s s e d s e ei n g
+           t h at iss u e of t h e J o u r n al of C h e mi c al P h y si c s. I n t h e s a m e v ol u m e I al s o f o u n d a n
+          e x c e pti o n al p a p er o n tr a n siti o n- st at e t h e or y b y a n ot h er a ut h or n e w t o m e: J. C.
+           P ol a n yi!
+ [ 7]     T h e Pi c k wi c ki a n p hr a s e i s a t y pi c all y P ol a n yi a n c o m m e nt b y J o h n, d eli v er e d
+          w h e n h e a n d hi s f at h er Mi c h a el vi sit e d t h e S o ci et y of F ell o w s i n 1 9 6 6.
+ [ 8]      G. B. Ki sti a k o w s k y a n d W. P. Sli c ht er, R e v. S ci.I n st. 2 2, 3 3 3 ( 1 9 5 1).
+ [ 9]      R. N. Z ar e a n d D. R. H er s c h b a c h, Pr o c. I. E. E. E. 5 1, 1 7 3 ( 1 9 6 3); R. N. Z ar e, M ol.
+           P h ot o c h e m. 4, 1 ( 1 9 7 2); C. H. Gr e e n e a n d R. N. Z ar e, A n n. R e v. P h y s. C h e m. 3 3,
+           1 1 9 ( 1 9 8 2).
+ [ 1 0]     D. R. H er s c h b a c h, J. P h y s. C h e m. 8 3, 4 A ( 1 9 7 9).
+ [ 1 1]     K. L a c m a n n a n d D. R. H er s c h b a c h, C h e m, P h y s. L ett s. 6, 1 0 6 ( 1 9 7 0).
+ [ 1 2]     C. E. K ol b a n d D. R. H er s c h b a c h, J. P h y s. C h e m. 8 8, 4 4 4 7 ( 1 9 8 4).
+ [ 1 3]     R. H. K r e c h, G. J. Di e b ol d, a n d D. L. M c F a d d e n, J. A m. C h e m. S o c. 9 9, 4 6 0 5
+           ( 1 9 7 7).
+ [ 1 4]      R. S. I y e r a n d F. S. R o wl a n d, C h e m. P h y s. L ett s 1 0 3, 2 1 3 ( 1 9 8 3 ). S e e al s o
+           F ar a d a y Di s c. C h e m. S o c. 6 7, 2 5 0 ( 1 9 7 9). S e e al s o J. P h y s. C h e m. 8 9, 2 0 4 2, 3 7 3 0
+           ( 1 9 8 5) f or e vi d e n c e s u g g e sti n g l e s s st er e o s p e cifi c a d diti o n a s w ell a s Br at o m
+           mi gr ati o n.
+
+
+314                                                C h e mistr y 1 9 8 6
+
+
+[ 1 5] J. A. Sil v er a n d C. E. K ol b, J. P h y s. C h e m. 9 0, 3 2 6 7 ( 1 9 8 6).
+[ 1 6] J. F. D ur a n a a n d J. D. M c D o n al d, J. A m. C h e m. S o c. 9 8, 1 2 8 9 ( 1 9 7 6).
+[ 1 7] D. A. Di x o n a n d D. R. H er s c h b a c h, F ar a d a y Di s c. C h e m. S o c. 6 2, 1 6 2 ( 1 9 7 7);
+        D. L. T h o m p s o n a n d H. H. S u z u k a w a, J. A m. C h e m. S o c. 9 9, 3 6 1 4 ( 1 9 7 7).
+[ 1 8] D. A. Di x o n, R. M. St e v e n s, a n d D. R. H er s c h b a c h, F ar a d a y Di s c. C h e m. S o c. 6 2,
+        1 1 0 ( 1 9 7 7).
+[ 1 9] R. L e S ar a n d D. R. H er s c h b a c h, J. P h y s. C h e m. 8 5, 3 7 8 7 ( 1 9 8 1).
+[ 2 0] S e e, f or e x a m pl e, F. Tr a g er a n d G. z u P utli z, E d s., M et al Cl u st e r s, Z. f. P h ys. D 3
+        ( 1 9 8 6).
+[ 2 1] K. L. S a e n g er, G. M. M c Cl ell a n d, a n d D. R. H er s c h b a c h. J. P h y s. C h e m. 8 5, 3 3 3 3
+        ( 1 9 8 1); J. J. V al e nti ni a n d J. B. Cr o s s, J. C h e m. P h y s. 7 7, 5 7 2 ( 1 9 8 2).
+[ 2 2 ] H. H a b e rl u n d, H. - G. S c hi n dl e r, a n d D. R. W o r s n o p, J. P h y s. C h e m. 8 8, 3 9 0
+        ( 1 9 8 4).
+[ 2 3 ] K. H. B o w e n G. W. Li e s e g a n g, B. S. S a n d e r s a n d D. R. H e r s c h b a c h, J. P h y s.
+        C h e m. 8 7, 5 5 7 ( 1 9 8 3).
+[ 2 4 ] D. R. W o r s n o p, S. J. B u el o w, a n d D. R. H e r s c h b a c h, J. P h y s. C h e m. 9 0, 5 1 2 1
+        ( 1 9 8 6).
+[ 2 5] B. H. M a h a n, W. E. W. R u s k a, a n d J. S. Wi n n, J. C h e m. P h y s. 6 5, 3 8 8 8 ( 1 9 7 6).
+[ 2 6] D. A. C a s e, G. M. M c Cl ell a n d, a n d D. R. H er s c h b a c h, M ol. P h y s. 3 5, 5 4 1 ( 1 9 7 8).
+[ 2 7 ] J. D. B a r n w ell, J. G. L o e s e r, a n d D. R. H e r s c h b a c h. J. P h y s. C h e m. 8 7, 2 7 8 1
+        ( 1 9 8 3).
+

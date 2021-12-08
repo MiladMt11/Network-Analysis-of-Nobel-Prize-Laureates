@@ -1,0 +1,1104 @@
+OBSERVATIONS IN PARTICLE PHYSICS FROM
+TWO NEUTRINOS TO THE STANDARD MODEL
+
+Nobel Lecture, December 8, 1988
+
+by
+LEON M. LEDERMAN
+The Fermi National Accelerator Laboratory
+
+
+
+
+I. Introduction
+My colleagues Melvin Schwartz and Jack Steinberger and I, sharing the
+1988 Nobel Award, were faced with a dilemma. We could, in Rashomon -like
+fashion, each describe the two-neutrino experiment (as it became known) in
+his own style, with his own recollections, in the totally objective manner of
+true scientists. Whereas this could be of some interest to sociologists and
+anthropologists, this definitely would run the risk of inducing boredom and
+so we decided on a logical division of effort. Dr. Schwartz, having left the
+field of physics a decade ago, would concentrate on the origins and on the
+details of the original experiment. Dr. Steinberger would concentrate on
+the exploitation of neutrino beams, a field in which he has been an out-
+standing leader for many years. I volunteered to discuss “the rest,” a hasty
+decision which eventually crystallized into a core theme-how the two-
+neutrino discovery was a crucial early step in assembling the current world
+view of particle physics which we call “the Standard Model.” Obviously,
+even a “first step” rests on a pre-existing body of knowledge that could also
+be addressed. My selection of topics will not only be subjective, but it will
+also be obsessively personal as befits the awesome occasion of this award
+ceremony.
+   I will relate a sequence of experiments which eventually, perhaps even
+tortuously contributed to the Standard Model, that elegant but still incom-
+plete summary of all subnuclear knowledge. This model describes the 12
+basic fermion particles, six quarks and six leptons, arranged in three gen-
+erations and subject to the forces of nature carried by 12-gauge bosons. My
+own experimental work brought me to such accelerators as the Nevis
+Synchrocyclotron (SC); the Cosmotron and Alternate Gradient Synchro-
+tron (AGS) at the Brookhaven National Laboratory (BNL); the Berkeley
+Bevatron and the Princeton-Penn Synchrotron; the (SC), Proton Synchro-
+tron (PS), and Intersecting Storage Ring (ISR) machines at CERN; the
+Fermilab 400-GeV accelerator; and the electron-positron collider Cornell
+Electron Storage Rings (CESR) at Cornell. I can only hint of the tremen-
+
+
+512                              Physics 1988
+
+
+dous creativity which brought these magnificent scientific tools into being.
+   One must also have some direct experience with the parallel development
+of instrumentation. This equally bright record made available to me and my
+colleagues a remarkable evolution of the ability to record particular subnu-
+clear events with ever finer spatial detail and even finer definition in time.
+My own experience began with Wilson cloud chambers, paused at photo-
+graphic nuclear emulsions, exploited the advances of the diffusion cloud
+chamber, graduated to small arrays of scintillation counters, then spark
+chambers, lead-glass high-resolution Cerenkov counters, scintillation ho-
+doscopes and eventually the increasingly complex arrays of multiwire pro-
+portional chambers, calorimeters, ring imaging counters, and scintillators,
+all operating into electronic data acquisition systems of exquisite complex-
+ity.
+   Experimentalists are often specialists in reactions initiated by particular
+particles. I have heard it said that there are some physicists, well along in
+years, who only observe electron collisions! In reviewing my own bibliogra-
+phy, I can recognize distinct periods, not too different from artists’ phases,
+e.g., Picasso’s Blue Period. My earliest work was with pions which exploded
+into the world of physics (in 1947) at about the time I made my quiet entry.
+Later, I turned to muons mostly to study their properties and to address
+questions of their curious similarity to electrons, e.g., in order to answer
+Richard Feynman’s question, “Why does the muon weigh?” or Rabi’s
+parallel reaction, “Who ordered that?” Muons, in the intense beams from
+the AGS, turned out to be a powerful probe of subnuclear happenings not
+only in rather classical scattering experiments (one muon in, one muon
+out), but also in a decidedly non-classical technique (no muons in, two
+muons out). A brief sojourn with neutral kaons preceded the neutrino
+program, which my colleagues will have discussed in detail. This led finally
+to studies of collisions with protons of the highest energy possible, in which
+leptons are produced. This last phase began in 1968 and was still going on
+in the 1980’s.
+   Accelerators and detection instruments are essentials in particle research,
+but there also needs to be some kind of guiding philosophy. My own
+approach was formed by a specific experience as a graduate student.
+   My thesis research at Columbia University involved the construction of a
+Wilson cloud chamber designed to be used with the brand new 400-MeV
+synchrocyclotron under construction at the Nevis Laboratory about 20
+miles north of the Columbia campus in New York City.
+   I. I. Rabi was the Physics Department Chairman, maestro, teacher of us
+all. He was intensely interested in the new physics that the highest energy
+accelerator in the world was producing. At one point I described some
+curious events observed in the chamber which excited Rabi very much.
+Realizing that the data was very unconvincing, I tried to explain that we
+were a long way from a definitive measurement. Rabi’s comment, “First
+comes the observation, then comes the measurement,” served to clarify for
+me the fairly sharp distinction between “observation” and “measurement.”
+
+
+                                   L. M. Lederman                             513
+
+
+Both experimental approaches are necessary to progress in physics. Obser-
+vations are experiments which open new fields. Measurements are subse-
+quently needed to advance these. Observations may be qualitative and may
+require an apparatus which sacrifices detail. Measurement is more usually
+concerned with the full panoply of relevant instruments. And of course,
+there are blurred boundaries. In the course of the next 30 or so years I have
+been concerned with measurements of great precision, e.g., the magnetic
+                          1                                                  2
+moment of the muon , or the mass, charge and lifetime of the muon ,
+measurements of moderate precision like the rho value in muon decay, the
+                                3
+elastic scattering of muons , or the lifetimes of the lambda and kaon
+particles 4. I have also been involved in observations, which are attempts to
+see entirely new phenomena. These “observations” have, since 1956, been
+so labelled in the titles of papers, some of which are listed in chronological
+order in Table I and as references 5 - 11. I selected these because 1) I loved
+each one; and 2) they were reasonably important in the evolution of particle
+physics in the amazing period from the 1950’s to the 1980’s.
+
+
+
+TABLE I. MAJOR OBSERVATIONS
+   Observation of Long-Lived Neutral V Particles (1956) Ref. 5.
+   Observation of the Failure of Conservation of Parity and Charge Conju-
+    gation in Meson Decays: The Magnetic Moment of the Free Muon(1957)
+    Ref. 6.
+   Observation of the High-Energy Neutrino Reactions and the Existence of
+    Two Kinds of Neutrinos (1962) Ref. 7.
+   Observation of Massive Muon Pairs in Hadron Collisions (1970) Ref. 8.
+   Observation of π Mesons with Large Transverse Momentum in High-
+    Energy Proton-Proton Collisions (1973) Ref. 9.
+   Observation of a Dimuon Resonance at 9.5 GeV in 400-GeV Proton-
+    Nucleus Collisions (1977) Ref. 10.
+   Observation of the Upsilon 4-Prime at CESR (1980) Ref. 11.
+
+
+                                                                               5
+II. Long-Lived Neutral Kaons Observation of a Long-Lived Neutral V Particle
+In 1955, Pais and Gell-Mann” noted that the neutral K meson presented a
+unique situation in particle physics. In contrast to, e.g., the π0, the K0 is not
+ identical to its antiparticle, even though they cannot be distinguished
+by their decay. Using chargeconjugation invariance, the bizarre particle mix-
+ture scheme emerges: K0 and         are appropriate descriptions of particle
+states produced with the well-defined quantum number, strangeness, but
+two other states, KL. and KS, have well-defined decay properties and life-
+times.
+   The essence of the theoretical point, given in a Columbia University
+lecture by Abraham Pais in the spring of 1955, was that there should exist,
+in equal abundance with the already observed Ks (lifetime 10-10 sec), a
+
+
+514                                    Physics 1988
+
+
+particle with much longer lifetime, forbidden by C-invariance from decay-
+ing, as did KS, into two pions. The clarity of the lecture stimulated what
+appeared to me to be an equally clear experimental approach, using the
+cloud chamber which had been invented back in 1896 by the Scottish
+physicist C.T.R. Wilson. The cloud chamber was first used for making
+visible the tracks of subatomic particles from nuclear disintegrations in
+1911. Supplemented with strong magnetic fields or filled with lead plates, it
+became the workhorse of cosmic ray and early accelerator research, and was
+ used in many discoveries, e.g., those of the positron, the muon, the lambda, the
+ “θ” (now Ks ) and K+. As an instrument, it was more biological than
+ physical, subject to poisons, track distortions, and an interminable period of
+about one minute. To obtain precise momentum and angle measurements
+with cloud chambers required luck, old-world craftsmanship, and a large,
+not-to-be-questioned burden of folklore and recipes. Their slow repetition
+rate was a particular handicap in accelerator science. Donald Glaser’s
+ invention of the bubble chamber and Luis Alvarez’s rapid exploitation of it
+ offered a superior instrument for the most purposes and by the mid-50’s, very
+few cloud chambers were still operating at accelerators. At Columbia I had
+some success with the 11“-diameter chamber built at the Nevis Synchrocy-
+clotron for my thesis, a comparison of the lifetimes of negative and positive
+pions 13. In a stirring finale to this thesis, I had concluded (wrongly as it
+turned out) that the equality of lifetimes implied that charge conjugation
+was invariant in weak interactions!
+   In its history at Nevis, the cloud chamber produced results on the decay
+                                                                    15
+of pions14, on the mass of the neutrino born in pion decay (enter the
+muon neutrino; it would be almost a decade before this number was
+improved), on the scattering of pions16, including the first suggestions of
+
+
+
+
+Figure 1. Experimental arrangements for lifetime study.
+
+
+                                      L. M. Lederman                                 515
+
+
+strong backward scattering that was later found by E. Fermi to be the
+indicator of the “3,3” resonance, and on the Coulombnuclear interference
+ of π+ and π− scattering in carbon. The carbon scattering led to analysis in terms
+of complex optical-model parameters which now, over 30 years later,
+are still a dominating subject in medium-energy physics convocations.
+   When the Cosmotron began operating in BNL about 1953, we had built a
+36”-diameter chamber, equipped with a magnetic field of 10,000 gauss, to
+study the new           and     which were copiously produced by pions of ~ 1
+GeV. The chamber seemed ideal to use in a search for long-lived kaons.
+Figure 1 shows the two arrangements that were eventually used and Figure
+2 shows a KL event in the 36” cloud chamber. The Cosmotron produced
+
+
+
+
+Figure 2. Example of K0 +x+ + π − neutral particle. + is shown to be a pion by ionization
+measurements. PA is a proton track used in the ionization calibration.
+
+
+516                                Physics 1988
+
+
+ample quantities of 3-GeV protons and access to targets was particularly
+convenient because of the magnetic structure of the machine. The trick was
+to sweep all charged particles away from the chamber and reduce the
+sensitivity to neutrons by thinning the chamber wall and using helium as
+chamber gas. By mid-1956, our group of five had established the existence
+of KL, and had observed its principal three-body decay modes. Our discus-
+sion of alternative interpretations of the “V” events seen in the chamber
+was exhaustive and definitive. In the next year we measured the lifetime by
+changing the flight time from target to chamber (both the cloud chamber
+and the accelerator were immovable). This lifetime, so crudely measured,
+agrees well with the 1988 handbook value. The K L was the last discovery
+made by the now venerable Wilson cloud chamber.
+   In 1958, we made a careful search of the data for the possibility of a two-
+body decay mode of KL. This search was a reflection of the rapid pace of
+events in the 1956 - 58 period. Whereas C-invariance was the key argument
+used by Pais and Gell-Mann to generate the neutral K mixture scheme, the
+events of 1957 (see below) proved that, in fact, C-invariance was strongly
+violated in weak decays. Since the predictions turned out to be correct, the
+                                                              17
+improved argument, supplied by Lee, Oehme and Yang , replaced C-
+invariance by CP-invariance, and in fact, also CPT invariance. CP invariance
+would strictly forbid the decay
+
+
+                               K   I   π+ + π −
+
+
+and, in our 1958 paper based upon 186 K L, events, we concluded: "... only
+two events had zero total transverse momentum within errors ... and none
+of these could be a two-body decay of the        An upper limit to           +π−
+was set at 0.6% . . . the absence of the two-pion final state is consistent with
+the predictions of time reversal invariance.”
+    Six years later, at the much more powerful AGS accelerator, V. Fitch and
+J. Cronin’s, capitalizing on progress in spark chamber detectors, were able
+ to vastly increase the number of observed K L decays. They found clear
+evidence for the two-pion decay mode at the level of 0.22 % establishing the
+fact that CP is, after all, not an absolute symmetry of nature.
+    The K0 research eventually provided a major constraint on the Standard
+Model. On the one hand, it served to refine the properties of the strange
+quark proposed in 1963 by Gell-Mann. On the other hand, the famous
+Kobayashi-Maskawa (KM) quark mixing matrix with three generations of
+quarks was an economical proposal to accommodate the data generated by
+the K0 structure and the observation of CP violation. Finally, the neutral K-
+meson problem (essentially the Ks decay modes) led to the next major
+observation, that of charge conjugation (C) and parity (P) violation and,
+together, a major advance in the understanding of the weak interactions. In
+1988, neutral K research remains a leading component of the fixed-target
+measurements at Fermilab, BNL, and CERN.
+
+
+                                  L. M. Lederman                            517
+
+
+III. Observation of the Failure of Conservation of Parity and Charge Conjugation
+in Meson Decays6
+In the summer of 1956 at BNL, Lee and Yang had discussed the puzzle of
+the K’s      puzzle) and were led to propose a number of reactions where
+possible P violation could be tested in weak interactions19. At first glance
+these all seemed quite difficult experimentally, since one was thinking of
+relatively small effects. Only C. S. Wu, our Columbia colleague, attempted,
+with her collaborators at the National Bureau of Standards, the difficult
+problem of polarizing a radioactive source. When, at a Christmas party in
+1956, Wu reported that early results indicated large parity-violating effects
+in the decay of Co60, it became conceivable that the chain of parity violating
+reactions: π      µ + v and then µ→ e + 2v would not reduce the parity
+violating effect to unobservability. The “effect” here was the asymmetry in
+the emission of electrons around the incident, stopped, and spinning polar-
+ized muon.
+   Experience in two key areas set in course a series of events which would
+convert a Friday Chinese-lunch discussion, just after New Year, 1957, into
+a Tuesday morning major experimental observation. One was that I knew a
+lot about the way pion and muon beams were formed at the Nevis cyclotron.
+In 1950, John Tinlot and I had been pondering how to get pions into the
+cloud chamber. Until that time, external beams of pions were unknown at
+the existing cyclotrons such as those at Berkeley, Rochester, and Liverpool.
+We plotted the trajectories of pions produced by 400-MeV protons hitting a
+target inside the machine, near the outer limit of orbiting protons, and we
+discovered fringe field focussing. Negative pions would actually emerge
+from the accelerator into a well-collimated beam. It remained only to invent
+a target holder and to modify the thick concrete shield so as to “let them
+out.” In about a month, we had achieved the first external pion beam and
+had seen more pions in the cloud chamber than had ever been seen
+anywhere.
+   The second key area had to do with my student, Marcel Weinrich, who
+had been studying the lifetime of negative muons in various materials. To
+prepare his beam we had reviewed the process of pions converting to muons
+by decay-in-flight. What was more subtle, but easy to play back during the
+30-minute Friday evening drive from Columbia to Nevis, was that a correla-
+tion of the muon spin relative to its CM momentum would, in fact, be
+preserved in the kinematics of pion decay-in-flight, resulting in a polarized
+muon beam. One totally unclear issue was whether the muon would retain
+its polarization as it slowed from ~ 50 MeV to rest in a solid material.
+Opportunities to pick up an electron and depolarize seemed very large, but
+I recalled Rabi’s dictum:“A spin is a slippery thing” and decided - why not
+try it?
+   Preempting Weinrich’s apparatus and enlisting Richard Garwin, an ex-
+pert on spin precession experiments (as well as on almost everything else),
+we began the Friday night activities which culminated, Tuesday morning, in
+a 50 standard deviation parity violating asymmetry in the distribution of
+
+
+518                                  Physics 1988
+
+
+
+
+Figure 3. Experimental arrangement. The magnetizing coil was close wound directly on the
+carbon to provide a uniform vertical field of 79 gauss per ampere.
+
+
+decay electrons relative to muon spin. Figure 3 shows the very simple
+arrangement and Fig. 4 shows the data. The following 10 conclusions were
+contained in the publication of our results:
+ 1. The large asymmetry seen in the CL+        e+ + 2v decay establishes that
+     the µ beam is strongly polarized.
+          +
+
+
+
+ 2. The angular distribution of the electrons is given by
+             1 + a cos where a = - l/3 to a precision of 10 %.
+ 3. In reactions p+       v and            + 2v parity is not conserved.
+ 4. By a theorem of Lee, Oehme, and Yang, the observed asymmetry
+     proves that invariance under charge conjugation is violated.
+ 5. The g-value of the free µ + is found to be +2.00 ± 0.10.
+ 6. The measured g-value and the angular distribution in muon decay lead
+     to the strong probability that the spin of the µ + is 1/2.
+ 7. The energy dependence of the observed asymmetry is not Strong.
+ 8. Negative muons stopped in carbon show an asymmetry (also peaked
+     backwards) of a = -l/20, i.e., about 15 % of that for µ +.
+
+
+                                       L. M. Lederman
+
+
+
+
+               Amperes- Precession Field Current
+
+Figure 4. Variation of gated 3-4 counting rate with magnetizing current. The solid curve is
+computed from an assumed electron angular distribution 1-1/3        with counter and gate-
+width resolution folded in.
+
+
+ 9. The magnetic moment of the µ - bound in carbon is found to be
+    negative and agrees within limited accuracy with that of µ +.
+10. Large asymmetries are found for the e+ from polarized µ+ stopped in
+    polyethylene and calcium. Nuclear emulsions yield an asymmetry half
+    that of carbon.
+Not bad for a long weekend of work.
+   This large effect established the two-component neutrinos and this,
+together with details of the decay parameters as they emerged over the next
+year, established the V-A structure of the weak interactions. A major crisis
+emerged from the application of this theory to high energy where the weak
+cross section threatened to violate unitarity. Theoretical attempts to pre-
+vent this catastrophe ran into the absence of evidence for the reaction:
+
+
+The rate calculated by Columbia colleague G. Feinberg20 was 104 times
+larger than that of the data. This crisis, as perceived by Feinberg, by T. D.
+Lee, and by Bruno Pontecorvo, provided motivation for the two-neutrino
+experiment. The stage was also set for increasingly sharp considerations of
+the intermediate vector boson hypothesis and, indeed, ultimately the
+electroweak unification.
+   The 1957 discovery of parity violation in pion and muon decay proved to
+be a powerful tool for additional research and, indeed, it kept the “pion-
+factories” at Columbia, Chicago, Liverpool, CERN, and Dubna going for
+
+
+520                                Physics 1988
+
+
+decades, largely pursuing the physics that polarized muons enabled one to
+do. The earliest application was the precise magnetic resonance measure-
+ment of the muon magnetic moment at Nevis in 1957 1. The high level of
+precision in such measurements had been unknown to particle physicists
+who had to learn about precisely measured magnetic fields and spin flip-
+ping. A more profound follow-up on this early measurement was the multi-
+decade obsession at CERN with the g-value of the muon. This measurement
+provides one of the most exacting tests of Quantum Electrodynamics and is
+a very strong constraint on the existence of hypothetical particles whose
+coupling to muons would spoil the current excellent agreement between
+theory and experiment.
+   One conclusion of the 1957 parity paper states hopefully that, "... it
+seems possible that polarized positive and negative muons will become a
+powerful tool for exploring magnetic fields in nuclei, atoms, and interatom-
+ic regions.” Today “µSR” (muon spin resonance) has become a widespread
+tool in solid-state and chemical physics, meriting annual conferences devot-
+ed to this technique.
+
+IV. Observation of High-Energy Neutrino Reactions and the Existence of Two
+Kind of Neutrinos 7
+ Since this is the subject of Melvin Schwartz’ paper I will not review the
+ details of this research.
+     The two-neutrino road (a better metaphor would perhaps be; piece of the
+jigsaw puzzle) to the Standard Model passed through a major milestone with
+ the 1963 quark hypothesis. In its early formulation by both Gell-Mann and
+ George Zweig, three quarks, i.e., a triplet, were believed adequate along the
+  lines of other attempts at constituent explanations (e.g., the Sakata model) of
+  the family groupings of hadrons.
+     Before the quark hypothesis, a feeling for baryon-lepton symmetry had
+ motivated many theorists, one even opposing the two-neutrino hypothesis
+ before the experiment because "... two types of neutrinos would imply two
+ types of protons.” However, after the quark flavor model, Bjorken and
+ Glashow, in 196421, transformed the baryon-lepton symmetry idea to quark-
+ lepton symmetry and introduced the name “charm”. They predicted the
+ existence of a new family of particles carrying the charm quantum number.
+ This development, and its enlargement by the Glashow, Illiopolis, Maiami
+ (GIM) mechanism in 1970, was another important ingredient in establishing
+ the Standard Model22.
+     In GIM, the quark family structure and weak interaction universality
+ explains the absence of strangeness changing neutral weak decays. This is
+ done by assuming a charmed quark counterpart to the second neutrino v .       µ
+
+
+ With the 1974 discovery of the           at BNL/Stanford Linear Accelerator
+ Center (SLAC) and subsequent experiments establishing the c-quark, the
+ Standard Model, at least with two generations, was experimentally estab-
+lished. Included in this model was the doublet structure of quarks and
+leptons, e.g.,(u,d),(c,s),(eVe),
+
+
+                                 L. M. Lederman                            521
+
+   The measurements which followed from this observation are given in
+detail in Jack Steinberger’s paper. Major neutrino facilities were established
+at BNL, CERN, Serpukhov, and Fermilab. Out of these came a rich yield of
+information on the properties of the weak interaction including neutral as
+well as charged currents, on the structure functions of quarks and gluons
+within protons and neutrons, and on the purely leptonic neutrino-electron
+scattering.
+
+V. Partons and Dynamical Quarks
+                                                     8
+A. Observation of Dimuons in 30 GeV Proton Collisions
+The two-neutrino experiment moved, in its follow-up phase at BNL, to a
+much more massive detector and into a far more potent neutrino beam. To
+provide for this, the AGS proton beam was extracted from the accelerator,
+not at all an easy thing to do because an extraction efficiency of only 95 %
+would leave an unacceptably large amount of radiation in the machine.
+   However, the ability to take pions off at 00 to the beam rather than at the
+70 of the original experiment, represented a very significant gain in pions,
+hence in neutrinos. Thus, the second neutrino experiment, now with
+healthy competition from CERN, could look forward to thousands of events
+instead of the original 50.
+   The major motivation was to find the W particle. The weak interaction
+ theory could predict the cross section for any given mass. The W production
+was
+
+
+                                                  +A*.
+
+Since W will immediately decay, and often into a charged lepton and
+neutrino, two opposite-sign leptons appear in the final state at one vertex.
+Figures 5a, 5b show W candidates. The relatively low energy of the BNL and
+CERN neutrino beams produced by 30-GeV protons             ~ 1 GeV) made this
+a relatively insensitive way of searching for W’s but both groups were able to
+set limits
+                               Mw > 2 GeV.
+
+We were then stimulated to try to find W's produced directly with 30-GeV
+protons, the signature being a high transverse momentum muon emerging
+from W-decay (~ M w/2). The experiment found no large momentum
+muons and yielded23 an improved upper limit for the W mass of about 5
+GeV which, however, was burdened by theoretical uncertainties of how W’s
+are produced by protons. The technique led, serendipitously, to the open-
+ing of a new field of high-energy probes.
+   To look for W’s, the neutrino-producing target was removed and the
+beam of protons was transported across the former flight path of 22 m (for
+pions) and buried in the thick neutrino shield. The massive W could show
+itself by the appearance of high transverse momentum muons. This beam
+
+
+                                       Physics 1988
+
+
+
+
+Figure 5a. Neutrino event with long muon and possible second µ-meson
+
+
+
+
+Figure 5b. Neutrino event with long muon and possible electron.
+
+
+
+dump approach was recognized in 1964 to be sensitive to short-lived neu-
+trino sources24, e.g., heavy leptons produced by 30 GeV protons. However,
+the single muon produced by a hypothetical W could also have been a
+member of a pair produced by a virtual photon. This criticism, pointed out
+by Y. Yamaguchi and L. Okun24, presented us with the idea for a new small-
+distance probe: virtual photons.
+   We promptly began designing an experiment to look for the virtual
+photon decay into muon pairs with the hope that the decreasing yield as a
+function of effective mass of the observed pair is a measure of small-distance
+
+
+                                     L. M. Lederman                           523
+
+
+
+
+Figure 6. Brookhaven dimuon setup.
+
+
+ physics and that this slope could be interrupted by as yet undiscovered
+vector mesons. Observation here would be using the illumination of virtual
+ photons whose parameters could be determined from the two-muon final
+ state. In 1967, we organized a relatively simple exploration of the yield of
+ muon pairs from 30-GeV proton collisions. Emilio Zavattini from CERN,
+Jim Christenson, a graduate of the Fitch-Cronin experiment from Prince-
+ton, and Peter Limon, a postdoc from Wisconsin, joined the proposal.
+Figure 6 shows the apparatus and Figure 7 shows the data. Later we were
+taught (by Richard Feynman) that this was an inclusive experiment:
+                        p + U                 + anything.
+The yield of muon pairs decreased rapidly from 1 GeV to the kinematic limit
+of nearly 6 GeV with the exception of a curious shoulder near 3 GeV. The
+measurement of muons was by range as determined by liquid and plastic
+scintillation counters interspersed with steel shielding. Each angular bin
+(there were 18) had four range bins and for two muons this made a total of
+only 5000 mass bins into which to sort the data. Multiple scattering in the
+minimum of 10 feet of steel made finer binning useless. Thus, we could only
+note that: “Indeed, in the mass region near 3.5 GeV, the observed spectrum
+may be reproduced by a composite of a resonance and a steeper conti-
+nuum.” This 1968 - 69 experiment was repeated in 1974 by Aubert et al. 25,
+with a magnetic spectrometer based upon multiwire proportional cham-
+bers. The shoulder was refined by the superior resolution into a towering
+peak (see Fig. 7 a) called the "J" particle.
+   Our huge flux of 1011 protons/pulse made the experiment very sensitive
+to small yields and, in fact, signals were recorded at the level of 10 -12 of the
+total cross section. A crucial development of this class of super-high-rate
+experiments was a foolproof way of subtracting accidentals.
+  The second outcome of this research was its interpretation by S. Drell and
+T-M Yan. They postulated the production of virtual photons by the annihi-
+
+
+524                                Physics 1988
+
+
+
+
+      Data on yield of dimuons vs. mass att 30 GeV.
+
+
+                                      L. M. Ledman                                   525
+
+
+
+
+Figure 7b. Dielectron data from the BNL experiment showing the peak at 3.1 GeV which was
+named “J”.
+
+
+
+lation of a quark and antiquark in the colliding particles. The application of
+the now firmly named Drell-Yan process (this is how theorists get all the
+credit!) in the unraveling of quark dynamics has become increasingly inci-
+sive. It lagged behind the deeply inelastic scattering (DIS) analysis by
+Bjorken and others, in which electrons, muons, and neutrinos were scat-
+tered from nucleons with large energy loss. The Drell-Yan process is more
+dependent upon the strong interaction processes in the initial state and is
+more subject to the difficult problem of higher-order corrections. However,
+
+
+526                               Physics 1988
+
+
+the dileption kinematics gives direct access to the constituent structure of
+hadrons with the possibility of experimental control of important pa-
+rameters of the parton distribution function. Indeed, a very large Drell-Yan
+industry now flourishes in all the proton accelerators. Drell-Yan processes
+also allow one to study structure functions of pions, kaons, and antiprotons.
+   A major consequence of this experimental activity, accompanied by a
+much greater theoretical flood (our first results stimulated over 100 theoretical
+papers!), was a parameter-free fit of fairly precise (timelike) data 26 of
+“two leptons out” to nucleon structure functions determined by probing
+the nuclear constituent with incident leptons. Some of the most precise data
+here were collected by the CDHS group of Jack Steinberger and he has
+covered this in his paper. The agreement of such diverse experiments on the
+behavior of quark-gluon constituents went a long way toward giving quarks
+the reality of other elementary particles, despite the confinement restric-
+tion.
+
+
+B.    Observation of π Mesons with Large Transverse Momentum in High-Energy
+Proton-Proton Collisions9
+The dynamics of quark-parton constituents were first convincingly demon-
+strated by James Bjorken’s analysis and interpretation of the DIS experi-
+ments at SLAC in 1970. Feynman’s parton approach must, of course, also
+be mentioned. The Berman-Bjorken-Kogut (BBK) paper27 became the Bible
+of hard collisionists. In 1971, the brand new ISR at CERN began operations
+and experimenters were able to observe head-on collisions of 30-GeV
+protons on 30-GeV protons. The ISR, as the highest-energy machine in the
+ 1970’s, was a superb place to practice observation strategy. Impressed by
+the power of the dilepton proble at BNL and by its hints of structure,
+Rodney Cool of Rockefeller University and I cooped Luigi DiLella from
+CERN to help us design an approach which would trade luminosity for
+resolution. Recall that with the “beam dump” philosophy at BNL we had
+been able to observe dimuon yields as low as 10 -12 of the total cross section.
+However, the penalty was a resolution roughly analogous to using the
+bottom of a Coca-Cola bottle as the lens for a Nikon. The balance of
+resolution and luminosity would be a crucial element in the increasing
+power of the dilepton process.
+   We learned from Carlo Rubbia about the excellent properties of lead
+glass as an electromagnetic spectrometer. Photons or electrons would mul-
+tiply in the high Z medium and dissipate all of their energy in a relatively
+short length. Improved manufacturing techniques had yielded a dense but
+transparent glass in which Cerenkov light could be efficiently coupled to
+good quality photomultiplier tubes. The relatively small response of lead
+glass to pions and kaons compared to electrons and photons is its great
+advantage. Six months of hard work in Brookhaven test beams gave us a
+good command of and respect for this technique and its essential weakness,
+the calibration process.
+
+
+                                     L. M. Lederman                       527
+
+
+
+
+Figure 8. CCR apparatus, CERN ISR.
+
+
+  The idea then was to have two arrays, on opposite sides of the interaction
+point, each subtending about one steradian of solid angle. Figure 8 shows
+the CCR apparatus and Figure 9 the data.
+  The CERN-Columbia-Rockefeller (CCR) team was assembled in 1971 to
+follow up on the BNI, dilepton results, but now electron pairs where the
+particles of choice and a large lead-glass array was in place around the
+interaction point of this very first hadron collider. Here again, the discovery
+of the      was frustrated by an interesting background that was totally
+unexpected but, here again, a new technique for probing small distances
+was discovered - the emission of high transverse momentum hadrons.
+   Before the ISR research, a handy rule was that hadron production would
+fall exponentially with transverse momentum. The CCR result had, at a Pt of
+
+
+528                                       Physics 1988
+
+
+
+
+                                                         23.5
+                                                         30.6
+
+
+
+
+Figure 9. Data from the yield of inclusive π°,s
+
+
+                                   L. M. Lederman                              529
+
+
+3 GeV, orders of magnitude higher yield of single         well detected by the
+high-resolution lead-glass array. The production rate was observed to be:
+                             ~      at    = 62 GeV
+which provided a stringent test of the quark-parton model in the early 70’s
+and QCD some few years later. Other ISR experiments quickly confirmed
+the CCR result, but only CCR had the quality and quantity of data to
+provide a phenomenological fit. It turned out that one could eventually go
+directly from these data to parton-parton (or quark-quark, etc.) hard scat-
+tering processes. The study of “single inclusive    at high Pt” evolved into
+study of the more typical jet structure which now shows up so spectacularly
+in proton-antiproton collider data. See Figure 10.
+  Thus, the dilepton adventure using scintillation counters at BNL and the
+lead-glass exposures to the ISR, initiated independent programs to contri-
+bute to the conviction that protons and pions are bound states of confined
+quarks interacting strongly via the exchange of gluons which are themselves
+capable of becoming virtual      pairs.
+
+
+VI. The Third Generation: Observation of a Dimuon Resonance at 9.5 GeV in
+400-GeV Proton-Nucleus Collisions’o
+ In 1969-1970, the BNL dimuon result had not only stimulated the ISR
+ proposal but also a proposal to the Fermilab (then known as NAL and still a
+ large hole-in-the-ground) to do a high-resolution lepton pair experiment.
+ By the time the machine came on in 1972/3, a single-arm lepton detector
+ had been installed, using the very powerful combination of magnetic mea-
+ surement and lead-glass in order to identify electrons with a pion contami-
+ nation of      10-5. Such rejection is needed when only one particle is
+ involved.
+    While the study of “direct” electrons fully occupied the Columbia-Fermi-
+ lab-Stony Brook collaboration in 1974, the              was being cheerfully
+ discovered at BNL and SLAC. The single-lepton effects turned out to be relatively
+ unfruitful, and the originally proposed pair experiment got underway in
+ 1975. In a series of runs the number of events with pair masses above 4 GeV
+ gradually increased and eventually grew to a few hundred. During this
+ phase hints of resonant peaks appeared and then disappeared. The group
+was learning how to do those difficult experiments. In early 1977, the key to
+a vastly improved dilepton experiment was finally discovered. The senior
+ Ph. D.s on the collaboration, Steve Herb, Walter Innes, Charles Brown, and
+John Yoh, constituted a rare combination of experience, energy, and in-
+sight. A new rearrangement of target, shielding, and detector elements
+concentrated on muon pairs but with hadronic absorption being carried out
+ in beryllium, actually 30 feet of beryllium. The decreased multiple scattering
+ of the surviving muons reduced the mass resolution to 2%, a respectable
+ improvement over the 10 - 15 % of the 1968 BNL experiment. The filter-
+ ing of all hadrons permitted over 1000 times as many protons to hit the
+
+
+530                                    Physics 1988
+
+
+
+
+      Movable
+      Absorber
+         or Be)
+
+
+
+
+m
+
+
+
+
+Figure 11a. Plan view of the apparatus. Each spectrometer arm includes 11 PWC’s P1-P11, 7
+scintillating counter hodoscopes H1-H7, a drift chamber Dl, and a gas-filled threshold Ceren-
+kov counter C.
+
+
+
+
+                                                                        Iron
+                                                         Solid          Absorber
+                                                         Iron            \
+                   Iron
+                   Wall,
+
+
+
+
+                                             Detectors
+Figure 11b. Schematic sketch of Fermilab dimuon experiment which led to the discovery of the
+Upsilon particle.
+
+
+                                      L. M. Lederman                       531
+
+
+target as compared to open geometry. The compromise between luminosity
+and resolution was optimized by meticulous attention to the removal of
+cracks and careful arrangement of the shielding. Recall that this kind of
+observation can call on as many protons as the detector can stand, typically 1
+percent of the available protons. The multiwire proportional chambers and
+triggering scintillators were crowded in towards the target to get maximum
+acceptance. Muon-ness was certified before and after bending in iron
+toroids to redetermine the muon momentum and discourage punch-
+throughs. Figures 11 a, 11 b show the apparatus.
+   In a month of data taking in the spring of 1977, some 7000 pairs were
+recorded with masses greater than 4 GeV and a curious, asymmetric, and
+wide bump appeared to interrupt the Drell-Yan continuum near 9.5 GeV.
+
+
+
+
+Figure 12a. Peaks on Drell-Yan continuum.
+
+
+532                                   Physics 1988
+
+
+
+
+                                    Mass (GeV)
+Figure 12b. Peaks with continuum subracted.
+
+
+
+
+With 800 events in the bump, a very clean Drell-Yan continuum under it
+and practically no background as measured by looking (simultaneously) for
+same-sign muons, the resonance was absolutely clear. It was named upsilon
+and a paper was sent off in August of 1977. By September, with 30,000
+events, the enhancement was resolved into three clearly separated peaks,
+ the third “peak” being a well-defined shoulder. See Figures 12a, 12b.
+These states were called           and      Shortly afterwards, the DORIS
+accelerator in DESY produced the upsilon in e+e - collisions and also
+served to confirm the only plausible interpretation of the upsilon as a
+ bound state of a new quark b with its antiparticle       The and       were
+the 2S and 3S states of this non-relativistic “atom”. In the Standard Model,
+we had a choice of charge, + 2/3 (up-like) or - l/3 (down-like) for the
+b-quark. The Fermilab data favored - l/3.
+   Fallout was relatively swift. Taken together with the discovery by Martin
+Perl and his colleague?” of the τ lepton at SLAC slightly earlier, a third
+generation was added to the Standard Model with the b quark at 5 GeV and
+the τ -lepton at 2 GeV. This fully confirmed the KM speculation that CP
+violation may require a third generation. (Clearly we are vastly oversimplify-
+ing the theoretical efforts here.)
+
+
+                                  L M. Lederman                             533
+
+
+   The bb system was a beautiful addition to (charmonium) as a measure-
+ment laboratory for the study of potential models for the strong quark-
+quark force. To get in on the fun, I organized a group from Columbia and
+Stony Brook to design a lead-glass, sodium iodide spectrometer to be used
+at the CESR machine, ideally suitable for y-spectroscopy. This Columbia,
+Stony Brook collaboration (CUSB) began taking data in 1979 and soon
+assisted in the identification of the 4S state11. The 4S state is especially
+important because it is above threshold for hadronic decay to B-states, i.e.,
+mesons having one b quark and a lighter antiquark. Follow-up experiments
+to learn more about the upsilons were also carried out at Fermilab.
+These used a number of tricks to even further advance the resolving power
+without losing luminosity - see Figure 13. By now many other states, includ-
+ing p-states, have been identified in this new heavy-quark spectroscopy.
+    Recent studies of the B-states in electron-positron colliders indicate that
+the B system may be far richer in physics than the charm equivalent, the D
+system.         mix like the K0 and      particles. Quoting one of CERN’s
+leading phenomenologists, G. Altarelli: “The observation by Argus at DESY
+of a relatively large amount of            mixing ... was the most important
+experimental result of the year [1987] in particle physics.” There is the
+strong possibility that CP violation, seen to date only in the K 0 system, may
+possibly be observable in the B0 system. B-factories, usually high-intensity
+e +e - machines, are being proposed in various labs around the world. The
+Cornell machine is being upgraded to produce of the order of 106          pairs
+a year. Meanwhile the hadron machines are trying hard to solve the very
+difficult experimental problem of detecting B’s (e.g., at the 800-GeV Fermi-
+lab fixed target) in a background of 106 times as many inelastic collisions.
+An ambitious detector is being proposed for the Fermilab collider, with the
+goal of obtaining 10 10     pairs/year. Judgingfrom 1988 activity, measure-
+ments in B-physics will play an increasingly important role in particle
+research over the next decade. The driving force is the recognition that the
+third generation seems to be needed to account for CP violation. Taken
+together with baryon non-conservation, CP violation plays a key role in our
+understanding of the evolution of the universe, including why we are here.
+For physicists with a less grandiose view, the quark mixing matrix para-
+meters are part of the basis of our Standard Model and b-physics is the key
+to these crucial parameters.
+   The third generation still needs a top quark and as we speak here,
+searches for this are going on now at the CERN            machine and at the
+Fermilab collider.
+   Both machines are operating at very good intensities averaging 200 - 400
+nb- per week. The Fermilab machine has a decided advantage of 1.8 TeV
+as compared to CERN’s 0.63 TeV, but everything depends on the quality of
+data, the wisdom invested in the design of the detectors and, of course, the
+mass of the top quark. It does seem safe to predict that a paper will soon
+appear, perhaps entitled: “Observation of the Top Quark.”
+
+
+                                  Physics 1988
+
+
+
+
+Figure 13. Fermilab E-605 data.
+
+
+
+
+VII. Crucial Issues in Neutrino Physics Today
+I conclude this paper with a brief resume of our ignorance about neutrinos.
+Neutrino interaction data are in good agreement with electroweak theory of
+the SM and so they will continue to be used to improve our knowledge of
+quark structure functions, the crucial Weinberg angle, etc. However, we
+have not yet seen the     we do not know if there is a fourth neutrino, we
+cannot answer urgent questions about the possibility of neutrino mass, and
+mixing of different flavors, of the stability of the neutrino, whether it has a
+magnetic moment, and, finally, the nature of the antineutrino, e.g., wheth-
+er of the Dirac or Majorana type. What makes all of this intensely interest-
+
+
+                                   L. M. Lederman                             535
+
+
+ing are two factors: 1) the astrophysical implications of the answers to these
+questions are awesome; and 2) the view as expressed by Weinberg that ". . .
+neutrino mass illuminates some of the deepest questions in particle phys-
+ics.” This is because, in the Standard Model, with the usual quarks, leptons,
+and gauge bosons, there is no possible renormalizable interaction that can
+violate lepton number conservation and give the neutrino a mass. Thus, the
+observation of mass would very likely be a sign of new physics far beyond the
+Standard Model, perhaps as far as 10 15 GeV, the scale of Grand Unification.
+
+A. The Third Neutrino,
+The “three-neutrino” experiment has not been done. Although data from
+the decay of τ lepton are very strongly suggestive of the existence of direct
+evidence for has yet to appear.
+  The technical problem is to move the target as close to the detector as
+possible but to divert the now unstoppable muons by magnetic sweeping.
+The flux of v‘s cannot be predicted with confidence and the shielding
+configuration is very expensive. This is primarily why the experiment has
+not yet been done.
+
+B. A Fourth Neutrino?
+This question is a shorthand for the issue of the number of generations.
+ Searches for heavier quarks and/or leptons are the sine qua non of new
+ accelerators and these have all been negative so far, although the results simply
+ give limits MQ > 40 GeV (same as top quark) and ML > 20 - 40 GeV
+depending upon the kind of heavy lepton and upon assumptions as to the
+                                        29
+mass of its accompanying neutrino . Important constraints come from
+astrophysics where the abundance of helium has been related to the number of
+low-mass neutrinos29. Probably one more low-mass neutrino could still be
+accommodated within the Big Bang nucleosynthesis arguments. The con-
+nection between the cosmological model of creation in the Big Bang and the
+number of generations in the Standard Model is one of the more romantic
+episodes in the marriage of particle physics and (early universe) cosmology.
+In fact, one of the strongest supports of Big Bang cosmology is primordial
+nucleosynthesis; the cooking of the light elements in the caldron beginning
+at t 1 sec. The astrophysicists manage to get it right: the abundances of
+deuterium, helium, and lithium. The key is helium 4; its abundance is a
+sensitive indicator of the total radiation density at formation time. Contri-
+buting to this are all the low-mass, relativistic particles, i.e., photons,
+electrons, and the three neutrinos plus their antiparticles. Another genera-
+tion containing a low-mass neutrino would probably not destroy the agree-
+ment but it would begin to stretch the agreement. Conclusion: there may
+be a fourth generation, but a fifth generation which included low-mass
+particles would provide a major problem for our astrophysical colleagues.
+Of course, there could be something out there which is outside of the
+generational structure. One experiment soon to yield results is being carried
+out at the e+e - machines at CERN’s Large Electron Positron Collider
+
+
+536                              Physics 1988
+
+
+(LEP) and the Stanford Linear Collider (SLC) where the width of the Z0 will
+give some indication of the number of neutrino pairs into which it can
+decay. The residual and dominant current interest in the neutrinos comes
+from astrophysical arguments related to dark matter. This in turn puts the
+spotlight on the neutrino mass measurements to which we now turn.
+
+C. Neutrino Masses and Oscillation
+In the Standard Model, neutrino masses are set to zero and both total
+lepton number L and lepton flavor number Li (i = e, µ, τ) are conserved.
+Neutrino masses “provide a window on the world beyond the SM" and have
+become one of the outstanding concerns of present-day particle physics.
+The possibility of oscillation is a statement that           is not rigorously
+forbidden as suggested by our two-neutrino experiment. The issue is given
+great emphasis by the cosmologists, who are increasingly impinging on the
+orderly development of particle physics (and what a joy that is!) and by the
+solar neutrino crisis, which has been around for decades. This is the
+discrepancy between the number of V ‘S observed to be coming from the sun
+                                       e
+
+
+and the flux that our best knowledge would predict. The detection of V
+signals from Supernova 1987a has added to the intensity of interest.
+   The oscillation possibility was first suggested by B. Pontecorvo in 1967 30.
+The neutrino flavor mixing is analogous to the quark mixing as given in the
+KM matrix. Today, we see many attempts to observe oscillations. These are
+at the high-energy accelerator labs, at meson factories, at reactors, and
+indeed in the solar environment. There, the problem is a theoretical one, to
+understand the lack of neutrinos from the processes that are known to keep
+the Sun shining. The solar neutrino crisis alone is receiving the attention of
+at least 14 large experimental groups around the world and many times that
+number of theorists!
+   As of this date, no convincing evidence for oscillations or for neutrino
+masses has been observed. These indirect evidences for mass differences
+and other experiments which look directly for neutrino masses are summa-
+rized by:
+
+                              m(v e) < ~ 20 eV
+                              m(v µ) < 0.25 MeV
+                                     < 35 MeV
+Oscillation limits are more conventionally given in terms of limits on the
+mass differences, ∆ , and the coupled limits on the phase angle,       that
+defines the mixing strength. Slowly and inexorably the space on the two-
+dimensional plot        vs sin 28) is being reduced to the lower left hand
+corner, although logarithmic scales will encourage experimenters to design
+ever more sensitive tests.
+  Cosmologists assure us that we live in a universe whose primary compo-
+nent of mass density is dark (non-luminous) and is presently unidentified.
+Much of this is probably (they say) non-baryonic and some kind of weakly
+interacting particle carrying some mass (WIMP) is a likely candidate. The
+
+
+                                   L. M. Lederman                             537
+
+
+principle of minimum complexity would have these be neutrinos and the
+condition is      ~ 20 eV            This brings the forward, as empha-
+sized by Harari who proposes as a matter of urgency a renewed search for
+     vτ.
+   Other experiments occupying the new pion factories (SIN, TRIUMF, and
+LAMPF) look for (small) violations of lepton flavor conservation via ex-
+tremely sensitive searches for such reactions as
+                             (again but now at B ~ 10-11!)
+                        and µ +          (B < 10-12 ) .
+The improvements in experimental techniques and machines conspire to
+improve these observations by about an order of magnitude every seven
+years. For completeness we must also list the search for rare decay modes of
+K-mesons in "kaon factories.” Pion, kaon, and B-factories clearly indicate
+the industrialization of particle physics. The physics objectives of all of these
+researches are to seek out the tiny influences of presumed new physics
+which is taking place at the TeV level and higher. For a mature experiment-
+er, these are fun experiments combining the payoff of observations (if and
+when) with the attention to detail of precise measurements.
+   To all of the above we should add the new generation structure function
+research with neutrino beams, probably tagged. Taken together, the 1962
+two-neutrino experiment, honored at this meeting, has given rise to a set of
+activities which, in 1988, continues to play a dominating role in particle
+physics and its new branches, astrophysics and early universe cosmology.
+
+
+VIII. Find Comments
+I would like to conclude this history of the Standard Model, which is not a
+history at all. From time to time it follows the main road, e.g., when the two-
+neutrino experiment pointed to flavor and the generational organization of
+the Standard Model. More often it takes side trails because my own experi-
+ments were down those paths. So we have neglected such milestones as the
+discovery of neutral currents, the τ lepton, the W and Z bosons, charmon-
+ium, etc. We have also been crushingly neglectful of the essential theoretical
+contributions and blitzed through quarks, color, symmetry-breaking, etc.
+   However, I regret most not having the space to speak more of the
+accelerators, the detectors, and the people who brought these to be. The
+Nevis cyclotron was built under the leadership of Eugene Booth and James
+Rainwater; the AGS, most successful machine ever, led by Ken Green,
+Ernest Courant, Stanley Livingston, and Hartland Snyder; Fermilab, of
+course, by Robert Wilson and his outstanding staff. My own detector
+experience owes much to Georges Charpak of CERN and William Sippach
+of Columbia. In neglecting these details I am reminded of my teacher,
+friend, and thesis professor, Gilberto Bernardini, who, when being shown
+the Nevis cyclotron’s innards, exclaimed: “Just show me where the beam
+comes out.” Finally, I make amends to the theorists who are obviously
+
+
+538                                    Physics 1988
+
+
+crucial to the entire enterprise. I have enjoyed and profited from many
+physicists of the theoretical persuasion, but most especially T. D. Lee, M.
+Veltman, and J. D. Bjorken.
+
+
+
+REFERENCES
+ 1. T. Coffin, R. L. Garwin, I.. M. Lederman, S. Penman, A. M. Sachs, Phys. Rev.
+     106, 1108 (1957).
+ 2. S. Devons, G. Gidal, L. M. Lederman, G. Shapiro, Phys. Rev. Lett. 5, 330
+     (1960). S. Meyer et al. Phys. Rev. 132, 2963 (1963).
+ 3. R. W. Ellsworth, A. C. Melissinos, J. H. Tinlot, H. von Briesen, Jr., T. Yamanouchi,
+      L. M. Lederman, T. Tannenbaum, R. L., Cool, A. Maschke, Phys. Rev. 165,
+      1449 (1968).
+     C. P. Sargent, M. Rinehart, I,. M. I.ederman, K. C. Rogers, Phys. Rev. 99, 885
+     (1955).
+ 4. H. Blumenfeld, W. Chinowsky, L. M. Lederman, Nuovo Cimento 8, 296 (1958).
+ 5. K. Lande, E. T. Booth, J. Impeduglia, L. M. Lederman, Phys. Rev. 103, 1901
+     (1956).
+ 6. R. 1.. Garwin, L. M. Lederman, M. Weinrich, Phys. Rev. 105, 1415 (1957).
+ 7. G. Danby, J-M. Gaillard, K. Goulianos, L. M. Lederman, N. Mistry, M.
+     Schwartz, J. Steinberger, Phys. Rev. Lett. 9, 36 (1962).
+ 8. J. H. Christenson, G. S. Hicks, L. M. Lederman, P. J. Limon, B. G. Pope, E,.
+     Zavattini, Phys. Rev. Lett. 25, 1523 (1970).
+ 9. F. W. Büsser, L. Camilleri, L. DiLella, G. Gladding, A. Placci, B. G. Pope, A. M.
+     Smith, J. K. Yoh, E. Zavattini, B. J. Blumenfeld, L. M. Lederman, R. L. Cool, I,. Litt,
+     S. L. Segler, Phys. Lett. 46B, 471 (1973).
+10. S. W. Herb, D. C. Horn, 1,. M. I.ederman, J. C. Sens, H. D. Snyder, J. K. Yoh, J.
+     A. Appel, B. C. Brown, C. N. Brown, W. R. lnnes, K. Ueno. T. Yamanouchi, A.
+     S. Ito, H. Jostlein, D. M. Kaplan, R. D. Kephart, Phys. Rev. Lett. 39, 252 (1977).
+11. G. Finocchiaro, G. Giannini, J. Lee-Franzini, R. D. Schamberger Jr., M. Siverta,
+     L,. J. Spencer, P. M. Tuts, T. Bohringer, F. Costantini, J. Dobbins, P. Franzini,
+     K. Han, S. W. Herb, D. M. Kaplan, L. M. Lederman, G. Mageras, D. Peterson,
+     E. Rice, J. K. Yoh, G. Levman, Phys. Lett. 45, 222 (1980).
+12. M. Gell-Mann, A. Pais, Phys. Rev. 97, 1387 (1955).
+13. L,. Lederman, E. T. Booth, H. Byfield, J. Kessler, Phys. Rev. 83, 685 (1951).
+14. L. Lederman, J. Tinlot, E. Booth, Phys. Rev. 81, (1951).
+15. L. M. Lederman, Thesis Columbia U, 1951 (unpublished).
+16. H. Byfield, J. Kessler, L. M. Lederman, Phys. Rev. 86, 17 (1952).
+17. T. D. Lee, Reinhard Oehne, C. N. Yang, Phys. Rev. 106, 340 (1957).
+18. J. H. Christenson, J. W. Cronin, V. L. Fitch, R. Turlay, Phys. Rev. Lett. 13, 138
+     (1964).
+19. T. D. Lee, C. N. Yang, Phys. Rev. 104, 254 (1956).
+20. G. Feinberg, Phys. Rev. 110, 1482 (1958).
+21. J. D. Bjorken, S. L. Glashow, Phys. Lett. 11, 255 (1964).
+22. S. L. Glashow, J. Iliopoulos, L. Maiani, Phys. Rev. D2, 1285 (1970).
+23. R. Burns, G. Danby, E. Heyman, L. M. Lederman, W. Lee, J. Rettberg, and J.
+     Sunderland, Phys. Rev. Lett. 15, 830 (1965).
+24. Y. Yamaguchi, Nuovo Cimento 43A, 193 (1966). L. Okun, unpublished (1966).
+25. J. J. Aubert, U. Becker, P. J. Biggs, J. Burger, M. Chen, G. Everhart, P.
+     Goldhagen, J. Leong, T. McCorriston, T. G. Rhoades, M. Rohde, Samuel C. C.
+     Ting, Sau Lan Wu, Phys. Rev. Lett. 33, 1404 (1974).
+26. D. M. Kaplan, R. J. Fisk, A. S. Ito, H. Jostlein, J. A. Appel, B. C. Brown, C. N.
+     Brown, W. R. Innes, R. D. Kephart, K. Ueno, T. Yamanouchi, S. W. Herb, D. C.
+
+
+       Horn, L. M. Lederman, J. C. Sens, H. D. Snyder, J. K. Yoh, Phys. Rev. Lett. 40,
+       435 (1978) and A. S. Ito et al., Phys. Rev. D 23, 604 (1981).
+27.   S. M. Berman, J. D. Bjorken, J. B. Kogut, Phys. Rev. D4, 3388 (1971).
+28.   Martin Perl: Heavy Leptons in 1986. Proceedings of the XXIII International
+       Conference on High Energy Physics, Berkeley, 1986, p. 596.
+29.   Gary Steigman, David N. Schramm and James E. Gunn, Phys. Lett. 66B 202
+       (1977).
+30.   B. Pontecorvo, Zh. Eksp. Teor. Fiz. 53, 1717 (1967) [Soviet Physics JETP 26,984
+       (1968)].
+

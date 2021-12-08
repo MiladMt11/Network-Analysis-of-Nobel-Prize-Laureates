@@ -1,0 +1,935 @@
+POTASSIUM CHANNELS AND THE ATOMIC BASIS
+OF SELECTIVE ION CONDUCTION
+
+Nobel Lecture, December 8, 2003
+by
+Roderick MacKinnon
+Howard Hughes Medical Institute, Laboratory of Molecular Neurobiology
+and Biophysics, Rockefeller University, 1230 York Avenue, New York,
+NY 10021, USA.
+
+
+
+
+INTRODUCTION
+All living cells are surrounded by a thin, approximately 40 Å thick lipid bilay-
+er called the cell membrane. The cell membrane holds the contents of a cell
+in one place so that the chemistry of life can occur, but it is a barrier to the
+movement of certain essential ingredients including the ions Na+, K+, Ca2+
+and Cl-. The barrier to ion flow across the membrane – known as the dielec-
+tric barrier – can be understood at an intuitive level: the cell membrane inte-
+rior is an oily substance and ions are more stable in water than in oil. The en-
+ergetic preference of an ion for water arises from the electric field around the
+ion and its interaction with neighboring molecules. Water is an electrically
+polarizable substance, which means that its molecules rearrange in an ion’s
+electric field, pointing negative oxygen atoms in the direction of cations and
+positive hydrogen atoms toward anions. These electrically stabilizing interac-
+tions are much weaker in a less polarizable substance such as oil. Thus, an ion
+will tend to stay in the water on either side of a cell membrane rather than en-
+ter and cross the membrane. And yet numerous cellular processes, ranging
+from electrolyte transport across epithelia to electrical signal production in
+neurons, depend on the flow of ions across the membrane. To mediate the
+flow, specific protein catalysts known as ion channels exist in the cell mem-
+brane. Ion channels exhibit the following three essential properties: (1) they
+conduct ions rapidly, (2) many ion channels are highly selective, meaning only
+certain ion species flow while others are excluded, (3) their function is regu-
+lated by processes known as gating, that is, ion conduction is turned on and
+off in response to specific environmental stimuli. Figure 1 summarizes these
+properties (figure 1).
+   The modern history of ion channels began in 1952 when Hodgkin and
+Huxley published their seminal papers on the theory of the action potential
+in the squid giant axon (Hodgkin and Huxley, 1952a; Hodgkin and Huxley,
+1952b; Hodgkin and Huxley, 1952c; Hodgkin and Huxley, 1952d). A funda-
+mental element of their theory was that the axon membrane undergoes
+changes in its permeability to Na+ and K+ ions. The Hodgkin-Huxley theory
+
+214
+
+
+Figure 1. Ion channels exhibit three basic properties depicted in the cartoon. They conduct
+specific ions (for example K+) at high rates, they are selective (a K+ channel essentially ex-
+cludes Na+), and conduction is turned on and off by opening and closing a gate, which can
+be regulated by an external stimulus such as ligand-binding or membrane voltage. The rel-
+ative size of K+ and Na+ ions is shown.
+
+
+
+
+did not address the mechanism by which the membrane permeability
+changes occur: ions could potentially cross the membrane through channels
+or by a carrier-mediated mechanism. In their words ‘Details of the mecha-
+nism will probably not be settled for some time’ (Hodgkin and Huxley,
+1952a). It is fair to say that the pursuit of this statement has accounted for
+much ion channel research over the past fifty years.
+   As early as 1955 experimental evidence for channel mediated ion flow was
+obtained when Hodgkin and Keynes measured the directional flow of K+ ions
+across axon membranes using the isotope 42K+ (Hodgkin and Keynes, 1955).
+They observed that K+ flow in one direction across the membrane depends
+on flow in the opposite direction, and suggested that ‘the ions should be con-
+strained to move in single file and that there should, on average, be several
+ions in a channel at any moment’. Over the following two decades Armstrong
+and Hille used electrophysiological methods to demonstrate that Na+ and K+
+ions cross cell membranes through unique protein pores – Na+ channels and
+K+ channels – and developed the concepts of selectivity filter for ion discrim-
+ination and gate for regulating ion flow (Hille, 1970; Hille, 1971; Hille, 1973;
+Armstrong, 1971; Armstrong et al., 1973; Armstrong and Bezanilla, 1977;
+Armstrong, 1981). The patch recording technique invented by Neher and
+Sakmann then revealed the electrical signals from individual ion channels, as
+well as the extraordinary diversity of ion channels in living cells throughout
+nature (Neher and Sakmann, 1976).
+   The past twenty years have been the era of molecular biology for ion chan-
+nels. The ability to manipulate amino acid sequences and express ion chan-
+nels at high levels opened up entirely new possibilities for analysis. The ad-
+vancement of techniques for protein structure determination and the devel-
+opment of synchrotron facilities also created new possibilities. For me, a sci-
+entist who became fascinated with understanding the atomic basis of life’s
+electrical system, there could not have been a more opportune time to enter
+the field.
+
+                                                                                         215
+
+
+MY EARLY STUDIES: THE K+ CHANNEL SIGNATURE SEQUENCE
+The cloning of the Shaker K+ channel gene from Drosophila melanogaster by Jan,
+Tanouye, and Pongs revealed for the first time a K+ channel amino acid se-
+quence and stimulated efforts by many laboratories to discover which of these
+amino acids form the pore, selectivity filter, and gate (Tempel et al., 1987;
+Kamb et al., 1987; Pongs et al., 1988). At Brandeis University in Chris Miller’s
+laboratory I had an approach to find the pore amino acids. Chris and I had
+just completed a study showing that charybdotoxin, a small protein from scor-
+pion venom, inhibits a K+ channel isolated from skeletal muscle cells by plug-
+ging the pore and obstructing the flow of ions (MacKinnon and Miller, 1988).
+In one of those late night ‘let’s see what happens if’ experiments while taking
+a molecular biology course at Cold Spring Harbor I found that the toxin – or
+what turned out to be a variant of it present in the charybdotoxin prepara-
+tion – inhibited the Shaker K+ channel (MacKinnon et al., 1988; Garcia et al.,
+1994). This observation meant I could use the toxin to find the pore, and it
+did not take very long to identify the first site-directed mutants of the Shaker
+K+ channel with altered binding of toxin (MacKinnon and Miller, 1989). I
+continued these experiments at Harvard Medical School where I began as as-
+sistant professor in 1989. Working with my small group at Harvard, including
+Tatiana Abramson, Lise Heginbotham, and Zhe Lu, and sometimes with Gary
+Yellen at Johns Hopkins University, we reached several interesting conclu-
+
+
+
+
+Figure 2. Early picture of a tetramer K+ channel with a selectivity filter made of pore loops.
+A linear representation of a Shaker K+ channel subunit on top shows shaded hydrophobic
+segments S1 to S6 and a region designated the pore loop. A partial amino acid sequence
+from the Shaker K+ channel pore loop highlights amino acids shown to interact with ex-
+tracellular scorpion toxins (*), intracellular tetraethylammonium (↑) and K+ ions (+). The
+pore loop was proposed to reach into the membrane (middle) and form a selectivity filter
+at the center of four subunits (bottom).
+
+216
+
+
+Figure 3. The K+ channel signature sequence shown as single letter amino acid code (blue)
+is highly conserved in organisms throughout the tree of life. Some K+ channels contain six
+membrane-spanning segments per subunit (6TM) while others contain only two (2TM).
+2TM K+ channels correspond to 6TM K+ channels without the first four membrane-span-
+ning segments (S1-S4 in figure 2).
+
+
+
+
+sions concerning the architecture of K+ channels. They had to be tetramers in
+which four subunits encircle a central ion pathway (MacKinnon, 1991). This
+conclusion was not terribly surprising but the experiments and analysis to
+reach it gave me great pleasure since they required only simple measure-
+ments and clear reasoning with binomial statistics. We also deduced that each
+subunit presents a ‘pore loop’ to the central ion pathway (figure 2)
+(MacKinnon, 1995). This ‘loop’ formed the binding sites for scorpion toxins
+(MacKinnon and Miller, 1989; Hidalgo and MacKinnon, 1995; Ranganathan
+et al., 1996) as well as the small-molecule inhibitor tetraethylammonium ion
+(MacKinnon and Yellen, 1990; Yellen et al., 1991), which had been used by
+Armstrong and Hille decades earlier in their pioneering analysis of K+ chan-
+nels (Armstrong, 1971; Armstrong and Hille, 1972). Most important to my
+thinking, mutations of certain amino acids within the ‘loop’ affected the
+channel’s ability to discriminate between K+ and Na+, the selectivity hallmark
+of K+ channels (Heginbotham et al., 1992; Heginbotham et al., 1994).
+Meanwhile, new K+ channel genes were discovered and they all had one ob-
+vious feature in common: the very amino acids that we had found to be im-
+portant for K+ selectivity were conserved (figure 3). We called these amino
+acids the K+ channel signature sequence, and imagined four pore loops
+somehow forming a selectivity filter with the signature sequence amino acids
+inside the pore (Heginbotham et al., 1994; MacKinnon, 1995).
+   When you consider the single channel conductance of many K+ channels
+found in cells you realize just how incredible these molecular devices are.
+With typical cellular electrochemical gradients, K+ ions conduct at a rate of
+107 to 108 ions per second. That rate approaches the expected collision fre-
+quency of K+ ions from solution with the entryway to the pore. This means
+that K+ ions flow through the pore almost as fast as they diffuse up to it. For
+this to occur the energetic barriers in the channel have to be very low, some-
+thing like those encountered by K+ ions diffusing through water. All the more
+
+                                                                                     217
+
+
+remarkable, the high rates are achieved in the setting of exquisite selectivity:
+the K+ channel conducts K+, a monovalent cation of Pauling radius 1.33 Å,
+while essentially excluding Na+, a monovalent cation of Pauling radius 0.95 Å.
+And this ion selectivity is critical to the survival of a cell. How does nature ac-
+complish high conduction rates and high selectivity at the same time? The an-
+swer to this question would require knowing the atomic structure formed by
+the signature sequence amino acids, that much was clear. The conservation of
+the signature sequence amino acids in K+ channels throughout the tree of
+life, from bacteria (Milkman, 1994) to higher eukaryotic cells, implied that
+nature had settled upon a very special solution to achieve rapid, selective K+
+conduction across the cell membrane. For me, this realization provided in-
+spiration to want to directly visualize a K+ channel and its selectivity filter.
+
+
+THE KCSA STRUCTURE AND SELECTIVE K+ CONDUCTION
+I began to study crystallography, and although I had no idea how I would ob-
+tain funding for this endeavor, I have always believed that if you really want to
+do something then you will find a way. By happenstance I explained my plan
+to Torsten Wiesel, then president of Rockefeller University. He suggested that
+I come to Rockefeller where I would be able to concentrate on the problem.
+I accepted his offer and moved there in 1996. In the beginning I was joined
+by Declan Doyle and my wife Alice Lee MacKinnon and within a year others
+joined including João Morais Cabral, John Imredy, Sabine Mann and Richard
+Pfuetzner. We had to learn as we went along, and what we may have lacked in
+size and skill we more than compensated for with enthusiasm. It was a very
+special time. At first I did not know how we would ever reach the point of ob-
+taining enough K+ channel protein to attempt crystallization, but the K+
+channel signature sequence continued to appear in a growing number of
+prokaryotic genes, making expression in Escherichia coli possible. We focused
+our effort on a bacterial K+ channel called KcsA from Streptomyces lividans, dis-
+covered by Schrempf (Schrempf et al., 1995). The KcsA channel has a simple
+topology with only two membrane spanning segments per subunit corre-
+sponding to the Shaker K+ channel without S1 through S4 (figure 2). Despite
+its prokaryotic origin KcsA closely resembled the Shaker K+ channel’s pore
+amino acid sequence, and even exhibited many of its pharmacological prop-
+erties, including inhibition by scorpion toxins (MacKinnon et al., 1998). This
+surprised us from an evolutionary standpoint, because why should a scorpion
+want to inhibit a bacterial K+ channel! But from the utilitarian point of view of
+protein biophysicists we knew exactly what the scorpion toxin sensitivity
+meant, that KcsA had to be very similar in structure to the Shaker K+ channel.
+   The KcsA channel produced crystals but they were poorly ordered and not
+very useful in the X-ray beam. After we struggled for quite a while I began to
+wonder whether some part of the channel was intrinsically disordered and in-
+terfering with crystallization. Fortunately my neighbor Brian Chait and his
+postdoctoral colleague Steve Cohen were experts in the analysis of soluble
+proteins by limited proteolysis and mass spectrometry, and their techniques
+
+218
+
+
+Figure 4. Electron density (2Fo-Fc contoured at 2 ) from a high-resolution structure of the
+KcsA K+ channel is shown as blue mesh. This region of the channel features the selectivity
+filter with K+ ions and water molecules along the ion pathway. The refined atomic model is
+shown in the electron density. Adapted from (Zhou et al., 2001b).
+
+
+
+
+applied beautifully to a membrane protein. We found that KcsA was as solid
+as a rock, except for its C-terminus. After removing disordered amino acids
+from the c-terminus with chymotrypsin the crystals improved dramatically,
+and we were able to solve an initial structure at a resolution of 3.2 Å (Doyle et
+al., 1998). We could not clearly see K+ in the pore at this resolution, but my
+years of work on K+ channel function told me that Rb+ and Cs+ should be
+valuable electron dense substitutes for K+, and they were. Rubidium and Cs+
+difference Fourier maps showed these ions lined up in the pore – as Hodgkin
+and Keynes might have imagined in 1955 (Hodgkin and Keynes, 1955).
+   The KcsA structure was altogether illuminating, but before I describe it, I
+will depart from chronology to explain the next important technical step. A
+very accurate description of the ion coordination chemistry inside the selec-
+tivity filter would require a higher resolution structure. With 3.2 Å data we
+could infer the positions of the main-chain carbonyl oxygen atoms by apply-
+ing our knowledge of small molecule structures, that is our chemical intu-
+ition, but we needed to see the selectivity filter atoms in detail. A high-resolu-
+tion structure was actually quite difficult to obtain. After more than three ad-
+ditional years of work by João and then Yufeng (Fenny) Zhou we finally man-
+aged to produce high-quality crystals by attaching monoclonal Fab fragments
+to KcsA. These crystals provided the information we needed, a structure at a
+resolution of 2.0 Å in which K+ ions could be visualized in the grasp of selec-
+
+                                                                                       219
+
+
+                      In
+
+
+
+
+                     In
+
+
+Figure 5. (A) A ribbon representation of the KcsA K+ channel with its four subunits colored
+uniquely. The channel is oriented with the extracellular solution on top. (B) The KcsA K+
+channel with front and back subunits removed, colored to highlight the pore-helices (red)
+and selectivity filter (yellow). Electron density in blue mesh is shown along the ion pathway.
+Labels identify the pore, outer, and inner helices and the inner helix bundle. The outer
+and inner helices correspond to S5 and S6 in figure 2.
+
+
+tivity filter protein atoms (figure 4) (Zhou et al., 2001b). What did the K+
+channel structure tell us and why did nature conserve the K+ channel signa-
+ture sequence amino acids?
+   Not all protein structures speak to you in an understandable language, but
+the KcsA K+ channel does. Four subunits surround a central ion pathway that
+crosses the membrane (figure 5A). Two of the four subunits are shown in fig-
+ure 5B with electron density from K+ ions and water along the pore. Near the
+center of the membrane the ion pathway is very wide, forming a cavity about
+10 Å in diameter with a hydrated K+ ion at its center. Each subunit directs the
+C-terminal end of a ‘pore helix’, shown in red, toward the ion. The C-termi-
+nal end of an α-helix is associated with a negative ‘end charge’ due to car-
+bonyl oxygen atoms that do not participate in secondary structure hydrogen
+bonding, so the pore helices are directed as if to stabilize the K+ ion in the
+cavity. At the beginning of this lecture I raised the fundamental issue of the
+cell membrane being an energetic barrier to ion flow because of its oily inte-
+rior. KcsA allows us to intuit a simple logic encoded in its structure, and elec-
+trostatic calculations support the intuition (Roux and MacKinnon, 1999): the
+K+ channel lowers the membrane dielectric barrier by hydrating a K+ ion
+deep inside the membrane, and by stabilizing it with α-helix end charges.
+
+220
+
+
+Figure 6. Detailed structure of the K+ selectivity filter (two subunits). Oxygen atoms coordi-
+nate K+ ions (green spheres) at positions 1 to 4 from the extracellular side. Single letter
+amino acid code identifies select signature sequence amino acids. Yellow, blue and red cor-
+respond to carbon, nitrogen and oxygen atoms, respectively. Green and gray dashed lines
+show oxygen-K+ and hydrogen bonding interactions.
+
+
+
+
+    How does the K+ channel distinguish K+ from Na+? Our earlier mutagene-
+sis studies had indicated that the signature sequence amino acids would be re-
+sponsible for this most basic function of a K+ channel. Figure 6 shows the
+structure formed by the signature sequence – the selectivity filter – located in
+the extracellular third of the ion pathway. The glycine amino acids in the se-
+quence TVGYG have dihedral angles in or near the left-handed helical region
+of the Ramachandran plot, as does the threonine, allowing the main-chain
+carbonyl oxygen atoms to point in one direction, toward the ions along the
+pore. It is easy to understand why this sequence is so conserved among K+
+channels: the alternating glycine amino acids permit the required dihedral
+angles, the threonine hydroxyl oxygen atom coordinates a K+ ion, and the
+side-chains of valine and tyrosine are directed into the protein core sur-
+rounding the filter to impose geometric constraint. The end result when the
+subunits come together is a narrow tube consisting of four equal spaced K+
+binding sites, labeled 1 to 4 from the extracellular side. Each binding site is a
+cage formed by eight oxygen atoms on the vertices of a cube, or a twisted
+cube called a square antiprism (figure 7). The binding sites are very similar to
+the single alkali metal site in nonactin, a K+ selective antibiotic with nearly
+identical K+-oxygen distances (Dobler et al., 1969; Dunitz and Dobler, 1977).
+The principle of K+ selectivity is implied in a subtle feature of the KcsA crystal
+structure. The oxygen atoms surrounding K+ ions in the selectivity filter are
+arranged quite like the water molecules surrounding the hydrated K+ ion in
+the cavity. This comparison conveys a visual impression of binding sites in the
+filter paying for the energetic cost of K+ dehydration. The Na+ ion is appar-
+ently too small for these K+-sized binding sites, so its dehydration energy is
+not compensated.
+    The question that compelled us most after seeing the structure was exactly
+
+                                                                                         221
+
+
+Figure 7. A K+ channel mimics the hydration shell surrounding a K+ ion. Electron density
+(blue mesh) for K+ ions in the filter and for a K+ ion and water molecules in the central cav-
+ity are shown. White lines highlight the coordination geometry of K+ in the filter and in wa-
+ter. Adapted from (Zhou et al., 2001b).
+
+
+
+
+how many ions are in the selectivity filter at a given time? To begin to under-
+stand how ions move through the filter we needed to know the stoichiometry
+of the ion conduction reaction, and that meant knowing how many ions can
+occupy the filter. Four binding sites were apparent, but are they all occupied
+at once? Four K+ ions in a row separated by an average center-to-center dis-
+tance of 3.3 Å seemed unlikely for electrostatic reasons. From an early stage
+we suspected that the correct number would be closer to two, because two
+ions more easily explained the electron density we observed for the larger al-
+kali metal cations Rb+ and Cs+ (Doyle et al., 1998; Morais-Cabral et al., 2001).
+Quantitative evidence for the precise number of ions came with the high-res-
+olution structure and with the analysis of Tl+ (Zhou and MacKinnon, 2003).
+Thallium is the most ideally suited ‘K+ analog’ because it flows through K+
+channels, has a radius and dehydration energy very close to K+, and has the
+favorable crystallographic attributes of high electron density and an anom-
+alous signal. The one serious difficulty in working with Tl+ is its insolubility
+with Cl-. Fenny meticulously worked out the experimental conditions and de-
+termined that on average there are between two and two and a half conduct-
+ing ions in the filter at once, with an occupancy at each position around one
+half.
+
+222
+
+
+Figure 8. The selectivity filter can adopt two conformations. At low concentrations of K+ on
+average one K+ ion resides at either of two sites near the ends of the filter, which is col-
+lapsed in the middle. At high concentrations of K+ a second ion enters the filter as it
+changes to a conductive conformation. On average, two K+ ions in the conductive filter re-
+side at four sites, each with about half occupancy.
+
+
+
+
+   We also observed that if the concentration of K+ (or Tl+) bathing the crys-
+tals is lowered sufficiently (below normal intracellular levels) then a reduc-
+tion in the number of ions from two to one occurs and is associated with a
+structural change to a ‘collapsed’ filter conformation, which is pinched
+closed in the middle (Zhou et al., 2001b; Zhou and MacKinnon, 2003). At
+concentrations above 20 mM the entry of a second K+ ion drives the filter to
+a ‘conductive’ conformation, as shown in figure 8. Sodium on the other hand
+does not drive the filter to a ‘conductive’ conformation even at concentra-
+tions up to 500 mM.
+   The K+-induced conformational change has thermodynamic consequences
+for the affinity of two K+ ions in the ‘conductive’ filter. It implies that a frac-
+tion of the second ion’s binding energy must be expended as work to bring
+about the filter’s conformational change, and as a result the two ions will bind
+with reduced affinity. To understand this statement at an intuitive level, rec-
+ognize that for two ions to reside in the filter they must oppose its tendency to
+collapse and force one of them out, i.e. the two-ion ‘conductive’ conforma-
+tion is under some tension, which will tend to lower K+ affinity. This is a de-
+sirable property for an ion channel because weak binding favors high con-
+duction rates. The same principle, referred to as the ‘induced fit’ hypothesis,
+had been proposed decades earlier by enzymologists to explain high speci-
+ficity with low substrate affinity in enzyme catalysis (Jencks, 1987).
+   In the ‘conductive’ filter if two K+ ions were randomly distributed then they
+would occupy four sites in six possible ways. But several lines of evidence hint-
+ed to us that the ion positions are not random. For example Rb+ and Cs+ ex-
+hibit preferred positions with obviously low occupancy at position 2 (Morais-
+Cabral et al., 2001; Zhou and MacKinnon, 2003). In K+ we observed an un-
+usual doublet peak of electron density at the extracellular entryway to the se-
+lectivity filter, shown in figure 9 (Zhou et al., 2001b). We could explain this
+density if K+ is attracted from solution by the negative protein surface charge
+near the entryway and at the same time repelled by K+ ions inside the filter.
+Two discrete peaks implied two distributions of ions in the filter. If K+ ions
+
+                                                                                       223
+
+
+Figure 9. Two K+ ions in the selectivity filter are hypothesized to exist predominantly in two
+specific configurations 1,3 and 2,4 as shown. K+ ions and water molecules are shown as
+green and red spheres, respectively. Adapted from (Zhou et al., 2001b).
+
+
+
+tend to be separated by a water molecule for electrostatic reasons then the
+two dominant configurations would be 1,3 (K+ ions in positions 1 and 3 with
+a water molecule in between) and 2,4 (K+ ions in positions 2 and 4 with a wa-
+ter molecule in between). A mutation at position 4 (threonine to cysteine)
+was recently shown to influence K+ occupancy at positions 2 and 4 but not at
+1 and 3, providing strong evidence for specific 1,3 and 2,4 configurations of
+K+ ions inside the selectivity filter (Zhou and MacKinnon, 2004).
+   Discrete configurations of an ion pair suggested a mechanism for ion con-
+duction (figure 10A) (Morais-Cabral et al., 2001). The K+ ion pair could dif-
+fuse back and forth between 1,3 and 2,4 configurations (bottom pathway), or
+alternatively an ion could enter the filter from one side of the membrane as
+the ion-water queue moves and a K+ exits at the opposite side (the top path-
+way). Movements would have to be concerted because the filter is no wider
+than a K+ ion or water molecule. The two paths complete a cycle: in one com-
+plete cycle each ion moves only a fraction of the total distance through the fil-
+ter, but the overall electrical effect is to move one charge all the way. Because
+two K+ ions are present in the filter throughout the cycle we expect there
+should be electrostatic repulsion between them. Together with the filter con-
+formational change that is required to achieve a ‘conductive’ filter with two
+K+ ions in it, electrostatic repulsion should favor high conduction rates by
+lowering K+ affinity.
+   Absolute rates from 107 to 108 ions per second are truly impressive for a
+highly selective ion channel. One aspect of the crystallographic data suggests
+that very high conductance K+ channels such as KcsA might operate near the
+maximum rate that the conduction mechanism will allow. All four positions
+in the filter have a K+ occupancy close to one half, which implies that the 1,3
+and 2,4 configurations are equally probable, or energetically equivalent, but
+there is no a priori reason why this should be. A simulation of ions diffusing
+around the cycle offers a possible explanation: maximum flux is achieved
+when the energy difference between the 1,3 and 2,4 configurations is zero be-
+
+224
+
+
+           A                                         B
+
+
+
+
+Figure 10. (A) Through-put cycle for K+ conduction invoking 1,3 and 2,4 configurations.
+The selectivity filter is represented as five square planes of oxygen atoms. K+ and water are
+shown as green and red spheres, respectively. (B) Simulated K+ flux around the cycle is
+graphed as a function of the energy difference between the 1,3 and 2,4 configurations.
+Adapted from (Morais-Cabral et al., 2001).
+
+
+
+
+cause that is the condition under which the ‘energy landscape’ for the con-
+duction cycle is smoothest (figure 10B). The energetic balance between the
+configurations therefore might reflect the optimization of conduction rate by
+natural selection (Morais-Cabral et al., 2001). It is not so easy to demonstrate
+this point experimentally but it is certainly fascinating to ponder.
+
+
+COMMON STRUCTURAL PRINCIPLES UNDERLIE K+ AND
+Cl- SELECTIVITY
+The focus of this lecture is K+ channels, but for a brief interlude I would like
+to show you a Cl- selective transport protein. By comparing a K+ channel and
+a Cl- ‘channel’ we can begin to appreciate familiar themes in nature’s solu-
+tions to different problems: getting cations and anions across the cell mem-
+brane. ClC Cl- channels are found in many different cell types and are associ-
+ated with a number of physiological processes that require Cl- ion flow across
+lipid membranes (Jentsch et al., 1999; Maduke et al., 2000). As is the case for
+K+ channels, ClC family genes are abundant in prokaryotes, a fortunate cir-
+cumstance for protein expression and structural analysis. When Raimund
+Dutzler joined my laboratory he, Ernest Campbell and I set out to address the
+structural basis of Cl- ion selectivity. We determined crystal structures of two
+bacterial members of the ClC Cl- channel family, one from Escherichia coli
+(EcClC) and another from Salmonella typhimurium (StClC) (Dutzler et al.,
+2002). Recent studies by Miller on the function of EcClC have shown that it is
+actually a Cl- – proton exchanger (Accardi and Miller, 2004). We do not yet
+know why certain members of this family of Cl- transport proteins function as
+channels and others as exchangers, but the crystal structures are fascinating
+and give us a view of Cl- selectivity. Architecturally the ClC proteins are unre-
+lated to K+ channels, but if we focus on the ion pathway certain features are
+similar (figure 11). As we saw in K+ channels, the ClC proteins have -helices
+pointed at the ion pathway, but the direction is reversed with the positive
+
+                                                                                        225
+
+
+Figure 11. The overall architecture of K+ channels and ClC Cl- transport proteins is very dif-
+ferent but certain general features are similar. One similarity shown here is the use of α-he-
+lix end charges directed toward the ion pathway. The negative C-terminal end charge (red)
+points to K+. The positive N-terminal end charge (blue) points to Cl-.
+
+
+
+
+charge of the N-terminus close to Cl-. This makes perfect sense for lowering
+the dielectric barrier for a Cl- ion. In ClC we see that ions in its selectivity fil-
+ter tend to be coordinated by main chain protein atoms, with amide nitrogen
+atoms surrounding Cl- instead of carbonyl oxygen atoms surrounding K+ (fig-
+ure 12). We also see that both the K+ and Cl- selectivity filters contain multiple
+close-spaced binding sites and appear to contain more than one ion, perhaps
+to exploit electrostatic repulsion between ions in the pore. I find these simi-
+larities fascinating. They tell us that certain basic physical principles are im-
+portant, such as the use of α-helix end charges to lower the dielectric barrier
+when ions cross the lipid membrane.
+
+
+TRYING TO SEE A K+ CHANNEL OPEN AND CLOSE
+Most ion channels conduct when called upon by a specific stimulus such as
+the binding of a ligand or a change in membrane voltage (Hille, 2001). The
+processes by which ion conduction is turned on are called gating. The con-
+duction of ions occurs on a time scale that is far too rapid to involve very large
+protein conformational changes. That is undoubtedly one of the reasons why
+a single KcsA structure could tell us so much about ion selectivity and con-
+
+226
+
+
+Figure 12. K+ and Cl- selectivity filters make use of main chain atoms to coordinate ions: car-
+bonyl oxygen atoms for K+ ions (green spheres) and amide nitrogen atoms for Cl- ions (red
+spheres). Both filters contain multiple close-spaced ion binding sites. The Cl- selectivity fil-
+ter is that of a mutant ClC in which a glutamate amino acid was changed to glutamine
+(Dutzler et al., 2003).
+
+
+
+
+duction. Gating on the other hand occurs on a much slower time scale and
+can involve large protein conformational changes. The challenge for a struc-
+tural description of gating is to capture a channel in both opened (on) and
+closed (off) conformations so that they can be compared.
+   In the KcsA K+ channel gating is controlled by intracellular pH and lipid
+membrane composition, but unfortunately the KcsA channel’s open proba-
+bility reaches a maximum value of only a few percent in functional assays
+(Cuello et al., 1998; Heginbotham et al., 1998). At first we had no definitive
+way to know whether a gate was open or closed in the crystal structures. In
+the 1970s Armstrong had proposed the existence of a gate near the intracel-
+lular side of the membrane in voltage dependent K+ channels because he
+could ‘trap’ large organic cations inside the pore between a selectivity filter
+near the extracellular side and a gate near the intracellular side (Armstrong,
+1971; Armstrong, 1974). Following these ideas we crystallized KcsA with a
+heavy atom version of one of his organic cations, tetrabutyl antimony (TBA),
+and found that it binds inside the central cavity of KcsA (Zhou et al., 2001a).
+This was very interesting because the ~10 Å diameter of TBA far exceeds the
+pore diameter leading up to the cavity: in KcsA the intracellular pore entry-
+way is constricted to about 3.5 Å by the inner helix bundle (figure 5B). Seeing
+TBA ‘trapped’ in the cavity behind the inner helix bundle evoked Arm-
+strong’s classical view of K+ channel gating, and implied that the inner helix
+bundle serves as a gate and is closed in KcsA. Mutational and spectroscopic
+studies in other laboratories also pointed to the inner helix bundle as a pos-
+sible gate-forming structural element (Perozo et al., 1999; del Camino et al.,
+2000).
+   Youxing Jiang and I hoped we could learn more about K+ channel gating
+by determining the structures of new K+ channels. From gene sequence
+analysis we noticed that many prokaryotic K+ channels contain a large C-ter-
+
+                                                                                           227
+
+
+Figure 13. The MthK K+ channel contains an intracellular gating ring (bottom) attached to
+its ion conduction pore (top). Ca2+ ions (yellow spheres) are bound to the gating ring in
+clefts in between domains. The connections between the gating ring and the pore, which
+were poorly ordered in the crystal, are shown as dashed lines.
+
+
+
+
+minus that encodes what we called RCK domains and we suspected that these
+domains control pore opening, perhaps through binding of an ion or a small-
+molecule. Initally we determined the structure of isolated RCK domains from
+an Escherichia coli K+ channel, but by themselves they were not very informa-
+tive beyond hinting that a similar structure exists on the C-terminus of eu-
+karyotic Ca2+-dependent ‘BK’ channels (Jiang et al., 2001). We subsequently
+determined the crystal structure of MthK, complete K+ channel containing
+RCK domains, from Methanobacterium thermoautotrophicus (figure 13) (Jiang et
+al., 2002a). This structure was extremely informative. The RCK domains form
+a ‘gating ring’ on the intracellular side of the pore. In clefts between domains
+we could see what appeared to be divalent cation binding sites, and the crys-
+tals had been grown in the presence of Ca2+. In functional assays we discov-
+ered that the open probability of the MthK channel increased as Ca2+ or Mg2+
+concentration was raised, giving us good reason to believe that the crystal
+structure should represent the open conformation of a K+ channel.
+   In our MthK structure the inner helix bundle is opened like the aperture of
+a camera (figure 14) (Jiang et al., 2002b). As a result, the pathway leading up
+to the selectivity filter from the intracellular side is about 10 Å wide, explaining
+how Armstrong’s large organic cations can enter the cavity to block a K+ chan-
+nel, and how K+ ions gain free access to the selectivity filter through aqueous
+diffusion. By comparing the KcsA and MthK channel structures it seemed that
+we were looking at examples of closed and opened K+ channels, and could
+easily imagine the pore undergoing a conformational change from closed to
+open. To open, the inner helices would have to bend at a point halfway across
+
+228
+
+
+Figure 14. KcsA and MthK represent closed and opened K+ channels. Three subunits of the
+closed KcsA K+ channel (left) and opened MthK K+ channel (right) are shown. The inner
+helices of MthK are bent at a glycine gating hinge (red), allowing the inner helix bundle to
+open. Partial amino acid sequences from a variety of K+ channels with different gating do-
+mains are compared. Colors highlighting the selectivity filter sequence (gold) and inner
+helix glycine hinge (red) match colors used in the structures. Adapted from (Jiang et al.,
+2002b).
+
+
+
+
+the membrane as their C-terminus is displaced laterally away from the pore ax-
+is by conformational changes in the gating ring. A glycine amino acid facili-
+tates the bending in MthK by introducing a hinge point in the middle of the
+inner helix. Like MthK, KcsA and many other K+ channels contain a glycine at
+the very same location; its conservation suggests that the inner helices move in
+a somewhat similar manner in many different K+ channels (figure 14).
+   Gating domains convert a stimulus into pore opening. Further studies are
+needed to understand how the free energy of Ca2+ binding is converted into
+pore opening in the MthK channel. And the mechanistic details of ligand gat-
+ing will vary from one channel type to the next because nature is very modular
+with ion channels, just like with other proteins. Gene sequences show us that a
+multitude of different domains can be found attached to the inner helices of
+different K+ channels, allowing ions such as Ca2+ or Na+, small organic mole-
+cules, and even regulatory proteins to control the conformational state of the
+pore and so gate the ion channel (http://www.ncbi.nlm.nih.gov/BLAST/)
+(Atkinson et al., 1991; Schumacher et al., 2001; Yuan et al., 2003; Kubo et al.,
+1993).
+   A fundamentally different kind of gating domain allows certain K+, Na+,
+Ca2+ and nonselective cation channels to open in response to membrane volt-
+
+                                                                                       229
+
+
+Figure 15. Crystal structure of the KvAP K+ channel in complex with monoclonal antibody
+Fab fragments. The channel is viewed along the pore axis from the intracellular side of the
+membrane, with α-helical subunits colored in blue, yellow, cyan, and red. One Fab frag-
+ment (green) is bound to the helix-turn-helix element of the voltage sensor on each sub-
+unit. From (Jiang et al., 2003a).
+
+
+
+
+age changes. Referred to as voltage sensors, these domains are connected to
+the outer helices of the pore and form a structural unit within the mem-
+brane. The basic principle of operation for a voltage sensor is the movement
+of protein charges through the membrane electric field coupled to pore
+opening (Armstrong and Bezanilla, 1974; Sigworth, 1994; Bezanilla, 2000).
+Like transistors in an electronic device, voltage-dependent channels are elec-
+trical switches. They are a serious challenge for crystallographic analysis be-
+cause of their conformational flexibility. Youxing Jiang and I working with
+Alice Lee and Jiayun Chen solved the structure of a voltage-dependent K+
+channel, KvAP, from the thermophilic Archea Aeropyrum pernix (Ruta et al.,
+2003; Jiang et al., 2003a) (figure 15). In the crystal of KvAP the voltage sen-
+sors, held by monoclonal Fab fragments, adopted a non-native conformation.
+This observation in itself is meaningful as it underscores the intrinsic flexibil-
+ity of voltage sensors: in contrast Fab fragments had little effect on the more
+rigid KcsA K+ channel and ClC Cl- channel homolog, both of which we deter-
+mined in the presence and absence of Fab fragments (Doyle et al., 1998; Zhou
+et al., 2001b; Dutzler et al., 2002; Dutzler et al., 2003). KvAP’s voltage sensors
+contain a hydrophobic helix-turn-helix element with arginine residues beside
+the pore (Jiang et al., 2003a), and functional experiments using tethered bi-
+
+230
+
+
+otin and avidin show that this element moves relative to the plane of the
+membrane (Jiang et al., 2003b). Additional structures revealing different
+channel conformations will be needed to better understand the mechanistic
+details of voltage-dependent gating. But the KvAP structure and associated
+functional studies have provided a conceptual model for voltage-dependent
+gating – one in which the voltage sensors move at the protein-lipid interface
+in response to a balance between hydrophobic and electrostatic forces. Rees
+and colleagues at the California Institute of Technology determined the
+structure of a voltage regulated mechanosensitive channel called MscS, and
+although it is unrelated to traditional voltage-dependent channels, it too con-
+tains hydrophobic helix-turn-helix elements with arginine residues apparent-
+ly against the lipid membrane (Bass et al., 2002). MscS and KvAP are fascinat-
+ing membrane protein structures. They do not fit into the standard category
+of membrane proteins with rigid hydrophobic walls against the lipid mem-
+brane core. I find such proteins intriguing.
+   We are only just beginning to understand the structural principles of ion
+channel gating and regulation. Electrophysiological studies have uncovered a
+multitude of connections between cellular biochemical pathways and ion
+channel function (Hille, 2001). New protein structures are now beginning to
+do the same. Beta subunits of certain eukaryotic voltage-dependent channels
+are structurally related to oxido-reductase enzymes (Gulbis et al., 1999; Gulbis
+et al., 2000). PAS domains on other K+ channels belong to a family of sensory
+molecules (Morais Cabral et al., 1998), and a specialized structure on G pro-
+tein-gated channels forms a binding site for regulatory G protein subunits
+(Nishida and MacKinnon, 2002). The interconnectedness of ion channel
+function with many aspects of cell function is beginning to reveal itself as
+complex and fascinating.
+
+
+CONCLUDING REMARKS
+I think the most exciting time in ion channel studies is just beginning. So
+many of the important questions are waiting to be answered and we have the
+tools in hand to answer them. I am very optimistic about the future, and for
+the great possibilities awaiting young scientists who are now setting out to
+study ion channels and other membrane proteins. I consider myself very for-
+tunate to have contributed to some small part of the knowledge we have to-
+day. Of course, my contributions would never have been possible without the
+efforts and enthusiasm of the young scientists who have come from around
+the world to study ion channels with me (figure 16). I also owe thanks to the
+Rockefeller University, the Howard Hughes Medical Institute, and the
+National Institutes of Health for supporting my scientific research.
+
+
+
+
+                                                                            231
+
+
+                        MACKINNON LABORATORY: 1989–2003
+
+Postdoctoral              Students                   Staff Scientists      Collaborators
+
+Laura Escobar          Lise Heginbotham              Tatiana Abramson      Gary Yellen
+Zhe Lu                 Michael Root                  John Lewis            Maria Garcia
+Adrian Gross           Patricia Hidalgo              Alice Lee MacKinnon   Gerhard Wagner
+Kenton Swartz          Sanjay Aggarwal               Sabine Mann           Andrzej Krezel
+Chul-Seung Park        James Morrell                 Richard Pfuetzner     Brian Chait
+Rama Ranganathan       Alexander Pico                Anling Kuo            Steve Cohen
+Chinfei Chen           Vanessa Ruta                  Minhui Long           Martine Cadene
+Declan Doyle           Ian Berke                     Amelia Kaufman        Benoit Roux
+John Imredy                                          Ernest Campbell       Tom Muir
+João Morais Cabral                                   Jiayun Chen
+Youxing Jiang
+Jacqueline Gulbis
+Raimund Dutzler
+Francis Valiyaveetil
+Xiao-Dan Pfenninger-Li
+Ming Zhou
+Ofer Yifrach
+Yufeng Zhou
+Sebastien Poget
+Motohiko Nishida
+Uta-Maria Ohndorf
+Steve Lockless
+Qiu-Xing Jiang
+Seok-Yong Lee
+Stephen Long
+
+Thanks to Rockefeller University, HHMI, NIH, to the synchrotrons CHESS, NSLS, ALS,
+APS and ESRF and to my assistant Wendell Chin.
+
+Figure 16. MacKinnon laboratory from 1989 to 2003.
+
+
+
+
+232
+
+
+REFERENCE LIST
+Accardi, A. and Miller, C. (2004) Proton-coupled chloride transport mediated by ClC-ec1,
+   a bacterial homologue of the ClC chloride channels. Biophys.J. 86[1], 286a.
+Armstrong, C. M. (1971). Interaction of tetraethylammonium ion derivatives with the
+   potassium channels of giant axons. J. Gen. Physiol. 58, 413–437.
+Armstrong, C. M. (1981). Sodium channels and gating currents. Physiol. Rev. 61, 645–683.
+Armstrong, C. M. and Bezanilla,F. (1974). Charge movement associated with the opening
+   and closing of the activation gates of the Na+ channels. J. Gen. Physiol. 63, 533–552.
+Armstrong, C. M., Bezanilla, F., and Rojas, E. (1973). Destruction of sodium conductance
+   inactivation in squid axons perfused with pronase. J. Gen. Physiol. 62, 375–391.
+Armstrong, C. M. and Hille, B. (1972). The inner quaternary ammonium ion receptor in
+   potassium channels of the node of Ranvier. J. Gen. Physiol. 59, 388–400.
+Armstrong, C. M. (1974). Ionic pores, gates, and gating currents. Q. Rev. Biophys. 7,
+   179–210.
+Armstrong, C. M. and Bezanilla, F. (1977). Inactivation of the sodium channel. II. Gating
+   current experiments. J. Gen. Physiol 70, 567–590.
+Atkinson, N. S., Robertson, G. A., and Ganetzky, B. (1991). A component of calcium-acti-
+   vated potassium channels encoded by the Drosophila slo locus. Science 253, 551–555.
+Bass, R. B., Strop, P., Barclay, M., and Rees, D. C. (2002). Crystal structure of Escherichia coli
+   MscS, a voltage-modulated and mechanosensitive channel. Science 298, 1582–1587.
+Bezanilla, F. (2000). The voltage sensor in voltage-dependent ion channels. Physiol Rev. 80,
+   555–592.
+Cuello, L. G., Romero, J. G., Cortes, D .M., and Perozo, E. (1998). pH-dependent gating in
+   the Streptomyces lividans K+ channel. Biochemistry 37, 3229–3236.
+del Camino, D., Holmgren, M., Liu, Y., and Yellen, G. (2000). Blocker protection in the
+   pore of a voltage-gated K+ channel and its structural implications. Nature 403, 321–325.
+Dobler,v. M., Dunitz, J. D., and Kilbourn, B. T. (1969). Die struktur des KNCS-Komplexes
+   von nonactin. Helvetica Chimica Acta 52, 2573–2583.
+Doyle, D. A., Morais Cabral, J. H., Pfuetzner, R. A., Kuo, A., Gulbis, J. M., Cohen, S. L.,
+   Chait, B. T., and MacKinnon,R. (1998). The structure of the potassium channel: molec-
+   ular basis of K+ conduction and selectivity. Science 280, 69–77.
+Dunitz, J. D. and Dobler, M. (1977). Structural studies of ionophores and their ion-com-
+   plexes. In Biological aspects of inorganic chemistry, A. W. Addison, W. R. Cullen, D.
+   Dolphin, and B. R. James, eds. John Wiley & Sons, Inc.), pp. 113–140.
+Dutzler, R., Campbell, E. B., Cadene, M., Chait, B. T., and MacKinnon,R. (2002). X-ray
+   structure of a ClC chloride channel at 3.0 Å reveals the molecular basis of anion selec-
+   tivity. Nature 415, 287–294.
+Dutzler, R., Campbell, E. B., and MacKinnon, R. (2003). Gating the selectivity filter in ClC
+   chloride channels. Science 300, 108–112.
+Garcia, M. L., Garcia-Calvo, M., Hidalgo, P., Lee, A., and MacKinnon, R. (1994).
+   Purification and charaterization of three inhibitors of voltage-dependent K+ channels
+   from Leiurus quinquestriatus var. hebraeus venom. Biochemistry 33, 6834–6839.
+Gulbis, J. M., Mann, S., and MacKinnon, R. (1999). Structure of a voltage-dependent K+
+   channel beta subunit. Cell 97, 943–952.
+Gulbis, J. M., Zhou, M., Mann, S., and MacKinnon, R. (2000). Structure of the cytoplasmic
+    subunit-T1 assembly of voltage-dependent K+ channels. Science 289, 123–127.
+Heginbotham, L., Abramson, T., and MacKinnon, R. (1992). A functional connection be-
+   tween the pores of distantly related ion channels as revealed by mutant K+ channels.
+   Science 258, 1152–1155.
+Heginbotham, L., Lu, Z., Abramson, T., and MacKinnon, R. (1994). Mutations in the K+
+   channel signature sequence. Biophys. J. 66, 1061–1067.
+Heginbotham, L., Kolmakova-Partensky, L., and Miller, C. (1998). Functional reconstitu-
+   tion of a prokaryotic K+ channel. J. Gen. Physiol. 111, 741–749.
+
+
+
+                                                                                             233
+
+
+Hidalgo, P. and MacKinnon, R. (1995). Revealing the architecture of a K+ channel pore
+   through mutant cycles with a peptide inhibitor. Science 268, 307–310.
+Hille, B. (1970). Ionic channels in nerve membranes. Prog. Biophys. Mol. Biol. 21, 1–32.
+Hille, B. (1973). Potassium channels in myelinated nerve. Selective permeability to small
+   cations. J. Gen. Physiol. 61, 669–686.
+Hille, B. (2001). Ion Channels of Excitable Membranes. (Sunderland, MA: Sinauer
+   Associates, Inc.).
+Hille, B. (1971). The permeability of the sodium channel to organic cations in myelinated
+   nerve. J. Gen. Physiol. 58, 599–619.
+Hodgkin, A. L. and Huxley, A. F. (1952a). A quantitative description of membrane current
+   and its application to conduction and excitation in nerve. J. Physiol. 117, 500–544.
+Hodgkin, A. L. and Huxley, A. F. (1952b). Currents carried by sodium and potassium ions
+   through the membrane of the giant axon of Loligo. J. Physiol. 116, 449–472.
+Hodgkin, A. L. and Huxley, A. F. (1952c). The components of membrane conductance in
+   the giant axon of Loligo. J. Physiol. 116, 473–496.
+Hodgkin, A. L. and Huxley, A. F. (1952d). The dual effect of membrane potential on sodi-
+   um conductance in the giant axon of Loligo. J. Physiol. 116, 497–506.
+Hodgkin, A. L. and Keynes, R. D. (1955). The potassium permeability of a giant nerve fi-
+   bre. J. Physiol. (Lond) 128, 61–88.
+Jencks, W. P. (1987). Catalysis in Chemistry and Enzymology. (Dover Publications, Inc.).
+Jentsch, T. J., Friedrich, T., Schriever, A., and Yamada, H. (1999). The CLC chloride chan-
+   nel family. Pflugers Arch. 437, 783–795.
+Jiang, Y., Lee, A., Chen, J., Ruta, V., Cadene, M., Chait, B., and MacKinnon, R. (2003a). X-
+   ray structure of a voltage-dependent K+ channel. Nature 423, 33–41.
+Jiang, Y., Ruta, V., Chen, J., Lee, A., and MacKinnon, R. (2003b). The principle of gating
+   charge movement in a voltage-dependent K+ channel. Nature 423, 42–48.
+Jiang, Y., Lee, A., Chen, J., Cadene, M., Chait, B. T., and MacKinnon, R. (2002a). Crystal
+   structure and mechanism of a calcium-gated potassium channel. Nature 417, 515–522.
+Jiang, Y., Lee, A., Chen, J., Cadene, M., Chait, B. T., and MacKinnon, R. (2002b). The open
+   pore conformation of potassium channels. Nature 417, 523–526.
+Jiang, Y., Pico, A., Cadene, M., Chait, B. T., and MacKinnon, R. (2001). Structure of the
+   RCK domain from the E. coli K+ channel and demonstration of its presence in the hu-
+   man BK channel. Neuron 29, 593–601.
+Kamb, A., Iverson, L. E., and Tanouye, M. A. (1987). Molecular characterization of Shaker,
+   a Drosophila gene that encodes a potassium channel. Cell 50, 405–413.
+Kubo, Y., Reuveny, E., Slesinger, P. A., Jan, Y. N., and Jan, L. Y. (1993). Primary structure
+   and functional expression of a rat G-protein-coupled muscarinic potassium channel.
+   Nature 364, 802–806.
+MacKinnon, R. (1991). Determination of the subunit stoichiometry of a voltage-activated
+   potassium channel. Nature 350, 232–235.
+MacKinnon, R. (1995). Pore loops: an emerging theme in ion channel structure. Neuron
+   14, 889–892.
+MacKinnon, R., Cohen, S. L., Kuo, A., Lee, A., and Chait, B. T. (1998). Structural conser-
+   vation in prokaryotic and eukaryotic potassium channels. Science 280, 106–109.
+MacKinnon, R. and Miller, C. (1988). Mechanism of charybdotoxin block of the high-con-
+   ductance, Ca2+-activated K+ channel. J. Gen. Physiol. 91, 335–349.
+MacKinnon, R. and Miller, C. (1989). Mutant potassium channels with altered binding of
+   charybdotoxin, a pore-blocking peptide inhibitor. Science 245, 1382–1385.
+MacKinnon, R., Reinhart, P. H., and White, M. M. (1988). Charybdotoxin block of Shaker
+   K+ channels suggests that different types of K+ channels share common structural fea-
+   tures. Neuron 1, 997–1001.
+MacKinnon, R. and Yellen G. (1990). Mutations affecting TEA blockade and ion perme-
+   ation in voltage-activated K+ channels. Science 250, 276–279.
+
+
+
+
+234
+
+
+Maduke, M., Miller, C., and Mindell, J. A. (2000). A decade of CLC chloride channels:
+   structure, mechanism, and many unsettled questions. Annu. Rev. Biophys. Biomol.
+   Struct. 29, 411–438.
+Milkman, R. (1994). An Escherichia coli homologue of eukaryotic potassium channel pro-
+   teins. Proc. Natl. Acad. Sci. 91[9], 3510–3514.
+Morais-Cabral, J. H., Zhou, Y., and MacKinnon, R. (2001). Energetic optimization of ion
+   conduction rate by the K+ selectivity filter. Nature 414, 37–42.
+Morais-Cabral, J. H., Lee, A., Cohen, S. L., Chait, B. T., Li, M., and MacKinnon, R. (1998).
+   Crystal structure and functional analysis of the HERG potassium channel N-terminus: a
+   eukaryotic PAS domain. Cell 95, 649–655.
+Neher, E. and Sakmann, B. (1976). Single-channel currents recorded from membrane of
+   denervated frog muscle fibres. Nature 260, 799–802.
+Nishida, M. and MacKinnon, R. (2002). Structural basis of inward rectification:
+   Cytoplasmic pore of the G protein-gated inward rectifier GIRKI at 1.8 Å resolution. Cell
+   III, 957–965.
+Perozo, E., Cortes, D. M., and Cuello, L. G. (1999). Structural rearrangements underlying
+   K+-channel activation gating. Science 285, 73–78.
+Pongs, O., Kecskemethy, N., Muller, R., Krah-Jentgens, I., Baumann, A., Kiltz, H. H., Canal,
+   I., Llamazares, S., and Ferrus, A. (1988). Shaker encodes a family of putative potassium
+   channel proteins in the nervous system of Drosophila. EMBO J. 7, 1087–1096.
+Ranganathan, R., Lewis, J. H., and MacKinnon, R. (1996). Spatial localization of the K+
+   channel selectivity filter by mutant cycle-based structure analysis. Neuron 16, 131–139.
+Roux, B. and MacKinnon, R. (1999). The cavity and pore helices in the KcsA K+ channel:
+   electrostatic stabilization of monovalent cations. Science 285, 100–102.
+Ruta, V., Jiang, Y., Lee, A., Chen, J., and MacKinnon, R. (2003). Functional analysis of an
+   archeabacterial voltage-dependent K+ channel. Nature 422, 180–185.
+Schrempf, H., Schmidt, O., Kummerlen, R., Hinnah, S., Muller, D., Betzler, M., Steinkamp,
+   T., and Wagner, R. (1995). A prokaryotic potassium ion channel with two predicted
+   transmembrane segments from Streptomyces lividans. EMBO J. 14, 5170–5178.
+Schumacher, M. A., Rivard, A. F., Bachinger, H. P., and Adelman, J. P. (2001). Structure of
+   the gating domain of a Ca2+-activated K+ channel complex with Ca2+/calmodulin.
+   Nature 410, 1120–1124.
+Sigworth, F. J. (1994). Voltage gating of ion channels. Q. Rev. Biophys. 27, 1–40.
+Tempel, B. L., Papazian, D. M., Schwarz, T. L., Jan, Y. N., and Jan, L. Y. (1987). Sequence of
+   a probable potassium channel component encoded at Shaker locus of Drosophila.
+   Science 237, 770–775.
+Yellen, G. Jurman, M. E., Abramson, T., and MacKinnon, R. (1991). Mutations affecting in-
+   ternal TEA blockade identify the probable pore-forming region of a K+ channel. Science
+   251, 939–942.
+Yuan, A., Santi, C. M., Wei, A., Wang, Z. W., Pollak, K., Nonet, M., Kaczmarek, L., Crowder,
+   C. M., and Salkoff, L. (2003). The sodium-activated potassium channel is encoded by a
+   member of the Slo gene family. Neuron 37, 765–773.
+Zhou, M. and MacKinnon, R. (2004). A mutant KcsA K+ channel with altered conduction
+   properties and selectivity filter ion distribution. J.Mol.Biol. 338, 839–846.
+Zhou, M., Morais-Cabral, J. H., Mann, S., and MacKinnon, R. (2001a). Potassium channel
+   receptor site for the inactivation gate and quaternary amine inhibitors. Nature 411,
+   657–661.
+Zhou, Y. and MacKinnon, R. (2003). The occupancy of ions in the K+ selectivity filter:
+   Charge balance and coupling of ion binding to a protein conformational change un-
+   derlie high conduction rates. J. Mol. Biol. 333, 965–975.
+Zhou, Y., Morais-Cabral, J. H., Kaufman, A., and MacKinnon, R. (2001b). Chemistry of ion
+   coordination and hydration revealed by a K+ channel- Fab complex at 2.0 Å resolution.
+   Nature 414, 43–48.
+
+
+
+
+                                                                                         235
+

@@ -1,0 +1,359 @@
+THE DISCOVERY OF TUNNELLING
+SUPERCURRENTS
+Nobel Lecture, December 12, 1973
+
+by
+B RIAN D. J O S E P H S O N
+
+Cavendish Laboratory, Cambridge, England
+
+
+
+The events leading to the discovery of tunnelling supercurrents took place
+while I was working as a research student at the Royal Society Mond Labo-
+ratory, Cambridge, under the supervision of Professor Brian Pippard. During
+my second year as a research student, in 1961-2, we were fortunate to have
+as a visitor to the laboratory Professor Phil Anderson, who has made numerous
+contributions to the subject of tunnelling supercurrents, including a number
+of unpublished results derived independently of myself. His lecture course in
+Cambridge introduced the new concept of ‘broken symmetry’ in supercon-
+ductors, (1) which was already inherent in his 1958 pseudospin formulation
+of superconductivity theory, (2) which I shall now describe.
+   As discussed by Cooper in his Nobel lecture last year (3) according to the
+Bardeen-Cooper-Schrieffer theory there is a strong positive correlation in a
+superconductor between the occupation of two electron states of equal and
+opposite momentum and spin. Anderson showed that in the idealized case
+where the correlation is perfect the system can be represented by a set of inter-
+acting ‘pseudospins’, with one pseudospin for each pair of electron states.
+The situation in which both states are unoccupied is represented by a pseudo-
+spin in the positive z direction, while occupation of both states is represented
+by a pseudospin in the negative z direction; other pseudospin orientations
+correspond to a superposition of the two possibilities.
+   The effective Hamiltonian for the system is given by
+
+
+
+
+the first term being the kinetic energy and the second term the interaction
+energy. In this equation          and     are the three components of the kth
+               is the single-particle kinetic energy, µ the chemical potential
+and       the matrix element for the scattering of a pair of electrons of equal
+and opposite momentum and spin. The kth pseudospin sees an effective field
+
+
+
+
+where is a unit vector in the z direction and       indicates the component of
+the pseudospin in the xy plane.
+  One possible configuration of pseudospins consistent with (2) is shown in
+Fig. 1 (a). All the pseudospins lie in the positive or negative z direction, and
+
+
+                                                                    2
+
+
+
+
+Fig. 1. Pseudospin configurations in (a) a normal metal (b) a superconductor. k   F   is
+the Fermi momentum.
+
+
+
+
+the direction reverses as one goes through the Fermi surface, since
+changes sign there. If the interaction is attractive, however (corresponding to
+negative          a configuration of lower energy exists, in which the pseudo-
+spins are tilted out of the z direction into a plane containing the z axis,
+and the pseudospin direction changes continuously as one goes through the
+Fermi surface, as in Fig. 1 (b) .
+   The ground state of Fig. 1 (b) breaks the symmetry of the pseudospin
+Hamiltonian (1) with respect to rotation about the z axis, which is itself a con-
+sequence of conservation of number of electrons in the original Hamiltonian.
+Because of this symmetry a degenerate set of ground states exists, in which the
+pseudospins can lie in any plane through the z axis. The angle Φ which this
+plane makes with the Oxz plane will play an important role in what follows.
+Anderson made the observation that with a suitable interpretation of the
+Gor'kov theory, (4) Φ is also the phase of the complex quantity F which
+occurs in that theory.
+   I was fascinated by the idea of broken symmetry, and wondered whether
+there could be any way of observing it experimentally. The existence of the
+original symmetry implies that the absolute phase angle Φ would be unobserv-
+able, but the possibility of observing phase differences between the F functions
+in two separate superconductors was not ruled out. However, consideration of
+the number-phase uncertainty relation suggested that the phase difference
+could be observed only if the two superconductors were able to exchange elec-
+trons. When I learnt of observations suggesting that a supercurrent could flow
+through a sufficiently thin normal region between two superconductors (5, 6),
+I realized that such a supercurrent should be a function of        I could see in
+principle how to calculate the supercurrent, but considered the calculation to
+be too difficult to be worth attempting.
+   I then learnt of the tunnelling experiments of Giaever, (7) described in the
+
+
+preceding lecture (8). Pippard (9) ha d considered the possibility that a Coo-
+per pair could tunnel through an insulating barrier such as that which
+Giaever used, but argued that the probability of two electrons tunnelling si-
+multaneously would be very small, so that any effects might be unobservable.
+This plausible argument is now known not to be valid. However, in view of it
+I turned my attention to a different possiblity, that the normal currents
+through the barrier might be modified by the phase difference. An argument
+in favour of the existence of such an effect was the fact that matrix elements
+for processes in a superconductor are modified from those for the correspond-
+ing processes in a normal metal by the so-called coherence factors, (3) which
+are in turn dependent on        (through the      and      of the BCS theory).
+At this time there was no theory available to calculate the tunnelling current.
+apart from the heuristic formula of Giaever, (7) which was in agreement
+with experiment but could not be derived from basic theory. I was able.
+however, to make a qualitative prediction concerning the time dependence of
+the current. Gor'kov (4) had noted that the F function in his theory should
+be time-dependent, being proportional to              where µ is the chemical
+potential as before. (10) The phase Φ should thus obey  the relation
+
+
+                                                                             (3)
+
+while in a two-superconductor system the phase difference obeys the relation
+
+
+
+
+where V is the potential difference between the two superconducting regions.
+so that
+
+
+
+
+Since nothing changes physically if        is changed by a multiple of 2π, I was
+led to expect a periodically varying current at a frequency 2eV/h .
+   The problem of how to calculate the barrier current was resolved when one
+day Anderson showed me a preprint he had just received from Chicago, (11) in
+which Cohen, Falicov and Phillips calculated the current flowing in a super-
+conductor-barrier-normal metal system, confirming Giaever’s formula. They
+introduced a new and very simple way to calculate the barrier current-they
+simply used conservation of charge to equate it to the time derivative of the
+amount of charge on one side of the barrier. They evaluated this time deriva-
+tive by perturbation theory, treating the tunnelling of electrons through the
+barrier as a perturbation on a system consisting of two isolated subsystems
+between which tunnelling does not take place.
+   I immediately set to work to extend the calculation to a situation in which
+both sides of the barrier were superconducting. The expression obtained was
+of the form
+
+
+160                              Physics 1973
+
+
+                                                                             (6)
+At finite voltages the linear increase with time of       implies that the only
+contribution to the dc current comes from the first term, which is the same as
+Giaever’s prediction, thus extending the results of Cohen et al. to the two-
+superconductor case. The second term had a form consistent with my expecta-
+tions of a      dependence of the current due to tunnelling of quasi-particles.
+The third term, however, was completely unexpected, as the coefficient      (V),
+unlike IO (V) , was an even function of V and would not be expected to vanish
+when V was put equal to zero. The        dependent current at zero voltage had
+the obvious interpretation of a supercurrent, but in view of the qualitative
+argument mentioned earlier I had not expected a contribution to appear to
+the same order of magnitude as the quasiparticle current, and it was some
+days before I was able to convince myself that I had not made an error in
+the calculation.
+   Since sin        can take any value from      to + 1, the theory predicted
+a value of the critical supercurrent of I 1(0). At a finite voltage V an `ac
+supercurrent’ of amplitude
+
+
+
+
+and frequency 2eV/h was expected. As mentioned earlier, the only contribu-
+tion to the dc current in this situation (V ≠ 0) comes from the IO (V) term,
+so that a two-section current-voltage relation of the form indicated in Fig. 2
+is expected.
+   I next considered the effect of superimposing an oscillatory voltage at fre-
+quency v on to a steady voltage V. By assuming the effect of the oscillatory
+voltage to be to modulate the frequency of the ac supercurrent 1 concluded
+that constant-voltage steps would appear at voltages V for which the frequency
+of the unmodulated ac supercurrent was an integral multiple of V , i.e. when
+V = nhv/2e for some integer n.
+   The embarrassing feature of the theory at this point was that the effects
+predicted were too large! The magnitude of the predicted supercurrent was
+proportional to the normal state conductivity of the barrier, and of the same
+order of magnitude as the jump in current occurring as the voltage passes
+through that at which production of pairs of quasi-particles becomes possible.
+Examination of the literature showed that possibly dc supercurrents of this
+magnitude had been observed, for example in the first published observation
+of tunnelling between two evaporated-film superconductors by Nicol, Shapiro
+and Smith (12) (fig. 3). Giaever (13) had made a similar observation, but
+ascribed the supercurrents seen to conduction through metallic shorts through
+the barrier layer. As supercurrents were not always seen, it seemed that the
+explanation in terms of shorts might be the correct one, and the whole theory
+might have been of mathematical interest only (as was indeed suggested in
+the literature soon after).
+
+
+                                                                                        161
+
+
+
+
+                                       : Current
+
+
+
+
+Fig. 2. Predicted two-part current-voltage characteristic of a superconducting tunnel
+junction.
+
+
+
+   Then a few days later Phil Anderson walked in with an explanation for the
+missing supercurrents, which was sufficiently convincing for me to decide to
+go ahead and publish my calculation, (14) although it turned out later not to
+have been the correct explanation. He pointed out that my relation between
+the critical supercurrent and the normal state resistivity depended on the
+assumption of time-reversal symmetry, which would be violated if a magnetic
+field were present. I was able to calculate the magnitude of the effect by
+using the Ginzburg-Landau theory to find the effect of the field on the phase
+of the F functions, and concluded that the Earth’s field could have a drastic
+effect on the supercurrents.
+   Brian Pippard then suggested that I should try to observe tunneling super-
+currents myself, by measuring the characteristics of a junction in a compen-
+sated field. The result was negative-a current less than a thousandth of the
+predicted critical current was sufficient to produce a detectable voltage across
+the junction. This experiment was at one time to be written up in a chapter
+of my thesis entitled ‘Two Unsuccessful Experiments in Electron Tunnelling
+between Superconductors’.
+   Eventually Anderson realized that the reason for the non-observation of dc
+supercurrents in some specimens was that electrical noise transmitted down
+the measuring leads to the specimen could be sufficient in high-resistance
+
+
+                                      Physics 1973
+
+
+
+
+Fig. 3. The first published observation of tunnelling between two evaporated-film super-
+conductors (Nicol, Shapiro and Smith, reference 6). A zero-voltage supercurrent is
+clearly visible. It was not until the experiments of Anderson and Rowe11 (reference 15)
+that such supercurrents could be definitely ascribed to the tunnelling process.
+
+
+
+
+specimens to produce a current exceeding the critical current. Together with
+John Rowell he made some low resistance specimens and soon obtained con-
+vincing evidence (15) for the existence of tunnelling supercurrents, shown
+particularly by the sensitivity to magnetic fields, which would not be present
+in the case of conduction through a metallic short. In one specimen they
+found a critical current of 0.30 mA in the Earth’s magnetic field. When the
+field was compensated, the critical current increased by more than a factor of
+two, to 0.65 mA, while a field of 2mT was sufficient to destroy the zero-
+voltage supercurrents completely. Later Rowell (16) investigated the field de-
+pendence of the critical current in detail, and obtained results related to the
+diffraction pattern of a single slit, a connection first suggested by J. C. Phillips
+ (unpublished). This work was advanced by Jaklevic, Lambe, Silver and Mer-
+cereau, (17) who connected two junctions in parallel and were able to observe
+the analogue of the Young’s slit interference experiment. The sensitivity of the
+critical current to applied magnetic field can be increased by increasing the
+area enclosed between the two branches of the circuit, and Zimmerman and
+Silver (18) were able to achieve a sensitivity of 10 -13 T .
+   Indirect evidence for the ac supercurrents come soon after. Shapiro (19)
+shone microwaves on to a junction and observed the predicted appearance
+of steps in the current-voltage characteristics. The voltages at which the steps
+occurred changed as the frequency of the microwaves was changed, in the
+manner expected. In 1966, Langenberg, Parker and Taylor (20) measured
+
+
+                                                                           163
+
+
+the ratio of voltage to frequency to 60 parts per million and found agreement
+with the value of h/2e then accepted. Later they increased their accuracy
+sufficiently to be able to discover errors in the previously accepted values
+of the fundamental constants and derive more accurate estimates, (21, 22),
+thus carrying out to fruition an early suggestion of Pippard (unpublished).
+The ac supercurrent is now used to compare voltages in different standards
+laboratories without the necessity for the interchange of banks of standard
+cells. If two laboratories irradiate specimens with radiation of the same fre-
+quency, constant-voltage steps appear at identical voltages. The intercom-
+parison of frequencies can be carried out in a straightforward manner by
+transmission of radio signals.
+   At the end of 1963, the evidence for the existence of the ac supercurrent
+was only indirect. John Adkins and I tried to observe the effect by coupling
+together two junctions by a short ( ~ 0.2 mm.) thin-film transmission line.
+The idea was that radiation emitted by one junction would modify the charac-
+teristics of the other. The experiment, planned to form the second part of the
+thesis chapter referred to above, was unsuccessful, for reasons which are still
+unclear. Later, Giaever (23) was able to observe the ac supercurrent by a sim-
+ilar method to the one we had considered, and then Yanson, Svistunov and
+Dmitrenko (24) succeeded in observing radiation emitted by the ac super-
+current with a conventional detector.
+   Finally, I should like to describe the SLUG, (25) developed in the Royal
+Society Mond Laboratory by John Clarke while he was a research student.
+John was attempting to make a high-sensitivity galvanometer using the pre-
+viously described magnetic interferometers with two junctions connected in
+parallel. One day Paul Wraight, who shared a room with John, observed that
+the fact that one cannot solder niobium using ordinary solder must mean that
+if one allows a molten blob of solder to solidify in contact with niobium there
+must be an intermediate layer of oxide, which might have a suitable thickness
+to act as a tunnelling barrier. This proved to be the case. However, in John’s
+specimens, in which a niobium wire was completely surrounded by a blob of
+solder, the critical current through the barrier proved to be completely insen-
+sitive to externally applied magnetic fields. It was, however, found to be sen-
+sitive to the magnetic field produced by passing a current through the central
+wire. This fact led to the development of a galvanometer with sensitivity
+of 10-14 volts at a time constant of 1 s.
+   There have been many other developments which I have not had time to
+describe here. I should like to conclude by saying how fascinating it has been
+for me to watch over the years the many developments in laboratories over
+the world, which followed from asking one simple question, namely what is
+the physical significance of broken symmetry in superconductors?
+
+
+164                                 Physics 1973
+
+
+R EFERENCES   AND   FOOTNOTES
+
+ 1.  Anderson, P. W., Concepts in Solids, W. A., Benjamin, Inc., New York, 1963.
+ 2. Anderson, P. W. Phys. Rev. 112, 1900 (1958).
+ 3.  Cooper, L. N., Les Prix Nobel en 1972, Nobel Foundation 1973, p. 64.
+ 4. Gor’kov, L. P., J. Exptl. Theoret. Phys. (USSR) 36, 1918 (1959); translation:
+     Soviet Phys. JETP 9, 1364 (1959).
+ 5. Meissner, H. Phys, Rev. 117, 672 (1960).
+ 6. Smith, P. H., Shapiro, S., Miles, J. L. and Nicol, J. Phys. Rev. Letters 6, 686
+     (1961).
+ 7. Giaever, I., Phys. Rev. Letters 5, 464 (1960).
+ 8. Giaever, I., Les Prix Nobel en 1973, Nobel Foundation 1974, p.
+ 9. Pippard, 4. B., Proceedings of the VIIth International Conference on Low Tem-
+     perature Physics, ed. Graham, G. M. and Hollis Hallett, A. C., North-Holland,
+     Amsterdam 1961, p. 320.
+10. Gor’kov’s result may be extended to finite temperatures by the following argument.
+     The density operator of a system in equilibrium has the form Z-1
+     where must contain a small symmetry-breaking term in order to set up an en-
+     semble in which Φ has a definite value. Since this operator commutes with H-µN,
+     all quantities are time-independent if the Hamiltonian of the system is taken to be
+     H-µH. . Transition to a situation where the time dependence is given by the true
+     Hamiltonian H can be accomplished by means of a gauge transformation, and con-
+     sideration of the effect of this transformation on the electron operators gives im-
+     mediately Gor’kovs result
+11. Cohen, M. H., Falicov, L. M. and Phillips, J. C., Phys. Rev. Letters 8, 316 ( 1962).
+12. Nicol, J., Shapiro, S. and Smith, P. H., Phys. Rev. Letters 5, 461 (1960).
+13. Giaever, I., Phys. Rev. Letters 5, 464 ( 1960).
+14. Josephson, B. D., Phys. Letters 1, 251 (1962).
+15. Anderson, P. W. and Rowell, J. M., Phys. Rev. Letters 10, 230 (1963).
+16. Rowell, J. M., Phys. Rev. Letters 11, 200 (1963).
+17. Jaklevic, R. C., Lambe, J., Silver, A. H. and Mercereau, J. E., Phys. Rev. Letters
+     12, 159 (1964).
+18. Zimmerman, J. E., and Silver, A. H., Phys. Rev. 141, 367 (1966).
+19. Shapiro, S. Phys. Rev. Letters 11, 80 (1963).
+20. Langenberg, D. N., Parker, W. H. and Taylor, B. N., Phys. Rev. 150, 186 ( 1966).
+21. Parker, W. H., Taylor, B. N. and Langenberg, D. N., Phys. Rev. Letters 18, 287
+     (1967).
+22. Taylor, B. N., Parker, W. H. and Langenberg, D. N., The Fundamental Constants
+     and Quantum Electrodynamics, Academic Press, New York and London, 1969.
+23. Giaever, I., Phys. Rev. Letters 14, 904 (1965).
+24. Yanson, I. K., Svistunov, V. M. and Dmitrenko, I. M., J. Exptl. Theoret. Phys.
+     (USSR) 21, 650 (1965); translation: Soviet Phys. JETP 48, 976 (1965).
+25. Clarke, J., Phil. Mag. 13, 115 (1966).
+

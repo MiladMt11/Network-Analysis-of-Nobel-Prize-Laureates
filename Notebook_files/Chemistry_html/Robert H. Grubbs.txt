@@ -1,0 +1,656 @@
+OLEFIN METATHESIS CATALYSTS FOR THE
+PREPARATION OF MOLECULES AND MATERIALS
+Nobel Lecture, December 8, 2005
+by
+Robert H. Grubbs
+California Institute of Technology (Caltech), The Division of Chemistry and
+Chemical Engineering, Pasadena, CA, 91125, USA.
+
+
+
+
+This is a story of our exploration of the olefin metathesis reaction, a reaction
+that has been the major emphasis of my independent research. As with all
+stories of scientific discovery, there are three components: the discoveries,
+the resulting applications, and, perhaps the most important of all, the people
+involved. Starting from observations made from seemingly unrelated work,
+our investigations into the fundamental chemistry of this transformation
+have been an exciting journey, with major advances often resulting from
+complete surprises, mistakes, and simple intuition. Ultimately, these efforts
+have contributed to olefin metathesis becoming the indispensable synthetic
+tool that it is today.1
+   Much of modern organometallic and polymer chemistry, as we know it,
+started with a chance observation made in the early 1950’s by reseachers in
+the Ziegler laboratory in Mulheim, Germany.2 During this time, Ziegler was
+continuing work that had been initiated during WW II in exploring the use of
+alkyl aluminum complexes for the oligomerization of ethylene to produce
+lubricating oils. On one occasion, it was noted that this reaction produced 1-
+butene from ethylene instead of the C10–C20 hydrocarbons normally ob-
+served. Subsequent analysis of the reaction autoclave found the presence of
+nickel. When nickel salts were deliberately added to this reaction, 1-butene
+was again observed. This discovery has since served as the foundation for an
+amazing array of nickel chemistry and catalysis. In addition, as nickel had
+been found to possess unexpected reactivity, other metal salts were also invest-
+igated. In particular, when titanium and zirconium halides were used in com-
+bination with alkyl aluminums, a new form of polyethylene was obtained.
+Natta further demonstrated that similar catalysts could promote the forma-
+tion of stereoregular polymers from propylene. The 1963 Nobel Prize in
+Chemistry was awarded to Ziegler and Natta for this work.
+   The application of Ziegler-Natta-type systems toward the polymerization of
+cyclic olefins afforded additional unexpected results. A group at DuPont ob-
+served that the polymerization of norbornene did not produce a saturated
+polymer as expected, but instead afforded an unsaturated polymer in which
+one of the rings had been opened. While surprising, the origin of this unex-
+
+194
+
+
+pected polymeric structure was not to be pursued until later. Natta subse-
+quently observed a similar result when he attempted to polymerize cyclopen-
+tene using tungsten and molybdenum halides – he, too, obtained a ring-
+opened, unsaturated polymer. Finally, Banks and Bailey of Phillips Petroleum
+Co., while investigating the possible polymerization of propylene over cobalt
+molybdate, found instead the formation of ethylene and 2-butene. These
+three observations, seemingly unrelated, were beginning to indicate a funda-
+mentally new olefin transformation.3
+   My involvement with this puzzle started in 1968–69 while I was a postdoc-
+toral fellow at Stanford. Jim Collman, my postdoctoral mentor, had just re-
+turned from a trip to Phillips Petroleum, where he had learned of an amaz-
+ing reaction that converted propylene into ethylene and 2-butene. During a
+group meeting (Barry Sharpless, Nobel Prize 2001 was also a member of the
+Collman group at that time), we began to discuss possible mechanisms for
+this transformation. With my earlier training in mechanistic organic chem-
+istry as an undergraduate and master’s student in the laboratories of Merle
+Battiste, and as a doctoral student with Ron Breslow, I felt this unknown reac-
+tion mechanism would be an ideal problem to study.
+   Around this time, N. Calderon and his group at Goodyear had developed a
+soluble catalyst system that could not only induce polymerization via ring-
+opening, but also convert propylene into ethylene and 2-butene. Calderon’s
+observations established that the polymerization of cyclic olefins observed by
+DuPont and Natta and the scrambling of acyclic olefins observed by Banks
+and Bailey were similar reactions. He also established that the mechanism of
+this reaction involved the cleavage of carbon-carbon double bonds rather
+than a transfer of alkyl groups between olefins via single-bond cleavage. This
+first critical mechanistic observation set the stage for subsequent studies.
+Banks and Bailey went on to propose a “quasicyclobutane” mechanism to ac-
+count for their interchange reaction that was also consistent with Calderon’s
+results. Other mechanisms were also proposed to account for this transforma-
+tion, now termed olefin metathesis. What all these mechanisms had in com-
+mon was the pairwise involvement of carbons in reaction intermediates.
+Theoretical studies of this reaction carried out by Frank Mango at Shell sup-
+ported this pairwise exchange of two-carbon fragments.4
+   My independent career started at Michigan State University in 1969, where
+I proposed an alternative pairwise mechanism and initiated experimental
+work. Shortly thereafter, however, a growing body of evidence against such a
+mechanism began to appear. While investigating the effect of acyclic olefins
+in determining the molecular weight of polypentenamers, Chauvin and
+Hérrison observed products that were not consistent with the diolefin metal
+complexes proposed in the “quasicyclobutane”-type mechanisms. They in-
+stead proposed that the reaction did not go through a diolefin metal com-
+plex, but rather via a one-carbon metal carbene complex and metallocyclobu-
+tanes, intermediates that contain an odd number of carbons. In a similar
+study, Katz proposed an analogous mechanism where he was able to rational-
+ize the observations that Chauvin had found to be inconsistent with his non-
+
+                                                                           195
+
+
+         Scheme 1. RCM of 1,7-octadiene
+
+                CD2                                          Predicted Ratio
+                                                          Chauvin       Pairwise
+                CD2    metathesis              D2C CD2       1             1
+            +           catalyst                  +
+                CH2                            H2C CD2        2                0 -1.6
+                                                  +
+                                               H2C CH2        1                1
+                CH2
+
+ Scheme 1. RCM of 1,7-octadiene.
+
+
+
+ pairwise mechanism. Chuck Casey subsequently went on to find a model for
+ this transformation utilizing preformed metal carbene complexes, and
+ Schrock was able to determine that metal carbene complexes could, in fact,
+ be generated under conditions similar to those used to prepare Ziegler-Natta-
+ type catalysts.5 Incorporating this new information into our mechanistic con-
+ sideration, we designed an experiment that would allow most of the ambigu-
+ ities of the Chauvin experiment to be addressed in detail. Rather than using
+ a cross-metathesis reaction that would require us to analyze the role of alkyl
+ groups on the intermediates, we instead selected to study the simplest system
+ possible: isotopic substitution on a ring-closing metathesis (RCM) reaction.
+    The RCM of 1,7-octadiene generates cyclohexene and ethylene (Scheme
+ 1). Cyclohexene is one of the few simple cyclic olefins that will not undergo
+ subsequent metathesis reactions. Consequently, the fate of the two olefins in
+ 1,7-octadiene can be determined via examination of the metathesis products.
+ If the pairwise mechanisms involving even numbers of carbons were involved,
+ the other two carbons would be required to couple together. In contrast, the
+ Chauvin mechanism would be expected to scramble the two terminal car-
+ bons. A mixture of 1,1,8,8-tetradeutero-1,7-octadiene and 1,7-octadiene was
+ used to investigate this. In the simplest case, the even carbon mechanisms
+ should produce only ethylene and tetradeuteroethylene, while the odd car-
+ bon mechanisms should afford a statistical mixture of ethylene, dideutero-
+ ethylene, and tetradeuteroethylene in a 1:2:1 ratio. Careful analysis of all of
+ our experiments found that a statistical mixture of ethylenes was kinetically
+ formed in this reaction, a result consistent with the prediction made using
+ the Chauvin mechanism. Subsequent studies by Katz on related systems pro-
+ vided additional support for this conclusion.6
+    By determining the key reaction intermediates in olefin metathesis, these
+ combined mechanistic studies now enabled the use of rational design for fur-
+ ther catalyst
+Scheme            optimization.
+        2. Preparation                Prior to this time, metathesis catalysts were pro-
+                       of an isolable metallacycle
+ duced utilizing inconsistent, ill-defined systems. By confirming the non-pair-
+ wise mechanism of Chauvin, the identification of new metal alkylidene
+         Cl                              DMAP            CH2
+     Ti      AlMe2 + CH                               Ti
+                           2=C(CH3)2 capable of promoting    CMe
+ (metal CHcarbene)
+           2
+                        complexes                        CH2  olefin metathesis
+                                                                2 + DMAP-AlMe
+                                                                              2Cl
+                                                                                  now be-
+ came our target for further improving reaction efficiency.
+    Fred1 Tebbe, a coworker of Schrock during2his time at DuPont, developed
+ one of the first well-defined metathesis systems. Now known as the Tebbe
+ reagent, titanium- complex 1, a metal carbene precursor, was found to ex-
+ hibit metathesis activity in addition to its ability to promote Wittig-type
+
+ 196
+
+
+    Scheme 2. Preparation of an isolable metallacycle
+
+
+
+                Cl                          DMAP             CH2
+          Ti       AlMe2 + CH2=C(CH3)2                  Ti       CMe2
+               CH2                                           CH2        + DMAP-AlMe2Cl
+
+
+                1                                            2
+
+Scheme 2. Preparation of an isolable metallacycle.
+
+
+
+reactions on esters. As the Tebbe catalyst was well-defined, both the starting
+and propagating carbene species could now be observed during a metathesis
+reaction, making it an ideal system for mechanistic study. In particular, we
+became interested in investigating the stereochemistry of the intermediate
+metallacycle. Our initial efforts to isolate a metallacycle complex proved
+unsuccessful until Tom Howard was able to serendipitously isolate metalla-
+cycle 2 by employing DMAP, which facilitated aluminum removal (Scheme
+2). Tom was later able to demonstrate this metallacycle to be the low-energy
+state for this catalyst system. In addition, 2 was found to be an active metathesis
+catalyst. This observation provided the first example of a metallacycle inter-
+mediate and demonstrated that metallacycles could function as kinetically
+competent catalysts for olefin metathesis.7
+   Utilizing the well-defined Tebbe system, additional mechanistic and syn-
+thetic studies were carried out. Laura Gilliam found that metathesis conduct-
+ed using this system was inherently “living,” allowing for the preparation of
+polymers with defined structures. Polymer preparation and analysis conse-
+quently became a major focus within my group to further explore these ob-
+servations. It was during this period that Schrock spent a 4-month sabbatical
+at Caltech, where we coauthored a paper demonstrating that one of his tanta-
+lum catalysts could also serve as a living initiator. In fact, it is now well estab-
+lished that virtually all defined metathesis initiators can be used to make poly-
+mer structures via living polymerization.8
+   Subsequent studies in the Schrock laboratory resulted in the design and
+synthesis of a number of very efficient molybdenum and tungsten metathesis
+catalysts, the historical development of which will be discussed in his lecture.
+Despite the activity of Schrock systems, the use of these early-metal catalysts
+had a major limitation: the oxophilicity of the metal center afforded poor
+functional group tolerance and necessitated catalyst preparation and hand-
+ling under an inert atmosphere. To fully exploit the potential of metathesis,
+we believed that the development of new, functional group-tolerant catalysts
+would be crucial. Once again, serendipity would play a role in achieving this
+objective.
+   The development of ruthenium-based metathesis catalysts started with the
+goal of preparing interesting polymeric structures. Polymer chemistry pro-
+vides an excellent means of studying metathesis catalysts: miniscule catalyst
+loadings have the capacity to generate large amounts of polymeric material,
+the structure of which can provide a historical record of catalyst activity. The
+polymer program within my group was focused on understanding the basic
+
+                                                                                     197
+
+
+ Scheme 3. Preparation of the first well-defined ruthenium carbene catalyst
+
+                                                PPh3                                PCy3
+                         Ph                       Cl                 PCy3             Cl
+ RuCl2(PPh3)3 +                                Ru          Ph                      Ru      Ph
+                         Ph               Cl                                  Cl
+                                               PPh3         Ph                     PCy3    Ph
+                                                                Cy = cyclohexyl
+      3                                         4                                   5
+Scheme 3. Preparation of first well-defined ruthenium carbene catalyst.
+
+
+
+principles of living metathesis polymerization. From this knowledge, we
+hoped to develop novel polymers that possessed interesting structures and
+physical properties. During the course of this work, model building had sug-
+gested that the ring-opened polymer from 7-oxo-norbornenes could be used
+to produce ionophoric membranes for selective ion transport. Bruce Novak
+took on the challenge of making these desired polymers. Much to our dis-
+may, however, none of the available catalysts were found to promote this reac-
+tion. Examining the literature, Bruce came upon reports by Michelotti9 and
+later Natta, where late-transition metal catalysts had been used to polymerize
+strained olefins in protic media. Returning to the lab, Bruce was able     Figureto
+                                                                                  1. First-generation
+demonstrate that these systems could also effectively promote the formationcommercial catalyst
+
+poly-7-oxo-norbornenes. More importantly, he went on to discover thatPCy3
+                                                                                       Cl
+ruthenium (II) complexes could serve as much more active polymerizationRu
+                                                                               Cl           Ph
+catalysts. The outcome of Bruce’s investigations resulted in the developmentPCy3
+of a robust catalyst system that tolerated most functional groups and aqueous 6
+media. Despite the activity of these ruthenium salt catalysts, however, only a
+small percentage of the ruthenium added to a reaction was found to produce
+an active catalytic center. In addition, as the structure of the active catalysts
+was totally undefined, it was impossible to make rational changes for further
+improvements.10 However, this work defined the path forward; a ruthenium
+(II) complex and a strained olefin were found to be required to form an ac-
+tive catalyst system.
+   Assuming that olefin metathesis must occur via the formation of metal car-
+benes, we felt that the development of well-defined ruthenium carbene com-
+plexes was vital for further catalyst optimization. It took a few years, but even-
+tually graduate student Son Binh Nguyen was able to prepare air-stable
+carbene complex 4 via the reaction of ruthenium(II) phosphine complex 3
+with cyclopropene (Scheme 3). To our surprise, complex 4 was found to be
+an effective catalyst for the polymerization of norbornenes in protic media.
+Although 4 was not very active, its structure was well-defined, finally provid-
+ing us with a scaffold by which to make structural changes for catalyst opti-
+mization. While many modifications have since been made (e.g. ligand ex-
+change using tricyclohexylphosphine to generate the more active catalyst 5),
+the basic structure of our catalyst systems still resembles that of our original
+“Son Binh Catalyst.” This well-defined family of catalysts is distinguished by its
+amazing tolerance to oxygen and water, making it ideal for application to or-
+ganic synthesis.11
+   In the early 1990’s, Greg Fu joined our group as a postdoctoral scholar
+
+198
+
+
+                      Figure 1. First-generation                  Figure 2. Second-generation
+                      commercial catalyst                         commercial catalyst
+                               PCy3
+                                                                              N       N
+                                  Cl
+                               Ru
+                                                                                      Cl
+                          Cl           Ph                                     Ru
+                               PCy3                                      Cl                Ph
+                                                                                  PCy3
+                               6
+                                                                                  7
+
+         Figure 1. First-generation commercial        Figure 2. Second-generation commercial
+         catalyst.                                    catalyst.
+
+
+
+         from Dave Evan’s group at Harvard and began investigating the activity of
+         various metathesis polymerization catalysts in organic synthesis. Relatively
+         quickly, he was able to demonstrate that the Schrock molybdenum catalysts
+         were effective for a number of important organic transformations, particular-
+         ly those involving ring-closing reactions. Just prior to leaving the group to
+         join the faculty at MIT, he was able to demonstrate that our newly prepared
+         ruthenium systems could perform the same transformations on the bench-
+         top without the use of a glovebox. In addition, many previously unreactive
+         substrates were found to readily undergo ruthenium-catalyzed olefin
+         metathesis in high yields.12
+            In our earlier work with the Tebbe reagent, we had found that its general
+         use had been limited due to its air sensitivity and difficult preparation. In
+         contrast, our user-friendly ruthenium catalysts were in high demand, and ef-
+         forts now had to be made to make them readily available. Unfortunately, the
+         Son Binh synthesis was difficult to run on large scale. Eventually, building off
+         of work performed by Marcia France, Peter Schwab was able to develop a
+         method based on the use of a diazo precursor. Although this reagent is po-
+Scheme 4. Commercial application of RCM
+         tentially explosive, Mike Giardello developed a procedure to tame this
+                  O                                              O
+              O
+         reagent,                                            O
+                 S allowing   Br complex 6 to be commercially   S      made  Br on multikilogram
+         scalesO (Figure 1).O13 With commercial sources,Othe organic        O
+                                                                              synthetic communi-
+         ty found a wide      array  of    [Ru]
+                                        creative uses of olefin metathesis     catalysts in the syn-
+                        H         O                                     H
+                        N                toluene                        N      O
+         thesis of complex structures.
+                N                                              N
+        O O                                              O O
+                     O
+            Ruthenium’s       preference for soft Lewis       bases Oand Lewis-acids, such as
+            N
+      O olefins,                                            N
+                   over hard bases, such as oxygen-based
+                                                       O          ligands, is responsible for its
+         high tolerance to air and water. It also makes ruthenium catalysts fundamen-
+                                                                    kg scale
+         tally different from titanium-, tungsten- and400molybdenum-based                  systems.
+         Consequently, the rules learned in the development of early-metal catalysts
+         no longer applied: for example, as ruthenium possesses a metal center rich in
+         d electrons, strongly electron-donating ligands, rather than electron-poor
+         ones, are required for high catalyst activity. Detailed mechanistic studies to
+         obtain an understanding of the catalyst’s structure/activity profile were there-
+         fore required. During the course of such investigations, we found that five-
+         coordinate complexes, such as 5 and 6, are catalytic precursors. In order to
+         generate the metathesis-active species, one of the neutral ligands must be
+         lost. The remaining neutral ligand of the resulting 14-electron complex
+         is responsible for catalyst turnover. This knowledge was used to rationalize
+         why bulky, basic tricyclohexylphosphine ligands are more effective than
+
+                                                                                                199
+
+
+  Scheme 4. Commercial application of RCM
+
+                        O                                             O
+                   O                                             O
+                       S            Br                               S              Br
+                   O                                             O
+                                    O                                             O
+                                              [Ru]
+                                H        O                                    H
+                                N            toluene                          N          O
+                       N                                             N
+             O O                                           O O
+                            O                                             O
+         O     N                                       O     N
+
+
+                                                                     400 kg scale
+
+Scheme 4. Commercial application of RCM.
+
+
+
+
+triphenylphosphine ligands in the ruthenium-catalyzed metathesis of
+cyclooctene.14
+    Further catalyst tuning via the substitution of one of the phosphine lig-
+ands on 6 with an N-heterocyclic carbene (NHC) ligand resulted in a series of
+highly active catalysts (e.g. catalyst 7; Figure 2). This increase in metathesis ac-
+tivity was attributed to an increased rate of catalyst turnover due to the favor-
+able electron donation and steric bulk of the NHC ligand. Additional modi-
+fication by replacing the phosphine in 7 with a weaker ligand, such as
+pyridine, resulted in an increase in activity up to a factor of 104 relative to
+catalyst 6. 15 A number of other research groups have played a role in further
+optimizing these catalytic systems.
+   One of the most rewarding aspects of my research has been the opportuni-
+ty to study the potential applications of a new catalyst. The facile preparation
+of our ruthenium catalysts, coupled with their functional group tolerance
+and environmental stability, enabled olefin metathesis to finally realize its
+broad potential. Although this reaction was already commercially utilized in
+the processing of hydrocarbons, the application of olefin metathesis in organ-
+ic synthesis and in the preparation of highly functionalized polymers had yet
+to be fully developed.
+   Most commercial products that contain organic molecules possess at least
+one carbon-carbon double bond or, if one is not present, it is likely that an
+olefin was used in its preparation. This being the case, the potential applica-
+tions of olefin metathesis are endless. To date, commercial products range
+from a wooden baseball bat, treated with metathesis-based polymers to im-
+prove durability, to the preparation of highly functionalized pharmaceutical
+agents, many of which are in the advanced stages of testing. For example,
+Boehringer Ingelheim recently reported the use of olefin metathesis for the
+commercial preparation of 400 kg of a compound under investigation to
+treat hepatitis C (Scheme 4).16
+   Some of the earliest commercial applications of olefin metathesis involved
+the ring-opening metathesis polymerization (ROMP) of monomers contain-
+ing strained, unsaturated rings. The polymerization of dicyclopentadiene
+(DCPD) is one of the best-known examples of this (Scheme 5). DCPD is an
+attractive monomer for polymer production, as it is inexpensive, and the re-
+
+200
+
+
+          Scheme 5. ROMP for the preparation of DCPD polymers
+
+
+                           [Ru]
+           n                                      n                n
+                                                      cross-link
+               DCPD                                                m
+
+Scheme 5. ROMP for the preparation of DCPD polymers.
+
+
+
+sulting polymer products are useful for a variety of applications. Hercules and
+Goodrich developed one of the first commercial processes for this reaction,
+where early metal complexes were combined with alkylaluminum to form
+catalysts to produce DCPD polymers via injection molding. Unfortunately,
+the extreme sensitivity of these catalysts toward air and water mandated the
+use of rigorous processing conditions and highly purified monomers.
+   In contrast, the functional and environmental tolerance of the ruthenium
+catalysts enables DCPD polymerization to be carried out in open molds in the
+presence of numerous additives. In addition, DCPD monomers bearing func-
+tional groups for further synthetic elaboration can also be utilized. A wide va-
+riety of products, such as the composite baseball bats discussed previously, as
+well as bathroom fixtures, ballistic panels, and large equipment panels, are
+currently in/or being developed for production utilizing ruthenium-
+catalyzed ROMP.17
+   The ruthenium systems can also be used to prepare polymers with well de-
+fined structures. Like the Tebbe complex, ruthenium olefin metathesis cata-
+lysts can be used for the production of living polymers. In these cases,
+strained olefins are ring open polymerized by the metal center to produce a
+polymer that contains an active ruthenium alkylidene at the end of the poly-
+mer chain. After the first monomer added to the catalyst is consumed, a sec-
+ond monomer can be added and the polymers start to grow again. If the
+monomers contain different functional groups, the different segments of the
+polymer will have different properties and functions. Since the systems are
+living, if all the chains are initiated at the same time, the length of the chain
+and therefore the molecular weight is controlled by statistics and produces a
+very narrow distribution of chain lengths. Consequently, both the functional-
+ity and molecular weight of polymers produced using the ruthenium systems
+can be controlled. Since the ruthenium systems have been demonstrated to
+tolerate many functional groups on other applications, the polymers pre-
+pared using ruthenium initiators can contain many functionalities for use in
+a wide variety of applications. For example, if one of the blocks of the poly-
+mer is water soluble and the other is insoluble, the block polymers will form
+micelles that are nanoparticles that are being explored for applications in
+medical diagnostics. If the two blocks are incompatible, the solids formed
+from the block polymers will have microphase separated structures that are
+important for a number of applications in materials science.
+   Ring-closing metathesis (RCM) and, to a lesser extent, cross metathesis
+(CM) have now become standard transformations in organic synthesis. As
+ruthenium catalysts will tolerate most functional groups, protection-deprotec-
+
+                                                                             201
+
+
+ Scheme 6. Olefin metathesis for the preparation of "magic" rings
+
+                   PF6–                                                              O O
+              +                                                                              PF6–
+              N                                                                  O    + O
+                                          O   O
+              H2                                                                      N
+  O                           O       O           O       [Ru]                   O    H2 O
+                                  +                                    O                            O
+      O                   O           O           O
+                                                                           O                  O
+
+
+
+                                                                               up to 75% yield
+
+Scheme 6. Olefin metathesis for the preparation of “magic” rings.
+
+
+
+tion strategies – which often hinder the application of other reaction
+methodologies – are seldom required. In addition, ruthenium-catalyzed
+olefin metathesis is ideal for use during the late stages of a total synthesis due
+the chemoselectivity exhibited by the catalyst and the mild reaction condi-
+tions required. Ruthenium metathesis catalysts are also ideally suited for use
+in tandem reactions involving acetylenes and ring systems, as they are stable
+toward a variety of reaction conditions and reagents and, often, their pres-
+       will7. Commercial
+  Scheme
+ence          not impede      subsequent
+                         application              productiontransformations.
+                                               reaction
+                                     of CM in the            of "green" compoundsThis favorable
+combination of reactivity and functional group compatibility has resulted in
+the extensive use of olefin metathesis by the chemical community,             OAc      which is re-
+                   [Ru] − CH2=CH2                             [Ru] − CH2=CH2
+flected in large number of citations to the use of ruthenium based metathe-
+                                                                                        OAc
+sis catalysts.                            + AcO
+
+   A useful feature of olefin metathesis      [Ru] lies in the reaction’s reversibility. Olefin
+metathesis is a thermodynamically controlled reaction; therefore, the self-as-
+                                                               OAc
+sembly of the most stable product+ of a metathesis reaction                        be attained
+                                                                              can85:15
+                                                                        50% yield;     E/Z      by
+                                                               OAc
+simply allowing the reaction to reach equilibrium. This feature has proven to
+be advantageous for a variety of applications, particularly in the use of RCM to
+produce interlocked, “magic” ring systems in high yield (Scheme 6).18
+   In a modern industrial setting,   OAc + the use of efficient chemical           OH processes,
+                  83%                                              17%
+preferably those with minimal impact on the environment, is essential. The
+                                a pheromone
+                     mixture is has
+term “green chemistry”               evolvedof as    peach
+                                                 thean     twig borerconcept to represent this
+                                                        umbrella
+general approach to conducting reactions. Metathesis attains the goals of
+green chemistry in three ways: (1) by providing a more efficient route over
+traditional methods to carbon-carbon bond formation and avoiding by-prod-
+uct formation; (2) through enabling the use of renewable resources; and (3)
+by providing a means to attain environmentally friendly products. For in-
+stance, the processing of seed oils represents an excellent example of the first
+two goals. Using solvent-free conditions, olefin metathesis enables vegetable
+oils to be efficiently processed into compounds that can serve as renewable
+sources of petroleum product alternatives.19
+   The solvent-free CM of 1-hexene with hexenylacetate (Scheme 7) repre-
+sents an example of the use of metathesis to generate environmentally-friend-
+ly products. The product of this reaction can be readily converted into a
+peach twig borer pheromone, which can be used as an environmentally-
+friendly means of insect control in lieu of the use of broad-spectrum pesti-
+cides. CM is currently under investigation for the commercial preparation of
+
+202
+
+
+   Scheme 7. Commercial application of CM in the production of "green" compounds
+
+
+                                                                           OAc
+                    [Ru]   − CH2=CH2                        [Ru]    − CH2=CH2
+                                                                                          OAc
+                                          + AcO
+
+                                               [Ru]
+
+                                                             OAc
+                                           +                             50% yield; 85:15 E/Z
+                                                             OAc
+
+
+
+
+                                     OAc +                                           OH
+                   83%                                             17%
+
+                      mixture is a pheromone of the peach twig borer
+
+Scheme 7. Commercial application of CM in the production of “green” compounds.
+
+
+
+other pheromones, as this route represents an efficient means to generate
+these compounds starting from inexpensive starting materials.20
+  Beginning as merely an interesting anomaly over forty years ago, the olefin
+metathesis reaction has transitioned into one of chemistry’s most valuable re-
+actions for carbon-carbon bond formation. In the early days of trying to un-
+derstand this fundamental process, we never envisioned that this reaction
+would one day achieve the import that it has today. Our exploration of this re-
+action has been a fascinating journey, and it is one that is ongoing. As work
+on olefin metathesis continues in both industry and academia, we can look
+forward to exciting future developments.
+  I would like to thank the over 200 coworkers who have contributed to my
+work, as well as all the other interesting people I have interacted with during
+my career in chemistry. I would also like to thank the group at Materia Inc.
+who has played a significant role in making this technology available for
+many commercial applications. You have all made the journey very interest-
+ing. I especially want to thank my wife Helen and our kids (Barney, Brendan
+and Katy) who have provided the support that has made it all possible and
+worthwhile.
+
+
+REFERENCES
+ 1. R. H. Grubbs, Tetrahedron 2004, 60, 7117–7140 Handbook of Metathesis, 3 Volumes.; R. H.
+    Grubbs, Ed., Wiley-VCH Verlag GmbH & Co., Weinheim, 2003.
+ 2. “The Chain Straighteners: Fruitful Innovation: The Discovery of Linear and
+    Steroregular Synthetic Polymers.” Frank M. McMillan, London, MacMillan, 1979.
+ 3. W. L.Truett, D. R. Johnson, I. M. Robinson J. Am. Chem. Soc, 1960, 2337.
+ 4. N. Calderon, E. A. Olfsead, J. P. Ward, W. A. Judy, K. W. Scott, J. Am. Chem. Soc.,
+    1968,90, 4133.; R. L.. Banks and G. C. Bailey, I & EC Product Research and Development,
+    1964, 170.
+ 5. J. L. Herisson, Y. Chauvin Makromol. Chemie, 1971, 141, 162.; T. J. Katz, J. McGinnis, J.
+    Am. Chem. Soc.,1975, 97, 1592.; C. P. Casey, T. J. Burkhardt, J. Am. Chem. Soc., 1974,96,
+    7808.
+
+                                                                                                203
+
+
+ 6. R. H. Grubbs, D. D. Carr, C. Hoppin and P. L. Burk, J. Am. Chem. Soc. 1976, 98, 3478.;
+    R. H. Grubbs, P. L. Burk and D. D. Carr, J. Am. Chem. Soc. 1975, 97, 3265.; T. J. Katz and
+    R. Rothchild, J. Am. Chem. Soc. 1976, 98, 2519.
+ 7. T. R. Howard, J. B. Lee and R. H. Grubbs, J. Am. Chem. Soc., 1980,102, 6876.; S. H.
+    Pine, R. Zahler, D. A. Evans and R. H. Grubbs, J. Am. Chem. Soc., 1980,102, 3270.; J. R.
+    Stille, R. H. Grubbs, J. Am. Chem. Soc. 1986, 108, 855.; F.N. Tebbe, G. W. Parshall, G. S.
+    Reddy, J. Am. Chem. Soc. 1978, 100, 3611.
+ 8. L. R. Gilliom and R. H. Grubbs, J. Am. Chem. Soc. 1986, 108, 733.; R. R. Schrock, J.
+    Feldman, L. F. Cannizzo and R. H. Grubbs, Macromolecules 1987, 20, 1169.
+ 9. F. W. Michelotti, W. P. Keaveney, J. Poly. Sci., Part A, 1965, 895.
+10. B. M. Novak and R. H. Grubbs, J. Am. Chem. Soc. 1988, 110, 960.
+11. S. T. Nguyen, L. K. Johnson, R. H. Grubbs, and J. W. Ziller, J. Am. Chem. Soc. 1992, 114,
+    3974.; S. T. Nguyen, R. H. Grubbs, and J. W. Ziller, J. Am. Chem. Soc. 1993, 115, 9858.
+12. G. C. Fu, S. T. Nguyen, and R. H. Grubbs, J. Am. Chem. Soc. 1993, 115, 9856–9857; G. C.
+    Fu and R. H. Grubbs, J. Am. Chem. Soc. 1992, 114 (18), 7324–7325.
+13. P. Schwab, M. B. France, J. W. Ziller, and R. H. Grubbs, Angew. Chem. Int. Ed. Engl.
+    1995, 34, 2039. (Angew. Chem. 1995, 107, 2179).; T. E. Welhelm, T. R. Belderrain, S. N.
+    Brown, R. H. Grubbs, Organometallics, 1997, 16, 3867.
+14. E. L. Dias, S. T. Nguyen, and R. H. Grubbs, J. Am. Chem. Soc. 1997, 119, 3887–3897.; M.
+    S. Sanford, M. Ulman, and R. H. Grubbs, J. Am. Chem. Soc. 2001, 123, 749–750.; M. S.
+    Sanford, J. A. Love, and R. H. Grubbs, J. Am. Chem. Soc. 2001, 123, 6543–6554.
+15. M. Scholl, S. Ding. C. W. Lee, R. H. Grubbs, Org. Lett. 1999, 1, 953.; C. W. Bielawski, R.
+    H. Grubbs. Angew. Chem., Int. Ed. 2000, 39, 2903.; T. M. Trnka, J. P. Morgan, M. S.
+    Sanford, T. E. Wilhelm, M. Scholl, T-L. Choi, S. Ding, M. W. Day, R. H. Grubbs, J. Am.
+    Chem. Soc. 2003, 125 (9), 2546.; J. A. Love, M. S. Sanford, M. W. Day, R. H. Grubbs, J.
+    Am. Chem. Soc. 2003, 125, 10103.
+16. T. Nicola, M. Brenner, K. Donsbach, P. Kreye, Organic Process and Development, 2005,
+    27.; I. Kodota, H. Takamura, K. Sato, A. Ohno, K. Matusuda, Y. Yamamoto, J. Am.
+    Chem. Soc. 2003, 125, 46.
+17. Patent No. 6,310,121 B1, issued 10/30/01. C. S. Woodson, Jr. and R. H. Grubbs,
+    Patent No. 5,939,504, issued 8/17/99. C. S. Woodson, Jr., R. H. Grubbs.
+18. J.-P. Sauvage, B. Mohr, R. H. Grubbs, and M. Weck. Angew. Chem. 1997, 36 (12),
+    1308–1310.; A. F. M. Kilbinger, S. J. Cantrill, A. W. Waltman, M. W. Day, and R. H.
+    Grubbs, Angew. Chem. Int. Ed. Engl. 2003, 42, 3281.; E. N. Guidry, S. J. Cantrill, J. F.
+    Stoddart, R. H. Grubbs, Org. Let. 2005, 7, 2129.
+19. Frost &Sullivan’s Industrial Bioprocessing Alert, Sept. 9, 2005;
+    http://www.epa.gov/greenchemistry/whats_gc.html.
+20. Patent No. 6,696,597, issued 2/24/04. R. L. Pederson, R. H. Grubbs,; Patent No.
+    6,215,019 B1, issued 4/3/01. R. L. Pederson, R. H. Grubbs.
+
+Portrait photo of Robert H. Grubbs by photographer R. Paz.
+
+
+
+
+204
+

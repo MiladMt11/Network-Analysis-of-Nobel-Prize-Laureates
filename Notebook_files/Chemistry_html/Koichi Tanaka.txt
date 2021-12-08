@@ -1,0 +1,731 @@
+THE ORIGIN OF MACROMOLECULE IONIZATION
+BY LASER IRRADIATION
+Nobel Lecture, December 8, 2002
+by
+KOICHI TANAKA
+Shimadzu Corporation, 1 Nishinokyo-Kuwabaracho, Nakagyo-ku, Kyoto 604-
+8511, Japan.
+
+
+
+
+INTRODUCTION
+When I was a student at university, my major field of study was Electrical
+Engineering. I did not specialize in chemistry in my studies at university, and
+my knowledge of chemistry overall was somewhat less than rich. Under those
+circumstances, upon entering the company, I applied myself wholeheartedly
+to the study of chemistry to challenge and overcome a barrier in analytical
+chemistry considered to be impenetrable. I am, of course, very pleased to re-
+ceive the Nobel Prize and further, especially pleased that the Prize serves to
+acknowledge my efforts and successes in the field of analytical chemistry, a
+field that while rather inconspicuous among the general population is indeed
+very important and useful to the world.
+   I am employed by the analytical instrument manufacturer, Shimadzu
+Corporation. I was assigned to a team charged with the task of designing and
+building a completely new mass spectrometer. The achievement of develop-
+ing “a soft desorption ionization method for mass spectrometric analysis of
+biological macromolecules”, for which I was chosen to receive this prize, was
+one aspect of that project. At that period in the 1980’s, four of my colleagues,
+whom I will introduce shortly, in addition to myself, were each in charge of
+developing a part of the instrument. I was responsible for developing the
+sample preparation and ionization technologies. Success of the instrument
+would not have been assured unless the other technologies were suitably pro-
+vided, even given the excellence of the ionization technology. First, I will
+briefly describe the progress of development of the technologies at that time,
+other than that of ionization.
+
+
+MASS SEPARATION: TOF TECHNOLOGY
+In mass spectrometry, it is necessary to use some method to separate the gen-
+erated ions according to mass, and then perform detection of the ions. One
+of these methods is called Time-of-Flight Mass Spectrometry (TOF-MS), which
+involves separating ions according to mass by measuring their respective
+flight times.
+
+                                                                            197
+
+
+Figure 1. Schematic of Time of Flight Mass Spectrometry.
+
+                                              1
+                                      zV0       mv2
+                                              2
+                                             2zV0      ----------- (1)
+                                      v
+                                              m
+
+                                  L           m
+                              t        L              ----------- (2)
+                                  v          2zV0
+
+                                               m
+                                  t' L               ----------- (2)ƍ
+                                            2 zV0  H
+
+    z: charge of ion, m: mass of ion, v: velocity of ion,
+    L: length of drift space, t: flight time of ion in drift space,
+    tƍ: flight time of ion in drift space with initial kinetic energy H
+
+
+  Figure 1 provides the simplest representation of the principle behind TOF-
+MS. This assumes that equally charged ions of differing mass, M1, M2 and M3
+are generated instantly at the same time and starting position. Assume that
+M1 is the lightest of the ions. The ions are generated at an electrical potential
+
+198
+
+
+Figure 2. Mass Resolution Improvement by Reflectron.
+
+
+
+V0, and have a potential energy of zV0, where z is the charge of the ion. If all
+of the potential energy is converted to kinetic energy, the velocity v is ex-
+pressed by Equation (1), based on the law of conservation of energy. In other
+words, the lighter ion travels at a higher speed, reaching the detector first.
+  This explanation is based on ideal conditions (Equation (2)). Since the ions
+actually possess a distribution of initial velocities, that is, initial kinetic energy ,
+their arrival time t at the detector will show some distribution, even among
+ions of equal mass (Equation (2)). This results in diminished mass resolution.
+
+
+REFLECTRON TECHNOLOGY
+To improve the resolution, it would be best if ions of the same mass and
+charge arrive at the detector at the same time, even if their initial kinetic en-
+ergies are different. Specifically, a device referred to as a Reflectron, first de-
+scribed by Boris Mamyrin[1] in 1973, is used to reflect the ions midway in their
+flight back toward the detector. This turning back of the ions has the effect of
+adjusting the flight times of the ions in conjunction with their initial kinetic
+energies, to ensure that ions of the same mass and charge reach the detector
+at the same time (Figure 2).
+   The isochronism of the pendulum is very well known. Stated simply, even if
+the swing amplitude of the pendulum varies, the cycle times remain equal as
+long as the cord length of the pendulum and the force of gravity stay the
+same. Applying this principle, an ideal Reflectron was developed. In this case,
+the cord length corresponds to the ion mass, the swing amplitude to the ini-
+tial kinetic and potential energy, and the cycle time to the time of flight, re-
+
+                                                                                    199
+
+
+Figure 3. Mass Resolution Improvement by Ideal Reflectron (Patent: US4625112).
+
+
+
+
+spectively. One method of this Reflectron technology was developed by one
+of my colleagues at that time, Mr. Yoshikazu Yoshida (Patent number:
+US4625112 issued in 1986) (Figure 3).
+
+
+TIME DELAYED ION EXTRACTION
+The principle behind TOF-MS assumes that ions are generated instantan-
+eously, that is, in an infinitely short generation time. The time width of a laser
+pulse is extremely small, in the order of a few nanoseconds in the case of the
+N2 laser. However, when the laser intensity is high enough to greatly exceed
+the ion generation threshold, as shown in Figure 4, ions may continue to be
+generated even after the completion of laser irradiation. In the TOF model,
+the mass resolution decreases due to the wider time width of ion generation.
+   One of my colleagues at that time, Dr. Tamio Yoshida, succeeded in im-
+proving the mass resolution, as shown in Figure 5, by drawing out the time
+from ion generation to ion extraction. This is accomplished by maintaining
+equivalent voltages at the sample plate and the grid to prevent the ions from
+being extracted until they are all generated, and then by creating a potential
+
+200
+
+
+Figure 4. TOF Mass Spectrum Measurement with Low and High Laser Power.
+
+
+
+
+Figure 5. Mass Resolution Improvement by Time Delayed Ion Extraction.
+
+
+difference after tD to cause extraction of all the ions at the same time (filed in
+Japan Patent Office [S60035097] in 1985). This method is the same in prin-
+ciple as the time-lag focusing method which was originally designed by William
+Wiley and Ian McLaren[2] to reduce the effect of initial spatial and kinetic en-
+ergy distributions, but was now applied specifically to minimize the effect of
+the prolonged laser-induced ion generation time.
+   In addition, there is a heightened possibility that particles given a charge,
+
+                                                                              201
+
+
+Figure 6. Molecular Ion Increase by Time Delayed Ion Extraction.
+
+
+
+
+for example, protons and cations, will collide and react with normally neut-
+ral, that is, uncharged sample molecules. Such processes are generally re-
+ferred to as chemical ionization, as originally described by Burnaby Munson
+and Frank Field.[3] The quantity of molecular ions ([M+Na]+ in Figure 6) can
+be expected to increase.
+
+
+ION DETECTION TECHNOLOGY
+The term “detector” here refers to the conversion of ions separated by the
+mass separation mechanism into a flow of electrons, in other words, an elec-
+trical signal. The maximum mass number of ions that had been detected in
+the early 1980’s was in the range of several thousand. In principle, the greater
+the molecular weight (M.W.) of the ion, the slower the velocity, so the ion-to-
+electron conversion efficiency could even drop to zero.
+   The simplest method of raising sensitivity is to accelerate the ions even fur-
+ther after mass separation occurs (this is called post acceleration). As shown in
+Figure 7, the higher the post acceleration voltage, the greater the intensity of
+the ions, and further, the higher the mass number, the greater will be the ef-
+fect, especially when a high voltage is applied. Another method is the ion-to-
+
+202
+
+
+                                 a.m.u.: atomic mass unit
+
+Figure 7. High Sensitivity Ion Detection by Post Acceleration.
+
+
+
+
+Figure 8. High Sensitivity Ion Detection by Ion-to-Electron Conversion.
+
+
+
+
+electron conversion method. As shown in Figure 8, the intensity increases
+using this method as well.
+   One of my colleagues at that time, Mr. Yutaka Ido, developed a detector
+(Figure 9) that obtained the effects of both of these methods, enabling suffi-
+ciently sensitive detection even when ions of especially high molecular weight
+were generated.
+
+                                                                          203
+
+
+                                                       (MCP)
+
+Figure 9. Macromolecule Detection by Post Acceleration and Ion-to-Electron Conversion.
+
+
+
+MEASUREMENT TECHNOLOGY
+ADC method
+Even with improved detector sensitivity, it can be assumed that the intensity of
+macromolecular ions would be weak. In particular, when performing a single,
+one-shot measurement using a minute quantity of sample, successful quanti-
+tative analysis may not be possible without a high enough signal-to-noise
+(S/N) ratio. For this reason, a spectrum accumulation circuit is considered to
+be indispensable. To satisfy the demand for an instrument capable of high-
+speed measurement, a TOF spectrum measurement accumulation circuit was
+developed within our group.
+   One of my colleagues at that time, Mr. Satoshi Akita, developed an analog-
+to-digital converter (ADC) circuit adopting a pipeline technique to achieve the
+required speedup in measurement. The newly developed ADC circuit pro-
+vided a maximum 1 kHz processing speed with real-time accumulation mea-
+surement at a maximum time resolution of 10 nsec and 24 bit intensity reso-
+lution (Figure 10).
+   Moreover, to enable measurement of both low mass high intensity ions as
+well as high mass low intensity ions, an amplifier that could perform gain
+switching within one microsecond was developed and adopted to provide a
+wider dynamic range.
+
+TDC Method
+At that time, ADC circuits had a time resolution of 10 nsec. It was our opinion
+that even this resolution would not be enough. Mr. Yoshikazu Yoshida devel-
+
+204
+
+
+Figure 10. Schematic of Shimadzu LDI-TOFMS.
+
+
+
+
+oped a time-to-digital converter (TDC) circuit that could measure with great
+accuracy the flight time of the ions while measuring a maximum of 255 events
+after one start signal (Multi-Stop-TDC), even though peak intensity informa-
+tion was sacrificed. As a result, we were able to measure the time of flight at a
+maximum time resolution of 1 nsec (Figure 10).
+   All of these crucial developments further emphasize the certainty that if
+even one of our group of five were not there, we would not have been able to
+achieve measurement of macromolecular ions. I am truly happy that the tech-
+nologies we developed in the 1980’s have been improved through their use in
+various instruments, and that they have played a role in bringing TOF tech-
+nology into the mainstream of MS from the 1990’s.
+
+
+IONIZATION TECHNOLOGY
+Long before the 1980’s, there had been investigation into the use of optical
+energy, not limited to laser light, to achieve ionization of organic com-
+pounds.[4] However, for the most part, this ionization consisted of stripping
+electrons from compounds in the gas phase.[5] Because this was limited to
+compounds that could be vaporized without being decomposed, very few
+compounds could be ionized. When a solid phase organic compound was ir-
+radiated with a laser, the organic compound absorbed the laser light, provid-
+ing enough energy for desorption. Further, when the positive and negative
+charges of the particle are not in balance, it could be measured as an ion.
+However, in this case, since the laser light is absorbed directly into the analyte,
+
+                                                                               205
+
+
+Figure 11. Laser Desorption Ionization (LDI) from Solid or Liquid Phase.
+
+
+
+
+the molecular bonds may be broken due to the increased internal energy. In
+other words, there is an increased risk that measurement would occur in the
+decomposed state (Figure 11). Because we wanted to measure the un-de-
+composed, intact molecular ion, this was unsatisfactory.
+   At that time, the molecular weight of compounds that could be ionized by
+laser was about 1,000 Da, and ionization of compounds having a molecular
+weight exceeding 10,000 Da was generally considered by chemists at the time
+to be impossible. However, not being a specialist in chemistry, I was unaware
+of the existence of this widely-held belief.
+
+
+RAPID HEATING TECHNOLOGY
+In the 1980’s, “desorption to gas phase by rapid heating” gained attention
+through the efforts of several groups that had obtained some degree of en-
+couraging results. These include Franz Röllgen[6, 7] of Germany, Mamoru
+Ohashi[8] of Japan, and Louis Friedman[9], Don Hunt[10], Burnaby
+Munson[11] and Robert Cotter[12] of the USA. A simple description of the
+principle is depicted in Figure 12. In short, if a given compound “AB” is
+heated, it is assumed that “AB” will be released to the gas phase as intact “AB”
+as well as fragmented “A” and “B”. Respectively applying the well-known
+Arrhenius Equation (Equation (3)) will give the logarithmic expressions
+shown in Equation (4).
+   Here, for compounds that are thermally labile and decompose easily, the
+rate constant for decomposition “KD” is larger than that for vaporization “KV”
+at low temperatures. Because the activation energy for vaporization “EV” is
+higher than that for decomposition “ED”, the slope of the vaporization reac-
+tion “KV” in Figure 12 is steeper than that of the decomposition reaction.
+   If this is always correct, at high temperature, where 1/T is small, vaporiza-
+tion should be further promoted. In other words, reaching the highest pos-
+sible temperature as quickly as possible should provide a high degree of va-
+porization.
+
+206
+
+
+USE OF UFMP
+To perform this rapid heating, various heating methods were devised.[9]
+However, a high enough temperature could not be achieved quickly enough
+to obtain intact vaporization of macromolecules, such as proteins. Since the
+time width of a pulse laser itself is between a nanosecond to several microsec-
+onds, rapid heating would seem possible using a focused beam to generate
+energy at high density and high speed. However, this would require a me-
+dium to enable its conversion into thermal energy.
+   In Japan at that time in the 1980’s, Ultra Fine Metal Powder (UFMP) received
+much attention in the field of metallurgy due to its usefulness in efficient pro-
+duction of alloys, and was referred to as Japanese Powder. UFMP, as its name in-
+dicates, is an extremely fine metallic powder with particle diameters meas-
+uring a few tens of nanometers. When compared to bulk metal, the particle
+diameter of UFMP is about the same as a wavelength, increasing the possibil-
+ity that scattered light could be taken up internally (Figure 13). In other
+words, light energy could be absorbed more efficiently. Even visually, it is
+black in color. Moreover, the possibility that thermal energy would be dis-
+persed and lost decreases due to the inter-particle spaces.
+
+
+
+
+                               KV                                     KD
+       Vaporization: “AB”           “AB”,       Decomposition: “AB”        “A”+“B”
+
+              Arrhenius Equation: K = F exp (-E/RT) ------------------- (3)
+           K: Rate constant F: Frequency factor E: Activation energy
+                     R: Gas constant T: Absolute temperature
+
+              ln KV = ln FV - EV/RT, ln KD = ln FD - ED/RT     ----------- (4)
+
+
+
+
+Figure 12. Vaporization vs. Decomposition.[9]
+
+                                                                                 207
+
+
+Figure 13. Differences between Bulk Metal and Ultra Fine Metal Powder.
+
+
+
+
+Figure 14. Molecular Ion Desorption by using UFMP Matrix.
+
+
+
+   Mixing this with an organic compound should allow the laser light to be ef-
+ficiently absorbed into the UFMP, and to achieve a high UFMP temperature
+very quickly without the dispersion and loss of heat. This would efficiently
+achieve heating of the sample in the mixture. It was Mr. Yoshikazu Yoshida
+who proposed using UFMP as a matrix* (Figure 14) (filed in 1985, Patent
+number: JP01731501 issued in 1993).
+   There was at that time an interest in using laser desorption for the analysis
+of polymers, such as in the reports by Charles Wilkins[13] of the USA. The MS
+spectrum shown in the upper part of Figure 15 is obtained when the sample,
+consisting of a polymer mixture of polyethylene glycols (PEG), is irradiated
+with a laser. The lower spectrum of Figure 15 shows that of the sample mixed
+with UFMP. With PEG alone, fragment ion peaks of the PEG molecule are
+dominant, and no PEG2000 peaks are observed. On the other hand, not on-
+
+*   In the ionization method, a substance used to assist ionization is called a “matrix.”
+
+208
+
+
+Figure 15. Polyethylene Glycols Spectra with and without UFMP Matrix.
+
+
+
+ly are there almost no fragment peaks observed when PEG is mixed with
+UFMP, PEG2000 peaks have become clearly evident.
+   With the use of this matrix, the molecular ions from many organic com-
+pounds that could not be measured previously could then be measured.
+However, this technique could not be applied to compounds with molecular
+weights in the tens of thousands according to our experimental results.
+
+
+GLYCERIN MATRIX TECHNOLOGY
+At that time in the 1980’s, the Fast Atom Bombardment (FAB) MS method was
+widely used to achieve ionization in thermally labile compounds. The FAB
+method was developed by Michael Barber and colleagues[14], and David
+
+
+
+
+Figure 16. Molecule Desorption/Ionization using Glycerin Matrix in FABMS.
+
+                                                                            209
+
+
+Surman and John Vickerman[15] of the UK, and involved accelerating neutral
+particles such as Xenon at high speed so as to collide with the sample and
+generate ions. In this method, the solid sample was maintained in a liquid
+state by using glycerin (glycerol) as a matrix (Figure 16).
+   It is thought that since glycerin is a liquid at room temperature, it releases
+the solid sample from its crystalline state to dissolve in the liquid, thereby as-
+sisting ionization. We used glycerin as a matrix just as it was used in FAB, but
+because the 337 nm laser wavelength that we used was only slightly absorbed
+into the glycerin, no significant effect was seen on the enhancement of mole-
+cular ion generation in organic compounds. However, this matrix was useful
+in improving reproducibility due to its effectiveness in providing a uniform
+mixture.
+
+
+UFMP GLYCERIN MIXTURE TECHNOLOGY
+Here it can be said that I had come up against a brick wall. Soon after that,
+while preparing many trial and error UFMP suspensions, changing the or-
+ganic solvent and concentration repeatedly to obtain even the slightest im-
+provement in data, I committed a monumental blunder, which was followed
+by a series of fortuitous, arbitrary decisions. I was using ordinary acetone as a
+UFMP suspension, and one day, by mistake, (1) I used the glycerin instead of
+the acetone. Reasoning that it would be wasteful to discard the expensive
+UFMP, (2) I decided to use the “ruined” preparation as the matrix solution.
+Because glycerin gradually evaporates in a vacuum, I knew it would eventu-
+ally disappear. However, instead of waiting, (3) I decided to speed up vapor-
+ization of the glycerine by continuing to irradiate the laser. On top of that, be-
+cause I wanted to see the result as soon as possible, (4) I was monitoring the
+acquisition of the TOF spectrum. In this way, only after at least four factors
+fell into place could I observe a phenomenon never before seen.
+   I think that the sample first measured was Vitamin B12. I have tried recent-
+ly to locate the original spectrum, but unfortunately I couldn’t find it.
+Because this sample itself can absorb laser light with an extremely high de-
+gree of efficiency, up to then, only the fragments could be measured with
+high sensitivity. However, by using the mixed UFMP glycerin matrix, at the
+position where unfragmented ions (molecular ions) should have appeared,
+peaks which seemed to be noise were observed. No matter how many times I
+performed the measurement, these peaks were present. Molecular ions were
+observed even after changing the sample.
+   After that, as a result of progressing to higher mass ions while optimizing
+the concentration, laser power and other parameters, I was able to measure
+an ion having a molecular weight of 35,000 Da (Figure 17) (1985) and an-
+other ion having a mass number exceeding 100,000 (Figure 18) (1987). The
+patent application for this ionization method was submitted in Japan in 1985,
+and was subsequently issued in 1993 (Patent number: JP01769145).
+
+
+
+210
+
+
+WHY DID THE MACROMOLECULE BECOME IONIZED WITHOUT
+DECOMPOSING?
+Use of UFMP conveniently allows high temperatures to be reached at high
+speed. However, even if this is mixed with a typical organic compound, it is
+difficult to achieve sufficient mixing. Even when viewing the mixture in an
+electron microscope-generated photograph, the lack of uniformity is obvious
+(Figure 19, top). When glycerin is added to the mixture, however, the unifor-
+mity becomes evident (Figure 19, bottom). Moreover, glycerin may also serve
+to release the sample from its crystalline state. The ability to measure mole-
+
+
+
+
+Figure 17. Molecular Ion Measurement of Carboxypeptidase-A (M.W.: ~35k Da).
+
+
+
+
+Figure 18. Cluster Ion Measurement of Lysozyme (M.W.: 14,306 Da).
+
+                                                                              211
+
+
+useful and practical.
+
+
+                        UFMP (White Area)               Sample (Black Area)
+
+
+
+
+                           UFMP Mixture
+                     SampleUFMP
+                    Sample                      using Glycerin
+                                Mixture without using Glycerin
+
+                     0.2mm                             Laser Irradiated Area
+
+
+
+
+                         Sample              withGlycerin
+                                     Mixture with
+                         Sample UFMP Mixture      Glycerin
+Figure 19. Electron Microscope Images of Sample and Matrix Mixture.
+
+
+
+
+212
+
+
+Figure 20. Macromolecule Desorption/Ionization using UFMP Glycerin Mixed Matrix.
+
+
+
+
+cular ions from organic compounds even exceeding a molecular weight of
+10,000 Da may indeed be due to these effects (Figure 20).
+   Here I have suggested the principles by which laser light irradiation is able
+to generate huge molecular ions. However, these principles are not necessar-
+ily correct because they have not yet been fully proven scientifically. Even with
+the knowledge of all the developments in MALDI (Matrix Assisted Laser
+Desorption / Ionization) technology that followed my discovery, I cannot yet
+claim to have correctly grasped the theoretical principles behind all of these
+phenomena.
+   However, I am an engineer, an engineer employed in a business enterprise.
+So even if the principles are unverified, their application takes priority if they
+are useful and practical.
+
+
+COMMERCIALIZATION AND PUBLIC ANNOUNCEMENT
+If a business organization does not consider that a technology is basically
+saleable, development would not be advanced and there would be no an-
+nouncement regarding the technology outside of the company. If this tech-
+nology had not been made into a product, it would have been buried in-
+house and forgotten. For example, similar technology might have been
+developed somewhere else in the world in the 1980’s, but if it had not been
+introduced to the international scientific community, it would not have been
+further developed to become a useful technique worldwide.
+   Because this basic technology that we developed at the Central Research
+Laboratory of Shimadzu Corporation was to be incorporated into a product,
+I was transferred to the business division. However, this technology was not
+made known outside the company until it was decided to release the product.
+The five members of our group made the first announcement outside the
+company at the Annual Conference of the Japan Mass Spectrometry Society
+held in Kyoto in May of 1987 (Oral and poster presentations [16–20] were con-
+ducted in Japanese). The announcement caused some reverberations, how-
+
+                                                                                   213
+
+
+ever, almost no one believed that this technology would become so useful. Of
+course, we were just pleased and satisfied to confirm that we had made scien-
+tific progress, and further, that we had presented it to the public.
+
+
+TECHNOLOGY TRANSFER TO EUROPE AND THE USA
+In September of 1987, I participated in the Second Japan-China Joint
+Symposium on Mass Spectrometry that was held in Takarazuka, Japan, and
+presented the result for the first time in English.[21] At that time in the 1980’s,
+Plasma Desorption MS (PDMS) was widely used as a method of measuring
+macromolecular compounds such as proteins.[22] During his presentation
+there, Professor Robert Cotter stated that “PDMS can measure higher masses
+than Laser Desorption/Ionization (LDI) MS.” Professor Cotter was an authority
+with respect to TOF-MS even at that time, but given my own recent results,
+which I would present the next day, I could not agree with his statement. I ap-
+parently indicated to Professor Cotter that I thought he must be mistaken,
+and that he should look at my data. Professor Cotter tells me that he was in-
+deed impressed with the high mass results. He later saw my poster presenta-
+tion and he and Dr. Catherine Fenselau forwarded details of our ionization
+method and copies of the spectra to other researchers in Europe and the
+USA.
+   At that time, Dr. Takekiyo Matsuo, an assistant professor at Osaka
+University who was attending the symposium, strongly recommended that I
+write a formal paper in English. I reluctantly agreed, and in 1988, our contri-
+bution was published in Rapid Communications in Mass Spectrometry
+(RCM)[23], and is referred to as one of the sources of the MALDI technique.
+
+
+MANUFACTURE AND THEN TERMINATION OF SALES
+The analytical technology and the instrument became a commercial product.
+In order to sell the instrument, I traveled around Japan visiting many cus-
+tomers, and actually analyzed more than two hundred samples. However, the
+reaction was almost always, “There is little practical use.” I then looked fur-
+ther afield and there was only one potential customer on whom we could pin
+our hopes. That was Dr. Terry D. Lee of the City of Hope’s Beckman
+Research Institute in the USA. This became the first and only instrument of
+our commercialized product that was sold, and we eventually halted develop-
+ment and sales of the instrument. Although the instrument could do what no
+other instrument was capable of, it seemed to have little practical use.
+Perhaps, it is fair to say that the sensitivity, accuracy and resolution required
+improvement for use in pharmaceutical and medical diagnostic applications.
+
+
+
+
+214
+
+
+DEVELOPMENT OF MALDI TECHNOLOGY AND ITS USE
+IN VARIOUS FIELDS
+My research and development efforts on MALDI technology remained inac-
+tive until 1992 when I was transferred temporarily to KRATOS Analytical (a
+subsidiary company of Shimadzu Corporation from 1989) in Manchester,
+England. During that period, our technology that had been conveyed to
+Europe and the USA was steadily being improved upon and reformed
+through the efforts of Professor Cotter, Professor Fenselau and many other
+researchers throughout the world.
+   Special acknowledgement is also warranted for the meritorious efforts of
+both Professor Michael Karas and Professor Franz Hillenkamp [24–26] of
+Germany. Were it not for their tremendous and continuous efforts and the
+achievements of thousands of other researchers, it is certain that subsequent
+development of this technology that has benefited so many people around
+the world would not have advanced.
+
+
+CONCLUSION
+Development of this Macromolecule Ionization technology was not accom-
+plished by one genius or gifted person. It is a victory of teamwork, and I be-
+lieve it is the result of a lot of honest activity by many individuals seeking to
+advance a good technology.
+   The history of chemistry is long and it is natural that the field is wide and
+deep. Because of this, there is a tendency to believe that chemistry-related
+technology is already well developed. It should be mentioned here that I
+strongly believe that building new theories and bringing them to useful roles
+in the world requires the total mobilization of knowledge in specialized fields.
+However, I think it can be said that the technique that I discovered and the
+subsequent technologies that originated throughout the world broke
+through the common knowledge of chemistry. If I had been caught within
+the grasp of this knowledge, I would not have been able to make this type of
+unique discovery. Even though I cannot claim to possess extraordinary intel-
+lectual abilities, and further, my academic specialization was in a field other
+than that of chemistry, there is enough proof that I was able to contribute to
+the development of chemistry-related technology. With this in mind, it would
+give me great pleasure if many people around the world, and especially engi-
+neers working in private business enterprises, would mobilize their courage
+and hold onto their dreams in the pursuit of scientific innovation for the be-
+nefit of all living beings.
+
+
+ACKNOWLEDGEMENT
+I would like to express my thanks to Mr. Ralph Nesson for his tremendous ef-
+forts in helping me prepare for my Nobel Lecture presentation, and for his
+invaluable insight and patience in helping me express my thoughts in
+
+                                                                             215
+
+
+English. I would also like to thank Prof. Robert Cotter, Prof. Catherine
+Fenselau, Dr. Chris Sutton and Dr. Andrew Bowdler for many stimulating dis-
+cussions.
+
+
+REFERENCES
+ [1] Mamyrin, B.A., Karataev, V.I., Shmikk, D.V., Zagulin, V.A. “The Mass-Reflectron, a
+     New Nonmagnetic Time-of-Flight Mass Spectrometer with High Resolution” Sov. Phys.
+     -JETP Vol.37 No.1, pp.45–48 (1973).
+ [2] Wiley, W.C., McLaren, I.H. “Time-of-Flight Mass Spectrometer with Improved
+     Resolution” Rev. Sci. Inst. Vol.26 No.12, pp.1150–1157 (1955).
+ [3] Munson, M.S.B., Field, F.H. “Chemical Ionization Mass Spectrometry. I. General
+     Introduction” J. Am. Chem. Soc. Vol.88 No.12, pp.2621–2630 (1966).
+ [4] Terrenin, A., Popov, B. “Photodissociation of Salt Molecules into Ions” Physik Z.
+     Sovjetunion Vol.2, pp.299–318 (1932).
+ [5] Lubman, D.M., Kronick, M.N. “Mass Spectrometry of Aromatic Molecules with
+     Resonance-Enhanced Multiphoton Ionization” Anal. Chem.Vol.54 No.4, pp.660–665
+     (1982).
+ [6] Giessmann, U., Röllgen, F.W. “Ion Formation by [Li]+ Ion Attachment in High
+     Electric Fields” Org. Mass Spectrom. Vol.11, pp.1094–1100 (1976).
+ [7] Röllgen, F.W., Giessmann, U., Heinen, H.J., Reddy, S.J. “Field Ion Emitters for Field
+     Desorption of Salts” Int. J. Mass Spectrom. Ion Phys. Vol.24, pp.235–238 (1977).
+ [8] Ohashi, M., Yamada, S., Kudo, H., Nakayama, N. “In-beam Electron Impact Mass
+     Spectrometry of Amino Sugars” Biomed. Mass Spectrom. Vol.5 No.10, pp.578–581
+     (1978).
+ [9] Beuhler, R.J., Flanigan, E., Greene, L.J., Friedman, L. “Proton Transfer Mass
+     Spectrometry of Peptides. A Rapid Heating Technique for Underivatized Peptides
+     Containing Arginine” J. Am. Chem. Soc. Vol.96, pp.3990–3999 (1974).
+[10] Hunt, D.F., Shabanowitz, J., Botz, F.K., Brent, D.A. “Chemical Ionization Mass
+     Spectrometry of Salts and Thermally Labile Organics with Field Desorption Emitters
+     as Solids Probes” Anal. Chem. Vol.49 No.8, pp.1160–1163 (1977).
+[11] Hansen, G., Munson, B. “Surface Chemical Ionization Mass Spectrometry” Anal.
+     Chem. Vol.50 No.8, pp.1130–1134 (1978).
+[12] Cotter, R.J., Fenselau, C. “The Effects of Heating Rate and Sample Size on the Direct
+     Exposure/Chemical Ionization Mass Spectra of Some Biological Conjugates” Biomed.
+     Mass Spectrom. Vol.6 No.7, pp.287–293 (1979).
+[13] Wilkins, C.L., Weil, D.A., Yang, C.L.C., Ijames, C.F. “High Mass Analysis by Laser
+     Desorption Fourier Transform Mass Spectrometry” Anal. Chem. Vol.57 No.2,
+     pp.520–524 (1985).
+[14] Barber, M., Bordori, R.S., Sedgwick, R.D., Tyler, A.N. “Fast Atom Bombardment of
+     Solids (F.A.B.) : A New Ion Source for Mass Spectrometry” J. Chem. Soc., Chem.
+     Commun., pp.325–327 (1981).
+[15] Surman, D.J., Vickerman, J.C. “Fast Atom Bombardment Quadrupole Mass
+     Spectrometry” J. Chem. Soc., Chem. Commun., pp.324–325 (1981).
+[16] Yoshida, Y., Tanaka, K., Ido, Y., Akita, S., Yoshida, T. “Development of Laser Ionization
+     Time of Flight Mass Spectrometer I — Curved Electric Field Ion Reflector”(in
+     Japanese) 35-kai Shitsuryo Bunseki Rengo Toronkai, Yoshishu, pp.12–13 (1987).
+[17] Akita, S., Tanaka, K., Ido, Y., Yoshida, Y., Yoshida, T. “Development of Laser Ionization
+     Time of Flight Mass Spectrometer II — High-speed, High-accuracy Measuring Circuit
+     for TOF Spectrum”(in Japanese) 35-kai Shitsuryo Bunseki Rengo Toronkai, Yoshishu,
+     pp.14–15 (1987).
+[18] Ido, Y., Tanaka, K., Akita, S., Yoshida, Y., Yoshida, T. “Development of Laser Ionization
+     Time of Flight Mass Spectrometer III — Sensitive Ion Detection in High Mass
+     Range”(in Japanese) 35-kai Shitsuryo Bunseki Rengo Toronkai, Yoshishu, pp.20–21 (1987).
+
+216
+
+
+[19] Tanaka, K., Ido Y., Akita, S., Yoshida, Y., Yoshida T. “Development of Laser Ionization
+     Time of Flight Mass Spectrometer IV — Generation of Quasi-Molecular Ions from
+     High Mass Organic Compound”(in Japanese) 35-kai Shitsuryo Bunseki Rengo Toronkai,
+     Yoshishu, pp.22–23 (1987).
+[20] Yoshida, T., Tanaka, K., Ido, Y., Akita, S., Yoshida, Y. “High Molecular Ion Detection us-
+     ing Laser Ionization TOF Mass Spectrometer”(in Japanese) 35-kai Shitsuryo Bunseki
+     Rengo Toronkai, Yoshishu, pp.30–31 (1987).
+[21] Tanaka, K., Ido, Y., Akita, S., Yoshida, Y., Yoshida, T. “Detection of High Mass
+     Molecules by Laser Desorption Time-of-Flight Mass Spectrometry” Proceedings of the
+     Second Japan-China Joint Symposium on Mass Spectrometry, pp.185–188 (1987)
+[22] Cotter, R.J. “Plasma Desorption Mass Spectrometry: Coming of Age” Anal. Chem.
+     Vol.60 No.13, pp.781A–793A (1988).
+[23] Tanaka, K., Waki, H., Ido, Y., Akita, S., Yoshida, Y., Yoshida, T. “Protein and Polymer
+     Analyses up to m/z 100 000 by Laser Ionization Time-of-Flight Mass Spectrometry”
+     Rapid Commun. Mass Spectrom. Vol.2 No.8, pp.151–153 (1988).
+[24] Karas, M., Bachmann, D., Hillenkamp, F. “Influence of the Wavelength in High-
+     Irradiance Ultraviolet Laser Desorption Mass Spectrometry of Organic Molecules”
+     Anal. Chem. Vol.57 No.14, pp.2935–2939 (1985).
+[25] Karas, M., Hillenkamp, F. “Laser Desorption Ionization of Proteins with Molecular
+     Masses Exceeding 10 000 Daltons” Anal. Chem. Vol.60 No.20, pp.2299–2301 (1988).
+[26] Karas, M., Ingendoh, A, Bahr, U., Hillenkamp, F. “Ultraviolet-Laser Desorp-
+     tion/Ionization Mass Spectrometry of Femtomolar Amounts of Large Proteins” Bio-
+     med. Environ. Mass Spectrom. Vol.18, pp.841–843 (1989).
+
+
+
+
+                                                                                          217
+

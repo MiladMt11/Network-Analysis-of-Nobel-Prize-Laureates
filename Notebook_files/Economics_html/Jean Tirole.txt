@@ -1,0 +1,886 @@
+Market Failures and Public Policy*
+Prize Lecture, December 8, 2014
+
+by Jean Tirole
+Toulouse School of Economics, France.
+
+
+
+
+1. INTRODUCTION
+
+Economists have long extolled the virtues of markets. Unfettered competition
+protects consumers from the political influence of lobbies and forces producers
+to deliver products and services at cost. Alas, competition is rarely perfect, mar-
+kets fail, and market power—the firms’ ability to raise price substantially above
+cost or to offer low quality1—must be kept in check.
+    Industrial organization studies the exercise and control of market power.
+To this purpose, it builds models that capture the essence of the situation. The
+predictions of the model can then be tested econometrically and possibly in the
+lab or the field. In the end, the reasonableness of, and robustness to modeling as-
+sumptions and the quality of empirical fit determine how confident economists
+are in making recommendations to public decision-makers for intervention,
+and to companies for the design of their business model.
+
+
+*
+  This lecture is dedicated to the memory of Jean-Jacques Laffont. It is of course unlike
+any lecture I had ever given. It is filled with emotion, intellectual indebtedness and very
+fond memories. The lecture is also very unfair to the community of researchers who have
+developed industrial organization economics in its modern form. The lecture indeed is
+in no way a survey, even on its very limited subset of topics, and does not attempt to rec-
+ognize contributions. Its purpose rather is to use examples drawn from my own research
+to illustrate the approach and use of theoretical industrial organization. This should how-
+ever not obscure the fact that modern industrial organization is the outcome of a collec-
+tive undertaking by a (still vibrant) community of talented researchers.
+
+
+                                                                                      507
+
+
+508                                                              The Nobel Prizes
+
+
+     Industrial organization has a long tradition: first theoretical, with the work
+of French “engineer-economists” Antoine Augustin Cournot (1838) and Jules
+Dupuit (1844); then policy-oriented with the enactment of the Sherman Act
+(1890) and subsequent legislation; then descriptive with the studies of the Har-
+vard school (“Structure-Conduct-Performance”) comforting and refining the
+antitrust drive; and finally skeptical with the Chicago school. The Chicago school
+correctly pointed out the lack of underlying theoretical doctrine and went on to
+cast doubt on the whole edifice. However, it did not develop an alternative anti-
+trust doctrine, perhaps because it was broadly suspicious of regulation.
+     By the late seventies and early eighties, the antitrust and regulation doctrine
+was in shambles and had to be rebuilt. The modern intellectual corpus that then
+emerged has been very much a collective effort, involving not only me, but also
+my closest collaborators on the topic2 and the many scholars whose own work
+and discussions with me have deeply influenced my thinking. My being un-
+der the spotlight owes more to their contribution than to my own talent. But I
+claim credit for having been in the right places at the right times and in having
+learned from fabulous colleagues and students, in the area for which the prize
+was awarded and in other fields as well.
+     With sometimes a bit of luck, as when my MIT fellow classmate and fellow
+Eric Maskin advisee, Drew Fudenberg told me about an interesting field (I ac-
+tually did not know what “industrial organization” meant . . .). Having already
+taken my generals, I then sat in fascinating lectures given by Paul Joskow and
+Dick Schmalensee, and started fruitful collaboration with Drew.
+     A stroke of good fortune indeed, as the required tools, game theory and
+information economics, were witnessing a series of breakthroughs.
+     On the policy front, there was widespread recognition that old-style public
+utility regulation, which by and large insured public utilities against poor cost
+performance, led to inflated cost and poor customer satisfaction, and so reforms
+were called for.
+     To crown it all, institutional change favored the use of economic reasoning.
+Where disputes were settled and regulations designed opaquely in the minister’s
+office, transparent processes run by independent agencies were put in place. For
+instance, competition authorities and regulatory agencies sprang up in Europe,
+which used economic reasoning.
+     This most fortunate conjunction of circumstances led to a new paradigm.
+As was emphasized in the committee’s scientific background report, this para-
+digm is rich and complex. First, counting the number of firms or their market
+shares provides only a rough indication as to whether the market is competitive.
+
+
+Market Failures and Public Policy509
+
+
+Second, industries have their specificities. Competition in IT, payment cards,
+innovation, railroads or cement is different.
+     Economists accordingly have advocated a case-by-case or “rule of reason”
+approach to antitrust, away from rigid “per se” rules (which mechanically either
+allow or prohibit certain behaviors, ranging from price-fixing agreements to re-
+sale price maintenance). The economists’ pragmatic message however comes
+with a double social responsibility. First, economists must offer a rigorous analy-
+sis of how markets work, taking into account both the specificities of particular
+industries and what regulators do and do not know;3 this latter point calls for
+“information light” policies, that is, policies that do not require information that
+is unlikely to be available to regulators.
+     Second, economists must participate in the policy debate. The financial cri-
+sis, whose main ingredients could be found in academic journals, is a case in
+point. But of course, the responsibility here goes both ways. Policymakers and
+the media must also be willing to listen to economists.
+
+
+2. RESTRAINING MARKET POWER TO THE BENEFIT OF CONSUMERS
+
+Regulators affect industries in multiple ways:
+
+    • Sectoral regulators in telecoms, electricity, railroads or postal services
+      regulate incumbent operators’ rate of return and monitor the conditions
+      under which they give rivals access to the bottlenecks that they control.
+    • Antitrust authorities allow or invalidate horizontal as well as vertical
+      mergers and agreements, and decide whether certain behaviors and con-
+      tractual covenants constitute an abuse of a dominant position.
+    • Patent and trademark offices and courts grant, uphold or reject a pat-
+      ent, and determine its scope, its breadth, whether the grantee can seek
+      injunctions and so forth.
+
+    Ultimately, these various forms of regulation have in common that regula-
+tors face a trade-off between lowering the price for the users, thereby ensuring
+wider diffusion, and granting a fair return to the firm.
+    Consider for example the foreclosure doctrine in its modern form.4 In Fig-
+ure 1, an upstream firm U has a unique access to an “essential facility,” “in-
+frastructure” or “bottleneck input,” some input that cannot be reproduced or
+bypassed by others at a low cost: a railroad tracks and stations network, a power
+transmission grid, a key patent5 . . .
+
+
+510                                                                The Nobel Prizes
+
+
+
+
+FIGURE 1.
+
+
+
+
+    The competition-policy issue is whether the upstream firm should give
+“equal” or “fair” access to all downstream suppliers (alternative train opera-
+tors, power producers, technology implementers, D1, . . ., Dn in the figure) or
+whether it should be allowed to “foreclose” access to the bottleneck to all down-
+stream firms but one or a couple of affiliated entities or allies. Such fair access, so
+goes the argument, allows downstream firms to compete for the end users on a
+level playing field. Yet, as we will see, what constitutes “fair access” and “enabling
+of downstream competition” requires some thinking.
+    Provided that bilateral negotiations between the upstream supplier and indi-
+vidual downstream firms are not precluded, downstream competition dissipates
+the profit that can be extracted from end-users. To see this intuitively, suppose
+that downstream competitors sell a homogeneous product with demand curve
+Q = D(p) or p = P(Q), that production upstream and downstream is costless,
+and that downstream firms transform 1 unit of input into 1 unit of output. The
+question is whether, by controlling the bottleneck, the upstream firm is able to
+capture the monopoly profit πm = max{QP(Q)} = QmP(Qm), where Qm and Pm
+are the monopoly quantity and price respectively.
+    Let U and Di negotiate a quantity qi to be delivered by U and then put on
+the market by Di. Suppose that Di anticipates that the other downstream firms
+will bring Q–i = q1 + . . . + qi–1 + qi+1 + . . . +qn to the market. Then the quantity
+qi that maximizes the sum of U and Di’s profits6 is the best Cournot reaction
+RC(Q–i) to Q–i:
+
+                   qi = RC (Q−i ) = arg max {qi P ( qi + Q−i )}
+
+
+   In this example, the outcome of bilateral, private negotiations is therefore the
+Cournot equilibrium with n firms. The upstream firm behaves opportunistically
+
+
+Market Failures and Public Policy511
+
+
+and does not internalize the negative externality on other downstream firms
+when negotiating an increase in supply with downstream firm Di.
+     Because the upstream profit is capped by the downstream profit, equal to the
+Cournot industry profit, fair access jeopardizes the ability of the upstream firm
+to profit from the essential facility: the upstream bottleneck owner is victim of
+its inability to commit not to flood the downstream market. The more competi-
+tive the downstream industry (the larger n is), the more the profit is destroyed
+and the more eager the upstream firm is to regain its market power (the up-
+stream monopolist makes zero profit in the limit of large n, and this even if it
+enjoys full bargaining power—i.e., appropriates the joint surplus—in bilateral
+negotiations). The more general message is clear: under unfettered bilateral ne-
+gotiations, downstream competition erodes the upstream firm’s market power.
+     In practice therefore, the upstream firm often favors its downstream subsid-
+iary (D1 in Figure 2) in a myriad of ways, for example by refusing to deal with
+rivals or to grant them a license, by charging prohibitive access prices, or by
+making its technology incompatible with the rivals’. If not vertically integrated,
+it may enter a “sweet deal” with a downstream firm to the same effect. In short,
+the upstream firm uses exclusivity to restore its market power. For example, a
+biotech company with a patent on a new drug will grant exclusive rights for the
+product approval, production and marketing stage to a single pharmaceutical
+company, either in-house (Sanofi for Genzyme) or external.
+     A well-meaning antitrust authority might want to promote competition by
+requiring that the upstream firm give equal treatment to all downstream firms.
+This policy requires some transparency in contracting, i.e., all contracts must be
+made public. The equal access requirement will, however, involuntarily lead to
+
+
+
+
+FIGURE 2.
+
+
+512                                                               The Nobel Prizes
+
+
+monopoly pricing! The upstream firm can do so for example by offering Qm/n
+against payment πm/n to all downstream firms. Alternatively, it can offer to give
+free access to the bottleneck resource to whoever will make lump-sum payment
+πm; at most one downstream firm would accept the deal, as entry by a second
+firm would destroy downstream profit and not allow it to recoup the lump-sum
+payment to the bottleneck owner.7 Thus, “equal treatment” by no means guar-
+antees low prices for end-users; if anything, it helps the upstream firm to secure
+its monopoly profit.
+    Summing up, whether the antitrust authority tolerates such exclusionary
+behavior or not, it de facto regulates the rate of return on the upstream infra-
+structure. Should the authority clamp down on exclusionary behaviors? The
+(common sense) answer summarized in Figure 3 hinges on the answer to the
+following question: Does the bottleneck result from an investment, an innova-
+tion? Or is it associated with political connections, wrong market design or sheer
+luck? Simply, is there an investment worth of a reward or not? For instance,
+
+       • the beneficiary of a highway, harbor or airport concession deserves its
+         monopoly power if the monopoly position was acquired through a com-
+         petitive, well-designed auction, but not if it was acquired free of charge
+         or through a biased auction design.
+       • An inventor should be allowed to exploit the innovation himself or grant
+         an exclusive license if the innovation is major, but not if the innovation
+         lacks novelty or is obvious, but nonetheless is protected by intellectual
+         property law.
+       • A public utility should earn a reasonable profit on investment, but not
+         benefit from lucky cost and demand conditions. For example, it should
+         not be able to benefit from a fall in the market price of a key input, while
+         being able to renegotiate the regulatory contract if that price shoots up.
+
+
+
+
+FIGURE 3.
+
+
+Market Failures and Public Policy513
+
+
+     The same reasoning underlies much of antitrust doctrine, which, follow-
+ing Schumpeter, does not view monopoly power as illegal, but frowns upon the
+further acquisition of market power through merger or abuse of a dominant
+position.8
+     To be certain, finer information may be needed to assess the substantive
+merit of market power. Software markets are often dominated at any given point
+of time by a large firm benefiting from network externalities among users. Such
+network externalities may result from chance (users have just coordinated on
+the platform) or may have been created through investment. Similarly, it is of-
+ten not obvious whether a utility’s profit comes from its cost-reducing or de-
+mand-expanding effort or sheer luck. This brings me to the issue of regulatory
+information.
+
+Handling a firm’s informational superiority
+Regulators face a double asymmetry of information, called adverse selection
+and moral hazard respectively.
+
+     • First, regulated firms have superior knowledge about their environment:
+       their technology, the cost of their inputs, the demand for their products
+       and services.
+     • Second, they take actions that affect cost and demand: human resource
+       management, strategic choices of plant capacity, R&D and brand image,
+       quality control, risk management and so forth.
+
+    In its simplest version, the firm’s cost function can be written as:
+
+                                   C = f(β, e, q) + ε,
+
+where β is an efficiency parameter known only to the firm, e (possibly multidi-
+mensional) is a cost-reducing effort, q = (q1, . . . ,qn) is the vector of outputs, and
+ε stands for exogenous uncertainty about the final realization of the cost. The
+effort e is also unobserved by the regulator and is costly to the firm.
+    Unsurprisingly, authorities that neglect the asymmetry of information fail to
+deliver effective, cost-efficient regulation.9 There are two broad principles here.
+    The first is obvious. Authorities should attempt to reduce the asymmetry of
+information: by collecting data of course; but also by benchmarking the firm’s
+performance to that of similar firms operating in different markets; and finally
+by auctioning off the monopoly rights (as firms reveal information about indus-
+try cost when competing with each other).
+
+
+514                                                              The Nobel Prizes
+
+
+    The second principle is that one size does not fit all: one should let the regu-
+lated firm make use of its information. Before we get to this, imagine that you
+are in charge of dealing with a contractor. Two familiar contracts will probably
+come to your mind:
+
+       • you can offer to fully reimburse the contractor’s cost, plus some set pay-
+         ment over this cost; such a contract is called a “cost plus” contract if
+         the taxpayer foots the bill or a “rate-of-return” contract if the cost and
+         reward are derived from revenue from the users;
+       • or you can fix the total payment and tell the firm that this payment will
+         cover its return as well as its cost, whatever the latter turns out to be;
+         such a contract is called a “fixed price” or “price cap” contract.
+
+     The two contracts differ in the strength of incentives provided to the con-
+tractor: The cost-plus contract shelters the firm from fluctuations in its cost per-
+formance, while the fixed price contract makes the firm fully accountable for
+its cost performance. For example, in the case of a non-marketed good, the net
+return t for the firm is:
+
+                                     t = a – bC,
+
+
+with b = 0 for a cost-plus contract,10 = 1 for a fixed-price contract, and between
+0 and 1 more generally. The slope b is called the “power of the incentive scheme”
+or “cost-sharing parameter.”
+    The fixed price contract obviously elicits more cost-reducing effort from the
+firm. It however has the drawback of leaving substantial profit to the firm in
+lucky circumstances in which costs turn out to be particularly low or demand
+high, independently of any effort made by the firm. In the example above, the
+fixed fee a must be set sufficiently high so as to induce the firm to produce if its
+cost is high.
+    Returning to the “one size does not fit all” idea, one can show that regulated
+firms should be confronted with a menu of options; to oversimplify, this menu
+might take the form of a choice between a fixed-price and a cost-plus contract.
+The firm then self-selects: an efficient firm will opt for being accountable for its
+cost, while an inefficient firm will opt for the protection of cost-plus.11
+    Raising the power of incentives has been key to remedy the dismal cost per-
+formance of traditional regulation. However, theory and practice indicate some
+caveats regarding high-powered incentives:12
+
+
+Market Failures and Public Policy515
+
+
+     First, making the firm accountable for its cost performance also provides the
+firm with an incentive to skimp quality; so powerful incentives must go together
+with a more thorough monitoring of quality.
+     Second, the observation that powerful incentives generate both high effort
+and high profit (or rent) implies that regulators cannot have their cake and eat
+it too. The firm will be rewarded both for its effort to reduce cost (as it should)
+and for lucky circumstances (as it should not: this is an undeserved rent); but
+asymmetric information means that there is no way to tell the two apart. While
+regulators, under the pressure of public opinion, may be tempted to take back
+this rent ex post, such policy reversal destroys the firm’s incentive to reduce
+cost.13 A wider knowledge of this principle would have prevented some wishful
+thinking when powerful incentives were introduced.
+     Thus, powerful incentives require commitment; this commitment in turn
+requires an independent regulatory agency, protected from the pressure of pub-
+lic opinion.
+     Third, the possibility of high rents increases the benefit for the firm of cap-
+turing its regulator. So, if you cannot guarantee the regulator’s independence
+from industry (and if you do not have enough competition), don’t go for power-
+ful incentives.
+
+
+Be careful when tinkering with the price structure
+The essence of regulation is often to ensure that undeserved market power does
+not translate into high overall prices. Traditionally, though, regulators have gone
+way beyond price-level regulation; they also have tampered with the ratio of
+prices, that is, with the price structure. There, too, they face a substantial infor-
+mational handicap. Moreover the need for intervention is much less obvious
+than in the case of the price level: While it is clear that a monopoly has incen-
+tives to charge high prices, it is a priori less clear that it is biased in its choice of
+letting Bob rather than Anna bear the brunt of market power.
+     In 1956, Marcel Boiteux, building on earlier work by Franck Ramsey, asked:
+how should the fixed infrastructure cost of a regulated firm be covered by mark-
+ups on the various goods sold by the firm? This fixed cost is presumably large, as
+the motivation for regulating the firm is its monopoly power, protected by the
+reluctance of entrants to duplicate the fixed cost. Boiteux showed that regulated
+firms should exhibit a price structure similar to that of ordinary, unregulated
+ones: in equation (1), the price pi in segment i should be low if the segment is
+cheap to serve (the cost ci is low), and has a high elasticity of demand ηi (that
+
+
+516                                                               The Nobel Prizes
+
+
+is, if a price increase implies a substantial reduction in demand).14 As the fixed
+production cost to be covered through markups increases, these markups also
+increase (i.e., θ increases). Thus, regulated prices should be “business-oriented,”
+similar to, but overall lower than those set by an unregulated monopoly (for
+whom the coefficient θ would be equal to 1.
+
+                                    pi − ci   θ
+                                            =                                     (1)
+                                       pi     ηi
+
+
+     Furthermore, and under some conditions,15 the regulatory problem decom-
+poses: the trade-off between rents and cost-reducing effort should be addressed
+through the cost—or profit—sharing rule, and pricing should obey the Ramsey-
+Boiteux principle. This dichotomous result has practical implications, as we will
+see shortly.
+     Yet regulators used to force regulated firms to set an economically very ineffi-
+cient price structure. Typically, utilities charged low prices on inelastic segments
+such as monthly subscription fees to be connected to the power or telephone
+network, and high prices on elastic consumption (e.g., long distance phone
+calls). They also charged high prices to business and low prices to residential
+consumers, while the former had more bypass opportunities. One justification
+for this was redistributive concerns; but these cross-subsidies also benefited the
+rich, and furthermore whether or not redistribution could be achieved by other,
+more efficient means (say, the income tax) was not discussed.
+     This price tinkering away from Ramsey-Boiteux principles was also some-
+times motivated by the (correct) premise that regulators do not possess the
+information about cost and demand to fine-tune prices in a business-oriented
+fashion.
+     This, however, ignored the possibility of making use of decentralized in-
+formation. The above-mentioned dichotomy between incentives and pricing
+opens the way for the use of business-oriented pricing. A price cap regulation,
+in which the firm must only comply with some cap on its weighted16 average
+price, not only creates powerful incentives by making the firm accountable for
+its cost, but also sets the firm free to choose a business-oriented price structure.
+     A special case of this idea arises when one of the “products” supplied by the
+monopoly is an intermediate input, that is, the provision of access for rivals to
+an essential facility. By imposing access prices at marginal cost (assuming they
+can measure it), regulators de facto bias the price structure and focus markups
+on those final segments for which the essential facility owner faces no competi-
+tion.17 This is bound to be inefficient in general.
+
+
+Market Failures and Public Policy517
+
+
+3. TWO-SIDED MARKETS
+
+A particularly interesting choice of price structure arises in so-called two-sided
+markets. Two-sided “platforms” bring together multiple user-communities that
+want to interact with each other: gamers and game developers for videogames;
+users of operating systems and app developers for operating systems; “eyeballs”
+and advertisers for search and media platforms; cardholders and merchants for
+payment card transactions (Figure 4). The challenge for two-sided platforms is
+to find a viable business model that gets both sides on board.
+     Regardless of their market power, whether they are Google or a free news-
+paper like Metro,
+
+    • they choose to allocate a lower burden to the side (say side i) whose pres-
+      ence benefits most users on the other side. In equation (2), vj represents
+      how much a side-j user values an extra user on side i. This willingness to
+      pay for an interaction with an extra user on side i can be recouped by the
+      platform through a price increase on side j; the platform’s real, or oppor-
+      tunity cost is therefore the platform’s production cost c per interaction
+      (perhaps equal to 0) minus vj,
+    • like ordinary businesses, they choose a lower burden for the side which
+      has a relatively elastic demand (a high ηi in the formula).
+
+                                    (
+                               pi − c − v j   )   =
+                                                      1
+                                                                               (2)
+                                    pi                ηi
+
+
+   Equation (2) often results in very skewed pricing patterns, with one side
+paying nothing (free search engine, portal, newspaper) or even being paid to
+
+
+
+
+FIGURE 4.
+
+
+518                                                              The Nobel Prizes
+
+
+enjoy the service (cardholders receiving cash-back bonuses18), while the other
+side is heavily taxed. The simplest example is that of sponsored-links/advertis-
+ing-financed platforms: advertisers put a high value vj on interacting with (es-
+pecially well-to-do) buyers, while the latter attach little value to the presence of
+ads, or possibly perceive it as a nuisance.19
+     A regulator failing to understand the nature of two-sided markets might
+misleadingly complain about predation on the low-price side or even excessive
+pricing on the high-price side, despite the fact that such price structures are also
+selected by small, entering platforms. Regulators should refrain from mechani-
+cally applying standard antitrust ideas where they do not belong.
+     This does not mean that they should turn a blind eye when facing two-sided
+platforms. A case in point is provided by platforms that supply a service to their
+members, but are not the only route for a purchase (see Figure 5). For instance,
+American Express provides the cardholder with a service, but other payment
+methods such as cash, check, or other card systems are also available. A hotel or
+airline flight can be booked either through an online booking platform, such as
+Booking.com, or directly.
+     Such platforms usually charge a merchant fee and demand “price coherence”
+(the merchant is not allowed to surcharge for a transaction performed through
+the platform relative to a transaction that does not use it). While price coherence
+has sound justifications (it prevents surcharging hold-ups by the merchant20), it
+also comes with hazards; for, high merchant fees are in part passed through to
+third parties, namely consumers who do not use the platform. This may result in
+excessive merchant fees.21 The market failure in this instance is not the skewed
+
+
+
+
+FIGURE 5.
+
+
+Market Failures and Public Policy519
+
+
+pricing pattern (which is typical of two-sided markets), but the externality on
+non-contracting parties.
+    The analysis reveals that the merchant fee should obey the following Pigov-
+ian principle: In the case of card payments, the merchant fee should be equal
+to the benefit that the merchant derives from a card payment.22 The consumer,
+who decides on the payment method, then exerts no externality on the mer-
+chant. This principle is now the European Commission’s doctrine for regulating
+open systems Visa and MasterCard.
+    In this realm as in many others, neither laissez-faire nor a shotgun regula-
+tory approach is warranted. Only sound economic analysis will do.
+
+
+4. INTELLECTUAL PROPERTY
+
+The rule-of-reason approach to competition policy requires some confidence as
+to which, of efficiency and anticompetitive effects, dominates. In this respect,
+simple rules can greatly strengthen our confidence in policy choices.
+    Consider intellectual property (IP), for which the shortage of data can be
+acute, with technologies not having yet hit the ground. Biotech and software
+technologies are often covered by a multiplicity of patents of varying impor-
+tance and owned by different owners. This “patent thicket” is conducive to “roy-
+alty stacking” (or “multiple marginalizations” in the parlance of economics).
+    To understand royalty stacking, which was brilliantly formalized in 1838 by
+Antoine Augustin Cournot (1838) and more recently by Carl Shapiro (2001), it
+may be helpful to use an analogy (depicted in Figure 6) and return to medieval
+Europe, whose river transit was hampered by a multiplicity of tolls; for instance,
+there were 64 tolls on the Rhine River in the 14th century.23 Each toll collector
+set his toll to maximize his revenue, oblivious of what this meant not only for the
+users but also for other toll collectors. Europe had to wait until the Congress of
+Vienna in 1815 and subsequent legislations to see the removal of toll-stacking.24
+    High technologies are currently witnessing an evolution toward more af-
+fordable prices, similar to that for river traffic in the 19th century. New guide-
+lines have been set, so as to encourage the co-marketing of intellectual property
+through patent pools. Patent pools reduce the overall price of licensing comple-
+mentary patents, benefiting both intellectual property owners and technology
+users.
+    Alas, patent pools and more generally co-marketing arrangements also may
+allow firms to raise price. For instance, the owners of two substitute patents (like
+the toll collectors on the two river branches in Figure 7) can raise licensing price
+
+
+520                                                             The Nobel Prizes
+
+
+
+
+FIGURE 6.
+
+
+
+
+FIGURE 7.
+
+
+
+
+to the monopoly level by forming a patent pool (setting a collusive toll for down-
+stream access in the figure), akin to a cartel or a merger to monopoly.
+    A flashback is useful again. A little known fact is that, prior to 1945, most
+high-tech industries of the time were run by patent pools.25 But the worry about
+cartelization through joint marketing led to a hostile decision of the US Supreme
+Court in 1945 and the disappearance of pools until the recent revival of interest.
+    But couldn’t competition authorities just ban bad (price-increasing) pools
+and allow good (price-decreasing) ones? They unfortunately do not possess
+the relevant information: There is often no long history of licensing, and fur-
+thermore the pattern of substitutability/complementarity changes with the uses
+made of the technology26.
+    However, simple regulations allow such sorting. First, “individual licens-
+ing” (the ability of individual owners to keep licensing their patents outside the
+pool, see Figure 8) re-creates competition when patent pools would otherwise
+have raised price. Patent pools with individual licensing therefore neutralize bad
+pools, while allowing good ones to achieve their price reduction.
+    The reasoning is best illustrated in the very simple case of two substitute
+patents. The competitive price for the licenses is then equal to 0 (assuming away
+any licensing cost). A pool has the potential to raise the price up to the monop-
+oly price Pm, say. Suppose that the pool tries to sets a price P(≤Pm). Then each IP
+owner receives in dividends PD(P)/2, letting D(.) denote the demand function
+
+
+Market Failures and Public Policy521
+
+
+
+
+FIGURE 8.
+
+
+
+
+FIGURE 9.
+
+
+
+for licenses and assuming equal sharing.27 Rather than receive half of the pool’s
+profit in dividends, each IP owner can undercut the pool slightly, and receive
+(approximately) the entire profit PD(P) for itself.28
+    Second, and to counter the threat of tacit collusion (in the reasoning above,
+individual IP owners might forgo the short-run gain of undercutting the pool
+through a cheaper individual-license price, so as to prevent a price war and to
+keep sustaining the pool’s high price in the future), it is wise to append a sec-
+ond, information-free requirement, called “unbundling”: The users can buy in-
+dividual licenses from the pool, and the pool price for multiple licenses is the
+sum of the individual prices (see Figure 9). Individual licensing together with
+unbundling implies that accepting a pool does not reduce welfare.29
+    Interestingly, both precepts derived from theory—independent licensing
+and unbundling—have been incorporated in the European guidelines (in 2004
+and 2014, respectively); the US Department of Justice had required independent
+licensing in its Business Review Letters in the late 1990s already.
+
+
+522                                                              The Nobel Prizes
+
+
+
+
+FIGURE 10.
+
+
+
+
+     Another information-free precept for the treatment of intellectual property
+originating from theoretical work is the suggestion that intellectual property
+owners commit to a cap on their licensing price before a standard is finalized.
+When a standard is designed, in many cases there are multiple routes to solving
+a given technological problem. Each one of these may be equally viable, but of-
+ten a standard setting body will choose only one avenue (to pursue the analogy,
+the public authority may have enabled traffic on the upper branch of the river
+by building a lock on that branch; or the presence of a major city on the upper
+branch may have made this branch a superior alternative, as in Figure 10). After
+the decision has been made, however, the chosen patent becomes a “standard-
+essential patent (SEP),” and the patent owner can ask for a high royalty even
+though another patent could have offered comparable value, had the technology
+been designed differently.
+     To restrain firms from taking advantage of the fortuitous essentiality of their
+patents, an essentiality that resulted only from being included in a standard and
+not from technological merit, standard-setting bodies commonly require firms
+to commit in advance to license their patents on fair, reasonable and non-dis-
+criminatory (FRAND) terms. The problem with this approach is that FRAND
+commitments are very ambiguous: What exactly is a fair and reasonable rate?
+And in fact, large lawsuits regarding the meaning of the commitment proliferate
+all over the world.
+     One would not build a house on a piece of land whose price is not known in
+advance. The same obtains for technologies. We have proposed that intellectual
+property owners commit to their licensing conditions prior to the final choice of
+standard and we tried to explain why this commitment requirement is unlikely
+to result from competition among standard-setting bodies.30
+
+
+Market Failures and Public Policy523
+
+
+5. CONCLUDING REMARKS
+
+The theory of industrial organization has proved a very useful tool to think
+about one of the major challenges of our economies. It has fashioned antitrust
+and regulation. Recognizing that industries are different from each other and so
+one size does not fit all, it has patiently built a body of knowledge that has helped
+regulators to better understand market power and the effects of policy interven-
+tions, and firms to formulate their strategies.
+    Industrial organization has gone a long way, but much work remains to be
+done. An especially gratifying aspect is that the field of industrial organization
+is currently thriving, with many top young researchers producing exciting work.
+    Making this world a better world is the economist’s first mission. I believe
+that the entire community of industrial organization researchers has contrib-
+uted substantially to this mission. On behalf of this community, I was humbled,
+honored and grateful to be awarded the 2014 Sveriges Riksbank Prize in Eco-
+nomic Sciences in Memory of Alfred Nobel.
+
+
+
+REFERENCES
+ 1. Aghion, P. and P. Bolton. (1987). “Contracts as a Barrier to Entry,” American
+    Economic Review, 77(3): 388–401.
+ 2. Armstrong, M. (1998). “Network Interconnection in Telecommunications,”
+    Economic Journal, 108 (448): 545–564.
+ 3. Armstrong, M. (2006). “Competition in Two-Sided Markets,” RAND Journal of
+    Economics, 37(3): 668–69.
+ 4. Armstrong, M. and J. Vickers. (2000). “Multiproduct Price Regulation under
+    Asymmetric Information,” Journal of Industrial Economics, 48: 137–160.
+ 5. Baron, D. and R. Myerson. (1982). “Regulating a Monopolist with Unknown Costs,”
+    Econometrica, 50(4): 911–930.
+ 6. Boiteux, M. (1956). “Sur la gestion des Monopoles Publics astreints à l’équilibre
+    budgétaire,” Econometrica, 24(1): 22–40
+ 7. Bourguignon, H., R. Gomes and J. Tirole. (2014). “Shrouded Transaction Costs,”
+    mimeo, TSE.
+ 8. Boutin, A. (2014). “Screening for Good Patent Pools through Price Caps on
+    Individual Licenses,” mimeo, ULB.
+ 9. Caillaud, B. and B. Jullien. (2003). “Chicken & Egg: Competition among
+    Intermediation Service Providers,” RAND Journal of Economics, 34(2): 309–328.
+10. Cournot, A.A. (1838). Recherches sur les Principes Mathématiques de la Théorie des
+    Richesses.
+11. Dupuit, J. (1844). “De la mesure de l’utilité des travaux publics,” Annales des Ponts
+    et Chaussées, Paris.
+
+
+524                                                                   The Nobel Prizes
+
+
+12. Edelman, B., and J. Wright. (2014). “Price Coherence and Adverse Intermediation,”
+    mimeo.
+13. Freixas, X., Guesnerie, R., and J. Tirole. (1985). “Planning under Incomplete
+    Information and the Ratchet Effect,” Review of Economic Studies, 173–191.
+14. Hart O., and J. Tirole. (1990). “Vertical Integration and Market Foreclosure,”
+    Brookings Papers on Economic Activity, Washington: Brookings Institution, vol.
+    1990, “Microeconomics,” 1990, p. 205–286.
+15. Laffont, J.J., P. Rey and J. Tirole. (1998). “Network Competition: I. Overview and
+    Nondiscriminatory Pricing; II. Price Discrimination,” RAND Journal of Economics,
+    29(1): 1–37; 38–56.
+16. Laffont, J.J. and J. Tirole. (1986). “Using Cost Observation to Regulate Firms,”
+    Journal of Political Economy, 94: 614–641.
+17. Laffont, J.J. and J. Tirole. (1988). “The Dynamics of Incentive Contracts,”
+    Econometrica, 56: 1153–1175.
+18. Laffont, J.J. and J. Tirole. (1990). “The Regulation of Multiproduct Firms, I: Theory;
+    II: Applications to Competitive Environments and Policy Analysis,” Journal of
+    Public Economics, 43: 1–36; 37–66.
+19. Laffont, J.J. and J. Tirole. (1993). A Theory of Incentives in Procurement and
+    Regulation, MIT Press.
+20. Laffont, J.J. and J. Tirole. (1994). “Access Pricing and Competition,” European
+    Economic Review, 38(9): 1673–1710.
+21. Lerner, J. and J. Tirole. (2004). “Efficient Patent Pools,” American Economic Review,
+    94(3): 691–711.
+22. Lerner, J. and J. Tirole. (2015). “Standard-Essential Patents,” Journal of Political
+    Economy, 123: 547–586.
+23. Loeb, M., and W. Magat. (1979). “A Decentralized Method of Utility Regulation,”
+    Journal of Law and Economics, 22: 399–404.
+24. Rey, P. and J. Tirole. (2007). “A Primer on Foreclosure,” Handbook of Industrial
+    Organization, vol. 3, ed. by M. Armstrong and R.H. Porter, North Holland, pp.
+    2145–2220
+25. Rey, P. and J. Tirole. (2013). “Cooperation vs. Collusion: How Essentiality Shapes
+    Co-opetition,” IDEI Working Paper, n° 801.
+26. Rochet, J.C. and J. Tirole. (2002). “Cooperation among Competitors: Some
+    Economics of Payment Card Associations,” The RAND Journal of Economics, 33(4):
+    549–570.
+27. Rochet, J.C. and J. Tirole. (2003). “Platform Competition in Two-Sided Markets,”
+    Journal of the European Economic Association, 1(4): 990–1029.
+28. Rochet, J.C. and J. Tirole. (2006). “Two-Sided Markets: A Progress Report,” RAND
+    Journal of Economics, 37(3): 645–667.
+29. Rochet, J.C. and J. Tirole. (2011). “Must Take Cards: Merchant Discounts and
+    Avoided Costs,” Journal of the European Economic Association, 9(3): 462–495.
+30. Sappington, D. (1982). “Optimal Regulation of Research and Development under
+    Imperfect Information,” Bell Journal of Economics, 13(2): 354–368.
+31. Segal, I. (1999). “Contracting with Externalities,” Quarterly Journal of Economics,
+    114(2), 1999, pp. 337–388.
+
+
+Market Failures and Public Policy525
+
+
+32. Spaulding, R. M. (2011). “Revolutionary France and the Transformation of the
+    Rhine,” Central European History, 44(02): 203–226.
+33. Whinston, M. (1990). “Tying, Foreclosure, and Exclusion,” American Economic
+    Review, 80(4):837–859.
+
+
+
+ENDNOTES
+ 1. Industrial organization economists have studied a variety of other market failures,
+    involving information problems and a range of externalities (such as environmen-
+    tal damages or banking failures) which arise even in the absence of market power;
+    small banks (such as the Cajas and the Landesbanken recently in Europe) often fail,
+    leaving the deposit insurance fund/taxpayer to pay for bailouts, and firms without
+    market power often pollute. This lecture focuses on market power, which limits the
+    diffusion of a product, service or technology to downstream firms and end-users.
+ 2. Chronologically, and very unfairly to the many others with whom I have had the
+    chance to interact, Drew Fudenberg, Eric Maskin, Jean-Jacques Laffont—to whose
+    memory this lecture is dedicated—as well as Patrick Rey, Jean-Charles Rochet, Paul
+    Joskow, and Josh Lerner.
+ 3. They must also account for enforcement costs.
+ 4. The discussion here follows Hart-Tirole (1990) and Rey-Tirole (2007), to which we
+    refer for the “loose ends” left over by this intuitive discussion. See also Segal (1999)
+    for a broader treatment, which covers applications beyond industrial organization.
+ 5. Antitrust practitioners are often reluctant to call a key patent an “essential facility”;
+    for an essential facility is usually associated with an obligation to share. I nonethe-
+    less include key patents in the essential facility category as it fits the criterion “some
+    input that cannot be reproduced or bypassed by others at a low cost.” We will later
+    discuss the obligation to share.
+ 6. This quantity maximizes the “cake” to be divided between the two parties; the shar-
+    ing of this cake will involve a monetary transfer between them.
+ 7. Still another way of obtaining the monopoly profit is to offer the same fol-
+    lowing two-part tariff to all downstream firms: T(q) = A + wq, where w,
+    the wholesale price, satisfies: nqC(w) = Qm, the monopoly quantity, and
+    qC(w) is the Cournot quantity given unit cost w. The fixed fee A is then
+    set so as to capture the resulting Cournot profit of each downstream firm.
+       None of the schemes allowing the upstream firm to reap monopoly profit is
+    robust to additional, private contracting: for there is always money to be made by
+    the upstream firm by contracting for a higher quantity with an individual down-
+    stream firm as long as the latter’s quantity lies below the Cournot reaction curve (for
+    zero marginal cost). Thus, to sustain individual quantities below qC(0), all contracts
+    must indeed be public.
+ 8. For example, the antitrust authority may disapprove the handicapping of horizontal
+    rivals, say, by making one’s technology incompatible when no protection of intel-
+    lectual property is at stake, by locking in customers through long-term contracts
+    that have limited efficiency justification (as in e.g., Aghion-Bolton 1987), or by
+
+
+526                                                                         The Nobel Prizes
+
+
+       committing to tough behavior through irremediable tying (as in e.g., the model of
+       horizontal foreclosure of Whinston 1990).
+ 9.    To take two examples unrelated to market power, command-and-control in envi-
+       ronmental regulation all over the world and judicial control of the business justifi-
+       cation for layoffs in Southern Europe have backfired by imposing high costs on the
+       industry and thereby casting doubts on the sustainability of these policies. The same
+       principle holds for industrial organization.
+10.    Define “effort” as being costly for the firm (what is done beyond intrinsic motivation
+       or career concerns), and e = 0 as the minimum effort. Then the cost-plus contract
+       elicits e = 0 and yields a β– independent rent for the firm. Hence, the rent can be
+       made small without jeopardizing the firm’s participation.
+11.    See, e.g., Laffont-Tirole (1986). Precursors to my work with Jean-Jacques Laffont
+       include Loeb-Magat (1979), Baron-Myerson (1982) and Sappington (1982). Under
+       some conditions, the optimal regulatory scheme lets the firm pick within a menu of
+       linear incentive contracts t = a – b C, each characterized by a pair of fixed-payment
+       and cost-sharing parameters (a, b).
+12.    A broader list of caveats of high-powered incentives and their theoretical modeling
+       can be found in Laffont-Tirole (1993).
+13.    This is the so-called “ratchet effect” (see, e.g., Freixas et al. (1985) and Laffont-Tirole
+       (1988)).
+14.    Here we consider the case of independent demands; formulas must be adjusted to
+       account for “cross-elasticities” in case of substitutes or complements.
+15.    See Laffont-Tirole (1990). The dichotomy does not hold in the absence of cost or
+       profit measurement (Baron-Myerson 1982) as then a single instrument (the vector
+       of prices) must accomplish two goals: capture the firm’s rent and limit the departure
+       from Ramsey-Boiteux principles.
+16.    This, of course, is very much of an idealization. In theory, the weights should be
+       equal to the anticipated quantities at the Ramsey-Boiteux prices (not those that
+       result from the firm’s choice so as not to let it manipulate the weights); intuitively,
+       an increase in price pi generates a reduction of consumer surplus equal to the quan-
+       tity of good i; a price cap based on the anticipated quantities therefore creates just
+       the right “internalization” of consumer surplus. The caveat is of course asymmet-
+       ric information: the regulator does not know the Ramsey-Boiteux quantities. More
+       research is needed on this front (see Armstrong-Vickers 2000 for a contribution
+       in this direction). Empirically, though, the use of price caps has had a substantial
+       rebalancing effect toward a Ramsey-Boiteux-oriented price structure.
+17.    To see this, suppose that good i is supplied by a competitive downstream fringe
+       at marginal cost cD. The regulated firm owns the bottleneck input that allows the
+       downstream fringe to operate. The upstream marginal cost is cU. Let ci= cD + cU. If
+       access is given at access price a = cD, then pi = ci is lower than in the Ramsey-Boiteux
+       formula. The fixed cost must then be recouped entirely through (very high) prices
+       on goods for which the regulated firm faces no competition. For more on such
+       “one-way” access pricing, see Laffont-Tirole (1994). Here I will not discuss “two-
+       way” access pricing, in which owners of competitive bottlenecks (e.g., mobile phone
+
+
+Market Failures and Public Policy527
+
+
+      companies) give each other access; there is an abundant literature on this since the
+      early work of Armstrong (1998) and Laffont et al (1998).
+18.   The case of payment cards is more complex than the other examples, since the card/
+      cash payment decision is coupled with the decision as to whether to come to the
+      store and inspect and purchase the good. This coupling implies that the merchant
+      may be willing to take cards even if the benefit he derives from a card payment
+      relative to a cash payment is smaller than the “merchant fee” that he has to pay for
+      the card payment. The reason for this is two-fold: he may want to attract informed
+      customers by accepting cards (Rochet-Tirole 2002) and he may be afraid that card
+      refusal will lead to lost sales from unaware customers (Bourguignon et al 2014).
+      Either way, the merchant perceives the card as a “must-take card.”
+19.   There are many theoretical and empirical analyses of two-sided markets, includ-
+      ing among the early theory pieces Armstrong (2006), Caillaud-Jullien (2003) and
+      Rochet-Tirole (2003, 2006).
+20.   See e.g., Bourguignon et al (2014) and the literature on hold-ups/shrouded attributes.
+21.   See Rochet-Tirole (2002) and for a recent and elegant framework Edelman-Wright
+      (2014).
+22.   This principle is called the “avoided cost test” or the “tourist test” (would the mer-
+      chant rather have a customer pay by card rather than cash, given that the customer
+      is in the shop, can pay by either means of payment and a tourist and therefore will
+      not be attracted in the future by the merchant’s accepting the card?). See Rochet-
+      Tirole (2011).
+23.   There were 13 tolls between Mainz and Köln alone. Similar observations apply to the
+      Elbe River or the French rivers (Rhône, Seine, Garonne, and Loire): see Spaulding
+      (2011).
+24.   Actually, all tolls were abolished along the Rhine River.
+25.   These included airplanes, railroads, cars, TV, radio, chemicals, and many others.
+26.   Another issue is that patents may be complements at low prices (users will use
+      the complete set at such prices and so an increase in a licensing price reduces the
+      demand for the overall technology) and substitutes at higher prices.
+27.   Unequal sharing would imply that the IP owner with a lower share would have even
+      more incentives to undercut.
+28.   The undercutting equilibrium still restores the pre-pool level of competition for a
+      bad pool when there are more than two patents and/or when the patents are imper-
+      fect substitutes. But coordination problems then may lead to multiple equilibria
+      (when n > 2). Boutin (2014) shows that appending the unbundling requirement
+      (discussed below) selects the competition-restoring equilibrium.
+29.   See Rey-Tirole (2013).
+30.   See Lerner-Tirole (2015).
+
+Portrait photo of Jean Tirole by photographer Alexander Mahmoud.
+
+
+

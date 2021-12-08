@@ -1,0 +1,1155 @@
+Transaction Cost Economics:
+The Natural Progression*1
+
+Prize Lecture, December 8, 2009
+by
+Oliver E. Williamson
+University of California, Berkeley, CA, U.S.A.
+
+
+
+
+The research program on which I and others have been working has been
+variously described as the “economics of governance,” the “economics of
+organization,” and “transaction cost economics.” As discussed in Section 1,
+governance is the overarching concept and transaction cost economics is the
+means by which to breathe operational content into governance and orga-
+nization. The specific issue that drew me into this research project was the
+puzzle posed by Ronald Coase in 1937: What efficiency factors determine
+when a firm produces a good or service to its own needs rather than
+outsource? As described in Section 2, my 1971 paper on “The Vertical
+Integration of Production” made headway with this issue and invited follow-
+on research that would eventually come to be referred to as transaction
+cost economics. The rudiments of transaction cost economics are set out in
+Section 3. Puzzles and challenges that arose and would require “pushing the
+logic of efficient governance to completion” are examined briefly in Section
+4. Concluding remarks follow.
+
+
+1. An Overview
+For economists, if not more generally, governance and organization are
+important if and as these are made susceptible to analysis. As described here,
+breathing operational content into the concept of governance would entail
+examining economic organization through the lens of contract rather than
+the neoclassical lens of choice, recognizing that this was an interdisciplinary
+project where economics and organization theory (and, later, aspects of the
+
+
+
+
+*
+   This paper has benefited from my presentation of an early draft to my colleagues and students at the
+University of California, Berkeley and from subsequent discussions with Steven Tadelis. I have grave doubts
+that I would have undertaken the project described herein but for (1) my interdisciplinary training at
+Carnegie (where economics and organization theory were joined), (2) my experience as Special Economic
+Assistant to the Head of the Antitrust Division at the U.S. Department of Justice (which revealed the need
+within the antitrust enforcement agencies to bring economics and organization theory together), and (3) the
+opportunity to work these issues through with my students at the University of Pennsylvania when I resumed
+teaching. (Teaching is learning, especially if the students buy into the project.)
+
+
+
+                                                                                                     455
+
+
+law) were joined, and introducing hitherto neglected transaction costs into
+the analysis. A predictive theory of economic organization was the object.
+The puzzle of vertical integration was an obvious place to start.
+
+1.1 Governance
+Whereas textbook micro-economic theory was silent on the concept of good
+governance, John R. Commons, who was a leading institutional economist
+during the first half of the 20th century, formulated the problem of economic
+organization as follows: “The ultimate unit of activity … must contain in itself
+the three principles of conflict, mutuality, and order. This unit is a transaction”
+(Commons, 1932, p. 4). Commons thereafter recommended that “theories of
+economics center on transactions and working rules, on problems of organi-
+zation, and on the … [ways] the organization of activity is … stabilized” (1950,
+p. 21).
+   This conception of economics is to be contrasted with the neoclassical
+resource allocation paradigm in two important respects: first, whereas
+Commons viewed organization and the continuity of contractual relations
+as important, the resource allocation paradigm made negligible provision
+for either but focused instead on prices and output, supply and demand;
+second, whereas the price theoretic approach to economics would become
+the “dominant paradigm” during the 20th century (Reder, 1999, p. 43), insti-
+tutional economics was mainly relegated to the history of thought because
+it failed to advance a positive research agenda that was replete with predic-
+tions and empirical testing (Stigler in Kitch, 1983, p. 170). Stalwarts notwith-
+standing, institutional economics “ran itself into the sand.”
+   This does not imply, however, that institutional economics was lacking for
+good ideas. Indeed, the Commons Triple of conflict, mutuality, and order
+prefigures the concept of governance as herein employed – in that gover-
+nance is the means by which to infuse order, thereby to mitigate conflict and
+realize mutual gain. Furthermore, the transaction is made the basic unit of
+analysis.
+   James Buchanan subsequently distinguished between lens of choice and
+lens of contract approaches to economic organization and argued that
+economics as a discipline went “wrong” in its preoccupation with the science
+of choice and the optimization apparatus associated therewith (1975, p.
+225). If “mutuality of advantage from voluntary exchange is… the most
+fundamental of all understandings in economics” (Buchanan, 2001, p. 29),
+then the lens of contract approach is an under-used perspective.
+   The past 35 years have witnessed growing interest in the use of the lens
+of contract, to include both theories that emphasize ex ante incentive
+alignment (agency theory/mechanism-design, team theory, property rights
+theory) and those for which the ex post governance of contractual relations
+is where the main analytical action resides. Transaction cost economics is
+an ex post governance construction, with emphasis on those transactions
+to which Commons called attention – namely those for which continuity (or
+breakdown) of the exchange relation is of special importance. How did
+
+456
+
+
+the attributes of such transactions differ from the ideal transaction, in both
+law and economics, of simple market exchange (where no such continuity
+ relation was implied)? What were the governance ramifications?
+Answers to these queries would entail reformulating the problem of
+economic organization in comparative contractual terms by (1) naming the
+key attributes with respect to which transactions differ, (2) describing the
+clusters of attributes that define alternative modes of governance, of which
+markets and hierarchies are two, (3) joining these parts by appealing to the
+efficient alignment hypothesis, wherein (4) predictions would be derived to
+which empirical tests would be applied and (5) public policy ramifications
+would be worked up. Antecedent to the foregoing, the contact-relevant
+attributes of human actors would be named and explicated.
+
+1.2 Organization
+Whereas the neoclassical theory of the firm treated the firm as a black box
+for transforming inputs into outputs according to the laws of technology,
+this was not, as Harold Demsetz observed, an all-purpose construction. It is a
+“mistake to confuse the firm of [neoclassical] economic theory with its real-
+world namesake. The chief mission of neoclassical economics is to under-
+stand how the price system coordinates the use of resources, not the inner
+workings of real firms” (1983, p. 377).
+   Although Demsetz did not make the case that economics and organization
+theory should be joined in a combined effort to understand firm and
+market organization of a real world kind, that is nevertheless the research
+need and opportunity as I perceived it – in no small measure because of my
+training (1960–63) in the Ph.D. program at Graduate School of Industrial
+Administration, Carnegie Mellon University. This remarkable program
+in interdisciplinary social science made the case that organization theory
+should both inform and be informed by economics.1 Herbert Simon, James
+March, and Richard Cyert played especially important roles2 in putting this
+across. Considerations of bounded rationality, the specification of goals,3
+intertemporal regularities (wherein organization takes on “a life of its own”),
+the critical importance of adaptation, the reliance within the operating parts
+on routines, and, more generally, the “architecture of complexity” were all
+basic concepts that would prove to be pertinent to an understanding of
+incomplete contracting and complex organization. Had the governance of
+contractual relations come under study at Carnegie, there is no question that
+this would have been examined in an interdisciplinary way.
+1 Jacques Dreze speaks for me, and, I am sure, for many others in his statement that “Never since [my visit
+  to Carnegie] have I experienced such intellectual excitement” (1995, p. 123). Nobel Laureates in economics
+  from the small group of faculty and students at Carnegie include Herbert Simon, Franco Modigliani,
+	Merton Miller, Robert Lucas, Edward Prescott, and Finn Kydland.
+2	Classic books by Carnegie faculty that feature economics and organization theory include Models of Man
+  (Simon, 1957b), Organizations (March and Simon, 1958), and the Behavioral Theory of the Firm (Cyert
+  and March, 1963).
+3	One way to introduce organizational considerations is to change the objective function of the firm by
+  supplanting the neoclassical assumption of profit maximization with various forms of “managerial
+  discretion” – such as sales maximization (Baumol, 1959), growth maximization (Marris, 1964), or expense
+  preference (Williamson, 1964). These efforts to introduce “realism in motivation” yielded few predictions
+  and resulted in little empirical testing.
+
+
+                                                                                                      457
+
+
+1.3 Transaction costs
+Ronald Coase, in his classic 1937 paper on “The Nature of the Firm,” was
+the first to bring the concept of transaction costs to bear on the study of
+firm and market organization. The youthful Coase (then 27 years old)
+uncovered a serious lapse in the accepted textbook theory of firm and market
+organization. Upon viewing firm and market as “alternative methods of
+coordinating production” (1937, p. 388), Coase observed that the decision
+to use one mode rather than the other should not be taken as given (as was
+the prevailing practice) but should be derived. Accordingly, Coase advised
+economists that they needed (1937, p. 389):
+
+    …to bridge what appears to be a gap in [standard] economic theory
+    between the assumption (made for some purposes) that resources are
+    allocated by means of the price mechanism and the assumption (made for
+    other purposes) that that allocation is dependent on the entrepreneur-
+    coordinator. We have to explain the basis on which, in practice, this
+    choice between alternatives is effected.
+
+The missing concept was “transaction cost.”
+   The lapse to which Coase referred had little immediate effect (Coase,
+1988, p. 23) and failed to take hold over the next 20 years, during which
+period the implicit assumption of zero transaction costs went unchallenged.
+Two important articles in the 1960s would upset this state of affairs. Upon
+pushing the logic of zero transaction costs to completion, the unforeseen
+implications of this standard assumption were displayed for all to see.
+   The first demonstration was Coase’s 1960 article on “The Problem of
+Social Cost.” Upon reformulating the externality problem in contractual
+terms and pushing the logic of zero transaction cost reasoning to comple-
+tion, an astonishing result materialized: “Pigou’s conclusion (and that of
+most economists of that era) that some kind of government action (usually
+the imposition of taxes) was required to restrain those whose actions had
+harmful effects on others (often termed negative externalities)” was incorrect
+(Coase, 1992, p. 717).4 That is because if transaction costs are zero then the
+parties to tort transactions will costlessly bargain to an efficient result which-
+ever way property rights are assigned at the outset. In that event, the emperor
+really did have no clothes: externalities and frictions of other kinds would
+vanish. That being preposterous, the real message was this: “study the world
+of positive transaction costs” (Coase, 1992, p. 717).5 Kenneth Arrow’s 1969
+
+
+4 Even the Chicago School, which had grave reservations with over-reaching uses of externality arguments,
+  was resistant to Coase’s claims that externalities vanished under zero transaction cost conditions. For a
+  discussion of Coase vs. Chicago, see Edmund Kitch (1983, pp. 220–221).
+5	Not everyone agrees. Some economists take the “Coase Theorem” – the first 15 pages of Coase (1960) −
+  to imply that costless renegotiation accurately describes contracting in practice. However, the following
+  29 pages in Coase (1960) reveal that the zero transaction cost assumption is not only wrong but undermines
+  our understanding of complex economic phenomena. Express provision for positive transaction costs
+  would thereafter need to be made if externalities and other real-world contractual phenomena are to be
+  accurately understood. Coase reaffirmed that this was his purpose in his Nobel Prize Lecture (1992,
+  p. 712).
+
+
+458
+
+
+examination of “The Organization of Economic Activity: Issues Pertinent to
+the Choice of Market versus Non-market Allocation” likewise revealed a need
+to make a place for positive transaction costs, both with respect to market
+failures and in conjunction with intermediate product market contracting:
+“the existence of vertical integration may suggest that the costs of operating
+competitive markets are not zero, as is usually assumed in our theoretical
+analysis” (1969, p. 48).
+   But whereas pushing the logic of zero transaction costs to completion
+would reveal the need to make provision for positive transaction costs, there
+were three problems. First, upon opening the “black box” of firm and market
+organization and looking inside, the black box turned out to be Pandora’s
+Box: positive transaction costs were perceived to be everywhere. That would
+prove to be a curse, in that some form of transaction cost could be invoked to
+explain any condition whatsoever after the fact, as a result of which appeal to
+transaction costs acquired a “well deserved bad name” (Fischer, 1977, p. 322).
+Second, it does not suffice to show that some types of transaction costs are
+demonstrably great. Unless these costs differ among modes (say, as between
+markets and hierarchies), such a demonstration lacks comparative contrac-
+tual significance. Third, transaction costs that pass the test of comparative
+contractual significance need to be embedded in a conceptual framework
+from which predictions can be derived and empirically tested. The unmet
+need was to focus attention on key features and provide operational content
+for the intriguing concept of positive transaction costs.
+
+
+2. The Vertical Integration of Production
+What I have referred to as the “Carnegie Triple” (Williamson, 1996, p.
+25) is this: be disciplined; be interdisciplinary; have an active mind. Being
+disciplined means to take your core discipline seriously and work at it on
+its own terms. Being interdisciplinary means to appeal to the contiguous
+social sciences ­– if and as the phenomena under study cross disciplinary
+lines. Having an active mind entails asking the question, “What is going on
+here?” rather than pronouncing “This is the law here.”6 The Carnegie Triple
+would serve me well when I named industrial organization as my field – even
+though I had never taken an industrial organization course at Carnegie (or
+elsewhere), – when I went on the job market.
+   Coase described the leading industrial organization textbooks in the 1960s
+as “applied price theory” (1972, p. 62) – with which I agree, but with a caveat:
+the structure-conduct-performance paradigm also played an important role
+in the “Harvard School” approach to the field. The organization of markets
+(especially with respect to the number and size distribution of firms and the
+condition of entry) thus figured prominently, but the organization of firms
+was ignored. Because firms were production functions for transforming
+
+
+6 For a discussion of these distinctions, see Roy D’Andrade (1986).
+
+
+                                                                            459
+
+
+inputs into outputs according to the laws of technology, the IO public policy
+lesson was this: except as contracting practices and organizational structures
+had a physical or technical basis, nonstandard and unfamiliar forms of
+contract and organization were regarded as deeply problematic and
+presumptively anticompetitive.7
+   By contrast with this one-sided interpretation of deviations from the
+norm under the prevailing IO orientation, the Carnegie perspective on
+contractual and organizational variety was that such could also serve
+efficiency purposes. This difference in perspectives would forcefully register
+when I served in 1966–67 as the Special Economic Assistant to the Head of
+the Antitrust Division of the U.S. Department of Justice, especially when I
+was asked to comment on an early draft of the Schwinn brief. The issue was
+one of vertical market restrictions and the brief advanced the argument that
+the franchise restrictions imposed by the bicycle manufacturer Schwinn
+on its (nonexclusive) franchisees were anticompetitive. My view was more
+cautious. Not only was it unclear to me that the restrictions had anticompeti-
+tive effects, but a case could be made that the restrictions in question served
+the purpose of preserving the integrity of the franchise system – additionally
+or instead (Williamson, 1985, pp. 183–189). Alas, the principal architects
+of the Schwinn brief viewed the case as an opportunity to apply the “then
+prevailing thinking of the economics profession on restricted distribution”
+(Posner, 1977, p. 1). This anticompetitive interpretation succeeded in argu-
+ments before the U.S. Supreme Court.8
+   By reason of what I perceived to be truncated and defective reasoning
+with Schwinn and other cases,9 I decided to revisit vertical integration and
+vertical market restrictions when I resumed teaching at the University of
+Pennsylvania. The graduate students and I worked our way through the
+literature and, some very good papers notwithstanding (Fellner, 1947;
+McKenzie, 1951; Stigler, 1951), satisfied ourselves that organizational
+economies played no significant role. I therefore decided to revisit vertical
+integration from a combined economics and organization theory
+perspective.
+   My paper on “The Vertical Integration of Production: Market Failure
+Considerations” differed from orthodoxy in the following respects: I (1)
+examined economic organization through the lens of contract rather than
+the orthodox lens of choice, (2) described cognition in terms of bounded
+rationality, on which account all complex contracts are incomplete, (3) made
+provision for strategic behavior (defection from the spirit of cooperation)
+
+
+7	Coase (1972, p. 67) described the prevailing monopoly predilection as follows: One important result of
+  this preoccupation with the monopoly problem is that if an economist finds something – a business practice
+  of one sort or other – that he does not understand, he looks for a monopoly explanation. And as in
+  this field we are very ignorant, the number of ununderstandable practices tends to be rather large, and the
+  reliance on a monopoly explanation, frequent.
+8	Interestingly, the Supreme Court effectively reversed Schwinn a decade later as the limits of “prevailing
+  thinking” became increasingly clear.
+9	I do not, however, mean to suggest that my disagreements were common. The leadership and staff in the
+	Antitrust Division in the late 1960s were superlative.
+
+
+460
+
+
+when an outsourced good or service experienced disturbances for which
+the stakes are great, (4) treated adaptation as the main efficiency purpose of
+economic organization, and (5) distinguished between investments in generic
+assets and specific assets, where a bilateral dependency relation between
+supplier and buyer stages was ascribed to the latter. Taken together, the
+argument comes down to this: efficient intermediate product market
+exchange is usually well served by simple market contracting if the assets
+are generic; but the advantage shifts to hierarchy as bilateral dependency
+(and the resulting risk of costly maladaptations) builds up by reason of asset
+specificity and outlier disturbances.
+   Although I initially regarded this paper as a stand-alone effort to solve
+the puzzle of the boundaries of the firm and expand our understanding of
+vertical integration, it turned out that vertical integration would become a
+paradigm for the study of complex contract and economic organization. The
+combination of incomplete contracts, bilateral dependency (contingent on
+asset specificity), and defection from the norm of coordinated adaptation
+when a contract experiences significant disturbances (for which the
+stakes are great) had application to a wide range of phenomena that were
+interpreted as variations on a theme.
+   The initial trick was to think contractually, which for many phenomena
+was easy but for others required that the phenomenon be reformulated in
+contracting terms. This, however, was merely the first step. The key concepts
+needed to be operationalized; a predictive theory needed to be worked up;
+and, as gaps and omissions arose, the logic of positive transaction costs would
+need to be pushed to completion. The first two are addressed in Section 3
+and the last in Section 4.
+
+
+3. The Rudiments
+Upon realizing that this approach to the study of economic organization had
+broad application, the basic mechanisms and the underlying logic needed
+to be worked up more systematically. The rudiments are described in three
+clusters: key conceptual moves; key operational moves; and applications.
+Common to all three clusters is the need to examine economic organization
+at a more microanalytic level of analysis, which is consistent with Simon’s
+observation that (1984, p. 40):
+
+   In the physical sciences, when errors of measurement and other noise
+   are found to be of the same order of magnitude as the phenomena
+   under study, the response is not to try to squeeze more information
+   out of the data by statistical means; it is instead to find techniques
+   for observing the phenomena at a higher level of resolution. The
+   corresponding strategy for economics is obvious: to secure new kinds
+   of data at the micro level.
+
+What follows is a very compact summary.
+
+                                                                           461
+
+
+3.1 Conceptual moves
+The basic moves here are to elaborate upon (1) the attributes of human
+actors and (2) adaptation and to introduce (3) contract laws (plural).
+   Human actors. If “Nothing is more fundamental in setting our research
+agenda and informing our research methods than our view of the nature of
+the human beings whose behavior we are studying” (Simon, 1985, p. 303),
+then social scientists are challenged to name the cognitive, self-interest, and
+other attributes of human actors on which their analyses rest.
+   The cognitive assumption that Simon has characterized as his “lodestar”
+is bounded rationality (1991, p. 86), which he describes as behavior that is
+“intendedly rational, but only limitedly so” (1957a, p. xxiv). Human actors,
+so described, are neither hyperrational nor irrational but are attempting
+effectively to cope with complex contracts that are incomplete.
+   Incompleteness notwithstanding, transaction cost economics also makes
+provision for “feasible foresight,” as reflected in George Schultz’s remarks
+about how his “training in economics has had a major influence on the way
+I think about public policy tasks, even when they have no particular relation
+to economics. Our discipline makes one think ahead, ask about indirect
+consequences, take note of variables not directly under consideration”
+(1995, p. 1). This is a recurrent theme in the discussion in Section 4 of
+pushing the logic to completion. I merely observe here that many economists
+and others within the social science community (Michels [1911] 1962; March
+and Simon, 1958) practice feasible foresight, although this is an under-used
+perspective.
+   My interpretation of Simon’s description of self-interest seeking as “frailty
+of motive” (Simon, 1985, p. 303) is that most people will do what they say
+(and some will do more) most of the time without self-consciously asking
+whether the effort is justified by expected discounted net gains. If they slip, it
+is a normal friction and often a matter of bemusement. The proposition that
+routines describe the behavior of most individuals most of the time contem-
+plates (non-strategic) benign behavior.
+   But while accurate descriptions of what is going on “most of the time”
+are plainly essential, much of what is interesting about human behavior in
+general and organizations in particular has reference not to routines but to
+exceptions. Indeed, once good routines have been developed, the chief role
+of management is to deal with exceptions. In the context of outsourcing,
+such exceptions arise from contractual incompleteness in combination with
+consequential disturbances that push the parties to an interfirm agreement
+off of the contract curve. Strategic considerations – which arise by reason of
+information asymmetries, bilateral dependencies, weaknesses of property
+rights, and the costliness of court enforcement of contracts – will now come
+into play if, rather than mere frailty of motive, opportunism is the operative
+condition.
+   Adaptations. Both the organization theorist Chester Barnard and the
+economist Friedrich Hayek took adaptation to be the main purpose of
+economic organization, but with differences. Finding little in the social
+
+462
+
+
+sciences that informed the study of internal organization (hierarchy) as he
+had experienced it, Barnard undertook to craft the relevant concepts him-
+self in his path breaking book, The Functions of the Executive (1938), where he
+focused on coordinated adaptation as accomplished in a “conscious, deliberate,
+purposeful” way through the use of administration (Barnard, 1938, chap.
+1). Hayek, by contrast, celebrated the “marvel of the market” (Hayek, 1945,
+p. 527) where autonomous adaptations are implemented spontaneously in
+response to changes in relative prices.
+   The challenge for the economics of governance was to recognize that
+adaptations of both kinds are important and to make selective provision
+for each. Rather, therefore, than be trapped in the old ideological divide
+between markets or hierarchies, transaction cost economics treats the two
+as alternative modes of governance, markets and hierarchies, both of which
+have distinctive roles to play in a well-working economy. The heretofore
+maligned mode of hierarchy is now awarded co-equal status with the marvel
+of the market, the object being to deploy each appropriately.
+   Contract laws (plural). As against the standard practice of there being one
+all-purpose law of contract, Karl Llewellyn, who was a leader in the Legal
+Realism Movement in the United States, moved beyond the concept of
+contract as legal rules (with court enforcement) by introducing the idea
+of “contract as framework,” predominantly as implemented by private
+ordering. Specifically, the “major importance of legal contract is to pro-
+vide … a framework which almost never accurately indicates real working
+relations, but which affords a rough indication around which such relations
+vary, an occasional guide in cases of doubt, and a norm of ultimate appeal
+when the relations cease in fact to work” (1931, pp. 736–737). This last
+condition is important, in that recourse to the courts for purposes of
+ultimate appeal serves to delimit threat positions. The more elastic concept
+of contract as framework nevertheless supports a (cooperative) exchange
+relation over a wider range of contractual disturbances than would a strict
+legal rules construction. As discussed below in conjunction with pushing the
+logic to completion, the contract law regime of “forbearance” has similar
+purposive origins.
+   Suffice it to observe here that adaptations (of autonomous and coordinated
+kinds) are taken to be the central purpose of organization; and viable modes
+of governance differ in contract law respects.
+
+3.2 Key operational moves
+The three key operational moves are to (1) name the attributes of the unit
+of analysis, (2) do the same for modes of governance, and (3) advance the
+efficient alignment hypothesis.
+   Unit of analysis. Various units of analysis have been proposed for studying
+organizations, yet efforts to name the defining attributes of proposed units
+are rare. The unit of analysis in the transaction cost economics setup is the
+transaction – as recommended by Commons (1932) and as is implicit in
+Coase (1 937, 1960). For transaction cost economizing purposes, the critical
+
+                                                                           463
+
+
+dimensions of transactions are complexity, the condition of asset specificity,
+and the disturbances to which a transaction is subject. As among these three,
+the attributes of transactions that have been most important to an under-
+standing of the governance of contractual relations are the conditions of
+asset specificity and outlier disturbances for which unprogrammed
+adaptations are needed.10
+   Although Jacob Marschak had made perceptive reference to specialized
+human and locational conditions and observed that “the problem of unique
+or imperfectly standardized goods… had been neglected in the textbooks”
+(1968, p. 14), the wide reach of asset specificity – to include physical, human,
+site specific, dedicated, brand name capital, and episodic (or temporal)
+forms – would become evident only as the concerted study of transaction cost
+economics got underway. Relevant in this connection is that different types
+of hazards accrue to different forms of asset specificity, which variations have
+significant organizational ramifications. Whatever the particulars, the basic
+regularity that is associated with transactions that are supported by invest-
+ments in specific assets is that these assets cannot be redeployed to alternative
+uses and users without loss of productive value (Williamson, 1971, 1975,
+1976, 1985; Klein, Crawford, and Alchian, 1978).
+   Intertemporal considerations are relevant in this connection. Thus
+although some conditions of asset specificity are evident from the outset,
+others evolve during contract implementation. (Human asset specificity that
+arises because of learning by doing is an example of the latter.) Whatever
+the source of the condition of asset specificity, the condition of nonrede-
+ployability, to which I refer above, has the effect of transforming what may
+have been a large numbers bidding competition at the outset into a small
+numbers exchange relationship during the period of the contract and at the
+contract renewal interval. Such transformations compromise the efficacy of
+simple market exchange, which is supplanted by longer term contracts (as
+supported by credible commitments) or, in the limit, by unified ownership of
+successive stages with recourse to hierarchy.11
+
+
+
+
+10	Note, however, that complexity plays a crucial role in the following respect: all complex contracts are
+   incomplete by reason of bounded rationality. Not all incompleteness, however, is consequential. I associate
+   consequential incompleteness mainly with outlier disturbances for which the stakes are great (because the
+   parties are bilaterally dependent), on which account asset specificity and uncertainty are the defining
+   features. Inconsequential incompleteness is that range of disturbances over which Llewellyn’s “contract as
+   framework” can be presumed to work well, often with the support of credible contracting mechanisms.
+	It is also, however, useful to recognize that incompleteness becomes more severe as the number of features
+   of a transaction (precision, linkages, compatibility) across which adaptations are needed increases and
+   as the number of consequential disturbances that impinge on these features increases, which disturbances
+   increase with the length of the contract.
+11	Note that because asset specificity is a design variable, the good or service to be delivered could be
+   redesigned so as to reduce asset specific features, albeit at a sacrifice in performance of the good or service
+   in question (Riordan and Williamson, 1985). Note also that whereas the emphasis on individual (bilateral)
+   transactions serves the purpose of analytical simplicity, groups of related transactions sometimes pose
+   sequencing problems. This introduces systems considerations for which real time coordination complexities
+   need to be factored in. (See note 20, infra.)
+
+
+464
+
+
+   Modes of governance. Markets and hierarchies are the two polar modes to
+which Coase referred in his 1937 paper and are the governance alternatives
+on which I focus in my paper on the vertical integration of production. This
+is wholly in the spirit of the first precept of pragmatic methodology: keep
+it simple (Solow, 2001, p. 111; Friedman, 1997, p. 196). It is noteworthy,
+however, that transaction cost economics has subsequently introduced the
+hybrid mode (Williamson, 1991; Menard, 1996) and has furthermore moved
+beyond intermediate product market contracting to interpret a wide range
+of commercial (and some noncommercial) phenomena as variations on a
+theme.
+   The critical dimensions for describing alternative modes of governance,
+of which markets and hierarchies are two, are incentive intensity, which is
+strong in autonomous stages that appropriate their streams of net receipts
+and is weak under cost-plus reward schemes; administrative command and con-
+trol, which is strong if successive stages are under unified ownership and are
+subject to coordination and dispute resolution by a common “boss”, and
+contract law regime, which is strong under a legal rules (court ordered)
+contract law regime but is weak if disputes between successive stages are
+settled by private ordering, where the firm is its own final court of ultimate
+appeal).
+   Assuming that each of these three dimensions of governance can take
+on either of these two values, weak (0) or strong (+), and that we focus on
+polar modes (market and hierarchy), there are 23=8 possible combinations.
+Which are the internally consistent combinations that describe market and
+hierarchy? As discussed elsewhere (Williamson, 1991), the syndrome that
+describes the market is strong incentive intensity, weak command and
+control at the interface, and strong (legal rules) contracting. The syndrome
+that describes hierarchy, by contrast, is weak incentive intensity, strong
+administrative command and control at the interface, and weak contract
+law regime (forbearance law). So described, market and hierarchy are polar
+opposites.
+   Efficient alignment. Transaction cost economics appeals to the efficient align-
+ment hypothesis to predict which transactions go where – to wit, transactions,
+which differ in their attributes, are aligned with governance structures, which
+differ in their cost and competences, so as to effect a (mainly) transaction
+cost economizing outcome. The basic prediction for generic transactions
+for which asset specificity is nil and the adaptive needs can be ascertained
+and implemented autonomously is that these will be procured in the
+market. Such transactions correspond to the ideal transactions in both law
+and economics. Transactions, by contrast, that are supported by significant
+investments in transaction specific assets and are subject to incompleteness
+(by reason of bounds on rationality) will experience malcoordination when
+beset by significant disturbances for which defection from cooperation
+can be projected as the stakes increase. Such transactions will benefit
+from unified ownership and coordinated adaptations as implemented by
+hierarchy.
+
+                                                                              465
+
+
+3.3 Applications
+Economic theories take on added significance if and as (1) the predictions
+are borne out by the data, (2) variations on a theme are worked out, and (3)
+public policy ramifications accrue and are displayed.
+   Empirical. Transaction cost economics both makes predictions and submits
+them to empirical testing. Not only did empirical tests of transactions cost
+economics number over 800 in 2006, but they have been broadly corroborative
+(Macher and Richman, 2008). Indeed, “despite what almost 30 years ago may
+have appeared to be insurmountable obstacles to acquiring the relevant data
+[which are often primary data of a microanalytic kind], today transaction
+cost economics stands on a remarkably broad empirical foundation”
+(Geyskens, Steenkamp and Kumar, 2006, p. 531). There is no gainsaying that
+transaction cost economics has been much more influential because of the
+empirical work that it has engendered (Whinston, 2001).
+   Variations on a theme. Transaction cost economics not only has many
+applications within the field of industrial organization but within most
+applied fields of economics as well – to include labor, public finance,
+comparative economic systems, and economic development and reform.
+Applications to business – to the fields of strategy, organizational behavior,
+marketing, finance, operations management, and accounting – are like-
+wise numerous. Numerous applications to the contiguous social sciences
+(especially sociology, political science, social psychology, and aspects of the
+law) have also been made. Such broad reach arises because any problem that
+arises as or can be reformulated as a contracting problem can be examined
+to advantage in transaction cost economizing terms.
+   Public policy.12 Although transaction cost economics has had numerous
+applications to public policy toward business (antitrust, regulation, corporate
+governance) and in some degree in the study of agriculture, public health,
+public bureaus, and economic development and reform, it is, in my
+judgment, an under-used public policy perspective – especially in the
+design of public bureaus, of which the Department of Homeland Security in
+the U.S.A. is a recent example (Cohen, Cuellar, and Weingast, 2006). An ef-
+ficiency assessment of feasible alternatives is too often scanted by a political
+process where public bureaus are designed with reference to immediate
+political purposes.
+
+
+4. Pushing the Logic to Completion
+Pushing the logic to completion is accomplished by combining the 2nd and
+3rd precepts of pragmatic methodology – namely, “get it right” and “make
+it plausible” (Solow, 2001, p. 111) Getting it right “includes translating
+economic concepts into accurate mathematics (or diagrams, or words) and
+making sure that further logical operations are correctly performed and
+
+
+12	Applications of transaction cost economics to public policy are reported in Williamson (1985, 2003, 2008,
+   2009).
+
+
+466
+
+
+verified” (Solow, 2001, p. 112); and plausible simple models of complex
+phenomena are expected to “make sense for ‘reasonable’ or ‘plausible’
+values of the important parameters” (Solow, 2001, p. 112). Also, because “not
+everything that is logically consistent is credulous” (Kreps, 1999, p. 125),
+fanciful constructions that lose contact with the phenomena are suspect −
+especially if alternative and more veridical models yield refutable implications
+that are congruent with the data. Combining precepts 2 and 3, the argument
+comes down to this: push the logic to completion, as tempered by considera-
+tions of feasibility.
+   Pushing the logic of zero transaction cost to completion with respect to
+externalities (Coase) and vertical integration (Arrow) revealed that routine
+recourse to this simplifying assumption led to counterfactual predictions, as
+a result of which economists and other social scientists were encouraged to
+push the logic of positive transaction costs to completion – both in general and as
+revealed by gaps or omissions that would become evident as the transaction
+cost economics setup evolved. Four such conditions are examined here: the
+impossibility of selective intervention, which bears on limits to firm size; the
+concept of remediableness, which has massive public policy ramifications by
+insisting on feasible, implementable solutions; credible contracting, which is
+a robust concept for expanding the range within which mutual gains from
+trade can be projected; and the test of scaling up to ascertain whether succes-
+sive application of the simple (toy) model on which the analysis rests yields
+a scaled up version that approximates the phenomenon in question. Also, I
+briefly discuss the natural progression.
+
+4.1 Selective intervention
+The limits to firm size puzzle, as posed by Frank Knight (1921, 1933) and
+Coase (1937), is this: Why can’t a large firm do everything that a collection of
+smaller firms can do and more? Tracy Lewis answers a variant of this puzzle
+as follows: because an established firm can always “use the input exactly as
+the newer entrant would have used it …[and can furthermore] improve on
+this by coordinating production from his new and existing inputs” the large
+firm will always realize greater value (Lewis, 1983, p. 1092). Transaction
+cost economics examines this argument by postulating two mechanisms –
+replication and selective intervention – which, if they could be implemented,
+would support the all-purpose superiority of larger firms.
+   Thus suppose that two successive stages of production are combined
+with the understanding that (1) the acquired stage will operate in the same
+autonomous manner post-acquisition as in the pre-acquisition status (by
+replication) except as (2) the acquiring stage intervenes selectively,
+always but only, when expected net gains can be ascribed to coordinated
+adaptations. In that event, the combined firm can never do worse (by replication)
+and will sometimes do better (by selective intervention). Accordingly, more
+integration is always better than less – which is to say that, upon repeated
+application of this logic, everything will be organized in one large firm.
+Wherein does the implementation of this logic break down?
+
+                                                                               467
+
+
+   Assuming that the buyer stage acquires the supplier stage, the four
+conditions for implementing replication and selective intervention are these:
+(1) the buyer stage as acquirer (owner) promises the acquired supplier that
+the acquired stage will continue to appropriate its net receipts (as reduced
+by overhead, maintenance, user and capital depreciation charges) in all state
+realizations – thereby preserving high-powered incentives; (2) the supplier
+promises to utilize the supply stage assets, the ownership of which has been
+transferred to and are now owned by the buyer, with “due care”; (3) the
+buyer promises always and only to exercise authority (fiat) when expected net
+benefits can be ascribed to selective intervention; and (4) the buyer promises
+candidly to reveal and divide the benefits that accrue to selective intervention
+as stipulated in the acquisition agreement. The problem is that none of
+these promises is self-enforcing. To the contrary, in the absence of three-way
+common knowledge (to include a costless arbiter),13 each condition will be
+compromised. Contributing factors include (1) the owner (buyer) controls
+the accounting system and, within limits, can declare depreciation, transfer
+prices, and benefits so as to shift net receipts to its advantage, (2) failures of
+due care become known only with delay and are difficult to prove, (3) the
+buyer can also falsely declare state realizations to favor its own stream of net
+receipts, and (4) in consideration of the foregoing, the division of benefits
+under selective intervention can be compromised. Also, (5) the political
+game is now played in a larger firm that is more susceptible to bureaucratic
+ploys and political positioning than in smaller firms.
+   The details of this brief sketch are reported elsewhere (Williamson,
+1985, Chap. 6). Suffice it to observe that the breakdowns referred to above
+are often intuited by many intelligent businessmen and their lawyers, who
+recognize the tradeoffs and factor them into the decision to integrate (or
+not). The lesson for social scientists is that markets and hierarchies differ in
+discrete structural ways and we need to come to terms with the strengths and
+weaknesses of each.
+
+4.2 Remediableness
+The remediableness criterion serves as a reality check on the practice among
+public policy analysts of assuming that transaction costs in the public sector
+are zero. Not only is that nonsense, but standard public policy proceeded in
+an asymmetric way: private sector contracting experienced market failures, by
+reason of positive transaction costs, but there was no corresponding concept
+for public sector failures.14 Little surprise, then, that convoluted public
+policy prescriptions were often (unwittingly) anchored in asymmetric appli-
+cation of zero transaction cost reasoning, of which regulation is an example
+(Coase, 1964).
+
+13 The need for three-way common knowledge, to include the arbiter, is yet another example of pushing the
+   logic to completion (Williamson, 1975, pp. 21–34). The assumption that two-way common knowledge
+   suffices is nonetheless widely held.
+14	Albeit a caricature, “normative public policy analysis began by supposing that … policy was made by an
+   omnipotent, omniscient, and benevolent dictator” (Dixit, 1996, p. 8) – which, in transaction cost terms,
+    assumes the absence of implementation obstacles, bounds on rationality, and opportunism, respectively.
+
+
+468
+
+
+   The remediableness criterion is an effort to deal symmetrically with real
+world institutions, both public and private, warts and all. The criterion is
+this: an extant mode of organization for which no superior feasible form of
+organization can be described and implemented with expected net gains is
+presumed to be efficient (Williamson, 1996, Chap. 8).
+   Because all feasible modes of organization are flawed, the feasibility
+stipulation precludes all appeals to the fiction of zero transaction costs (in
+any sector whatsoever – public, private, nonprofit, etc.) from the very outset.
+The implementation stipulation requires that the costs of implementing a
+proposed feasible alternative (one that is judged to be superior to an extant
+mode in a de novo side-by-side comparison) be included in the net gain
+calculus. The presumption that an extant mode is efficient if the expected
+net gain is negative can nevertheless be rebutted by showing that the
+obstacles to implementing an otherwise superior feasible alternative are
+“unfair.”
+   Fairness of both political and economic kinds come under review. Thus
+whereas political obstacles that are judged to be fair in circumstances where
+politics properly trumps economics (Stigler, 1992) survive, those that have
+unacceptable political origins (e.g., are unfairly discriminatory) do not.
+Likewise, whereas some economic obstacles, such as sunk costs that have
+been incurred by the incumbent, may warrant delaying the introduction
+of a superior feasible alternative, those that are judged to be unfair (e.g.,
+predatory behavior) will be challenged.15
+   The upshot is that the remediableness criterion is an effort to disallow
+asymmetric efficiency reasoning of a zero transaction cost kind and force the
+relevant efficiency issues for the making of public policy – namely, feasibility,
+implementation, and rebuttal – to the top.
+
+4.3 Credible commitments
+The concept of credible threat figures prominently in the study of rivalry
+(between nation states, in politics, and in business), where the main purpose
+of a credible threat is to deter the use of some instruments (e.g., nuclear
+weapons), thereby to deflect competition to other venues (Schelling, 1960)
+or to deter the appearance of competition altogether. The use of cost
+effective credible commitments to support exchange is related but different.
+   The basic proposition is this: absent the use of credible commitments to
+support exchange, the contractual hazards associated with many transactions
+would be perceived to be excessive. Generic investments would replace
+transaction specific investments if the latter pose too great a risk. Some
+transactions would be taken into firms. Some would never materialize.
+   Credible commitments sometimes come into place spontaneously, as
+where a history of good experience with a trader leads to a positive reputation
+
+15 To be sure, unfair obstacles to implementation may persist even after a showing that these stand in the
+   way of progress. Obstacles to efficiency nevertheless invite dissent. Some can be overturned by the
+   cumulative force of movements, of which the civil rights movement is an example, and others by perfecting
+   definitions of unfair competition.
+
+
+                                                                                                      469
+
+
+effect. Often, however, credible commitments take shape as economic actors
+consciously agree upon mechanisms that provide added assurance.16 These can take
+the form of information disclosure and auditing mechanisms, the develop-
+ment of specialized dispute settling mechanisms, whereby the parties rely
+more on private ordering than court ordering (Llewellyn, 1931; Macaulay,
+1963; Summers, 1969; Macneil, 1974, Galanter, 1981), and sometimes involve
+creating hostages to support exchange (Williamson, 1983).17
+   Credibility supports also vary with the institutional environment as among
+political jurisdictions (Levy and Spiller, 1994), to which the literature on
+positive political theory is relevant. Also relevant to the economics of gover-
+nance is the concept of contract laws (plural), an example of which is the
+concept of “forbearance law” to describe the contract law regime within
+hierarchy18 (Williamson, 1991, p. 274; emphasis added):
+
+    The implicit contract law of internal organization is that of forbearance.
+    Thus, whereas courts routinely grant standing to firms should there be
+    disputes over prices, the damages to be ascribed to delays, failures of
+    quality, and the like, courts will refuse to hear disputes between one internal
+    division and another over identical technical issues. Access to the courts
+    being denied, the parties must resolve their differences internally.
+    Accordingly, hierarchy is its own court of ultimate appeal.
+
+  The concept of forbearance law regime was introduced to fill a logical gap
+in the theory of governance. As with other forms of contract law, the efficacy
+of forbearance law varies with the integrity of the institutional environment
+(nation state) of which it is a part.
+
+4.4 Scaling up
+The object of a simple model is to capture the essence, thereby to explain
+hitherto puzzling practices and make predictions that are subjected to
+empirical testing. Often, however, simple models can also be “tested” with
+respect to scaling up. Does repeated application of the basic mechanism out
+of which the simple model works yield a result that recognizably describes
+the phenomenon in question?
+  The test of scaling up is usually ignored, possibly out of awareness that
+scaling up cannot be done. Sometimes it is scanted, possibly in the mistaken
+belief that scaling up can be accomplished easily. My position is that claims
+
+
+16 The thirty-two year coal supply agreement between the Nevada Power Company and the Northwest Trading
+	Company is illustrative (Williamson, 1991, pp. 272–273).
+17 Efforts to enhance credibility sometimes take strange forms, presumably because the parties are unable
+   to do better. Thus consider the recently unearthed tablets in Mesopotamia (dated around 1750 B.C.) which
+   reveal that self-inflicted curses were used to deter the breach of treaties. One of these reads as follows:
+   When you ask us for troops, we will not withhold our best forces, we will not answer you with evasions, we
+   shall brandish our maces and strike down your enemy… As wasted seeds do not sprout, may my seed never
+   rise, may someone else marry my wife under my eyes, and may someone else rule my country. (China Daily,
+	March 22, 1988. p. 1).
+18	Note that forbearance law precludes court jurisdiction over most internal decision making to which
+   internal consequences accrue, but court jurisdiction does apply to externalities.
+
+
+470
+
+
+of real world relevance, including public policy relevance, of any proposed
+theory of the firm that cannot be shown to scale up from toy model status to
+approximate the phenomenon of interest (e.g., the modern corporation)
+should be regarded with caution.19
+   With respect to the transaction cost theory of the firm as governance
+structure, the question is this: Does successive application of the make-
+or-buy decision, as it is applied to individual transactions in the transaction cost
+economics setup, scale up to describe something that approximates a
+multi-stage firm? Note that transaction cost economics assumes that the
+transactions of principal interest are those that take place at the interface
+between (rather than within) technologically separable stages. Upon taking the
+technological “core” as given, attention is focused as a series of separable
+make-or-buy decisions – backward, forward, and lateral – to ascertain which
+should be outsourced and which should be incorporated within the own-
+ership boundary of the firm. So described, the firm is the inclusive set of
+transactions for which the decision is to make rather than buy – which does
+implement scaling up, or at least is an approximation thereto (Williamson,
+1985, pp. 96–98).20
+
+4.5 The natural progression
+Transaction cost economics is sometimes criticized because it has not been
+fully formalized, to which I have three responses: transaction cost econom-
+ics, like many other theories, has undergone a natural progression; full
+formalization is a work-in-progress; and premature formalization runs the
+risk of a disconnection with the phenomena.
+   Theories commonly progress from informal to pre-formal to semi-formal
+to fully formal stages of development – broadly in the spirit of Thomas Kuhn
+(1970). The informal stage of transaction cost economics was the literature
+from the 1930s (especially Commons and Coase) where errors or omissions
+in the neoclassical setup were described. Pre-formal work got underway in
+the 1970s, where new concepts for reinterpreting vertical integration, vertical
+market restrictions, labor market organization, franchise bidding for natural
+
+
+
+19	Michael Jensen and William Meckling (1976) posed the question of whether their simple model of
+   entrepreneurial ownership scaled up to deal with the diversely owned modern corporation. They
+   conjectured that it did apply but deferred a demonstration of scaling up to a later paper. Alas, that paper
+   never appeared. Jensen and Meckling nevertheless candidly conceded the need for scaling up.
+20 There is, however, a caveat: scaling up, so described, does not make allowance for systems complications of
+   the kind that arose in conjunction with Boeing Aircraft’s production of the 787 Dreamliner, where
+   outsourcing confusion was rampant (Saunders, Peter, 2009, “Boeing CEO’s Bumpy Ride,” Wall Street
+   Journal, Nov. 5. http://online.wsj.com.). With the benefit of hindsight, malcoordination among outsourced
+   transactions led to costly delays which possibly could have been averted if related components for which
+   real time coordination would prove to be crucial had been produced internally. The requisite apparatus to
+   address the systems complications that can arise among groups of related trans actions has yet to be worked
+   up within transaction cost economics.
+	Applications of transaction cost economics would, however, have avoided the most serious outsourcing error
+   made by Boeing: the decision to outsource the highly specialized fuselage to Vought Aircraft Industries.
+   This transaction required significant investments in specific assets and would pose a series of adaptation
+   problems during contract implementation (Tadelis, 2010a). Boeing subsequently rectified this condition
+   by acquiring Vought (Sanders, Peter, 2009, “Boeing Takes Control of Plant,” Wall Street Journal,
+   December 23, p. B2.
+
+
+                                                                                                        471
+
+
+monopoly, and the like were forged and the conditions for efficient align-
+ment were worked out. Semi-formal work, in the 1980s and since, deals with
+credible contracting, hybrid modes, the dimensionalization of transactions
+and governance structures, a multiplicity of applications within business and
+economics and the contiguous social sciences (to include public policy), and
+extensive empirical testing. Full formalism also got underway in the 1980s
+and is still in progress. The path breaking paper by Sanford Grossman and
+Oliver Hart (1986) and the follow-on paper by Hart and John Moore (1990)
+and others in this tradition – which deal with some types of transaction
+costs (but is more often referred to as the property rights literature) – have
+been very influential. Subsequent significant work by Steven Tadelis and his
+co-authors (Bajari and Tadelis, 2001; Tadelis, 2002; Levin and Tadelis, 2010;
+Tadelis 2010b) is likewise in progress.
+
+
+5. Concluding Remarks
+What I describe as the transaction cost economics project had its origins
+in the puzzle posed by Coase in 1937: What explains the boundaries of the
+firm? I addressed this by taking the vertical integration decision to be the
+focal transaction and, upon reformulating it as a contracting problem, asked
+the following question: When and why should a firm acquire a technologi-
+cally separable component by outsourcing rather than producing to its own
+needs – where outsourcing entails contracting out and own-production
+contracting within. This question was addressed as an efficiency issue by
+selectively combining economics with organization theory. Albeit intended
+as a stand-alone research project, the vertical integration setup would open
+windows to a wide array of economic activities that arose as or could be
+reformulated in comparative contractual terms.
+   With the benefit of hindsight, transaction cost economics has undergone a
+natural progression. The informal stage got started in the 1930s with Coase’s
+challenge to the profession that firm and market organization should be
+derived rather than (as was then the practice) taken as given, to include
+the suggestion that the missing concept was transaction cost. This latter was
+buttressed by demonstrations (by Arrow and Coase) in the 1960s that much
+of standard economics was reduced to irrelevance upon pushing the logic of
+zero transaction costs to completion.
+   The pre-formal stage began in the 1970s with the application of the lens
+of contract/governance to vertical integration. Interfirm contracts that were
+incomplete by reason of bounds on rationality would experience maladaptation
+hazards if the parties were bilaterally dependent by reason of transaction
+specific investments in the face of disturbances for which the stakes are
+great (strategic defection). This economics of governance approach would
+subsequently have wide application as other contractual phenomena were
+interpreted as variations on a theme.
+   The semi-formal stage gave added prominence to the defining attributes
+of alternative modes of governance (market, hybrid, and hierarchy) as these
+
+472
+
+
+relate to differing adaptive needs, of autonomous and coordinated kinds,
+among different transactions. A series of puzzles arose as this operationalization
+effort progressed – of which the efficacy of selective intervention was one
+and scaling up was another, for which the answers would be revealed by
+pushing the logic of economic organizations to completion. Beginning in
+the early 1980s and growing exponentially thereafter, an ambitious effort
+at empirical testing got underway. Applications to public policy are likewise
+numerous and growing. Fully formal research of a transaction cost
+economics kind has taken shape and more is in progress.
+   I conclude that selectively combining law, economics, and organization
+to study the governance of contractual relations from a transaction cost
+economizing perspective has been instructive; and I project that research
+of this kind will continue to develop in conceptual, theoretical, empirical,
+and public policy respects. Research in transaction cost economics faces an
+interesting, challenging future.
+
+
+
+References
+ 1.	Arrow, Kenneth J. (1969), “The Organization of Economic Activity: Issues Pertinent
+    to the Choice of Market Versus Nonmarket Allocation” in The Analysis and Evaluation
+    of Public Expenditure: The PPB System. Vol. 1, U.S. Joint Economic Committee, 91st Congress,
+    1st Session, 59–73. Washington, DC: U.S. Government Printing Office.
+ 2. Bajari, Patrick and Steven Tadelis (2001), “Incentives Versus Transaction Costs: A
+    Theory of Procurement Contracts,” RAND Journal of Economics, 32(3): 387–407.
+ 3. Barnard, Chester (1938), The Functions of the Executive, Cambridge: Harvard University
+    Press.
+ 4. Baumol, W. J. (1959), Business Behavior, Value and Growth, New York: Macmillan.
+ 5. Ben-Porath, Yoram (1980), “The F‑Connection: Families, Friends, and Firms and the
+    Organization of Exchange,” Population and Development Review, 6 (1): 1–30.
+ 6. Buchanan, James (1975), “A Contractarian Paradigm for Applying Economic
+    Theory,” Papers and Proceedings of the Eighty-seventh Annual Meeting of the
+    American Economic Association, American Economic Review, 65 (2): 225–230.
+    – (2001). “Game Theory, Mathematics, and Economics,” Journal of Economic
+    Methodology, 8 (1): 27–32.
+ 7.	Coase, Ronald H. 1937, “The Nature of the Firm,” Economica, N.S., 4(16): 386–405.
+    Reprinted in The Nature of the Firm: Origins, Evolution, Development, 1991, ed. Oliver E.
+    Williamson and Sidney Winter, 18–33, New York: Oxford University Press.
+    – (1960), “The Problem of Social Cost,” Journal of Law and Economics, 3(1): 1–44.
+    (3): 194–197.
+    – (1972), “Industrial Organization: A Proposal for Research,” in Economic Research:
+    Retrospect and Prospect. Vol. 3, Policy Issues and Research Opportunities in Industrial
+    Organization, ed. V. R. Fuchs, 59–73, New York: National Bureau of Economic
+    Research.
+    – (1988), “The Nature of the Firm: Influence.” Journal of Law, Economics, and
+    Organization, 4 (1): 33–47.
+    – (1992), “The Institutional Structure of Production,” American Economic Review, 82
+    (4): 713–719.
+ 8.	Cohen, Dara K., Mariano-Florentino Cuellar, and Barry R. Weingast (2006), “Crisis
+    Bureaucracy: Homeland Security and the Political Design of Legal Mandates,”
+    Stanford Law Review, 59(3), 673–760.
+
+
+                                                                                           473
+
+
+ 9.	Commons, John R. (1932), “The Problem of Correlating Law, Economics, and
+    Ethics,” Wisconsin Law Review, 8: 3–26.
+    – (1950), The Economics of Collective Action, Madison: University of Wisconsin Press.
+10.	Cyert, Richard M., and James G. March (1963), A Behavioral Theory of the Firm,
+    Englewood Cliffs, NJ: Prentice-Hall.
+11. D’Andrade, Roy (1986), “Three Scientific World Views and the Covering Law
+    Model,” In Metatheory in Social Science: Pluralisms and Subjectivities, ed. Donald W. Fiske
+    and Richard A. Schweder, 19–41, Chicago: University of Chicago Press.
+12. Demsetz, Harold (1983), “The Structure of Ownership and the Theory of the Firm,”
+    Journal of Law and Economics, 26 (2): 375–390.
+13. Dixit, Avinash (1996), The Making of Economic Policy: A Transaction Cost Politics
+    Perspective, Cambridge, MA: MIT Press.
+14. Drèze, Jacques (1995), “Forty Years of Public Economics – A Personal Perspective,”
+    Journal of Economic Perspectives, 9 (2): 111–130.
+15. Fellner, William (1947), “Prices and Wages under Bilateral Oligopoly,” Quarterly
+    Journal of Economics, 61 (4): 503–532.
+16. Fischer, Stanley (1977), “Long-Term Contracting, Sticky Prices, and Monetary Policy:
+    Comment,” Journal of Monetary Economics, 3(3): 317–323.
+17. Friedman, Milton (1997), in Snowdon, Brian and Howard Vane, “Modern
+    Macroeconomics and its Evolution from a Monetarist Perspective,” Journal of Economic
+    Studies, 24 (4): 191–221.
+18.	Galanter, Marc (1981), “Justice in Many Rooms: Courts, Private Ordering, and
+    Indigenous Law,” Journal of Legal Pluralism and Unofficial Law, 19(1): 1–47.
+19.	Geyskens, Inge, Jan-Benedict E.M. Steenkamp, and Nirmalya Kumar (2006), “Make,
+    Buy, or Ally: A Meta-analysis of Transaction Cost Theory,” Academy of Management
+    Journal, 49 (3): 519–543.
+20.	Grossman, Sanford J., and Oliver D. Hart (1986), “The Costs and Benefits of
+    Ownership: A Theory of Vertical and Lateral Integration,” Journal of Political Economy,
+    94(4): 691–719.
+21.	Hart, Oliver and John Moore (1990), “Property Rights and the Nature of the Firm,”
+    Journal of Political Economy, 98 (6): 1119–1158.
+22.	Hayek, Friedrich (1945), “The Use of Knowledge in Society,” American Economic
+    Review, 35(4): 519–530.
+23. Jensen, Michael and William Meckling (1976), “Theory of the Firm: Managerial
+    Behavior, Agency Costs, and Ownership Structure,” Journal of Financial Economics,
+    3(4): 305–360.
+24. Kitch, Edmund W., ed. (1983), “The Fire of Truth: A Remembrance of Law and
+    Economics at Chicago, 1932–1970,” Journal of Law and Economics, 26(1): 163–233.
+25. Klein, Benjamin, R. A. Crawford, and A. A. Alchian (1978), “Vertical Integration,
+    Appropriable Rents, and the Competitive Contracting Process,” Journal of Law and
+    Economics, 21(2): 297–326.
+26. Knight, Frank H. (1921), Risk, Uncertainty, and Profit, New York: Houghton Mifflin.
+27. Knight, Frank H. (1933), Risk, Uncertainty, and Profit, London: London School of
+    Economics and Political Science, (Orig. pub. 1921).
+28. Kreps, David M. (1999), “Markets and Hierarchies and (Mathematical) Economic
+    Theory,” in Firms, Markets, and Hierarchies, eds. Glenn Carroll and David Teece,
+    121–155, New York: Oxford University Press.
+29. Kuhn, Thomas S. (1970), The Structure of Scientific Revolutions. 2nd ed., Chicago:
+    University of Chicago Press.
+30.	Levin, Jonathan, and Steven Tadelis (2010), “Contracting for Government Services:
+    Theory and Evidence from US Cities,” Journal of Industrial Economics, forthcoming.
+31.	Levy, Brian, and Pablo Spiller (1994), “The Institutional Foundations of Regulatory
+    Commitment: A Comparative Analysis of Telecommunications Regulation,” Journal of
+    Law, Economics and Organization, 10(2): 201–246.
+
+
+474
+
+
+32. Lewis, Tracy (1983), “Preemption, Divestiture, and Forward Contracting in a Market
+    Dominated By a Single Firm,” American Economic Review, 73(5): 1092–1101.
+33.	Llewellyn, Karl N. (1931), “What Price Contract? An Essay in Perspective,” Yale Law
+    Journal, 40: 704–751.
+34.	Macaulay, Stewart (1963), “Non-Contractual Relations in Business: A Preliminary
+    Study,” American Sociological Review, 28(1): 55–67.
+35.	Macher, Jeffrey T., and Barak D. Richman (2008), “Transaction Cost Economics: An
+    Assessment of Empirical Research in the Social Sciences,” Business and Politics, 10(1):
+    1–63.
+36.	Macneil, Ian R. (1974), “The Many Futures of Contracts,” Southern California Law
+    Review, 47: 691–816.
+37.	March, James G., and Herbert A. Simon (1958), Organizations, New York: John Wiley
+    & Sons.
+38.	Marris, Robin (1964), The Economic Theory of Managerial Capitalism, New York: Free
+    Press.
+39.	Marschak, Jacob (1968), “Economics of Inquiring, Communicating, Deciding,”
+    American Economic Review, 58(2): 1–18.
+40.	McKenzie, L. (1951), “Ideal Output and the Interdependence of Firms,” Economic
+    Journal, 61(244): 785–803.
+41.	Menard, Claude (1996), “Why Organizations Matter,” Atlantic Economic Journal, 24(4):
+    281–300.
+42.	Michels, Robert (1962), Political Parties, Glencoe, IL: Free Press.
+43. Posner, Richard A. (1977), Economic Analysis of Law. 2nd ed., Boston: Little, Brown.
+44.	Reder, Melvin W. (1999), Economics: The Culture of a Controversial Science, Chicago:
+    University of Chicago Press.
+45.	Riordan, Michael, and Oliver Williamson (1985), “Asset Specificity and Economic
+    Organization,” International Journal of Industrial Organization, 3(4): 365–378.
+46.	Schelling, Thomas C. (1960), The Strategy of Conflict, Cambridge, MA: Harvard
+    University Press.
+47.	Schultz, George (1995), “Economics in Action: Ideas, Institutions, Policies,” Papers
+    and Proceedings of the American Economic Association, American Economic Review,
+    85(2): 1–8.
+48.	Simon, Herbert (1957a), Administrative Behavior. 2nd ed., New York: Macmillan.
+    – (1957b), Models of Man, New York: John Wiley & Sons.
+    – (1984), “On the Behavioral and Rational Foundations of Economic Dynamics,”
+    Journal of Economic Behavior and Organization, 5(1): 35–56.
+    – (1985), “Human Nature in Politics: The Dialogue of Psychology with Political
+    Science,” American Political Science Review, 79(2): 293–304.
+    – (1991), Models of My Life, New York: Basic Books.
+49.	Solow, Robert (2001). “A Native Informant Speaks,” Journal of Economic Methodology, 8
+    (1): 111–112.
+50.	Stigler, George J. (1951), “The Division of Labor Is Limited By the Extent of the
+    Market,” Journal of Political Economy, 59(3): 185–193.
+    – (1992), “Law or Economics?” Journal of Law and Economics, 35(2): 455–468.
+51.	Summers, Clyde (1969), “Collective Agreements and the Law of Contracts,” Yale Law
+    Journal, 78(4): 525–575.
+52. Tadelis, Steven (2002), “Complexity, Flexibility, and the Make-or-Buy Decision,”
+    Papers and Proceedings” of the American Economic Association, American Economic
+    Review, 92(2): 433–437.
+    – (2010a), “Oliver Williamson: His Main Contribution, its Importance, and what
+    Organizations Can Learn From Him,” California Management Review, forthcoming.
+    – (2010b), “Transaction Cost Economics,” unpublished manuscript, University of
+    California, Berkeley.
+
+
+
+                                                                                      475
+
+
+53.   Whinston, Michael (2001), “Assessing Property Rights and Transaction-Cost Theories
+      of the Firm,” American Economic Review, 91(2): 184–188.
+54.   Williamson, Oliver E. (1964), The Economics of Discretionary Behavior: Managerial
+      Objectives in a Theory of the Firm, Englewood Cliffs, NJ: Prentice-Hall.
+      – (1971), “The Vertical Integration of Production: Market Failure Considerations,”
+      American Economic Review, 61(2): 112–123.
+      – (1975), Markets and Hierarchies: Analysis and Antitrust Implications, New York: Free
+      Press.
+      – (1976), “Franchise Bidding for Natural Monopoly – in General and with Respect to
+      CATV,” Bell Journal of Economics, 7(1): 73–104.
+      – (1979), “Transaction Cost Economics: The Governance of Contractual Relations,”
+      Journal of Law and Economics, 22 (2): 233–61.
+      – (1983), “Credible Commitments: Using Hostages to Support Exchange,” American
+      Economic Review, 73(4): 519–540.
+      – (1985), The Economic Institutions of Capitalism, New York: Free Press.
+      – (1991), “Comparative Economic Organization: The Analysis of Discrete Structural
+      Alternatives,” Administrative Science Quarterly, 36 (2): 269–296.
+      – (1996), The Mechanisms of Governance, New York: Oxford University Press.
+      – (2000), “The New Institutional Economics: Taking Stock, Looking Ahead,” Journal
+      of Economic Literature, 38(3): 595–613.
+      – (2002), “The Theory of the Firm as Governance Structure: From Choice to
+      Contract,” Journal of Economic Perspectives, 16(3): 171–195.
+      – (2003), “Examining Economic Organization through the Lens of Contract,”
+      Industrial and Corporate Change, 12 (4): 917–942.
+      – (2008), “Corporate Boards of Directors: In Principle and In Practice,” Journal of
+      Law, Economics, and Organization, 24(2): 247–272.
+      – (2009), “Opening the Black Box of Firm and Market Organization: Antitrust,”
+      in The Modern Firm, Corporate Governance and Investment, ed. Per-Olof Bjuggren and
+      Dennis C. Mueller, 11–42, Northampton, MA: Edward Elgar.
+Portrait photo of Professor Williamson by photographer Ulla Montan.
+
+
+
+
+476
+

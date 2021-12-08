@@ -1,0 +1,1322 @@
+MULTIPLE METAL-CARBON BONDS FOR
+CATALYTIC METATHESIS REACTIONS
+Nobel Lecture, December 8, 2005
+by
+Richard R. Schrock
+Department of Chemistry 6-331, Massachusetts Institute of Technology,
+77 Massachusetts Avenue, Cambridge, Massachusetts 02139, USA.
+
+
+
+
+It’s my great priviledge to be here today, in a position I never thought pos-
+sible. I hope the story that I will tell you will give you some idea what I have
+contributed to the area for which the Nobel Prize in Chemistry was awarded
+this year.
+   The story begins thirty two years ago in 1973, the year the Nobel Prize was
+shared by G. Wilkinson and E. O. Fischer. Wilkinson’s Nobel Lecture1 con-
+cerned the nature of a single bond between a transition metal and a carbon
+atom in an alkyl group, and emphasized the fact that the metal-carbon bond
+is not inherently weak. E. O. Fischer in his Nobel Lecture2 summarized the
+extensive chemistry of transition metal “carbene” complexes3,4 that contain a
+metal-carbon double bond discovered by him and his group in 1964 (Fig 1).5
+He also reported new “carbyne” complexes that contain a metal-carbon triple
+bond.6 It was clear that metal-carbon single bonds were of great importance
+in the emerging area of homogeneous catalysis. However, no catalytic reac-
+tions involving species that contain metal-carbon double or triple bonds were
+known. When I went to the Central Research Department of E. I. DuPont de
+Nemours and Company in 1972, transition metal organometallic chemistry
+and homogeneous catalysis were of great interest as a consequence of their
+huge potential in organic chemistry and therefore in industry.
+   In the early 1970’s inorganic chemists knew that many transition metal
+species containing a metal-carbon bond are subject to various modes of decom-
+position that are much more rapid than in a non-transition metal species such
+as Zn(CH2CH3)2 or Al(CH2CH3)3. The most common of these involves transfer
+of a ␤ hydrogen, from an ethyl group (MCH2CH3) for example, to the metal to
+
+
+                         CO                          CO
+                               CO                         CO
+                                    OCH3
+                 OC      Cr    C +           Br     W    C
+                          -
+                  OC                           OC
+                         CO                          CO
+
+Figure 1. “Low oxidation state” carbene (left) and carbyne complexes (right).
+
+216
+
+
+                  CH2R                                                            Me
+                                               CH2R
+                                                                        Me              Me
+       RCH2       M                    RCH2    Ta        CH2R                     W
+                         CH2R                                           Me               Me
+        RCH2                           RCH2              CH2R
+                                                                                  Me
+            M = Ti, Zr, Hf                    (?)
+
+Figure 2. “Peralkyl” complexes of Group 4, 5, and 6, metals in their highest possible oxida-
+ton states.
+
+
+yield a metal-hydride and an alkene. The relative stabilities of high oxidation
+state “homoleptic” or “peralkyl” compounds such as M[CH2Si(CH3)3]4,
+M(CH2C6H5)4, and M[CH2C(CH3)3]4 (M = Ti, Zr, or Hf; Fig 2), were rational-
+ized on the basis of the fact that unlike a compound having an ethyl ligand, the
+alkyl ligands in these species lack ␤ hydrogens and so of course cannot under-
+go decomposition processes that involve ␤ hydrogens.7 In 1973 Wilkinson pub-
+lished the synthesis of W(CH3)6.8 Unlike M(CH3)4 species (where M = Ti, Zr, or
+Hf) W(CH3)6 is stable at 22°C. The methyl carbon is ␣ with respect to the
+metal; there is no ␤ carbon and so no ␤ hydrogens. However, methyl species are
+not sterically protected against bimolecular reactions that involve ␣ hydrogens. As
+you can see from the note added in the proof of Wilkinson’s Nobel address,9 I
+was intrigued by high oxidation state peralkyl complexes and had chosen to ex-
+plore the organometallic chemistry of tantalum soon after my arrival at
+DuPont. Little alkyl chemistry was known of the metals in group 5 (V, Nb, Ta)
+at that time; I chose tantalum because it is next to tungsten in group 6 (Cr, Mo,
+W), and like tungsten, tantalum is relatively stable in its highest possible oxida-
+tion state, Ta(5+). Peralkyl tantalum complexes therefore must be pentaalkyls.
+   My starting point for tantalum alkyl chemistry was a paper by G. L. Juvinall10
+in which he described the low yield synthesis of niobium and tantalum
+trimethyl dichloride species through addition of dimethylzinc to the metal
+pentachlorides. I found that crystalline TaMe3Cl2 not only could be prepared
+quantitatively in pentane on a large scale (Eq 1), but it could be stored for
+
+                                                                                  H H
+                                                                              H
+                             pentane                + 2 LiMe - 2 LiCl             C
+  TaCl5 + 1.5 ZnMe2                     TaMe3Cl2                                              (1)(1)
+                         - 1.5 ZnCl2                      ether         H3C       Ta    CH3
+                                                                        H3C             CH3
+
+long periods at –40 °C in the solid state. Moreover, it reacted with two equiva-
+lents of LiMe to generate volatile, yellow, crystalline TaMe5.11 This species is
+much less stable than W(CH3)6, but much more stable than Hf(CH3)4.
+Pentamethyltantalum decomposes above 0 °C to yield ~3.7 equivalents of
+methane, and it does so in a bimolecular fashion. Pentamethyltantalum has 15
+sterically unprotected ␣ C-H bonds and the metal is highly electron-deficient
+(10 electrons, 8 shy of the preferred 18 electron count). Interactions between
+one metal center and CH bonds in another metal complex thereby are en-
+couraged, and are easier in TaMe5 than in WMe6 for simple steric reasons.
+
+                                                                                               217
+
+
+                                                                      SiMe3
+                                                                      C
+               + 5 Me3SiCH2MgCl                  Me3SiCH2                           CH2SiMe3
+      TaCl5                                1/2                  Ta         Ta                  (2)         (2)
+                                                 Me3SiCH2                           CH2SiMe3
+                                                                      C
+
+                                                                      SiMe3
+
+
+Wilkinson had just published a reaction that yielded an unusual dimeric
+species containing what he called “carbene bridge,” ␮-CSiMe3 (actually a car-
+byne bridge; Eq 2). With respect to Ta(CH2SiMe3)5 he said “It is assumed that
+a penta-alkyl complex cannot exist for steric reasons.”12 Therefore, I turned to
+experiments involving the neopentyl (CH2CMe3) ligand in order to probe the
+limit of steric crowding in homoleptic d0 tantalum pentaalkyls and the nature
+of the decomposition pathways that might be observable in such circum-
+stances. The crucial experiment (Eq 3) consisted of an attempt to prepare
+
+                                     2 LiCH2CMe3            t-BuCH2
+                                                                                    H
+              Ta(CH2CMe3)3Cl2                                             Ta    C                    (3)   (3)
+                                                       t-BuCH2
+                                       - CMe4                                       CMe3
+                                                         t-BuCH2
+
+
+Ta(CH2CMe3)5 through addition of two equivalents of LiCH2CMe3 to
+Ta(CH2CMe3)3Cl2. Instead of Ta(CH2CMe3)5, orange, crystalline, and ther-
+mally stable (Me3CCH2)3Ta=CHCMe3 was formed in quantitative yield.13 The
+exact mechanism is still not known, but it is likely that an ␣ hydrogen is activat-
+ed by the metal and subsequently removed as a proton by a neopentyl group,
+possibly in an intramolecular manner in pentaneopentyltantalum itself (Eq 4).
+                                                                     -
+                                CH2-t-Bu                             CH2-t-Bu
+                                                           +
+                                                                      H +
+               (t-BuCH2)3Ta      H               (t-BuCH2)3Ta
+                                C H                             -  C  H
+                 hydrogen
+                activation    t-Bu                                t-Bu
+                                                                                                           (4)
+                                                                            +
+                                                - CMe4                + - H
+                                                             (t-BuCH2)3Ta C                      (4)
+                                                hydrogen                    t-Bu
+                                               abstraction
+                                             (deprotonation)
+
+(Me3SiCH2)3Ta=CHSiMe3 may be an intermediate in the reaction shown in
+equation 2, but it must decompose intermolecularly to give tetramethylsilane
+and the observed dimeric species; (Me3CCH2)3Ta=CHCMe3 does not.
+   The tantalum neopentylidene complex, (Me3CCH2)3Ta=CHCMe3, was new
+in several respects. It was the first example of a stable transition metal M=CHR
+species. Second, the terminal alkylidene was formed through a new type of re-
+action, an intramolecular ␣ hydrogen abstraction from an alkyl. Third, unlike
+“carbene” complexes discovered by Fischer and his group,
+(Me3CCH2)3Ta=CHCMe3 was highly electron-deficient (10 electrons in metal-
+based bonding orbitals). Fourth, (Me3CCH2)3Ta=CHCMe3 appeared to be-
+have as if the metal were in its highest possible oxidation state with the Ta=C
+
+218
+
+
+bond being polarized so that the metal is relatively positive and the carbon re-
+latively negative, opposite to what is found in Fischer-type carbene complexes.
+Fifth, the high thermal stability and resistance of (Me3CCH2)3Ta=CHCMe3 to-
+ward intermolecular decomposition reactions, as well as toward further in-
+tramolecular reactions, suggested that other high oxidation state, four-coordi-
+nate species that contain four sterically demanding covalently bound ligands
+might be viable. This simple but important principle pervaded much of the
+high oxidation state chemistry that was developed over the next 30 years in my
+group.
+   “Deprotonation” of a neopentyl ligand to give a neopentylidene ligand sug-
+gested that a neopentylidene ligand might be deprotonated further by an ex-
+ternal base. Indeed, addition of n-butyllithium to (Me3CCH2)3Ta=CHCMe3
+led to formation of the related high oxidation state, anionic, neopentylidyne
+species, {(Me3CCH2)3Ta–––CCMe3}Li14 (Eq 5).
+                                +
+         t-BuCH2                                               t-BuCH2           Li+
+                   +        - H           BuLi                             -
+                   Ta        C                                              Ta     C   CMe3       (5)(5)
+      t-BuCH2                                                 t-BuCH2
+                                CMe3       - Butane
+        t-BuCH2                                                 t-BuCH2
+
+   Finally, it was demonstrated that even a methylene (Ta=CH2) species could
+be prepared through deprotonation of [TaCp2(CH3)2]+.15,16 Even though
+TaCp2(CH3)(CH2) contains 18 electrons in metal-based orbitals, it is unstable
+toward bimolecular decomposition to yield an ethylene complex in 50%
+yield, plus related species that are formed in the presence of some ligand L
+(Eq 6). Bimolecular decomposition of alkylidenes, especially methylenes, is a
+
+
+                                                   Me
+                        Me                              CH2
+     2       + Ta         H                 Cp2Ta             TaCp2
+                        C -
+                                                        CH2
+                            H                                  Me
+
+
+             18 electrons
+
+                                       L                         Me                         Me
+                                                         Ta           CH2    +         Ta         (6)(6)
+                                                                                              L
+                                                                 CH2
+
+
+                                                               L = CO, C2H4, PR3
+
+battle that continues to be fought today. The main point is that between 1973
+and 1975 high oxidation state tantalum-carbon double and triple bonds had
+been prepared, and they appeared to be significantly different in several im-
+portant respects from the low oxidation state species prepared by Fischer.
+  At some point in the early 1970’s I became aware of the “olefin metathesis”
+reaction (Eq 7), a startling and mysterious reaction catalyzed by homoge-
+neous Mo and W catalysts (and heterogeneous Re catalysts), the identities of
+which were not known.17-20 Physical organic experiments by (inter alia) R. H.
+
+                                                                                                   219
+
+
+                    2 RCH=CHR'                   RCH=CHR + R'CH=CHR'                                  (7)   (7)
+
+
+
+                           + RCH=CHR'       R H              - RCH=CHR
+                                                     H
+               M=CHR                        M                                      M=CHR'               (8) (8)
+                                                     R
+                                            R'   H
+
+
+
+                    2 RCCR'                         R'CCR' + RCCR                              (9)       (9)
+
+Grubbs,21-23 T. J. Katz,24,25 C. P. Casey,26 and Y. Chauvin27 were designed to de-
+termine whether the reaction proceeded by a “pair-wise” or “non-pair-wise”
+mechanism.20 It was shown that the reaction proceeded in a “non-pair-wise”
+fashion, and Chauvin was the first to propose the correct “carbene/metalacy-
+clobutane” mechanism (Eq 8) that would account for all observations.27
+However, at that time no “carbene” complexes were known that would react
+efficiently with ordinary olefins as proposed by Chauvin.
+   Alkyne metathesis (Eq 9), both heterogeous28,29 and homogeneous,30 cata-
+lyzed by Mo and W compounds of unknown type, also had been discovered.
+T. J. Katz24 proposed a mechanism of alkyne metathesis analogous to that for
+olefin metathesis (Eq 10), i.e., one that involves formation of metalacyclobuta-
+
+                                  R                           R
+               RC     CR'                                                   - RC     CR
+      M   CR                  M         R                M              R                   M   CR'          (10)
+                                                                                                            (10)
+
+                                  R'                          R'
+
+diene intermediates. Yet no “carbyne” complexes were known that would cat-
+alyze alkyne metathesis.
+   I asked myself whether the new types of tantalum “alkylidene” and “alkyli-
+dyne” complexes might not be at least the type of species that metathesize
+olefins and acetylenes, respectively, even though tantalum was not known to
+be a catalyst for either of these reactions at that time.
+   After my move to MIT in 1975, I began to explore reactions between vari-
+ous tantalum alkylidene complexes and olefins in some detail. It became
+clear (Eq 11) that electron deficient tantalum and niobium alkylidenes would
+
+
+                                        2 RCH=CH2
+                                                                                                            (11)
+                                                                                                             (11)
+               Cl     Ta                                           Cl   Ta     CH2 + 4 olefins
+                            CH-t-Bu
+               Cl                                                  Cl
+                                                                              CHR
+
+react with olefins readily to give metalacyclobutane intermediates, but these
+species would rearrange via a ␤ hydride process to give as many as four of the
+possible rearrangement products instead of losing an olefin to reform a new
+alkylidene (Eqs 12 and 13); the alkylidene chain reaction never started and
+
+220
+
+
+                                    CH(t-Bu)
+                                                    H             RHC=CH(CH2-t-Bu)
+                        CpCl2Ta           CH2                            +                     (12)(12)
+                                                                  (RCH2)HC=CH(t-Bu)
+                                    CHR
+
+
+
+                                   CH(t-Bu)
+                                                     H           CH2=CR(CH2-t-Bu)
+                        CpCl2Ta           CHR                            +                     (13)(13)
+                                                                  (CH3)RC=CH(t-Bu)
+                                   CH2
+
+no metathesis products therefore were observed.31 At an international sym-
+posium on olefin metathesis (ISOM III) in 1979 in Lyon I reported that nio-
+bium and tantalum complexes that contain t-butoxide ligands in place of chlo-
+ride ligands, such as M(CH-t-Bu)(O-t-Bu)2Cl(PMe3), could be coaxed into
+metathesizing olefins. Several dozen catalytic metathesis cycles could be ob-
+served for an olefin such as cis-2-pentene.32 It was proposed that the t-but-
+oxide ligands “prevent reduction” of the metal and “promote metathesis.” At
+that same conference I reported that an attempt to carry out a “Wittig-like”
+reaction between a tantalum alkylidene and a tungsten oxo complex to yield
+W(CH-t-Bu)(O-t-Bu)4 and Ta(O)L2Cl3, instead produced an unanticipated 18
+electron oxo neopentylidene complex of tungsten (Eq 14).33 This oxo
+        t-Bu        H
+               C                            O
+        Cl              Cl
+               Ta            +    t-BuO    W        O-t-Bu
+        L               Cl        t-BuO             O-t-Bu
+               L
+                                                                               H        t-Bu
+        L = (e.g.) PEt3                                Cl                          C
+                                                                                         L
+                                           t-BuO      Ta     O-t-Bu   +   Cl       W      O    (14)(14)
+                                            t-BuO            O-t-Bu        L
+                                                                                   Cl
+
+neopentylidene complex would react with olefins to yield metathesis prod-
+ucts and new alkylidenes that one would expect from the metathesis reaction,
+including a methylene complex, and especially rapidly in the presence of a
+trace of AlCl3. This was a convincing demonstration that the oxo alkylidene
+species react with olefins readily and reform an alkylidene complex of the
+same type from half an olefin that was present. The role of AlCl3, it was pro-
+posed, was to remove either chloride or phosphine (reversibly) and thereby
+create an empty coordination site at the electronically saturated metal center.
+   A four-coordinate neopentylidene species containing large, covalently
+bound ligands was believed to be the most likely isolable, but reactive, electron
+deficient species. A neopentylidene ligand clearly was required. We also knew
+that alkoxides were desirable, but what should the fourth, and necessarily di-
+anionic, ligand X (Fig 3) be? An oxo ligand was unsuitable because it almost
+certainly would encourage bimolecular decomposition reactions. We focussed
+on an imido ([NR]2-) ligand, an isoelectronic analog of an oxo ligand, since
+the imido ligand could be sterically protected by a large R group. After consid-
+
+                                                                                                  221
+
+
+                     X                                  i-Pr                   i-Pr
+
+                                                                     N
+                     W
+               RO
+                RO         CH-t-Bu
+                                                                     W
+                                                (CF3)2MeCO
+                                                                             CH-t-Bu
+                                                 (CF3)2MeCO
+Figure 3. Design of a stable tungsten imido alkylidene bisalkoxide complex.
+
+
+
+ering the likely synthetic difficulties associated with R being a 2,6-di-t-
+butylphenyl group, we settled on the 2,6-diisopropylphenyl group, a choice
+that in part was in response to a comment by K. B. Sharpless concerning the
+value of isopropyl groups in general versus t-butyl groups. (The 2,6-diisopropyl-
+phenyl group is found in many nitrogen-based ligands in a large variety of cata-
+lysts today.) Several large and sterically demanding tertiary alcohols and phe-
+nols were available, including fluorinated t-butanols such as (CF3)2MeCOH
+whose pKa in water (~9) is significantly less than that of t-butanol itself (~19).
+We felt that the electron withdrawing ability of the hexafluoro-t-butoxide li-
+gand should increase the electrophilicity of the metal dramatically and there-
+fore also increase the rate of the reaction of an alkylidene complex with an
+olefin. Therefore, we aimed to prepare W(NAr)(CHCMe3)[OCMe(CF3)2]2
+(Fig 3) with the expectation that this 14 electron species not only could be iso-
+lated, but that it would metathesize olefins readily.
+   Being aware of the almost magical properties of the neopentyl ligand (as
+well as neopentylidene and neopentylidyne ligands), we also were curious
+about simple reactions between W(VI) compounds (initially WCl6) and
+neopentyllithium or neopentylmagnesium chloride, and had begun exploring
+such reactions in 1977. We discovered that a volatile, yellow, crystalline alkyli-
+dyne complex could be isolated from such reactions,34 and that the reaction
+between W(OMe)3Cl3 and six equivalents of Me3CCH2MgCl in diethyl ether
+produced that species in a yield of ~50% (Eq 15).35 (Me3CCH2)3W–––CCMe3 is
+
+                                                                     t-Bu
+                      Cl
+                                                                         C
+               MeO           Cl      + 6 ClMgCH2-t-Bu
+                      W                                                  W                (15)   (15)
+               MeO           Cl                                                  CH2
+                                                               CH2            CH2
+                      OMe                                                          t-Bu
+                                                          t-Bu               t-Bu
+
+
+closely related to (Me3CCH2)3Ta=CHCMe3 in having four neopentyl or
+neopentyl-derived ligands around the metal. As we became aware of the bene-
+fits of alkoxides for efficient olefin metathesis, we became curious whether a
+trialkoxide species such as (Me3CO)3W–––CCMe3 could be prepared and
+whether it would be an efficient alkyne metathesis initiator. We were pleased to
+find that (Me3CO)3W–––CCMe3 in fact could be prepared readily (Eq 16), and
+especially pleased to find that alkynes are metathesized at room temperature
+
+222
+
+
+                           t-Bu                                               t-Bu
+
+                            C                                                   C
+                                              3 HCl in dme             Cl                  Cl
+                           W                                                   W
+                                    CH2                           Me   O
+                     CH2                       - 3 CMe4                                    Cl
+                                   CH2 t-Bu
+                                                                                O
+                  t-Bu                                                               Me
+                                  t-Bu
+
+                                                                              t-Bu                                 (16)
+                                                                               C
+                                                     3 LiO-t-Bu
+                                                                               W                            (16)
+                                                                                           O
+                                                                       O
+                                                                                       O        t-Bu
+                                                                   t-Bu
+                                                                                     t-Bu
+
+
+
+with (Me3CO)3W–––CCMe3 as the initiator36 at rates thousands of times faster
+than “black box” catalysts known in the literature. This finding proved to us
+that sterically bulky alkoxides were indeed highly beneficial for metathesis ac-
+tivity. In contrast to (Me3CO)3W–––CCMe3, (dme)Cl3W–––CCMe3 does not
+metathesize alkynes, even though a tungstenacyclobutadiene intermediate
+necessary for that transformation, e.g., Cl3W[C(t-Bu)C(CH3)C(CH3)], could
+be isolated and crystallographically characterized!37 Other reactions took
+precedence.38-40 (Me3CCH2)3W–––CCMe3 also did not metathesize internal
+alkynes; it was simply too unreactive. When the OR group in (RO)3W–––CCMe3
+was a more electron withdrawing alkoxide or phenoxide, we could isolate and
+crystallographically characterize intermediate tungstenacyclobutadiene com-
+plexes in alkyne metathesis reactions and study them in detail.41,42
+   A large variety of species that contain tungsten-tungsten or molybdenum-
+molybdenum triple bonds, X3M–––MX3 species, were known at that time,43,44
+and in particular hexa-t-butoxide ditungsten, (Me3CO)3W–––W(OCMe3)3. An
+interesting question, therefore, was whether (Me3CO)3W–––W(OCMe3)3 would
+
+          t-BuO                   O-t-Bu                                       t-BuO
+                                               R-C      C-R                 t-BuO
+         t-BuO
+                    W       W                                          2                   W      C    R   (17)    (17)
+                                    O-t-Bu
+          t-BuO                   O-t-Bu                                        t-BuO
+
+
+
+react with internal alkynes to yield (Me3CO)3W–––CR complexes (Eq 17),
+which is effectively a metathesis-like reaction? The answer turned out to be
+yes, and it did so amazingly readily.45 Although this is not a general reaction
+for all X3M–––MX3 species (M = Mo or W), the fact that it is facile only when X
+is a relatively sterically bulky alkoxide, had to be more than a coincidence.
+This discovery opened up a route to (Me3CO)3W–––CR species that did not
+rely on ␣ hydrogen abstraction reactions,46 and cemented the relationship
+between, and interconvertibility of, strong triple bonds between metals,
+between carbons (in alkynes), and between a metal and a carbon in an alkyli-
+dyne complex. It is interesting to note that the C–––N bond in nitriles is also
+cleaved readily, although the N–––N bond in dinitrogen is not. That spectacular
+reaction, which requires a (three-coordinate) triamido species, would not be
+reported until 1995.47
+
+                                                                                                                   223
+
+
+   But tungsten alkylidynes were important for an additional reason. If a
+neopentylidyne species could be prepared by removing an ␣ proton from a
+neopentylidene ligand, could not that reaction be run in the reverse direc-
+tion, i.e., could not a proton be added to a neopentylidyne species to yield a
+neopentylidene species? Moreover, could that not be accomplished in a man-
+ner that would produce the other desired metal-ligand multiple bond, name-
+ly the imido ligand, at the same time? An amido/alkylidyne complex could in
+fact be prepared readily and the proton then moved from N to C by a base
+(Eq 18). A large variety of W(NAr)(CH-t-Bu)(OR)2 complexes then could be
+
+
+                      t-Bu                         i-Pr               i-Pr              i-Pr       i-Pr
+      i-Pr      H                                            N
+                       C
+                                  NEt3 catalyst    Me             Cl t-Bu    2 LiOR
+                                                                                               N
+                                                                                                       t-Bu      (18)
+                N            Cl
+                      W                                 O    W    C                            W   C          (18)
+                Cl           O Me                       Cl           H                  RO             H
+             i-Pr                                            O                           RO
+                       O
+                                                                 Me
+                     Me
+
+
+prepared readily from the dichloride species, as long as OR was large enough
+to prevent complications that resulted from bimolecular reactions. X-ray
+structures such as that in Figure 4 showed how the t-butyl group of the
+neopentylidene ligand points toward the imido ligand (a syn orientation),
+and how the diisopropylphenyl group on nitrogen protects the imido nitro-
+gen and the alkylidene carbon atom against bimolecular reactions.
+   It soon became clear that W(NAr)(CH-t-Bu)(OR)2 species would metathe-
+size olefins in the expected manner with an activity that correlated roughly
+with the electron withdrawing power of the OR ligand. Catalysts that contain
+hexafluoro-t-butoxide ligands appeared to have the highest activities. We
+found that tungstenacyclobutane intermediates, the very intermediates pro-
+posed by Chauvin in the metathesis reaction, actually could be isolated and
+crystallographically characterized.48 However, tungstenacyclobutane stabilities
+proved to be a problem is some circumstances; loss of an olefin from an un-
+
+
+
+
+                                           1.87Å
+
+
+
+                                          145°
+                             169°    1.76Å
+
+
+
+
+                                     (a)                                          (b)
+
+Figure 4. The structure of W(NAr)(CH-t-Bu)(O-t-Bu)2; (a) top view; (b) side view.
+
+224
+
+
+                                                      Me    OTf
+                         NR'
+                                         3 TfOH        O          NR'
+        t-BuCH2      Mo                                     Mo          + R'NH3OTf         (19)
+        t-BuCH2                                dme     O          CH-t-Bu
+                                                                                               (19)
+                          NR'                - CMe4         OTf
+                                                      Me
+
+
+substituted tungstenacyclobutane intermediate, in particular, could be rela-
+tively slow. The metal therefore would remain sequestered in the form of a
+tungstenacyclobutane. Since Mo-ligand bonds are generally weaker than W-
+ligand bonds, we felt that a molybdacyclobutane complex might lose an olefin
+more readily. Therefore, we aimed to synthesize analogous Mo(NAr)(CH-t-
+Bu)(OR)2 catalysts. A synthesis of bisalkoxides was devised, the key feature of
+which is the use of an imido “protecting group” that is then removed upon ad-
+dition of triflic acid (Eq 19), thereby forming in the process a neopentylidene
+ligand from two neopentyl ligands through an ␣ hydrogen abstraction reac-
+tion in a hypothetical Mo(NR’)(CH2-t-Bu)2(Triflate)2 intermediate.49 The imi-
+do (NR’) and alkoxide groups could be varied widely and a large number of
+molybdenum catalysts therefore became accessible.
+   The molybdenum bisalkoxide catalysts are also remarkably active for a wide
+range of metathesis reactions, again especially when the alkoxide is the high-
+ly electron withdrawing OCMe(CF3)2 group, and molybdacyclobutane inter-
+mediates are less stable than tungstacyclobutane intermediates toward loss of
+olefin. The steric bulk of the OCMe(CF3)2 and Ar (2,6-diisopropylphenyl)
+groups are also of considerable importance in preventing bimolecular reac-
+tions between the intermediate Mo(NAr)(CHR’)(OR)2 species in any given
+reaction. We slowly began to understand the extent to which the metathesis
+reaction could be controlled through systematic variation of the size and the
+electronic characteristics of the alkoxide and imido groups.
+   We also discovered that two isomers of any M=CHR catalyst are possible
+(Eq 20). In the isomer that is usually observed the alkylidene’s substituent
+
+
+                                   R'                                         R'
+
+                               N        R'                                N        R'
+            RO                                             RO                                  (20)
+                         M                                            M                 (20)
+            RO                                             RO
+                               C    H                                     C t-Bu
+                  anti       t-Bu                               syn
+                                                                          H
+
+
+points toward the imido group (syn), while in the other it points away from
+the imido group (anti). Syn and anti species can be formed during the course
+of a metathesis reaction, but syn and anti isomers of any given alkylidene also
+can interconvert simply through rotation about the Mo=C bond. The rate of
+rotation of a neopentylidene or neophylidene was found to vary by a factor of
+at least 106, and to depend (largely) on the nature of the alkoxide,50,51 with
+rotation being relatively fast in the presence of alkoxide ligands such as t-but-
+oxide and relatively slow in the presence of hexafluoro-t-butoxide ligands. In
+
+                                                                                               225
+
+
+ring-opening metathesis polymerization (ROMP) studies, one of many varia-
+tions of the basic olefin metathesis reaction, we proved (for one type of poly-
+merizeable monomer) that the anti isomer was the more reactive by a factor
+of ~104. Therefore one, or the other, or both syn and anti intermediates in a
+catalytic reaction might be involved, with the outcome depending upon the
+nature of the imido and alkoxide groups, and the reactivity of the olefin in-
+volved in the reaction with syn and anti intermediates, and also the tempera-
+ture and other variables. This circumstance complicates to a considerable de-
+gree a detailed understanding of the metathesis reaction by such catalysts,
+but at the same time dramatically increases the flexibility of the catalysts and
+the possibility that a metathesis reaction will proceed efficiently.
+   Ring-opening metathesis polymerization of cyclic olefins had been studied
+for many years before well-defined catalysts were developed.17,18 We naturally
+asked whether well-defined catalysts behaved as polymerization catalysts for
+cyclic olefins, and if so, what advantages did they offer? In our only publica-
+tion together, one that resulted from my sabbatical at Caltech as a Fairchild
+scholar in 1986, Grubbs and I showed that these new well-defined catalysts did
+behave in the expected manner, and that the process could be “living” in the
+right circumstances, i.e., intermediate alkylidenes that contain the growing
+polymer chain would not decompose.52 In my laboratory we went on to show
+that the polymerization process could be controlled in a dramatic fashion to
+yield polymers with a highly regular repeating structure. Generally polymers
+with highly regular structures have the most interesting properties and there-
+fore are the most desirable. In many cases we found that the entire polymer
+structure can be controlled through minute, but critical, changes in the cata-
+lyst structure. For example (Eq 21) a highly regular cis,isotactic polymer is
+
+
+                           R        R
+                      Ph Me
+                           Me N
+                        Si
+                              Mo      CMe3
+                           O
+                             O Me H
+                                   Me
+                                                                                    (21)
+                               Si
+                                  Ph         CF3   CF3 CF3   CF3 CF3   CF3
+             CF3                             H      H H       H H       H        (21)
+           CF3          R = Me
+                                                                             x
+
+formed if the catalyst contains a specific binaphtholate ligand and a
+dimethylphenylimido group (R = CH3 in the 2,6-disubstituted phenyl
+group).53,54 In contrast, if the R group in the imido ligand is isopropyl, then the
+polymer has a relatively random structure. The smaller dimethylphenylimido
+group is believed to allow polymerization to proceed solely via syn isomers to
+give cis linkages. Control of the “tacticity,” or the way the five-membered rings
+point in this polymer, is greatest in the presence of a chiral (racemic) binaph-
+tholate ligand, which is a consequence of “enantiomorphic site control” over
+the polymerization process. In a series of experiments with related monomers
+that contain two esters made from enantiomerically pure alcohols, we could
+distinguish between isotactic and syndiotactic polymers, and therefore could
+
+226
+
+
+prove the cis,isotactic structure, which is formed through enantiomorphic site
+control, and the trans,syndiotactic structure, which is formed through chain-
+end control, for the first time in ROMP polymers.55 The degree to which one
+can control the polymer structure through systematic, tiny variations of the
+catalyst is of great importance for many ROMP polymers that are made today
+with high oxidation state alkylidene catalyst initiators.
+  For some time it had been known that “classical” Mo and W catalysts that
+would metathesize olefins would also polymerize alkynes. This suggested that
+metal alkylidenes were responsible.56-58 We showed that well-defined species
+do indeed polymerize alkynes59 or cyclopolymerize 1,6-heptadiynes60 (Eq 22)
+
+                                                                                EtO2C CO2Et
+                    EtO2C CO2Et
+
+                                                                  or                                       (22)
+                                                                                                                       (22)
+                                                             CO2Et
+                                                            CO2Et
+                                                    head-to-tail                     tail-to-tail
+
+
+to yield polymers analogous to those described in the literature. In the case of
+a cyclopolymerization of 1,6-heptadiynes such as diethyldipropargylmalonate,
+a six-membered or a five-membered ring can form, depending upon the re-
+giochemistry of the addition of the first alkyne to the alkylidene. Since the
+optical properties of such polyenes vary with the polymer’s structure and
+chain length,61 it is highly desirable to make a polymer with a single structure
+and to control the molecular weight of that polymer through a polymeriza-
+tion with a well-defined catalyst. Although work is still ongoing in this area, it
+now appears possible to do so.62,63
+   In 1992 G. C. Fu and R. H. Grubbs published two papers in which they
+demonstrated how Mo(NAr)(CHCMe2Ph)[OCMe(CF3)2]2 could be em-
+ployed to make cyclic olefins quickly and efficiently that contain functionali-
+ties other than a C=C bond,64,65 with the only other product being a volatile
+olefin such as ethylene, propylene, or butene (Fig 5). Rings of many sizes,
+and even rings that contain tetrasubstituted olefinic bonds, could be pre-
+pared. These papers helped awaken organic chemists to the possibility that
+olefin metathesis by well-defined catalysts had significant potential in organ-
+ic chemistry. The fact that the Mo and W catalysts in this general class are sen-
+
+
+      O                               O                                O
+              Ph                                                                                                  O
+                        - 2-butene        Ph               Ph      N                    - C2H4        Ph    N
+
+                        15 min, 92%                                                  2 h, 50°, 81%
+ Me       Me                                                    Me                                         Me
+
+
+                           - C2H4         O                            O    Ph          - propylene         O
+ Me       O        Ph                          Ph                                                                      Ph
+                                                            Me                  Me
+                        15 min, 92% Me                                                 180 min, 93%
+                                                                                                       Me             Me
+                                                                           Me
+Figure 5. Some ring closing metatheses initiated by Mo(NAr)(CHCMe2Ph)[OCMe(CF3)2]2.
+
+
+                                                                                                                           227
+
+
+sitive to air, moisture, and some functionalities did not prohibit their use in
+organic reactions. In 1995 A. H. Hoveyda and his group reported a synthesis
+of a cyclic natural product, Fluvirucin-B1, in which one of the steps consisted
+of a ring closing metathesis (RCM) reaction (Eq 23).66 This paper demon-
+
+                 Me                                                                   OAc
+                         OAc                                             Me     AcO Me
+                                                                                 O
+                       O N(H)COCF3                                                     N(H)COCF3
+                            OAc
+                                                   Mo cat                       O
+                     O          O
+                                                   C6H6                  O
+                                   NH                         Et                Et
+            Me        Et                Et        - CH2=CH2         HN
+                                                                               92% yield
+                                                            H2N      OH
+                                                       Me
+                                                         HO              Me
+                                                                    O                                    (23)
+                                                               O
+                                                                                                  (23)
+                                                       O
+                                             Et                Et
+                                                  HN
+                                                              Fluvirucin-B1
+
+
+
+strated that relatively complex molecules could be prepared via metathesis.
+These and other applications of metathesis technology, along with the com-
+mercial availability of Mo(NAr)(CHCMe2Ph)[OCMe(CF3)2]2, helped fuel ap-
+plications of Mo metathesis technology to organic chemistry.67 The possibili-
+ty that metathesis could be employed routinely in organic chemistry I believe
+was a significant factor that drove Grubbs to develop ruthenium catalysts in
+the early 1990’s.20,68,69
+   The use of alkyne metathesis catalysts for organic chemistry also was real-
+ized in the 1990’s, primarily through work by A. Fürstner, who showed that
+large rings could be prepared through alkyne metathesis with the
+(Me3CO)3W–––CCMe3 initiator.70 A cyclic alkyne then could be hydrogenated
+selectively to yield a cis olefin (Lindlar reduction). This alternative to alkene
+metathesis circumvented a still unsolved problem, formation of largely
+(~75%) thermodynamically more favored trans double bonds in alkene
+metathesis, instead of cis double bonds. An example is the stereoselective syn-
+thesis of civetone (Eq 24).71 Many other reactions that involve formation of a
+carbon-carbon triple bond through alkyne metathesis as part of a synthetic
+organic procedure began to appear, such as syntheses of the cytotoxic marine
+alkaloid motuporamine C,72 prostaglandin E2-1,15-lactone,73 and epothilone
+
+                 O
+                                                                                     O
+                                                   O
+
+
+
+                              W cat                            Hydrogenation
+                                                                                           (24)          (24)
+                           - MeC      CMe
+
+
+
+
+                           W cat = W(CCMe3)(OCMe3)3                             Civetone
+
+
+
+
+228
+
+
+                                         O                                            S
+H2N       N      N                                                                                         OH
+          H                                                   O                       N
+                                                                      O                       O
+        Motuporamine C                 HO
+                                                                                                  O OH O
+                                      PGE2-1,15-lactone                                   Epothilone C
+Figure 6. Some molecules whose syntheses involve alkyne metathesis to create the cis double
+bond.
+
+
+A and C, all of which contain a cis olefin within a ring (Fig 6).74 Alkyne
+metathesis can be useful in other ways, as shown in the synthesis of
+S-(+)-citreofuran (Eq 25).75 Although molybdenum-based alkyne metathesis
+
+                             O   O                                                O       O
+
+                 MeO                                               MeO
+                                                      W cat
+                                 O                                                        O
+                                                     - 2-butyne
+                       MeO                                                MeO
+                                                                                 80%
+                                                                      O      O
+                                                                                                            (25)
+                                     1. TsOH           HO
+                                                                                                  (25)
+                                     2. 9-I-9- BBN                           O
+
+                                                              HO
+
+                                                                  S-(+)-citreofuran
+
+
+
+catalysts were known,76,77 work by Cummins,78 Fürstner,79 and Moore,80
+recently have demonstrated how these relatively inaccessible Mo catalysts can
+be prepared in situ from trisamidoalkylidyne precursors.
+   With the knowledge that certain sterically protected biphenolates and bi-
+naphtholates can be attached to Mo to yield stable neopentylidene or neo-
+phylidene ROMP initiators, we turned to the development of enantiomerical-
+ly pure catalysts for asymmetric metathesis reactions in the mid 1990’s. Some
+preliminary results were obtained with an enantiomerically pure biphenolate
+catalyst (Fig 7) in 1997. We then began a collaboration with A. H. Hoveyda
+
+
+
+
+Figure 7. The structure of Mo(NAr)(CHCMe2Ph)(3,3’-di-t-butyl-5,5’,6,6’-tetramethyl-1,1’-
+biphenyl-2,2’-diolate).
+
+                                                                                                                229
+
+
+                                                       t-Bu                     i-Pr3C6H3                    Mesityl
+
+ Me        Me      i-Pr                i-Pr           O                        O                             O
+                                                        Mo                       Mo                            Mo
+      N                        N                      O                        O                             O
+
+      Mo                       Mo                      t-Bu                     i-Pr3C6H3                    Mesityl
+
+                                                       t-Bu                   Mesityl                        CHPh2
+
+ Cl        Cl                                         O Mo                    O Mo                           O
+                                                                                                               Mo
+      N                       N                       O                       O                              O
+      Mo                      Mo                                              Mesityl                        CHPh2
+                                                       t-Bu
+
+Figure 8. Imido groups and enantiomerically pure diolates (shown in racemic form) that are
+employed to make asymmetric catalysts..
+
+
+
+that was aimed at the application of asymmetric metathesis reactions to organ-
+ic synthesis.67,81,82 The modularity of the catalysts allowed us to prepare many
+enantiomerically pure variations that contain one of several different imido
+ligands and several different diolates (Fig 8). It soon became apparent that
+with the right catalyst, asymmetric reactions could be efficient in terms of
+both yield and enantioselectivity, in many cases producing a single enan-
+tiomerically pure product in virtually quantitative yield relatively quickly (Eqs
+26 and 27).83 Again, byproducts usually consist of simple olefins such as ethyl-
+
+
+
+
+                  Me               Me                     O                                 O
+                      N                           Me            Me     2 mol% cat                   Me
+                                    Me                                                                           (26)
+                    O Mo              Ph                               no solvent, Me H                          (26)
+                    O               Me            Me            Me                                  Me
+                                                                      22 °C, 5 min
+                                                                                       99% ee, 93%
+
+
+
+
+                                   R
+                   R                                     Me2                                Me2
+                               R                         Si                                 Si
+                          R                                 O                                  O
+                                                                        2 mol % cat
+                          N    R                   Me            Me                                     Me       (27)
+                          O   Me
+                                                                                                                 (27)
+                         Mo                                              no solvent,          H
+                       O O      Ph                                                          Me
+                                                                         60 °C, 4 h
+                              Me
+                      R                                                                 >99% ee, 98%
+                    R            R = i-Pr
+                            R
+
+
+
+
+           i-Pr                 i-Pr                                                            H
+                    N            Me                                                                             (28)
+                  O Mo            Ph              O                   C6H6
+                  O             Me                                                                  O            (28)
+                                              O                                                 H
+                                                                                        O
+                              5 mol %
+                                                                                       >99% ee, 76%
+
+
+
+230
+
+
+        i-Pr                  i-Pr                 OMOM                                                      OMOM
+                 N             Me
+               O Mo             Ph                       +                                                                   (29)
+                                                                                                                               (29)
+               O              Me                                         X          C6H6
+                                                             X = H, OMe, CF3                 >98% ee, 95%
+                         5 mol %                                                                                       X
+
+
+
+
+               Cl                 Cl
+                                                    Ph
+                  N                Me                    N                       20 min
+                O Mo                Me                                                                PhN
+                O                  Me
+                                                                                                                              (30)
+                                                                                                                             (30)
+                                                                               - ethylene
+                                                                                  C6H6
+                             5 mol %
+                                                                                                       >98% ee, 93%
+
+
+
+
+                                R R
+                    R    R                                        OO
+                                 RR
+                                                                                                                 O
+                        R     R N           RR                                              °C
+                                                                                         50°C
+                                                                             CC66HH66, ,50
+                                    N
+                        O     O             Me
+                                            Me
+                               MoMo
+                         O     O O            Ph
+                                              Ph                                                   95%ee,
+                                                                                                       ee,95%
+                                                                                                  95%      95%yield
+                                                                                                               yield
+                                O           Me                                                                               (31)
+                                                                                                                               (31)
+                         R    R             Me
+                          R                                                      Me                         CF3 CF3
+                    R
+                                                                       OH         Me
+       R =R = i-Pr
+          i-Pr
+                                   R    R                              OH                 H N N
+                                                                                          N H
+                                                                                           SN
+                        5 mol % %
+                           5 mol                                                           O2 S
+                                                                       O       O              O2
+                                                                       O        O
+                                                               Me              tipranavir
+                                                              Me                 tipranavir
+
+
+                                                             CHPh2
+
+                                                             OH                                  Ar
+                              Ar                             OH
+                                                                                   CHPh2 N
+                              N                              CHPh2                               Mo
+                                                                                       O
+                              Mo                                                        O             CH-t-Bu         (32)    (32)
+               Ph2N
+                                       CH-t-Bu     - 2 Ph2NH
+                Ph2N
+                                                                                            CHPh2
+
+
+
+
+ene, propylene, or butene. A wide variety of other asymmetric reactions were
+developed, among them ring-opening/ring-closing metathesis (Eq 28),84
+ring-opening/cross metathesis (Eq 29),85 and the ring closing of tertiary
+amines to yield products resembling substructures of various drugs and
+other natural products (Eq 30).86 It also was shown that the synthesis of drugs
+such as tipranavir, an HIV protease inhibitor, could be shortened dramatical-
+ly through the use of an asymmetric metathesis step to synthesize the prob-
+lematic enantiomerically pure tertiary ether (Eq 31).87,88 These are but a few
+examples of what has been accomplished in the last several years.
+
+                                                                                                                               231
+
+
+                                Ar                                              Ar
+
+                                N                                               N
+                                                       + ROH
+                  t-Bu          Mo         t-Bu                   t-Bu          Mo        t-Bu   (33)   (33)
+                                                       - CMe4
+                                                                          O
+                         t-Bu                                             R
+                         Ar = 2,6-i-Pr2C6H3                      OR = OCH(CF3)2 , OAdamantyl,
+                                                                         OCMe3, or OAr
+
+
+
+                      Ar                                                              Ar
+                      N                                                               N
+                                                  OH            - CMe4
+         t-Bu                   t-Bu                                     t-Bu             t-Bu
+              CH2 Mo C                 +          Si                            CH2 Mo C            (34)
+                                                                                                      (34)
+                      H                                                           O     H
+            t-Bu CH2                       Silica (SiO2)
+                                                                                     Si
+                Ar = 2,6-i-Pr2C6H3
+                                                                                 Silica (SiO2)
+
+
+
+   The isolation and testing of many catalyst variations side by side for one
+specific asymmetric reaction revealed that the efficiency of the asymmetric
+catalysts in terms of yield and enantioselectivity can vary dramatically, and
+that in the long run one could be relatively confident of finding an efficient
+catalyst. However, dozens of catalysts have to be prepared, isolated, and test-
+ed. Therefore, we have begun to explore the possibility of preparing catalysts
+in situ that we know exist as relatively stable species, either through addition
+of the biphenolate or binaphtholate to the bistriflate precursor (Eq 19), or
+through addition of the parent biphenol or binaphthol to a bisamido precur-
+sor (Eq 32). We have shown that catalysts prepared in situ for asymmetric
+metathesis reactions behave as well as catalysts that have been isolated and
+purified.89 Surprisingly, similar approaches using dineopentyl species led to
+formation of monoalkoxide species (Eq 33).90 Initially we thought these would
+be relatively poor metathesis catalysts, since dineopentyl species are essential-
+ly inactive for metathesis. The presence of one neopentyl and one alkoxide
+instead of two alkoxides therefore should be detrimental. However, prelimi-
+nary results suggest that monoalkoxides are highly active catalysts. Recent
+theoretical calculations in related isoelectronic rhenium systems have sug-
+gested why this might be the case.91 Formation of only monoalkoxides from
+dineopentyl species recently has allowed the synthesis of “well-defined” and
+highly active molybdenum-based (and tungsten-based) metathesis catalysts
+on silica surfaces (Eq 34) that are relatively long-lived because intermediate
+alkylidenes cannot decompose bimolecularly.92 A variety of relatively well-de-
+fined catalysts now can be prepared on silica surfaces using other Ta(V),
+Mo(VI), W(VI), and Re(VII) neopentyl precursors (Fig 9).93 In some cases
+entirely new reactions can be observed such as “alkane metathesis” by tanta-
+lum catalysts.94 This reaction has now been shown to involve alkene metathesis
+steps.95
+   Rhenium forms metathesis catalysts of the “classical” type. Therefore we
+
+232
+
+
+                                                     t-Bu                               t-Bu
+                  t-Bu
+                              H
+                         C                            C                                  C
+                         Ta                          M                   t-Bu            Re
+                                  CH2                           CH2                              CH2
+              CH2                              CH2                              C
+                               CH2                           CH2                               CH2 t-Bu
+                                    t-Bu                          t-Bu          H
+           t-Bu               t-Bu          t-Bu                                               t-Bu
+                                                            t-Bu
+
+                     Ta(V)                    M(VI) (M = Mo, W)                     Re(VII)
+
+Figure 9. “Clean” sources of catalysts formed upon addition of them to silica surfaces.
+
+
+
+felt that we should be able to prepare well-defined catalysts. In order to main-
+tain the four-coordinate geometry around a neutral Re center, a sterically de-
+manding ligand that is triply bound to the metal is required. The only logical
+choice is a neopentylidyne ligand. In fact, well-defined Re(VII) bisalkoxide
+catalysts for alkene metathesis can be prepared following the principles
+learned in W and Mo chemistry,96,97 since the neopentylidyne ligand does not
+react with olefins readily (Fig 10). Monoalkoxide mononeopentyl analogs are
+believed to be even more reactive than bisalkoxides, especially on silica sur-
+faces.91
+   Finally, we have found that M=M double bonds can form where M = Mo,98
+W,99 or Re100 as a consequence of decomposition of alkylidene species (Eq
+35). Metal-metal double bonds are unusual, especially when the double bond
+
+
+
+               Me                  Me                            Me                 Me
+
+                          N                                              N               OCMe2(CF3)
+                                        MeCH=CHEt
+                                                                                          OCMe2(CF3)
+                          W                                              W          W                     (35)
+                                                                                                          (35)
+        (CF3)Me2CO                                     (CF3)Me2CO
+                                  CH-t-Bu
+         (CF3)Me2CO                                       (CF3)Me2CO                N
+
+                                                                         Me                  Me
+
+
+
+
+is not bridged by potentially bridging ligands such as an alkoxide or an imi-
+do. The fact that these species themselves will metathesize certain olefins98
+(slowly) raises the possibility that alkylidenes are being reformed from M=M
+bonds. If this turns out to be the case, it would constitute strong evidence that
+interconversion of metal-metal, carbon-carbon, and metal-carbon bonds is
+possible for double bonds, as we know it to be for triple bonds (Eq 17).
+   We have come an enormous distance in the last 30 years, from “ill-defined”
+metathesis catalysts to those whose structure and reactivity in solution (and
+perhaps now on surfaces) we can control with pinpoint precision.
+Fundamental problems with known catalysts remain, the most important be-
+ing how to prevent catalyst decomposition and/or how to regenerate catalysts
+from “clean” decomposition products. I expect these challenges to be met
+and hope that the consequences of the synthesis and fundamental study of
+
+                                                                                                          233
+
+
+                                    R                                     t-Bu
+                                    N                                      C
+                                                    implies
+                        t-Bu        W                         t-Bu         Re
+                                            O                        C               O
+                               C
+                                        O                                        O       R
+                               H                R                    H
+                                       R                                         R
+                                   W(VI)                                 Re(VII)
+
+Figure 10. Rhenium neopentylidyne bisalkoxide complexes are olefin metathesis catalysts.
+
+
+
+new types of catalysts, and the application of them to a wide variety of prob-
+lems, will continue to be felt in the coming years.
+
+ACKNOWLEDGEMENT
+I am grateful for the freedom given to me in early years at the Central
+Research Department at duPont, for the opportunity to broaden my efforts
+and my interests at MIT, and for the support provided by various funding
+agencies (the National Science Foundation, the National Institutes of Health,
+the Navy, the Army, and the Department of Energy) over the years for high
+oxidation state organometallic chemistry and other projects. I am forever in-
+debted to my graduate and postdoctoral students, each of whom in his or her
+own way has contributed to the massive effort required to turn a few observa-
+tions and new compounds into chemistry that has had a significant impact on
+fields outside of inorganic chemistry. Finally, I want to thank my wife Nancy
+and my family for their love and support.
+
+REFERENCES
+1.    G. Wilkinson, Nobel Lecture, December 11, 1973.
+2.    E. O. Fischer, Nobel Lecture, December 11, 1973.
+3.    Fischer, E. O. Pure Appl. Chem. 1970, 24, 407.
+4.    Fischer, E. O. Pure Appl. Chem. 1972, 30, 353.
+5.    Fischer, E. O.; Maasbol, A. Angew. Chem. Int. Ed. 1964, 3, 580.
+6.    Fischer, E. O.; Kreis, G.; Kreiter, C. G.; Müller, J.; Huttner, G.; Lorenz, H. Angew. Chem.
+      Int. Ed. Engl. 1973, 12, 564.
+7.    Schrock, R. R.; Parshall, G. W. Chem. Rev. 1976, 76, 243.
+8.    Shortland, A. J.; Wilkinson, G. J. Chem. Soc., Dalton Trans. 1973, 872.
+9.    “Note added in proof. Hexamethylrhenium (K. Mertis and G. Wilkinson) and pen-
+      tamethyl[t]antalum (R. Schrock, DuPont, Wilmington, private communication) have
+      recently been synthesized;” Geoffrey Wilkinson, Nobel Lecture, December 11, 1973.
+10.   Juvinall, G. L. J. Am. Chem. Soc. 1964, 86, 4202.
+11.   Schrock, R. R.; Meakin, P. J. Am. Chem. Soc. 1974, 96, 5288.
+12.   Mowat, W.; Wilkinson, G. J. Chem. Soc, Dalton Trans. 1973, 10, 1120.
+13.   Schrock, R. R. J. Am. Chem. Soc. 1974, 96, 6796.
+14.   Guggenberger, L. J.; Schrock, R. R. J. Am. Chem. Soc. 1975, 97, 2935.
+15.   Schrock, R. R. J. Am. Chem. Soc. 1975, 97, 6577.
+16.   Schrock, R. R.; Guggenberger, L. J. J. Am. Chem. Soc. 1975, 97, 6578.
+17.   Ivin, K. J. Olefin Metathesis; Academic Press: New York, 1983.
+18.   Ivin, K. J.; Mol, J. C. Olefin Metathesis and Metathesis Polymerization; Academic Press: San
+      Diego, 1997.
+
+
+234
+
+
+19. Grubbs, R. H. In Comprehensive Organometallic Chemistry; Wilkinson, G., Stone, F. G. A.,
+    Abel, E. W., Eds.; Pergamon: New York, 1982; Vol. 8.
+20. Grubbs, R. H., Ed. Handbook of Metathesis. Catalyst Development; Wiley-VCH: Weinheim,
+    2003; Vol. 1.
+21. Grubbs, R. H.; Burk, P. L.; Carr, D. D. J. Am. Chem. Soc. 1975, 97, 3265.
+22. Grubbs, R. H.; Carr, D. D.; Hoppin, C. R.; Burk, P. L. J. Am. Chem. Soc. 1976, 98, 3478.
+23. Grubbs, R. H.; Hoppin, C. R. J. Chem. Soc., Chem. Comm. 1977, 634.
+24. Katz, T. J.; McGinnis, J. J. Am. Chem. Soc. 1975, 97, 1592.
+25. McGinnis, J.; Katz, T. J.; Hurwitz, S. J. Am. Chem. Soc. 1976, 98, 605.
+26. Casey, C. P.; Burkhardt, T. J. J. Am. Chem. Soc. 1974, 96, 7808.
+27. Hérrison, J. L.; Chauvin, Y. Makromol. Chem. 1971, 141, 161.
+28. Pannella, F.; Banks, R. L.; Bailey, G. C. J. Chem. Soc., Chem. Commun. 1968, 1548.
+29. Moulijn, J. A.; Reitsma, H. J.; Boelhouwer, C. J. Catal. 1972, 25, 434.
+30. Mortreux, A.; Blanchard, M. J. Chem. Soc. Chem. Commun. 1974, 786.
+31. McLain, S. J.; Wood, C. D.; Schrock, R. R. J. Am. Chem. Soc. 1979, 101, 4558.
+32. Schrock, R. R.; Rocklage, S. M.; Wengrovius, J. H.; Rupprecht, G.; Fellmann, J. J. Molec.
+    Catal. 1980, 8, 73.
+33. Wengrovius, J. H.; Schrock, R. R.; Churchill, M. R.; Missert, J. R.; Youngs, W. J. J. Am.
+    Chem. Soc. 1980, 102, 4515.
+34. Clark, D. N.; Schrock, R. R. J. Am. Chem. Soc. 1978, 100, 6774.
+35. Schrock, R. R.; Clark, D. N.; Sancho, J.; Wengrovius, J. H.; Rocklage, S. M.; Pedersen,
+    S. F. Organometallics 1982, 1, 1645.
+36. Wengrovius, J. H.; Sancho, J.; Schrock, R. R. J. Am. Chem. Soc. 1981, 103, 3932.
+37. Churchill, M. R.; Wasserman, H. J. J. Organomet. Chem. 1984, 270, 201.
+38. Churchill, M. R.; Fettinger, J. C.; McCullough, L. G.; Schrock, R. R. J. Am. Chem. Soc.
+    1984, 106, 3356.
+39. Churchill, M. R.; Ziller, J. W.; Pedersen, S. F.; Schrock, R. R. J. Chem. Soc., Chem.
+    Commun. 1984, 485.
+40. Schrock, R. R.; Pedersen, S. F.; Churchill, M. R.; Ziller, J. W. Organometallics 1984, 3,
+    1574.
+41. Churchill, M. R.; Ziller, J. W.; Freudenberger, J. H.; Schrock, R. R. Organometallics 1984,
+    3, 1554.
+42. Freudenberger, J. H.; Schrock, R. R.; Churchill, M. R.; Rheingold, A. L.; Ziller, J. W.
+    Organometallics 1984, 3, 1563.
+43. Buhro, W. E.; Chisholm, M. H. Adv. Organometal. Chem. 1987, 27, 311.
+44. Chisholm, M. H. Acc. Chem. Res. 1990, 23, 419.
+45. Schrock, R. R.; Listemann, M. L.; Sturgeoff, L. G. J. Am. Chem. Soc. 1982, 104, 4291.
+46. Listemann, M. L.; Schrock, R. R. Organometallics 1985, 4, 74.
+47. Laplaza, C. E.; Cummins, C. C. Science 1995, 268, 861.
+48. Feldman, J.; Schrock, R. R. Prog. Inorg. Chem. 1991, 39, 1.
+49. Schrock, R. R.; Murdzek, J. S.; Bazan, G. C.; Robbins, J.; DiMare, M.; O’Regan, M. J.
+    Am. Chem. Soc. 1990, 112, 3875.
+50. Oskam, J. H.; Schrock, R. R. J. Am. Chem. Soc. 1992, 114, 7588.
+51. Oskam, J. H.; Schrock, R. R. J. Am. Chem. Soc. 1993, 115, 11831.
+52. Schrock, R. R.; Feldman, J.; Cannizzo, L.; Grubbs, R. H. Macromolecules 1987, 20, 1169.
+53. Totland, K. M.; Boyd, T. J.; Lavoie, G. G.; Davis, W. M.; Schrock, R. R. Macromolecules
+    1996, 29, 6114.
+54. McConville, D. H.; Wolf, J. R.; Schrock, R. R. J. Am. Chem. Soc. 1993, 115, 4413.
+55. O’Dell, R.; McConville, D. H.; Hofmeister, G. E.; Schrock, R. R. J. Am. Chem. Soc. 1994,
+    116, 3414.
+56. Masuda, T.; Higashimura, T. Adv. Polym. Sci. 1987, 81, 122.
+57. Masuda, T.; Higashimura, T. Acc. Chem. Res. 1984, 17, 51.
+58. Choi, S.-K.; Gal, Y.-S.; Jin, H.-H.; Kim, H.-K. Chem. Rev. 2000, 100, 1645.
+59. Schrock, R. R.; Luo, S.; Lee, J. C. J.; Zanetti, N. C.; Davis, W. M. J. Am. Chem. Soc. 1996,
+    118, 3883.
+
+                                                                                           235
+
+
+60. Fox, H. H.; Wolf, M. O.; O’Dell, R.; Lin, B. L.; Schrock, R. R.; Wrighton, M. S. J. Am.
+    Chem. Soc. 1994, 116, 2827.
+61. Christensen, R. L.; Faksh, A.; Meyers, J. A.; Samuel, I. D. W.; Wood, P.; Schrock, R. R.;
+    Hultzsch, K. C. J. Phys. Chem. A 2004, 108, 8229.
+62. Schattenmann, F. J.; Schrock, R. R.; Davis, W. M. J. Am. Chem. Soc. 1996, 118, 3295.
+63. Anders, U.; Nuyken, O.; Buchmeiser, M. R. J. Mol. Catal. A 2004, 213, 89.
+64. Fu, G. C.; Grubbs, R. H. J. Am. Chem. Soc. 1992, 114, 5426.
+65. Fu, G. C.; Grubbs, R. H. J. Am. Chem. Soc. 1992, 114, 7324.
+66. Houri, A. F.; Xu, Z. M.; Cogan, D. A.; Hoveyda, A. H. J. Am. Chem. Soc. 1995, 117, 2943.
+67. Schrock, R. R.; Hoveyda, A. H. Angew. Chem. Int. Ed. 2003, 42, 4592.
+68. Grubbs, R. H., Ed. Handbook of Metathesis. Applications in Organic Synthesis; Wiley-VCH:
+    Weinheim, 2003; Vol. 2.
+69. Grubbs, R. H., Ed. Handbook of Metathesis. Applications in Polymer Synthesis; Wiley-VCH:
+    Weinheim, 2003; Vol. 3.
+70. Fürstner, A.; Seidel, G. Angew. Chem. Int. Ed. 1998, 37, 1734.
+71. Fürstner, A.; Seidel, G. J. Organomet. Chem. 2000, 606, 75.
+72. Fürstner, A.; Rumbo, A. J. Org. Chem. 2000, 65, 2608.
+73. Fürstner, A.; Grela, K. Angew. Chem. Int. Ed. 2000, 39, 1234.
+74. Fürstner, A.; Mathes, C.; Lehmann, C. W. Chem. Eur. J. 2001, 7, 5299.
+75. Fürstner, A.; Castanet, A.-S.; Radkowski, K.; Lehmann, C. W. J. Org. Chem. 2003, 68,
+    1521.
+76. McCullough, L. G.; Schrock, R. R. J. Am. Chem. Soc. 1984, 106, 4067.
+77. Murdzek, J. S.; Schrock, R. R. In Carbyne Complexes; VCH: New York, 1988.
+78. Tsai, Y. C.; Diaconescu, P. L.; Cummins, C. C. Organometallics 2000, 19, 5260.
+79. Fürstner, A.; Mathes, C.; Lehmann, C. W. J. Am. Chem. Soc. 1999, 121, 9453.
+80. Zhang, W.; Kraft, S.; Moore, J. S. Chem. Commun. 2003, 832.
+81. Alexander, J. B.; La, D. S.; Cefalo, D. R.; Hoveyda, A.; Schrock, R. R. J. Am. Chem. Soc.
+    1998, 120, 4041.
+82. Alexander, J. B.; Schrock, R. R.; Davis, W. M.; Hultzsch, K. C.; Hoveyda, A. H.; Houser,
+    J. H. Organometallics 2000, 19, 3700.
+83. La, D. S.; Alexander, J. B.; Cefalo, D. R.; Graf, D. D.; Hoveyda, A. H.; Schrock, R. R. J.
+    Am. Chem. Soc. 1998, 120, 9720.
+84. Weatherhead, G. S.; Ford, J. G.; Alexanian, E. J.; Schrock, R. R.; Hoveyda, A. H. J. Am.
+    Chem. Soc. 2000, 122, 1828.
+85. La, D. S.; Ford, J. G.; Sattely, E. S.; Bonitatebus, P. J.; Schrock, R. R.; Hoveyda, A. H. J.
+    Am. Chem. Soc. 1999, 121, 11604.
+86. Dolman, S. J.; Sattely, E. S.; Hoveyda, A. H.; Schrock, R. R. J. Am. Chem. Soc. 2002, 124,
+    6991.
+87. Cefalo, D. R.; Kiely, A. F.; Wuchrer, M.; Jamieson, J. Y.; Schrock, R. R.; Hoveyda, A. H.
+    J. Am. Chem. Soc. 2001, 123, 3139.
+88. Kiely, A. F.; Jernelius, J. A.; Schrock, R. R.; Hoveyda, A. H. J. Am. Chem. Soc. 2002, 124,
+    2868.
+89. Sinha, A.; unpublished results.
+90. Sinha, A.; Schrock, R. R. Organometallics 2004, 23, 1643.
+91. Solans-Monfort, X.; Clot, E.; Copéret, C.; Eisenstein, O. J. Am. Chem. Soc. 2005, 14015.
+92. Blanc, F.; Copéret, C.; Thivolle-Cazat, J.; Basset, J.-M.; Sinha, A.; Schrock, R. R. Angew.
+    Chem. Int. Ed. 2006, 45, 1216.
+93. Copéret, C.; Chabanas, M.; Saint-Arroman, R. P.; Basset, J.-M. Angew. Chem. Int. Ed.
+    2003, 42, 156.
+94. Taoufik, M.; Schwab, E.; Schultz, M.; Vanoppen, D.; Walter, M.; Thivolle-Cazat, J.;
+    Basset, J.-M. Chem. Commun. 2004, 1434.
+95. Soulivong, D.; Copéret, C.; Thivolle-Cazat, J.; Basset, J.-M.; Maunders, B. M.; Pardy, R.
+    B. A.; Sunley, G. J. Angew. Chem. Int. Ed. 2004, 43, 5366.
+96. Toreki, R.; Schrock, R. R. J. Am. Chem. Soc. 1992, 114, 3367.
+
+
+
+236
+
+
+97. Schrock, R. R.; Toreki, R.; Vaughan, G. A.; Farooq, A. In Transition-Metal Carbyne
+     Complexes; Kreissl, F. R., Ed.; Kluwer Academic: Dordrecht, The Netherlands, 1992.
+98. Schrock, R. R.; Lopez, L. P. H.; Hafer, J.; Singh, R.; Sinha, A.; Müller, P. Organometallics
+     2005, 24, 5211.
+99. Lopez, L. P. H.; Schrock, R. R. J. Am. Chem. Soc. 2004, 126, 9526.
+100. Toreki, R.; Schrock, R. R.; Vale, M. G. J. Am. Chem. Soc. 1991, 113, 3610.
+
+Portrait photo of Richard R. Schrock by photographer L. B. Hetherington.
+
+
+
+
+                                                                                           237
+

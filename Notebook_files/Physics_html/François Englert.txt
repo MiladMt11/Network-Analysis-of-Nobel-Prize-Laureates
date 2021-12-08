@@ -1,0 +1,936 @@
+            The BEH Mechanism and its Scalar Boson
+            Nobel Lecture, 8 December 2013
+
+            by François Englert
+            Université Libre de Bruxelles, Brussels, Belgium
+
+
+
+
+            1 Introduction: Short and long range interactions
+
+            Physics, as it is conceived today, attempts to interpret diverse phenomena as
+            particular manifestations of testable general laws. Since its inception in the
+            Renaissance, mainly through Galileo’s revolutionary concepts, this has been
+            an extraordinarily successful adventure—to the point where after impressive
+            developments in the first half of the twentieth century, one might have even
+            conceived that all phenomena, from the atomic scale to the edge of the visible
+            universe, are governed solely by two fundamental laws, and two known laws.
+            Namely classical general relativity, Einstein’s generalisation of Newtonian grav-
+            ity, and quantum electrodynamics, the quantum version of Maxwell’s electro-
+            magnetic theory.
+                 Gravitational and electromagnetic interactions are long range interactions,
+            meaning they act on objects no matter how far they are separated from each
+            other. The progress in the understanding of such physics applicable to large
+            scales is certainly attributable to the fact they can be perceived without the me-
+            diation of highly sophisticated technical devices. But the discovery of subatomic
+            structures had revealed the existence of other fundamental interactions that are
+            short range, that is, negligible at larger distance scales. In the early 1960s, there
+            was no consistent theoretical interpretation of short range fundamental interac-
+            tions, nor of the “weak interactions” responsible for radioactive decay, nor of the
+            “strong interactions” responsible for the formation of nuclear structures.
+                 Robert Brout and I [1], and independently Peter Higgs [2], constructed a
+            mechanism to describe short range fundamental interactions. Robert Brout
+
+                                                                                               7
+
+
+
+
+ok.indb 7                                                                                           11/4/14 2:24 PM
+
+
+      8                                                              The Nobel Prizes
+
+
+      passed away in 2011 and left me alone to tell our story. I will explain how we
+      were led to propose the mechanism, and how it allows for consistent funda-
+      mental theories of short range interactions and for building elementary particle
+      masses. It became a cornerstone of the Standard Model and was recently con-
+      firmed by the magnificent discovery at CERN of its predicted scalar boson.
+          We became convinced that a consistent formulation of short range interac-
+      tions would require a common origin for both short and long range interactions.
+          While both classical general relativity and quantum electrodynamics de-
+      scribe long range interactions and are both built upon very large symmetries, la-
+      belled “local symmetries,” they have very different structures: in contradistinc-
+      tion to general relativity, long range quantum electrodynamics is fully consistent
+      at the quantum level and was experimentally verified at that level, in particular
+      by the successful inclusion of chemistry in the realm of known physics. As a
+      valid theory of short range interactions clearly required quantum consistency,
+      we were naturally driven to take, as a model of the corresponding long range
+      interactions, the generalisation of quantum electrodynamics, known as Yang-
+      Mills theory.
+          The quantum constituents of electromagnetic waves are “photons,” massless
+      neutral particles travelling with the velocity of light. Their massless character
+      implies that the corresponding waves are polarised only in directions perpen-
+      dicular to their propagation. These features are apparently protected by local
+      symmetry, as the latter does not survive the explicit inclusion of a mass term in
+      the theory. Yang-Mills theory is built upon similar local symmetries, enlarged to
+      include several massless interacting quantum constituents, neutral and charged
+      ones. These massless objects are labelled gauge vector bosons (or often simply
+      gauge bosons).
+          To transmute long range interactions into short range ones in the context of
+      Yang-Mills theory it would suffice to give these generalised photons a mass, a
+      feature that, as we just indicated, is apparently forbidden by local symmetries.
+      Momentarily leaving aside this feature, let us first recall why massive particles
+      transmit in general short-range interactions.
+          Figure 1 is a Feynman diagram whose intuitive appearance hides a precise
+      mathematical content. Viewing time as running from bottom to top, it describes
+      the scattering of two electrons resulting from the exchange of a massive particle
+      labeled Z of mass mZ. Classically such process could not occur, as the presence
+      of the Z particle would violate energy conservation. Quantum mechanically it is
+      allowed if the violation takes place within a time span of the order ħ/mc2. This
+      process then describes in lowest order perturbation theory a short-range inter-
+      action cut-off at a range ~ ħ/mc.
+
+
+
+
+ok.indb 8                                                                                  11/4/14 2:24 PM
+
+
+            The BEH Mechanism and its Scalar Boson9
+
+
+
+                      e                                          e
+
+
+
+
+                                      Z     (m )
+                                              Z
+
+
+
+
+                                                           e
+                e
+
+
+            Figure 1. Massive particle mediating short-range interactions.
+
+
+
+                 As local symmetries apparently prevent the introduction of massive gauge
+            bosons in the theory, we turn our attention to a class of theories where the state
+            of a system is asymmetric with respect to the symmetry principles that govern
+            its dynamics. This is often the case in the statistical physics of phase transitions
+            [3]. This is not surprising, since more often than not energetic considerations
+            dictate that the ground state or low lying excited states of a many body system
+            become ordered. A collective variable such as magnetisation picks up expecta-
+            tion value, which defines an order parameter that otherwise would vanish by
+            virtue of the symmetry encoded in the formulation of the theory (isotropy in
+            the aforementioned example). This is an example of Spontaneous Symmetry
+            Breaking (SSB) which frequently occurs in the statistical theory of second or-
+            der phase transitions. Could mass of gauge bosons arise through a similar SSB?
+            This question arises naturally from the seminal work of Yoichiro Nambu, who
+            showed that SSB could be transferred from the statistical theory of phase transi-
+            tions to the realm of relativistic quantum field theory [4–6], the mathematical
+            framework designed to analyse the world of elementary particles.
+                 This raises a deeper question: could SSB be the agent of the transmutation of
+            long range interactions mediated by massless gauge fields to short range interac-
+            tions mediated by massive ones, without impairing the validity of the quantum
+            behaviour that characterise the simplest Yang-Mills theory, namely quantum
+            electrodynamics?
+                 As we shall see, the answer is yes to both questions provided that the notion
+            of SSB is traded for a more subtle one: the BEH mechanism [1, 2]. To prepare for
+            the discussion of the mechanism, I will first review how SSB can be transferred
+            from the theory of phase transitions to relativistic quantum field theory.
+
+
+
+
+ok.indb 9                                                                                          11/4/14 2:24 PM
+
+
+      10                                                                 The Nobel Prizes
+
+
+      2 Spontaneous symmetry breaking
+
+      2.1 Spontaneous symmetry breaking in phase transitions
+      Consider a condensed matter system, whose dynamics is invariant under a con-
+      tinuous symmetry. As the temperature is lowered below a critical one, the sym-
+      metry may be reduced by the appearance of an ordered phase. The breakdown
+      of the original symmetry is always a discontinuous event at the phase transi-
+      tion point, but the order parameters may set in continuously as a function of
+      temperature. In the latter case the phase transition is second order. Symmetry
+      breaking by a second order phase transition occurs in particular in ferromagne-
+      tism, superfluidity and superconductivity.
+          I will first discuss the ferromagnetic phase transition, which illustrates three
+      general features of the SSB which set in at the transition point in the low tem-
+      perature phase: ground state degeneracy, the appearance of a “massless mode”
+      when the dynamics is invariant under a continuous symmetry, and the occur-
+      rence of a “massive mode” characterising the rigidity of the order parameter.
+          In the absence of external magnetic fields and of surface effects, a ferro-
+      magnetic substance below the Curie point displays a global orientation of the
+      magnetisation, while the dynamics of the system is clearly rotation invariant;
+      namely, the Hamiltonian of the system is invariant under the full rotation group.
+      This is SSB.
+          A ferromagnetic system is composed of microscopic atomic magnets (in
+      simplified models such as the Heisenberg Model these are spin 1/2 objects)
+      whose interactions tend to orient neighbouring ones parallel to each other.
+      No global orientation appears at high temperature where the disordering ther-
+      mal motion dominates. Below a critical “Curie temperature” energy consider-
+      ations dominate and the system picks up a global magnetisation. The parallel
+
+
+
+
+      Figure 2. Classical representation of a ferromagnet ground state.
+
+
+
+
+ok.indb 10                                                                                   11/4/14 2:24 PM
+
+
+             The BEH Mechanism and its Scalar Boson11
+
+
+             orientation of neighbouring magnets propagates, ending up in a macroscopic
+             magnetisation. This selects a direction, which for an infinite isolated ferromag-
+             net is arbitrary. It is easily proven that for an infinite system any pair of possible
+             orientations defines orthogonal ground states and any local excitations on top of
+             these ground states are also orthogonal to each other. Thus the full Hilbert space
+             of the system becomes split into an infinity of disjointed Hilbert spaces. This is
+             ground state degeneracy (Figure 2).
+                  The effective thermodynamical potential V, whose minimum yields mag-
+             netisation in the absence of an external magnetic field, is depicted in Figure 3.
+                                                                
+             Above the Curie point TC the magnetisation M vanishes. Below the Curie point
+             the potential develops in a plane V Mz a double minimum which generate a val-
+             ley in the Mx, My directions. Each point of the valley defines one of the degener-
+                                                   
+             ate ground states with the same M .
+                                                        
+                  At a given minimum, say, M = M Z 1z , the curvature of the effective poten-
+             tial measures the inverse susceptibility which determines the energy for infi-
+             nite wavelength fluctuations. This is the analogue of mass in relativistic particle
+             physics. The inverse susceptibility is zero in directions transverse to the order
+             parameter and positive in the longitudinal direction. One thus obtains from the
+             transverse susceptibility a “massless” transverse mode characteristic of broken
+             continuous symmetry: these are the “spin-waves” whose quantum constituents
+             are interacting bosons called “magnons.” The longitudinal susceptibility yields a
+             (possibly unstable) “massive” longitudinal mode which corresponds to fluctua-
+             tions of the order parameter. In contradistinction to the massless mode which
+             exists only in continuous SSB for which there is a valley, the massive mode is
+             present in any SSB, continuous or discrete, and measures the rigidity of the or-
+             dered structure.
+                  The structure of Figure 3 is common to many second order phase transi-
+             tions and leads to similar consequences. However, in superconductivity a new
+
+
+
+
+             Figure 3. Effective thermodynamical potential of a ferromagnet above and below the
+             Curie point.
+
+
+
+
+ok.indb 11                                                                                            11/4/14 2:24 PM
+
+
+      12                                                              The Nobel Prizes
+
+
+      phenomenon occurs. The quantum phase symmetry is broken by a condensa-
+      tion of electron pairs bounded by an attractive force due to phonon exchange
+      in the vicinity of the Fermi surface. The condensation leads to an energy gap at
+      the Fermi surface. For neutral superconductors, this gap would host a massless
+      mode and one would recover the general features of SSB. But the presence of
+      the long-range Coulomb interactions modifies the picture. The massless mode
+      disappears: it is absorbed in electron density oscillations, namely in the “mas-
+      sive” plasma mode. As will be apparent later, this is a precursor of the BEH
+      mechanism [7, 4, 8].
+
+      2.2 Spontaneous symmetry breaking in field theory
+      Spontaneous symmetry breaking was introduced in relativistic quantum field
+      theory by Nambu in analogy with the BCS theory of superconductivity [4]. The
+      problem studied by Nambu [5] and Nambu and Jona-Lasinio [6] is the sponta-
+      neous breaking of the U(1) symmetry of massless fermions resulting from the
+      arbitrary relative (chiral) phase between their decoupled right and left constitu-
+      ent neutrinos. Chiral invariant interactions cannot generate a fermion mass in
+      perturbation theory but may do so from a (non-perturbative) fermion con-
+      densate: the condensate breaks the chiral symmetry spontaneously. Nambu [5]
+      showed that such spontaneous symmetry breaking is accompanied by a massless
+      pseudoscalar. This is interpreted as the chiral limit of the (tiny on the hadron
+      scale) pion mass. Such an interpretation of the pion constituted a breakthrough
+      in our understanding of strong interaction physics. The massless pseudoscalar
+      is the field-theoretic counterpart of the “massless” spin-wave mode in ferro-
+      magnetism. In the model of reference [6], it is shown that SSB also generates a
+      massive scalar boson which is the counterpart of the “massive mode” measuring
+      in phase transitions the rigidity of the order parameter in the spontaneously
+      broken phase.
+           The significance of the massless boson and of the massive scalar boson oc-
+      curring in SSB is well illustrated in a simple model devised by Jeffrey Goldstone
+      [9]. The potential V(ϕ1, ϕ2) depicted in Figure 4 has a rotational symmetry in the
+      plane of the real fields (ϕ1,ϕ2), or equivalently is invariant under the U(1) phase
+      of the complex field ϕ = (ϕ1 + iϕ2)/√2. This symmetry is spontaneously broken
+      by the expectation value ⟨ϕ⟩ of the ϕ-field acquired at a minimum of the poten-
+      tial in some direction of the (ϕ1, ϕ2) plane, say ⟨ϕ1⟩. Writing ϕ = ⟨ϕ⟩ + φ
+
+                                        ϕ1 = ⟨ϕ1⟩ + φ1,                             (2.1)
+
+                                           ϕ2 = φ2.                                 (2.2)
+
+
+
+
+ok.indb 12                                                                                  11/4/14 2:24 PM
+
+
+             The BEH Mechanism and its Scalar Boson13
+
+                                                     q1
+
+                            V
+
+
+
+
+                                           φ1                                                  x
+
+
+                                                q2
+                     φ2
+
+
+             Figure 4. Spontaneous symmetry breaking in the Goldstone model
+
+
+
+                 For small φ1 and φ2 we may identify the quantum fluctuation φ1 climbing
+             the potential as the massive mode measuring the rigidity of the SSB ground state
+             selected by ⟨ϕ1⟩, and the quantum fluctuation φ2 in the orthogonal valley direc-
+             tion as the massless mode characteristic of a continuous SSB.
+                 Their significance is illustrated in Figure 5 and Figure 6 depicting respec-
+             tively classical φ2 and φ1 wave modes, on the classical background ⟨ϕ1⟩. The
+             corresponding massless and massive bosons are the quantum constituents of
+             these waves.
+                 Figure 5 (a) represents schematically a lowest energy state (a “vacuum”) of
+             the system: a constant non-zero value of the field ϕ1 = ⟨ϕ1⟩ pervades space-time.
+             Figure 5 (b) depicts the excitation resulting from the rotation of half the fields in
+             the (ϕ1,ϕ2) plane. This costs only an energy localised near the surface separating
+
+
+
+                 q
+                   
+
+
+                                                                           (a)
+
+
+
+                                                                           (b)
+
+
+
+
+                                                                           (c)
+
+                                                                                 x
+               q
+                 
+
+
+             Figure 5. Massless Nambu-Goldstone mode φ2.
+
+
+
+
+ok.indb 13                                                                                           11/4/14 2:24 PM
+
+
+      14                                                              The Nobel Prizes
+
+
+      the rotated fields from the chosen vacuum. SSB indeed implies that rotating all
+      the fields would cost no energy at all: one would merely trade the initial chosen
+      vacuum for an equivalent one with the same energy. This is the characteristic
+      vacuum degeneracy of SSB. Figure 5 (c) mimics a wave of φ2. Comparing 5 (c)
+      with 5 (b), we see that as the wavelength of the wave increases indefinitely, its
+      energy tends to zero, and may be viewed as generating in that limit a motion
+      along the valley of Figure 4. Quantum excitations carried by the wave reach thus
+      zero energy at zero momentum and the mass mφ2 is zero. Figure 5 can easily
+      be generalised to more complex spontaneous symmetry breaking of continu-
+      ous symmetries. Massless bosons are thus a general feature of such SSB already
+      revealed by Nambu’s discovery of the massless pion resulting from spontaneous
+      chiral symmetry breaking [5]. They will be labelled massless Nambu-Goldstone
+      (NG) bosons. Formal proofs corroborating the above simple analysis can be
+      found in the literature [10].
+          Figure 6 depicts similarly a classical wave corresponding to a stretching of
+      the vacuum fields. These excitations in the φ1 direction describe fluctuations
+      of the order parameter ⟨φ1⟩. They are volume effects and their energy does not
+      vanish when the wavelength becomes increasingly large. They correspond in
+      Figure 4 to a climbing of the potential. The quantum excitations φ1 are thus now
+      massive. These considerations can be again extended to more general SSB (even
+      to discrete ones) to account for order parameter fluctuations. Lorentz invariance
+      imposes that such massive excitations are necessarily scalar particles. They were
+      also already present in reference [6] and will be denoted in general as massive
+      scalar bosons.
+
+
+
+             q
+               
+
+
+                                                                 (a)
+
+
+
+                                                                 (b)
+
+
+
+
+                                                                 (c)
+
+                                                                       x
+        q
+          
+
+
+      Figure 6. Massive scalar mode φ1.
+
+
+
+
+ok.indb 14                                                                                11/4/14 2:24 PM
+
+
+             The BEH Mechanism and its Scalar Boson15
+
+
+                 To summarise, φ2 describes massless bosons, φ1 massive ones, and the “or-
+             der parameter” ⟨ϕ1⟩ may be viewed as a condensate of φ1 bosons.
+
+
+
+             3 The BEH mechanism
+
+             The above considerations are restricted to spontaneous symmetry breaking of
+             global continuous symmetries. Global means that the symmetry operations are
+             independent of the space-time point x. For instance in the Goldstone model, the
+             global rotations of the fields in Figure 5 (a) in the (ϕ1,ϕ2) plane by angles inde-
+             pendent of the space-time point x are symmetries of the theory (they describes
+             motion in the valley of Figure 4): these rotations cost no energy and simply span
+             the degenerate vacua. We will now discuss the fate of SSB when the global sym-
+             metry is extended to a local one.
+
+             3.1 The fate of the Nambu-Goldstone boson and vector boson masses
+             We extend the U(1) symmetry of the Goldstone model from global to local. Thus
+             the rotation angle in the (ϕ1,ϕ2) plane in Figure 5, or equivalently the rotation
+             in the valley of Figure 4, can now be chosen independently at each space-time
+             point (x) with no cost of energy and no physical effect. To allow such feature,
+             one has to invent a new field whose transformation would cancel the energy that
+             such motion would generate in its absence. This is a “gauge vector field” Aμ. It
+             has to be a vector field to compensate energy in all space directions and it has to
+             transform in a definite way under a rotation in the (ϕ1,ϕ2) plane: this is called a
+             gauge transformation and results in a large arbitrariness in the choice of the Aμ
+             field corresponding to arbitrary “internal” rotations at different points of space.
+             The consequence of this gauge symmetry is that the waves are polarised in di-
+             rections perpendicular to their direction of propagation and that their quantum
+             constituents have to be introduced as massless objects.
+                  Local U(1) symmetry is the simplest gauge field theory and is the symmetry
+             group of quantum electrodynamics. In the local generalisation (the gauging) of
+             the Goldstone model, the introduction of the potential of Figure 4 will deeply
+             affect the “electromagnetic potential” Aμ.
+                  As in the Goldstone model of Section 1.2, the SSB Yang-Mills phase is re-
+             alised by a non vanishing expectation value for ϕ = (ϕ1 + iϕ2)/√2, which we
+             choose to be in the ϕ1-direction. Thus
+
+
+                                                ϕ = ⟨ϕ⟩ + φ,                               (3.1)
+
+
+
+
+ok.indb 15                                                                                         11/4/14 2:24 PM
+
+
+      16                                                              The Nobel Prizes
+
+
+      with ϕ1 = ⟨ϕ1⟩ + φ1 and ϕ2 = φ2. As previously φ2 and φ1 appear to describe a NG
+      massless boson and a massive scalar boson.
+          However a glance on Figure 5 depicting the NG mode immediately shows
+      that Figure 5 (b) and Figure 5 (c) differ from Figure 5 (a) only by local rotations
+      and hence in the local Goldstone model they are just symmetry (or equiva-
+      lently gauge) transformations. They cost no energy and therefore the NG boson
+      has disappeared: the corresponding fluctuations in the valley are redundant
+      (gauge transformed) descriptions of the same gauge invariant vacuum. It is
+      easy to see that this argument remains valid for any local symmetry and hence
+      Nambu-Goldstone bosons do not survive the gauging of a global SSB to a local
+      symmetry. The vacuum is no longer degenerate and strictly speaking there is
+      no spontaneous symmetry breaking of a local symmetry. The reason why the
+      phase with non vanishing scalar expectation value is often labelled SSB is that
+      one uses perturbation theory to select at zero gauge field coupling a scalar field
+      configuration from global SSB; but this preferred choice is only a convenient
+      one.
+          The disappearance of the NG boson is thus an immediate consequence of
+      local symmetry. The above argument [11] was formalised much later [12] but
+      formal proofs not directly based on the gauge invariance of the vacuum were
+      already presented in 1964 [13, 14].
+          One may now understand in qualitative terms the consequence of the dis-
+      appearance of the NG boson. Clearly, one does not expect that the degrees of
+      freedom carried by the NG ϕ2 field could vanish. As the NG boson disappears
+      because of its coupling to the gauge field, one expects that these degrees of free-
+      dom should be transferred to it. This can only occur by adding to the transverse
+      polarisation of the gauge field a longitudinal one. But such polarisation is for-
+      bidden as mentioned earlier, for a massless field. Therefore the coupling of the
+      would-be NG boson to the gauge field must render the latter massive! This is the
+      essence of the BEH mechanism.
+
+
+
+
+      Figure 7. Interaction of the gauge field with the condensate.
+
+
+
+
+ok.indb 16                                                                                  11/4/14 2:24 PM
+
+
+             The BEH Mechanism and its Scalar Boson17
+
+
+                  These qualitative considerations can be made quantitative [1] by consider-
+             ing the Feynman graphs (time runs horizontally) describing the propagation
+             of the Aμ gauge field in the vacuum with non vanishing scalar field expectation
+             value, say ⟨ϕ1⟩ ≠ 0. This propagation is depicted in lowest order in Figure 7 (time
+             runs horizontally) and the interaction of Aμ with the condensate ⟨ϕ1⟩ amounts
+             to a “polarisation” of the vacuum. The first graph shows the local interaction
+             of the gauge field with the condensate while the second one gives a non-local
+             interaction due to the propagation of a NG boson. Here e is the coupling of the
+                                                                              
+             gauge vector to matter, qμ is a four-momentum (q0 = energy; q = momentum),
+                          
+              q 2 = q02 − q 2 and gμv has only non-zero values if μ ≠ ν : 1,−1,−1,−1. The two
+             graphs add up to
+
+                                          Πμv = (gμv – qμqv/q2)Π(q2),                        (3.2)
+
+             where
+                                                Π(q2) = e2⟨ϕ1⟩2.                             (3.3)
+
+                The second factor of Equation (3.2) does not vanish when q2 = 0. In field
+             theory this means that the gauge field has acquired a mass
+                                                               2
+                                               (M V2 ) = e 2 φ1 .                            (3.4)
+
+
+                 The first factor describes the projection at q 2 = mV2 of gμv on a three-dimen-
+             sional space of polarisations, which, as explained in qualitative terms above, is
+             required for a massive vector. Its transversality (i.e. its vanishing under multipli-
+             cation by qμ) is characteristic of a “Ward Identity” which expresses the fact that
+             the local gauge symmetry has not been broken and is identical to the analogous
+             factor in quantum electrodynamics, a important fact that will be commented on
+             in the following section.
+                 The generalisation of these results to more complicated symmetries yields
+             (for real fields) a mass matrix
+
+                                      (M V2 )ab = −e 2 φ B T aBCT bCA φ A ,                  (3.5)
+
+
+             where TaBC is a real anti-symmetric generator coupled to a gauge field Aµa and
+             ⟨ϕA⟩ designates a non vanishing expectation value.
+                 In these cases, some gauge fields may remain massless. Consider for instance
+             instead of the invariance of the Goldstone model on a circle in the plane (ϕ1, ϕ2),
+             an invariance on a sphere in a 3-dimensional space (ϕ1, ϕ2, ϕ3) broken by ⟨ϕ1⟩ ≠
+
+
+
+
+ok.indb 17                                                                                           11/4/14 2:24 PM
+
+
+      18                                                                  The Nobel Prizes
+
+
+      0. There are now three gauge fields associated to the rotations on the sphere, and
+      while Aµ2 and Aµ3 acquire mass Aµ1 remains massless. This can be understood
+      in the following way: rotation generators around the directions 2 and 3 would
+      move ⟨ϕ1⟩ if the symmetry were global and would thus give rise, as in Figure
+      5, to NG bosons; their degrees of freedom are transferred in local symmetries
+      to the massive gauge vector fields Aµ2 and Aµ3 , providing their third degree of
+      polarisation. The expectation value ⟨ϕ1⟩ is not affected by rotation generators
+      around the direction 1 and does not generate NG bosons in the global symme-
+      try case and hence the corresponding Aµ1 remains massless.
+          Thus the BEH mechanism can unify long and short range interactions in
+      the same theory by leaving unbroken a subgroup of symmetry transformation
+      (e.g. rotation around the direction 1) whose corresponding gauge fields remain
+      massless.
+
+      3.2 The fate of the massive scalar boson
+      A glance at Figure 5 shows that the stretching of (classical) scalar fields is inde-
+      pendent of local rotations of the ϕ-field in the (ϕ1, ϕ2) plane. This translates the
+      fact that the modulus of the φ-field is gauge invariant. Hence the scalar bosons
+      survive the gauging and their classical analysis is identical to the one given for
+      the Goldstone model in Section 1.2. The coupling of the scalar boson φ1 to the
+      massive gauge bosons follows from the Figure 7, by viewing the Feynman dia-
+      grams with time going from top to bottom and using Equation (3.1). One gets
+      the two vertices of Figure 8 where the heavy wiggly lines on the right hand
+      side represent the massive gauge propagators. The vertex couplings follow from
+      Equation (3.4).
+
+      3.3 Fermion masses
+      Let us couple the Yang-Mills fields to massless fermions in a way that respects
+      Yang-Mills symmetry. This coupling preserves the chiral symmetry of the
+
+
+
+                 hφ1 i hφ1 i                                          '1
+                                                 '1
+      ....+   hφ1 i      hφ1 i   + ....                   e MV                   e2
+                                                 hφ1 i                '1
+
+      Figure 8. Coupling of the scalar boson φ1 to massive gauge bosons.
+
+
+
+
+ok.indb 18                                                                                    11/4/14 2:24 PM
+
+
+             The BEH Mechanism and its Scalar Boson19
+
+
+                         hφi
+             f       ›         ›
+                         λf
+             Figure 9. Mass generation mf = λf⟨ϕ⟩ from a coupling λf of fermions to the scalar field ϕ.
+
+
+
+             massless fermions and fermion mass requires SSB. In the Nambu theory of
+             spontaneous breaking of chiral symmetry, this gives rise to NG bosons which
+             are eaten up here by massive gauge fields. This can be done by suitable couplings
+             of the scalar fields whose expectation value breaks the symmetry. Mass genera-
+             tion for fermions is depicted in Figure 9.
+
+             3.4 Why is the mechanism needed?
+             Equation (3.2) expresses the fact that the mass generation from the BEH mech-
+             anism does not destroy local symmetry, in contradistinction to a mass term
+             introduced by hand ab initio. This equation remains valid at higher orders in
+             perturbation theory and has the same form as the polarisation in quantum elec-
+             trodynamics. As in the latter case, it implies that in covariant gauges, the gauge
+             vector boson propagator tames the quantum fluctuations, and therefore sug-
+             gests that the theory is renormalisable [15]. However it is a highly non trivial
+             matter to prove that it does not introduce contributions from unphysical parti-
+             cles, and it is therefore a very difficult problem to prove quantum consistency to
+             all orders. That this is indeed the case has been proven by ’t Hooft and Veltman
+             [16] (see also Ref. [17])
+                  The quantum consistency of the BEH mechanism is the basic reason for
+             its success. Precision experiments can be predicted and were indeed verified.
+             Quantum consistency played a critical role in the analysis of the production of
+             the scalar boson at the LHC and of its decay products, leading to the confirma-
+             tion of the detailed validity of the mechanism.
+
+             3.5 Dynamical symmetry breaking
+             The symmetry breaking giving mass to gauge vector bosons may also arise from
+             a fermion condensate. This is labelled dynamical symmetry breaking. If a spon-
+             taneously broken global symmetry is extended to a local one by introducing
+             gauge fields, the massless NG bosons disappear as previously from the physical
+             spectrum and their absorption by gauge fields renders these massive. In con-
+             tradistinction with breaking by scalar field condensate, it is very difficult in this
+
+
+
+
+ok.indb 19                                                                                                11/4/14 2:24 PM
+
+
+      20                                                              The Nobel Prizes
+
+
+      way to give mass in a renormalisable theory simultaneously to both gauge vector
+      fields and fermions.
+
+      3.6 The electroweak theory and the Standard Model
+      The most impressive success of the BEH mechanism is the electroweak theory
+      for weak and electromagnetic interactions [18] applied to all particles of the
+      Standard Model. These encompass all known particles. These are a) the fermi-
+      ons which are listed in Figure 10, b) γ and W+, W–, Z, the gauge vector bosons
+      transmitting the electromagnetic and the weak interactions, c) eight “gluons,”
+      the gauge vectors bosons of the “colour group” SU(3) mediating the strong in-
+      teractions, and d) last but not least, one massive scalar boson which was recently
+      discovered and identified as the scalar predicted by the BEH mechanism.
+           The first row in Figure 10 contains the basic constituents of the atom, namely
+      the electron, the three up and down coloured quarks building the proton and
+      neutron bonded by the gluons, to which is added the electron neutrino. The
+      second [19] and third row [20] were completed as predictions in the 1970s and
+      verified afterwards. Colour was also introduced in the 60s. The particles in the
+      first and the second row are called leptons. To all fermions of the table, one must
+      of course also add their antiparticles.
+           All the fermions are chiral and their chiral components have different group
+      quantum numbers. Hence they are, as the gauge vector bosons, massless in ab-
+      sence of the BEH mechanism, i.e. in absence of the scalar condensate. The con-
+      densate ⟨ϕ⟩ ≠ 0 gives mass to the W+, W–, Z bosons and to all fermions except
+
+
+
+
+      Figure 10. Fermion constituents of the Standard Model.
+
+
+
+
+ok.indb 20                                                                                  11/4/14 2:24 PM
+
+
+             The BEH Mechanism and its Scalar Boson21
+
+
+
+                      hφi hφi
+                                                      '          Z             '     › W+
+                                       (a)               hφi      Z            hφi    ‹ W−
+                  hφi            hφi
+                                                      '                        '
+                                                                 Z                   › W+
+                                                     '            Z            '     ‹ W−
+
+
+
+                       hφi                                                f
+              f                        (b)                '       ›
+                  ›          ›
+                                                                      ‹   f¯
+
+             Figure 11. Coupling of the scalar boson φ to massive gauge bosons and to elementary
+             fermions.
+
+
+
+             the three chiral neutrinos which have no opposite chirality counterpart in the
+             conventional Standard Model. The photons and the gluons remain massless but
+             the latter become short range due in the conventional description to a highly
+             non-perturbative vacuum (resulting from a mechanism somehow dual to the
+             BEH mechanism).
+                 The discovery of the Z and W bosons in 1983 and the precision experiments
+             testing the quantum consistency of the Standard Model established the validity
+             of the mechanism, but it was still unclear whether this was the result of a dy-
+             namical symmetry breaking or of a particle identifiable as an elementary boson
+             at the energy scale considered.
+
+
+             4 The discovery
+
+             In the Standard Model, there is one real massive scalar boson φ (also labelled
+             H). It couples to the massive W and Z bosons. This follows from Figure 8 and
+             the couplings are depicted in Figure 11 (a). Its coupling to elementary fermions
+             similarly follows from the couplings in Figure 9 as shown in Figure 11 (b). The
+             coupling to the massless photons is a genuine quantum effect involving loops,
+             even in the lowest order, as indicated in Figure 12.
+                 The LHC site circling under the French-Swiss border is schematically in-
+             dicated in the picture of Figure 13. The 27 km circular tunnel containing two
+
+
+
+
+ok.indb 21                                                                                         11/4/14 2:24 PM
+
+
+      22                                                              The Nobel Prizes
+
+
+
+                                                       γ                       γ
+               W    ›       γ                W                     f
+         '                         '    ›                    '   ›
+                                                                     
+             hφi            γ       hφi ‹                          ‹
+                                                       γ                       γ
+
+
+      Figure 12. Coupling of the scalar boson φ to photons.
+
+
+
+
+      opposite beams of protons surrounded by guiding superconducting electromag-
+      nets cooled by superfluid helium is pictured in Figure 14. Figures 15 and 16 are
+      pictures of the ATLAS and CMS detectors at diametrical opposite sites of the
+      tunnel. There collisions occur and were used primarily to detect and identify
+      the scalar boson of the Standard Model (and possibly other ones). At the end
+      of 2012 proton-proton collisions occurred at the rate of nearly 109s–1 and the
+      proton energy reached 8 TeV. At these energies, all quarks of Figure 10 and the
+      gluons connecting them may contribute to the production of the scalar boson.
+      The leading production processes are represented in Figure 17.
+          As an example of the data gathered by CMS and ATLAS, Figure 18 presents
+      the data obtained by the CMS group of observed decays into 4 leptons at the end
+
+
+
+
+      Figure 13. Schematic location of the LHC.
+
+
+
+
+ok.indb 22                                                                                11/4/14 2:24 PM
+
+
+             The BEH Mechanism and its Scalar Boson23
+
+
+
+
+             Figure 14. The LHC dipole magnets.
+
+
+
+
+             Figure 15. The Atlas detector.
+
+
+
+
+ok.indb 23                                               11/4/14 2:24 PM
+
+
+      24                                                                        The Nobel Prizes
+
+
+
+
+      Figure 16. The CMS detector.
+                                   IV. Discovery of the BEH boson
+      Production of the scalar boson at the LHC
+                                                               ›         ›
+                           ‹
+                       
+                               ›
+                                                               ›         ›
+               gluon fusion                              vector boson fusion
+
+                                                                             ‹
+               ‹                                                     
+
+                   ›                                                 
+                                                                             ›
+
+        associated vector boson production                      tt̄ fusion
+
+                                          ›    quark
+
+                                               W or Z vector boson
+
+                                               gluon
+                                               scalar boson
+
+      Figure 17. Production of the Standard Model scalar.
+
+
+
+
+ok.indb 24                                                                                          11/4/14 2:24 PM
+
+
+             The BEH Mechanism and its Scalar Boson25
+
+
+
+
+             Figure 18. Decay of the scalar boson into 4 leptons from two Z,s.
+
+
+
+             the 2012 run. The blue area is the expected background, namely those decays
+             which would follow from the Standard Model if, at given total mass, there would
+             be no contribution from the scalar boson. The red curve measures the contribu-
+             tion that could be due to the scalar decaying into two Z vector bosons which
+             further decay into leptons, as was confirmed by further analysis. Note that one
+             of the Z is real but the other is “virtual,” meaning that this decay is forbidden by
+             energy conservation but may contribute in the quantum theory. Consideration
+             of other decay channels and spin analysis show that the particle detected is con-
+             sistent with the Standard Model scalar with a mass mH ≃ 125 GeV. The absence
+             of new particles at comparable energies, as well as the success of Feynman graph
+             analysis including loops, points towards an elementary particle, at least up to
+             the energy range considered. This is the first elementary spin zero particle ever
+             detected. It raises the interesting possibility of supersymmetry broken at attain-
+             able energies, although there is no indication of it so far.
+                 The elementary character of the scalar already eliminates many dynamical
+             models of symmetry breaking and raises interesting possibilities for extrapola-
+             tion beyond presently known energies, up to those close to the Planck scale
+             where quantum gravity effects might play a dominant role. The analysis of these
+             speculations is beyond the scope of this talk.
+
+
+
+
+ok.indb 25                                                                                          11/4/14 2:24 PM
+
+
+      26                                                                   The Nobel Prizes
+
+
+      References
+        1. F. Englert and R. Brout, “Broken symmetry and the mass of gauge vector mesons,”
+           Phys. Rev. Letters 13 (1964) 321.
+        2. P.W. Higgs, “Broken symmetries and the masses of gauge bosons,” Phys. Rev. Lett.
+           13 (1964) 508.
+        3. L.D. Landau, “On the theory of phase transitions I,” Phys. Z. Sowjet. 11 (1937) 26
+           [JETP 7 (1937) 19].
+        4. Y. Nambu, “Quasi-particles and gauge invariance in the theory of superconductiv-
+           ity,” Phys. Rev. 117 (1960) 648.
+        5. Y. Nambu, “Axial vector current conservation in weak interactions,” Phys. Rev. Lett.
+           4 (1960) 380.
+        6. Y. Nambu and G. Jona-Lasinio, “Dynamical model of elementary particles based on
+           an analogy with superconductivity I, II,” Phys. Rev. 122 (1961) 345; 124 (1961) 246.
+        7. P.W. Anderson, “Random-phase approximation in the theory of superconductivity,”
+           Phys. Rev. 112 (1958) 1900.
+        8. P.W. Anderson, “Plasmons, gauge invariance, and mass,” Phys. Rev. 130 (1963) 439.
+        9. J. Goldstone, “Field theories with ‘superconductor’ solutions,” Il Nuovo Cimento 19
+           (1961) 154.
+      10. J. Goldstone, A. Salam and S. Weinberg, “Broken symmetries,” Phys. Rev. 127 (1962)
+          965.
+      11. F. Englert, “Broken symmetry and Yang-Mills theory,” in 50 years of Yang-Mills The-
+          ory, ed. by G.’t Hooft, World Scientific (2005), pp. 65–95, hep-th/0406162.
+      12. S. Elitzur, “Impossibility of spontaneously breaking local symmetries,” Phys. Rev.
+          D12 (1975) 3978.
+      13. P.W. Higgs, “Broken symmetries, massless particles and gauge fields,” Phys. Lett. 12
+          (1964) 132.
+      14. G.S. Guralnik, C.R. Hagen and T.W.B. Kibble, “Global conservation laws and mass-
+          less particles,” Phys. Rev. Lett. 13 (1964) 585.
+      15. F. Englert, R. Brout and M. Thiry, “Vector mesons in presence of broken symmetry,”
+          Il Nuovo Cimento 43A (1966) 244; F. Englert, Proceedings of the 1997 Solvay Confer-
+          ence, Fundamental Problems in Elementary Particle Physics, Interscience Publishers
+          J. Wiley and Sons, p. 18.
+      16. G. ’t Hooft, “Renormalizable lagrangians for massive Yang-Mills fields,” Nucl. Phys.
+          B35 (1971) 167; G. ’t Hooft and M. Veltman, Regularization and renormalization of
+          gauge fields, Nucl. Phys. B44 (1972) 189.
+      17. B.W. Lee and J. Zinn-Justin, “Spontaneously broken gauge symmetries,” Phys. Rev.
+          D5 (1972) 3121; 3137; 3155.
+      18. S.L. Glashow, “Partial-symmetries of weak interactions,” Nucl. Phys. 22 (1961)
+          579; S. Weinberg, A model of leptons, Phys. Rev. Lett. 19 (1967) 1264; A. Salam,
+
+
+
+
+ok.indb 26                                                                                        11/4/14 2:24 PM
+
+
+             The BEH Mechanism and its Scalar Boson27
+
+
+                 Proceedings of the 8th Nobel Symposium, Elementary Particle Physics, ed. by N. Svar-
+                 tholm, (Almqvist and Wiksell, Stockholm) p. 367.
+             19. S.L. Glashow, J. Iliopoulos and L. Maiani, “Weak interactions with lepton-hadron
+                 symmetry,” Phys. Rev. D2 (1970) 1285.
+             20. M. Kobayashi and T. Maskawa, “CP Violation in the renormalizable theory of weak
+                 interaction,” Prog. Theor. Phys. 49 (1973) 652.
+
+             Portrait photo of François Englert by photographer Alexander Mahmoud.
+
+
+
+
+ok.indb 27                                                                                              11/4/14 2:24 PM
+

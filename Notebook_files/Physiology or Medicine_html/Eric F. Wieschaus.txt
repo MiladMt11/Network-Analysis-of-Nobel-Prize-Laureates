@@ -1,0 +1,607 @@
+314
+
+
+FROM MOLECULAR PATTERNS TO
+MORPHOGENESIS
+THE LESSONS FROM DROSOPHILA
+
+Nobel Lecture, December 8, 1995
+
+by
+E RIC WIESCHAUS
+
+Department of Molecular Biology, Princeton University, Princeton,
+NJ 08544, USA
+
+
+INTRODUCTION
+
+During development, cells in an embryo face two major tasks. First they must
+be programmed to form specific parts of the body, and second they must rea-
+lize those fates by altering their shape, position and patterns of gene expres-
+sion. Both the determination of cell fate and the corresponding alterations
+in form occur progressively during development. The organism that results
+from this process contains a wide variety of different cell types and functions,
+arranged in a complex spatial pattern. In Drosophila this final pattern is
+achieved about 20 hours after fertilization, when the embryo has formed a
+larva of 40,000 cells. The most obvious external feature of this larva is a seg-
+mentally repeated pattern of hairs and denticles secreted by the underlying
+epidermis. Beneath these hypodermal cells are a complex array of muscles
+also arranged in a segmentally repeated fashion. Internal to this somatic
+musculature are other mesodermal derivatives, as well as equally complex
+structures and organs of endodermal origin. By following the development
+of individual cells, it has been possible to trace the precursors for each struc-
+ture in the differentiated larva back to the earliest cellular stages in the
+embryo (Poulson, 1950, Campos-Ortega and Hartenstein, 1985). In
+Drosophila this stage (the “blastoderm”) consists of an oblong embryo
+about half a millimeter in length, with about 100 cells along the future AP
+axis and 40 along the DV axis. The epidermis is formed by cells on the late-
+ral side of the embryo, the muscles and other mesodermal derivatives are for-
+med from a stripe of cells on the ventral side of the blastoderm, and the
+endodermal cells from two groups of precursors at the anterior and poste-
+rior ends of the embryo.
+   At the blastoderm stage, all these cells are similar in size and morphology.
+A few minutes later, at the onset of gastrulation, the mesodermal precursors
+initiate cell shapes changes that carry them into the interior of the embryo
+ (reviewed in Leptin, 1995). Similar changes in cellular morphology then
+internalize the endodermal cells. These morphogenetic movements are the
+first of many examples where cells in an embryo change their shape in
+
+
+                                  Eric Wieschaus                             315
+
+
+response to the developmental programs that control their fate. The large
+size of cells at gastrulation and the rapidity of these changes give gastrulation
+a particularly strong visual impact. The cellular mechanisms underlying
+these movements, however, utilize many of the same cytoskeletal and adhesi-
+ve structures found in all cells. The pathway between a particular cell fate
+decision and the mechanisms controlling cell form have not yet been worked
+out in detail in any organism.
+   The past 15 years have seen remarkable advances in our understanding of
+how the changing pattern of gene activity in the Drosophila embryo directs
+cells to their final fates. These advances have been produced by an unpreced-
+ented combination of molecular biology and classical genetics. At this point
+many of the genes that control cell fate have been cloned and their basic cel-
+lular roles are understood. In principle, this information provides an ideal
+starting point to address how cell fate is translated into cell form. This has
+proven more difficult, largely because the genetic strategies that work so well
+in elucidating cell fates have met unanticipated obstacles in the elucidation
+of cell form. In today’s talk, I would like to review the general picture that
+has emerged from our studies on how genes control cell fate in the
+Drosophila embryo, and examine how the activity of those genes might be
+related to the constantly changing form of the embryo.
+
+
+
+
+THE HEIDELBERG MUTAGENESIS SCREENS.
+
+It was to address both cell fate and cell form that Christiane Nüsslein-Volhard
+and I began the mutagenesis experiments honored in Stockholm this week.
+In the 1970’s when we were finishing our graduate studies in Base1 and
+Tübingen, it was clear that development, like all processes in living cells,
+depended on genes and gene products. Not only was the relationship bet-
+ween DNA, RNA and protein known, but the analysis of several bacterial ope-
+rons made it clear that gene activities could be controlled temporally and
+spatially. Almost everyone believed that such temporal and spatial control
+might explain the sequence of events giving rise to embryonic pattern. The
+analysis of such genes seemed formidable, however. Molecular cloning was in
+its infancy and there were no obvious tools for analyzing single genes in high-
+er eukaryotes. What made the matter worse was the enormous diversity of
+genes and gene products present in an embryo. RNA complexity experi-
+ments estimated the number of different RNA species to be between 10,000
+and 50,000 (reviewed in Davidson, 1986). These RNAs were expressed at
+varying levels and in a changing pattern as the embryo progressed through
+various stages. How could one sort out which gene products were essential
+for particular steps in development, how could the relevant genes and
+proteins be identified? To Christiane Nüsslein-Volhard and me, the genetic
+techniques that had been established in Drosophila over the preceding sixty
+years seemed to offer the best approach.
+
+
+316                                        Physiology or Medicine 1995
+
+
+  The particular mutagenesis strategy we adopted depended on two facts
+established about the Drosophil a genome in the early 1970s. First, mutagen-
+esis experiments involving small, cytologically defined chromosomal regions
+(Judd et al., 1972) suggested that, regardless of the total molecular com-
+plexity of the Drosophil a genome, only about 5000 genes present in the DNA
+were essential for viability under laboratory conditions. This number set an
+upper limit on the genes essential for embryonic development. Second, a
+
+
+Table 1:   Results of Heidelberg Mutagenesis Experiments. Numbers are totals for experiments on thr X chromoso-
+me and the two major autosomes. The number of mutations in the various classes have been corrected using
+
+the Poisson distribution to account for those lines containing multiple mutations.
+
+
+
+
+      Results of mutagenesis screens
+           Total lines established and tested                                           26978
+                         Lethal mutations                                                18136
+      Mutations causing embryonic lethality                                                  4332
+  Mutations causing embryonic phenotypes                                                         580
+            Complementation Groups (Genes)                                                        139
+detailed analysis of flies monosomic or trisomic for various genomic regions
+(Lindsley et al., 1972) suggested that although flies are normally diploid, a
+single copy of most genes was sufficient for viability. This meant that most
+loss-of-function mutations would be recessive and could therefore be main-
+tained in heterozygous stocks. These two observations suggested that the
+requirements for gene activity during Drosophila embryogenesis could be
+surveyed in large scale (but limited) mutagenesis experiments. If transcrip-
+tion of a gene was essential for embryonic development, homozygous embry-
+os should develop abnormally when that gene was eliminated. If the gene
+played a specific role in patterning or cell fate, most structures in the affec-
+ted embryo would be normal; the defects limited to specific regions of the
+body or specific tissues. Based on these defects, it should be possible to
+reconstruct the normal role of each gene. In that view, all that was required
+for a saturating survey of development was to make enough mutant lines,
+and to be able to recognize defects by looking at embryos.
+
+
+                                 Eric Wieschaus                            317
+
+
+   Because flies are diploid and most mutations are recessive, the mutagene-
+sis scheme we settled on involved establishing inbred lines from single indi-
+vidual carrying mutagenized chromosomes (Fig. 1). In two generations, this
+
+
+
+
+                          Balancer
+
+
+
+
+   cn bw*00                 cn bw*
+                           Balancer
+
+
+                   cn w *
+                   cn bw*
+
+
+inbreeding produces homozygotes whose development can be compared
+with their heterozygous siblings. To obtain mutations in most or all genes in
+ the genome, we had to establish enough mutagenized lines to hit most genes
+ several times. Although Christiane and I carried out preliminary mutagene-
+ sis runs ourselves, the final experiments were extremely labor intensive and
+were completed with the help of Gerd Jürgens and Hildegard Kluding
+ (Nüsslein-Volhard and Wieschaus, 1980; Nüsslein-Volhard et al., 1984;
+Jürgens et al., 1984; Wieschaus et al., 1984). Over the course of a year (from
+ fall of 1979 to summer of 1980), we established 27,000 inbred lines. These
+ lines contained an estimated 18,000 independently induced mutations, each
+ causing lethality at some point during the life cycle of the animal (Table 1).
+ Only about a quarter of these lethal mutations prevented homozygous
+ embryos from hatching to the larval stage, and only about 2. 5% caused visi-
+ ble alterations in the external morphology of the embryo. These 580 muta-
+ tions could be assigned by complementation tests to one of 139 different
+ genes. The relative smallness of this final number was an important result,
+ since it meant that each gene could be characterized in some detail. By exa-
+ mining mutant embryos from the various stocks, Christiane and I were able
+ to establish a general picture of how gene activity in the embryo directs the
+ development of individual cells.
+
+
+318                         Physiology or Medicine 1995
+
+
+   In all species, many of the gene products present in the embryo are sup-
+plied by the mother during oogenesis. These include most RNAs and pro-
+teins needed for normal cell functions during early stages, as well as certain
+inhomogeneities that are used to define initial axes. In our experiments,
+homozygous embryos are derived from mothers that have a wild-type allele.
+Consequently, the Heidelberg mutagenesis screens missed all maternally
+supplied gene products. The 139 genes identified represent only those genes
+whose products must be supplied by the embryo’s own transcription. We the-
+refore explained the large number of the RNA and protein species in the
+embryo as largely derived from maternal supplies.
+   The fact that zygotically required transcripts were relatively rare suggested
+that they might play specialized roles in development. One possibility was
+that zygotic transcription allows particular gene products to be expressed in
+one cell and not in its immediate neighbors, at particular times and not
+others. This would contrast with the ubiquitous distribution generally ob-
+served for maternally derived transcripts. In this view, the embryo would use
+transcription to elaborate differences between adjacent cell populations, dif-
+ferences that would ultimately account for the variety of cells fates and cell
+behaviors observed in the embryo after the blastoderm stage.
+
+
+THE HEIDELBERG MUTANT COLLECTION: A SURVEY OF ZYGOTIC
+GENE ACTMTIES.
+
+One historical coincidence that contributed to the significance of the
+Heidelberg screens was the almost simultaneous development of molecular
+techniques that allowed genes to be cloned based on their genetic position.
+After publication of our screen, a number of Drosophila labs began a con-
+certed effort to clone the genes identified by the mutations. This effort has
+continued over the past ten years and is still going on today. Of 139 lines that
+produce phenotypes, 20 were single hits, had relatively nondescript pheno-
+types and were never given names or further characterized. Most were
+eventually lost. Of the remaining 119, an informal survey of the Drosophila
+database suggests that 75 have been cloned and their expression patterns
+examined in embryos. These molecular analyses, coupled with phenotypic
+descriptions begun in Heidelberg have generated an increasingly detailed
+view of the kind of functions supplied by zygotic transcripts in the Drosophila
+embryo.
+   In general, the greatest insights into developmental mechanism came
+when a number of different Heidelberg genes could be grouped together
+because they affected the same developmental process. Sometimes, as in the
+segmentation series (Nüsslein-Volhard and Wieschaus, 1980) peculiarities of
+the phenotype of individual genes suggested regulatory hierarchies between
+members of the group (Fig. 2). In other cases (e. g., armadillo and wingless,
+Riggleman et al.), similar phenotypes pointed to unanticipated relationships
+between previously characterized proteins.
+
+
+                                                 Eric Wieschaus
+
+
+
+
+Figure 2. Phenotypes of Mutations affecting   segmental pattern. The size and spacing of the pattern deletions in
+mutant embryos at the end of development allows extrapolation back to requirements for gene activities at
+blastoderm   stage. Segmentation genes can be grouped into threi: classes: mutations in gap genes show large
+contiguous deletions in the pattern, mutations in pair-rule genes show pattern deletions spaced at double
+segment intervals, and mutations in segment polarity genes cause pattern deletions in each segment. One
+example is shown for each class.
+
+
+
+   One of the most striking features of the Heidelberg mutant collection was
+the restricted nature of the phenotypes. For a given line, certain cell types or
+regions are affected in the mutant embryo, other cell types and regions are
+normal. This phenotypic specificity was reinforced by molecular data once
+the various Heidelberg genes had been cloned. Most genes show highly regu-
+lated patterns of expression such that transcripts accumulate only in those
+regions and cell types where they are needed. Defects associated with a given
+mutant stock were generally different from those of other stocks, and expres-
+sion patterns show a corresponding diversity. The two observations together
+suggest that most of the genes play unique roles at morphologically distinct
+steps in development.
+   Mutants usually affect areas of the embryo, rather than specific cell types.
+These areas generally do not correspond to obvious subdivisions and could
+not have been predicted based on morphological considerations alone.
+Obvious examples of these regional specificities are provided by the genes
+affecting segmentation: one could not have predicted the domains of gap
+gene expression, the existence of pair rule phenotypes, or the precise struc-
+tures duplicated in segment polarity mutants. Because the region affected by
+a particular gene ultimately gives rise to a variety of different cell types, the
+genes seem to define positions or spatial coordinates, rather than tissues or
+organs.
+
+
+320                                         Physiology or Medicine 1995
+
+
+   Genes often are used several times again during development. Most
+segmentation genes, for example, are used later in the nervous system and
+in other tissues as well (e.g. Krüppel in Maipighian tubules, Knipple et al.,
+1985). This pleiotropy is not limited to genes controlling segmental pattern.
+Many of the genes controlling dorsal-ventral patterning at the blastoderm
+stage are used again at specific times in development. Even a gene like twist
+that ultimately seems specific for muscle differentiation, shows a more com-
+plicated, broader expression pattern at the blastoderm stage, suggesting a
+role in determining ventral fates in general, rather than specific mesodermal
+identities. These features make it difficult to relate early expression patterns
+of particular genes to final aspects of differentiation. Again, these observa-
+tions are consistent with a role for the genes in programming regions or
+fates, rather than defining differentiated cell types per se.
+   More that half of the 75 cloned genes encode transcription factors, judg-
+ing from the presence of DNA binding motifs, or their homology to known
+vertebrate or yeast transcription factors (Fig. 3). Their DNA binding pro-
+perties might allow them to control expression of many different target
+
+
+
+
+Figure 3.   Cellular Function   of Heidelberg Mutations. Based on the sequence of 75 cloned genes, most of the loci
+identified in Heidelberg encode transcription factors, or cell signals and receptors.
+
+
+
+genes. If used at various stages of development and in                               different combination
+with other genes, they might therefore affect a variety                              of different develop-
+mental pathways. Most of the cloned genes which are                                  not transcription fac-
+tors are cell surface signals or receptors. Some of these                            signaling factors may
+
+
+                                  Eric Wieschaus                             321
+
+
+have immediate consequences on cell behaviors (see below), but most of this
+signaling ultimately feeds back on positional identities not directly related to
+final differentiated states.
+
+
+GENES MISSED IN THE HEIDELBERG SCREENS: THE CONTROL OF
+CELL FORM
+
+During the period when patterns of cell fate are being established, the
+embryo undergoes dramatic morphological changes. The final stages of cleav-
+age occur when the embryo is still a syncytium. Once the number of nuclei
+have reached 6,000, they stop dividing and cell membranes are pulled down
+between individual nuclei. This process of cellularization involves a major
+reorganization of the embryonic cytoskeleton and takes about an hour.
+When it is completed, the embryo consists of 6,000 individual cells that are
+still morphologically identical. They are molecularly different however, due
+to expression of many of the 139 genes and transcription factors described
+in the previous section. At the onset of gastrulation, these differences are
+translated into changes of cell shape that result in the invagination of meso-
+derm or endoderm during gastrulation. Overall, the 90 minutes from com-
+pletion of cleavage through early gastrulation represents the major period of
+morphological transformation that occurs in the Drosophila embryo.
+   What is the relationship between these morphological changes and the
+genes that we identified in the Heidelberg screens? When embryos from
+each of the 139 mutant stock were examined, we found that even the earli-
+est acting mutants showed no morphological defects before the onset of gas-
+tulation. This suggested that the products of zygotic transcription were irrel-
+evant for the early morphological events of cleavage and cellularization, and
+were only required when cells in individual regions of the embryos began
+their regionally specific cell shape changes. One way to test this was to block
+all new RNA synthesis by injecting early embryos with drugs that inhibit RNA
+polymerase. To our consternation, work from several labs (Arking and
+Parente, 1980, Edgar et al., 1986) indicated that such treatment causes
+embryos to become abnormal at the onset of cellularization, an hour before
+the earliest defects produced by any of the Heidelberg mutants. These expe-
+riments provided the first suggestion that the Heidelberg screens may have
+missed early acting, morphologically important genes.
+   To identify such genes, we developed a system of translocation crosses to
+generate embryos deficient for defined chromosomal regions(Wieschaus
+and Sweeton, 1988; Merrill et al., 1988). Using this system, it was possible to
+work our way through the entire genome in a small number of crosses, ex-
+amining deficiency embryos at early stages to detect relatively subtle devia-
+tions in morphology. These experiments identified seven regions (or genes)
+which taken together account for the defects observed in drug treated
+embryos. These genes were identified because of their effects on early mor-
+phology rather than viability or overall pattern at the end of embryonic devel-
+
+
+322                           Physiology or Medicine 1995
+
+
+opment. They therefore represent a different sampling of the transcrip-
+tional requirements than the Heidelberg loci. Three of these seven genes
+have now been cloned (James and Vincent, 1986; Rose and Wieschaus, 1992;
+Schejter and Wieschaus, 1993). Unlike the Heidelberg genes, they do not
+encode transcription factors or components of a cell signaling system.
+Instead all three are cytoplasmic proteins associated with the cytoskeleton
+(Schejter and Wieschaus, 1993, Postner and Wieschaus, 1994).
+   Genes affecting morphology during gastrulation also appear to have been
+missed in the Heidelberg screens (Leptin, 1995). For example, the two
+Heidelberg genes absolutely required for mesodermal programming are
+twist and snail. Both have been cloned and have been shown to encode
+transcription factors (Boulay et al., 1987, Thisse et al., 1988). Immediately
+before gastrulation, these genes are expressed in the nuclei of mesodermal
+precursors on the ventral side of the blastoderm. When either gene is mu-
+tated, no cells are programmed to mesoderm and no ventral furrow forms.
+Thus, twist and snail not only direct blastoderm cells to a mesodermal cell
+fate, they have an immediate read-out in terms of mesodermal cell behavior.
+Since they are transcription factors, they must do this by controlling the
+expression of other genes.
+   What are these downstream targets? If they produced phenotypes visible
+in the final cuticle, such genes would have been detected in the Heidelberg
+screens. One candidate for such a target is folded gastrulation. In fog mutant
+embryos, the cell shape changes of the ventral furrow are delayed and
+uncoordinated. Wild type cells in the ventral furrow express fog immediately
+before changing their shape (Costa et al, 1994). When ectopically expressed
+outside the ventral furrow primordium, fog is capable of eliciting those same
+initial cell shape changes, even in cells that lack twist or snail or any other fac-
+tors normally associated with mesodermal fate (Morize et al, in prep.) All
+this makes folded gastrulation an excellent downstream target for twist and
+snail, one whose expression might account for the cell shape changes associ-
+ated with mesodermal programming.
+   Folded gastrulation is the only gene detected in the Heidelberg screen
+(other than twist and snail) that affects ventral furrow formation. Because fog
+embryos make slow uncoordinated invaginations, whereas twi or sna e m -
+bryos make no ventral furrow at all, fog cannot be the only target of twist and
+snail. Other genes not detected in Heidelberg must account for the diffe-
+rence between the twi, snail and fog phenotypes, and for the delayed meso-
+dermal invagination that still occurs in a fog mutant. These target genes may
+not have been detected in Heidelberg because they may not be essential for
+mesoderm invagination, as long as the embryo has a wild type alleles of fog.
+They might however have been detected if mutant embryos had been scored
+directly for morphological defects during gastrulation itself. Given the large
+number of stocks examined, this was not possible in the Heidelberg mutat-
+genesis experiments. On the other hand, relevant chromosomal regions
+might be identified using translocation crosses, since only a small number of
+
+
+                                           Eric Wieschaus                                         323
+
+
+such crosses are needed to. examine the effects of most chromosomal
+regions. Ongoing experiments of this kind in my lab suggest that there are
+regions that affect ventral furrow formation in ways that cannot be explained
+by any Heidelberg genes. Most of these morphological effects appear to be
+transient, similar to the case in fog mutant embry os, embryos that are dele-,
+ted for these genes eventually internalize their mesoderm. It is therefore pos-
+sible that point mutations in genes responsible for these early morphological
+effects may not cause lethality or easily visible effects on final morphology.
+
+
+THE RELATIONSHIP BETWEEN CELL FATE AND CELL FORM.
+
+The efficiency with which mutagenesis screens identify mutations affecting
+cell fate but not cell form may point to a difference in the way the two pro-
+cesses are controlled. The existence of mutations affecting cell fate suggests
+that patterning functions are not redundant, each gene being absolutely
+essential for normal development. Having only single, non-redundant fac-
+tors controlling cell fate might avoid ambiguity in determined states; in this
+view, a precise cell by cell pattern of gene expression may not be as impor-
+tant as having at least some cells unambiguously programmed to each fate.
+Once a cell choice has been made, it must be realized in morphological
+terms. At this point there may be an enormous advantage for redundancy,
+since multiple pathways might ensure that a particular fate once chosen is
+actually achieved. This redundancy need not be total; elimination of a sin-
+gle target pathway may causes subtle deviations in the process similar in mag-
+nitude to the defects observed in the ventral furrows of fog embryos. In this
+view, cell shape changes at gastrulation would be the summed effect of
+various targets, each of which would be necessary for the characteristic wild
+type morphology, but not for the final outcome itself.
+   Developmental biologist are a diverse lot; some are more interested in cell
+fate and patterning, others in morphogenesis. Those interested in pattern
+might focus on genes like twist and snail, since their expression at the blas-
+toderm stage determines the ventral cells to become mesoderm (Fig. 4A). In
+
+
+
+
+Figure 4. Contrasting views of devolopment . Panel A emphasizes programming of cells to specific cell
+fates, whereas panel B emphasizes the cellular mechanisms that produce changes in morphology.
+
+
+324                         Physiology or Medicine 1995
+
+
+this view, genes like fog would be just one of many downstream regulators. On
+the other hand, the cell shape changes that occur in mesodermal cells
+during ventral furrow formation are not restricted to gastrulation. Genes like
+fog are in fact expressed at other stages and in other primordia, not under con-
+trol of twist and snail. Thus from the standpoint of the cellular morphology,
+genes likefigbecome the central players in a research program (Fig. 4B). Fog
+dependent cell shape changes may be activated in a variety of different
+developmental programs by a variety of different cell fate genes, but its role
+in cellular behaviour would be conserved.
+
+
+CONCLUSIONS: THE POWERS AND LIMITATIONS OF THE GENETIC
+APPROACH
+
+Mutagenesis experiments are a mixture of random and biased elements.
+Perhaps their strongest advantage is that we scientists have very little control
+over the kind of mutations produced. Mutations occur randomly throughout
+the genome, eliminating genes whether or not they have anything to do with
+the process of interest. This means that the production of mutants is usually
+not affected by biases about the kinds of molecules involved or the under-
+lying mechanisms. Success depends on the experimenter’s ability to sort
+through the mutations obtained and recognize and interpret phenotypes of
+interest. It is this second step that introduces the major bias; it depends on
+the individual’s response to mutant phenotypes, on his or her ability to
+understand the nature of the defect and the proper context in which it can
+be described. Because we used a dual observation microscope, Christiane
+and I were often simultaneously confronted with particular phenotype for
+the first time. It was not always easy to agree about defects, or to decide why
+a particular stock was interesting. Because they were often the product of
+intense discussions, our final descriptions benefited from a dual input.
+However, Christiane and I were both primarily interested in spatial patterns
+and gross morphological aspect of embryogenesis. Mutations affecting finer
+aspects of cell differentiation were certainly produced in Heidelberg, but
+even if they had caused embryonic lethality, they would have been discarded.
+   In addition to the bias introduced by experimenters, genetic screens are
+inherently biased by the organism. Drosophila embryos develop rapidly and
+most gene products are supplied by maternal rather than zygotic transcrip-
+tions. Development is highly regulative and cell signaling pathways ensure
+that a constant final morphology is achieved even when starting situations
+are different. One obvious limitation of the Heidelberg screen is that even
+though we were interested in broad aspects of morphology and early cell
+shape changes, we scored only final differentiation, and there only cuticle
+pattern. Because the hypodermal cells that secrete cuticle represent a large
+fraction of the blastoderm, we assumed that it would be not be possible to
+cause morphological changes at gastrulation without altering final morpho-
+logy. Our later experiments suggest that this may not be true. Thus although
+
+
+                                         Eric Wieschaus                                     325
+
+
+we were not necessarily biased between mutations affecting cell fate and cell
+form, most genes actually detected altered fate, perhaps because effects on
+form in Drosophila are often more transient.
+   It is possible that different results would have been obtained had we cho-
+sen a different organism. One is curious whether nematodes, which show,
+extraordinarily constant lineages, would be more subject to subtle perturba-
+tions in the movement and positioning of cells than in Drosophila. Develop-
+ment in vertebrates on the other hand has been shown to be much more
+variable in terms of cell lineage and much more regulative in achieving con-
+stant final morphologies. In that respect, the ongoing screens for mutants
+in zebra fish and mice may produce a spectrum of genes more similar to that
+of Drosophila.
+   Of course, one of the important lessons from the Heidelberg experiments
+is that speculations have little predictive value. The phenotypes and genes
+actually obtained by a particular mutagenesis protocol will only be known
+once the experiments are done. The same lesson applies to the ongoing ana-
+lysis of Drosophila development.In spite of enormous advances made in
+understanding cell fates, we do not yet know how those programs produce
+constant morphology and structure. The morphologies assumed by Drosophila
+cells are often very similar to those in vertebrates. Moreover, the molecules
+and therefore the underlying mechanisms have probably been conserved
+over the course of evolution. By bridging the connection between cell fate
+and cell form in Drosophila, we may therefore also reinforce the bridges that
+connect developmental studies in many different organisms.
+
+
+LITERATURE CITED
+POULSON, D.F. (1950) Histogenesis, organogenesis and differentiation in the embryo of
+   Drosophila melanogaster (Meigen). In Biology of Drosophila (ed. M. Demerec),.pp.168-274.
+   John Wiley and Sons, New York.
+ CAMPOS-ORTEGA, J. A., V. Hartenstein. (1985) The embryonic development of Drosofihila
+    melanogaster. Springer-Verlag, Berlin.
+ LEPTIN, M. (1995) Drosophila Gastrulation: from Pattern Formation to Morphogenesis.
+   Annu. Rev. CellDev. Biol. 11: 189-212.
+ DAVIDSON, E. (1986) Gene activity in Early Development. Academic Press, Orlando, Florida.
+JUDD, B. H., M. W. SHEN, T. C. KAUFMAN, (1972) The anatomy and function of a seg-
+    ment of the X-chromosome of Drosophila melanogaster. Genetics 71: 139-156.
+ LINDSLEY D. L.; L. SANDLER, B.S. BAKER, A. T. C. CARPENTER, R. E. DENELL, J. C.
+    HALL, P. C. JACOBS, G. L. G. MIKLOS, B. K. DAVIS, R. C. GETHMANN, R. W.
+    HARDY, A. HESSLER, S. M. MILLER, H. NOZAWA, D. M. PARRY, M. GOULD-SOMERO,
+    (1972). Segmental aneuploidy and the genetic gross structure of the Drosophila
+   genome. Genetics 71: 157-184.
+ NÜSSLEIN-VOLHARD, C., and E. WIESCHAUS, (1980) Mutations affecting segment
+    number and polarity in Drosophila. Nature 287: 795-801.
+ NÜSSLEIN-VOLHARD, C., E. WIESCHAUS, and H. KLUDING. (1984)Mutations affect-
+    ing the pattern of the larval cuticle in Drosophila melanogaster. I. Zygotic loci on the
+    second chromosome. Roux’s Arch. Dev. Biol. 193: 267-282.
+JÜRGENS, G., H. KLUDING, C. NUSSLEIN-VOLHARD, and E. WIESCHAUS (1984)
+    Mutations affecting the pattern of the larval cuticle in Drosophila melanogaster. II. Zygotic
+    loci on the third chromosome. Roux’s Arch. Dev. Biol. 193: 283-295.
+
+
+326                               Physiology or Medicine 1995
+
+
+WIESCHAUS, E., C. NÜSSLEIN-VOLHARD, G. JÜRGENS, (1984) Mutations affecting
+   the pattern of the larval cuticle in Drosophila melanogaster. Ill. Zygotic loci on the X-chro-
+   mo-some and the fourth chromosome. Roux’s Arch. Dev. Biol . 193: 296-307.
+RIGGLEMAN, B., P. SCHEDL, E. WIESCHAUS (1990) Spatial expression of the
+   Drosophila segment polarity gene armadillo is posttranscriptionally regulated by wing-
+   less. Cell 63: 549-560.
+KNIPPLE, D. C., SEIFERT, U. B. ROSENBERG, A. PREISS, H. JACKLE (1985) Spatial and
+   temporal patterns of Krüppel gene expression in early Drosophila embryos. Nature 317:
+   40-44.
+ARKING, R., A. PARENTE. (1980) Effects of RNA inhibitors on the development of
+   Drosophila embryos permeabilized by a new technique. J. Exp. Zool. 212: 183-194.
+EDGAR, B. A.,C. P. KIEHLE, G. SCHUBIGER (1986). Cell cycle control by the nucleo-
+   cytoplasmic ratio in early Drosophila development. Cell 44, 365-372.
+MERRILL, P. T. ,D. SWEETON, and E. WIESCHAUS, (1988) Requirements for autoso-
+   ma1 gene activity during precellular stages of Drosophila melanogaster. Development 104:
+   495-509.
+WIESCHAUS, E., and D. SWEETON (1988) Requirements for X-linked zygotic gene activ-
+   ity during cellularization of early Drosophila embryos. Development 104: 483-493.
+JAMES, A. and A. VINCENT (1986) The spatial distribution of a blastoderm stage-specific
+   mRNA from the serendipity locus of Drosophila melanogaster. Devel. Biol. 118: 474-479.
+ROSE, L. S. and E. WIESCHAUS, 1992 The Drosophila cellularization gene nullo produces
+   a blastoderm-specific transcript whose levels respond to the nucleocytoplasmic ratio.
+   Genes &Development 6:1255-1268.
+ SCHEJTER, E. D. and E. WIESCHAUS (1993) Bottleneck acts as a regulator of the micro-
+   filament network governing cellularization of the Drosophila embryo. Cell 75: 373-385.
+ POSTNER, M. A. and E. WIESCHAUS (1994) The nullo protein is a component of the actin-
+   myosin network that mediates cellularization in Drosophila melanogaster embryos. J. Cell
+    Science 107: 1863-1873.
+ BOIJLAY, J.-L., C. DENNEFELD, and A. ALBERGA (1987) The Drosophila developmental
+   gene snail encodes a protein with nucleic acid binding fingers. Nature 330: 395-398.
+ THISSE, B., C. STOETZEL, C. GOROSTIZA-THISSE and F. PERRIN-SCHMITT (1988)
+   Sequence of the twist gene and nuclear localization of its protein in endomesodermal
+   cells of early Drosophila embryos. EMBO 7: 2175-2183.
+ COSTA, M., E. T. WILSON and E. WIESCHAUS (1994) A putative cell signal encoded by the
+   folded gastrulation gene coordinates cell shape changes during Drosophila gastrulation.
+    Cell 76: 1075-1089.
+ MORIZE, P., M. COSTA, S. PARKS and E. WIESCHAUS (1996) Folded                                  is
+   upstream of concertina in a pathway that mediates apical flattening and constriction.
+    (in preparation).
+

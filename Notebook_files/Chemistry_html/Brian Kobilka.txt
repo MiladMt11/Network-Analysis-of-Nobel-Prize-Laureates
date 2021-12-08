@@ -1,0 +1,831 @@
+                The Structural Basis of G Protein
+                Coupled Receptor Signaling
+                Nobel Lecture, December 8, 2012
+
+                by Brian Kobilka
+                Stanford University School of Medicine, Department of Molecular and
+                Cellular Physiology, 279 Campus Drive, Stanford, CA 94305, USA.
+
+                Introduction
+
+                Complex organisms require a sophisticated communication network to main-
+                tain homeostasis. Cells from different parts of our bodies communicate with
+                each other using chemical messengers in the form of hormones and neu-
+                rotransmitters. Cells process information encoded in these chemical messages
+                using G protein coupled receptors (GPCRs) located in the plasma membrane.
+                GPCRs are also mediate communication with the outside world. The senses of
+                sight, smell and taste are mediated by GPCRs. G protein coupled receptors (GP-
+                CRs) are nature’s most versatile chemical sensors. There are over 800 GPCRs in
+                the human genome and they respond to a broad spectrum of chemical entities
+                ranging from photons, protons and calcium ions, and small organic molecules
+                (including odorants and neurotransmitters), to peptides and glycoproteins.
+                    The classical role of a GPCR is to detect the presence of an extracellular ago-
+                nist, transmit the information across the plasma membrane, and activate a cyto-
+                plasmic heterotrimeric G protein, leading to modulation of downstream effector
+                proteins. Taking the human β2AR as an example, binding of adrenaline leads
+                to activation of Gαs, stimulation of adenylyl cyclase, cAMP accumulation, PKA
+                activation, and phosphorylation of proteins involved in cell metabolism (Fig. 1).
+                However, a wealth of research has now demonstrated that many GPCRs have
+                more complex signaling repertoires. For example, the β2AR couples to both Gαs
+                and Gαi in cardiac myocytes (Xiao et al. 1999), and can also signal through MAP
+                kinase pathways in a G protein-independent manner via arrestin (Azzi et al. 2003;
+
+                                                                                               195
+
+
+
+
+Book.indb 195                                                                                     3/24/14 12:58 PM
+
+
+        196                                                                 The Nobel Prizes
+
+
+        Shenoy et al. 2006). Similarly, the process of GPCR desensitization involves mul-
+        tiple pathways, including receptor phosphorylation events, arrestin-mediated
+        internalization into endosomes, receptor recycling and lysosomal degradation.
+        These activities are further complicated by factors such as GPCR oligomerization
+        (Terrillon and Bouvier 2004), localization to specific membrane compartments,
+        and resulting differences in lipid bilayer composition. Such multifaceted func-
+        tional behavior has been observed for many different GPCRs.
+            How does this complexity of functional behavior reconcile with the bio-
+        chemical and biophysical properties of GPCRs? The effect of a ligand on the
+        structure and biophysical properties of a receptor, and thereby the biological
+        response, is known as the ligand efficacy. Natural and synthetic ligands can be
+        grouped into different efficacy classes (Fig. 1 inset): full agonists are capable of
+        maximal receptor stimulation; partial agonists are unable to promote full activity
+        even at saturating concentrations; neutral antagonists have no effect on signal-
+        ing activity, but can prevent other ligands from binding to the receptor; inverse
+        agonists reduce the level of basal or constitutive activity below that of the unli-
+        ganded receptor. For GPCRs capable of coupling to multiple signaling systems,
+
+
+
+
+        Figure 1. The complex signaling and regulatory behavior of the β2AR. The inset illus-
+        trates the concept of ligand efficacy.
+
+
+
+
+Book.indb 196                                                                                   3/24/14 12:58 PM
+
+
+                The Structural Basis of G Protein Coupled Receptor Signaling197
+
+
+                specific ligands can have different relative efficacies towards the different path-
+                ways. In the extreme case, even opposite activities towards different signaling
+                pathways are observed: for the β2 adrenergic receptor (β2AR), a partial agonist
+                toward the arrestin/MAP kinase pathway are also inverse agonists for the classi-
+                cal Galphas/cAMP/PKA pathway (Azzi et al. 2003; Wisler et al. 2007).
+                    Given the central role played by GPCRs in nearly all physiological processes,
+                they represent the largest group of targets for drug discovery for a broad spec-
+                trum of diseases. A better understanding of the structural basis for the complex
+                signaling behavior of GPCRs should lead to more efficient and economical ap-
+                proaches to drug discovery.
+
+
+                Early insights into GPCR structure
+
+                First insights into GPCR structure came from the sequencing of rhodopsin and
+                cloning of the β2AR and other GPCRs in the 1980s. My research career in this
+                field began in 1984 when I joined the laboratory of Dr. Robert Lefkowitz. As a
+                postdoctoral fellow in the Lefkowitz laboratory, I was involved in the cloning
+                of the β2AR (Dixon et al. 1986). This was the first look at the primary amino acid
+                sequence of a GPCR activated by a diffusible ligand (hormone or neurotransmit-
+                ter). At the time we were surprised by the sequence homology with rhodopsin.
+                However, this comparison and insights from the cloning of other GPCRs that
+                soon followed confirmed the seven transmembrane topology to be a signature
+                of GPCRs.
+                     My first efforts to understand the structural basis of β2AR function took ad-
+                vantage of having access to other adrenergic receptors that we had cloned.
+                Generating chimeric receptors composed of different combinations of se-
+                quence from β2AR and α2AAR allowed us to identify domains involved in ligand
+                binding and G protein coupling specificity (Kobilka et al. 1988). After I started
+                my lab at Stanford University at the end of 1989 we continued to refine the
+                map of functional domains through a series of studies using chimeric receptors
+                and site-directed mutants (Suryanarayana et al. 1991; Guan et al. 1992; Suryana-
+                rayana and Kobilka 1993) these studies also identified intramolecular contacts
+                that helped define the arrangement of transmembrane segments in the lipid
+                bilayer (Mizobe et al. 1996).
+                     Realizing the limitations of mutagenesis to define protein structure, I be-
+                gan to explore methods for the large-scale production and purification of the
+                β2AR to enable the use of biophysical methods to study receptor structure and
+                the conformational changes involved in receptor activation. The β2AR was an
+                ideal model system for these studies because of the existing wealth of structural
+
+
+
+
+Book.indb 197                                                                                     3/24/14 12:58 PM
+
+
+        198                                                               The Nobel Prizes
+
+
+        information from mutagenesis studies and the rich diversity of commercially
+        available ligands for this receptor (agonists, partial agonists, neutral antagonists,
+        and inverse agonists). Nevertheless, this effort was particularly challenging be-
+        cause of the inherent problems associated with expression and purification of
+        these relatively unstable membrane proteins.
+             Initial work focused on understanding β2AR biosynthesis in an effort to
+        identify factors that might facilitate large-scale production (Kobilka 1990). The
+        β2AR is a type IIIb membrane protein and lacks a cleavable signal sequence. We
+        found that insertion of a cleavable signal sequence from influenza hemaglutinin
+        improved insertion of the amino terminus and transmembrane segment (TM)
+        1, and enhanced functional expression in insect cells by two-fold (Guan et al.
+        1992). Using this modification, together with affinity tags at the amino and car-
+        boxyl terminus, we established a protocol to express and purify sufficient quan-
+        tities of β2AR for biophysical studies (Kobilka 1995).
+             In 1993, Ulrik Gether and Sansan Lin joined the lab and began applying fluo-
+        rescence spectroscopy and other biochemical and biophysical approaches to
+        characterize β2AR structure and conformational changes in response to binding
+        of various ligands. Using relatively simple techniques such as circular dichro-
+        ism and intrinsic tryptophan fluorescence gave us insights into the biochemical
+        behavior of the β2AR that would ultimately be important for crystallography,
+        such as the stabilizing effect of ligands, particularly antagonists and inverse ago-
+        nists (Lin et al. 1996). By labeling the β2AR with small, environmentally sensitive
+        fluorescence probes we were able to observe structural changes in response to
+        agonist binding (Gether et al. 1995; Gether et al. 1997; Gether et al. 1997).
+             These initial studies led to a series of experiments using fluorescence spec-
+        troscopy to characterize the mechanism of agonist binding and activation.
+        These experiments focused primarily on transmembrane segment (TM) 6 which
+        earlier experiments suggested underwent the largest structural changes upon
+        agonist binding. Purified β2AR was labeled at the cytoplasmic end of TM6 with
+        a small environmentally sensitive fluorescent probe. By monitoring changes in
+        the fluorescence as a function of time, we observed that the agonist binding
+        and activation occurred through at least one conformational intermediate, and
+        that agonists and partial agonists stabilize distinct states (Ghanouni et al. 2001;
+        Swaminath et al. 2004; Swaminath et al. 2005). We also observed that agonists
+        alone do not stabilize a single active conformation (Ghanouni et al. 2001). As a
+        result of these findings, together with a growing body of evidence for ligand-
+        specific signaling behavior in cells, GPCRs were no longer thought to behave
+        as simple two-state switches. Rather, they are more properly thought of as mo-
+        lecular “rheostats,” able to sample a continuum of conformations with relatively
+
+
+
+
+Book.indb 198                                                                                   3/24/14 12:58 PM
+
+
+                The Structural Basis of G Protein Coupled Receptor Signaling199
+
+
+                closely spaced energies (Deupi and Kobilka 2007; Deupi and Kobilka 2010).
+                These biophysical and functional experiments suggested that chemical interac-
+                tions between a ligand and a receptor led to the stabilization of a ligand-specific
+                conformation or ensemble of conformations that interact with specific cytoplas-
+                mic signaling and regulatory proteins.
+
+
+                Crystallography
+
+                The first insights into the three dimensional structure of GPCRs came from rho-
+                dopsin, which differs from most other GPCRs in its relatively high biochemical
+                stability and its natural abundance in a native tissue, bovine retina. Gebhard
+                Schertler’s lab provided the first structures of rhodopsin from two-dimensional
+                crystals generated in lipids from rod outer segment membranes (Unger et al.
+                1997). This structure revealed the general architecture of the seven transmem-
+                brane (TM) helices, and was the basis for most GPCR homology models until
+                Okada and Palczewski (Palczewski et al. 2000) obtained the first high-resolu-
+                tion three-dimensional structure of rhodopsin in 2000. The elegantly simple
+                approach developed by Okada for purifying rhodopsin from rod outer seg-
+                ments using only detergent extraction suggested that lipids extracted with
+                rhodopsin might be important for protein stability and/or crystallogenesis
+                (Okada et al. 2000). More recently, Ernst and Hoffman produced the first active
+                state structures of opsin from native rhodopsin (Park et al. 2008; Scheerer et al.
+                2008).
+                     In contrast to rhosopsin, GPCRs for hormones and neurotransmitters are not
+                expressed in tissues at sufficient levels for biophysical studies and are much less
+                stable when extracted from membranes with detergents. Nevertheless, through
+                incremental improvements in insect cell expression and the efficiency of the pu-
+                rification procedure we were able to produce sufficient quantities of β2AR (1–10
+                milligrams) to start crystallography trials around 1998. However, it wasn’t until
+                2004 that we obtained the first crystals of the β2AR large enough to examine by
+                X-ray diffraction. These crystals were still very small (<50 microns) and we were
+                not able to see diffraction at conventional synchrotron beamlines. I showed a
+                picture of these crystals to Gebhard Schertler, who was working with Christian
+                Riekel and Manfred Burghammer at the European Synchrotron Radiation Facil-
+                ity (ESRF) in Grenoble to develop a microfocus beamline. Gebhard invited me
+                to bring some of our β2AR crystals to the ESRF. Using a high intensity 5 micron
+                beam, we were able to see diffraction compatible with a protein crystal at a
+                resolution of approximately 20Å. While we were disappointed in the poor qual-
+                ity of the diffraction, we were encouraged by the fact that we were able to form
+
+
+
+
+Book.indb 199                                                                                     3/24/14 12:58 PM
+
+
+        200                                                            The Nobel Prizes
+
+
+        crystals of the β2AR. This was an important milestone in the effort and suggested
+        that a crystal structure of the β2AR was not an impossible goal.
+             In 2005 Dan Rosenbaum and Søren Rasmussen, two very talented and in-
+        trepid postdoctoral fellows, joined the crystallography effort. Based on our
+        experience at that time, we speculated that there were two impediments to
+        crystallography: the dynamic character of the protein, and the very small polar
+        surface area available for crystal lattice contacts. Our biophysical and biochemi-
+        cal studies had suggested that the β2AR was a flexible, dynamic protein with
+        the cytoplasmic ends of TM5 and TM6, and the intervening third intracellular
+        loop as being the most flexible. We speculated that the dynamic character of
+        this region of the receptor led to conformational heterogeneity that prevented
+        the formation of well-ordered crystals. At the same time, biochemical studies
+        showed that the largest stretches of polar amino acids were largely unstruc-
+        tured and not suitable for forming crystal lattice contacts. Søren and Dan took
+        two different approaches to address these problems and to generate better
+        quality crystals of the β2AR. Søren identified a monoclonal antibody fragment
+        (Fab) that bound to the cytoplasmic ends of TM5 and TM6. This antibody came
+        out of a collaboration I initiated in 2003 with Dan Rohr at Medarex, a company
+        specializing in therapeutic antibodies. The goal of the collaboration was to gen-
+        erate antibodies that recognized a three-dimensional epitope on native β2AR for
+        use in crystallography. As an immunogen, I prepared purified β2AR reconstituted
+        into phospholipid vesicles to maintain its native conformation. We obtained 13
+        different monoclonal antibodies from Medarex, and Søren and colleagues in the
+        lab subsequently identified one that bound only to native β2AR and localized its
+        binding site to a region between TM5 and TM6 (Day et al. 2007).
+             As an alternative strategy, Dan used protein engineering to replace the same
+        flexible, dynamic region of the β2AR between TM5 and TM6 of the β2AR with T4
+        lysozyme (T4L) (Rosenbaum et al. 2007). T4 lysozyme was chosen because it is
+        a very stable and highly crystallizable soluble protein with amino and carboxyl
+        termini well positioned to fit between TM5 and TM6.
+             Both approaches were designed to minimize conformational flexibility, or
+        at a minimum, mask the most dynamic surface of the receptor and at the same
+        time increase the amount of polar surface area available for forming crystal lat-
+        tice contacts. During 2006 we obtained crystals using both approaches com-
+        bined with a lipid-based media known as bicelles (consisting of a mixture of
+        lipid and detergent) that had been shown to be suitable for membrane protein
+        crystallization(Faham and Bowie 2002). Initial crystals of the β2AR-Fab and the
+        β2AR-T4L fusion protein complex both diffracted to below 4 Å. We subsequently
+        obtained a 3.4Å structure of the β2AR-Fab complex grown in bicelles (Rasmussen
+
+
+
+
+Book.indb 200                                                                                3/24/14 12:58 PM
+
+
+                The Structural Basis of G Protein Coupled Receptor Signaling201
+
+
+                et al. 2007). This was our first look at the three dimensional structure of the β2AR,
+                but a higher resolution structure would soon follow (Fig. 1A).
+                    In the fall of 2006 we sent purified β2AR-T4L complex to Vadim Cherezov in
+                the lab of Raymond Stevens at Scripps. Vadim had trained with Martin Caffrey
+                at the Ohio State University. Martin’s lab had recently developed miniaturized,
+                high-throughput methods for lipidic cubic phase (LCP) crystallography (Cheng
+                et al. 1998; Misquitta et al. 2004). We previously explored the use of LCP meth-
+                ods to crystallize the β2AR in 1999 in collaboration with Peter Nollert; however,
+                at that time the methods were very labor intensive and used relatively large
+                amounts of protein to screen very few conditions. The methods developed
+                in Martin’s lab together with the robot built by his team enabled screening of
+                thousands of conditions with a few milligrams of protein (Cherezov et al. 2004).
+                Vadim had recently joined the Stevens lab, bringing with him an LCP robot on
+                loan from Martin Caffrey. This collaboration led to a 2.4 Å structure of the β2AR-
+                T4L complex (Cherezov et al. 2007; Rosenbaum et al. 2007) (Fig.2B). The fusion
+                protein strategy developed for the β2AR has since been successfully applied
+                to a growing number of other GPCRs. Through collaborative efforts with sev-
+                eral other groups, my lab recently used the same fusion protein approach to
+
+
+
+
+                Figure 2. First crystal structures of β2AR in the inactive states. A. The β2AR-Fab complex.
+                B. The β2AR-T4 Lysozyme (T4L) fusion protein.
+
+
+
+
+Book.indb 201                                                                                                 3/24/14 12:58 PM
+
+
+        202                                                               The Nobel Prizes
+
+
+        determine structures of the M2 and M3 muscarinic receptors (Haga et al. 2012;
+        Kruse et al. 2012), the mu and delta opioid receptors (Granier et al. 2012; Manglik
+        et al. 2012), and the protease activated receptor PAR1(Chung et al. 2013). More
+        recently we have found that fusing T4L to the amino terminus of the β2AR and
+        simply deleting most of the third intracellular loop can also facilitate crystalliza-
+        tion (Zou et al. 2012).
+            Another approach that has succeeded in obtaining GPCR crystal structures
+        involves scanning mutagenesis to identify thermostabilizing mutations. Chris
+        Tate and Gebhard Schertler and their colleagues pioneered this approach to
+        obtain the structure of the avian β1AR (Warne et al. 2008). These stabilizing mu-
+        tations may reduce structural flexibility and permit the use of detergents having
+        a smaller micelle size. This approach has also been used to obtain the structure
+        of the adenosine A2A receptor (Lebon et al. 2011) and, in combination with a T4
+        lysozyme fusion protein strategy, the neurotensin receptor (White et al. 2012).
+
+
+        Capturing active states by crystallography
+
+        Immediately after obtaining these initial inactive-state structures of the β2AR we
+        initiated efforts to capture actives states by crystallography. Using the methods
+        that were successful in obtaining inactive-state structures, we were not able to
+        obtain crystals of a β2AR bound to an agonist. Our concern was that due to
+        the relatively low affinity of agonists (when compared to the very high affin-
+        ity inverse-agonist carazolol used to obtain inactive-state structures), we had
+        incomplete occupancy of the receptor under crystallography conditions. This
+        would lead to conformational heterogeneity. To overcome this problem, Dan
+        Rosenbaum worked with Ralph Holl and Peter Gmeiner (University of Erlangen)
+        to develop a covalent agonist for the β2AR. Using this approach they were able
+        to obtain crystals of the covalent agonist bound β2AR; however, the cytoplas-
+        mic face of the receptor was indistinguishable from the inactive-state structure
+        (Rosenbaum et al. 2011).
+             These disappointing results were consistent with what we had learned from
+        earlier biophysical studies, that agonists alone do not fully stabilize the active
+        state of the β2AR. This was first observed using fluorescence spectroscopy (Gha-
+        nouni et al. 2001; Yao et al. 2009) and confirmed in more recent studies using
+        NMR spectroscopy (Nygaard et al. 2013). Figure 3 is a cartoon illustrating the
+        dynamic character of the receptor, showing that the receptor exists as an en-
+        semble of conformations. Due to the flexibility of the unliganded β2AR, a small
+        population can be in an active conformation, accounting for the phenomenon
+        of basal activity. On binding the agonist, the cytoplasmic interface becomes
+
+
+
+
+Book.indb 202                                                                                   3/24/14 12:58 PM
+
+
+                The Structural Basis of G Protein Coupled Receptor Signaling203
+
+
+
+
+                Figure 3. Cartoon illustrating the dynamic character of the β2AR. In the absence of
+                a ligand, the G protein coupling interface of the receptor exists in an ensemble of
+                predominantly low energy conformations. Rare active-state conformations are respon-
+                sible for basal activity. Agonist binding increases the dynamic properties of the β2AR,
+                increasing the probably of active-state conformations. Only G protein binding can fully
+                stabilize the active state.
+
+
+
+                even more dynamic, sampling a broader spectrum of conformations. This con-
+                tributes to the challenges in crystallizing agonist-bound receptor. Fluorescence
+                and NMR experiments showed us that stabilization of the active state required
+                that the receptor must form a complex with its G protein, or some other protein
+                that binds to and stabilizes the active conformation (Yao et al. 2009; Nygaard et
+                al. 2013).
+                     Our efforts to crystallize the β2AR-Gs complex were in progress, but not
+                yet successful. As an alternative we were exploring antibodies and other bind-
+                ing proteins. In May of 2009 I had the good fortune to meet Jan Steyaert (Free
+                University of Brussels) at a Gordon Conference in Italy. Jan was pioneering the
+                application of single-chain camelid antibody fragments, known as nanobodies,
+                as facilitators of protein crystallogenesis. Shortly after the conference I sent Jan
+                purified, agonist-bound β2AR reconstituted into phospholipid vesicles for im-
+                munizing llamas. By November 2009 we had our first nanobodies and Søren
+                Rasmussen identified one that exhibited G protein-like properties. This nano-
+                body (Nb80) bound to purified β2AR and allosterically enhanced agonist bind-
+                ing affinity by 100-fold, similar to what is observed in a β2AR-Gs complex. This
+                β2AR-Nb80 complex gave us the first picture of the active-state conformation of
+                the β2AR (Rasmussen et al. 2011) (Fig. 4A).
+
+
+
+
+Book.indb 203                                                                                             3/24/14 12:58 PM
+
+
+        204                                                             The Nobel Prizes
+
+
+
+
+        Figure 4. Active-state structures of the human β2AR.
+
+
+
+        The β 2 AR-Gs Complex
+
+        In 2005 I met Roger Sunahara (University of Michigan) at a Gordon Conference
+        and we began working together to understand the structural basis of coop-
+        erative interactions between the β2AR and its G protein Gs. Our long-term goal
+        was to crystallize the β2AR-Gs complex. The ultimate success of this effort would
+        require an extensive network of collaborations with investigators from diverse
+        disciplines.
+            One of the most important contributions to this effort was the use of single
+        particle electron microscopy (EM) to provide structural insights that guided our
+        crystallization strategy. By 2009 Søren Rasmussen in my lab and Brian Devree in
+        Roger’s lab were making considerable progress on the biochemistry of the com-
+        plex. They were able to form a relatively stable β2AR-Gs complex that migrated
+        as a single peak by size exclusion chromatography; however we were not able
+        to grow crystals. We sent protein to Georgios Skiniotis, an expert in single parti-
+        cle EM methods at the University of Michigan. Our first view of the β2AR-Gs com-
+        plex came from a low-resolution structure generated from negative stained EM
+        images. This structure revealed an unexpected feature of the complex that was
+        one of the biggest obstacles to crystal growth. The Gαs subunit is composed
+        of an alpha helical domain and a Ras-like domain with the GCP binding pocket
+        at the interface. The EM structure revealed that the alpha helical domain of the
+
+
+
+
+Book.indb 204                                                                                 3/24/14 12:58 PM
+
+
+                The Structural Basis of G Protein Coupled Receptor Signaling205
+
+
+                Gs alpha subunit was conformationally heterogeneous. Subsequent EM studies
+                helped to identify chemical additives that minimized the conformational het-
+                erogeneity, as well as a nanobody (Nb35) that stabilized the complex.
+                     Other contributions to the success of the β2AR-Gs crystallogrphy include the
+                identification of an ultra high affinity agonist (BI-167107) from Boehringer Ingel-
+                heim. This agonist has a dissociation half-life of more than 30 hours, ensuring
+                that the β2AR would be occupied by an agonist at all times. Another important
+                reagent was a new detergent, MNG-3, provided by Pil Seok Chae and Sam Gell-
+                man at the University of Wisconsin, Madision (Chae et al. 2010). This detergent
+                stabilized the β2AR-Gs complex during incorporation into the mesophase lipid
+                used for crystallography. Martin Caffrey provided a special mesophase lipid (7.7
+                MAG) that enabled the application of lipidic cubic phase methods to a large
+                protein complex (Misquitta et al. 2004). To further stabilize the β2AR-Gs complex,
+                we worked with Jan Steyaert to develop a nanobody (Nb35) that bound to the
+                interface between the alpha and beta subunits of Gs. Finally, replacement of the
+                amino terminus of the β2AR with T4 lysozyme facilitated packing interactions
+                with the extracellular surface.
+                     The first crystals of the β2AR-Gs complex were obtained in April 2011 and
+                we were ultimately able to solve the structure to 3.2Å (Fig. 4B) (Rasmussen et
+                al. 2011). The structure revealed how the binding of a small agonist at the ex-
+                tracellular side of the receptor propagates structural changes across the lipid
+                bilayer to effect activation of a cytosolic G protein. In this process, small struc-
+                tural changes around the binding pocket are amplified to very large structural
+                changes in the G protein.
+                     Figures 5–8 follow the process of activation from agonist-stabilized changes
+                in the β2AR to receptor mediated changes in Gs. As shown in Figure 5, structural
+                differences between the inactive and active state β2AR structures are relatively
+                small, particularly around the ligand binding pocket. The largest changes are ob-
+                served at the cytoplasmic surface including a 14Å outward movement of TM6.
+                     Fig. 6 compares the ligand binding pockets for active and inactive struc-
+                tures. Amino acids within 4Å of the agonist BI167107 are shown. Changes in the
+                binding pocket are relatively subtle, with the agonist pocket being smaller than
+                that of the inverse agonist bound receptor. The largest difference is a 2Å inward
+                movement around Ser207 in TM5. Ser203, 204 and 207 have previously been
+                shown to be important for agonist binding and activation.
+                     To understand how these small changes in the binding pocket contrib-
+                ute to the larger 14Å movement at the cytoplasmic end of the receptor, we
+                looked for the changes in packing interactions between TM segments below
+                the ligand binding pocket. As shown in Figure 7, a set of conserved amino acids
+
+
+
+
+Book.indb 205                                                                                      3/24/14 12:58 PM
+
+
+        206                                                                 The Nobel Prizes
+
+
+
+
+        Figure 5. A comparison of the carazolol-bound, inactive-state structure of the β2AR
+        (gray) and the active-state structure of the β2AR (green) from the β2AR-Gs complex.
+
+
+
+
+        Figure 6. A comparison of the binding pocket for the inverse agonist carazolol in the
+        inactive-state structure of the β2AR (gray) and the BI167107 binding pocket for the
+        active-state structure of the β2AR (green).
+
+
+
+
+Book.indb 206                                                                                   3/24/14 12:58 PM
+
+
+                The Structural Basis of G Protein Coupled Receptor Signaling207
+
+
+
+
+                Figure 7. Packing interactions of conserved amino acids in inactive and active states
+                of the β2AR. Only TM3, TM5, TM6 and TM7 are shown. A. A set of conserved amino acids
+                (represented as spheres) pack together to stabilize the inactive conformation (Fig. 7A).
+                These include the highly conserved Pro211 in TM5 and Phe282 in TM6 as well as Ile121
+                in TM3 and Asn318 in TM7. B. Active state. The packing arrangement observed in the
+                inactive state is not compatible with the small inward movement of TM5 and requires a
+                rearrangement to accommodate the agonist bound active state. C. Active and inactive
+                structures are superimposed. Pro 211, Phe282, Ile121 and Asn318 are represented as
+                sticks to more easily compare differences in position.
+
+
+
+                pack together to stabilize the inactive conformation (Fig. 7A). These include the
+                highly conserved Pro 211 in TM5 and Phe 282 in TM6 as well as Ile 121 in TM3
+                and Asn 318 in TM7. This packing arrangement is not compatible with the small
+                inward movement of TM5 and requires a rearrangement to accommodate the
+                agonist bound active state (Fig. 7B). This rearrangement involves a rotation of
+                TM6 around Phe282 that is largely responsible for the large outward movement
+                at its cytoplasmic end (Fig. 7C).
+                     Figure 8 shows the structural changes in Gs upon forming a complex with
+                agonist-bound β2AR. The inactive state of the Gs heterotrimer is modeled from
+                the crystal structure of the Gi heterotrimer. The Gαs subunit is composed of a
+                Ras-like GTPase domain and an α-helical domain. The GDP binding site occupies
+                the interface between these two domains. On coupling to the β2AR. the Gαs
+                subunit undergoes large structural changes, with the α-helical domain being
+                displaced by approximately 130º. The carboxyl terminal α5-helix of the Ras-like
+                domain is displaced 5Å into the core of the active receptor, stabilizing the active
+                state of the receptor. This displacement of the α5-helix as well as more subtle
+                changes transmitted from the receptor to the GDP binding pocket through the
+
+
+
+
+Book.indb 207                                                                                              3/24/14 12:58 PM
+
+
+        208                                                               The Nobel Prizes
+
+
+
+
+        Figure 8. Comparison of inactive GDP bound Gs (left panel) with the β2AR-Gs complex
+        (middle panel). The two structures are superimposed in the right panel. The GDP-bound
+        Gs heterotrimer was modeled from the crystal structure of the Gi heterotrimer.
+
+
+        β1-strand of the Ras domain are responsible for dissociation of GDP. The empty-
+        state β2AR-Gs complex is poised for activation by GTP. The very large displace-
+        ment of alpha helical domain was not expected from prior studies; however,
+        as noted above, low-resolution single particle EM studies by Georgios Skiniotis
+        revealed that the alpha helical domain is highly dynamic.
+
+
+        Conclusions
+
+        The β2AR–Gs complex crystal structure provides the first high-resolution view
+        of transmembrane signaling for a GPCR. We now have a framework to design
+        experiments to investigate the mechanism of complex formation, GTP binding
+        and complex dissociation. Of particular interest will be studies designed to de-
+        termine the functional significance of the large movement of the Gαs α-helical
+        domain relative to the Ras-like domain that is observed in the β2AR–Gs complex.
+        Nevertheless, the β2AR-Gs structure leaves an important question unanswered.
+        It does not explain why the β2AR preferentially couples to Gs. While some of the
+        β2AR sequences involved in the β2AR-Gs interface have been shown to have a
+        role in G protein coupling; there is no clear consensus sequence for Gs-coupling
+        specificity when these segments are aligned with other Gs-coupled GPCRs.
+        Coupling specificity may be dictated by interactions between the β2AR and
+        Gs that precede the formation of the nucleotide-free complex. While the stud-
+        ies outlined in this lecture have advanced the field, much work remains to be
+        done before we can fully understand and pharmacologically control signaling
+        by these fascinating membrane proteins.
+
+
+
+
+Book.indb 208                                                                                   3/24/14 12:58 PM
+
+
+                The Structural Basis of G Protein Coupled Receptor Signaling209
+
+
+                ACKNOWLEDGEMENTS
+
+                This lecture represents work done since 1984 and reflects contributions of many
+                colleagues, postdoctoral fellows and graduate students, as well as inspiration
+                provided by the work of other investigators in the field. I want to single out a
+                few colleagues for special thanks. My wife Tong Sun Kobilka has been my col-
+                league, advisor and strongest advocate for over thirty years. We began working
+                together at Duke, and continue to this day. I want to thank Bob Lefkowitz for his
+                mentorship during my fellowship and beyond. Bill Weis has been my colleague
+                and advisor on all matters having to do with interpreting diffraction data and
+                solving difficult crystal structures. I want to thank Roger Sunahara for initiating
+                our very enjoyable and fruitful collaboration on the β2AR-Gs structure. Finally,
+                I want to thank the other members of the team of scientists that contributed
+                to the β2AR-Gs structural effort. At Stanford: Søren Rasmussen, Foon Sun Thian,
+                Yaozhong Zou, Andrew Kruse, Ka Young Chung, and Jesper Mathiesen. At the
+                University of Michigan: Brian DeVree, Diane Calinski, Gerwin Westfield, and Geor-
+                gios Skiniotis. At the University of Wisconsin, Madison: Pil Seok Chae and Sam
+                Gellman. At the Free University of Brussels: Els Pardon and Jan Steyaert. At Trinity
+                College Dublin: Joseph Lyons, Syed Shah and Martin Caffrey. This work has been
+                supported by grants from the National Institutes of Health (NINDS and NIGMS),
+                and gifts from the Mathers Foundation and Lundbeck.
+
+
+                REFERENCES
+                 1. Azzi, M., P. G. Charest, S. Angers, G. Rousseau, T. Kohout, M. Bouvier and G. Pineyro
+                    (2003), “Beta-arrestin-mediated activation of MAPK by inverse agonists reveals dis-
+                    tinct active conformations for G protein-coupled receptors,” Proc Natl Acad Sci U S A
+                    100(20): 11406–11411.
+                 2. Chae, P. S., S. G. Rasmussen, R. R. Rana, K. Gotfryd, R. Chandra, M. A. Goren, A. C.
+                    Kruse, S. Nurva, C. J. Loland, Y. Pierre, D. Drew, J. L. Popot, D. Picot, B. G. Fox, L. Guan,
+                    U. Gether, B. Byrne, B. Kobilka and S. H. Gellman (2010), “Maltose-neopentyl glycol
+                    (MNG) amphiphiles for solubilization, stabilization and crystallization of membrane
+                    proteins,” Nat Methods 7(12): 1003–1008.
+                 3. Cheng, A., B. Hummel, H. Qiu and M. Caffrey (1998), “A simple mechanical mixer for
+                    small viscous lipid-containing samples,” Chem Phys Lipids 95(1): 11–21.
+                 4. Cherezov, V., A. Peddi, L. Muthusubramaniam, Y. F. Zheng and M. Caffrey (2004), “A ro-
+                    botic system for crystallizing membrane and soluble proteins in lipidic mesophases,”
+                    Acta Crystallogr D Biol Crystallogr 60(Pt 10): 1795–1807.
+                 5. Cherezov, V., D. M. Rosenbaum, M. A. Hanson, S. G. Rasmussen, F. S. Thian, T. S. Kobilka,
+                    H. J. Choi, P. Kuhn, W. I. Weis, B. K. Kobilka and R. C. Stevens (2007), “High-resolution
+                    crystal structure of an engineered human beta2-adrenergic G protein-coupled re-
+                    ceptor,” Science 318(5854): 1258–1265.
+
+
+
+
+Book.indb 209                                                                                                   3/24/14 12:58 PM
+
+
+        210                                                                         The Nobel Prizes
+
+
+          6. Chung, K. Y., P. W. Day, G. Velez-Ruiz, R. K. Sunahara and B. K. Kobilka (2013), “Identifica-
+             tion of GPCR-Interacting Cytosolic Proteins Using HDL Particles and Mass Spectrom-
+             etry-Based Proteomic Approach,” PLoS One 8(1): e54942.
+          7. Day, P. W., S. G. Rasmussen, C. Parnot, J. J. Fung, A. Masood, T. S. Kobilka, X. J. Yao, H.
+             J. Choi, W. I. Weis, D. K. Rohrer and B. K. Kobilka (2007), “A monoclonal antibody for G
+             protein-coupled receptor crystallography,” Nat Methods 4(11): 927–929.
+          8. Deupi, X. and B. Kobilka (2007), “Activation of G protein-coupled receptors,” Adv Pro-
+             tein Chem 74: 137–166.
+          9. Deupi, X. and B. K. Kobilka (2010), “Energy landscapes as a tool to integrate GPCR
+             structure, dynamics, and function,” Physiology (Bethesda) 25(5): 293–303.
+         10. Dixon, R. A., B. K. Kobilka, D. J. Strader, J. L. Benovic, H. G. Dohlman, T. Frielle, M. A.
+             Bolanowski, C. D. Bennett, E. Rands, R. E. Diehl, R. A. Mumford, E. E. Slater, I. S. Sigal,
+             M. G. Caron, R. J. Lefkowitz and C. D. Strader (1986), “Cloning of the gene and cDNA
+             for mammalian beta-adrenergic receptor and homology with rhodopsin,” Nature
+             321(6065): 75–79.
+         11. Faham, S. and J. U. Bowie (2002), “Bicelle crystallization: a new method for crystalliz-
+             ing membrane proteins yields a monomeric bacteriorhodopsin structure,” J Mol Biol
+             316(1): 1–6.
+         12. Gether, U., J. A. Ballesteros, R. Seifert, E. Sanders-Bush, H. Weinstein and B. K. Kobilka
+             (1997), “Structural instability of a constitutively active G protein-coupled recep-
+             tor. Agonist-independent activation due to conformational flexibility,” J Biol Chem
+             272(5): 2587–2590.
+         13. Gether, U., S. Lin, P. Ghanouni, J. A. Ballesteros, H. Weinstein and B. K. Kobilka (1997),
+             “Agonists induce conformational changes in transmembrane domains III and VI of
+             the beta2 adrenoceptor,” Embo J 16(22): 6737–6747.
+         14. Gether, U., S. Lin and B. K. Kobilka (1995), “Fluorescent labeling of purified beta 2 ad-
+             renergic receptor. Evidence for ligand-specific conformational changes,” J Biol Chem
+             270(47): 28268–28275.
+         15. Ghanouni, P., Z. Gryczynski, J. J. Steenhuis, T. W. Lee, D. L. Farrens, J. R. Lakowicz and
+             B. K. Kobilka (2001), “Functionally different agonists induce distinct conformations
+             in the G protein coupling domain of the beta 2 adrenergic receptor,” J Biol Chem
+             276(27): 24433–24436.
+         16. Granier, S., A. Manglik, A. C. Kruse, T. S. Kobilka, F. S. Thian, W. I. Weis and B. K. Ko-
+             bilka (2012), “Structure of the delta-opioid receptor bound to naltrindole,” Nature
+             485(7398): 400–404.
+         17. Guan, X. M., T. S. Kobilka and B. K. Kobilka (1992), “Enhancement of membrane inser-
+             tion and function in a type IIIb membrane protein following introduction of a cleav-
+             able signal peptide,” J Biol Chem 267(31): 21995–21998.
+         18. Guan, X. M., S. J. Peroutka and B. K. Kobilka (1992), “Identification of a single amino
+             acid residue responsible for the binding of a class of beta-adrenergic receptor an-
+             tagonists to 5-hydroxytryptamine1A receptors,” Mol Pharmacol 41(4): 695–698.
+         19. Haga, K., A. C. Kruse, H. Asada, T. Yurugi-Kobayashi, M. Shiroishi, C. Zhang, W. I. Weis,
+             T. Okada, B. K. Kobilka, T. Haga and T. Kobayashi (2012), “Structure of the human
+             M2 muscarinic acetylcholine receptor bound to an antagonist,” Nature 482(7386):
+             547–551.
+
+
+
+
+Book.indb 210                                                                                                3/24/14 12:58 PM
+
+
+                The Structural Basis of G Protein Coupled Receptor Signaling211
+
+
+                20. Kobilka, B. K. (1990), “The role of cytosolic and membrane factors in processing of
+                    the human beta-2 adrenergic receptor following translocation and glycosylation in
+                    a cell-free system,” J Biol Chem 265(13): 7610–7618.
+                21. Kobilka, B. K. (1995), “Amino and carboxyl terminal modifications to facilitate the pro-
+                    duction and purification of a G protein-coupled receptor,” Analyt Biochem 231(1):
+                    269–271.
+                22. Kobilka, B. K., T. S. Kobilka, K. Daniel, J. W. Regan, M. G. Caron and R. J. Lefkowitz
+                    (1988), “Chimeric alpha 2-,beta 2-adrenergic receptors: delineation of domains
+                    involved in effector coupling and ligand binding specificity,” Science 240(4857):
+                    1310–1316.
+                23. Kruse, A. C., J. Hu, A. C. Pan, D. H. Arlow, D. M. Rosenbaum, E. Rosemond, H. F. Green, T.
+                    Liu, P. S. Chae, R. O. Dror, D. E. Shaw, W. I. Weis, J. Wess and B. K. Kobilka (2012), “Struc-
+                    ture and dynamics of the M3 muscarinic acetylcholine receptor,” Nature 482(7386):
+                    552–556.
+                24. Lebon, G., T. Warne, P. C. Edwards, K. Bennett, C. J. Langmead, A. G. Leslie and C. G.
+                    Tate (2011), “Agonist-bound adenosine A2A receptor structures reveal common fea-
+                    tures of GPCR activation,” Nature 474(7352): 521–525.
+                25. Lin, S., U. Gether and B. K. Kobilka (1996), “Ligand stabilization of the beta 2 adrener-
+                    gic receptor: effect of DTT on receptor conformation monitored by circular dichro-
+                    ism and fluorescence spectroscopy,” Biochemistry 35(46): 14445–14451.
+                26. Manglik, A., A. C. Kruse, T. S. Kobilka, F. S. Thian, J. M. Mathiesen, R. K. Sunahara, L.
+                    Pardo, W. I. Weis, B. K. Kobilka and S. Granier (2012), “Crystal structure of the mu-
+                    opioid receptor bound to a morphinan antagonist,” Nature 485(7398): 321–326.
+                27. Misquitta, L. V., Y. Misquitta, V. Cherezov, O. Slattery, J. M. Mohan, D. Hart, M. Zhalnina,
+                    W. A. Cramer and M. Caffrey (2004), “Membrane protein crystallization in lipidic me-
+                    sophases with tailored bilayers,” Structure 12(12): 2113–2124.
+                28. Mizobe, T., M. Maze, V. Lam, S. Suryanarayana and B. K. Kobilka (1996), “Arrangement
+                    of transmembrane domains in adrenergic receptors. Similarity to bacteriorhodop-
+                    sin,” J Biol Chem 271(5): 2387–2389.
+                29. Nygaard, R., Y. Zou, R. O. Dror, T. J. Mildorf, D. H. Arlow, A. Manglik, A. C. Pan, C. W. Liu, J.
+                    J. Fung, M. P. Bokoch, F. S. Thian, T. S. Kobilka, D. E. Shaw, L. Mueller, R. S. Prosser and B.
+                    K. Kobilka (2013), “The Dynamic Process of beta(2)-Adrenergic Receptor Activation,”
+                    Cell 152(3): 532–542.
+                30. Okada, T., I. Le Trong, B. A. Fox, C. A. Behnke, R. E. Stenkamp and K. Palczewski (2000),
+                    “X-Ray diffraction analysis of three-dimensional crystals of bovine rhodopsin ob-
+                    tained from mixed micelles,” J Struct Biol 130(1): 73–80.
+                31. Palczewski, K., T. Kumasaka, T. Hori, C. A. Behnke, H. Motoshima, B. A. Fox, I. Le Trong,
+                    D. C. Teller, T. Okada, R. E. Stenkamp, M. Yamamoto and M. Miyano (2000), “Crystal
+                    structure of rhodopsin: A G protein-coupled receptor,” Science 289(5480): 739–745.
+                32. Park, J. H., P. Scheerer, K. P. Hofmann, H. W. Choe and O. P. Ernst (2008), “Crystal
+                    structure of the ligand-free G-protein-coupled receptor opsin,” Nature 454(7201):
+                    183–187.
+                33. Rasmussen, S. G., H. J. Choi, J. J. Fung, E. Pardon, P. Casarosa, P. S. Chae, B. T. Devree,
+                    D. M. Rosenbaum, F. S. Thian, T. S. Kobilka, A. Schnapp, I. Konetzki, R. K. Sunahara, S.
+                    H. Gellman, A. Pautsch, J. Steyaert, W. I. Weis and B. K. Kobilka (2011), “Structure of
+
+
+
+
+Book.indb 211                                                                                                       3/24/14 12:58 PM
+
+
+        212                                                                            The Nobel Prizes
+
+
+                a nanobody-stabilized active state of the beta(2) adrenoceptor,” Nature 469(7329):
+                175–180.
+         34.    Rasmussen, S. G., H. J. Choi, D. M. Rosenbaum, T. S. Kobilka, F. S. Thian, P. C. Edwards,
+                M. Burghammer, V. R. Ratnala, R. Sanishvili, R. F. Fischetti, G. F. Schertler, W. I. Weis
+                and B. K. Kobilka (2007), “Crystal structure of the human beta2 adrenergic G-protein-
+                coupled receptor,” Nature 450(7168): 383–387.
+         35.    Rasmussen, S. G., B. T. DeVree, Y. Zou, A. C. Kruse, K. Y. Chung, T. S. Kobilka, F. S. Thian,
+                P. S. Chae, E. Pardon, D. Calinski, J. M. Mathiesen, S. T. Shah, J. A. Lyons, M. Caffrey, S.
+                H. Gellman, J. Steyaert, G. Skiniotis, W. I. Weis, R. K. Sunahara and B. K. Kobilka (2011),
+                “Crystal structure of the beta2 adrenergic receptor-Gs protein complex,” Nature
+                477(7366): 549–555.
+         36.    Rosenbaum, D. M., V. Cherezov, M. A. Hanson, S. G. Rasmussen, F. S. Thian, T. S. Kobilka,
+                H. J. Choi, X. J. Yao, W. I. Weis, R. C. Stevens and B. K. Kobilka (2007), “GPCR engineering
+                yields high-resolution structural insights into beta2-adrenergic receptor function,”
+                Science 318(5854): 1266–1273.
+         37.    Rosenbaum, D. M., C. Zhang, J. A. Lyons, R. Holl, D. Aragao, D. H. Arlow, S. G. Rasmus-
+                sen, H. J. Choi, B. T. Devree, R. K. Sunahara, P. S. Chae, S. H. Gellman, R. O. Dror, D. E.
+                Shaw, W. I. Weis, M. Caffrey, P. Gmeiner and B. K. Kobilka (2011), “Structure and func-
+                tion of an irreversible agonist-beta(2) adrenoceptor complex,” Nature 469(7329):
+                236–240.
+         38.    Scheerer, P., J. H. Park, P. W. Hildebrand, Y. J. Kim, N. Krauss, H. W. Choe, K. P. Hofmann
+                and O. P. Ernst (2008), “Crystal structure of opsin in its G-protein-interacting confor-
+                mation,” Nature 455(7212): 497–502.
+         39.    Shenoy, S. K., M. T. Drake, C. D. Nelson, D. A. Houtz, K. Xiao, S. Madabushi, E. Reiter, R.
+                T. Premont, O. Lichtarge and R. J. Lefkowitz (2006), “Beta-arrestin-dependent, G pro-
+                tein-independent ERK1/2 activation by the beta2 adrenergic receptor,” J Biol Chem
+                281(2): 1261–1273.
+         40.    Suryanarayana, S., D. A. Daunt, M. Von Zastrow and B. K. Kobilka (1991), “A point
+                mutation in the seventh hydrophobic domain of the alpha 2 adrenergic receptor
+                increases its affinity for a family of beta receptor antagonists,” J Biol Chem 266(23):
+                15488–15492.
+         41.    Suryanarayana, S. and B. K. Kobilka (1993), “Amino acid substitutions at position 312
+                in the seventh hydrophobic segment of the beta 2-adrenergic receptor modify
+                ligand-binding specificity,” Mol Pharmacol 44(1): 111–114.
+         42.    Swaminath, G., X. Deupi, T. W. Lee, W. Zhu, F. S. Thian, T. S. Kobilka and B. Kobilka
+                (2005), “Probing the beta2 Adrenoceptor Binding Site with Catechol Reveals Dif-
+                ferences in Binding and Activation by Agonists and Partial Agonists,” J Biol Chem
+                280(23): 22165–22171.
+         43.    Swaminath, G., Y. Xiang, T. W. Lee, J. Steenhuis, C. Parnot and B. K. Kobilka (2004),
+                “Sequential Binding of Agonists to the {beta}2 Adrenoceptor: Kinetic evidence for
+                intermediate conformational states,” J Biol Chem 279(1): 686–691.
+         44.    Terrillon, S. and M. Bouvier (2004), “Roles of G-protein-coupled receptor dimeriza-
+                tion,” EMBO Rep 5(1): 30–34.
+         45.    Unger, V. M., P. A. Hargrave, J. M. Baldwin and G. F. Schertler (1997), “Arrangement of
+                rhodopsin transmembrane alpha-helices,” Nature 389(6647): 203–206.
+
+
+
+
+Book.indb 212                                                                                                   3/24/14 12:58 PM
+
+
+                The Structural Basis of G Protein Coupled Receptor Signaling213
+
+
+                46. Warne, T., M. J. Serrano-Vega, J. G. Baker, R. Moukhametzianov, P. C. Edwards, R. Hen-
+                    derson, A. G. Leslie, C. G. Tate and G. F. Schertler (2008), “Structure of a beta1-adren-
+                    ergic G-protein-coupled receptor,” Nature 454(7203): 486–491.
+                47. White, J. F., N. Noinaj, Y. Shibata, J. Love, B. Kloss, F. Xu, J. Gvozdenovic-Jeremic, P. Shah,
+                    J. Shiloach, C. G. Tate and R. Grisshammer (2012), “Structure of the agonist-bound
+                    neurotensin receptor,” Nature 490(7421): 508–513.
+                48. Wisler, J. W., S. M. DeWire, E. J. Whalen, J. D. Violin, M. T. Drake, S. Ahn, S. K. Shenoy
+                    and R. J. Lefkowitz (2007), “A unique mechanism of beta-blocker action: Carvedilol
+                    stimulates beta-arrestin signaling,” Proceedings of the National Academy of Sciences of
+                    the United States of America 104(42): 16657–16662.
+                49. Xiao, R. P., P. Avdonin, Y. Y. Zhou, H. Cheng, S. A. Akhter, T. Eschenhagen, R. J. Lefkowitz,
+                    W. J. Koch and E. G. Lakatta (1999), “Coupling of beta2-adrenoceptor to Gi proteins
+                    and its physiological relevance in murine cardiac myocytes,” Circ Res 84(1): 43–52.
+                50. Yao, X. J., G. Velez Ruiz, M. R. Whorton, S. G. Rasmussen, B. T. DeVree, X. Deupi, R. K.
+                    Sunahara and B. Kobilka (2009), “The effect of ligand efficacy on the formation and
+                    stability of a GPCR-G protein complex,” Proc Natl Acad Sci U S A 106(23): 9501–9506.
+                51. Zou, Y., W. I. Weis and B. K. Kobilka (2012), “N-terminal T4 lysozyme fusion facilitates
+                    crystallization of a G protein coupled receptor,” PLoS One 7(10): e46039.
+
+                Portrait photo of professor Kobilka by photographer Ulla Montan.
+
+
+
+
+Book.indb 213                                                                                                     3/24/14 12:58 PM
+

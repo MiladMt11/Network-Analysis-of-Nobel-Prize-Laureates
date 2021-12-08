@@ -1,0 +1,752 @@
+                                                                                155
+
+
+
+
+Generating High-Intensity
+Ultrashort Optical Pulses
+Nobel Lecture, December 8, 2018 by
+Donna Strickland
+University of Waterloo, Waterloo, Canada.
+
+
+
+this lecture is about how light interacts with matter and how the
+interaction changes when the power of the light gets very high. When the
+power of the light is low, the interactions are linear. That is, the response
+of the interaction varies linearly with the power of the light. If you double
+the power of the light impinging on the material, you will absorb twice as
+much power. At the time of my PhD thesis, scientists were investigating
+nonlinear interactions with media. With nonlinear absorption, when the
+incident light power is doubled the absorption rate is more than doubled.
+My PhD research project was to study a highly nonlinear experiment and
+to do the experiment I needed first to develop a very intense laser. This is
+the reason that I developed Chirped Pulse Amplification (CPA) along with
+my PhD supervisor, Prof. Gérard Mourou. With the new intense CPA laser
+system, we were able to show that the interactions were not the nonlinear
+interactions that we were expecting. We had to rethink how intense light
+interacted with matter, and the development of CPA helped usher in a
+new field of study that was emerging called high intensity laser physics.
+   The interaction of light with matter has been studied over the centu-
+ries. Scientists wondered if light was made up of particles or whether it
+could be a wave. Experimental observations showed evidence of both
+explanations of light. The fact that a tree casts a well-defined shadow led
+people to think light had to be made of particles travelling in straight
+
+
+156   THE NOBEL PRIZES
+
+
+      lines. If the path of a light particle went through the tree, it was simply
+      blocked by the tree, resulting in the shadow. On the other hand, wave-like
+      phenomena were also observed. When light passes through a small aper-
+      ture there are fringes on the edge of the resulting light pattern that can
+      only be explained using wave theory.
+         In the mid-19th century, theorist James Clerk Maxwell combined the
+      equations resulting from various experimental studies on time varying
+      electric and magnetic fields. There were four equations in total coupling
+      electric and magnetic fields. To make the four equations mathematically
+      consistent, Maxwell had to add one more term concerning time varying
+      electric fields inducing a magnetic field. This last piece of the puzzle
+      could not be experimentally observed with mid-19th century technology.
+      By combining the four complete mathematical equations, Maxwell was
+      able to show theoretically that time varying electric and magnetic fields
+      travelled as waves. These electro-magnetic waves travelled at the speed
+      of light. He then theorized that since light travels at the speed of light, it
+      must be an electro-magnetic wave. By the end of the 19th century Hein-
+      rich Hertz had experimentally confirmed that time varying electric fields
+      did indeed travel as waves. Because of the success of Maxwell’s equa-
+      tions leading to the wave equation describing the time varying elec-
+      tro-magnetic waves, scientists were led to believe that light must be a
+      wave.
+         By the end of the 19th century, scientists such as Hertz were carrying
+      out experiments on ejecting electrons from material by shining light on
+      the material. If light was indeed a wave, the brighter the light, the faster
+      the electrons should be travelling when they leave the material. These
+      experimental observations would be analogous to watching stones be
+      being thrown up on a beach by a water wave. A small ripple in the water
+      will not move a stone very much, but when the waves get big, the stones
+      can move quickly and travel further away from the water. The power of a
+      wave is related to the amplitude of the wave.
+         The experiments with light ejecting electrons used different colours of
+      light. The colour of light is given by the wavelength of the light, which is
+      the distance between the crests of the wave. Of the colours that we can
+      see with our eyes, red has the longest wavelength of about 0.7 microme-
+      ters (one micrometer is one millionth of a meter) and the shortest wave-
+      lengths of light that we can see are violet light with wavelength around 0.4
+      micrometers. When the scientists shone red light on the material, no elec-
+      trons were ejected no matter how powerful the red light was made. With
+      green light, electrons came off the material but at low speed. When the
+      power was increased, more electrons were ejected but always at the low
+      speed. With violet light, the electron speed was higher than with green
+      light, but again the speed did not increase with increased light power. The
+
+
+                                                                 Donna Strickland Lecture     157
+
+
+number of electrons ejected increased with light power. These experi-
+ments flew in the face of the theory that light was a wave.
+    In 1905, Albert Einstein was able to explain this effect. Of all the phys-
+ics theories that Albert Einstein discovered, it is his work on this phe-
+nomenon known as the photo-electric effect that Einstein was awarded
+his Nobel Prize for. From these experimental observations of light causing
+electrons to be ejected from materials, Einstein figured out that light is
+quantized in its energy. There is a minimum energy unit of light that we
+now call the photon. A photon is a wave-like particle. Einstein realized
+that the energy of a photon is given by the wavelength of the light. The
+total energy in a light pulse is then given by the energy of a single photon
+multiplied by the number of photons.
+    To understand why the photon picture of light explains the experimen-
+tal observations, I will use an analogy with gravitational energy because
+it’s harder for us to feel the energy of light. We know from everyday expe-
+rience that if we drop a ball to the ground, the ball picks up speed as it
+falls. The ball would be moving faster when it hits the ground if dropped
+from a higher position above the ground. We will imagine playing basket-
+ball with a child’s basketball net. The photons will be the basketball play-
+ers trying to drop the ball through the net and we will determine the
+speed the ball has when it enters the net. The speed of the ball through
+the net is analogous to the speed of the electron as it is ejected from the
+material by the photons.
+    As depicted in Figure 1, a red photon has the longest wavelength and so
+has the smallest energy. It is like a child sized basketball player. A red
+photon playing basketball, no matter how they try, even on their tip-
+py-toes cannot reach the net to drop their electron through. And no mat-
+ter how many of these child-sized photons there are, electrons are never
+going to get through the basketball net. This is equivalent to no electrons
+coming off the material when irradiated by red light at any power.
+
+
+
+
+Figure 1. Energy of photons is depicted as height. Of the visible colours, red photons have
+the least energy, violet photons the greatest energy, with green photons in between. The
+height of the ball held up by the photon, compared to the height of the basketball net is
+equivalent to the comparison of photon energy with the energy that holds the electrons
+to the atoms.
+
+
+158   THE NOBEL PRIZES
+
+
+          Now if you have a green light, that’s like an adult sized photon, playing
+      with a child’s basketball net and they can dunk the electron through the
+      net, but only barely. They’re only standing slightly taller than the basket-
+      ball net and so when they drop their ball through it has only picked up a
+      small speed before reaching the net.
+          But the violet photon is like a pro basketball player. They’re the very
+      tall photons. Their height is well above the net and when they drop their
+      electron through the net, the electron has a lot more speed. But it
+      wouldn’t matter how many of these violet photons there were, they would
+      all be dropping electrons at the same speed through the net. There would
+      be more electrons coming through the net.
+          Usually when people study the photoelectric effect, it is about the study
+      of quantum mechanics, but that’s not what I want to concentrate on for
+      this lecture. What the experiment and theory of the photo-electric effect
+      tells us is about how light interacts with matter. It is always one photon
+      interacting with one atom at a time. If that photon has enough energy,
+      more than the energy that the atom is holding onto its electron, it can
+      send that electron on its way. The kinetic energy of the electron is given
+      by the difference in the energy of the photon and the energy the atom was
+      using to hold onto the electron. As the power of the light is increased, it
+      means that there are more photons in the pulse and so more photons are
+      available to interact with more atoms, but always one photon meeting one
+      atom at a time.
+          And that’s how we understood how light interacted with matter
+      through the beginning of the 20th century. And then along came Maria
+      Goeppert Mayer, the second woman to be awarded a Nobel Prize in phys-
+      ics. Her Nobel Prize work was about nuclear shell structure, but I will dis-
+      cuss the work she did for her PhD in 1930 and published in 1931[1]. I cited
+      that 1931 paper in my own PhD thesis.
+          Maria Goeppert Mayer started a whole new area of physics known now
+      as multiphoton physics. She worked out the quantum mechanical theory
+      of an atom simultaneously absorbing two photons to leave the atom in an
+      excited electronic state. In order for light to be linearly absorbed, the
+      energy of the photon must match the energy of the atomic energy
+      between the ground state and the excited state. For the case of two pho-
+      ton absorption that Goeppert Mayer solved, the addition of the energies
+      of the two photons must equal the energy difference of the atomic states.
+      Of all possible two photon processes, absorption is the most likely
+      because it uses a resonant interaction. This is the same idea as pushing a
+      child on a swing. To make the swing go higher you only push one time
+      each period or in other words only when the swing has reached its maxi-
+      mum height. If you pushed at other times, it would disrupt the swinging
+      motion rather than increase the swinging motion to greater heights.
+
+
+                                                     Donna Strickland Lecture   159
+
+
+   If instead of absorption, we consider the process of multiphoton ioni-
+zation, two little red photons would be simultaneously absorbed and the
+combined energy of the two red photons would be the same energy as a
+violet photon of twice the energy. The two red photons would cause an
+electron to be ejected as if it was irradiated by a single violet photon.
+   Goeppert Mayer had theoretically predicted multi-photon absorption,
+but no one had observed the effect experimentally. In fact, no one would
+see a multi-photon effect for another 30 years. It was Peter Franken’s
+group at the University of Michigan that were the first to see a multipho-
+ton effect. They were not investigating multiphoton absorption but rather
+a nonlinear optical process known as second harmonic generation [2]. To
+clarify, multiphoton physics refers to the study of the medium undergoing
+a multiphoton process and nonlinear optics is the study of the resulting
+light from a multiphoton process. Harmonic generation is not a resonant
+process, but one where an atom will simultaneously absorb the energy of
+two photons but then quickly release the energy. The energy will be
+released as a single photon having twice the energy. The photon having
+twice the energy of the input photons is known as the second harmonic.
+Since the photon energy is doubled, the wavelength is halved. Using an
+optical spectrometer that could measure both the red optical signal as
+well as the generated violet light, the Franken group measured a very
+small signal in the violet when they had a very powerful red light.
+   Second harmonic generation was then first observed in 1961, which
+begs the question of why it took 30 years to see any type of multiphoton
+effect similar to what Maria Goeppert Meyer had predicted in 1931. What
+was special about 1961 was that in 1960, the laser was first demonstrated.
+   Because this is a Nobel lecture, I want to honour all of the people that
+have been awarded Nobel Prizes for developments that led to the inven-
+tion of the laser. Nicolay Basov, Alexander Prokhorov and Charles Townes
+were honoured for developing the maser. The maser was the precursor of
+the laser and the m is for microwave rather than light in lasers. Techno-
+logically it was easier to make a maser than a laser. Masers were first
+demonstrated in the 1950s. Art Schawlow was then awarded a Nobel
+Prize for laser spectroscopy, but he had done a lot of the pioneering work
+on converting maser technology to the optical wavelengths.
+   But I want to give credit to Theodore Maiman. There was a race on at
+the end of the 1950s and into 1960 to see who would be the first person to
+demonstrate the laser. Ted Maiman won the race [3]. He was working at
+Hughes Aircraft.
+   The laser was born in 1960 and that’s why Peter Franken’s group could
+see a nonlinear optical effect. Why did laser light lead to observations of
+nonlinear optics? Regular light sources such as the sun or a light bulb
+emit photons of every colour, which is why the light appears white. The
+
+
+160   THE NOBEL PRIZES
+
+
+      photons go off in all directions. They also don’t communicate with each
+      other. They emit at random times. Because the photons are emitted at
+      random times, the crests of some waves overlap troughs of other waves
+      and the waves cancel each other out. The overall amplitude of the com-
+      bined waves then is not that high. In other words, the density of photons
+      is low. On the other hand, a laser emits a beam of light where all the pho-
+      tons travel in one direction. The light from a laser will also only have one
+      colour. The photons in the laser communicate with each other so that the
+      photons are emitted in a way to have all the crests of the waves of each
+      photon line up together. The waves of each of the photons add together,
+      making themselves into a giant wave and a giant wave means the density
+      of photons is very high.
+          So now we need to discuss why the higher density of photons leads to
+      the observation of multiphoton interactions. The density of the photons
+      is given by the total number of photons in a given volume. For a light
+      beam, two dimensions of the volume are given by the area of the beam.
+      The beam area can be reduced by focusing the beam with a lens. The
+      shorter the focal length of the lens, the smaller the beam diameter. The
+      smallest beam diameter is limited to the dimension of the wavelength. For
+      light, these wavelengths are on the order of 1 micron. The third dimension
+      of the volume of light is given by the length of the pulse. The pulse length
+      can be given by a spatial dimension, l, or the temporal length of the pulse
+      τ. The two lengths are related by the speed of light, c such that, l = cτ. The
+      shortest pulses to date are on the order of two wavelengths although
+      pulses this short have yet to be amplified in a laser amplifier.
+          In a linear interaction, one photon interacts with one atom at time. The
+      rate of interaction is given by the probability of finding a photon in the
+      interaction volume of the atom. The interaction volume differs from the
+      actual size of the atom. The interaction volume is given by what is known
+      as the cross-sectional area of the atom. The easier it is for the atom to
+      interact with the light, the larger is this area, but it is about the area of the
+      atom, which has dimensions of 0.1nm squared. This area is more than
+      one hundred million times smaller than the focused spot area of the light.
+      The third dimension of the interaction volume is given by the interaction
+      time. The interaction time increases as the photon energy approaches the
+      energy of the electronic state of the atom. If the photon is absorbed in the
+      interaction, the process is a resonant process and the interaction time can
+      be quite long, such as microseconds. This time scale corresponds to a
+      length, l, of 300 m so that the interaction volume can be large. With linear
+      interactions, the probability of finding a single photon in the interaction
+      volume increases linearly with photon density.
+          To see a second order nonlinear process such as the Franken group
+      observed, there must be a non-negligible probability of finding two pho-
+
+
+                                                       Donna Strickland Lecture   161
+
+
+tons in the interaction volume. Unlike two-photon absorption, second
+harmonic generation is a non-resonant process and so the time scale of
+the process is quite short and the interaction volume is the cross-sec-
+tional area of the atom and a length of a few microns. With regular light,
+the photon density is too small to have an observable chance to see the
+effect. The Franken group used a laser that had 3 J of energy with a 1 ms
+time duration pulse. With this 300W of laser power focused into the
+medium, the efficiency of the frequency doubling process was 10-7 or one
+violet photon for every 10 million red photons [3].
+     By the time I was working on my PhD in the 1980s, scientists were
+working on higher order nonlinear harmonic generation. The goal of the
+work was to generate coherent radiation equivalent to laser radiation,
+but out in the ultraviolet and possibly beyond that to the extreme ultra-
+violet. My supervisor Gérard Mourou gave me a paper [4] written by
+Stephen Harris of Stanford University to read and consider whether I
+could experimentally show the type of effects that Harris had consid-
+ered theoretically. Harris had determined various transitions in atoms
+and ions that would have resonances for high order even harmonics.
+There are reasons of symmetry that do not allow even numbers of pho-
+tons to be absorbed in isotropic, homogeneous media such as any gas
+medium so the even number of photons could not be absorbed with this
+multi-photon resonance. The even harmonic would also not be gener-
+ated. By finding resonances for high order even harmonics, this would
+allow the next higher odd harmonic to have a better chance of being
+generated than the lower orders, which would not experience any reso-
+nant enhancement.
+     I determined that twice ionized nickel would have a resonance with the
+8 harmonic of the radiation from a particular type of laser that we had in
+  th
+
+our research group, a Nd:YAG laser. My original thesis project was then to
+generate the 9th harmonic of the 1-micron radiation from this laser. There
+are many reasons that I won’t go into here, but I never did accomplish
+these experiments. To try and do a ninth order nonlinear optical experi-
+ment, I didn’t just need a pulsed laser. I needed a high intensity laser. This
+is why I was the student who worked with Gérard to develop Chirped
+Pulse Amplification.
+     As discussed previously, nonlinear interactions are dependent not on
+the total energy in the laser pulse, but rather the energy density. To gener-
+ate the highest order nonlinearities, you want the highest energy density,
+which is energy per unit volume. Because we are discussing light waves,
+we more often refer to the intensity, which is the energy per unit area per
+unit time. The area of the beam is fixed by the focusing element and the
+wavelength of the light. The energy per unit time is the power of the light.
+To increase this power, you have two choices, increase the energy or
+
+
+162   THE NOBEL PRIZES
+
+
+      decrease the time duration. Ideally, to maximize the intensity, you want
+      both high energy and short pulses.
+         At the time of my PhD project, inside the Laboratory for Laser Ener-
+      getics (LLE) at the University of Rochester, where I was working on the
+      experiments for my thesis, both high energy lasers and short pulse lasers
+      existed. Within Gérard’s research group there were several short pulse
+      laser systems. During the 1980s, the shortest pulses were created with
+      dye lasers. Dye lasers had very large gain bandwidths that could support
+      short pulses. I will discuss later the connection between short pulses and
+      large spectral bandwidths. The dye lasers at LLE operated with pulses as
+      short as 100 femtoseconds (fs). The 100 fs pulses stretch over a distance
+      of only 30 microns. Compare this length to a 1 second pulse of light,
+      which would stretch over two thirds of the distance from the earth to the
+      moon, 300,000 km. Dye lasers have high gain, which means the lasing
+      medium can be quite short to achieve the maximum power stored in the
+      lasing medium. It is this characteristic of high gain, that makes dye lasers
+      poor energy storage lasers. To store the maximum energy, the gain
+      medium must stay in the excited state for a long time. To be a high gain
+      medium, the opposite is true. The atoms must want to give up the energy
+      in the excited state to allow for gain by stimulated emission. Dye lasers
+      are therefore always low energy lasers with a maximum energy of about
+      1mJ. The maximum power of the dye laser was then 1 mJ per 100 fs or 10
+      GW. On the other hand, there was a high energy laser system known as
+      the Omega laser at LLE. The main research goal at LLE is laser fusion,
+      which is a process based on the total laser energy that can be applied to
+      the fuel target. The Omega laser could deliver one kJ of energy, but the
+      laser pulses had to be longer than 1 ns to not damage the laser rods. The
+      gain medium of the Omega system was Nd doped glass. The energy of the
+      glass laser was a million times greater than the dye system, but the pulse
+      duration was 10,000 times longer. The power in the pulses was higher
+      and reached a TW or a million MW.
+         The gain bandwidth of the Nd:glass laser is large enough to support
+      amplifying pulses as short as 1 ps. The pulse duration was limited by the
+      nonlinear optical effect of self-focussing. Self-focusing is a different non-
+      linearity than already discussed. At low power, the light is transmitted
+      through the medium at a lower speed than light travels in vacuum. The
+      difference in speed is determined by the index of refraction of the
+      medium. At low power, the refractive index is given just by the material
+      itself. When the intensity gets sufficiently high, the interaction changes
+      such that the index of refraction changes instantaneously with light inten-
+      sity. A laser beam is more intense in the centre of the beam compared to
+      the edges. At high intensities then, the light in the centre of the beam trav-
+      els slower than the light at the edges. This causes the light beam to start
+
+
+                                                                 Donna Strickland Lecture    163
+
+
+to focus in on itself, which causes the beam to get smaller and more
+intense. This is then a runaway process where the beam finally collapses
+to a small enough size that the intensity is large enough to damage the
+material.
+   Scientists want the high peak power at the output of the laser system
+so they can study the various nonlinear processes, but the lasers them-
+selves are damaged by the nonlinear processes if the power gets too high
+inside the gain medium. This was the problem that had to be overcome.
+High intensity laser pulses had to be generated without destroying the
+laser medium itself. The solution was CPA.
+   The CPA idea is beautiful in its simplicity as depicted in Figure 2. Start
+with a short pulse from an oscillator and then stretch it to be long enough
+to not allow nonlinear interactions in the lasing medium. Amplify the
+stretched pulses. After amplification the long, high energy pulse can be
+compressed back to its short pulse duration creating the high-power
+pulse at the output of the system.
+
+
+
+
+Figure 2. Schematic of chirped pulse amplification, showing that the power remains low
+in the amplifier because of the stretcher, but the power is very high at the output of the
+pulse compressor.
+
+
+    The CPA concept works best for lasing medium that can support short
+pulses because of a very large gain bandwidth and also support high
+energy because they are a good energy storage medium. The best com-
+promise between these two criteria is titanium doped sapphire, which
+was being discovered at the same time as CPA was being developed [5].
+Most CPA lasers today use Ti:sapphire as the lasing medium both for the
+oscillator and the amplifiers. However, in the mid 1980s the short laser
+pulses came from dye lasers that had wavelengths of 0.6 µm and the large
+energy storage lasers were Nd:glass operating at wavelengths of 1.0 µm,
+so it was not possible to simply stretch the short dye laser pulses and
+amplify them in the high energy glass amplifiers.
+
+
+164   THE NOBEL PRIZES
+
+
+         To demonstrate the CPA concept we used a mode-locked Nd:YAG
+      laser, which could generate pulses with durations of about 100 ps at the
+      same 1µm wavelength as Nd:glass amplifiers. As we wanted pulse dura-
+      tions shorter than 100 ps, we first had to use optical fiber pulse compres-
+      sion techniques that were being developed at that time [6]. In order to
+      generate short pulses, you need large spectral bandwidths. If you have a
+      single wavelength, the wave goes on forever. If you add a wave that has a
+      slightly different wavelength to the first wave, such that at one time,
+      which we will call t = 0, both waves crest, then at a later time the two
+      waves will add up to zero because one will be at a peak when the other is
+      at a trough. As shown in Figure 3, if you keep adding waves with different
+      wavelengths so that they all peak at t = 0, then when the waves all add
+      together, only at t = 0 do they all add constructively. At all other times
+      there is some amount of destructive interference, that is, there are peaks
+      and troughs adding together to make zero. The more wavelengths you can
+      add, the shorter the pulse becomes. This is why there is an inverse rela-
+      tionship between spectral bandwidth and minimum possible temporal
+      duration. The laser process that ensures all the wavelengths are adding so
+      that all the crests add together at one time in order to produce a short
+      pulse is known as mode-locking. The Nd:YAG laser used mode-locking to
+      produce the ~ 100ps pulses.
+
+
+
+
+      Figure 3. Demonstration of adding different wavelengths in a controlled manner leading
+      to shorter pulses.
+
+
+
+         Fiber pulse compression uses a nonlinear optical technique known as
+      self-phase modulation (SPM) to generate more spectral bandwidth. It is
+      the same nonlinearity that leads to self-focusing in the bulk media, but
+      rather than the intensity varying spatially across the beam, the intensity
+      varies temporally over the pulse duration. In an optical fiber, the beam is
+      guided and so the beam continues to travel as a plane wave down the
+      fiber. The beam area is very small in the fiber, leading to the intensity of
+      the light being high and remaining high over the long lengths of the fiber.
+      The laser pulse has a time varying intensity. The index of refraction
+      changes with intensity at these high intensities, causing the peak of the
+      pulse to move slower than the leading and trailing edges of the pulse.
+
+
+                                                      Donna Strickland Lecture   165
+
+
+Because the light at the peak of the pulse moves slower than the leading
+edge, as the pulse propagates, the distance between the leading edge and
+the peak lengthens. The number of phase fronts remains constant and so
+the phase fronts must have greater distance between them. This longer
+distance between phase fronts is a longer wavelength than the original
+wavelength. At the same time, the peak is getting closer to the trailing
+edge of the pulse with propagation, and so the crests of the waves are
+being pushed together to create shorter wavelengths. The pulse duration
+does not change because of SPM, as the beginning and end of the pulse
+both continue to propagate at the low intensity speed. If the newly gener-
+ated colours can be timed together rather than the red at the front and the
+blue at the back, the extra bandwidth would allow a shorter pulse dura-
+tion. This retiming of the colours is known as pulse compression.
+    Propagation in the fiber not only creates new colours by the nonlinear
+interaction SPM, but these colours disperse along the fiber because the
+ordinary refractive index is wavelength dependent. The reddest of the col-
+ours travel fastest, leaving the bluest colours to trail at the rear of the
+pulse. The dispersion leads to the pulse durations becoming longer with
+propagation. By 1984, scientists had shown that the best pulse compres-
+sion occurred when the fiber length was sufficient to not only create the
+needed extra spectral bandwidth, but that the pulse had stretched suffi-
+ciently so that the colours spread out in such a way that the frequency of
+the light changed almost linearly with time throughout the pulse [6]. The
+frequency sweep through the pulse is known as a chirp, in the same way
+that a bird’s chirp has its sound frequency change in time. We could have
+called the technique stretched pulse amplification, but chirped pulse
+amplification sounded better.
+    It was already known by 1969 that a pair of parallel gratings could
+compress a linearly chirped pulse back down to its minimum pulse dura-
+tion by completely eliminating the chirp [7]. The work on fiber optic pulse
+compression then gave us the path forward to demonstrate CPA. We
+would generate the needed spectrum and stretch the pulse in an optical
+fiber. This stretched pulse was then amplified in a Nd:glass amplifier and
+a pair of parallel gratings compressed the pulses to deliver short, ener-
+getic pulses at the output [8].
+    The Mourou group had a mode-locked Nd:YAG laser to pump a short
+pulse dye laser. Dye lasers needed green colour pumps, which was
+achieved by generating the second harmonic of the 1µm beam from the
+Nd:YAG laser. The beam intensity was sufficient to convert about 10% of
+the power to green light, but that left 90% of the infrared beam wasted. It
+was this wasted beam that I used for the input to the original CPA laser. It
+is lucky that we needed to use a long fiber for the spectral enhancement
+and pulse stretching as there was no room in the dye laser lab for me to
+
+
+166   THE NOBEL PRIZES
+
+
+      build the CPA system. We were able to string the fiber in the ceiling down
+      to another lab at the other end of the building where we had the space to
+      build the system.
+          We used 1.4 kilometers of specialty optical fiber from Corning Inc. This
+      fiber had a 9 µm core and so was single mode for the 1 µm light from the
+      Nd:YAG laser. Corning had donated 2.5 km of fiber to us for this project.
+      Unfortunately, only one end was available on the spool and so I had to
+      unwind and rewind the fiber onto a different spool and I damaged the
+      fiber during this process and was left with two pieces of optical fiber. I
+      used the longer piece which was 1.4 km in length. The 2 W, Nd:YAG laser
+      beam was focused into the fiber. At this power, the spectral bandwidth
+      was increased to 4 nm Full Width Half Maximum (FWHM). The pulse
+      duration increased to 300 ps at the output of the fiber.
+          To amplify the pulses a regenerative amplifier was built. This type of
+      amplifier uses a cavity similar to an oscillator, but the focusing is weaker
+      in the amplifier compared to an oscillator allowing a larger beam diame-
+      ter in the gain medium. The oscillator must start with one spontaneously
+      emitted photon. This photon then stimulates another and the then the
+      two become four. This is exponential gain and how all lasers start. How-
+      ever, the gain must reach the saturation level where the gain becomes lin-
+      ear. Otherwise the amplification is very inefficient. As shown in Figure 4,
+      if you consider one single pass through an amplifier with low input signal,
+      then at the input side of the gain medium, there are insufficient photons
+      to de-excite the atoms, leaving most of the energy behind in the gain
+      medium. In order to extract that energy, the input to each amplifier stage
+      must be at the saturation level. Each type of laser gain medium has its
+      own saturation level and it is related to the energy storage. Nd:glass
+      amplifiers have a large saturation energy of ~ 5 J/cm2. In oscillators and
+      regenerative amplifiers, the pulses make multiple passes through the gain
+
+
+
+
+      Figure 4. Demonstration of low signal gain being energy inefficient. The figure shows the
+      output photon number of 8 having started with one photon at the input. The stimulated
+      emission has left only 7 of the atoms de-excited and almost all the atoms still in the exci-
+      ted state. This energy would be wasted.
+
+
+                                                      Donna Strickland Lecture   167
+
+
+medium such that they reach the saturation level by the final pass
+through the gain medium. To keep increasing the energy of the pulses, the
+size of the beam must keep increasing so that at the output of each ampli-
+fication stage, the energy per unit area remains the same. In our case the
+pulse energy was increased almost a million times, from a few nJ to about
+2 mJ. The repetition rate was decreased from 80 MHz to 10 Hz.
+   The self-focusing nonlinearity limits the maximum pulse intensity or
+energy density. The saturation energy of the gain medium determines the
+maximum energy per unit area. From these two limits, you can determine
+the minimum pulse duration that can be amplified without causing
+self-focusing. To achieve the maximum possible energy from a Nd:glass
+laser, the pulse should be stretched to 1 ns. As we only achieved 300 ps
+with our 1.4 km fiber, we did not extract the maximum energy from the
+regenerative amplifier.
+    The final step in CPA is the pulse compression. We used a pair of par-
+allel gratings and a roof top prism. Gratings cause the colours to diffract
+at different angles as depicted in Figure 5. If you look at the path of the
+red beam, you will see that it has the longest path to the output of the
+compressor, whereas the blue wavelength beam has the shortest path.
+After diffracting off the pair of gratings, the colours will be along a line
+perpendicular to the beam path. Because we want to have a circular beam
+at the output of the compressor, this line of colours is reflected by the
+roof prism back through the pair of gratings. In this way all the colours
+come back together into one circular beam, but the path length difference
+between the reddest and bluest colours has been doubled.
+
+
+
+   Figure 5. Schematic of a parallel
+   grating optical pulse compres-
+   sor. The figure demonstrates
+   that the path length through
+   the compressor is shorter for
+   the red colours compared to
+   the blue colours. Because of
+   this path length difference, the
+   blue colours that were lagging
+   in the pulse catch up to the red
+   colours, yielding the shortest
+   possible pulse duration.
+
+
+168   THE NOBEL PRIZES
+
+
+          By placing the two gratings a certain distance apart, you can have the
+      opposite dispersion than the fiber dispersion. That is, the colours that
+      were stretched out over 300 ps can now be compressed to the minimum
+      duration allowed by the spectral bandwidth. As I pointed out, even with
+      the best fiber pulse compression, the chirp after the fiber is not perfectly
+      linear. The opposite dispersion of the pair of gratings is also not perfectly
+      linear, and so the pulse duration does not compress completely to the
+      bandwidth-imposed limit. The compressor was set up with the stretched
+      oscillator pulses, as we had the type of pulse duration measurement
+      device, known as an autocorrelator, that could operate at the high repeti-
+      tion rate of the oscillator. We compressed the pulses to 1.5 ps.
+          To measure the amplified and compressed pulses at the 10 Hz repeti-
+      tion rate, I needed to use a streak camera. My colleague Steve Williamson
+      had such an instrument and together we measured the pulse duration to
+      be 2 ps. This was the limit of temporal resolution of the streak camera,
+      but it showed that the amplification process had not changed the chirp, as
+      the compressed pulse duration was ~ 2 ps before and after amplification.
+         This first CPA laser system delivered 1 GW power pulses, with 2 mJ of
+      energy in 2 ps duration. At Rochester, along with Patrick Maine, we con-
+      tinued to develop CPA lasers to deliver TW laser power from a laser sys-
+      tem that could sit on one optical table, which we referred to as a table top
+      terawatt or T-cubed laser [9]. It was with the TW system that I completed
+      my PhD research.
+          Rather than study high order harmonic generation for my PhD, we
+      decided to study multi-photon ionization. This is an extension of the per-
+      turbative treatment worked out by Goeppert Mayer for the case of two
+      photon absorption. Again, using gravitational energy as an analogy for the
+      electromagnetic energy, an electron in an atom sits down in a well. The
+      height difference to the top of the well from where the electron sits is
+      known as the ionization potential. In order to ionize by a multiphoton
+      process, the atom needs to absorb the energy of enough photons so the
+      total absorbed energy is greater than the ionization energy. With a mul-
+      ti-photon process, the ionization rate would vary with the light intensity
+      to the power given by the number of photons required to exceed the ioni-
+      zation energy threshold. We used various noble gases, with Xenon being
+      the easiest to ionize. With xenon, it would take 11 photons to ionize the
+      atoms with 1 µm photons so we expected to see the ionization rate vary
+      to the eleventh power of intensity. This was not the case. With our infra-
+      red photons and ultrahigh laser intensity of 1015 W/cm2, we were no longer
+      in the multi-photon regime. We had such a large photon density that the
+      light energy could once again be thought of as a giant wave.
+         At high intensities, rather than the electron getting enough kinetic
+      energy to jump out of the potential well, the potential well is distorted by
+
+
+                                                                  Donna Strickland Lecture     169
+
+
+the interaction with the light wave as demonstrated in Figure 6. The well
+is bent over by the wave at the frequency of the light. The well is tipped
+one direction for half the period of light and then the other direction for
+the second half of the period of the light. The electron then is no longer
+contained by the well, for a brief moment of time. The longer the wave-
+length, the longer the time duration that the potential well is bent allow-
+ing a longer time for the electron to escape. Quantum mechanics also
+allows the electron to tunnel through a barrier and so the potential does
+not need to be completely tipped, but our work with long wavelengths in
+the infrared and the very high intensity showed that the electrons did
+simply ionize over the barrier [10]. These ionization studies [11] helped
+usher in a new field of study, high intensity laser physics.
+
+
+
+
+Figure 6. On the left panel, the perturbative effect of multi-photon ionization is depicted.
+The electron gets sufficient energy from simultaneous absorption of multiple photons
+to escape from the potential well. On the right panel, the process of over-the-barrier
+ionization is shown. The interaction with the high intensity light wave bends the potential
+energy wall over. If the light power is sufficiently strong, the well is bent as low as the
+electron energy level and the electron is free to escape for the duration of the half period
+of the wave.
+
+
+
+   Whereas some physical processes are a result of the total energy that
+can be applied, other processes occur because of the force applied per
+unit time. A mechanical example is the use of a hammer. If you simply
+push on a nail, it is difficult to move the nail, but if you hit the nail quickly
+with the hammer, the nail moves easily. This is why I like to say that I
+built a laser hammer when I built the CPA. The laser hammer has led to
+new types of laser machining. Unlike the thermal machining processes
+carried out by long pulse or continuous wave lasers, which depend on the
+total energy deposited to the material, short pulse laser machining leads
+to very precise cutting and drilling. This is because there is very little heat
+delivered to the material. Any heat spreads through the material, melting
+
+
+170   THE NOBEL PRIZES
+
+
+      and deforming the material. If you can have a very short pulse, material
+      can be cut with very low energy and so very little heat. This short pulse,
+      low energy machining results then in very clean cuts and the drilling of
+      very small holes. The machining is a result of the material being ablated
+      or in other words ripped apart. The ablation is a result of the electrons
+      being ripped off the atoms by the high intensity laser ionization process.
+      Because this type of machining does not depend on depositing the energy
+      in the material, it can machine transparent material such as glass or the
+      cornea in the eye. The light is then not absorbed by the material and the
+      laser ablation of material occurs only at the focal point. The machining
+      can therefore be done inside the transparent material. It is because of this
+      machining precision, that CPA lasers have found applications in machin-
+      ing and in particular machining the corneal flap for laser eye surgery.
+         The laser ushered in a new field of experimental study in nonlinear
+      optics and multi-photon atomic processes. The development of CPA fur-
+      thered our understanding of the interaction processes, which not only
+      include exciting the electrons’ kinetic energy but also the distortion of the
+      potential energy. The new field of high intensity laser physics has pushed
+      new technologies to be developed that lead to shorter pulse durations or
+      higher powers or both. These new technologies continue to lead us to a
+      new understanding of how light and matter interact.
+
+
+
+
+      references
+
+      [1]   Goeppert-Mayer M. (1931). “Über Elementarakte mit zwei Quantensprün-
+            gen,” Annals of Physics 9 (3): 273–295. Bibcode:1931AnP...401..273G.
+            doi:10.1002/andp.19314010303.
+      [2]   Franken, P. A., Hill, A. E., Peters, C. W. and Weinreich, G. (1960). “Generation
+            of Optical Harmonics,” Phys.Rev.Lett. 7 (4): 118–119.
+            Bibcode:1961PhRvL...7..118F. doi:10.1103/PhysRevLett.7.118
+      [3]   Maiman, T. (1960). “Stimulated Optical Radiation in Ruby,” Nature 187
+            (4736): 493–94.
+            Bibcode:1960Natur.187..493M. doi:10.1038/187493a0.
+      [4]   Harris, S. E. (1973). “Generation of Vacuum-Ultraviolet and Soft-X-Ray Radi-
+            ation Using High-Order Nonlinear Optical Polarizabilities,” Phys.Rev.Lett. 31
+            (6): 341–344. doi:10.1103/PhysRevLett.31.341
+      [5]   Moulton, P. F., (1986). “Spectroscopic and laser characteristics of Ti:Al2O3,”
+            J.Opt.Soc.Am. B 3(1): 125–133.
+            doi:10.1364/JOSAB.3.000125
+      [6]   Tomlinson, W. J., Stolen, R. H. and Shank, C. V., (1984). “Compression of
+            optical pulses chirped by self-phase modulation in fibers,” J.Opt.Soc.Am.
+            B 1(2): 139–149.
+            doi:10.1364/JOSAB.1.000139
+
+
+                                                              Donna Strickland Lecture   171
+
+
+
+[7]    Treacy, E. (1969). “Optical pulse compression with diffraction gratings,”
+       IEEE J. Quantum Electron. 5(9): 454–458.
+       doi: 10.1109/JQE.1969.1076303
+[8]    Strickland, D. and Mourou, G. (1985). “Compression of amplified chirped
+       optical pulses,” Opt. Commun. 56(3): 219–221.
+       doi: 10.1016/0030-4018(85)90120-8
+[9]     Maine P., Strickland D., Bado P., Pessot M., and Mourou G (1988). “Genera-
+       tion of ultrahigh peak power pulses by chirped pulse amplification,” IEEE J.
+       Quantum Electron. 5(9): 454–458.
+       doi: 10.1109/3.137
+[10]   Keldysh L.V. (1965). Sov.Phys.JETP 20(5):1307.
+[11]   Augst, S., Strickland, D., Meyerhofer, D. D., Chin, S. L. and Eberly, J. H.
+       (1989). “Tunneling ionization of noble gases in a high-intensity laser field,”
+       Phys.Rev.Lett. 63 (20): 2212–2215. doi:10.1103/PhysRevLett.63.2212
+

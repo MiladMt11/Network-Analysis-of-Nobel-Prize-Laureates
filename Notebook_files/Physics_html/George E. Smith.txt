@@ -1,0 +1,332 @@
+THE INVENTION AND EARLY HISTORY OF THE
+CCD
+
+Nobel Lecture, December 8, 2009
+by
+GEORGE E. SMITH
+Bell Laboratories, Murray Hill, NJ, U.S.A. (retired)
+
+
+
+
+To try to indicate how the invention of Charge Coupled Devices in 1969
+by W. S. Boyle and myself came about, it is first necessary to describe three
+important technologies being pursued at the time. Magnetic bubbles, the
+silicon diode array vidicon for the Picturephone, and MOS semiconductor
+technology were all contributing factors to the invention of the device.
+
+
+
+
+Figure 1. Magnetic Bubble serial shift register.
+
+Magnetic bubbles were formed by placing a special magnetic material, typi-
+cally garnet, in a magnetic field so that circular magnetic domains could be
+formed as shown in Figure 1. A permalloy pattern was deposited on the sur-
+face which could capture the domain, and when a rotating magnetic field
+was applied in the plane of the slice, the bubble would be shifted along from
+one site to the next. With an input device to inject the presence or absence
+of bubbles representing 0s or 1s and a detection device at the end, one had
+a serial memory device.
+
+92
+
+
+Figure 2. The Picturephone
+set and silicon diode array
+camera tube.
+
+
+The second driving technology being worked on, which just happened to be
+in my department, was the silicon diode array camera tube, shown in Figure
+2. This was being developed for the Picturephone, which AT&T − Bell Labs’
+parent and the major telephone provider at the time − thought would be
+a huge market once people discovered they could see as well as hear one
+another over the existing twisted pair phone lines. The initial imaging device
+considered was the standard commercial vidicon with an antimony trisulfide
+coating on glass accessed by an electron beam as the photosensitive element.
+This device was notorious for its lack of robustness and longevity. Instead, we
+were working on a tube with a silicon slice with millions of diodes placed on
+the surface, which were accessed by an electron beam in a similar manner.
+The silicon was an improvement; however, we strongly hoped to find an all
+solid state device to eliminate the electron beam.
+   The third field being vigorously pursued was MOS transistor technology.
+This was the technology which finally became the basis of all modern inte-
+grated circuits. The Metal Oxide Semiconductor capacitor which forms the
+gate of the MOS transistor is shown in Figure 3. Basic studies of this structure
+were also being carried out in my department.
+   To understand the atmosphere at the time, one must look at the structure
+of the Electronics Division at Bell Labs, which was under Vice President Jack
+Morton. This was split into two divisions, one for semiconductor devices and
+one for all others. Bill Boyle was Executive Director of the semiconductor
+part and I was a Department Head under him. Jack Morton was anxious
+to speed up the development of magnetic bubbles as a major memory
+
+                                                                             93
+
+
+technology and there was talk of transferring resources from Bill’s division
+to the other where the bubble work was being done. For this not to happen,
+Morton demanded that Bill’s division come up with a semiconductor device
+to compete with bubbles. To address this demand, on October 17, 1969, Bill
+and I got together in his office. In a discussion lasting not much more than
+an hour, the basic structure of the CCD was sketched out on the blackboard,
+the principles of operation defined, and some preliminary ideas concerning
+applications were developed. The train of thought evolved as follows.
+
+
+
+
+Figure 3. The basic MOS structure.
+
+
+First, the semiconductor analogy of the magnetic bubble is needed. The elec-
+tric dual is a packet of charge. The next problem is how to store this charge
+in a confined region. The structure which came to mind, of course, was the
+simple MOS capacitor shown in Figure 3. Charge can be introduced into this
+depletion region with the amount of charge stored being the magnitude of
+the signal. To understand this better, a plot of electron energy vs. distance in-
+to the structure is shown in Figure 4. As charge is introduced into the deple-
+tion region, the potential at the surface rises until the maximum allowable
+charge is reached. Any further charge added will flow into the substrate.
+
+
+
+
+94
+
+
+             Figure 4. A plot of electron energy vs. distance through the MOS capacitor.
+
+The last problem was to shift the charge from one site to another, thereby
+allowing manipulation of the information. This is solved by simply placing
+the MOS capacitors very close together as shown in Figure 5, one with charge
+and the second empty. In order to pass the charge from one to the next, one
+simply applies a more attractive voltage to the second, causing its depletion
+region to overlap the first and the charge to flow along the surface to the
+silicon-silicon dioxide interface of the second capacitor.
+
+
+
+
+                    Figure 5. Two closely spaced MOS capacitors.
+
+
+                                                                                     95
+
+
+The original structure using this mechanism to make a shift register is shown
+in Figure 6. Many MOS capacitors are placed closely together in a row and
+connected to a three phase voltage source. The top figure shows the storage
+phase with Va applied to one set of electrodes and a smaller rest voltage Vb
+applied to the other two. One site has charge and the other has none. The
+second figure shows the transfer phase where a larger voltage, Vp, is applied
+to the adjacent plates to transfer charge from one to the next. The last two
+show resetting the voltages to the initial state with the charge information
+shifted by one site. This is continued to an output device at the end of the
+row in order to read the stored information. Many other storage and transfer
+schemes are possible. The charge can be injected into the device electrically
+at the beginning of the row making a shift register or supplied by light inci-
+dent on a structure with empty cells. Then the amount of charge which ac-
+cumulates by the absorption of photons is determined by the intensity of the
+light, and the resulting charge pattern can then be read out in shift register
+fashion after a suitable integration time.
+
+
+
+
+                        Figure 6. The basic CCD structure.
+
+
+96
+
+
+This completed the basic invention. It should be stressed that the basic unit
+of information in the device was a discrete packet of charge and not the volt-
+ages and currents of circuit based devices. The CCD is indeed a functional
+device and not a collection of individual devices connected by wires.
+
+
+
+
+          Figure 7. The first CCD device.
+
+Finally, it was decided to go ahead and fabricate a device to show experi-
+mental feasibility. In less than a week, masks were made and devices were
+fabricated and tested. This first simple structure is shown in Figure 7. Charge
+was introduced in the first MOS capacitor by thermal generation and then
+transferred to the output by applying voltages to the plates where it was de-
+tected by pushing the charge into the substrate and measuring the substrate
+current.
+
+
+
+
+                                                                            97
+
+
+      Figure 8. The first integrated device.
+
+
+The first device was very crude but charge transfer was successfully demon-
+strated and this was followed by the first integrated structure, which is shown
+in Figure 8. This device had a three-phase metallization and diffused input
+and output successfully demonstrating that it could be operated as a serial
+memory, the first driving force of the invention. It is no surprise that we tried
+to use the eight bit CCD as a linear scanning imaging device and the first
+rather crude image is shown in Figure 9.
+
+
+
+
+      Figure 9. Oscilloscope display of the output of the 8-bit device used as an imager.
+
+
+98
+
+
+Figure 10. Traps at the Si-SiO2 interface.
+
+Following the initial experiments, it was evident that the main problem with
+the device was charge transfer inefficiency, the inability to transfer all of the
+charge from one element to the next. The main reason for this was the trap-
+ping of charge in traps at the silicon-silicon dioxide interface, see Figure 10.
+The trapped electrons would emit at a later time causing smearing of the im-
+age. So Bill and I got together again and invented the buried channel CCD,
+which placed the stored charge in the interior of the semiconductor where
+there was relatively little trapping. The structure is shown in Figure 11 where
+a lightly doped n layer has been added to the original structure. Once the
+layer has been depleted by transferring the electrons to the output diode,
+the resulting potential is shown. Electrons in the channel region will now
+accumulate in the valley created in the interior of the silicon and kept away
+from the surface traps.
+
+                                                                              99
+
+
+Figure 11. The buried channel CCD.
+
+
+
+
+100
+
+
+Figure 12. An area imaging CCD geometry.
+
+
+A period of rapid development followed both at Bell Labs and other com-
+panies. One major activity was to make an area imaging device for video
+applications. Many different schemes were devised. The one we chose for
+the Picturephone application is shown schematically in Figure 12. Linear
+CCDs are formed side by side and split into an imaging and storage area.
+During a frame time, the image is taken in the upper region and then trans-
+ferred rapidly to the lower where it is read out a line at a time by the serial
+readout while the next frame is being taken. The chip that we made for the
+Picturephone is shown in Figure 13 along with a self-contained experimental
+camera. Successful testing of the device is shown in Figure 14.
+
+                                                                           101
+
+
+Figure 13. The CCD Picturephone imaging chip and a self-contained camera.
+
+
+
+
+Figure 14. W. S. Boyle and G. E. Smith, 1970.
+
+
+
+
+102
+
+
+Figure 15. An early linear imaging CCD.
+
+
+Another device that we developed in the early days was a linear scanning
+device shown in Figure 15 for possible use in facsimile type applications.
+Many other companies initiated strong development efforts after the initial
+announcement of the invention was made in early 1970 and the field rapidly
+became very active. An aerial photo taken with a linear scanning device made
+by Fairchild is shown in Figure16.
+
+
+
+
+                                                                        103
+
+
+       Figure 16. An aerial photograph taken with a Fairchild linear CCD.
+
+Table 1. Advantages over photographic film
+ 90% Quantum Efficiency (Film is 5%)
+ Long integration times (at 160°K) 20 electrons/hr/pixel)
+ Large dynamic range105 electrons/pixel
+ Repeatability eliminates systematic errors
+
+Perhaps the most impressive scientific applications were in astronomy, where
+the impressive advantages over using photographic film listed in Table 1 led
+to many new discoveries. An early four mega pixel CCD for use in an astro-
+
+104
+
+
+nomical telescope is shown in Figure 17. A comparison between a state of the
+art photographic image, Figure 18, compared to an image taken by a CCD,
+Figure 19 of the same region, exemplifies this. Such improvements led to
+such things as experimental verification of dark matter in the universe.
+
+
+
+
+   Figure 17. An early four 1 Megabit CCD camera for an astronomical telescope.
+
+
+
+
+                 Figure 18. A film photograph of the sky.
+
+
+                                                                              105
+
+
+      Figure 19. A CCD image of the same portion of the sky.
+
+In summary, CCDs were born in the Si-SiO2 revolution and, because of their
+unique properties, created their own revolution in widespread imaging
+device applications listed in Table 2.
+
+
+Table 2. Imaging device applications of CCD.
+ Digital cameras
+ TV cameras
+ Scanners
+ Medical devices
+ Fax machines
+ Bar code readers
+ Satellite surveillance
+ Earthly surveillance
+ Astronomy
+
+
+
+
+106
+
+
+References
+1.   W. S. Boyle and G. E. Smith, “Charge Coupled Semiconductor Devices,” Bell Sys. Tech. J.,
+     49, 587, (1970).
+2.   G. F. Amelio, M. F. Tompsett, and G. E. Smith, “Experimental Verification of the
+     Charge Coupled Device Concept,” Bell Sys. Tech. J., 49, 593, (1970).
+3.   W. S. Boyle & G. E. Smith, US Patent 3,792,322 – Buried Channel Charge Coupled Devices,
+     issued February 12, 1974.
+Portrait photo of Dr. Smith by photographer Ulla Montan.
+
+
+
+
+                                                                                        107
+

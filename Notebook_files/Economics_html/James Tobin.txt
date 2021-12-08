@@ -1,0 +1,1855 @@
+MONEY AND FINANCE
+IN THE MACRO-ECONOMIC PROCESS
+Nobel Memorial Lecture, 8 December, 1981
+
+
+JAMES TOBIN
+Yale University, New Haven, Connecticut 06520, U.S.A.
+
+
+
+1. I N T R O D U C T I O N : A N A L Y T I C A L F R A M E W O R K S I N M A C R O -
+ECONOMICS AND MONETARY THEORY
+
+The historic terrain of macro-economic theory is the explanation of the levels
+and fluctuations of overall economic activity. Macro-economists have been
+especially interested in the effects of alternative fiscal, financial, and monetary
+policies. With the publication of J. M. Keynes’s       General Theory in 1936 and the
+mathematical formalizations of his theory by J. R. Hicks (1937) and others, the
+language of macro-economic theory became systems of simultaneous equa-
+tions. These are general equilibrium systems of interdependence in the sense that
+the relationships describe an entire national economy, not just a particular
+industry or sector. The systems are usually not completely closed; they depend
+on exogenous parameters including instruments controlled by policy-makers.
+Seeking definite relationships of economic outcomes to policies and other
+exogenous variables, qualitative and quantitative, these models sacrifice detail
+and generality, limiting the number of variables and equations by aggregations
+over agents, commodities, assets, and time.
+   Theoretical macro-economic models of one brand or another are very influ-
+ential. They guide the architects of econometric forecasting models. They
+shape the thinking of policy-makers and their advisers about “the way the
+world works.” They color the views          of journalists, managers, teachers, house-
+wives, politicians, and voters. Almost everyone thinks about the economy, tries
+to understand it, and has opinions how to improve its performance. Anyone
+who does so uses a model, even if it is vague and informal.
+
+1.1 The Keynes-Hicks Model and an Alternative Framework
+Hicks’s (1937) "IS-LM" version of Keynesian and classical theories has been
+especially influential, reaching not just professional economists but, as the
+standard macro-model of textbooks, also generations of college students. Its
+
+I am indebted to Kenneth Warwick for compiling Tables 1 and 2, and to Laura Harrison and
+Glena Ames for efficiently preparing the manuscript of the Lecture under great pressure of time.
+Research reported here was supported by ‘the National Science Foundation and the Cowles
+Foundation. Among my many intellectual debts, I mention here only my long partnership with
+William Brainard. Although his influence pervades the paper, he is not responsible for errors of
+commission and omission, except that there would be fewer if time had permitted him to read and
+comment.
+
+
+                                       J. Tobin                                        13
+
+
+simple apparatus is the trained intuition of many of us when we confront
+questions of policy and analysis, whatever more elaborate methods we may
+employ in further study. But the framework has a number of defects that have
+limited its usefulness and subjected it to attack. In this lecture I wish to
+describe an alternative framework, which tries to repair some of those defects.
+At the same time, I shall argue, the major conclusions of the Keynes-Hicks
+apparatus remain intact. The reconstruction I shall summarize has engaged
+me for a long time, and I will of necessity draw on previous work.
+   The principal features that differentiate the proposed framework from the
+standard macro-model are these:
+   Precision regarding time. A model of short-run determination of macro-econom-
+ic activity necessarily refers to a slice of time. It is one step of a dynamic
+sequence, not a repetitive equilibrium into which the economy settles.
+   Tracking of stocks. An essential part of the process is the dynamics of flows and
+stocks, investment and capital, saving and wealth, specific forms of saving and
+asset stocks. It is not generally defensible to ignore these relations on the excuse
+that the analysis refers to so short a time that stocks cannot change significant-
+ly.
+   Several assets and rates of return. The traditional aggregation of all non-mone-
+tary assets into a single asset with a common interest rate does not permit
+analysis of some important policies, institutional structures, and events. My
+alternative framework can in principle accommodate as many distinct asset
+categories as appropriate for the purpose at hand, though the illustrative
+application set forth below distinguishes only four. Asset disaggregation is
+essential for analyzing, among other phenomena, financing of capital accumu-
+lation and government deficits, details of monetary and debt management
+policies, international capital movements and foreign exchange markets, and
+financial intermediation.
+   Modeling of financial and monetary policy operations. Too often macro-economic
+models describe monetary policy as a stock M whose time path is chosen
+autonomously by a central authority, without clearly describing the operations
+that implement the policy. In fact money supplies are changed by government
+transactions with the public in which goods or non-monetary financial assets
+are exchanged for money, or by similar transactions between banks and the
+non-bank public. What transactions are the sources of variation of money
+stocks makes a difference, depending on how they alter the wealth and portfolio
+positions of economic agents.
+   Walras’s Law and adding-up constraints. "Walras’s Law" says that the excess
+demand functions of an economic agent must sum to zero for every vector of the
+variables that are arguments in any of the functions. The “law” imposes the
+consistency of meeting the budget constraint on the schedules of demand or
+supply which the agent communicates to all the markets in which she partici-
+pates. For the asset markets modeled below, for example, the implication is
+ that household demands for end-of-period holdings of the several assets sum to
+household demand for end-of-period wealth, for every set of values of the
+determinants of asset and wealth demands. This implies that the partial
+
+
+14                                 Economic Sciences 1981
+
+
+derivatives of asset demands with respect to, say, any interest rate must add up
+to the partial derivative of wealth demand with respect to the same variable.
+  As my collaborator William Brainard and I observed (1968), this consisten-
+cy requirement is not always explicitly observed in theoretical and statistical
+models of financial markets. If demand functions are not explicitly specified for
+the whole range of assets, the function for the omitted category implied by the
+wealth demand function and the explicit asset functions may be strange in ways
+unintended by the model-builders. For example, if money demand is related
+negatively to an interest rate and total wealth demand is not, the implication is
+that non-money asset functions carry the mirror image of the interest effect on
+money. The best practice is to write down all the functions explicitly, even
+though one is redundant, and to put the same arguments in all the functions.
+
+ 1.2 Microfoundations, Aggregation, and Expectations
+J. R. Hicks’ 1935 article has been an inspiration and challenge to me and many
+ other monetary economists. It stimulated us to look for the properties and
+ functions of money, and of promises to pay money in future, that underlie
+ people’s willingness to hold these assets. Understanding these foundations, we
+ could seek the observable determinants of demands for money and money
+ substitutes. This quest for the microfoundations of monetary theory has moti-
+ vated inventory-theoretic models of the demand for transactions media (Bau-
+ mol, 1952; Tobin, 1956; Miller and Orr, 1966)          and models of portfolio choice
+ (Tobin, 1958). It is still unfinished. The reason, I think, is the difficulty of
+ explaining within the basic paradigms of economic theory why paper that
+ makes no intrinsic contribution to utility or technology is held at all and has
+ positive value in exchange for goods and services. I certainly have no solution
+ to that deep question, 1 nor do I regard one as prerequisite to pragmatic
+ monetary theory.
+    For this and other reasons, macro-economic models of the type I am advo-
+ cating are, I admit, only loosely linked to optimizing behavior of individual
+ agents. Following an older tradition, economy-wide structural equations are an
+ amalgam of individual behavior and aggregation across a multitude of diverse
+ individuals. This is the pragmatic alternative to two other procedures, both
+ with serious disadvantages. One is to preserve the diversity of agents’ prefer-
+ ences and endowments allowed in fully general equilibrium models; the weak
+ restrictions that optimization places on individual excess demands imply no
+ restrictions at all on market-wide schedules. The other is to assume that all
+ agents are alike or fall into two or three classes (old and young, for example)
+ internally homogeneous but differing from each other in arbitrarily specified
+ ways. Although set-ups of this kind (the Samuelson 1958 overlapping genera-
+ tion model, for example) are promising and already generate instructive par-
+ ables, they are still so abstract and arbitrary as to be useless for policy analysis
+  and econometric model-building.
+
+1
+ Hahn (1965, 1971, 1973a, 1973 b) has been an insightful contributor to the literature of this
+subject. The proceedings of a recent conference on it are reported in Kareken and Wallace (1980).
+
+
+                                         J. Tobin                                       15
+
+   Another influential methodological wave in current macro-economics is the
+emphasis on information and expectations, and on the desirability of building
+models in which agents’ behavior is grounded on the information about the
+present and future which, according to the model itself, would be revealed to
+the agents (Lucas, 1976). This is a good principle, but my own efforts to
+construct an improved framework have had a different purpose and emphasis.
+The system I shall display in this lecture involves expectations, recognizing as
+any analysis of financial behavior must that the attractiveness of various assets
+to savers and portfolio managers depends on their estimates of the joint
+probability distributions of the assets’ earnings and capital gains. The conse-
+quences of variation of these expectations can be traced, for example if moods,
+confidence, and “animal spirits” change exogenously, as Keynes thought they
+frequently do. In dynamic applications and simulations, Lucas’s principles of
+rational expectations could be respected, but I have not done so in the work I
+will report here.
+
+1.3. Macro-Economics and Full General Equilibrium
+Kenneth Arrow’s Nobel lecture of 1972 is an elegant exposition of general
+equilibrium theory, recognizing both its power and its limitations. Were there a
+full set of simultaneously cleared markets for all commodities, including com-
+modities for future and contingent delivery, there would be no macro-economic
+problems, no need for money, and no room for fiscal and monetary policies of
+stabilization. Theorists who take full general equilibrium as their reference
+point naturally seek to explain alien phenomena as “market failures”. Arrow
+discussed the inability of decentralized competitive markets to supply collective
+or public goods in optimal amounts.         T h e public-good nature of common
+monetary units of account and universally acceptable media of exchange is, I
+believe, one reason why the general equilibrium paradigm has trouble incorpo-
+rating money. But the departure from that paradigm that I would emphasize,
+the departure that sets the stage for macro-economic theory and policy, is one
+emphasized by Keynes. It is the virtual absence of futures markets and of
+course contingent markets in any commodities other than money itself. As
+Keynes said (1936, pp. 210-212),
+
+
+An act of individual saving means - so to speak - a decision not to have dinner today.
+But it does not necessitate a decision to have dinner or to buy a pair of boots a week
+hence or a year hence or to consume any specified thing at any specified date. Thus it
+depresses the business of preparing today’s dinner without stimulating the business of
+making ready for some future act of consumption. It is not a substitution of future
+consumption-demand for present consumption-demand, - it is a net diminution of such
+demand ... If saving consisted not merely in abstaining from present consumption but
+in placing simultaneously a specific order for future consumption, the effect might
+indeed be different. For in that case the expectation of some future yield from investment
+would be improved, and the resources released from preparing for present consumption
+would be turned over to preparing for the future consumption..
+   The trouble arises, therefore, because the act of saving implies, not a substitution for
+present consumption of some specific additional consumption which requires for its
+preparation just as much immediate economic activity as would have been required by
+
+
+16                                Economic Sciences 1981
+
+
+present consumption equal in value to the sum saved, but a desire for “wealth” as such,
+that is for a potentiality of consuming an unspecified article at an unspecified time.
+
+In short, the financial and capital markets, are at their best highly imperfect
+coordinators of saving and investment, an inadequacy which I suspect cannot
+be remedied by rational expectations. This failure of coordination is a funda-
+mental source of macro-economic instability and of the opportunity for macro-
+economic policies of stabilization. Current macro-economic theory perhaps
+pays too exclusive attention to labor markets, where Keynes also detected
+failures of competition to coordinate demand and supply.
+
+1.4 Statistics of Flows and Stocks of Funds
+National income accounts, developed in the inter-war period, provided the
+data for testing and estimating the models of Keynes and subsequent macro-
+economists. Both theory and data dealt mainly with flows and their interrela-
+tions. Flow-of-funds accounts, notably those compiled by the United States
+Federal Reserve System since 1949, provide stock and flow data relevant to
+theoretical models of financial markets, the observations we seek to understand
+and explain.
+   In Tables 1 and 2 I show data for 1979, condensed into smaller numbers of
+sectors (columns) and asset categories (rows) than the Federal Reserve actually
+reports. In Table 1 there are 9 sectors and 11 assets, the level of aggregation of
+a model that our group at Yale has been trying to estimate (Backus         et al., 1980).
+In Table 2 the data are further aggregated, into four sectors and four assets,
+conforming as closely as possible to the theoretical model I shall be discussing
+here.
+   In the format of these tables, a column represents a sector’s balance sheet
+(stocks) or sources and uses of funds (flows). A row distributes the stock or flow
+of an asset over the supplying and demanding sectors. The task of theory and
+estimation is to bring the columns to life by functions relating sectoral portfolio
+and saving decisions to relevant variables, and to bring the rows to life as a set
+of simultaneous market-clearing equations. 2
+
+
+
+
+2
+ See Backus et al. (1980), Brainard and Smith (1979), Smith and Brainard (1974, 1976), Backus
+and Purvis (1980), and Friedman (1977, 1980).
+
+
+        Table I. Flow of Funds Matrix for Eleven Assets and Nine Sectors, 1979
+        Flows at Annual rates, End-of-Year Stocks in Parentheses (billions of dollars)
+
+                        I              Households     Commercial   Savings      Insurance & Miscellaneous Businesses   Federal  State & Local Rest of                    Discrepancy
+                                                         Banking Institutions Pension Funds Intermediaries           Government Government the World
+ (1)    Currency &                              7.9          1.3                                                                     -9.2                                          0
+        Reserves                            (107.1)        (46.8)                                                                 (- 153.9)                                        (0)
+ (2)    Demand                                 15.1       -25.8           -0.7                             0.7            5.5          0.4       -1.5           4.4
+        Deposits                            (145.4)     (-330.2)           (0.6)                           (6.9)        (87.4)        (14.3)       (9.6)       (23.4)              (31.2)
+ (3)    Small Time                            61.4        -31.0         -29.9                                                          0.1       -0.6                               0
+        Deposits                          (1049.2)      (-421.1)      (-632.9)                                                         (1.0)       (3.8)                            (0)
+ (4)    Shorts                                85. I       -30.7         -13.5                 -0.7       -12.3           2.8        -10.5          2.0      -27.1                 +4.9
+                                            (295.6)     (-276 4)        (-4.4)                (25.9)    (-53.0)        (61.5)     (-216.2)        (90.9)      (35.1)             (+41.0)
+        Longs                                 39.6          15.2           0.2                 46.9       -2.6        -26.3         -68.4        -6.4           1.7                 0.1
+                                            (246.3)       (226.8)        (76.9)              (492.4)    (-39.0)     (-353.2)      (-464.5)     (<232.7)       (47.0)                (0)
+ (6a)   Nonfinancial                        -206.            0. I        -0.1                  54.8       -3.4        -36.9                                    6.3                -0.2
+        Business
+        Equity:
+        Purchases
+ (6b)   Nonfinancial                         151.8         -0. I                            -28.0          6.3         -129.4                                 -0.8                 0.2
+        Equity:                             (748.2)         (0.1)          (4.2)            (200.3)      ( 3 4 . 1 ) (- 1029.5)                                (42.7)             ( - 0 . 1 )
+        Capital Gains
+ (7)    Financial                             21.0         -7.5                               -7.4        -6.8                                                  0.6                 0.1      2
+        Business                            (148.3)      (-72.3)           (0.5)            (-41.4)     (-40.7)                                                 (5.5)             (-0.1)     g
+        Equity
+ (8)    Nonmarketables                        79.2             -             -               -71.8                                   -7.4                                           0
+                                            (889.5)                                        (-732.9)                               (- 156.6)                                          (0)
+ (9)    Mortgages                          - 104.9           31.1         48.5                 14.2        0.1        -41.3          46. I         6.3                            -0.1
+                                          (-771.6)        (245.2)       (569.1)              (132.1)     (14.4)     (-428.1)        (215.7)       (23.2)                             (0)
+(10)    Loans                               -54.8            66.3          3.9                  8.0       27.6        -52.4           13.7       - 1.6        -3.6                -7.1
+                                         (-486.1))        1610.0)        (60. I)              (60. 1)   (134.7)     (-295.5)        (101.9)     (-22.7)      (-88.1)             (-74.4)
+(11)    Foreign                                3.6          -0.8’           -                                            23.8           1.2                  -25.4                -2.4
+        Assets                               (14.8)          (1.0)                                                     (175.6)        (28.4)               (-229.4))                 (9.6)
+(12)    Miscellaneous                          7.2        -18.1           -4.0               - 17.8       -9.4          -7.2           9.0          1.3        23.5                15.5
+        (Domestic)                           (66.7)      (-29.9)        (-24.4)            (- 147.9)    (-57.5)           (3.1)      (64.9)       (13.1)       (66.9)            (+45.0)
+                                                                                                                                                                                     11.0
+(13)    Financial                            291.6           0.0            4.4                 0.1        0.2     -261.4           -25.0         -0.5       -20.4                (52.4)
+        Net Worth                         (2453.4)          (0.0)         (49.7)               (0.0)     (-0.1) (-I 778.7)        (-565.0)     (-114.8)      (-96.9)     11.0
+                                                                                                                                                                        (52.4)
+(6b)    -Capital Gains                       151.8         -0. I                   -28.0                   6.3       -129.4                                   -0.8
+        Net
+(14)    = Financial                          139.8           0.1            4.4                28. I     -6.1        -132.0        -25.0         -0.5        - 19.6
+        Saving
+
+
+18                                   Economic Sciences 1981
+
+
+Notes to table 1
+
+Source: Flow of Funds Accounts, Federal Reserve, 1981.
+Notes & Definitions
+      (1) Base money. Currency held by the nonbank public has been allocated entirely to
+          households.
+      (2) Demand deposits include checkable deposits at both commercial banks and savings
+          institutions.
+      (3) Small time deposits include all time and savings deposits of less than $100,000 at
+          commercial banks and thrift institutions.
+      (4) ‘Shorts’ include short-term government securities, federal funds and security repurchase
+          agreements, time deposits in excess of $100,000, money market fund shares, eurodollar
+          deposits, commercial paper and bankers’ acceptances.
+      (5) ‘Longs’ include longer-term government and agency securities, state and local govern-
+          ment obligations and corporate bonds.
+      (6) ‘Equity’ includes only the equity liability of nonfinancial corporate business (NFC).
+          Equity of financial business is shown separately in row 7.
+      (8) ‘Nonmarketables’ include U.S. savings bonds and insurance and pension reserves.
+     (10) ‘Loans’ consist mainly of consumer credit, trade credit, security credit, bank loans not
+          elsewhere classified and U.S. government and agency loans. The discrepancy in this row
+          is due to trade credit.
+     (11) Foreign assets are claims held by the U.S. on foreigners, denominated in foreign curren-
+          cies. Included are foreign deposits, foreign equity, direct investment abroad and U.S.
+          foreign exchange and net IMF position.
+ (6), (7) The following procedures and assumptions were used in order to separate out equity of
+          nonfinancial corporations NFCs from equity of financial institutions (FI).
+                (i) Equity issued by rest of world (ROW) and Open-end investment companies
+                    (OEICs) (mutual funds) was allocated to households.
+               (ii) The division of remaining equity liability between NFC and FI was made by
+                    taking the equity liability of FIs to be equal to their reported net worth, the
+                    residual being allocated to business.
+              (iii) Business equity was then allocated to holders in proportion to their total holdings
+                    of equity (excluding equity issued by OEICs and ROW).
+              (iv) Purchases of equity were treated similarly (although in this case data on equity
+                    issue of business are directly available).
+               (v) In addition, retained earnings of business were treated as an issue of equity and
+                    allocated to holders in proportion to their holdings of business equity.
+              (vi) Capital gains are derived as the difference between the change in business equity
+                    holdings/liability and purchases (including retained earnings).
+     (14) ‘Net financial saving’ as shown in the table will differ from National Income and Product,
+           Account figures for several reasons-conceptual differences between NIPA and the Flow
+           of Funds Accounts; unallocated discrepancies in the FFA; capital gains in assets other
+           than business equity; and the treatment here of business retained earnings as an issue of
+           equity by business and saving by other sectors.
+
+
+                                               J. Tobin                                              19
+
+
+Table 2. Flow of Funds Matrix for Four-Asset Model, 1979
+Flows at Annual Rates, End-of-Year Stocks in Parentheses (billions of Dollars)
+                                   “House- Business Govern- Rest of    Discrepancy
+                                   holds”           ment     the World
+         Purchases                    50.9         -58.1                     7.3            -0.1
+Equity
+         Capital                     130.0     -129.4                      -0.8              0.2
+         Gains                     (1 314.0) (-1369.0)                   (54.9)              (0.1)
+Bonds                                103.1           -2.3    -83.3        -22.5               5.0
+                                    (616.9)          (47.7) (-822.4)      (116.9)           (40.9)
+Foreign Assets                          6.7          23.8    1.2    -29.3                   -2.4
+                                      (62.8)       (175.6) (28.4) (-276.4)                   (9.6)
+Base Money                             9.2                     -9.2                          0
+                                    (153.9)                 (- 153.9)                        (0)
+Miscellaneous                         -3.8          -95.4    65.9          25.0              8.3
+                                     (355.6)      (-633.0) (268.2)          (7.8)            (1.4)
+                                                                                             11.0
+Financial                            296.1         -261.4         -25.4     -20.3      11.0 (52.0)
+Net Worth                          (2503.2)       ( 1 7 7 8 . 7 ) (-679.7) (-96.8) ( 5 2 . 0 )
+-Capital Gains                       130.0        - 1 2 9 . 4      -       -0.8
+= Net Financial                      166.1        -132.0     -25.4        - 19.5
+  Saving
+
+Source: Flow of Funds Accounts, Federal Reserve, 1981.
+Notes:
+(1) “Households” includes the household sector and the financial sector.
+(2) Differences may arise between this and the previous table due to rounding.
+(3) Corporate bonds are included in the equity row. Corporate bonds issued by financial institu-
+    tions are assumed to be entirely held by households, i.e., foreigners are assumed not to hold
+    any. All foreign corporate bond issues are assumed to be held by “households” and are
+    classified as foreign assets in this table.
+(4) It is not possible to identify capital gains for corporate bonds from the Flow of Funds Accounts.
+(5) “Miscellaneous” includes demand deposits, small time deposits, mortgages, loans, nonmarket-
+    ables, equity liability of financial business, and other miscellaneous assets.
+
+
+2. A MULTI-ASSET MODEL OF THE DETERMINATION OF
+OUTPUT AND PRICES IN THE SHORT RUN
+
+2.1 Sources of New Supplies of Private Wealth
+There are three sources of supply of new financial wealth to private households
+in a modern capitalist economy: (I) net accumulation of goods in inventories or
+productive capital, (D) government budget deficits, and (CAS) surpluses in
+current account transactions with other nations. (All symbols and equations
+are listed at the end of the paper.) By financial wealth I refer to negotiable
+assets, whether real properties or paper claims (of which negative holdings are
+liabilities). I exclude illiquid assets such as future labor earnings (human
+capital) and entitlements to future government transfers, and prospective tax
+liabilities. During any period of time (t) household saving is the sum of the
+three items:
+
+
+20                              Economic Sciences I981
+
+
+                                                           National income identity
+
+Since in any period of time saving is also the excess of net national income Y
+over consumption C plus taxes T, and the deficit D is the difference between
+government purchases of goods and services G and taxes T,               the accounting
+identity (1) can also be written as:
+
+(2)                                                        National income identity
+
+In either form the identity becomes an equation if any or all of its constituents
+are expressed as functions of economic variables. Then the equation will be
+satisfied only for certain sets of values of those variables. On this interpretation
+(1) or (2) is the familiar “IS” locus introduced by Hicks (1937).
+   Let me be more precise about the three sources of asset supply on the right
+hand side of (1). The illustrative model I wish to describe contains, I believe,
+the highest degree of asset aggregation compatible with analyzing the central
+issues of macroeconomics, in particular the workings of fiscal and monetary
+policies. Later in the paper I shall discuss several directions of disaggregation. I
+distinguish just four assets: equities, titles to physical capital and its earnings,
+generated by investment I; government bonds and base money, issued to finance
+deficits D; and foreign currency assets, earned by the current account surplus CAS,
+consisting of the trade surplus X and earnings on the foreign assets themselves.
+   In reality of course, none of these categories is internally homogeneous.
+Physical capital takes many different forms, and so do the             claims to them -
+direct titles, debts, and shares. Government securities vary in maturities and
+other terms. International claims and debts are even more heterogeneous.
+Moreover, banks and other financial intermediaries transform the liabilities of
+business, governments, and foreigners into a variety of obligations to suit the
+tastes and circumstances of household savers. Representing these complex
+realities by four assets is a great abstraction, comparable to many others in
+macro-economics. In its defense, I remind you that the common textbook
+macro-model limits itself to two asset categories, money and everything else.
+That is, all nonmonetary assets and debts are, in the Hicksian “IS-LM”
+formalization of Keyne’s General Theory, taken to be perfect substitutes at a
+common interest rate plus or minus exogenous interest differentials.
+
+2.2 Claims to Productive Capital
+Private capital investment is the source of new claims to physical capital,
+modeled as equity shares, one share for each unit of capital. The aggregate
+stock of capital at any time consists of all surviving durable or storable goods,
+previously produced or imported but not consumed. These stocks are valued
+continuously in markets for the goods themselves (realistic examples are used
+vehicles and machinery, and existing residences and other buildings) and in
+markets for corporate securities or for entire businesses. These market valu-
+ations of old capital goods typically differ, up or down, from their replacement
+costs, i.e., from the costs of producing, and installing at a normal pace, new
+capital goods of the same type. These deviations are, in turn, the incentives for
+
+
+                                          J. Tobin                                       21
+
+rates of investment faster or slower than normal. When equity markets place
+high values on capital goods, the margin above replacement cost induces
+investors to speed up capital accumulation . This inducement is essentially
+what the great Swedish economist Knut Wicksell ascribed to a natural rate of
+interest higher than the market interest rate.
+   However, there is a limit to the acceleration of capital formation generated
+by arbitrage of such margins. Abnormally rapid accumulations of capital,
+exceptionally high rates of investment, impose extra costs on investing firms
+individually and on the economy collectively. These adjustment costs are a
+principal reason that positive differences of market valuations from normal
+replacement costs of capital can and do arise and persist, without triggering
+virtually instantaneous jumps in capital stock accomplished at virtually infinite
+rates of investment. Likewise low market valuations of existing capital slow
+down capital formation, but rarely shut gross investment off completely while
+stocks are consumed at maximum speed.
+   The account I have just sketched refers to replacement costs as current costs
+of production and installation at a normal rate of investment. By normal rate I
+mean investment that keeps the capital stock growing at the trend of the
+economy, in Harrod’s terminology the “natural” growth rate of its exogenous
+resources as augmented by technological progress. The upshot, for purposes of
+a simple macroeconomic model, is an equation for net investment as follows:
+
+
+
+
+where:
+
+      q’:     is the ratio of market valuation of capital goods to normal replacement
+              cost at time period t. Its normal value is 1, and the value that induces
+              zero gross investment is q = f-‘(4).
+  K   t - 1   is the stock, valued at normal replacement cost, at the beginning of
+              period t. The supply of productive services of capital available in
+              period t is proportional to Kt-i.
+   ∆ K,       is the addition of Kt-i occurring in period t.
+      6       is the rate of depreciation of capital.
+      g       is the natural rate of growth of the economy.
+
+(When no confusion can arise, I suppress the subscripts t and denote values of
+a variable in the preceeding, current, and next periods as      x-i, x, x+i.) Note
+that investment is valued at asset market prices rather than normal replace-
+ment costs both in (3) and in the national income accounting identities (1) and
+(2). The reason is that the deviations of q      k
+                                                   from 1 represent real costs of
+
+
+22                                Economic Sciences 1981
+
+
+adjustment, including positive or negative rents, incurred by investing firms in
+changing the size of their installed capital. 3
+
+2.3 The Financing of Government Deficits
+Fiscal policy concerns the size of government expenditures and tax receipts,
+and the stocks and flows of assets issued by the government to finance budget
+deficits. Monetary policy concerns the composition of privately owned assets of
+government issue, in particular the relative amounts of monetary issue and
+non-monetary public debt. Governmental monetary actions, whether taken by
+Treasury Departments or Finance Ministries or by central banks, determine
+the proportions in which a current deficit is financed by monetary and non-
+monetary issues. Open market operations also change the composition of the
+existing debt.
+   Clearly it is not possible to model monetary policies, distinct from fiscal
+policies, without explicit allowance for at least one non-monetary government
+obligation. (The theoretical literature contains many models in which govern-
+ment deficits can be met only by printing money. Though the consequences of
+greater or lesser budget deficits in these models are sometimes attributed to
+“monetary” policies and money growth rates, the primitive asset structure
+assumed confounds monetary and fiscal policy and excludes operations de-
+scribable as “monetary” in the usual understanding of the word.) In the four-
+asset model I am now describing, I take the non-monetary government debt to
+consist of perpetual bonds or        "consols" - promises to pay one dollar each
+period forever. The government’s aggregate obligation to pay these coupons in
+period t is the number of bonds outstanding at the end of the previous period,
+B-1. The market price of a consol in dollars is q      B
+                                                         .
+   The government’s monetary issue corresponds to the usual concept of high-
+powered or base money, currency or its equivalent in central bank deposit
+liabilities. Base money bears a zero own-rate of interest. I have in mind a fiat
+issue, not one convertible on demand into gold or any other commodity.
+However, in a fixed-rate foreign exchange regime, the local currency is in effect
+convertible into foreign currency. The counterpart of the market price of bonds
+would be q H, but it is identically equal to 1. The size and market value of the
+outstanding stock of high-powered money are both           H-i.
+   In reminding you at the outset of the national income accounting identity, I
+defined the deficit as G, government purchases, less tax revenues T. In this
+reckoning taxes are net of the government’s transfer payments, which are
+negative taxes in the sense that the recipients have no contemporaneous
+reciprocal obligation to render goods and services to the government. Public
+debt interest might be regarded either as the purchase of a service or as a
+
+
+3
+  The so-called “q” theory of investment was introduced as such in Tobin and Brainard (1968)
+and has been further discussed and applied in Tobin (1969), Tobin and Brainard (1977), Tobin
+(1978), Ciccolo (1975), Ciccolo and Fromm (1979), Malkiel, von Furstenberg, and Watson (1979),
+von Furstenberg (1977), Summers (1981), Abel (1980), and by many other writers. Since it is a
+straightforward application of the neoclassical theory of the firm, it has many precursors.
+
+
+                                        J. Tobin                                     23
+
+
+transfer payment. For my purpose, it is best to treat it as a transfer but to keep
+track of it separately.
+   A government may own marketable assets and earn income from them. I
+assume in this simplest model that the government does not buy or sell or own
+physical capital or privately issued equities or debts. But to model fiscal and
+monetary policy in an open economy it is necessary to allow for government
+transactions in foreign-currency assets and for its holdings of such assets as
+international reserves. These are represented as the fourth asset of the model.
+The government’s holdings at the beginning of period t are             GF-, in units of
+foreign currency, valued in period t at         e.cF-, where e is the domestic -
+currency price of a unit of foreign currency. Conceivably     & 1 is negative, i.e.,
+the government is a net debtor to foreigners. In any case, if     eF is the foreign-
+currency yield, the government’s income on its reserves is      eQF.GF-,
+  Thus the budget deficit in dollars is, for commodity price level p:
+
+(4)                                                              Government deficit
+
+Here the parameters of fiscal policy are the relationships established by legisla-
+tion defining purchases and taxes-less-transfers as functions        (.) of economic
+variables. For example, G(.) may be each period an ad hoc constant G, while
+T(.) may be a function of contemporaneous real income, and of other current
+and past variables (including p for nominal tax and transfer systems neither
+indexed nor rapidly adjusted).
+   The deficit must be financed by transactions at current asset prices in the
+three assets high-powered money, consols, and foreign currency:
+
+(5)                                                                Government deficit
+
+
+                                                                Supply of base money
+
+                                                                      Supply of bonds
+
+                                                           Supply offoreign currency
+                                                           assets by government
+
+   Here there are three independent parameters of monetary policy. One of
+them, say y*, which also fixes yB, determines the share of the current deficit
+financed by monetary issue. It is assumed that there is no systematic policy of
+financing budget deficits by selling foreign currency assets or borrowing in
+foreign currency. The other two policy parameters, say z              H
+                                                                        and z F, which
+together fix z , describe open market operations. A domestic open market
+                B
+
+
+
+purchase of government bonds is a positive z        H
+                                                      offset by a negative z B of equal
+size. Intervention in the foreign exchange market to sell domestic currency for
+foreign currency assets is a positive z   H
+                                            offset by a negative z F of equal size. A
+“sterilized” acquisition of foreign currency assets is a positive z        B
+                                                                             offset by a
+negative z of equal size.
+            F
+
+
+24                             Economic Sciences 1981
+
+
+2.4. Supply of Foreign Currency Assets to the Public
+At this stage I assume that all capital transactions between the economy
+described by the model and the rest of the world occur in foreign currency
+assets. The new supply of foreign currency to the economy as a whole, includ-
+ing both government and private agents, is its surplus on current account. This
+in turn consists of its surplus in commodity trade plus its earnings on existing
+foreign-currency holdings. Expressed in current domestic prices, the current
+account surplus is:
+
+(9)                                                           Balance of payments
+
+Here F without the prefix subscript G refers to foreign-currency asset holdings
+of domestic private individuals. X(.) is the real trade surplus in domestic
+currency, a function of local economic activity, specifically of real national
+income Y, and of the real exchange rate ep F/p (where p F is the foreign-currency
+price of foreign tradable goods) , as well as of other variables, lagged and
+contemporary, foreign and domestic. The sign of the relationship of X to the
+real exchange rate depends , as is well-known, on various elasticities; it is
+positive if excess-demand elasticities are high enough so that real devaluation
+improves the trade balance.
+   Using the relationships in the previous subsection, I derive from (8) and (9)
+the supply of foreign assets to the public:
+                                                                   Supply of
+(10)                                                               foreign currency
+                                                                   assets to public
+
+2.5. Total Saving
+Equations (3), (6), (7) and (10) g ive the additional supplies in period t of the
+four assets, equities, base money , consol bonds, and foreign currency. In
+constant dollars they add to I t + Dt + CASt, as in the national income identity
+(1).
+
+2.6. Demands for Asset Accumulations
+The next step is to specify the demands for added holdings of the four assets, to
+match the added supplies described in 2.1-2.5. Since the sum of the four
+supply flows is total saving, specifying the four demands also implies a total
+saving function. Of course saving, specific or general, is not identical to
+increment in wealth. Asset holders also make capital gains or losses, some
+anticipated and others unexpected.
+   I assume that households seek for each asset J (= K, B, F, H) a desired end-
+of period holding p,Al, in market value at current-period asset prices in dollars.
+The A/ are functions; they jointly express fundamental portfolio management
+and wealth accumulation behavior. Households enter period t with certain
+holdings of the various assets, J1-i. These will turn out to be worth d Jt-, where d
+is the dollar price of asset J determined in period t. Thus the net demand for new
+assets, ql AJ, in dollar value, is P,A/-qiJrml. It is this vector which must be
+equated to the supplies described in the previous section.
+
+
+                                           J. Tobin                                        25
+
+
+   The four-equation system for a period t is given in detail below, now in real
+terms rather than in dollars
+                                                                   Demand = supply
+                                                                  equations:
+                                                                   Equities market
+
+
+
+
+                                                                        Bond market
+
+
+
+
+                                                                        Base money
+                                                                        market
+
+
+Their summation is the IS relation:
+
+
+
+
+Here WY, is the sum of the second left-hand-side terms of the four preceding
+equations, i.e., the value at period t prices of the assets inherited from the past.
+
+  Recall also the expression for the deficit D:
+
+                                                                             Deficit defined
+
+
+
+2.7. Gross Substitutability among Assets: Effects of Expected Returns
+What are the arguments in the A J functions? In principle, the same vector
+appears in all the functions. The vector will include four kinds of variables:
+those that are within-period endogenous , i.e., those whose values are deter-
+mined by solving a set of simultaneous equations including the four equations
+(11) to (14); lagged values of within-period endogenous variables; expected
+future values ofwithin-period endogenous variables; exogenous variables, past,
+contemporaneous, or future. The fact that A         W
+                                                      is the sum of the A J means that
+(15) could be substituted for any of the previous four equations. It also means
+that the partial derivative of wealth demand with respect to any determining
+variable is the sum of the partial derivatives of specific asset demands with
+respect to the same variable. For example, the four specific marginal propensi-
+ties to save from income sum to the overall marginal propensity to save.
+   Among the arguments in each asset demand function will be the several real
+yields expected from holding an asset one period, the vector (r             K
+                                                                              , rB , rF, rH ).
+These involve expectations of commodity and asset prices in period t+1, as
+follows:
+
+
+26                              Economic Sciences 1981
+
+
+                                                                Equities, price and rate
+                                                                of return
+
+
+Holding of capital equity costing q: from t to t+ 1 entitles the owner to receive
+the earnings R,, which depend on the output Y produced in period t by use of the
+capital stock K,-,, and to sell the shares at a real price expected to be Eq: 1.
+
+(18)                                                     Bonds, price and rate of return
+
+                                                         Foreign currency assets, price
+                                                         and rate of return
+
+                                                         Base money, rate of return
+
+
+
+With these relationships the asset prices (q K , qB , e) in (11)-(14) can be
+expressed in terms of the r J vector, or vice versa. Clearly for given price
+expectations, there is an inverse relation between the current price and the real
+one-period expected yield on each asset . This remains true so long as the
+elasticity of expected asset price with respect to current price is less than 1. For
+equities and bonds it is true even if the elasticity equals or somewhat exceeds 1.
+   The assumption that the assets are gross substitutes means that the partial
+derivative of A J is positive with respect to its own yield r J but non-positive with
+respect to other yields r L (L ≠ J). In the present context this is a stronger
+assumption than it is for asset stock demands that are constrained to add to a
+constant independent of the vector of determining variables. Here the partial
+derivatives, own and cross, with respect to any expected yield sum to the total
+effect of that yield on desired end-of-period wealth. The gross substitutes
+assumption implies that the total effect is non-negative, and further that any
+effect of a single interest rate on wealth demand takes the form of demand for
+the asset whose interest yield has increased without spillover into the other
+assets, whose yields have not. These are plausible assumptions, and they are
+consistent with but not required by rational portfolio and saving behavior.
+   Portfolio theory provides a loose rationale for modeling distinct assets as
+imperfect substitutes, held jointly in positive amounts even though their ex-
+pected yields differ (Markowitz, 1952 and 1959; Tobin, 1958). It also provides
+a rationale for dependence of portfolio demands on the structure of expected
+yields. But it does not dictate that assets be gross substitutes. Assets with strong
+negative covariance of yields could be complements, with a rise in the expected
+return on one inducing an increase in a hedged package which includes both.
+Even in the absence of covariance complementarity, the income effects of an
+increase in the expected yield of one asset might cause the gross substitutes
+assumption to fail. For these reasons gross substitutability is, for asset demands
+as for consumption goods demands, a more restrictive assumption than utility
+maximization.
+
+
+                                           J. Tobin                                         27
+
+
+2.8. Other Determinants of Asset Demands
+The asset demand functions A J are not necessarily the permanent portofolios
+households would choose at the prevailing values of expected yields and other
+determining variables. In any short period of time, they will adjust only
+partially to new information about the financial environment. Lags in response
+are rational in view of the costs of transactions and decisions. For example,
+when capital gains and losses alter portfolio shares, portfolio managers may be
+slow to make corrective transactions. For these reasons the A           J
+                                                                          will be multi-
+variate stock adjustment functions and involve the vector of initial holdings
+J-t. One would generally expect the own effect of an initial stock to be negative
+and the cross effects positive, with the own effects dominating in the summary
+wealth demand function A W.
+    Current and recent real disposable incomes were major determinants of
+consumption in Keynesian models, but post-war theory has downplayed their
+role in favor of forward-looking calculations of long-run disposable resources.          4
+
+
+
+The issue is the length of the household horizons within which earnings, taxes
+and transfers are pooled and over which this pool of current and future
+resources is consumed at a fairly steady rate. The longer the horizon, the larger
+the share of an increase in current income that will be saved rather than
+consumed. No doubt households vary greatly in these horizons, from extremely
+liquidity-constrained consumers who live hand-to-mouth and spend quickly
+any cash receipts, to lords of dynasties who save all extra income for their
+descendants. Liquidity constraints, e. g. , limitations on the intertemporal fun-
+gibility of future wages and pensions, are sufficiently binding for many house-
+holds that current disposable income remains an important determinant of
+consumption.
+    Current income is also a measure of transactions volume, and as such affects
+particularly the demand for transactions money. In the four-asset model the
+transactions effect will show up in a relatively high income-elasticity of de-
+mand, direct or indirect, for base money.
+    As the previous discussion makes clear, “human capital,” expected future
+ wages, taxes, and transfers, is a determinant of current consumption and
+ saving. Current disposable income may be an indicator of such wealth, but it is
+ an incomplete and imperfect one. Good news about future disposable incomes
+ within households’ horizons will reduce current saving, bad news will increase
+ it. Effects on the composition of saving are more difficult to analyze. The time
+ and age profiles of disposable income no doubt influence portfolios, especially if
+ assets differ in liquidity. But these effects average out for the economy as a
+ whole. A more important consideration arises from the uncertainties of both
+ asset returns and earnings from human capital. Their covariances are very
+ relevant to portfolio choice. Risk-averse savers will favor assets with returns
+ negatively correlated with their own wages. Wage-earners who expect a highly
+
+
+4
+  Friedman (1957) and Modigliani and Brumberg (1952, 1954) are seminal. My own work on
+consumption began with my doctoral thesis in 1947 and encompasses ten papers published over the
+years and reprinted in Tobin (1975, Ch. 29-38).
+
+
+28                              Economic Sciences 1981
+
+cyclical macro-economic future will be wary of equities, whose returns and
+values are likely to be low precisely when they are most likely to be unem-
+ployed. Those who expect stable employment, real wages, and profits will be
+skeptical of nominally denominated assets, bonds and money. Belief that
+inflationary periods will be stagflationary because of counter-inflationary mon-
+etary policies would lead households seeking hedges against unemployment
+and lowered real wages to short-term dollar-denominated assets bearing mar-
+ket interest rates (not included in my illustrative model) rather than to equities
+or long-term bonds.
+   The lesson of the previous discussion is that asset demand functions cannot
+be expected to be stable in the face of significant variations in the economic
+environment. The variances and covariances of returns on the several assets
+reflect probability distributions of more fundamental shocks to the economy.
+These are exogenous shocks in technology, tastes, and foreign economies as
+well as in government policies.      Their impacts depend, moreover, on the re-
+sponses to them by both private agents and government policy-makers. The
+perceived joint probability distributions of those impacts, as reflected in the
+estimated risks of various asset portfolios in combination with human capital,
+are undoubtedly different in the 1980s from the 1960s. Asset demand functions
+are different too. But the perceptions, conventions, and habits that underlie
+asset demand functions do not change suddenly. It is sufficient for our immedi-
+ate purpose that the functions are stable over the medium-term horizons of
+economic fluctuations and stabilization policies.
+    Taxes and transfers have been mentioned as elements in current and future
+disposable incomes. Taxes on capital incomes also affect the after-tax returns to
+asset holdings. The obvious point that taxation lowers expected yields is not the
+whole story, because it changes the entire distribution of uncertain returns. If
+the government shares symmetrically in losses and gains, its tax reduces the
+risk as well as the average return on risky portfolios, while increasing the risk
+and return to payers of other taxes, e.g. those on wages and consumption. The
+effect of a given tax system on saving, portfolio choice, and asset values is a
+ large and complex topic, beyond the scope of this lecture.
+
+2.9. Macro-Economic Modeling Strategy: Stocks, Flows, and Specific Saving Functions
+The innovation of the approach thus far described is the integration of saving
+and portfolio decisions. Functions for accumulation of particular assets are
+specified, and they add up to total wealth accumulation for the period. The
+markets which determine asset prices and interest rates coordinate these de-
+mand flows with the supply flows arising from real investment, the government
+deficit, and the external current account. The markets handle simultaneously
+flows arising from saving and accumulation and those arising from reshuffling
+of portfolios, both by private agents on the demand side and by the monetary
+authorities on the supply side. By the end of the period, simultaneously with
+the determination of the asset prices for the period, these market participants
+have the stocks of assets and of total wealth they desire at this time at the
+prevailing prices.
+
+
+                                         J. Tobin                                        29
+
+   This is not the conventional strategy of short-run macro-economic models.
+The conventional strategy is to model the determination of asset prices and
+interest rates as a temporary stock equilibrium independent of flows of new
+saving. This is done in the "LM" sector of the model, where wealth-owners,
+constrained by the net worth inherited from their past savings but revalued at
+current market prices of assets, choose the stocks of money and alternative assets
+they wish to hold at these prices.        The stocks supplied to them are also
+predetermined by history, except for instantaneous discrete modifications engi-
+neered by the monetary authorities by open market operations at current asset
+prices. Although households are simultaneously saving to accumulate wealth,
+the IS-LM model contains no specific saving functions describing in what
+forms they wish to accumulate it. Their absence means that the composition of
+household portfolios at the end of the period is re-shaped solely by the issues of
+new asset supplies to finance investment, government deficit, and current
+account surplus. This composition may not be what households want, but the
+correction is deferred until the asset-stock markets reopen at the beginning of
+the next period. The unwelcome implication is that wealth-owners and savers,
+in formulating their portfolio demands, ignore the fact that they are at the same
+ time saving to augment their wealth. In contrast to the “LM” markets in
+stocks, the simultaneous “IS” equations are grinding out flows of goods and
+services.
+   In my 1969 article describing a multi-asset framework for monetary analysis,
+I perpetuated the implausible bifurcation to which I now object.           5
+                                                                             I tried to
+generalize the stock equilibrium of asset prices and quantities to a larger
+collection of assets while winding up nonetheless with a single “LM” locus to
+be juxtaposed with an “IS” locus. This condensation, I now recognize, is not in
+general attainable. The major points of the 1969 paper did not depend on this
+feature, but the blending of stock adjustments and saving flows advocated in
+this lecture seems to me a preferable approach.
+  The interpretation of the solution to a Keynesian short-run macroeconomic
+system has always been ambiguous. This is especially true when the variables
+are not explicitly dated by points or periods of time. Is the solution an
+equilibrium in the sense of a position of rest? This can hardly be the case for a
+model whose very solution implies changes in stocks of capital, wealth, govern-
+ment debt, and other assets. Since the structural equations of the model depend
+on those stocks, they will not replicate the solution when the stocks are moving.
+Keynes himself recognized the problem but excused himself for ignoring the
+dynamics of accumulation by defining the horizon of analysis as short enough
+so that flows make insignificant difference to the size of stocks. The excuse
+makes tolerable sense for the stocks of physical capital and total wealth, but
+unbalanced government budgets, monetary operations, and external imbal-
+ances can alter the corresponding asset stocks quite rapidly. A model whose
+solution generates flows but completely ignores their consequences may be
+
+5
+However, my 1968 paper with William C. Brainard is not subject to this objection. Explicitly
+modeling time in discrete periods, we followed in that paper the procedure here recommended.
+
+
+30                                 Economic Sciences 1981
+
+
+suspected of missing phenomena important even in a relatively short run, and
+therefore giving incomplete or even misleading analyses of the effects of fiscal
+and monetary policies.
+   A specific complaint in this spirit was the allegation that the standard macro
+model “ignored the government budget constraint”, i.e., the identity that
+requires the deficit to be financed by issue of one or another government
+liability. 6 This is true in the standard model unless it is dynamically extended
+by tracking over time the growth in asset stocks and its effects on asset prices
+and other variables. The formulation I presented above makes explicit the
+government’s financing requirements and allows its issues of money and bonds
+to affect financial markets right away.
+   But neither the problem nor its solution is confined to government finance.
+Another example concerns international capital movements and the determi-
+nation of the exchange rate (Branson,            1976, 1977). The recently popular
+aphorism “the exchange rate is an asset price”       is a truth, but a half- or quarter-
+truth. It is a natural result of divorcing flows from stocks and of viewing asset
+markets simply as reconciling wealth-constrained portfolio demands with exist-
+ing stocks. The application of this model to international financial markets was,
+to be sure, an advance over older analyses of payments imbalances and
+exchange rates, which either neglected capital transactions altogether or as-
+sumed that flows induced by interest rate differentials or other factors would
+continue indefinitely regardless of their effects on composition of portfolios. But
+it is more natural to recognize that exchange rates          are determined - or held at
+parities by official interventions - in markets in which demands and supplies for
+current and capital accounts are mingled (Tobin and de Macedo, 1980; Tobin,
+ 1981).
+   Here, as in other financial markets, practical participants and observers are
+ acutely conscious of the flows of new issues and new demands, while econo-
+ mists focus on stocks. Each group is puzzled by the other’s emphasis. The
+ chances are that both are right.
+
+2.10. Macro-economic Modeling Strategy: Continuous or Discrete Time
+The issues just discussed are related to the modeling of time. The equations
+introduced above count time in discrete periods of equal finite length. Within
+any period, each variable assumes one and only one value. In particular,
+clearing of asset markets determines one set of asset prices per period. From
+one period to the next asset stocks jump by finite amounts. Therefore the
+demands and supplies for these jumps affect asset prices and other variables
+within the period, the more so the greater the length of the period. They will
+also, of course, influence the solutions in subsequent periods.
+   The same modeling strategy can be used with continuous time. The specific
+saving functions, as well as the total saving function, then tell the rate at which
+savers want to be increasing their stocks of particular assets and of total wealth.
+
+
+ An early example of the complaint is Christ (1966, 1968). The issue is discussed in Blinder and
+6
+
+
+Solow (1973, 1974) and by Tobin and Buiter (1976, 1980), and Tobin (1979).
+
+
+                                        J. Tobin                                      31
+
+They will reflect both the continuous execution of long run saving and portfolio
+plans and the speeds of adjustment of stocks to deviations from these plans that
+arise because of surprises, news, and altered circumstances or preferences.
+   Either representation of time in economic dynamics is an unrealistic abstrac-
+tion. We know by common observation that some variables, notably prices in
+organized markets, move virtually continuously. Others remain fixed for
+periods of varying length. Some decisions by economic agents are reconsidered
+daily or hourly, while others are reviewed at intervals of a year or longer except
+when extraordinary events compel revisions. It would be desirable in principle
+to allow for differences among variables in frequencies of change and even to
+make those frequencies endogenous. But at present models of such realism
+seem beyond the power of our analytic tools. Moreover, many statistical data
+are available only for arbitrary finite periods.
+   Representation of economies as systems of simultaneous equations always
+strains credibility. But it takes extraordinary suspension of disbelief to imagine
+that the economy solves and re-solves such systems every micro-second. Even
+with modern computers the task of the Walrasian Auctioneer, and of the
+market participants who provide her with their demand and supply schedules,
+would be impossible. Economic interdependence is the feature of economic life
+that it is our business as professional economists to understand and explain.
+Simultaneous equations systems are a convenient representation of interdepen-
+dence, but it is more persuasive to think of the economic processes that solve
+them as taking time rather than as working instantaneously.
+   In any event, a model of short-run determination of macro-economic activity
+must be regarded as referring to a slice of time, whether thick or paper-thin,
+and as embedded in a dynamic process in which flows alter stocks, which in
+turn condition subsequent flows.
+
+2.11. Solution of the One-period Model
+The four asset-market equations (11)-(14 ) are the core of the model, augment-
+ed by the definition (16) of the deficit D and by the relationships (17)-(20)
+between current and expected prices and the four one-period rates of return r         J
+                                                                                       .
+The solution and interpretation of this structure depend on which variables are
+regarded as within-period endogenous and which as exogenous or predeter-
+mined. If more than four variables are to be taken as endogenous, then one or
+more equations must be added.
+   Here I provide, both for illustration of method and for substantive interest,
+three variants: (1) a “Keynesian ” version in which current real income Y is
+endogenous but commodity price p is predetermined; (2) a “classical” version
+in which price p is endogenous but Y is supply-determined by the capital stock
+K-i and an exogenous labor force; (3 ) a “mixed” version with both p and Y
+endogenous and connected by a within-period Phillips curve, a fifth equation.
+In all variants, the asset price expectations figuring in (17)-(19) are assumed
+to be less than unit-elastic with respect to the corresponding current prices, so
+that the current prices are inversely related to the rates of return r      J
+                                                                             . However,
+in the “Keynesian” and “classical” variants, the commodity price expectation
+
+
+32                                  Economic Sciences 1981
+
+Ep+, is assumed to be proportional to the current price p. This assumption
+fixes the expected inflation rate and thus r H. In a variant of the “mixed” case,
+the expected inflation rate is taken to be the same as the current inflation rate,
+Ep+,/p = p/p-~, so that r is determined by the short run Phillips curve.
+                                  H
+
+
+
+   The exogenous variables representing fiscal policy are government purchases
+G and a constant or shift parameter in the tax-transfer function T (to be
+interpreted, for simplicity, as not changing marginal tax rates on capital
+incomes). The parameters of monetary policy are                yH, the share of the deficit
+financed by printing base money, and z H and zF, open market “sales” of money
+and foreign currency. In a regime of clean float of the exchange rate z            F
+                                                                                     is zero;
+in a regime with discretionary intervention, sale of foreign exchange, either for
+money or for bonds, is a policy variable. In a regime of fixed exchange rates,
+which will not be analyzed here, z F becomes an endogenous variable while e
+and rF become exogenous.
+    The Keynesian variant. With p and r H predetermined, the model can be solved
+f o r ( rK , r B , r F , Y). Equations (17) - (19) implicitly substituted to eliminate
+ (q K , qB, e) from the core equations, can then be used to obtain these three asset
+prices.
+    Differentiation of the core equations (11)-(14) gives a set of equations in the
+differentials, with sign structures shown in (21 ). The fifth row, added fo r
+reference, refers to the IS equation (1.5).
+
+
+
+
+                                                                          Comparative statics
+The sign structure of the Jacobian, except for the last column, follows from the
+gross substitutability assumption for the A J functions, reinforced by the signs of
+partial derivatives of the other terms in the core equations, specifically the
+negative relations of asset prices to rates of return and the standard Marshall-
+Lerner elasticity conditions for the trade balance. The final column embodies
+the presumption that the marginal propensity to save from current income in
+every asset is positive. Given this presumption, the only ambiguity, indicated
+ by (?), is the possibility that an increase in Y, by raising current earnings of
+capital R, raises q , investment, and the valuation of K- 1 enough to exceed the
+                     K
+
+
+
+ new demand for equity wealth it induces. The marginal propensity to invest
+ may exceed the marginal propensity to save in equities.
+   Assuming the sign structure shown , the determinant of the Jacobian is
+ positive.7 Even if the questionable sign is reversed, it may be positive and will
+
+7
+  A dominant-diagonal matrix has positive diagonal elements, non-positive off-diagonal elements,
+and positive column sums. Its determinant is positive. It remains positive if any column is replaced
+by a non-negative vector with no negative elements and at least one positive element.
+
+
+                                             J. Tobin                                   33
+
+definitely be so if the sum of the first and last entries in the column is positive.
+Given a positive Jacobian determinant, the structure of multipliers is shown in
+Table 3.
+   These are conventional macroeconomic results, qualitatively the same as
+comparable conclusions of IS-LM apparatus. Note,              however, that - contrary to
+ the classical Mundell (1963) conclusion that monetary policies work and fiscal
+ policies do not in a regime of floating exchange         rates - expansionary policies of
+ both kinds are here effective. In the Mundell model, fiscal expansion alone
+ cannot increase aggregate demand because it appreciates the exchange rate
+ and lowers the current account surplus; the foreign interest rate ties down
+domestic rates so that the velocity of money cannot be raised. In the present
+ model, fiscal expansion does not completely “crowd out” net exports. Ex-
+ change appreciation lowers the demand for money both because the return on
+ foreign assets is higher, given sticky exchange rate expectations, and because
+ the value of foreign-currency wealth holdings is lower. This wealth effect
+ requires, of course, that the holdings be positive. The asset substitution effects
+ also imply that the floating rate does not insulate the economy from external
+ demand shocks.
+   The ambiguities of sign of the multipliers for rates of return reflect the variety
+of possible substitution patterns in a multi-asset model. For example, with
+bond financing of deficits, the equity return r       K
+                                                        may actually decline if bonds
+are a good substitute for money but a poor substitute for equities.
+    The classical variant. Formally, the classical model has qualitatively the same
+structure as (21), with the roles of p and Y interchanged. The multipliers for
+both are those in Table 3. The positive price effects on excess asset demands
+explicit in equations ( 11) - ( 14 ) may be reinforced by Pigou effects in the A
+                                                                                          J
+
+
+
+functions themselves. Without them the top entry in the last column of the
+Jacobian, now the dp column, is zero. In any case the possible ambiguity of
+ that sign is removed.
+
+Table 3. Multipliers for Keynesian and Classical Cases
+Endogenous Variables:
+
+
+
+
+Expansionary fiscal policy
+dG             Purchases (y” = 1, yH< 1)
+-dT            Tax reduction, transfers
+dG+dT          Balanced increase of budget
+Expansionary monetary policy
+-dyB         More monetary finance of deficit            -      -        -      +
+- d zB       Open market purchases of bonds              -      -        -      +
+- d zF       Open market purchases of
+             foreign currency assets                     -      -        -      +
+   B     F
+d z-dz         Sterilized purchases of
+               foreign currency assets                   2      +         -     ?
+- d rH         Expectation of inflation                  -      -        -      +
+
+
+34                              Economic Sciences 1981
+
+    Monetary expansion is not neutral but lowers real interest rates and shifts
+the composition of output from consumption to investment. Fiscal expansion
+raises the price level, and if this does not induce enough saving and current
+account deficit to finance the increased budget deficit, it raises r       K
+                                                                             and crowds
+out investment. Monetarist conclusions about fiscal policy require, as often
+argued in the past, that interest-elasticities of money demand be zero (the first
+three items in the fourth row of the Jacobian).
+    The mixed model. Clearly an “aggregate supply” function, a positive within-
+period relation between p and Y can be appended to the model without
+changing its essential features. The effects of various policies and of other
+exogenous variables will then be split between price and real income, but will
+be in the same directions as shown in Table 3. These results depend on the
+assumption that expected inflation, and thus r H, are independent of the current
+price p.
+    In the final column of (21) are given the signs of differentials for exogenous
+variation of r H. In the middle two rows these reflect, in addition to the negative
+effects of r H on A B a n d AF, its negative effects on q B and e. The resulting
+multiplier signs appear in the final row of Table 3; not surprisingly, expectation
+of inflation is expansionary and inflationary.
+    Now suppose that r H is endogenous, equal to r!!, plus an expectation revision
+related negatively to Y. This will add a fifth column to the Jacobian of (21),
+namely the r H column with signs reversed as it becomes the fourth column of
+ the Jacobian. The relation of r H to Y will add a row, [0 0 0 + +], and possibly
+ reverse the sign of the Jacobian determinant and of the multipliers for p and Y.
+ In an IS-LM diagram in r-Y space the equivalent reversal would arise if the
+ LM locus, after subtracting from it the inflation generated at each level of Y by
+ a Phillips curve, crossed IS from above to below rather than in the normal way.
+    In models of this kind we are not free to dismiss such intuitively perverse
+ solutions as unstable equilibria. There are no dynamics within the period or the
+ slice of continuous time. The one-period model, simultaneous equations and
+ all, is meant to say what actually happens. Dynamics and stability questions
+ arise over a sequence of one-period solutions. In the example of the previous
+ paragraph, the resolution probably lies elsewhere, e.g. in slowing down the
+ translation of actual inflation into expected inflation.
+
+
+
+
+3. POSSIBLE EXTENSIONS AND ELABORATIONS OF THE MODEL
+
+3.1 Financial Intermediation, Loans, and Inside Money
+As Table 1 shows, banks and other financial institutions mediate between
+borrowers and lenders, making loans to businesses, governments, households,
+and others, and incurring liabilities to households and other creditors. The
+traditional business of commercial banks is to accept deposits and other obliga-
+tions payable on demand or at specified times and to acquire assets of less
+liquidity and longer maturity. Almost all their assets and liabilities, except
+their owners’ equity, are promises to pay currency. Other intermediaries
+
+
+                                        J. Tobin                                         35
+
+
+likewise transform their assets into forms         better tailored - in convenience of
+denomination, liquidity, maturity, and risk - to the preferences and circum-
+stances of their creditors. Banks and other intermediaries, together with capital
+and credit markets, thus create “inside” assets, claims of agents on each other
+that wash out in aggregations of privately owned national wealth. In particu-
+lar, banks create inside money, i. e.,    deposits that serve on a par with govern-
+ment currency as generally acceptable transactions media or as close substi-
+tutes therefor, “backed” on the other side of their ledgers not by base money or
+government debt but by private loans and securities. In the United States the
+equivalence of bank deposits to currency is sustained by government deposit
+insurance, which in effect extends to deposits the government’s fiat.
+    With banks and inside money, the nature of the demand for base (“outside”)
+money is altered. In the United States, there are essentially two uses of base
+money: currency in public circulation and bank reserves. Banks are legally
+required to hold reserves, either in currency or on deposit in the central bank,
+in fractions of checkable deposits and certain other liquid liabilities. They may
+hold reserves in excess of requirements, or by borrowing from the central bank
+they can make their “net free reserve”        positions negative. Thus the demand
+function for base money consists of three parts: the nonbank public’s holdings
+of currency; required bank reserves,         the required fraction of the public’s
+demand for deposits; and net free reserves, a choice made by the banks in the
+light of the Federal Reserve discount rate and the rates available on loans and
+securities. The arguments in the three functions are the interest rates and other
+variables relevant for household or bank portfolio decisions.
+    The addition of bank deposits, of one or more varieties, to the asset list adds
+ rows to matrices like Table 1. Whether it also adds to the list of endogenous
+ interest rates depends on whether the nominal rate on deposits is, like the zero
+ rate on currency, fixed by law or convention. Deposits with controlled interest
+ rates are an example of an asset market not cleared by price. Banks are not on
+ their deposit supply schedules. They would be ready to accept more deposits
+ than the public wants at the controlled rate, but the smaller side of the market
+ controls the quantity. Thus the banks’ disposable deposits, i. e. deposits net of
+ required reserves, are available for allocation among free reserves, loans, and
+ securities.
+    Banks and other intermediaries can bid for deposits and other liabilities
+ carrying market-determined assets. These in principle add to the list of endo-
+ genous interest rates, although in practice certificates of time deposit may be
+ nearly perfect substitutes for Treasury bills and other short open market paper.
+ Similarly commercial loans, mortgages, and other assets characteristic of inter-
+ mediaries may call for distinct rows and interest rates. Some loans may be
+ rationed at administratively set interest rates, like the “prime”, with excess
+ supply from borrowers chronic or frequent. A way to model a privately admin-
+ istered non-competitive price is to imagine it to be reset for each period in
+ relation to the excess supply observed in the preceding period. Then it is not a
+ with-in period endogenous price, and the endogenous variable corresponding
+ to its row equation is a quantity.
+
+
+36                              Economic Sciences 1981
+
+
+   The existence of monetary assets with fixed          nominal interest rates - base
+money, deposits, and for short periods central         bank loans - gives leverage to
+central bank monetary operations affecting their supplies. The reason is that
+other asset prices, interest rates, commodity prices, and real incomes must
+adjust to induce the public to absorb in their portfolios changes in these
+supplies. For the same reason and for good or ill, non-policy shocks to the
+supply of or demand for fixed-rate assets have leverage. In contrast, exogenous
+increases in the net supply of an asset bearing a flexible market-determined rate
+can in great part be accommodated by increases in the own-rate itself.
+   In an n-asset model, if there are less than n endogenous interest rates the
+asset-market equations can determine, as shown above, at least one other
+variable, e.g. Y or p or some combination of them. If all assets had market-
+determined rates, this degree of freedom would be lost. The trend of the
+financial system is to enlarge the range of assets that have variable market-
+determined rates, increasing the leverage of base money supplies and equiv-
+alent shocks on market interest rates. This trend makes the Hicksian "LM"
+curve more nearly vertical, rendering fiscal policies and other “IS” shocks less
+consequential. Whether it contributes to stability or instability of output and
+prices depends on the nature and strength of unpredictable and uncontrollable
+shocks to the demands for and supplies of the small remaining core of fixed-rate
+assets, and to the patterns of demands and supply among the variable-rate
+assets, especially between nominally denominated securities and equities. It is
+possible that q K and Y will be more rather than less variable in the    new regime.
+
+3.2 Substitutabilily, Aggregation, and Estimation
+In principle, the model should distinguish imperfectly substitutable asset cate-
+gories and determine a separate rate of return for each. If two assets are perfect
+substitutes, their interest rates move together and can be represented as one
+variable. Then the two rows must be consolidated. In econometric practice this
+is also expedient for close though imperfect substitutes. The strong collineari-
+ties of time series of interest rates present difficult econometric problems. It is
+often not clear whether observed co-variation is due to close substitutability or
+to pervasive common exogenous shocks. History has frequently not performed
+those experiments in variation of relative asset supplies that would test substi-
+tutability hypotheses and allow estimations of cross elasticities. For this reason,
+estimations and simulations of models or partial models have relied heavily on
+priors about coefficients and their error distributions. In some cases these
+Bayesian methods, though inferior to standard procedures in fitting sample
+observations, have done better in out-of-sample forecasts (Smith and Brainard,
+ 1976).
+
+3.3 International Asset Transactions
+In Section 2 international capital movement was modeled in the most primitive
+fashion, by specifying a single foreign-currency asset in which domestic resi-
+dents could borrow or lend at an exogenous foreign currency interest rate.
+Foreigners were assumed not to demand domestic assets. Because of these
+
+
+                                            J. Tobin                                          37
+
+simplifications, the supply-equals-demand equation for the foreign-currency
+asset was also the balance-of-payments equation. One step toward realism is to
+add foreign demands, with the same formats and        properties mutatis mutandum as
+the domestic asset demand functions, to the equations for all local assets.
+Foreign portfolio managers are presumably concerned with returns in their
+own currencies. This amendment can be kept within the bounds of the “small
+country” assumption by continuing to assume that foreign interest rates,
+foreign incomes, and other relevant foreign variables are exogenous. The
+balance-of-payments equation is the previous foreign-currency asset balance
+equation, but with net demands now augmented by the sum of net foreign
+demands for domestic assets. This amendment leaves intact, with only minor
+qualifications, the conclusions of the simpler model.
+   The second step, however, introduces considerable complexity and ambigu-
+ity. This is to model two economies jointly and symmetrically, with residents of
+each country demanding asset holdings in both currencies and with macro-
+economic variables endogenous in both countries. The “gross substitutes”
+assumption, the source of determinate qualitative results in Section 2, no longer
+applies, because the same movement of the exchange rate has opposite mean-
+ings to investors in the two countries. Own-currency preferences arise from the
+facts that each country’s residents expect to buy consumer goods in its currency
+and that the two countries’ products are imperfectly substitutable. Obviously,
+succeeding steps, with n currencies and economies, would be still more diffi-
+cult.8
+
+
+
+4. DYNAMICS AND LONG-RUN STEADY STATES
+Each within-period solution generates new values of predetermined variables
+for the following period. These include of course stocks of portfolio assets and
+capital, which follow obvious transitional equations. Likewise transitional
+equations could pre-set other variables by the solutions in the immediately
+preceding and other past periods. The inertia of commodity prices, and their
+relation to economic activity, could be modeled in this way, as could be
+adaptive expectations. Rational expectations dynamic solutions are also possi-
+ble. However, dynamic solutions of a non-linear system, even one of such small
+dimensionality as the one described in Section 2, cannot be obtained analytical-
+ly but require simulations.
+   With some special assumptions, the model has a steady state solution like
+that of a monetary growth model (Tobin, 1955, 1965, 1968). The most impor-
+tant assumptions, in addition to the familiar restrictions on production func-
+tions, technological progress, and exogenous resources, concern asset prefer-
+ences and saving. The existence of steady states requires that any constant set
+
+
+ On the topic of this subsection, see Tobin and de Macedo (1980), which describes more fully the
+8
+
+
+simple model and takes the first and second steps of amendment. In a subsequent paper, Tobin
+(1981), I have discussed the internationalization of portfolios and its relation to the theory of
+exchange rates.
+
+
+38                               Economic Sciences 1981
+
+
+of rates of return all asset demands grow in proportion to the size of the
+economy. The same homogeneity is required of government purchases and tax
+revenues.
+  Which of the various feasible steady states paths, all with the natural rate of
+growth of the economy g, is the long run equilibrium depends on policy
+parameters. These are two parameters setting budget purchases and tax rev-
+enues as fractions s and τ of total output, and one parameter determining how
+deficits are financed, yB or yH. Open market operations have no place or
+purpose along an equilibrium path.
+  A steady state solution determines the three rates of return (r            K
+                                                                               , rB , rH ).
+Capital accumulation occurs steadily at the natural rate of growth, and q              K
+                                                                                         is
+therefore equal to 1. Thus r is the net (after-tax) marginal product of capital,
+                                K
+
+
+
+inversely related to the capital-labor and capital-output ratios, and to output
+and real wages per effective worker. The rate of return to base money, the
+negative of the inflation rate, is endogenous in the long run though not in the
+short-run one-period model. This is because rational expectations apply, as
+they always have, to steady state solutions; expected and actual inflation must
+be the same.
+   I turn now to a brief discussion of the nature of a long-run equilibrium and of
+the accompanying issues of analysis, interpretation, and policy. Here I refer to
+a closed economy with three assets; the whole concept of steady long run
+growth fails for open economies unless their several natural rates of growth
+happen to be identical. For convenience, I use continuous time. Let b and h be
+the stocks of bonds (consols) and high-powered (base) money at nominal
+market value, each as a fraction of nominal income. These will be constants
+over time in a steady state. The nominal interest rates on the two assets, also
+constant over time, are (r B + π, 0) and the real rates (r B , rH ), where r H = −π.
+The nominal price of bonds q B, again constant, is 1/(r B+ π). The nominal stock
+of each asset, in dollars, is growing at rate g+   π, along with nominal income.
+The following two equations describe the financing of the deficit:
+
+                                                                       Steady state
+                                                                       supplies of bonds
+                                                                       and base money
+
+Eliminating Yp from these equations and solving them for b and h gives:
+
+                                                                         Solution of (22)
+
+
+
+Note that the denominator could be written as g-r D where rD is the appropriate-
+ly weighted average real interest rate on the public debt, monetary and non-
+monetary. I confine myself to non-negative values of s-t, g-r       D
+                                                                      , b, and h. Long-
+run asset demand functions are aK(.), aB(.), and aH(.), each expressed as
+fractions of real income Y and containing as arguments the three r          J
+                                                                              and the tax
+rate τ. As before, these add up to wealth demand a          w
+                                                              . Let k be the capital-
+
+
+                                                J. Tobin                                              39
+
+output ratio, which with a normal constant-returns-to-scale production func-
+tion in capital (endogenous) and effective labor (exogenous) will be inversely
+related to rK.’ The three equations determining the steady state are:
+
+                                                                          Steady state equations:
+(24)    a K ( rK , rB , rH , τ) = k(r K ) = k                                   Capital, Equities
+
+
+                                                                                                Bonds
+
+                                                                                        Base Money
+
+Their sum, a long-run “IS” relation, is
+
+
+                                                                                               Wealth
+
+
+Simple as system (24) - (26) looks, it leaves open a variety of possible relations
+between endogenous variables and policy parameters. Particular interest, of
+course, attaches to r K because of its link to capital intensity, labor productivity,
+consumption per capita, and real wages. In the comparative statics of steady
+states, “expansionary” policies - high s, low τ, and high yH-may be associated
+with lower r H (more inflation) and with lower r K and higher capital intensity k.
+Or the steady state association ofpolicies and results may be quite the opposite.
+    The formal reason for these ambiguities is that the “gross substitutes”
+property, though assumed for the a J functions, does not guarantee a dominant-
+diagonal Jacobian matrix. For example, in the H equation of (24) an increase of
+r H raises the demand for base money on the left hand side. But it also raises the
+supply, by diminishing the denominator on the            right hand side - and perhaps
+ by more than the demand. For a similar reason the diagonal entry in the
+Jacobian might be negative in the B row.
+    The major possibilities can be illustrated graphically, though with some
+loss of generality, by aggregating b+h and plotting their sum d against                  r D,
+the weighted average defined above. This is done in Figures 1 and 2, where the
+rectangular hyperbola d s is the “supply” of d, equal to (s--t)/g-rD). Now
+imagine that r B and rH affect aK only as they affect r D; this special assumption is
+necessary for the graphical illustration. For any r      D
+                                                           , the K equation can then be
+solved for r , which will be positively associated with r H. The corresponding k
+               K
+
+
+
+can be added to ds to obtain w. Now r k , together with the r B and rH that make up
+r D, determines a B and a” in the second and third equations. Their sum is the
+demand for public debt, a D. I n an equilibrium a D and ds must be equal, as at a
+point labelled E. In the bottom panels of the figures r       K
+                                                                is plotted against r D. The
+r associated with k equal to w-d s is rKs , and the r associated with w-a D is r,“.
+  K                                                       K
+
+
+
+
+9
+ Pre-tax. I do not discuss here the taxation of capital income, but it could be analyzed by putting
+after-tax rates of return in the a’ functions and taking account also of the effects of taxation on risk,
+mentioned above.
+
+
+40                               Economic Sciences 1981
+
+
+They are equal in the equilibrium E. Expansionary policies raise           r:, but what
+that does to equilibrium r k differs in the two cases.
+   Figure 1 is the analog of what I called in the short-run analysis the standard
+case, associated with a dominant-diagonal Jacobian. The demand effects of
+own-rates exceed the supply effects. Clearly an increase in s-t, raising the d           s
+
+hyperbola as indicated by the arrows raises r D and rK . Greater deficit spending
+“crowds out” capital, and part of the mechanism i s lowering the inflation rate. It
+is quite possible that an increase in    yH , greater monetization of deficits, works
+in the same directions; assuming r
+                                        H.is less than r D, one of its effects too is to
+shift ds to the left.
+   The stability of the equilibrium in Figure 1 is another question, which I must
+leave open. Skepticism of its stability arises not only from intuition but from the
+same model’s short-run conclusion that the same policies are inflationary and
+ may increase capital investment. Resolution of the apparent paradox would
+ presumably require a rational expectations explanation of the price level, with
+ economic agents foreseeing the steady state and internalizing the transversality
+ conditions.
+
+
+
+
+Figure 1. Steady State Equilibrium of Government Debt and Capital And Their Rates of Return
+(Standard Case)
+
+
+                                          J. Tobin                                        41
+
+   The alternative, Figure 2, shows a D flatter than d s. Here the same “expan-
+sionary” policies raise the inflation rate an d “crowd in” capital, which replaces
+less attractive public debt. Here the demands for money and bonds are less
+responsive to rates of return; perhaps paradoxically, Figure 2 pictures the more
+monetarist world. Still another possibility, shown by the dashed a        D
+                                                                            curve in
+Figure 2, is that there is no steady state equilibrium at all. The deficit      S -T is so
+high that there is no r at which the supply of debt will be held in competition
+                          D
+
+
+
+with capital. This is a recipe for hyper-inflation.
+     In the United States total federal debt is about 24% of GNP, 6% base money
+plus 18% non-monetary debt, implying             yH = l/4 and yB = 3/4. With inflation
+of 10% per year and nominal interest rates on debt instruments around 14%,
+r D is 0.5%. Assuming a natural growth rate of 2.5%, g-r           D
+                                                                     is 2%. Implicit in
+these numbers is a steady-state budget deficit (exclusive of debt interest) of
+0.48% of GNP. Thus d s would double to 48% by a 100 basis point rise in r                D
+                                                                                           .
+Since it seems unlikely that demand a         D
+                                                would rise as much, Figure 2 applies.
+
+
+
+
+Figure 2. Steady State Equilibrium of Government Debt and Capital And Their Rates of Return
+(Non-standard Case).
+
+
+42                               Economic Sciences 1981
+
+
+   In any case, financial policies are not neutral in the long run any more than
+in the short run. The variation of r K and capital intensity across steady states
+violates “super-neutrality,” i.e., invariance of real outcomes to the rate of
+inflation. Since inflation is the inverse of a real interest rate, this is scarcely
+surprising. In the background is the competition between capital and public
+debt for allocation of limited wealth. Such competition might not occur for
+consumers with infinite horizons, who would accumulate capital and every
+other asset until each of their yields equals a constant time preference rate. In
+contrast, savers with horizons of lifetimes or other finite periods will have finite
+demands for wealth and for every asset at any given rates of return (Tobin and
+Buiter, 1980, pp. 98-103).
+   Paul Samuelson showed in his 1958 parable of overlapping generations that
+unassisted competitive markets do not necessarily attain socially optimal or
+even Pareto-optimal equilibria when mortal households cannot trade with each
+other across time. The insight reinforces Keynes’s observation of the difficulties
+of market coordination without futures markets and helps to explain their
+absence.
+   Macro-economic market failures make it possible that government financial
+interventions can improve welfare, but they by no means guarantee that actual
+policies will do so. The focus of my lecture has been on the ways fiscal and
+monetary policies alter macro-economic outcomes in the short and the long
+ run. I have not considered the optimal design of policies, or the optimal rules of
+government intervention in response to shocks that disturb the economy’s path.
+Those are important items of unfinished business on the agenda of monetary
+ theory and macro-economics.
+
+
+
+
+                                                                  National income identity
+
+                                                                  National income identity
+
+                                                                      Investment function
+
+
+
+
+                                                                       Government deficit
+
+                                                                       Government deficit
+
+
+
+                                                                     Supply of base money
+
+                                                                          Supply of bonds
+
+                                                                Supply of foreign currency
+                                                                     assets by government
+
+
+J. Tobin                                43
+
+                    Balance of payments
+
+
+
+                         Supply of
+                         foreign currency
+                         assets to public
+                      Demand = supply
+                      equations:
+
+                      Equities market
+
+                      Bond market
+
+                      Foreign-currency
+                      assets market
+
+                      Base money
+                      market
+
+
+                            Total wealth
+
+
+
+                           Deficit defined
+
+                  Equities, price and rate
+                  of return
+
+           Bonds, price and rate of return
+
+            Foreign currency assets, price
+            and rate of return
+
+               Base money, rate of return
+
+
+
+
+                                        tics
+
+
+
+                              Steady state
+                              supplies of bond
+                              and base money
+
+
+                          Solution of (22)
+
+
+                  Steady state equations:
+                  Capital, Equities
+
+
+44                                   Economic Sciences 1981
+
+
+                                                                                              Bonds
+
+                                                                                        Base Money
+
+                                                                                             Wealth
+
+
+
+
+REFERENCES
+Abel, A. (1980), “Empirical Investment Equations: An Integrative Framework,” in K. Brunner
+  and A. Meltzer, editors, On the State of Macro-Economics , Carnegie-Rochester Series on Public
+  Policy 12, Amsterdam, North-Holland, 39-91.
+Arrow, K. (1973), “General Economic Equilibrium: Purpose, Analytic Techniques, Collective
+  Choice,” Les Prix Nobel en 1972 , Stockholm and American Economic Review 64, June 1974, 253-272.
+Backus, D., W. C. Brainard, G. Smith, and J. Tobin (1980), “A Model of U.S. Financial and
+  Nonfinancial Economic Behavior," Journal of Money, Credit and Banking , May, 12, 259-293.
+Backus, D. and D. Purvis (1980), “An Integrated Model of Household Flow-of-Funds Alloca-
+  tions,” Journal of Money, Credit and Banking, May, 12, 480-421.
+Baumol, W. J, (1952), “The Transactions Demand for Cash: An Inventory Theoretic Approach,”
+   Quarterly Journal of Economics , November, 56, 545-56.
+Blinder, A. and R. M. Solow (1973), “Does Fiscal Policy Matter?“, Journal of Public Economics ,
+  November, 2, 318-37.
+- - (1974), “Analytical Foundations of Fiscal Policy, ” in Brookings Institution, The Economics of
+  Public Finance , Washington.
+Brainard, W. C. and G. Smith (1979), “The Systematic Specification of a Full Prior Covariance
+   Matrix,” Mimeo.
+Branson, W. H. (1976), “The Dual Roles of the Government Budget and the Balance of Payments
+   in the Movement from Short-Run to Long-Run Equilibrium,” Quarterly Journal of Economics ,
+   August, 90, 345-67.
+- - (1977), “A ‘Keynesian’ Approach to Worldwide Inflation.” In Worldwide Inflation: Theory and
+   Recent Experience, edited by Lawrence B. Krause and Walter S. Salant, 63-92. Washington: The
+   Brookings Institution.
+Christ, C. (1966), “A Short-Run Aggregate-Demand Model of the Interdependence and Effects of
+   Monetary and Fiscal Policies with Keynesian and Classical Interest Elasticities,” American
+   Economic Review, May, 57, 434-43.
+- (1968), “A Simple Macroeconomic Model with a Government Budget Restraint,” Journal o f
+   Political Economy , January/February, 76, 53-67.
+Ciccolo, J. (1975), Four Essays on Monetary Theory , Ph.D. disseration, Yale University, unpublished.
+Ciccolo, J. and G. Fromm (1979), “ ‘q’ and The Theory of Investment,” Journal of Finance , May, 34,
+   535-47.
+Friedman, B. (1977), “Financial Flow Variables and the Short-Run Determination of Long-Term
+   Interest Rates,” Journal of Political Economy, August, 85, 661-89.
+- (1980), “The Determination of Long-Term Interest Rates: Implications for Fiscal and Monetary
+   Policies,” Journal of Money, Credit and Banking, May, 12, 331-352.
+Friedman, M. (1957), A Theory of the Consumption Function, National Bureau of Economic Research,
+   Princeton, Princeton University Press.
+van Furstenberg, G. M. (1977), “Corporate Investment: Does Market Valuation Matter in the
+   Aggregate?“, Brookings Papers on Economic Activity , No. 2, 347-97.
+Hahn, F. H. (1965), “On Some Problems of Proving the Existence of Equilibrium in Monetary
+   Economy,” in Hahn and F. B. R. Brechling, editors, The Theory of Interest Rates , London,
+   Macmillan, 126-35.
+- (1971), “Equilibrium with Transactions Costs,” Econometrica , 39, May, 417-39.
+- (1973 a), “On the Foundations of Monetary Theory, ” in M. Parkin and A. R. Nobay editors,
+   Essays in Modern Economics , New York, Harper and Row, 230-42.
+
+
+                                               J. Tobin                                               45
+
+
+- (1973 b), “On Transactions Costs, Inessential Sequence Economies and Money,” Review o f
+  Economic Studies, October, 40, 449-61.
+Hicks, J. R. (1935), “A Suggestion for Simplifying the Theory of Money,” Economica , N. S. 2, Feb.,
+   l-19.
+- (1937), “Mr. Keynes and the ‘Classics’: A Suggested Interpretation,” Econometrica , April, 5,
+   147-159.
+Kareken, J, and N. Wallace, editors, (1980), Models of Monetary Economics, Federal Reserve Bank of
+   Minneapolis.
+Keynes, J. M. (1936), The General Theory of Employment, Interest, and Money, New York, Harcourt
+   Brace.
+Lucas, R. E., Jr. (1976), “Econometric Policy Evaluation: A Critique,” Journal of Monetary Econom -
+   ics, Supplement , Vol. 1, Carnegie-Rochester Conference Series on Public Policy, The Phillips Curve
+  and Labour Markets.
+Malkiel, B. G., G. M. van Furstenberg, and H. S. Watson (1979), “Industry ‘q’s,’ Corporate
+   Investment, and Wage and Price Changes,” Journal of Finance, 34, May, 549-61.
+Markowitz, H. (1952), “Portfolio Selection,” Journal of Finance, March, 7, 77-91.
+- (1959), Portfolio Selection: Efficient Diversification of Investments , Cowles Foundation Monograph 16,
+   New York, Wiley.
+Miller M. H. and D. Orr (1966), “A Model of the Demand for Money by Firms,” Quarterly Journal
+   of Economics, 80, August, 413-435.
+Modigliani, F. and R. Brumberg (1952), “Utility Analysis and Aggregate Consumption Functions:
+   An Attempt at Integration,” Mimeo, published in F. Modigliani, Collected Papers, Vol. 2,
+   Cambridge, M.I.T. Press, 1979, 128-199.
+- - (1954), ‘Utility Analysis and the Consumption Function: An Interpretation of Cross-Section
+   Data,” in K. Kurihara, editor, Post-Keynesian         Economics, New Brunswick, Rutgers University
+   Press, 388-436.
+Mundell, R. A. (1963), “Capital Mobility and Stabilization Policy under Fixed and Flexible
+   Exchange Rates,” Canadian Journal of Economics and Political Science , November, 29, 475-85.
+Samuelson, P. A. (1958), “An Exact Consumption-Loan Model of Interest with or without the
+   Social Contrivance of Money,” Journal of Political Economy, December, 66, 467-82.
+Smith, G. and W. C. Brainard (1974), “Disequilibrium Models for Financial Institutions,” Cowles
+   Foundation Discussion Paper 535, New Haven, Mimeo.
+- - (1976), “The Value of A Priori Information in Estimating a Financial Model,” Journal o f
+   Finance, December, 31, 1299-1322.
+Summers, L. (1981), “Taxation and Corporate Investment: A q-Theory Approach,” Brookings
+   Papers on Economic Activity, No. 1, 67- 140.
+Tobin, J. (1947), A Theoretical and Statistical Analysis of Consumer Saving, Ph.D. dissertation, Harvard
+   University, unpublished.
+- (1955), “A Dynamic Aggregate Model,” Journal of Political Economy , April, 63, 103- 115.
+- (1956), “The Interest Elasticity of Transactions Demand for Cash,” Review of Economics and
+   Statistics , August, 38, 241-47.
+- (1958), “Liquidity Preference as Behavior Towards Risk,” Review of Economic Studies, February,
+   25,65-86.
+- (1965), “Money and Economic Growth,” Econometrica , October, 33, 67 l-684.
+- (1968), “Notes on Optimal Monetary Growth,” Journal of Political Economy, August, 76,833-859.
+- (1969), “A General Equilibrium Approach to Monetary Theory,” Journal of Money, Credit and
+   Banking, 1, February, 15-29.
+- (1975), Essays in Economics, Vol. 2, Amsterdam, North-Holland.
+- (1978), “Monetary Policies and the Economy - The Transmission Mechanism,” Southern
+   Economic Journal, 44, January, 421-43 1.
+- (1979), “Deficit Spending and Crowding Out in Shorter and Longer Runs,” in H. I. Greenfield
+   et al, editors, Theory for Economic Efficiency: Essays in Honor of Abba P. Lemer, Cambridge, M. I. T.
+   Press, 217-236.
+
+
+46                                    Economic Sciences 1981
+
+
+- (1981), “The State of Exchange Rate Theory: Some Skeptical Observations,” in R. N. Cooper et
+   al, editors, The International Monetary System under Flexible Exchange Rates: Global, Regional, and
+   National. Essays in Honor of Robert Triffin. Cambridge, Ballinger.
+- and W. C. Brainard (1968), “Pitfalls in Financial Model Building, ” American Economic Review, 58,
+   May, 99- 122.
+- and W. C. Brainard (1977), “Asset Markets and the Cost of Capital.” In Economic Progress:
+   Private Values and Public Policy (Essays in Honor of William Fellner), edited by Richard Nelson
+   and Bela Balassa, 235-262. Amsterdam: North-Holland.
+- and W. Buiter (1976), “Long-Run Effects of Fiscal and Monetary Policy on Aggregate De-
+   mand,” in J. L. Stein, editor, Monetarism, Amsterdam, North-Holland, 273-309.
+- and W. Buiter (1980), “Fiscal and Monetary Policies, Capital Formation, and Economic
+   Activity, ” in G. M. van Furstenberg, editor, The Government and Capital Formation, Cambridge,
+   Ballinger, 73- 151.
+- and J. B. de Macedo (1980), “The Short-Run Macroeconomics of Floating Exchange Rates: an
+   Exposition, ” in J. S. Chipman and C. P. Kindleberger, editors, Flexible Exchange Rates and the
+   Balance of Payments, Amsterdam, North-Holland, 5-28.
+
+
+                                              J. Tobin                                           47
+
+
+SYMBOLS
+               Y       real net national product
+               S       real private saving
+               I       real net capital investment (including adjustment costs)
+              D        real government deficit
+              C        real private consumption
+              G        real government purchases of goods and services
+              T        tax revenues net of transfers, real
+            CAS        real current account surplus
+              K        capital stock, real
+              B        stock of bonds, nominal, measured by coupon payments per period
+              H        stock of high-powered (base) money, nominal
+              F        stock of foreign currency assets, privately owned, nominal in foreign curren-
+                       cy
+              GF       stock of foreign currency assets publicly owned, nominal in foreign currency
+               W       private net worth, real
+               P       commodity price
+            p GF       foreign commodity price, in foreign currency
+               e       exchange rate: domestic currency price of a unit of foreign currency
+              qk       ratio of market price of equities to standard replacement cost of a unit of
+                       capital
+              qB       nominal price of a bond paying $1 per period in perpetuity
+              γB       fraction of deficit financed by selling bonds
+              γH       fraction of deficit financed by issuing base money
+               z
+                   J
+                        (J = B, F, H) additional government sale or issue of asset J, nominal
+               QF      interest rate on foreign-currency assets, in foreign currency
+               r
+                   J
+                        (J = B, F, H) real one period expected return on asset J
+               X       trade surplus
+                       natural growth rate
+                :      capital depreciation rate
+               AJ       (J = K, B, F, H) demand for asset J at end of period, real
+                R      earnings per unit of capital, real
+           x or xt     value of a variable x in period t
+    xx, or xt-1        value of x in period t- 1
+  Ex+ I or Ex,+ I      expected value of x in period t + 1
+       ∆x or ∆x,       xt-X1-l
+                   S   steady state   G/Y
+                z      steady state   T/Y
+                k      steady state   K/Y        a k steady state demand for k
+                b      steady state   qBB/pY a b steady state demand for b
+                h      steady state   H/pY       a h steady state demand for h
+                w      steady state   W/Y        a w steady state demand for w
+               rD      average real   interest rate on government debt, yBrB+yHrH
+                d      b+h
+                       inflation rate
+

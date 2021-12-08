@@ -1,0 +1,1360 @@
+MULTISTAGE GAME MODELS AND DELAY
+SUPERGAMES
+Nobel Lecture, December 9, 1994
+
+by
+REINHARD SELTEN, BONN
+
+Rheinische Friedrich-Wilhelms-Universität, Bonn, Germany
+
+
+
+
+ABSTRACT
+
+The order of stages in a multistage game is often interpreted by looking at
+earlier stages as involving more long term decisions. For the purpose of
+making this interpretation precise, the notion of a delay supergame of a
+bounded multistage game is introduced. A multistage game is bounded if the
+length of play has an upper bound. A delay supergame is played over many
+periods. Decisions on all stages are made simultaneously, but with different
+delays until they become effective. The earlier the stage the longer the delay.
+   A subgame perfect equilibrium of a bounded multistage game generates a
+subgame perfect equilibrium in every one of its delay supergames. This is the
+first main conclusion of the paper. A subgame perfect equilibrium set is a set
+of subgame perfect equilibria all of which yield the same payoffs, not only in
+the game as a whole, but also in each of its subgames. The second main conc-
+lusion concerns multistage games with a unique subgame perfect equilibri-
+um set and their delay supergames which are bounded in the sense that the
+number of periods is finite. If a bounded multistage game has a unique sub-
+game perfect equilibrium set, then the same is true for every one of its
+bounded delay supergames.
+   Finally the descriptive relevance of multistage game models and their
+subgame perfect equilibria is discussed in the light of the results obtained.
+
+
+1. Introduction
+
+In the economic literature one finds many game models, in which the play-
+ers make simultaneous decisions on each of a number of successive stages,
+always fully informed about what has been done on previous stages. An early
+example can be found in my paper " a simple model of imperfect competi-
+tion where 4 are few and six are many (Selten, 1973). In this oligopoly model
+the players first decide whether they want to take part in cartel bargaining.
+This participation stage is followed by a cartel bargaining in which quota car-
+tels can be proposed and agreed upon. The third and last stage is a supply
+decision stage in which production quantities are fixed.
+
+
+                                 Reinhard Selten                            201
+
+Another example is a two stage duopoly model with production capacity
+decisions on the first stage and Bertrand price competition on the second
+stage (Kreps and Scheinkman, 1983). Multistage game models can be analy-
+zed on the basis of the subgame perfect equilibrium concept (Selten, 1965),
+the simplest refinement of ordinary game theoretic equilibrium (Nash,
+1951). Sometimes additional selection criteria are combined with subgame
+perfect equilibria, like symmetry and local efficiency in the case of my above
+mentioned model. The analysis of my model yields the result that up to 4
+competitors always form a cartel whereas in the presence of 6 or more com-
+petitors the probability of cartel formation is less than 2%. The model by
+Kreps and Scheinkman deepens our understanding of Cournot’s (1838)
+oligopoly theory. In equilibrium Cournot quantity competition takes place
+on the first stage of their model. The examples show that the analysis of
+multistage game models can lead to interesting theoretical conclusions.
+   In some cases it may be justified to look at the stages of a multistage game
+model as decision points succeeding each other in time. However, often this
+direct temporal interpretation is not adequate. Many multistage game
+models do not really aim at the description of situations in which decisions
+must be made in a fixed time order. Thus the model of Kreps and
+Scheinkman places capacity choice before price choice, not because price
+choice cannot precede capacity choice, but rather because capacity decisions
+are considered to be more long term than price decisions. It seems to be
+natural to consider long term decisions as fixed, when short term decisions
+are made. “Term length” in the sense of a position on a short term-long term
+scale rather than time is the consideration underlying the order of stages. If
+decisions of greater term length are modelled as made on an earlier stage,
+this is intended to have the effect that in subgame perfect equilibrium more
+short term decisions are based on more long term decisions taken as fixed.
+   The term length interpretation looks at a multistage game model as a con-
+densed description of an ongoing situation in which stage decisions are not
+made once and for all. Strategic variables may change over time, but more
+short term decisions are in some way subordinated to more long term ones.
+The reasons for this subordination are not explicitly spelled out.
+   Simple oligopoly models like the Cournot model which involve only one
+stage are usually also interpreted as condensed descriptions of ongoing situ-
+ations. The literal interpretation as a one-shot game would leave little room
+for applied significance. One must think of such models as being played
+repeatedly in a supergame (Aumann, 1959, Friedman, 1977), but without
+making use of the potential for quasicooperation which may be present in
+such situations. The analysis of the one shot game instead of the supergame
+amounts to the assumption that any kind of collusion is excluded by effecti-
+vely enforced cartel laws or for other reasons.
+   Similarly one could look at a multistage game model as representing the
+structure of a period in a supergame. However, this would mean that one
+sticks to the direct temporal interpretation of the order of stages. Obviously
+
+
+202                         Economic Sciences 1994
+
+the term length interpretation requires a different picture of the underlying
+ongoing situation. It is the modest purpose of this lecture to provide an expli-
+cit model of the underlying situation which justifies the reduction to the mul-
+tistage game with its subordination of the shorter term to the longer term.
+   What does it mean in the model by Kreps and Scheinkman that capacity
+decisions are long term and price decisions are short term? It could mean
+that due to exogenous institutional circumstances capacities can be adjusted
+only at certain points in time, say at the beginning of the year, whereas pri-
+ces can be changed every day. Alternatively one could think of a difference
+of change costs, high for capacity adjustments and low for price changes.
+This would lead to a model in the spirit of the inertia supergame (Marschak
+and Selten, 1978). A third possibility is the answer given here. It focusses on
+the delay between the time a decision is made and the time at which it beco-
+mes effective. This delay may be two years for capacity adjustments and only
+one day for price adjustments. The longer the delay the more long term the
+decision is considered to be.
+   It seems to me that in many cases the difference between a more long term
+and a more short term decision is adequately explained as a difference of
+delay. Of course, in some multistage game models necessities of temporal
+order, exogenous institutional circumstances and differences of change costs
+may also be considerations in the interpretation of the order of stages.
+However, here we shall only be concerned with the term length interpreta-
+tion elaborated by looking at differences of term length as differences of
+delay times needed until a decision becomes effective. The underlying ong-
+oing situation will be modelled as a special kind of game, called a “delay
+supergame”. In a delay supergame decisions on all strategic variables are
+made at the same time, period after period, but these decisions become
+effective with different delays. Thus, in period t decisions on the price in t+l
+and capacity in t+10 may be made, on both variables at the same time and
+simultaneously by all players.
+    In a delay supergame the players have full information about previous his-
+tory of play, but not about simultaneous decisions made by other players. All
+decisions made in a period become publicly known at the beginning of the
+next period.
+    It does not really matter exactly how long the delays are. For the analysis
+of delay supergames only the order of the decision variables with respect to
+delay length matters.
+   A delay supergame is not necessarily played for a fixed number of periods;
+the definition will involve a probability distribution over the number of
+periods played. We speak of a “bounded” delay supergame if the number of
+periods has a finite upper bound and of an “unbounded” one otherwise. The
+distinction between bounded and unbounded delay supergames is game the-
+oretically important.
+    Every subgame perfect equilibrium of a bounded multistage game always
+generates a subgame perfect equilibrium for every one of its bounded or
+
+
+                                  Reinhard Selten                            203
+
+
+unbounded delay supergames. This is the first main conclusion of the paper
+ (theorem 1 in 5.3). The generated equilibrium can roughly be described as
+the repeated application of the multistage game equilibrium strategies in
+every period played.
+    In general, a delay supergame and especially an unbounded one may have
+many additional subgame perfect equilibria. It is well known that this hap-
+pens already in ordinary supergames (Rubinstein, 1976, 1980, Benoit and
+Krishna, 1985). Since normal form games are special multistage games with
+only one stage, supergames are special delay supergames.
+    A subgame perfect equilibrium set is a set of subgame perfect equilibria
+ all of which yield the same payoffs not only in the game as a whole but also
+ in each of its subgames. A multistage game or a delay supergame will be cal-
+ led “determinate” if the set of all of its subgame perfect equilibria is a sub-
+game perfect equilibrium set. Every bounded delay supergame of a deter-
+ minate bounded multistage game is determinate. This is the second main
+ conclusion of this paper (theorem 2 in 5.5).
+    This lecture will not be concerned with the question which kind of “folk
+ theorems” hold for which class of delay supergames. Such theorems are
+ interesting from the point of view of normative game theory, but their appli-
+ ed significance is limited. Finite supergames of prisoners’ dilemma games
+ have only one subgame perfect equilibrium which prescribes the non-coo-
+ perative choice everywhere, but nevertheless experienced experimental sub-
+jects cooperate in such games until shortly before the end (Selten and
+ Stoecker, 1986). On the other hand in some supergame-like oligopoly expe-
+ riments cooperation is not observed (Sauermann and Selten, 1959, Hoggatt,
+ 1959, Fouraker and Siegel, 1963, Stern, 1967). It is an empirical question
+ under which conditions behavior in a delay supergame converges to a sub-
+ game perfect equilibrium of the underlying multistage game. At the end of
+ the paper this problem will be discussed in more detail.
+    Instead of the usual framework of the extensive game (von Neumann and
+ Morgenstern, 1944, Kuhn, 1953, Selten, 1975) a somewhat different one is
+ used here, which is especially adapted to multistage games and their delay
+ supergames. Simultaneous decisions are represented as being made at the
+ same history of previous play and information is not explicitly modelled. A
+ “choice set function” defined recursively together with a “path set” take over
+ the role of the game tree. As in the usual extensive form a “probability assign-
+ ment” describes the probability of random choices and a payoff function
+ determines the payoffs at the end of a play. The framework could be made
+ as general as that of an extensive game by the additional introduction of
+ information partitions for the players but this will not be done here.
+    Even if our main conclusions are intuitively plausible and not surprising
+ some formalism is necessary to make statements and their proofs precise.
+
+
+204                           Economic Sciences 1994
+
+
+2. Multistage games
+
+A multistage game will be defined as a structure built up of four constituents,
+a start s, a choice set function A, a probability assignment p, and a payoff
+function h. The start s is a symbol which represents the situation before the
+beginning of the game. The choice set function describes what choices are
+available to the players in every situation which may arise in the game. The
+probability assignment p assigns probabilities to random choices and the pay-
+off function h specifies the payoffs at the end of the game. Detailed formal
+definitions are given below.
+
+
+2.1 The choice set function
+
+A multistage game involves n personal players l,...,n and a random player 0
+(interpreted as a random mechanism). In the following we present a joint
+recursive definition of a choice set function and the notion of a path (a path
+represents a previous history of play). In addition to this, further auxiliary
+definitions like that of a play, a preplay, and a choice combination are intro-
+duced. Interpretations are added in brackets.
+
+
+
+
+The set of all choice combinations at u is denoted by A(u).
+
+  3. If u is a preplay and a is a choice combination at u, then v = ua is a path.
+     All paths are generated in this way.
+
+Notation: The set of all paths is denoted by U, the set of all plays by Z and
+the set of all preplays by P . According to 3. a path u = s a 1...a k is built up as
+a sequence beginning with the start s and continued by successive choice
+combinations a 1,...,a k.
+   Finiteness of random choice sets: We only consider choice set functions with
+the additional property that all random choice sets Pq,(u) are finite. In this
+way we avoid tedious technicalities. In the following finiteness of all random
+choice sets will always be assumed.
+
+
+                                  Reinhard Selten                             205
+
+
+2.2. The probability assignment
+
+A probability assignment p assigns a probability distribution pu, over A)(u) to
+every preplay at which the random player is active.
+  Auxiliary definitions and notation: The probability assigned to a choice a 0
+E b(u) by pu is denoted pu ( a0). The length of a path u = sat...ak is the num-
+ber k of choice combinations following s in u. The length of u is denoted by
+ |u|.
+   Comment: Our framework does not exclude multistage games without an
+upper bound on the length of a preplay. Multistage game models usually
+have a finite number of stages. Arbitrarily long preplays cannot arise in such
+models. However, we aim at a definition which also covers delay supergames
+without any bound on the number of periods. Unbounded delay supergames
+will involve stopping probabilities which have the effect that with probability
+1 the game ends in finite time and that expected payoffs can be defined. In
+order to achieve this purpose for our general framework we impose a joint
+condition on the choice set function A and the probability assignment p.
+   Random stopping condition: A positive integer µ and a real number δ with 0
+< δ < 1 exist such that for every preplay u with |u| 1 2 l.t the choice set A0(u)
+contains a choice ω) with p,,(o) 2 δ and with the following property: If ω is
+the random player’s component of a E A(u), then v = ua is a play.
+   We shall only consider multistage games, for which the random stopping
+condition is satisfied. It will always be assumed that this is the case.
+
+
+
+
+to every play z E Z. The components h,(z) of h(z) are real numbers. h,(z) is
+player i’s payoff for z.
+   Boundedness of payoffs: We only consider payoff functions with the property
+that constants C0 and C1 exist such that
+
+
+
+
+We impose this boundedness condition in order to make sure that expected
+payoffs can be defined. In view of the intended application to delay super-
+games, it is important to permit an increasing linear dependence on the
+length of a play. It will always be assumed that payoffs are bounded in this
+way.
+
+
+206                           Economic Sciences 1994
+
+
+
+
+is composed of four constituents, a start s, a choice set function A, a proba-
+bility assignment p and a payoff function h, with the properties explained
+above (see 2.1, 2.2, and 2.3).
+   A multistage game G = (s, A, p, h) is called bounded, if in G the length of a
+path is bounded from above. Obviously in such games a maximum length M
+of a path exists. It can be seen immediately that the existence of this maxi-
+mum length M implies that the random stopping condition of 2.2 holds with
+µ = M simply because there are no preplays u with |u| ( 2 M.
+
+
+
+2.5 Strategies
+
+In sections 2.5 - 2.7 all definitions will refer to a fixed but arbitrary multista-
+ge game G = (s, A, p, h). The set of all preplays at which player i is active is
+denoted by Pi. We call Pi player i’s preplay set. A local strategy of a personal play-
+er i at a preplay u E Pi is a probability distribution biu over player i’s choice
+set Ai(u) which assigns positive probabilities to finitely many choices only.
+The probability assigned to a choice ai E A,(u) by biu is denoted by bi,,(ai).
+   A behavior strategy bi of player i is a system of local strategies
+
+
+
+
+specifying a local strategy biu for every preplay u of player i. Player i’s preplay
+set Pi may be empty. In this case the definition of a behavior strategy is to be
+understood in such a way that player i has exactly one behavior strategy, the
+empty strategy.
+   Comment: In multistage games every player is always fully informed about
+all choices on previous stages. This implies that such games have perfect
+recall. It is clear that the extensive games representing a multistage game
+have the formal property of perfect recall as it is usually expressed (Kuhn
+1953, Selten 1975). Kuhn (1953) has proved a theorem which shows that
+without any essential loss the noncooperative analysis of finite extensive
+games with perfect recall can be restricted to behavior strategies. Aumann
+(1964) has generalized this theorem to extensive games in which a conti-
+nuum of choices may be available in some choice sets. This is important in
+the context of multistage game models which usually involve continuously
+varying decision parameters.
+   In order to avoid tedious technical detail we shall restrict our attention to
+finite local strategies, i.e. local strategies with a finite carrier and finite be-
+havior strategies which specify such local strategies only.
+   Further definitions: A local strategy is called puke if it assigns probability 1 to
+one of the choices. Pure local strategies can be identified with choices. The
+
+
+                                    Reinhard Selten                               207
+
+set of all finite local strategies of a player i at a preplay u E Pi is denoted by
+B,,. The set of all behavior strategies of a personal player i is denoted by B i.
+A pure strategy of a personal player i assigns a pure local strategy or, in other
+words, a choice at u to every u E Pi.
+   A strategy combination b = (b1,...,b n) is an n-tuple specifying a behavior stra-
+tegy bi for every personal player. A strategy combination is called pure, if all its
+components are pure. The set of all strategy combinations is denoted by B.
+
+
+2.6 Realization probabilities
+
+Consider a strategy combination b = (b,,..., b,) and a preplay u. For every
+personal player i active at u let biu be the local strategy assigned to u by b i.
+For every choice combination
+
+
+
+
+In this way a probability distribution bu over A(u) is associated to a strategy
+combination b = (b1,..., bn) and a preplay u.
+   Now consider a path v E V with v = sa1...a k. We say that a path u = sa1...a j
+is on v if we have j 5 k and the first choice combinations a1,...,a j are the same
+in u and v. The realization probability of v under b = (b 1,...,b n) is the product of
+all bu(a) with ua on v: This probability is denoted by b(v).
+
+
+
+
+The realization probability of v = sa1...a k is interpreted as the probability that
+in the course of playing the game with the strategies in b the play passes the
+choice combinations a1,...,a k one after the other.
+
+
+2.7 Expected payoffs
+
+For every strategy combination b = (b 1,...,b n) we shall define expected payoffs
+H i(b) for every personal player i = 1,..., n. We shall focus on a fixed but arbi-
+trary personal player i. In the case of a bounded multistage game G player i’s
+expected payoffs are defined as follows:
+
+
+208                            Economic Sciences 1994
+
+
+In the following we shall assume that G is an unbounded multistage game. In
+this case the definition of expected payoffs is essentially the same as in the
+bounded case, but it needs to be elaborated, since infinite sums do not neces-
+sarily converge. For k = 0,1,... let Zk, be the set of all plays z with |z| = k. Player
+i’s expected payoff Hi(b) is defined as
+
+
+
+
+Since all local strategies assign positive probabilities to finitely many choices
+only, these sums are finite. Let µ and δ be numbers such that the random
+stopping condition holds with these numbers. The random stopping condi-
+tion permits the conclusion that for k = p, p+l,... we have
+
+
+
+
+and therefore
+
+
+
+Another conclusion from the second last inequality is the following one
+
+
+                                    Reinhard Selten                              209
+
+
+
+
+3. Equilibria
+
+In this section we shall first define equilibrium in the framework of the mul-
+tistage game. Then we look at subgames and subgame perfectness will be
+defined. As before, all definitions refer to a fixed but arbitrary multistage
+game G = (s, A, p, h).
+
+
+3.1 Equilibrium
+
+An i-incomplete strategy combination bi is an (n-1)-tupel of behavior strategies bj
+with one strategy for all personal players except player i:
+
+
+
+
+   A strategy combination b = (b,,... b,) is an equilibrium, if it is a best reply to
+itself. An equilibrium set E is a set of equilibria with the property that the pay-
+off vector H(b) is the same one for all b E B.
+
+
+210                             Economic Sciences 1994
+
+
+The set of all these paths is denoted by U u . Paths in Uu are at the same time
+paths in G starting with s and paths in Gu starting with u. The probability
+assignment p u is the restriction of pu to Uu . The set of all plays in G u is deno-
+ted by Zu . The payoff function hu is the restriction of h to Zu . It can be seen
+immediately that u, A u , pu and h u form a multistage game with all the pro-
+perties required in 2.1, 2.2, and 2.3.
+   Comment: Even if we did not formally describe how a multistage game is
+mapped to an equivalent extensive game, it can be seen without difficulties
+that the subgames defined above correspond to the subgames of an equiva-
+lent extensive form.
+
+
+3.3 Subgame perfectness
+
+We continue to look at a subgame G u of G. The set of all preplays in U U a t
+which player i is active is denoted by Pill. The restriction of a behavior strate-
+gy bi for G to P,” is a behavior strategy bill for the subgame Gu . We say that biu
+is the strategy induced by bi on G u . Similarly a strategy combination b u =
+(b,l’,..., b nu ) is induced by b = (b1,...,b n) if for i = l,..., n the behavior strategy
+b iu is induced by bi on Gu . An i-incomplete strategy combination bu, is indu-
+ced by an i-incomplete strategy combination b-1 if every component of bu., is
+induced by the corresponding component of b -1. A set Eu of strategy combi-
+nations for G u is induced by a set E of strategy combinations for G , if Eu is the
+set of all strategy combinations bu induced by strategy combinations b E E.
+     Let r i be a best reply to a strategy combination b = (b 1,...,b n) of G. For
+every subgame G u of G let riu , be the strategy induced by r i on G u and b u =
+(b1u ,..., bnu ) the strategy combination induced by b on G u . We say that ri is a
+subgame perfect best reply to b if for every subgame Gu of G the behavior strate-
+gy riu , is a best reply to bu .
+     An equilibrium g = (6 1,..., E,,) is subgame perfect if it induces an equilibrium
+on every subgame Gu of G or, in other words, if for i = 1,...,n the behavior
+strategy bi is a subgame perfect best reply to i. Similarly an equilibrium set
+E of G is subgame perfect if it induces an equilibrium set E U on every subgame
+G u of G.
+
+
+4. Delay supergames
+
+In this section delay supergames will be formally defined. A game of this kind
+is associated with a bounded multistage game G. In addition to the underly-
+ing game G the description of a delay supergame involves further specifica-
+tions. It is necessary to specify delays after which decisions made on different
+stages become effective, stopping probabilities as a function of time and ini-
+tial conditions on what is carried over from the past.
+   The interpretation of a delay supergame will focus on the case that in the
+underlying bounded multistage game K decision variables are fixed one after
+the other by some or all players in K successive stages. The definition of a
+
+
+                                   Reinhard Selten                             211
+
+multistage game does not exclude the possibility that different kinds of deci-
+sions have to be made at different preplays of the same length. However, in
+such cases it may not be adequate to assume that the delay after which a deci-
+sion becomes effective depends only on the length of the preplay at which it
+is made.
+   In section 4 all definitions refer to a fixed but arbitrary bounded multista-
+ge game G = (s, A, p, h) in which the maximum length of a play is K. A delay
+supergame of G is itself also a multistage game G* = (s*, A*, p*, h*) whose
+constituents are derived in a systematic manner from G and some additional
+specifications to be explained in 4.1 - 4.4.
+
+
+4.1 Delay vector
+
+
+
+
+The number mk is called the delay of stage k. It is interpreted as the number
+of periods after which a decision on stage k becomes effective.
+
+
+4.2 Stopping rule
+
+A delay supergame of G begins with an initial period t, and is played either for
+at most finitely many periods to,..., T or for potentially infinitely many
+periods t,,, t, + 1,... In the first case the delay supergame is bounded and in
+the second case it is unbounded. In the bounded case a reachable period is one
+of the periods to,..., T. In the unbounded case all periods t,, t, + 1,... are rea-
+chable. The set of all reachable periods is denoted by R.
+  A stopping rule w assigns a stopping probability wt with
+
+
+
+
+to every reachable period t E R. The stopping probability wt is interpreted as
+the conditional probability with which the delay supergame stops in period
+t, if period t-l has been reached. As will be explained later, no payoffs are
+obtained for period t if the game stops in period t. The players do not know
+whether the game stops in t when they make their choices at t. This depends
+on a random choice at t. All choices at t including this random choice are
+thought of as being made simultaneously. In the bounded case the game
+always stops after period T, if it is reached.
+   We think of w as a function together with the set R on which it is defined.
+
+
+212                           Economic Sciences 1994
+
+
+In the bounded case, T will always denote the last reachable period. In the
+unbounded case we shall always assume that w satisfies the following stop-
+ping requirement.
+   Stopping requirement: A real number 6 with 0 < δ < 1 and a positive integer
+µ exist, such that the following is true:
+
+
+
+
+As we shall see later, this stopping requirement secures the random stopping
+condition of 2.2 for unbounded delay supergames.
+
+
+4.3 The initial status assignment
+
+In the following m will always be a fixed but arbitrary delay vector, t o will stand
+for the initial period, and w will be a fixed but arbitrary stopping rule.
+
+
+
+
+   Consider a delay m k and a reachable period t,,t z with t < mk The inter-
+pretation of mk as the delay until a stage-k-decision becomes effective sug-
+gests that a stage k decision for period t,,t 2 should not be modelled as being
+made within the delay supergame but rather as predetermined by the past.
+Accordingly the definition of a delay supergame associated with G requires
+the specification of all decisions of this kind in a way which will be explained
+below.
+
+
+                                   Reinhard Selten                             213
+
+The notation x(., s*) will be used for the initial status assignment. In the fol-
+lowing x(., s*) will always be a fixed but arbitrary initial status assignment
+fitting the delay vector m and the stopping rule w.
+
+
+4.4 Initial payoff vector
+
+As in an ordinary supergame in a delay supergame payoffs for the periods
+played are accumulated as the game goes on. However, it will be convenient
+to permit the possibility that some fixed payoffs will be earned in addition to
+this. One may think of these payoffs as carried over from the past in a simi-
+lar fashion as the initial status assignment x(.,s*). Such payoffs carried over
+from the past arise naturally in subgames of delay supergames.
+   An initial payoff vector
+
+
+
+
+is an n-vector with real valued components. c, is called player i’s initial payoff:
+In the following c will always be a fixed but arbitrary initial payoff vector.
+The inclusion of an initial payoff vector among the specifications of a delay
+supergame has the purpose to define a delay supergame in such a way that
+the concept also covers the subgames of delay supergames.
+
+
+4.5 The choice set function of the delay supergame
+
+In 4.1 - 4.4 we have explained what has to be specified in order to describe
+a delay supergame associated to a bounded multistage game G: A delay vec-
+tor m, an initial period t,, a stopping rule w, an initial status assignment
+x(.,s*), and an initial payoff vector c determine a delay supergame G*= T(G,
+m, w, x(.,s*), c). One may look at I- as a function which assigns a multistage
+game G* to every bounded multistage game G augmented by the additional
+specifications shown as arguments of r. This will be made precise below.
+   The upper index * will be used wherever notation aims at details connec-
+ted to G* which have a counterpart in G, e.g. preplays, plays, etc. . The star
+will not be used for symbols like m, w, x, and c which need not be distingu-
+ished from corresponding objects in G.
+   The start s* is a symbol which represents the situation before period t. We
+now recursively define the choice set function A*, the path set U*, and the
+status function x(.;) which assigns a path of G to every pair (t, u*) of a rea-
+chable period t and a path u* E U*. It is clear that s* is a path and that for
+all reachable t the status x(t, s*) is already given by the initial status assign-
+ment. The recursive definition rests on this basis.
+   For i = 0,...,n and for every path u* of G* let Di(u*) be the set of all rea-
+chable periods of the form t,+lu*lt mk with k = l,..., K for which 4 (x(&u*))
+is non-empty. Di(u*) is interpreted as the set of all periods for which i has to
+make a decision at u*, if u* is a preplay. We refer to the elements of Di(u*)
+as the aim periods and to Di(u*) as the aim period set at u*. The union of all
+
+
+214                           Economic Sciences 1994
+
+
+D i(u*) with i = 0,...,n is denoted by D(u*). This set is called the joint aim peri-
+od set at u*.
+    For i = 0,...n and every path u* let A*.,(u*) be the set of all systems of the
+form
+
+
+
+
+If u* is a preplay, then the elements a i* of A.i* are choices of player i and in
+the case of a personal player i, all choices of player i. The component a it of
+ai* is called player i’s decision for t at u *. The random player has an additional
+choice ω, the stopping choice, at every preplay. If A.,(u*) is empty the random
+player also has a continuation choice 8
+
+
+
+
+It still needs to be explained what distinguishes a play z* from a preplay u*.
+A play z* must be of the form
+
+
+
+
+In case (2) we speak of a maximal play and in case (1) of a submaximal play.
+In unbounded delay supergames plays cannot end in any other way than by
+a random choice ao*= ω. However, in a bounded delay supergame a play can
+extend over all T-t,+1 reachable periods t,,...,T. The length of a maximal
+play is |z*| = T-t,tl.
+   The periods of a play z* in which the random choice was not ω are called
+unstopped. The last period t,t |z*| -1 of a submaximal play is called stopped.
+The set of all unstopped periods of a play z* is denoted by L(z*). The set
+L(z*) can be empty. This happens if already t o is stopped. In 4.7 it will be
+explained that in the course of a play payoffs are accumulated for unstopped
+periods only.
+
+
+                                  Reinhard Selten                            215
+
+In order to complete the definition of the choice set function we still have
+to describe how the status of a reachable period t changes in the course of
+playing the game. For every path of the form u*a* the status x(t,u*a*) of t at
+u*a* is recursively defined as follows:
+
+
+
+
+for every preplay u* and every a* E A* (u*). This means that the status of t
+at u* is changed by the decisions for t in a* but, of course, only if t is an aim
+period of u*. It is clear how the choice set function A*, the preplay set U*,
+the preplay set Z *, and the status function x(.;) are determined by the joint
+recursive definition given above.
+
+
+4.6 The probability assignment of the delay supergame
+
+The probability of a random choice ao* at a preplay u* according to the pro-
+bability assignment p* of G* may be thought of as the result of independent
+random draws according to p for all aim periods in D o (u*) combined with
+an independent decision on whether to stop with probability w |u*| or to cont-
+inue. In order to make this more precise consider a random choice a,* at a
+preplay u* of G*. For every t E Do (u*) let TC’ be the probability
+
+
+
+
+Moreover let π be the product of all xt with t E Do (u*). Then we have:
+
+
+
+
+It can be seen without difficulty that the random stopping requirement
+imposed on w in 4.2 secures the random stopping condition of 2.2 for p*.
+
+
+216                          Economic Sciences 1994
+
+  In the delay supergame G* payoffs for a play z* are composed of initial
+payoffs and of payoffs for unstopped periods accumulated as z* is played:
+
+
+
+
+No payoffs are obtained for a stopped period, in which the random choice was
+ω. The choice of ω is thought of as immediately effective in the sense that the
+period is stopped already at its beginning.
+   From what has been explained in 4.5 and 4.6 it is clear that s*, A*, and p*
+satisfy the conditions jointly imposed on the start, the choice set function
+and the probability assignment of a multistage game. In order to see that G*=
+(s*,A*,p*,h*) has all the properties of a multistage game it remains to show
+that h* satisfies the boundedness condition of 2.3.
+   Since G is bounded and K is the maximum length of a play z of G it fol-
+lows by the boundedness condition for G that we have
+
+
+
+
+for some constants Co and C1. Let C1* be the right hand side of this inequa-
+lity and let Co * be the maximum of the |ci|. Obviously h* satisfies the boun-
+dedness condition with C o * and C1 * in the place of C o and C1.
+   We have now completed the definition of the delay supergame
+
+
+
+
+and we have shown that G* is a multistage game.
+
+
+4.8 Expected payoffs in delay supergames
+
+
+                                    Reinhard Selten                              217
+
+We call b* (t,z) the realization probability of z in period t under b* and Ft(b*) the
+period payoff vector of t for b*. The component F,‘(b*) is player i’s period payoff
+of t. Obviously we have:
+
+
+
+
+for every strategy combination b* in G*
+
+
+4.9 The subgames of a delay supergame
+
+Let s+ be a preplay of G* with |s+| 2 1 and let
+
+
+
+
+be the subgame of G* at s+. It can be seen without difficulty that G+ is a delay
+supergame of G: The game G+ starts with period t+= t,+ Is+I. The delay vector
+m is the same one as in G*. The stopping rule w + is the restriction of w to the
+reachable periods t,+, t,++ l,... . The initial status assignment of G+ is x (.,s+).
+The initial payoff vector C+ of G+ is as follows:
+
+
+
+
+5. Relationship between subgame perfect equilibria in bounded multistage games
+    and their delay supergames
+
+On the basis of the definitions given in previous sections, it will now be pos-
+sible to make two statements about the relationship between subgame per-
+fect equilibria in bounded multistage games and their associated delay super-
+games. These statements provide a precise interpretation of the non-coope-
+rative analysis of a bounded multistage game model in terms of its associated
+delay supergames.
+   As before G = (s, A, p, h) will be a bounded multistage game and G*= (s*,
+A*, p*, A*) will be one of its delay supergames with the additional
+specifications m, w, x (. , s*) , and c.
+
+
+5.1 Generated strategies
+
+Let b i be a behavior strategy of player i for G. The behavior strategy b i*
+generated by bi in G* is defined as follows
+
+
+218                               Economic Sciences 1994
+
+
+
+with
+
+
+
+
+for every ai* E Ai (u*). This means that at u* decisions for the aim periods
+are chosen by independent draws with the appropriate probabilities specifi-
+ed by bi. It is clear that bi* has the properties of a behavior strategy for G*.
+   We say that b* = ( b1*,..., b n * ) is generated by b = (b1 ,..., bn) if for i = 1,..., n the
+behavior strategy b i* is generated by bi. Similarly an i-incomplete strategy
+combination b-i* is generated by b-i, if the components of b-i* are generated by
+the corresponding components of b-i.
+   The set of all preplays v* of G+ with |v*| = t-to is denoted by Q*. (This defi-
+nition is not exactly analogous to that of (2, in 2.7.) The preplays in Q* are
+those which are followed by choices at period t. We shall have to look at the
+probability that one of these preplays is reached and that then the game is
+not stopped in period t. This probability, denoted by W t is the product of the
+t-t,+ 1 terms l-w, with ‘t = t,,,..., t. Obviously a payoff for period t is obtained
+with probability Wt. Therefore we call Wt the payoff probability of t.
+   For every reachable period t E R the subgame of G at the initial status x
+(t, s*) will be denoted by Gt = (st, At, pt, ht). Of course, st is just another name
+for x (t, s*). Let b = (b1,...,b,) be a strategy combination for G and for every
+t E R let bt = (blt,...,b,t) be the strategy combination induced by b on G t.
+Moreover let b* be the strategy combination generated by b in G*. Then we
+have:
+
+
+
+
+where H t is the expected payoff function for Gt. This yields
+
+
+
+
+In this way expected payoffs for strategy combinations generated in delay
+supergames can be expressed as payoffs in subgames of the underlying boun-
+ded multistage game.
+
+
+5.2 Generated subgame perfect best replies
+
+In this section we prove a lemma which leads to the conclusion that a sub-
+game perfect equilibrium generates a subgame perfect equilibrium.
+
+
+                                   Reinhard Selten                            219
+
+Lemma 1: Let b = ( b1,..., b n ) be a strategy combination for G and let b*
+= (b1*,...,b n*) be the strategy combination generated by b in G*. Moreover
+let ri be a subgame perfect best reply to b and let ri* be generated by ri in G*.
+Then r i* is a subgame perfect best reply to b*.
+   Proof Let b -i a n d b -i * be the i-incomplete strategy combinations whose
+components are in b and b* respectively. Let f i* be any behavior strategy for
+G*. We are interested in player i’s period payoffs Fit (f i* bi*). As before, Q*
+is the set of all preplays v* with |v*| = t-to. For every period t E R, every pre-
+play v* E Q*, every preplay u of Gt and every choice ai E Ai(u) let
+
+
+
+
+be the probability with which ai is chosen as player i’s decision for t at the
+appropriate place on the path v*. Obviously fiUv* is a local strategy at u. Let
+fT* be the behavior strategy for Gt which assigns these local strategies to the
+preplays of Gt. For every preplay v* E Q* let cp (v*) be the conditional pro-
+bability that v* is realized by fiv*b.i* under the condition that a preplay in Q*
+is reached. This conditional probability is well defined, since every reachable
+period is reached with positive probability. We have:
+
+
+
+
+Since ri is a subgame perfect best reply to b-i we have:
+
+
+
+
+In view of the fact that cp (.) is a probability distribution over Q* this yields
+
+
+
+
+This is true for every reachable period t. Therefore we can conclude that
+
+
+
+
+holds for every strategy fi* for G*. Consequently ri* is a best reply to b*. Since
+the subgames of G* are delay supergames, the same argument can be appli-
+ed to all subgames of G*. This shows that r* is a subgame perfect best reply
+to b*.
+
+
+5.3 Subgame perfect equilibria generate subgame perfect equilibria
+
+The first main conclusion of this paper is the following theorem.
+   Theorem 1: Let b be a subgame perfect equilibrium of a bounded multista-
+ge game G and let b* be the strategy combination generated by b in a delay
+
+
+220                         Economic Sciences 1994
+
+
+supergame G* of G. Then b* is a subgame perfect equilibrium of G*.
+  Proof: The assertion is an immediate consequence of the lemma of 5.2
+
+
+
+5.4 Determinate multistage games
+
+A multistage game is called determinate, if it has at least one subgame perfect
+equilibrium and if, in addition to this, the set of all its subgame perfect equ-
+ilibria is a subgame perfect equilibrium set. In the following we shall intro-
+duce some definitions and notations connected to determinate bounded
+multistage games.
+    Let G be a determinate multistage game. Let E be the set of all subgame
+perfect equilibria of G. Since G is determinate, E is a subgame perfect equi-
+librium set of G. For every subgame Gu of G at a preplay u of G let E u be the
+set induced by E on Gu . Since E is a subgame perfect equilibrium set, Eu is a
+subgame perfect equilibrium set, too. Moreover E u is the set of all subgame
+perfect equilibria of Gu. For every preplay u of G let
+
+
+
+
+be the common expected payoff vector H u ( bu ) for all bu E E,. The game G
+itself is a subgame of G at the start s of G. Accordingly e(s) is the common
+payoff vector H(b) for all b E E. For the case that u is a play define e(u) =
+h(u) . We call e(u) the replacement payoff vector at u and refer to ei(u) as the
+replacement payoff of player i.
+   The name “replacement payoff” suggests itself by the use of which we are
+going to make of e(u). For every preplay v of G we construct a truncated sub
+game G,. This game Gv results from the subgame Gv as follows: Every subga-
+me G u of Gv with u = va and a E A(v) is replaced by the payoff vector e(u).
+This means that all preplays u = va are plays of Gv with the payoff vector
+
+
+
+
+It can be seen without difficulty that a subgame perfect equilibrium b V of Gv
+induces an equilibrium on Gv. We shall make use of a simple fact expressed
+by the following lemma.
+   Lemma 2: Let r, = (rVl ,..., rvn) be an equilibrium of a truncated subgame Gv
+of a determinate multistage game G. Then we have
+
+
+
+where Hv is the expected payoff function of Gv and e(v) is the replacement
+payoff vector at v in G.
+   Proof: Let bv = (b,“,..., b n ) be a subgame perfect equilibrium of the subga-
+                                v
+
+
+
+me G . Let r be the strategy combination whose components r iv assign the
+      v       v
+
+
+
+local strategy riv to v and agree with bc everywhere else. It can be seen imme-
+
+
+                                    Reinhard Selten                              221
+
+diately that rV is a subgame perfect equilibrium of GV . It is also clear that the
+payoff vector for rV in Gv is nothing else than the payoff vector for rV in Gv. In
+view of the determinateness of G we have
+
+
+
+
+for every preplay v of G.
+
+
+5.5 Determinateness of bounded delay supergames of determinate bounded multi-
+     stage games
+
+The following theorem is the second main conclusion of this paper.
+Theorem 2: Every bounded delay supergame of a determinate bounded
+multistage game is determinate.
+   Proof: Let G be a determinate bounded multistage game and let G* be one
+of its bounded delay supergames. Since G is determinate, G has at least one
+subgame perfect equilibrium. Let r be a subgame perfect equilibrium of G
+and let r* be the strategy combination generated by r in G*. In view of theo-
+rem 1, this strategy combination r* is a subgame perfect equilibrium of G*.
+It remains to show that all subgame perfect equilibria of G* form a subgame
+perfect equilibrium set. We shall prove this by induction on the number
+T-t,+ 1 of the reachable periods to... T of G*.
+   Consider first the case T-t,,+ 1 = 1 in which t,,= T is the only reachable peri-
+od. The game ends after the choice combination at t o . All plays have the
+form s*a with a E A(s*). A strategy combination for G* is a strategy combi-
+nation for G,. with v = x( t,, s*). It follows by lemma 2 that the same expected
+payoff vector is obtained for all equilibria of G*. Consequently G* is deter-
+minate.
+   From now on assume that the number of reachable periods in G* is grea-
+ter than 1 and that the assertion holds for all delay supergames with a smal-
+ler number of reachable periods.
+   As above let r be a subgame perfect equilibrium of G and let r* be gene-
+rated by r in G*. All subgames of G* at preplays of the form s*a* with a* E
+A*(s*) are determinate since they have a smaller number of reachable
+periods. A strategy bi* of a personal player i for G* is called semigenerated by
+r if for all preplays v* of G* with Iv*1 > 0 the local strategy assigned to v* is the
+local strategy assigned by r*. In view of the determinateness of the subgames
+of G* starting with period t,,+ 1 the payoffs in these subgames and their sub-
+games do not depend on the particular subgame perfect equilibrium played.
+Therefore it is sufficient to show that the set of all equilibria in strategies
+semigenerated by r is an equilibrium ser.
+   It follows by lemma 1 that it is always possible to find a semigenerated sub-
+game perfect best reply to a combination of semigenerated strategies for G*.
+
+
+222                           Economic Sciences 1994
+
+
+It can be seen easily that in the case of a combination of strategies semige-
+nerated by r, a subgame perfect best reply can be found among the strategi-
+es semigenerated by r.
+   In order to show that the set of all equilibria in strategies semigenerated
+by r is an equilibrium set it is sufficient to look at the following truncated game
+G+ of G*. This game G+ results from G* by the replacement of all subgames
+at preplays of the form s*a* with a* E A*(s*) by their subgame perfect equ-
+ilibrium payoff vectors. This game G+ is a multistage game with only one
+stage. The pure strategies of the personal players in G + are their choice sets
+A,*(s*). For the sake of shortness we write A i+ instead of Ai*(s*) for i = 0,...,
+n and A+ instead of A* (s*) .
+   It can be seen immediately that the subgame perfect equilibria in strate-
+gies semigenerated by r form an equilibrium set if the set of all equilibria of
+the truncated game G + is an equilibrium set. It remains to show that this is
+the case. For this purpose we shall look at the expected payoff H + (a*) for a
+choice combination a* E A+. Let N+ be the set of players active at s* in G*.
+For i = O,..., n let Di+ be the aim period set Di(s*) and let D+ be the aim peri-
+od set D(s*).
+   Let a* E A* be a choice combination. For every i E N+ let ai* be the choi-
+ce of i in a* and for every t E D,+ let ait be the decision for t specified by ai*
+and at the decision combination specified by a* for t. After the choice of a*
+every reachable period has the status x (t,s*a*) Later decisions for t are
+made with the probabilities required by r. Therefore the expected period
+payoff vector of t for a* is e(x(t,s*a*)) multiplied by W t. This yields
+
+
+
+
+We have
+
+
+
+
+The period payoff vectors for t E R \ D+ do not depend on a*. Let J be the
+sum of all these period payoff vectors and c. We obtain
+
+
+
+
+Let f = (f1,..., fn) be a strategy combination for G+. For every i E N+ , every t
+E D+ , and every ait E A,(x(t,s*)) let fit(ait) be the probability that a choice ai*
+is taken by fi which specifies ait as the decision for t. The function fit defined
+in this way is a behavior strategy for the truncated subgame of G at x(t,s*).
+The symbol Gt is used for this game. Let P = (flt,...,f,t) be the strategy com-
+
+
+                                   Reinhard Selten                             223
+
+
+
+
+Let f = (f1,..., fn) be a strategy combination for G+ . It will now be shown that
+the following is true: if f is an equilibrium of G+ , then for every t E D+ the
+strategy combination f’ must be an equilibrium of Gt. In order to see this,
+suppose that for one t E D+ this is not the case. Then in G t one personal play-
+er i has a pure best reply &I which yields a better payoff against the strategi-
+es of the others in f’ than fit does. If this is the case, player i can improve its
+payoff by the following change of behavior: If f i selects a choice ai* which
+does not specify ii for t, then the choice specified by ai* for t is replaced by
+-t
+ai and the changed choice resulting from a i * in this way is taken. Otherwise
+the behavior prescribed by fi remains unchanged. The behavior strategy g i
+thereby obtained improves player i’s period payoff for t and lets other peri-
+od payoffs of player i unchanged.
+   It is a consequence of the determinateness of G that for every t E D+ the
+set of all equilibria of Gt is an equilibrium set. Otherwise it would be possi-
+ble to construct two subgame perfect equilibria of the subgame Gt at x(t,s*)
+of G with different payoff vectors. We can conclude that the set of all equili-
+bria of G+ is an equilibrium set. This completes the proof of the theorem.
+
+
+6. Discussion
+
+After the concepts and conclusions of this paper have been made precise
+their significance for economic theory will be discussed in this section.
+
+
+6.1 The relationship between multistage games and their delay supergames
+
+Multistage game models often do not really aim at one shot strategic inter-
+actions in which stage decisions are made once and for all in a strict tempo-
+ral order, but rather ongoing situations, in which decisions represented as
+made at earlier stages are thought of as more long term than those made on
+later stages. What is the essential difference between more long term and
+more short term decisions? It has been argued in the introduction that in
+many cases the distinguishing feature seems to be the length of the delay
+until a decision becomes effective. The formal elaboration of this idea leads
+to the notion of a delay supergame of a multistage game.
+   Of course, other differences between more long term and more short
+term decisions may also enter the picture in specific applications. It is not
+
+
+224                           Economic Sciences 1994
+
+
+clear to what extent additional distinguishing features like greater change
+costs for more long run decisions would force us to modify our conclusions.
+This is a question which needs to be explored with the help of more general
+dynamic game models associated to multistage games. No attempt in this
+direction can be made here. The conclusions drawn in this paper cannot
+claim to achieve more than a precise interpretation of subgame perfect equ-
+ilibria in multistage game models which do not permit a direct temporal
+interpretation of the order of stages. In this way the gap between model and
+reality is not closed, but maybe diminished or at least illuminated.
+
+
+6.2 Consequences of the assumption of full rationality
+
+In the remainder of the paper we shall always look at a bounded multistage
+game and one of its delay supergames. We first discuss the consequences of
+the assumption that the delay supergame is played by fully rational players
+with common knowledge about its rules. In the case of a unique subgame
+perfect equilibrium set of the multistage game and a bounded delay super-
+game, theorem 2 yields the conclusion that the behavior to be expected in
+the delay supergame is essentially correctly described by the perfect equili-
+brium set of the multistage game. In this case not all subgame perfect equi-
+libria of the delay supergame are generated by those of the multistage game,
+but this does not matter as far as payoffs in the whole game and all its sub-
+games are concerned.
+   In all other cases we cannot say more than what has been shown by theo-
+rem 1. Every subgame perfect equilibrium of the multistage game generates
+a subgame perfect equilibrium of the delay supergame. In addition to this
+the delay supergame may have many other equilibria some of which may
+yield higher payoffs for all players. In such cases the non-cooperative analy-
+sis of the multistage game fails to reveal the potential for quasicooperative
+subgame perfect equilibrium behavior in the delay supergame. This raises a
+problem with respect to the interpretation of subgame perfect equilibria of
+the multistage game.
+
+
+6.3 The finiteness argument
+
+An upper bound, say a million years, can be named for the survival of any
+economic situation. Therefore unbounded delay supergames should be loo-
+ked upon as simplified descriptions of long lasting ongoing situations of fini-
+te duration. Conclusions which rest on the feature of unboundedness cannot
+be taken seriously. In this way the non-cooperative analysis of a multistage
+game with a unique subgame perfect equilibrium set can be defended as a
+satisfactory substitute for the full treatment of the delay supergame.
+However, is this argument really valid? Experimental results clearly show, that
+experienced players cooperate in 10-period supergames of the prisoner’s
+
+
+                                      Reinhard Selten                           225
+
+
+dilemma game until shortly before the end (Selten and Stoecker 1986) in
+spite of the fact that this is excluded by subgame perfect equilibrium.
+
+
+6.4 Slightly incomplete information
+
+In order to deal with the phenomenon of cooperation in finite prisoner’s
+dilemma supergames without an essential relaxation of rationality assump-
+tions one can take the point of view that the supergame is not the game real-
+ly played, and that instead of this the players are involved in an similar, but
+different game. Kreps, Wilson, Milgrom and Roberts (1982) assume that with
+a small probability a player may be of a different type, with preferences which
+make it profitable to take the cooperative choice as long as the opponent has
+been observed to do this. The introduction of such types transforms the
+supergame to a game with slightly incomplete information, and thereby
+opens quasicooperative opportunities similar to those in the case of infinite
+repetition.
+   The approach of Kreps, Wilson, Milgrom and Roberts (1982) is not a con-
+vincing explanation of the experimental evidence. If cooperation in the fini-
+tely repeated prisoner’s dilemma were the result of sophisticated rational
+deliberation, then it should be observed already in the first supergame play-
+ed and not only after a considerable amount of experience as it happens in
+our experiments (Selten and Stoecker 1986). Kreps and Wilson (1982) have
+applied the same incomplete information approach to the chain store para-
+dox (Selten 1978). Here, too, the experimental evidence points in a diffe-
+rent direction (Jung, Kagel, and Levin 1994). The bounded rationality
+approach of my (1978) paper seems to be in better agreement with the data.
+
+
+6.5 Institutional reasons for the absence of cooperation
+
+From what has been said up to now, it is clear that, even if the assumptions
+of theorem 2 are satisfied, we cannot rely on the descriptive validity of the
+non-cooperative analysis of the multistage game as a substitute for the full
+treatment of the delay supergame. However there may be institutional rea-
+sons for the exclusion of cooperation or subgame perfect quasicoope-ration
+in the supergame.
+   Consider the case of an oligopoly in an economy with strictly enforced car-
+tel laws and assume that the oligopolistic market is adequately modelled as a
+delay supergame of a bounded multistage game. Presumably the cartel laws
+forbid collusion, but what does this mean? Obviously the cartel laws cannot
+simply demand that a subgame perfect equilibrium of the delay supergame
+is played. This may fail to exclude subgame perfect quasicooperation.
+   It seems to be natural to define the absence of collusion as a state of affairs,
+in which a subgame perfect equilibrium of the delay supergame is played
+which is generated by a subgame perfect equilibrium of the underlying mul-
+tistage game. If the absence of collusion in this sense is effectively enforced,
+
+
+226                          Economic Sciences 1994
+
+
+then the non-cooperative analysis of the multistage game is a satisfactory sub-
+stitute for that of the delay supergame.
+   However, against this argument the objection can be raised, that it remains
+unclear, how the cartel laws are enforced. Presumably the enforcement agen-
+cy does not have the same knowledge of the market which is available to the
+oligopolists. The same may be true for the court to whom the oligopolists can
+appeal in the case of a disagreement with the cartel authority. It would be
+desirable to model the cartel authority explicitly as a player in order to throw
+light on its strategic interaction with the oligopolists.
+   In an open oligopoly collusion may have the disadvantage that new
+entrants are attracted by high profits. This may have the effect that after the
+entry of new competitors the profits of the incumbents achieved by collusion
+are lower then they would have been without entry in the absence of collu-
+sion. In a paper with the title “Are cartel laws bad for business” (Selten 1984)
+I have presented a multistage game model which yields the conclusion that
+under plausible conditions about the distribution of the market parameters
+total profits of all firms in the economy are increased by effectively enforced
+cartel laws compared with a situation in which cartels can be legally formed.
+This effect is due to excessice entry in the absence of cartel laws. Thus the
+task of the cartel authority may be facilitated by an economy wide advantage
+for industrial enterprises, even if the firms on some markets would gain by
+the possibility of legal cartel formation.
+
+
+6.6 An adaptive interpretation
+
+Experimentally observed behavior is only boundedly rational and the same
+must be expected of the behavior of firms in real markets. Research on the
+behavioral theory of the firm (Cyert and March, 1963; Earl, 1988) provides
+ample evidence for this. In the following I shall try to present some tentative
+ideas on the consequences of bounded rationality for the interpretation of
+subgame perfect equilibria of multistage game models and those generated
+in their delay supergames. Admittedly my remarks in the remainder of the
+paper will be sketchy and speculative. No attempt is made to support them
+by a thorough examination of the relevant experimental literature.
+    Experimental subjects do not compute the solutions of complex optimi-
+zation tasks in order to make their decisions. Apart from very simple cases it
+cannot be expected that subgame perfect equilibria are found by rational
+deliberation. However this does not mean that such equilibria are irrelevant
+for the prediction of behavior. In repetitive experimental settings equilibria
+can be learned by adaptation to past experience.
+   The experimental literature on double auction markets initiated by Vernon
+Smith (1962, 1964) provides a well known example. Usually competitive equ-
+ilibrium is reached after a relatively small number of identical repetitions of
+the same market. The traders do not compute the equilibrium price.
+Convergence to competitive equilibrium is the result of an adaptive process
+
+
+                                    Reinhard Selten                                227
+
+
+which adjusts bids and asks to observed imbalances of supply and demand.
+   The double auction is a very complex game with incomplete information.
+Behavior does not converge to an equilibrium of this game, but rather to an
+equilibrium of a fictitious associated game with complete information, in
+which reservation prices and resale values of all traders are publicly known.
+Something similar can be observed in Cournot oligopoly experiments in
+which the producers are not informed about the costs of their competitors
+(e.g. Sauermann and Selten 1959). It is my impression that convergence to
+an equilibrium of the fictitious complete information game, which would be
+played if all private information were public, is favored by the incomplete
+knowledge about the other players’ payoffs. This lack of knowledge hides the
+quasicooperative opportunities of the complete information game.
+   In a bounded multistage game played just once, with stages following each
+other in temporal succession, adaptive adjustment processes cannot work.
+This is different in sufficiently long delay supergames. Here players repea-
+tedly face the necessity to adapt their decisions on all stages. There is a good
+chance that, under favorable conditions, subgame perfect equilibria genera-
+ted by those of the underlying bounded multistage game, are learnt by expe-
+rience. Conditions are favorable, if the game which is played is not really the
+delay supergame but a modified version with reduced payoff information in
+the following sense: The players have little knowledge about the other play-
+ers’ payoff functions and do not observe their payoffs. However as in the
+unmodified delay supergame they do observe the other players’ past choices
+and they know their own payoff functions.
+   My thoughts about the descriptive relevance of the non-cooperative analy-
+sis of multistage game models can be summarized by the following hypothe-
+sis: Learning in a modified delay supergame with reduced payoff information conver-
+ges to behavior in agreement with the predictions derived from a subgame perfect equi-
+librium of the underlying multistage game, the more so, the less the players know about
+other players’ payoffs.
+  It is necessary to run experiments specifically designed to test this hypot-
+hesis. If the hypothesis succeeds to survive the tests, it will provide descripti-
+ve content to the non-cooperative analysis of multistage game models.
+
+
+6.7 Non-monetary motivation
+
+The hypothesis stated above may have to be weakened in several directions.
+One difficulty which may arise is the influence of non-monetary motivation.
+The monetary payoffs offered in an experimental game are often not the
+only motivational factors present. The ultimatum game has an obvious sub-
+game perfect equilibrium, if only monetary payoffs are considered, but non-
+monetary motivational forces make it unacceptable for the recipient of the
+ultimatum (Güth, Schmittberger and Schwarze, 1982; Güth and Tietz 1990).
+In the case of the ultimatum game the motivational force is resistance to
+unfairness.
+
+
+228                        Economic Sciences 1994
+
+
+Another motivational factor is clearly visible in an experimental labor mar-
+ket (Fehr, Kirchberger and Riedl 1993). A reciprocity norm induces employ-
+ees to supply more effort than they have to as a voluntary reward for high
+wages, in a situation which excludes reputation effects by the experimental
+set up. This results in considerable deviations from competitive equilibrium.
+   Much more could be said about the experimental evidence for non-mone-
+tary motivations, but this will not be done here. Interestingly resistance to
+unfairness and reciprocity both depend on at least some knowledge of the
+other player’s payoff. A lack of such knowledge does not only hide quasi-
+cooperative opportunities but also weakens the force of social norms which
+facilitate non-equilibrum cooperation. However, one cannot expect that it
+will always be possible to ignore the influence of non-monetary motivational
+forces on behavior in modified delay supergames with reduced payoff
+information.
+
+
+                                       Reinhard Selten                                   229
+
+
+REFERENCES
+Aumann, R.J., 1959, Acceptable Points in General Cooperative n-Person Games, in: R.D.
+   Luce and A.W. Tucker (eds.) Contributions to the Theory of Games IV , Ann. Math. Study 40,
+   Princeton, NJ., 287 - 324
+ Benoit, J.P., and V. Krishna 1985, Finitely Repeated Games, Econometrica 53, 905 - 922
+ Cournot, A., 1838, Recherches de la théorie des richesses, Paris
+ Fehr, E., G. Kirchsteiger, and A. Riedl, 1993, Does Fairness Prevent Market Clearing?. An
+   Experimental Investigation, Quarterly Journal of Economics, 108, 2, 437 - 460
+ Fouraker, L.E., and S. Siegel 1963, Bargaining Behavior; New York
+ Friedman, J., 1977, Oligopoly and the Theory of Games , North-Holland Publishing
+   Company, Amsterdam-New York-Oxford
+ Güth W., R. Schmittberger, and B. Schwarze, 1982, An Experimental Analysis of
+   Ultimatum Bargaining, Journal of Economic Behavior and Organization, 3, 3, 367 - 88
+ Güth, W., and R. Tietz, 1990, Ultimatum Bargaining Behavior -A Survey and Comparison
+   of Experimental Results, Journal of Economic Psychology 11, 417 - 449
+ Hoggatt, A.C., 1959, An Experimental Business Game, Behavioral Science, 4, 192 - 203
+Jung, Y.J., J.H. Kagel, and D. Levin, 1994, On the Existence of Predatory Pricing: An
+   Experimental Study of Reputation and Entry Deterrence in the Chain Store Game,
+    Rand Journal of Economics 25, 1, 72 - 93
+ Kreps, D.M., and J.A. Scheinkman, 1983, Quantity Precommitment and Bertrand
+    Competition Yield Cournot Outcomes, Bell Journal of Economics, 14, 326 - 337
+ Marschak, Th., and R. Selten, 1978, Restabilizing Responses, Inertia Supergames and
+    Oligopolistic Equilibria, Quarterly Journal of Economics, 92, 71 - 93
+ Nash, J.F., 1951, Non-Cooperative Games, Annals of Mathematics 54, 286 - 295
+ Rubinstein, A., 1978, Equilibrium in Supergames with the Overtaking Criterion, Journal of
+   Economic Theory 21, 1 - 9
+ Rubinstein, A., 1980, Strong Perfect Equilibrium in Supergames, International Journal of
+    Game Theory 9, 1 - 12
+ Sauermann, H., and R. Selten, 1959, Ein Oligopolexperiment, Zeitschrift für die gesamte
+    Staatswissenschaft, 115, 427 - 471, 9 - 59
+ Selten, R., 1965, Spieltheoretische Behandlung eines Oligopolmodells mit
+    Nachfragetragheit, Zeitschrift für die gesamte Staatrwissenschaft, 121, 301 - 24, 667 - 89
+ Selten, R., 1973, A Simple Model of Imperfect Competition where 4 are Few and 6 are
+    Many, International Journal of Game Theory 2, 141 - 201. (Reprinted in Selten, R., 1988,
+    Models of Strategic Rationality, Dordrecht: Kluwer)
+ Selten, R., 1978, The Chain Store Paradox, Theory and Decision, 9, 127 - 159 (Reprinted in
+    Selten, R., 1988, Models of Strategic Rationality, Dordrecht: Kluwer)
+ Selten, R., 1984, Are Cartel Laws Bad for Business? in H. Hauptmann, W. Krelle and K.C.
+    Mosler (eds.) Operations Research and Economic Theory, Berlin: Springer Verlag (Reprinted
+    in Selten, R., 1988, Models of Strategic Rationality, Dordrecht: Kluwer)
+ Selten, R., and R. Stoecker, 1986, End Behavior in Finite Prisoner’s Dilemma Supergames,
+   Journal of Economic Behavior and Organization, I, 47 - 70
+ Smith, V., 1962, An Experimental Study of Competitive Market Behavior, Journal of Political
+    Economy, 70, 111 - 137
+ Smith, V., 1964, Effect of Market Organization on Competitve Equilibrium, Quarterly
+   Journal of Economics 78, 181 - 201
+ Stern, D.H., 1967, Some Notes on Oligopoly Theory and Experiments, in M. Shubik (ed.)
+   Essays in Mathematical Economics, Princeton, NJ., 255 - 281
+von Neumann, J., and O. Morgenstern, 1944, Theory of Games and Economic Behavior;
+   Princeton University Press, Princeton, NJ.
+

@@ -1,0 +1,645 @@
+RADIO TELESCOPES OF LARGE RESOLVING
+POWER
+Nobel Lecture, December 12, 1974
+
+by M A R T I N R Y L E
+University of Cambridge, Cavendish Laboratory, Cambridge, England
+
+
+I think that the event which, more than anything else, led me to the search
+for ways of making more powerful radio telescopes, was the recognition, in
+1952, that the intense source in the constellation of Cygnus was a distant
+galaxy - 1000 million light years away. This discovery showed that some
+galaxies were capable of producing radio emission about a million times more
+intense than that from our own Galaxy or the Andromeda nebula, and the
+mechanisms responsible were quite unknown. It seemed quite likely that some
+of the weaker sources already detected with the small radio telescopes then
+available might be similar in character; if so they would be at distances
+comparable with the limits of observation of the largest optical telescopes. It
+was therefore possible that more powerful radio telescopes might eventually
+provide the best way of distinguishing between different cosmological models.
+It was not until 1958 (1) that it could be shown with some certainty that most
+of the sources were indeed powerful extragalactic objects, but the possibilities
+were so exciting even in 1952 that my colleagues and I set about the task of
+designing instruments capable of extending the observations to weaker and
+weaker sources, and of exploring their internal structure.
+   The early observations were severely limited both by the poor angular re-
+solution and by the limited sensitivity. It was usually impossible to obtain any
+information about the structure of a source, and adjacent sources could often
+not be properly separated, whilst attempts to relate the radio sources to
+optically visible objects were often prevented by the poor positional accuracy.
+The use of interferometers allowed better positions to be obtained, and some-
+times made it possible to derive simple models for the source structure. Few
+of the sources were found to have an angular size greater than 2-3 minutes
+of arc.
+   The problem of making detailed maps of such sources arises simply from
+the fact that the wavelengths used are some million times greater than optical
+wavelengths - so that even to obtain a radio picture with the same resolution
+as that of the unaided human eye ( ~ 1’ arc) we would need a telescope
+having a diameter of about 1 km operating at a wavelength of 50 cm. At the
+same time the instrument will be effective only if the surface accuracy is good
+enough to make a proper image, corresponding to errors of               or a few
+cm; the engineering problems of building such an instrument are clearly
+enormous.
+   With the development, around 1960, of masers and parametric amplifiers
+capable of providing receiving systems of good sensitivity at wavelengths of
+a few cm, it became possible to build telescopes of diameter 10-100 m with
+
+
+                                   Physics 1974
+
+
+
+
+         (a)                             (b)                            (c)
+Fig. 1. The use of (a) a paraboloid, (b) an array of dipoles or (c) the sequential
+sampling of the wavefront by small aerial elements to achieve a high resolving power
+by combining the signals from a large part of the incident wavefront.
+
+sufficient sensitivity and with angular resolutions of ~ 1’ arc; even with
+such instruments the engineering problems of constructing a rigid enough
+surface are considerable, and it is likely to be difficult to build a conventional
+paraboloid capable of angular resolutions much better than 1’ arc.
+   I would like now to describe an entirely different approach to the problem
+in which small aerial elements are moved to occupy successively the whole of
+a much larger aperture plane. The development and use of “aperture
+synthesis” systems has occupied much of our team in Cambridge over the
+past 20 years.
+   The principle of the method is extremely simple. In all methods used to
+obtain a large resolving power, that is to distinguish the wavefront from a
+particular direction and ignore those from adjacent directions, we arrange to
+combine the field measured over as large an area as possible of the wavefront.
+In a paraboloid we do this by providing a suitably shaped reflecting surface,
+so that the fields incident on different parts of the sampled wavefront are
+combined at the focus (Fig. 1 (a)); the voltage produced in the receiving
+ dipole represents the sum of these fields. We can achieve the same result if
+we use an array of dipoles connected together through equal lengths of cable
+ (Fig. 1 (b)).
+    Suppose now that only a small part of the wavefront is sampled, but that
+ different parts are sampled in turn (Fig. 1 (c)); could we combine these
+ signals to produce the same effect ? Since in general, we do not know the
+ phase of the incident field at different times this would not normally be pos-
+ sible but if we continue to measure one of the samples while we measure the
+ others we can use the signal from this one as a phase reference to correct the
+ values measured in other parts of the wavefront. In this way, by using two
+ small aerial elements, we can again add the fields over the wavefront-the
+ area of which is now determined by the range of relative positions taken by
+ the two aerial elements.
+    It might be thought that this method would be extremely slow, for if we
+ are to sample an area of side D using elements of side d, it is necessary to
+            2 Da
+observe with - 3 different relative positions of the two aerial elements. In
+             d
+
+
+                                     M. Ryle                                  189
+
+practice, however, the method is not significantly slower than the use of the
+large equivalent instrument for although a large number of observations must
+be made, the results may be combined in a computer using additional phase
+differences, which correspond to many different wave directions (as in a
+phased array or dipoles), so that with the one set of observations an area of
+sky may be mapped which is limited only by the diffraction pattern of the
+                                                       D2
+small elements themselves; there are in fact some -2 different directions
+                                                       d
+which can be scanned in this way, and which would have had to be explored
+sequentially by a conventional instrument, so that the total observing time of
+the two methods is nearly the same.
+   It can also be seen that the sensitivity of the system is much better than
+would be associated with the small elements, for the signal from a particular
+point in the sky is contributing to that point on the map for the whole ob-
+serving period; the resulting signal-to-noise is in fact equivalent to the use of
+                                               2   2 D2
+an instrument having a collecting area 2d √        d2
+
+~ 3Dd, a figure which may be much greater than that of the elements them-
+selves, and although it is not as great as if the full instrument of area D 2 had
+been built, it may exceed that of any instrument which can be built.
+  Unlike a paraboloid or array, in which both the sensitivity and resolving
+power are fixed as soon as the wavelength is decided, the value of d may be
+chosen so that the sensitivity, for any particular wavelength and type of ob-
+servation, is matched to the resolution.
+   The method of aperture synthesis avoids the severe structural problems of
+building very large and accurate paraboloids or arrays, and allows both high
+resolving power and large effective collecting area to be obtained with a
+minimum of engineering structure and therefore cost. Provision must be made
+for the relative movement of the small elements, and their relative positions
+and electrical connecting paths must be known with an accuracy equal to the
+surface accuracy of the equivalent instrument (≤ λ/20). Automatic comput-
+ing is needed to carry out the Fourier inversion involved in combining the
+observations to provide a map of the sky.
+   Historically, the forerunners fo this type of instrument were realized in the
+early days when observations in both Australia and England with aerial
+elements having a range of separations were used to determine the distribu-
+tion of radio brightness across the solar disc. In the earliest observations the
+Sun was assumed to show spherical symmetry, and no measurements of phase
+were necessary so that a precise knowledge of the relative positions of the
+elements, and of the electrical path lengths to the receiver were unnecessary.
+A similar technique was used to establish the profile of radio brightness across
+the plane of the Galaxy (2).
+   The first synthesis instrument capable of mapping an abritrary distribution
+of sources was built at Cambridge in 1954 by John Blythe (3); it consisted of
+a long thin element covering, in effect, a whole row of Fig. 1 (c) used in con-
+
+
+190                                 Physics 1974
+
+
+
+
+Fig. 2. (a) The arrangement used in the instrument built in 1954 by J. H. Bythe.
+(b) The equivalent instrument using two small elements.
+
+junction with a smaller element moved to 38 different positions along a
+perpendicular line (Fig. 2 (a) ) to synthesise a square instrument giving a reso-
+lution of       This instrument provided the first detailed maps of the galactic
+emission at a long radio wavelength (7.9 m).
+   Larger instruments using this same configuration were built at Cambridge
+during the succeeding years, including an instrument of high sensitivity and
+45’ arc resolution also at λ = 7.9 m (4) and a second operating at λ = 1.7 m
+with 25’ arc resolution which was used by Paul Scott and others to locate
+nearly 5000 sources in the northern sky (5, 6).
+   These instruments used a very cheap form of construction; for λ> 1 m an
+efficient reflecting surface may be provided by thin (~ 1 mm diameter)
+wires 5-10 cm apart. In the case of the λ = 1.7 m instrument, wires stretched
+across simple parabolic frames of welded steel tube provided a cylindrical
+paraboloid 450 m long and 20 m wide (Fig. 3) at a cost of about £2 per m2.
+
+
+
+
+Fig. 3. Photograph of the east-west arm of the λ = 1.7 m instrument built in 1957
+with which nearly 5000 sources were located.
+
+
+                                       M. Ryle                                   191
+
+
+
+
+         la)                                         (b)
+Fig. 4. (a) Two aerial elements mounted near the North Pole observing throughout the
+day are equivalent to one ring of a much larger instrument.
+(b) The elements may be used at other latitudes if arranged on an east-west line and
+used to track the chosen point for 12 h.
+
+
+   With the need for still greater resolving power, we realized that physically
+larger systems operating at metre wavelengths would no longer prove suc-
+cessful, because of the limitation imposed by irregularities of electron density
+in the ionosphere. But at shorter wavelengths where these are unimportant it
+becomes difficult to make efficient reflectors by using stretched wires, both
+because of their deflection by the wind, and because with the closer spacing
+needed there is difficulty with them twisting together. For operating wave-
+lengths of < 50 cm a much more rigid supporting structure must be used,
+and the engineering costs of building a long element become very great.
+   The obvious solution is to use the system illustrated in Fig. 1 (c), in which
+the engineering structure is confined to two small elements-where much
+higher costs per m2 are acceptable. The method for altering the relative posi-
+tions of the two elements presents some practical problems; suppose that the
+elements are mounted on two railway tracks at right angles (Fig. 2 (b) ), so
+that for each position of A on the N-S track B is moved to every position
+                                          D
+along the E-W track. For values of         ~ 50, there are then 5000 different
+                                         d
+arrangements, and if B is moved each day, the observations will take 5000
+days and although a map will then be available for the whole strip of sky,
+the period is too long for a graduate student’s thesis!
+   Alternatively B could be moved rapidly - so that several positions could be
+fitted into the time during which the area of sky remains in the beam of the
+small elements. This will reduce the total time of the observations, at the
+expense of observing only parts of the strip of sky. We can clearly extend this
+period, and so allow more relative positions of A and B each day, if we arrange
+for the elements to track the chosen point in the sky for an extended period.
+   As soon as we do this, we realize that the rotation of the earth is itself
+providing us with a relative motion of A and B as seen from the source,
+without our having to move them on the surface of the earth at all. Suppose,
+for example, we have our two elements mounted near the North Pole and we
+use them to observe an area of sky centred on the Celestial Pole; in this case
+we do not even have to arrange for them to track. Over a 24 h period, one will
+have traced out a circular path about the other (Fig. 4 (a) ), and the signals
+
+
+192                                  Physics 1974
+
+
+recorded during this time can be combined to provide the same response as
+that of the equivalent ring aerial; by simply altering the separation along a
+line on say 50 successive days a complete aperture can then be synthesized.
+Miss Ann Neville and I set up an experimental system in 1960-61 to test
+the method and develop the computing; we used it to map a region               in
+diameter round the North Celestial Pole at a wavelength of 1.7 m (7). We
+connected up different 14 m sections of the long cylindrical paraboloid (Fig.
+3) with some other small aerials to simulate the use of two 14 m diameter
+elements at different spacings. The effective diameter of the synthesized in-
+strument was 1 km and it provided an angular resolution of 4’.5 arc.
+   As well as showing that the method really worked, it provided some inter-
+esting astronomical results - in particular by allowing the detection of sources
+some 8 times weaker than had been observed before; even though the area
+of sky covered was only some 50 square degrees the results were useful in our
+cosmological investigations.
+   In practice only 12h observations are needed because of the symmetry of the
+system and observations need not be made from the North Pole or limited to
+the Celestial Pole, provided that the elements are situated on an East-West
+axis, and each is able to track the required region of sky for 12h (Fig. 4 (b) ) .
+At low declinations the synthesized instrument becomes elliptical with the
+north-south aperture reduced by sin δ. The engineering simplicity of moving
+the elements along a line, and the consequent great saving in the area of
+land needed are, however, such great advantages that we eventually built
+three large instruments in Cambridge with equivalent instrumental diameters
+of 0.8, 1.6 and nearly 5 km.
+   These instruments are known as the Half-Mile, the One-Mile and (because
+its construction coincided with the early negotiations for the entry of Britain
+into the European Community), the 5 km Telescopes! The One-Mile tele-
+scope was the first to be built, and this started observations in 1964.
+   It is interesting that as early as 1954 we had discussed the possibility of
+building a high resolution instrument on exactly these principles, and I have
+recently found two entries in an old note-book: -
+
+“8.6.1954      Possible research student and other projects.
+. . . 3(f).    North Polar Survey on 81.5 MC / S . Effective gain area ~ 25 X
+               1500=37,500 sq. ft. Effective resolving power area    106 sq. ft.”
+      (The entry included a diagram of the proposed aerial element)
+
+"29.6.1954
+  Do 3(f) in all directions where       rotation available? above about
+   might be possible by directing aerials in successively different directions-
+   i.e. observation not on meridian.”
+   A third entry on 22.7.1954 discusses the east-west rail track to be used
+for the latter programme with two 30 ft aerials mounted on it, the arrange-
+ment of cabling needed to compensate for the different path lengths to the
+two aerials when observing off the meridian, and the selection of directions
+of observation “to give uniform cover of Fourier terms”.
+
+
+                                    M. Kyle                                 193
+
+
+   Why then, with its obvious simplicity and economy, did we not build this
+instrument in 1954? The answer is that at this time there were no computers
+with sufficient speed and storage capacity to do the Fourier inversion of the
+data. EDSAC I, which was the first stored-programme computer, was built
+by Dr. M. V. Wilkes of the Cambridge University Mathematical Laboratory,
+and came into operation in 1949. It was used for reducing John Blythe’s ob-
+servations and took some 15h of computing to do the 38-point transform for
+every 4 m of the 24h scan of the sky. It would not have been practicable to use
+it for the 2-dimensional inversion needed for the earth-rotation synthesis. By
+1958 the completion of the much faster EDSAC II, and the development by
+Dr. David Wheeler of the Mathematical Laboratory of the fast fourier trans-
+form (incidentally some six years before these methods came into general
+use) made possible the efficient reduction of the 7.9 m and 1.7 m surveys,
+and also enabled the trials of the 1.7 m earth-rotation synthesis to be made in
+ 1961; even with EDSAC II, however, the reduction for the small area of sky
+covered in the latter survey took the whole night.
+   During the early stages in the design of the One-Mile telescope in 1961, I
+discussed with Maurice Wilkes the considerably greater problems of reducing
+the data from this instrument, but by then the replacement of EDSAC II was
+planned and the new TITAN computer, which came into operation in 1963,
+was easily capable of dealing with the output of the One-Mile telescope. The
+development of aperture synthesis has therefore been very closely linked to the
+development of more and more powerful computers, and it is interesting to
+speculate how our work in Cambridge would have proceeded if, for example,
+computer development had been five years behind its actual course.
+   The two programmes in my 1954 note-book subsequently formed the basis
+of two Ph.D. theses in 1964 and 1965.
+    Now I return to the design of the large instruments whose layout is shown
+in Fig. 5. The One-Mile telescope consists of three 18 m dishes, two fixed at
+ 0.8 km spacing, the third mounted on a 0.8 km rail-track (Fig. 6); this ar-
+
+
+
+
+Fig. 5. Sketch map showing the arrangement of One-Mile, Half-Mile and 5 km
+telescopes.
+
+
+                                      Physics 1974
+
+
+
+
+Fig. 6. The One-Mile telescope, showing the west, railmounted, dish in the foreground,
+with the two fixed dishes behind.
+
+rangement was cheaper than building the longer rail track and it also provided
+two spacings at a time. It was designed for two main programmes: (a) The
+detection of much fainter and therefore more distant sources (see Fig. 7) in
+order to explore the early history of the Universe, and so try and distinguish
+between different cosmological models, and (b) To make radio maps of in-
+dividual sources in an attempt to understand the physical mechanisms within
+them; most of the sources studied have been powerful extragalactic objects,
+but the remnants of supernova explosions are perhaps physically as important.
+
+
+                                    M. Ryle                                 195
+
+
+
+
+Fig. 7. Map obtained with the One-Mile telescope showing sources about 100 times
+fainter than had been observed before.
+
+
+
+   The problem of the physics of radio galaxies and quasars and the cosmo-
+logical problem are strangely linked; we appear to be living in an evolving
+Universe, so that very distant sources which, due to the signal travel time, we
+observe as they were when the Universe was younger, may be systematically
+different from a sample of nearby sources. But the intrinsically most powerful
+sources are so rare that there are no nearby ones, whilst the weak sources can-
+not be detected at great distances. If we are to understand how the Universe
+is evolving, we may first have to solve the physical problem of the individual
+source - so that we can infer the differences in its evolution at earlier cosmo-
+logical epochs.
+   The Half-Mile telescope was built later by John Shakeshaft and John
+Baldwin. It was actually built very cheaply because as can be seen from Fig. 5,
+it made use of the same rail track, and we were able to get the four 9 m
+dishes at scrap-metal prices from a discontinued radio link service, and only
+the mounts had to be built. It has been used mainly with a radio spectrometer
+covering the 21 cm wavelength band of neutral hydrogen to map the distri-
+bution of density and velocity of the hydrogen in a number of nearby galaxies,
+
+
+196                                 Physics 1974
+
+
+
+
+Fig. 8. The 5 km telescope, with the movable dishes in the foreground.
+
+
+and forms part of a programme concerning the formation and evolution of
+galaxies.
+   The 5 km telescope was completed in 1971, and because it represents a
+rather more advanced design I will describe it in more detail. It was designed
+solely for the purpose of mapping individual sources, and besides its larger
+overall size, the individual dishes are more accurate to allow operation at
+wavelengths as short as 2 cm. As a result the angular resolution is ~ 1” arc,
+a figure comparable with the resolution attained by large optical telescopes
+on good mountain sites. It is at present being used on a wavelength of 6 cm,
+where the resolution is 2” arc.
+   In order to improve the speed of observation, four fixed and four movable
+elements mounted on a rail-track are used, as shown in Fig. 5; this arrange-
+ment provides 16 spacings simultaneously, and a single 12 h observation
+produces a 2” arc main response with circular grating responses separated by
+42” arc. Sources of smaller extent than 42” arc can therefore be mapped with
+a single 12h observation; more extensive fields of view require further observa-
+tions with intermediate positions of the movable elements to suppress the
+grating responses.
+   For operation at these short wavelengths the positioning of the elements,
+and the electrical cable connections, must be stable and measured with an
+accuracy better than 1 mm. Conventional surveying methods allowed each
+element to be located to ± 10 mm, and the final alignment had to be based
+entirely on radio observations; the distance between the two outer fixed
+elements (on which the scale of declination is based) was found in this way
+
+
+                                     M. Ryle                                 197
+
+
+to be 3430828.7±0.25 mm, and no changes outside this error have been
+found over a 2-year period. The combination of azimuth and longitude, on
+which the measurement of right-ascension depends, was established by ob-
+serving the bright fundamental star Algol, which is a weak and variable radio
+source.
+   The telescope is controlled by an on-line computer which continually up-
+dates the position of the selected map-centre for precession, aberration etc.,
+and uses this to compute the path differences (corrected for atmospheric
+refraction) to each pair of elements; these values are then used to control
+electrical delays in the signals from each element before they are combined
+in the receivers. The outputs of the receivers are sampled by the computer and
+stored on a magnetic disc, so that at the completion of the observation they
+may be combined to form a map of the area observed. The map is then
+drawn on a curve-plotter controlled by the computer.
+   This instrument has been used in a wide range of astronomical programmes
+from the study of ionized hydrogen clouds in our Galaxy to distant quasars.
+Following the accurate calibration survey it became evident that as an
+astrometric instrument - to establish a coordinate system across the sky - its
+measuring accuracy was comparable with the best optical methods, whilst
+overcoming some of the difficulties in optical work such as the measurement
+of large angles. Bruce Elsmore is involved in a collaborative programme with
+optical observers to relate the positions of quasars - (some of which are com-
+pact sources at both optical and radio wavelengths) - as measured by radio
+means, to those derived from the fundamental stars, in order to determine any
+large-scale non-uniformities which may exist in the present astrometric
+systems. He also showed how this type of instrument may be used for the
+direct measurement of astronomical time-without the need for collaborative
+observations at different longitudes to correct for polar motion-again with
+an accuracy comparable with optical methods (~ 5 mS in a 12 h observa-
+tion) .
+    Another programme is concerned with a study of the birth of stars; when
+a cloud of gas condenses to form a star, the dust which it contains provides
+ such an effective screen that newly-formed stars, with their surrounding
+regions of ionized hydrogen, can never be seen optically; only after this dust
+ cloud has dispersed does the star appear. The dust introduces no appreciable
+ absorption at radio wavelengths, so that radio observations allow these regions
+ to be studied at the earliest stages.
+    NGC 7538 is an example of such a region, and the upper part of Fig. 9
+ shows the radio emission as mapped with the One-Mile telescope. The large
+ diffuse component corresponds almost exactly with the optical nebulosity, and
+ represents the cloud of gas ionized by one or more O-stars formed about a
+ million years ago, with the dust sufficiently dispersed to allow the light to be
+ seen. The compact lower component corresponds to gas ionized by much
+ younger stars, which are still embedded in dust too dense for any optical emis-
+ sion to escape, and it is invisible on the photograph. When this southern
+ component was mapped with the higher resolution of the 5 km telescope, the
+
+
+198                                Physics 1974
+
+
+
+
+Fig. 9. The ionized hydrogen cloud NGC 7533. The upper radio map shows the large
+cloud associated with the optical emission, and another, compact, component to the
+south. This compact component is shown with greater resolution below.
+
+
+lower map was obtained, showing that there is an ionized cloud some 10” arc
+in diameter, probably produced by the radiation from a star of spectral type
+O8, and an even more compact cloud to the south of this, produced by a still
+younger star, only a few thousand years old. The dust surrounding these two
+compact regions is heated by the young stars they contain, and both have been
+detected by their infra-red emission (8).
+   But the most extensive programme has been the mapping of extragalactic
+sources - the radio galaxies and quasars; galaxies which, during a brief frac-
+tion of their lives, produce some 10 60 ergs of energy, equivalent to the total
+annihilation of the matter in about a million suns, by a mechanism which is
+not understood.
+
+
+                                      M. Ryle                                  199
+
+
+
+
+Fig. 10. The powerful radio galaxy in the constellation of Cygnus mapped with the
+5 km telescope. The compact outer components are exceedingly bright - (31 and 41
+contours). The central component - which corresponds to the nucleus of the optical
+galaxy is very weak and is drawn with contours spaced at l/5 the interval.
+
+  Fig. 10 shows the new radio map of the source in the constellation of
+Cygnus - the first powerful radio galaxy to be recognized. The distribution of
+polarized emission from the north component is shown in Fig. 11, giving in-
+
+
+
+
+Fig. 11. The polarization of the emission from the north component of the Cygnus
+source which shows the magnetic field to be turbulent on a scale ~ 104 light-years.
+
+
+Fig. 12. Maps of six extragalactic radio sources.
+
+
+formation on the magnetic field. Maps of a number of other sources made
+with the 5 km telescope are shown in Fig. 12.
+   In most cases the radio emission originates mainly in two huge regions
+disposed far outside the associated galaxy - although weak emission may also
+be detectable from a very compact central source coincident with the nucleus
+of the galaxy. In some cases much more extensive components or a bridge
+linking the components occur.
+   The finer detail provided by the 5 km telescope has already enabled some
+important conclusions to be drawn; the energy is probably being produced
+more or less continuously over a period of 107--10 8 years in a very compact
+nucleus and not, as was originally thought, in some single explosive event.
+The source of this energy may be associated with the gravitational collapse
+of large numbers of stars, in the manner which Tony Hewish describes in his
+lecture, or by material falling into a much more massive collapsed object at
+the nucleus of the galaxy. The mechanism for transmitting this energy to the
+compact heads of the main components (e.g. Fig. 10) is not understood, but
+
+
+                                     M. Ryle                                 201
+
+
+may involve a narrow beam of low frequency electromagnetic waves or
+relativistic particles (9, 10). The interaction of this beam with the surrounding
+intergalactic medium might then accelerate the electrons responsible for the
+radio emission from the compact heads, and their subsequent diffusion into
+the region behind the heads can probably explain the general shape of the
+extensive components.
+    While much remains unanswered, the present conclusions were only reached
+when detailed maps became available; the physical processes relating the
+nucleus, the compact heads, and the extensive tails or bridges can clearly only
+be investigated when the relationship between these structural components is
+known.
+    What can we expect in the future? In 1954, the first aperture synthesis
+telescope provided maps with a resolution of             today we have maps with
+a resolution of 2” arc. Can we foresee a continuing development with radio
+pictures having much better resolution than the optical ones? The technical
+problems of increasing the aperture or decreasing the operating wavelength
+are severe, but they do not appear to be as serious as the limitations imposed
+by the earth’s atmosphere; in optical observations atmospheric turbulence on a
+scale of ~ 10 cm in the lower atmosphere introduces irregularities in the
+incident wavefront which normally limits the resolution to ~ 1” arc. At
+radio wavelengths the contribution of these small-scale irregularities is not
+important, but there are also irregularities of refractive index on a much
+larger scale in the troposphere. Two distinct types have been found in a series
+ of observations with the One-Mile and 5 km telescopes; neither can be
+ attributed to variations of air density, and both are probably due to non-
+uniformity in the partial pressure of water-vapour, which makes an important
+ contribution to the refractive index at radio wavelengths. One class has a
+ typical scale size of ~ 0.7 km and is attributed to turbulence in the tropo-
+ sphere due to solar heating of the ground in the same way that fair-weather
+ cumulus clouds develop. These irregularities, however, are often detected in
+ clear air conditions without the formation of cumulus clouds; they only occur
+ during day-time and are more severe during summer months. The second
+ class, - which shows only slight diurnal or annual variation, has a much larger
+ scale size, typically 10-20 km, and there may be still larger scales which have
+ not yet been recognized. The origin of these disturbances is not known, and
+ it is therefore not possible to predict how they might depend on geographical
+ position.
+    Under very good conditions - representing about 1% of the total time, the
+ atmospheric irregularities are extremely small and correspond to a distortion
+ of the incident wavefront by < 0.2 mm over 5 km; under these conditions,
+ operation at a wavelength of 4 mm or less would be possible and should
+ provide maps with a resolution better than 0” ._2 arc. These excellent observ-
+ ing conditions have only been encountered during periods of widespread
+ winter fog when the atmosphere is extremely stable, a result which illustrates
+ the differing requirements in seeking good sites for optical and radio ob-
+ servatories!
+
+
+202                               Physics 1974
+
+
+   For most of the time the atmospheric irregularities are considerably worse,
+and although there is insufficient information on scale sizes > 20 km, the use
+of instruments much larger than this will introduce difficulties associated with
+the curvature of the atmosphere. One might guess that it should be possible
+to build instruments which would give a resolution better than 0”.5 arc for
+perhaps 50% of the winter months.
+    To reach a greater resolution new techniques capable of correcting for the
+atmospheric effects will be necessary. One simple, though expensive, solution
+would be to build a second dish alongside each element, so that observations
+of a reference point source close to the area to be mapped, could be made
+simultaneously at every spacing; the observed phase errors for this reference
+source could then be used to provide a continuous correction for the signals
+from the area being mapped.
+    Such techniques can clearly be extended to the interferometers having
+baselines of many thousands of km (VLBI) which have been made possible
+by the development of atomic frequency standards. These instruments have
+shown the existence of very small components, ~ 0”.00l arc in some sources.
+The use of a comparison source for eliminating both atmospheric and in-
+strumental phase was first used at Jodrell Bank in the special case of sources
+of the OH maser line at λ = 18 cm, where different components within the
+primary beam can be distinguished by their frequency; if one is used as a
+phase reference the relative positions of the others can be found (11).
+    For continuum sources a reference outside the primary beam of the in-
+strument must, in general, be used and two elements at each location are
+ needed. This technique has been used in the U.S.A. to reduce both in-
+ strumental and atmospheric phase variations in measurements of the gravi-
+ tational deflection of radio waves by the sun (12) ; one pair of elements was
+ used to observe a source close to the Sun, while the other pair observed a
+ reference source about       away.
+    The accuracy of the correction, and hence the shortest wavelength at which
+ mapping could be achieved, would depend on the angular separation between
+ the area to be mapped and a reference source sufficiently intense and of suf-
+ ficiently small angular size. But even if adequate phase stability can be at-
+ tained in this way, there is a serious practical difficulty in making maps with
+ resolution ~ 0”.001 arc, due to the inevitable poor sampling of the aperture
+ plane. Even with 5 or 6 stations distributed across one hemisphere of the
+ world, and using every possible combination of the signals from them, with
+ observing periods lasting several hours, the fraction of the aperture plane
+ which can be filled is still very small, so that the field of view which can be
+ mapped without ambiguity from secondary responses is unlikely to exceed
+  ~ 0”.02 arc. Whilst there seems little hope of deriving complete maps of most
+ sources with this resolution, there are certainly some central components
+ where such a map could provide very important information.
+     But I think it may also be important for our understanding of the
+ mechanisms operating in the main components of radio sources, to obtain
+  complete maps with intermediate resolution; for this work extensions of the
+
+
+                                      M. Ryle                                   203
+
+
+present synthesis techniques, while retaining good filling of the aperture plane,
+are needed.
+  The last 25 years have seen a remarkable improvement in the performance
+of radio telescopes, which has in turn led to a much greater understanding
+of the strange sources of “high-energy astrophysics” and of the nature of the
+Universe as a whole.
+   I feel very fortunate to have started my research at a time which allowed
+me and my colleagues to play a part in these exciting developments.
+
+
+    R EFERENCES
+ 1. Ryle, M. (1958) Proc. Roy. Soc. A., 248, 289.
+ 2. Scheuer, P. A. G. & Ryle, hi. (1953) Mon. Not. R. astr. Soc., 113, 3.
+ 3. Blythe, J. H. (1957) Mon. Not. R. astr. Soc., 117, 644.
+ 4. Costain, C. H. & Smith, F. G. (1960) Mon. Not. R. astr. Soc., 121, 405.
+ 5. Pilkington, J. D. H. & Scott, P. F. ( 1965) Mem. R. astr. Soc., 69, 183.
+ 6. Gower, J. F. R., Scott, P. F. & Wills, D. (1967) Mem. R. astr. Soc., 71, 49
+ 7. Ryle, M. & Neville, A. C. (1962) Mon. Not. R. astr. Soc., 125, 39.
+ 8. Wynn-Williams, C. G., Becklin, E. E. & Neugebauer, G. (1974) Ap. J., 187, 473.
+ 9. Rees, M. (1971) Nature, 229, 312.
+10. Scheuer, P. A. G. (1974) Mon. Not. R. astr. Soc., 166, 513.
+11. Cooper, A. J., Davies, R. D. & Booth, R. S. (1971) Mon. Not. R. astr. Soc., 152,
+     383
+12. Counselmann, C. C., Kent, S. M., Knight, C. A., Shapiro, I. I., Clarke, T. A.,
+     Hinteregger, H. F., Rogers, A. E. E. & Whitney, A. R. (1974) Phys. Rev. Lett..
+     33, 1621.
+

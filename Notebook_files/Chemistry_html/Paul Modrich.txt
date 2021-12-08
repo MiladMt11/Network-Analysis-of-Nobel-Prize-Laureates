@@ -1,0 +1,947 @@
+              Mechanisms in E. coli and
+              Human Mismatch Repair
+              Nobel Lecture, December 8, 2015
+
+              by Paul Modrich
+              Howard Hughes Medical Institute and Department of Biochemistry,
+              Duke University Medical Center, Durham, North Carolina, USA.
+
+
+
+
+              T    he idea that mismatched base pairs occur in cells and that such lesions trig-
+                   ger their own repair was suggested 50 years ago by Robin Holliday in the
+              context of genetic recombination [1]. Breakage and rejoining of DNA helices was
+              known to occur during this process [2], with precision of rejoining attributed
+              to formation of a heteroduplex joint, a region of helix where the two strands are
+              derived from the different recombining partners. Holliday pointed out that if this
+              heteroduplex region should span a genetic difference between the two DNAs,
+              then it will contain one or more mismatched base pairs. He invoked processing
+              of such mismatches to explain the recombination-associated phenomenon of
+              gene conversion [1], noting that “If there are enzymes which can repair points of
+              damage in DNA, it would seem possible that the same enzymes could recognize
+              the abnormality of base pairing, and by exchange reactions rectify this.”
+                   Direct evidence that mismatches provoke a repair reaction was provided by
+              bacterial transformation experiments [3–5], and our interest in this effect was
+              prompted by the Escherichia coli (E. coli) work done in Matt Meselson’s lab at
+              Harvard. Using artificially constructed heteroduplex DNAs containing multiple
+              mismatched base pairs, Wagner and Meselson [6] demonstrated that mismatches
+              elicit a repair reaction upon introduction into the E. coli cell. They also showed
+              that closely spaced mismatches, mismatches separated by a 1000 base pairs or so,
+              are usually repaired on the same DNA strand. Based on this strand bias effect,
+
+                                                                                             99
+
+
+
+
+ook.indb 99                                                                                        5/12/16 1:51 PM
+
+
+           100                                                             The Nobel Prizes
+
+
+           Wagner and Meselson proposed that in addition to its role in genetic recombi-
+           nation, “. . . mismatch repair may act to correct mutations that arise as replica-
+           tion errors. If so, it may be that mismatch repair acts in a directed manner in
+           conjunction with sister chromatid exchange or that it occurs with particularly
+           high efficiency on newly synthesized DNA strands, possibly because of their
+           undermethylation or because of a special relation to the replication complex.”
+           This suggestion proved to be particularly insightful, and we now know from
+           work in many labs that correction of DNA biosynthetic errors is a primary job
+           of mismatch repair [7].
+                In order to function in this manner, the repair system must be able to do
+           two things. It must recognize the mismatched base pair produced by the repli-
+           cation error, but it also has to identify the new DNA strand, which contains the
+           mistake. Pat Pukkila in the Meselson lab showed that the strand direction of E.
+           coli mismatch repair is dictated by the state of adenine methylation at d(GATC)
+           sequences [8]. Because this modification occurs after DNA synthesis, newly syn-
+           thesized DNA exists transiently in an unmodified state, and it is this transient
+           absence of methylation that directs repair to the new strand (Fig. 1). Consis-
+           tent with the idea that mismatch repair contributes to replication fidelity, Miro
+           Radman, Barry Glickman, and others [9–11] showed that the methyl-directed
+           pathway depends on the products of four E. coli mutator genes: mutH, mutL,
+           mutS, and uvrD. Inactivation of any of these genes increases mutation produc-
+           tion in the E. coli cell 50- to 100-fold, indicating the importance of this pathway
+           in mutation avoidance and genetic stability.
+                This is where we entered the picture. I was interested in how mismatches
+           might be recognized and how the state of DNA methylation at one site on the
+
+
+
+
+           Figure 1. E. coli methyl-directed mismatch repair.
+
+
+
+
+ook.indb 100                                                                                     5/12/16 1:51 PM
+
+
+               Mechanisms in E. coli and Human Mismatch Repair101
+
+
+
+
+               Figure 2. Methyl-directed mismatch repair in E. coli cell extracts. A. Assay for in vitro
+               mismatch repair. Presence of the G-T mismatch within the EcoRI recognition sequence in
+               unrepaired DNA blocks cleavage by this endonuclease. B. In vitro repair of heteroduplex
+               shown in panel A. Residual heteroduplex repair occurring in the absence of exongenous
+               dNTPs (right lane) is due to presence of the DNA biosynthetic precursors in the extract
+               [18]. Panel A is adapted with permission from reference 15; panel B is adapted from
+               reference 14.
+
+
+
+               helix directs mismatch repair elsewhere on the DNA. To address these ques-
+               tions, we needed a biochemical assay. Exploiting several tricks developed in
+               Norton Zinder’s laboratory at Rockefeller University [12, 13], A-Lien Lu built
+               heteroduplex DNAs like that shown in Fig. 2A: circular molecules in which the
+               strands are in defined states of d(GATC) methylation and which contain a G-T
+               mismatch within the recognition site for EcoRI restriction endonuclease [14,
+               15]. Because the mismatch blocks DNA cleavage by EcoRI, digestion of this
+
+
+
+
+ook.indb 101                                                                                               5/12/16 1:51 PM
+
+
+           102                                                                   The Nobel Prizes
+
+
+           DNA with EcoRI and BamHI endonucleases yields a full-length linear product
+           (Fig. 2B, unrepaired). However, if repair occurs on the unmethylated strand, as
+           predicted by the Meselson mechanism, the G-T mismatch will be corrected to a
+           G-C base pair restoring EcoRI sensitivity, and digestion with EcoRI and BamHI
+           will produce the two smaller DNA fragments (Fig. 2B, repaired). In fact, incu-
+           bation of this DNA with extracts prepared from broken E. coli cells converts it
+           to an EcoRI sensitive form. As anticipated by Meselson and colleagues [8], this
+           in vitro reaction is blocked when both DNA strands are methylated, and like in
+           vivo methyl-directed repair [9–11], the in vitro reaction depends on functional
+           products of the mutH, mutL, mutS and uvrD genes [14, 15].
+               Michael Su, Bob Lahue, and Karin Au showed that this in vitro extract reac-
+           tion supports repair of all of the base-base mismatches except C-C [16], and
+           that at least one hemimethylated d(GATC) site is required for repair to occur
+           [17]. The latter finding prompted simplification of our substrates to molecules
+           that contain a mismatch and a single d(GATC) site (Fig. 3, upper) separated by
+
+
+
+
+           Figure 3. Methyl-directed repair in E. coli extract supports bidirectional excision. Incu-
+           bation of 5′ (left) or 3′ (right) hemimethylated G-T heteroduplex DNA in E. coli extract
+           in the presence if dideoxynucleoside-5′-triphosphates results in production of a single-
+           strand gap that spans the shorter path between the two DNA sites [18, 19].
+
+
+
+
+ook.indb 102                                                                                            5/12/16 1:51 PM
+
+
+               Mechanisms in E. coli and Human Mismatch Repair103
+
+
+               a thousand base pairs (shorter path). Essentially all of our subsequent work was
+               done with molecules like these.
+                    A-Lien Lu demonstrated that the extract reaction is accompanied by DNA
+               synthesis occurring on the unmethylated strand, suggesting an excision repair
+               mechanism [14]. Working in collaboration with Jack Griffith’s lab at the Univer-
+               sity of North Carolina, Michael Su and Michelle Grilley confirmed this to be the
+               case. Incubation of hemimethylated heteroduplex DNA with E. coli extract under
+               conditions of DNA synthesis block resulted in the production of a single-strand
+               gap spanning the shorter path between the two sites in the circular DNA [18,
+               19], and this was true for both hemimethylated configurations (Fig.3, bottom).
+               Because the two strands of the helix are antiparallel, this indicated that there is
+
+
+
+
+               Figure 4. Biological activities of MutS and MutL. A. MutS binds mismatched base pairs.
+               B. Crystal structure of the E. coli MutS dimer bound to a G-T mismatch was determined
+               by Titia Sixma and colleagues [25]. C. MutL is recruited to the MutS-mismatch complex in
+               an ATP-dependent fashion. Panel A is reproduced from reference 16; the image in panel
+               B was provided by Titia Sixma with permission.
+
+
+
+
+ook.indb 103                                                                                              5/12/16 1:52 PM
+
+
+           104                                                            The Nobel Prizes
+
+
+           no obligate polarity of the two DNA sites, and suggested that methyl-directed
+           repair supports bidirectional excision.
+                To clarify how this pathway works we isolated the MutH, MutL, MutS, and
+           UvrD proteins in pure form [20–23]. We knew from the prior work of Peter
+           Emmerson [24] that the uvrD gene product is DNA helicase II, an enzyme that
+           unwinds the two strands of the helix in an ATP-dependent fashion. But the
+           nature of the other three proteins was unknown.
+                Michael Su showed that MutS is responsible for mismatch recognition [16,
+           20; see Fig. 4A]. The ultimate confirmation of this conclusion is the beautiful
+           crystal structure of the E. coli MutS dimer bound to a G-T mismatch (Fig. 4B)
+           that was solved in Titia Sixma’s laboratory at the Netherlands Cancer Institute
+           [25]. Michelle Grilley showed that MutL is recruited to the MutS-heteroduplex
+           complex in an ATP-dependent reaction (Fig. 4C), but does not otherwise alter
+           the covalent nature of the helix [22]. Kate Welsh and A-Lien Lu found that the
+           MutH protein has a very tightly associated, but nearly dead (< 1 turnover/hour)
+           endonuclease activity that incises DNA at an unmethylated d(GATC) sequence
+           [21]. As discussed below, assembly of the MutL-MutS-heteroduplex ternary com-
+           plex leads to dramatic activation of this latent MutH d(GATC) endonuclease.
+                Because these four proteins are not sufficient to support mismatch repair,
+           Bob Lahue and Karin Au used biochemical and genetic approaches to iden-
+           tify other required components, and they identified four: exonuclease I, which
+           hydrolyzes single-stranded DNA with 3′ to 5′ polarity, the E. coli single strand
+           DNA binding protein SSB, DNA polymerase III holenzyme, which functions in
+           DNA replication, and DNA ligase [23]. They showed that a system comprised
+           of MutH, MutL, MutS, UvrD (DNA helicase II), exonuclease I (Exo I), SSB,
+           DNA polymerase III holoenzyme, and DNA ligase was sufficient to reconstitute
+           methyl-directed mismatch repair in vitro.
+                The assay used in these reconstitution experiments was a refined version of
+           the one described in Fig. 1. In this example shown in Fig. 5A, a G-T mismatch is
+           placed in overlapping recognition sites for two restriction enzymes, HindIII and
+           XhoI. The mismatch blocks cleavage by both enzymes, but repair on the bottom
+           strand generates an A-T base pair and a good HindIII site, while repair on the
+           top strand produces a G-C base pair and a good XhoI site. This permits repair
+           on either strand to be directly scored. A heteroduplex that lacks a d(GATC)
+           site is not a substrate for the purified system (Fig. 5B, lanes 1 and 2), nor is a
+           heteroduplex in which both strands are methylated (lanes 3 and 4). However,
+           hemimethylated DNA is repaired. When the methyl group resides on the strand
+           containing the mismatched G, repair is exclusively to G-C (lanes 5 and 6), and
+           when the strand containing the mismatched T is methylated, repair is to A-T
+
+
+
+
+ook.indb 104                                                                                    5/12/16 1:52 PM
+
+
+               Mechanisms in E. coli and Human Mismatch Repair105
+
+
+
+
+               Figure 5. Methyl-directed mismatch repair in a purified system. A. The heteroduplex
+               substrates used in these experiments contained a mismatched base pair within overlap-
+               ping recognition sites for two restriction enzymes [16], which permits repair on either
+               DNA strand to be monitored. B. Repair of a G-T heteroduplex is methyl-directed and
+               requires presence of a hemimethylated d(GATC) site. Panels A and B are reproduced from
+               reference 23 with permission from AAAS.
+
+
+               (lanes 7 and 8), as expected for methyl-directed correction. This reconstituted
+               system supports repair of all base-base mismatches except C-C [23].
+                   As described above, analysis of the extract reaction suggested a bidirectional
+               excision capability, which would presumably depend on both 3′ to 5′ and 5′
+               to 3′ exonucleases. This proved to be correct. Deani Cooper, Vickers Burdett
+               and Celia Baitinger [26–28] showed that when the unmethylated d(GATC)
+               sequence resides 5′ to the mismatch, in vitro repair absolutely depends on 5′
+
+
+
+
+ook.indb 105                                                                                             5/12/16 1:52 PM
+
+
+           106                                                               The Nobel Prizes
+
+
+           to 3′ excision by exonuclease VII (ExoVII) or RecJ exonuclease. Collaborative
+           experiments with Susan Lovett’s lab showed that in vitro repair directed by a
+           d(GATC) sequence located 3′ to the mismatch depends on 3′ to 5′ hydrolysis by
+           Exo1 or ExoX [26, 28], although ExoVII (which supports both 5′ to 3′ and 3′ to
+           5′ hydrolysis [29]) may also play a limited role in 3′-directed excision [28]. Our
+           original reconstitution experiments, which contained only ExoI [23], were suc-
+           cessful because the DNA polymerase III holoenzyme preparations used in these
+           early studies were contaminated with ExoVII [26].
+               Although extracts prepared from RecJ– ExoVII– ExoI– Exo X– E. coli cells
+           are completely defective in both 3′- and 5′-directed mismatch repair, this strain
+           displays only a 7-fold increase in mutation rate, substantially less than the 30- to
+           100-fold mutability increases observed with MutS– or UvrD– cells [28]. This par-
+           adox was resolved with the demonstration that production of mismatched base
+           pairs in RecJ– ExoVII– ExoI– Exo X– cells results in loss of viability in manner
+           that depends on upstream action of MutH, MutL, MutS, and UvrD proteins [27].
+           These findings confirm involvement of the four exonucleases in methyl-directed
+           mismatch repair in the E. coli cell and suggest that reduced mutability of the
+           exonuclease-deficient strain is due to under recovery of mutants as a conse-
+           quence of chromosome loss.
+               Availability of the required set of purified E. coli proteins permitted us to
+           address the mechanism of the methyl-directed reaction. Mismatch recognition
+           by MutS leads to recruitment of MutL to the heteroduplex (Fig. 6). MutL serves
+           to interface mismatch recognition by MutS to activation of downstream repair
+           activities, one of which is MutH, the latent d(GATC) endonuclease mentioned
+           above. Karin Au showed that methyl-directed repair initiates by activation of
+           MutH endonuclease in a mismatch, MutS, and MutL dependent fashion [30].
+           DNA incision by activated MutH is targeted to the unmethylated stand at a
+
+
+
+
+           Figure 6. MutH activation and initiation of methyl-directed mismatch repair.
+
+
+
+
+ook.indb 106                                                                                      5/12/16 1:52 PM
+
+
+               Mechanisms in E. coli and Human Mismatch Repair107
+
+
+
+
+               Figure 7. Excision and repair synthesis steps of methyl-directed mismatch repair.
+
+
+
+               hemimethylated d(GATC) sequence and can occur either 5′ or 3′ to the mis-
+               match, consistent with a bidirectional mechanism, and the resulting strand break
+               that is the actual signal that directs mismatch repair to the unmethylated strand.
+                   Assembly of the MutL-MutS-heteroduplex complex also activates the exci-
+               sion system, which is comprised of the uvrD gene product, DNA helicase II,
+               and the four single-strand exonucleases mentioned above (Fig. 7). Vivian Dao
+               and Miyuki Yamaguchi demonstrated that MutS and MutL load DNA helicase
+               II at the MutH strand break with an orientation bias so that unwinding of the
+               helix proceeds toward the mismatch [31, 32]. This loading bias is true for both
+               heteroduplex orientations, without regard to location of the strand break 5′ or 3′
+               to the mismatch. The single-strand displaced by helicase unwinding is degraded
+               by ExoVII or RecJ when the nick is located 5′ to the mismatch, and by ExoI or
+               ExoX when the break is 3′ to the mispair. The single-strand gap produced in
+               this manner is repaired by the components of DNA polymerase III holoenzyme,
+               and although not shown in Fig. 7, DNA ligase restores covalent continuity to the
+               product. Anna Pluciennik showed that function of the polymerase III holoen-
+               zyme components is restricted to the repair synthesis step of E. coli mismatch
+               correction, and have no involvement in the MutH activation or excision steps
+               of repair [33]. This is noteworthy because the human pathway described below
+               differs in this respect.
+                   Methyl-directed repair clearly involves action at a distance, effective interac-
+               tion of two DNA sites that in our substrates are separated by a thousand base
+               pairs. But the mechanism by which this occurs has been a subject of debate
+
+
+
+
+ook.indb 107                                                                                          5/12/16 1:52 PM
+
+
+           108                                                             The Nobel Prizes
+
+
+           for almost 20 years [34, 35]. The orientation-dependent loading of helicase II
+           summarized in Fig. 7 indicates that the repair system can establish the relative
+           orientation of the mismatch and d(GATC) site, which implies that signaling
+           must occur along the helix contour between the two sites. There is good evidence
+           from multiple labs that MutS and probably the MutL·MutS complex can move
+           along the helix in an ATP-dependent manner [34–36], and we favor the idea that
+           signaling between the two sites is mediated by this sort of movement. However,
+           this point is not yet proven.
+                As our work on E. coli mismatch repair progressed, we were curious whether
+           a similar stand-directed pathway might exist in higher cells. Work from multiple
+           labs indicated that mismatches are rectified in eukaryotic cells [37–40], but there
+           was no evidence for strand-directed repair. The problem we had in addressing
+           this question was the lack of information concerning the nature of the biological
+           strand signals. To circumvent this problem Jude Holmes, an M.D./Ph.D. student
+           who began this work, exploited a finding we had made in the E. coli system
+           described above, namely that the function of MutH and the hemimethylated
+           d(GATC) strand signals in the bacterial reaction is provision of a strand break,
+           which serves as the actual signal that directs methyl-directed mismatch repair.
+           Jude constructed heteroduplex DNAs that contained a site-specific strand-spe-
+           cific nick (Fig. 8A) and found that these DNAs are subject to repair on the nicked
+           DNA strand in extracts prepared from human (Fig. 8B) or Drosophila melano-
+           gaster cells [41]. No significant repair occurs on the continuous strand, and when
+           both strands are covalently continuous, repair is blocked. Furthermore, Woei-
+           horng Fang demonstrated that DNA hydrolytic events occurring on these DNAs
+           are largely restricted to the shorter path between the nick and the mismatch
+           regardless of 5′ or 3′ orientation of the two DNA sites (Fig. 8A) [41a]. This is
+           reminiscent of bidirectional methyl-directed repair, but as described below, the
+           mechanism of the human reaction differs in fundamental ways from that of the
+           E. coli pathway.
+                The development that permitted us to identify the key proteins involved
+           in the initiation of human mismatch repair and to pursue the mechanism of
+           the reaction was the publication in 1993 of two papers from de la Chapelle,
+           Vogelstein, and Perucho laboratories [42, 43]. These papers showed that a high
+           frequency of mutation within simple mononucleotide and dinucleotide repeat
+           sequences, a phenotype called microsatellite instability, is characteristic of cer-
+           tain cancers, including tumors that occur in patients with Lynch syndrome (also
+           called hereditary nonpolyposis colorectal cancer or HNPCC), a common heredi-
+           tary cancer that accounts for about 5% of colon cancers, and about 15% of spo-
+           radic cancers with Lynch-like features [44, 45].
+
+
+
+
+ook.indb 108                                                                                     5/12/16 1:52 PM
+
+
+               Mechanisms in E. coli and Human Mismatch Repair109
+
+
+
+
+               Figure 8. Mismatch repair of nicked heteroduplexes in human cell extracts. A. Schematic
+               of substrate design and mechanism of repair deduced from extract experiments. B. Mis-
+               match repair in nuclear extracts of human cells is directed to the strand that contains a
+               preexisting strand break (N). No significant repair occurs on the covalently continuous
+               strand (C). Panel B is reproduced from reference 41.
+
+
+
+                   Because we knew that microsatellite mutations are common in E. coli mis-
+               match repair mutants [46], it seemed plausible that these tumor cells might be
+               defective in mismatch repair. We acquired a number of microsatellite unstable
+               tumor cell lines, initially from Bert Vogelstein (Johns Hopkins University School
+               of Medicine) and then from other sources (Fig. 9A). Guo-Min Li, Woei-horng
+               Fang, Matt Longley, and Jim Drummond found each of these cell lines to be
+               defective in mismatch repair [47–50]. Availability of these repair-defective cells
+
+
+
+
+ook.indb 109                                                                                               5/12/16 1:52 PM
+
+
+           110                                                                The Nobel Prizes
+
+
+
+
+           Figure 9. Microsatellite unstable tumor cell lines are defective in mismatch repair and
+           deficient in MutSα or MutLα. A. Mismatch repair activity in microsatellite stable and
+           unstable cell lines. B. Isolation of MutSα (MSH2-MSH6 heterodimer). C. Isolation of
+           MutLα (MLH1-PMS2 heterodimer). Panel B is reproduced from reference 48 with per-
+           mission from AAAS. Panel C is reproduced from reference 49, Copyright 1995 National
+           Academy of Sciences, U.S.A.
+
+
+
+
+           permitted us to identify and isolate the repair components lacking in these lines
+           (Fig. 9B and C). Jim Drummond and Guo-Min Li showed several of these lines
+           to be deficient in MutSα, a heterodimer of the two MutS homologs MSH2 and
+           MSH6 [48, 51], which proved to be the primary human mismatch recognition
+           protein [52]. Guo-Min Li identified the repair activity lacking in the other cell
+           lines as MutLα, a heterodimer of the MutL homologs MLH1 and PMS2 [49].
+           While we were pursuing these biochemical studies, several labs, primarily those
+           of Richard Kolodner and Bert Vogelstein, were sequencing MutS and MutL
+           homolog genes in Lynch families. They showed the mutations in these genes seg-
+           regate with disease phenotype [53, 54], and it is now quite clear that the majority
+           of Lynch syndrome cancers are caused by defects in one of these two heterodi-
+           mers [44, 45]. Inactivation of mismatch repair in these tumor cells increases the
+           rate of mutation production 100 to 1000-fold [55–57], which is believed to play
+           a direct role in the development of these cancers.
+               The last four tumor cell lines shown in Fig. 9A proved to be exceptional: each
+           is derived from a sporadic cancer with microsatellite instability and each is defec-
+           tive in mismatch repair. Jim Drummond and Guo-Min Li showed that these cell
+
+
+
+
+ook.indb 110                                                                                         5/12/16 1:52 PM
+
+
+               Mechanisms in E. coli and Human Mismatch Repair111
+
+
+               lines fail to produce the MLH1 subunit of MutLα and that repair is restored to
+               extracts in each case by addition of purified MutLα [50]. However, we encoun-
+               tered skepticism when we shared these findings with some of our sequencing
+               colleagues, who told us that they had sequenced the MLH1 gene in several of
+               these lines, and it was normal. But Sandy Markowitz (Case Western Reserve
+               University), with whom we were working on several of these cell lines, took us
+               seriously, and collaborative experiments largely done in Sandy’s lab showed that
+               the MLH1 gene in these cell lines is epigenetically silenced by CpG methylation
+               within the promoter region [50]. The gene is normal, but it is not transcribed
+               and MLH1 polypeptide is not produced, resulting in a mismatch repair defect.
+               The proof for this conclusion is shown in Fig. 10. Exposure of these microsatellite
+               unstable, sporadic cancer cells to 5-azacytidine, which leads to transient cytosine
+               demethylation, results in transient expression of MLH1. This effect is important
+               in the clinics, where silencing of the MLH1 locus is believed to account for about
+               15% of colon cancers [58].
+                   In addition to MutSα (recognizes base-base and small insertion/deletion
+               mismatches of 1 to about 3 extrahelical residues) and MutLα, genetic and bio-
+               chemical studies have implicated six additional proteins in eukaryotic mis-
+               match repair: MutSβ (MSH2-MSH3 heterodimer; prefers insertion/deletion
+               mismatches of 2 to about 10 extrahelical residues [52, 59–61]), exonuclease 1
+               [62–64], the single-strand DNA binding protein RPA [65, 66], the PCNA slid-
+               ing clamp [67], the clamp-loader RFC [68], and DNA polymerase δ [69]. These
+               8 proteins are sufficient to reconstitute a minimal system that supports human
+               bidirectional mismatch repair in vitro [68, 70]. We identified two strand-directed
+               reactions, which are supported by subsets of these proteins, that provide insight
+               into the mechanisms of human mismatch repair.
+
+
+
+
+               Figure 10. 5-azacytidine exposure results in transient MLH1 expression in AN3CA
+               tumor cells. Cells were treated with 5-azacytidine for 24 hours on days 2 and 5. Levels
+               of MLH1 and the actin loading control were determined by western blot. The figure is
+               reproduced with permission from reference 50, Copyright 1998 National Academy of
+               Sciences, U.S.A.
+
+
+
+
+ook.indb 111                                                                                             5/12/16 1:52 PM
+
+
+           112                                                                The Nobel Prizes
+
+
+
+
+           Figure 11. MutSα activation of Exo1 and control of processive action of the MutSα-Exo1
+           complex by RPA.
+
+
+
+
+               The simplest of these (Fig. 11) is in a sense a trivial example of strand direc-
+           tion. The only exonuclease definitively implicated in eukaryotic mismatch repair
+           is exonuclease 1 (Exo1), which hydrolyzes duplex DNA with 5′ to 3′ polarity
+           [62–64]. Jochen Genschel demonstrated that Exo1 is activated by MutSα in a
+           mismatch-dependent manner [64, 71], and similar results have been obtained
+           in Guo-Min Li’s laboratory [72]. Like bacterial MutS, MutSα is capable of ATP-
+           dependent movement along the helix [34–36], and we think it likely that such
+           movement serves to couple action at the two DNA sites. Activation by MutSα
+           renders Exo1 highly processive. Processive action of the MutSα-Exo1 complex
+           is controlled by the RPA single-strand binding protein, which displaces the pro-
+           cessive complex from the helix after removal of about 200 nucleotides [71, 73].
+           The resulting RPA-filled gap is a poor substrate for Exo1, and the enzyme cannot
+           reload without the mismatch-dependent assistance of MutSα. This leads to an
+           iterative cycle of removal of about 200 nucleotides per Exo1 reloading event that
+           continues until the mismatch is removed, at which point excision is dramatically
+           attenuated because MutSα can no longer promote Exo1 loading. MutLα is not
+           required for this reaction, but it modestly enhances the mismatch dependence
+
+
+
+
+ook.indb 112                                                                                        5/12/16 1:52 PM
+
+
+               Mechanisms in E. coli and Human Mismatch Repair113
+
+
+
+
+               Figure 12. MutLα is a strand-directed endonuclease that depends on a mismatch, a pre-
+               existing strand break, MutSα, PCNA, and RFC for activation.
+
+
+
+               of excision by suppressing hydrolysis on mismatch-free homoduplex DNA, and
+               poly[ADP-ribose] polymerase PARP-1 further potentiates mismatch depen-
+               dence in this system [74].
+                   The second strand-directed reaction is more interesting (Fig. 12). Farid
+               Kadyrov, Leo Dzantiev, and Nicoleta Constantin demonstrated that unlike E. coli
+               MutL, human MutLα is a latent endonuclease that is activated in a manner that
+               depends on a mismatch, a preexisting strand break, MutSα, the PCNA sliding
+               clamp, and RFC, the clamp loader that places PCNA on the helix [75]. Endo-
+               nuclease action is strand-directed: it is targeted to the heteroduplex strand that
+               contains the preexisting break. Incision by activated MutLα can occur at multiple
+               sites on the pre-incised strand, but initial events appear to be biased to the distal
+               side of the mismatch. This reaction occurs on both 5′ and 3′ heteroduplexes to
+               yield molecules in which the mismatch is bracketed by 5′ and 3′ strand breaks.
+               Farid Kadyrov showed that these 5′-termini serve as loading sites for two alter-
+               nate modes of mismatch removal: hydrolytic excision by MutSα-activated Exo1
+               [75] or synthesis-driven strand displacement by DNA polymerase δ (Fig. 13)
+               [75a]. Other excision mechanisms may also be possible.
+                   We believe that endonuclease action is a primary function of MutLα in
+               eukaryotic mismatch repair. The basis for this conclusion is shown in Fig. 14.
+               Farid identified a DQHA(X)2E(X)4E metal-binding, endonuclease active site
+               motif within the C-terminal domain of the PMS2 subunit of MutLα (Fig. 14,
+               motif highlighted in red). Amino acid substitutions within this motif have no
+               effect on stability of the MLH1-PMS2 heterodimer, MutLα ATPase activity, or
+               assembly of the MutLα-MutSα-heteroduplex ternary complex, but they inacti-
+               vate endonuclease function and abolish mismatch repair in human, yeast, and
+               mouse cells [75–77]. In mice, inactivation of MutLα endonuclease function is
+
+
+
+
+ook.indb 113                                                                                           5/12/16 1:52 PM
+
+
+           114                                                             The Nobel Prizes
+
+
+
+
+           Figure 13. Mismatch removal from MutLα-incised heteroduplex DNA by MutSα-
+           activated Exo1 (left) or synthesis-driven strand displacement by DNA polymerase
+           δ (right).
+
+
+
+
+           associated with strong cancer predisposition and a partial defect in immuno-
+           globulin class switch recombination [77].
+               Although not present in members of the MLH1 family, the DQHA(X)2E(X)4E
+           endonuclease motif is conserved in eukaryotic PMS2 homologs. It is also found
+           in many bacterial MutL proteins (Fig. 14), and recent work has shown that like
+           human and yeast MutLα, at least some of these bacterial MutL proteins function
+           as endonucleases [78]. The notable exceptions are MutL proteins from bacteria
+           like E. coli and related organisms that rely on d(GATC) methylation to direct
+           mismatch repair, where this motif is conspicuously absent. Like E. coli MutL
+           [22, 76], these latter proteins presumably lack endonuclease function. Thus two
+           distinct mechanisms for strand-targeting of mismatch repair occur in nature.
+               The mechanism of MutLα activation is complex, but Anna Pluciennik and
+           Leo Dzantiev have clarified several of its features [79]. They showed that the only
+           function of the preexisting strand break within the heteroduplex (Fig. 12) is to
+           provide a loading site for the PCNA sliding clamp, and that RFC involvement
+           in MutLα activation is restricted to loading of the clamp onto the helix. Loaded
+
+
+
+
+ook.indb 114                                                                                     5/12/16 1:52 PM
+
+
+               Mechanisms in E. coli and Human Mismatch Repair115
+
+
+
+
+               Figure 14. MutLα endonuclease active site motif. C-terminal PMS2 DQHA(X)2E(X)4E
+               endonuclease active site motif is conserved in eukaryotic PMS2 homologs (S. cerevisiae
+               PMS1 is a homolog of human PMS2) and in many bacterial MutL proteins, with the
+               exception of MutL proteins from bacteria like E. coli that rely on d(GATC) methylation
+               to direct mismatch repair. Amino acid residues shown in blue at the top of the figure
+               correspond to substitution mutations used to assess involvement of the motif in MutLα
+               function. The figure is reproduced with from reference 75, Copyright 2006 with permis-
+               sion from Elsevier.
+
+
+
+               PCNA plays two important roles in the reaction. Physical interaction of MutLα
+               with the loaded clamp is required for endonuclease activation, and the orienta-
+               tion with which PCNA is loaded onto the helix determines strand direction of
+               endonuclease action [79]. These functions of the loaded clamp are illustrated in
+               the model shown in Fig. 15. The two faces of the PCNA clamp are not equiva-
+               lent, and RFC loads the clamp at a 3′-double strand-single strand junction with
+               a unique orientation (depicted in Fig. 15 with gold face oriented toward the 3′
+               terminus). The Jiricny and Kolodner labs have shown that MutSα is tethered to
+               the replication fork via physical interaction with PCNA [80, 81], and both of
+               these proteins are capable of movement along the helix [34–36, 82]. Mismatch
+               recognition by MutSα triggers recruitment of MutLα, which is capable of inter-
+               acting with both proteins. The idea is that the asymmetry of clamp loading is
+               preserved in the MutLα-PCNA complex, and this serves to uniquely orient the
+               MutLα endonuclease active site relative to two DNA strands of the helix.
+
+
+
+
+ook.indb 115                                                                                            5/12/16 1:52 PM
+
+
+           116                                                                The Nobel Prizes
+
+
+
+
+           Figure 15. Strand direction of MutLα endonuclease action is determined by the orienta-
+           tion with which the PCNA sliding clamp is loaded onto the DNA helix.
+
+
+
+               When we began our work on human mismatch repair, we had no idea con-
+           cerning the nature of the biological strand signals, although we and others had
+           suggested that DNA termini that occur naturally during the course of DNA rep-
+           lication might suffice in this regard [41, 67, 83]. The strand-directed reactions
+           described above are consistent with this view. 5′ termini on the lagging strand at
+           the replication fork would presumably support loading of MutSα-activated Exo1,
+           and genetic studies from the Kolodner and Kunkel laboratories are compatible
+           with this idea [81, 84]. Furthermore, strand direction of MutLα endonuclease
+           action is controlled by the loading orientation of the PCNA clamp on the helix,
+           which in turn is determined by 3′-termini on the leading and lagging strands at
+           the fork. It therefore seems likely that 5′ and 3′ DNA termini that occur natu-
+           rally during the course of DNA replication serve as default signals that direct
+           mismatch repair in the eukaryotic cell.
+
+
+           Acknowledgments
+
+           I have been truly fortunate to share these mismatch repair studies with a group
+           of outstanding graduate students and postdoctoral fellows, a number of whom
+           have touched my life in ways other than science. I also thank the Howard Hughes
+
+
+
+
+ook.indb 116                                                                                        5/12/16 1:52 PM
+
+
+               Mechanisms in E. coli and Human Mismatch Repair117
+
+
+               Medical Institute and the National Institutes of Health for their generous support
+               of this work over the years.
+
+               References
+                1. Holliday, R. (1964) A mechanism for gene conversion in fungi. Genet. Res., 5,
+                   282–304.
+                2. Meselson, M. and Weigle, J.J. (1961) Chromosome brekage accompanying genetic
+                   recombination in bacteriophage. Proc. Natl. Acad. Sci. U. S. A., 47, 857–868.
+                3. Ephrussi-Taylor, H. and Gray, T.C. (1966) Genetic studies of recombining DNA in
+                   pneumococcal transformation. J. Gen. Physiol., 49 (part 2), 211–231.
+                4. White, R.L. and Fox, M.S. (1975) Genetic consequences of transfection with hetero-
+                   duplex bacteriophage lambda DNA. Mol. Gen. Genet., 141, 163–171.
+                5. Wildenberg, J. and Meselson, M. (1975) Mismatch repair in heteroduplex DNA.
+                   Proc. Natl. Acad. Sci. U. S. A., 72, 2202–2206.
+                6. Wagner, R. and Meselson, M. (1976) Repair tracts in mismatched DNA heterodu-
+                   plexes. Proc. Natl. Acad. Sci. U. S. A., 73, 4135–4139.
+                7. Jiricny, J. (2013) Postreplicative mismatch repair. Cold Spring Harbor perspectives in
+                   biology, 5, a012633.
+                8. Pukkila, P.J., Peterson, J., Herman, G., Modrich, P. and Meselson, M. (1983) Effects
+                   of high levels of DNA adenine methylation on methyl-directed mismatch repair in
+                   Escherichia coli. Genetics, 104, 571–582.
+                9. Nevers, P. and Spatz, H. (1975) Escherichia coli mutants uvrD uvrE deficient in gene
+                   conversion of lambda heteroduplexes. Mol. Gen. Genet., 139, 233–243.
+               10. Rydberg, B. (1978) Bromouracil mutagenesis and mismatch repair in mutator strains
+                   of Escherichia coli. Mutat. Res., 52, 11–24.
+               11. Glickman, B.W. and Radman, M. (1980) Escherichia coli mutator mutants deficient
+                   in methylation-instructed DNA mismatch correction. Proc. Natl. Acad. Sci. U. S. A.,
+                   77, 1063–1067.
+               12. Vovis, G.F., Horiuchi, K., Hartman, N. and Zinder, N.D. (1973) Restriction endo-
+                   nuclease B and f1 heteroduplex DNA. Nat. New. Biol., 246, 13–16.
+               13. Enea, V., Vovis, G.F. and Zinder, N.D. (1975) Genetic studies with heteroduplex
+                   DNA of bacteriophage f1. Asymmetric segregation, base correction, and implica-
+                   tions for the mechanism of genetic recombination. J. Mol. Biol., 96, 495–509.
+               14. Lu, A.L., Clark, S. and Modrich, P. (1983) Methyl-directed repair of DNA base-pair
+                   mismatches in vitro. Proc. Natl. Acad. Sci. U. S. A., 80, 4639–4643.
+               15. Lu, A.L., Welsh, K., Clark, S., Su, S.S. and Modrich, P. (1984) Repair of DNA base-
+                   pair mismatches in extracts of Escherichia coli. Cold Spring Harbor symposia on
+                   quantitative biology, 49, 589–596.
+               16. Su, S.-S., Lahue, R.S., Au, K.G. and Modrich, P. (1988) Mispair specificity of methyl-
+                   directed DNA mismatch correction in vitro. J. Biol. Chem., 263, 6829–6835.
+               17. Lahue, R.S., Su, S.S. and Modrich, P. (1987) Requirement for d(GATC) sequences
+                   in Escherichia coli mutHLS mismatch correction. Proc. Natl. Acad. Sci. U. S. A., 84,
+                   1482–1486.
+
+
+
+
+ook.indb 117                                                                                                5/12/16 1:52 PM
+
+
+           118                                                                          The Nobel Prizes
+
+
+               18. Su, S.S., Grilley, M., Thresher, R., Griffith, J. and Modrich, P. (1989) Gap formation is
+                   associated with methyl-directed mismatch correction under conditions of restricted
+                   DNA synthesis. Genome, 31, 104–111.
+               19. Grilley, M., Griffith, J. and Modrich, P. (1993) Bidirectional excision in methyl-
+                   directed mismatch repair. J. Biol. Chem., 268, 11830–11837.
+               20. Su, S.-S. and Modrich, P. (1986) Escherichia coli mutS-encoded protein binds to mis-
+                   matched DNA base pairs. Proc. Natl. Acad. Sci. U. S. A., 83, 5057–5061.
+               21. Welsh, K.M., Lu, A.L., Clark, S. and Modrich, P. (1987) Isolation and characteriza-
+                   tion of the Escherichia coli mutH gene product. J. Biol. Chem., 262, 15624–15629.
+               22. Grilley, M., Welsh, K.M., Su, S.-S. and Modrich, P. (1989) Isolation and character-
+                   ization of the Escherichia coli mutL gene product. J. Biol. Chem., 264, 1000–1004.
+               23. Lahue, R.S., Au, K.G. and Modrich, P. (1989) DNA mismatch correction in a defined
+                   system. Science, 245, 160–164.
+               24. Hickson, I.D., Arthur, H.M., Bramhill, D. and Emmerson, P.T. (1983) The E. coli
+                   uvrD gene product is DNA helicase II. Mol. Gen. Genet., 190, 265–270.
+               25. Lamers, M.H., Perrakis, A., Enzlin, J.H., Winterwerp, H.H., de Wind, N. and Sixma,
+                   T.K. (2000) The crystal structure of DNA mismatch repair protein MutS binding to
+                   a G-T mismatch. Nature, 407, 711–717.
+               26. Cooper, D.L., Lahue, R.S. and Modrich, P. (1993) Methyl-directed mismatch repair
+                   is bidirectional. J. Biol. Chem., 268, 11823–11829.
+               27. Burdett, V., Baitinger, C., Viswanathan, M., Lovett, S.T. and Modrich, P. (2001) In
+                   vivo requirement for RecJ, ExoVII, ExoI, and ExoX in methyl-directed mismatch
+                   repair. Proc. Natl. Acad. Sci. U. S. A., 98, 6765–6770.
+               28. Viswanathan, M., Burdett, V., Baitinger, C., Modrich, P. and Lovett, S.T. (2001)
+                   Redundant exonuclease involvement in Escherichia coli methyl-directed mismatch
+                   repair. J. Biol. Chem., 276, 31053–31058.
+               29. Chase, J.W. and Richardson, C.C. (1974) Exonuclease VII of Escherichia coli: mecha-
+                   nism of action. J. Biol. Chem., 249, 4553–4561.
+               30. Au, K.G., Welsh, K. and Modrich, P. (1992) Initiation of methyl-directed mismatch
+                   repair. J. Biol. Chem., 267, 12142–12148.
+               31. Dao, V. and Modrich, P. (1998) Mismatch, MutS, MutL, and helicase II-dependent
+                   unwinding from the single-strand break of an incised heteroduplex. J. Biol. Chem.,
+                   273, 9202–9207.
+               32. Yamaguchi, M., Dao, V. and Modrich, P. (1998) MutS and MutL activate DNA heli-
+                   case II in a mismatch-dependent manner. J. Biol. Chem., 273, 9197–9201.
+               33. Pluciennik, A., Burdett, V., Lukianova, O., O’Donnell, M. and Modrich, P. (2009)
+                   Involvement of the beta clamp in methyl-directed mismatch repair in vitro. J. Biol.
+                   Chem., 284, 32782–32791.
+               34. Kunkel, T.A. and Erie, D.A. (2005) DNA Mismatch Repair. Annu. Rev. Biochem.,
+                   74, 681–710.
+               35. Iyer, R.R., Pluciennik, A., Burdett, V. and Modrich, P.L. (2006) DNA mismatch
+                   repair: functions and mechanisms. Chem. Rev., 106, 302–323.
+               36. Fishel, R. (2015) Mismatch Repair. J. Biol. Chem., 290, 26395–26403.
+               37. Muster-Nassal, C. and Kolodner, R. (1986) Mismatch correction catalyzed by cell-
+                   free extracts of Saccharomyces cerevisiae. Proc. Natl. Acad. Sci. U. S. A., 83, 7618–7622.
+
+
+
+
+ook.indb 118                                                                                                    5/12/16 1:52 PM
+
+
+               Mechanisms in E. coli and Human Mismatch Repair119
+
+
+               38. Glazer, P.M., Sarkar, S.N., Chisholm, G.E. and Summers, W.C. (1987) DNA mis-
+                    match repair detected in human cell extracts. Mol. Cell. Biol., 7, 218–224.
+               39. Brown, T.C. and Jiricny, J. (1988) Different base/base mispairs are corrected with
+                    different efficiencies and specificities in monkey kidney cells. Cell, 54, 705–711.
+               40. Brooks, P., Dohet, C., Almouzni, G., Mechali, M. and Radman, M. (1989) Mismatch
+                    repair involving localized DNA synthesis in extracts of Xenopus eggs. Proc. Natl.
+                    Acad. Sci. U. S. A., 86, 4425–4429.
+               41. Holmes, J., Clark, S. and Modrich, P. (1990) Strand-specific mismatch correction in
+                    nuclear extracts of human and Drosophila melanogaster cell lines. Proc. Natl. Acad.
+                    Sci. U. S. A., 87, 5837–5841.
+               41a. Fang, W.-H. and Modrich, P. (1993) Human strand-specific mismatch repair occurs
+                    by a bidirectional mechanism similar to that of the bacterial reaction. J. Biol. Chem.,
+                    268, 11838–11844.
+               42. Aaltonen, L.A., Peltomäki, P., Leach, F.S., Sistonen, P., Pylkkänen, L., Mecklin, J.-P.,
+                    Järvinen, H., Powell, S.M., Jen, J., Hamilton, S.R., Petersen, G.M., Kinzler, K.W.,
+                    Vogelstein, B. and de la Chapelle, A. (1993) Clues to the pathogenesis of familial
+                    colorectal cancer. Science, 260, 812–816.
+               43. Ionov, Y., Peinado, M.A., Malkhosyan, S., Shibata, D. and Perucho, M. (1993)
+                    Ubiquitous somatic mutations in simple repeated sequences reveal a new mecha-
+                    nism for colonic carcinogenesis. Nature, 363, 558–561.
+               44. Peltomaki, P. (2003) Role of DNA mismatch repair defects in the pathogenesis of
+                    human cancer. J. Clin. Oncol., 21, 1174–1179.
+               45. Rowley, P.T. (2005) Inherited susceptibility to colorectal cancer. Annu. Rev. Med.,
+                    56, 539–554.
+               46. Levinson, G. and Gutman, G.A. (1987) High frequencies of short frameshifts in
+                    poly-CA/TG tandem repeats borne by bacteriophage M13 in Escherichia coli K-12.
+                    Nucleic Acids Res., 15, 5323–5338.
+               47. Parsons, R., Li, G.M., Longley, M.J., Fang, W.H., Papadopoulos, N., Jen, J., de la
+                    Chapelle, A., Kinzler, K.W., Vogelstein, B. and Modrich, P. (1993) Hypermutability
+                    and mismatch repair deficiency in RER+ tumor cells. Cell, 75, 1227–1236.
+               48. Drummond, J.T., Li, G.-M., Longley, M.J. and Modrich, P. (1995) Isolation of an
+                    hMSH2•p160 heterodimer that restores mismatch repair to tumor cells. Science,
+                    268, 1909–1912.
+               49. Li, G.M. and Modrich, P. (1995) Restoration of mismatch repair to nuclear extracts
+                    of H6 colorectal tumor cells by a heterodimer of human MutL homologs. Proc. Natl.
+                    Acad. Sci. U. S. A., 92, 1950–1954.
+               50. Veigl, M.L., Kasturi, L., Olechnowicz, J., Ma, A.H., Lutterbaugh, J.D., Periyasamy, S.,
+                    Li, G.M., Drummond, J., Modrich, P.L., Sedwick, W.D. and Markowitz, S.D. (1998)
+                    Biallelic inactivation of hMLH1 by epigenetic gene silencing, a novel mechanism
+                    causing human MSI cancers. Proc. Natl. Acad. Sci. U. S. A., 95, 8698–8702.
+               51. Iaccarino, I., Palombo, F., Drummond, J., Totty, N.F., Hsuan, J.J., Modrich, P. and
+                    Jiricny, J. (1996) MSH6, a Saccharomyces cerevisiae protein that binds to mismatches
+                    as a heterodimer with MSH2. Curr. Biol., 6, 484–486.
+               52. Genschel, J., Littman, S.J., Drummond, J.T. and Modrich, P. (1998) Isolation of
+                    hMutSbeta from human cells and comparison of the mismatch repair specificities
+                    of hMutSbeta and hMutSalpha. J. Biol. Chem., 273, 19895–19901.
+
+
+
+
+ook.indb 119                                                                                                  5/12/16 1:52 PM
+
+
+           120                                                                         The Nobel Prizes
+
+
+               53. Fishel, R. and Kolodner, R.D. (1995) Identification of mismatch repair genes and
+                   their role in the development of cancer. Curr. Opin. Genet. Dev., 5, 382–395.
+               54. Kinzler, K.W. and Vogelstein, B. (1996) Lessons from hereditary colorectal cancer.
+                   Cell, 87, 159–170.
+               55. Eshleman, J.R., Lang, E.Z., Bowerfind, G.K., Parsons, R., Vogelstein, B., Willson,
+                   J.K., Veigl, M.L., Sedwick, W.D. and Markowitz, S.D. (1995) Increased mutation rate
+                   at the hprt locus accompanies microsatellite instability in colon cancer. Oncogene,
+                   10, 33–37.
+               56. Glaab, W.E. and Tindall, K.R. (1997) Mutation rate at the hprt locus in human cancer
+                   cell lines with specific mismatch repair-gene defects. Carcinogenesis, 18, 1–8.
+               57. Umar, A., Risinger, J.I., Glaab, W.E., Tindall, K.R., Barrett, J.C. and Kunkel, T.A.
+                   (1998) Functional overlap in mismatch repair by human MSH3 and MSH6. Genetics,
+                   148, 1637–1646.
+               58. Jacinto, F.V. and Esteller, M. (2007) Mutator pathways unleashed by epigenetic
+                   silencing in human cancer. Mutagenesis, 22, 247–253.
+               59. Acharya, S., Wilson, T., Gradia, S., Kane, M.F., Guerrette, S., Marsischky, G.T.,
+                   Kolodner, R. and Fishel, R. (1996) hMSH2 forms specific mispair-binding complexes
+                   with hMSH3 and hMSH6. Proc. Natl. Acad. Sci. U. S. A., 93, 13629–13634.
+               60. Habraken, Y., Sung, P., Prakash, L. and Prakash, S. (1996) Binding of insertion/dele-
+                   tion DNA mismatches by the heterodimer of yeast mismatch repair proteins MSH2
+                   and MSH3. Curr. Biol., 6, 1185–1187.
+               61. Palombo, F., Iaccarino, I., Nakajima, E., Ikejima, M., Shimada, T. and Jiricny, J. (1996)
+                   hMutSb, a heterodimer of hMSH2 and hMSH3, binds to insertion/deletion loops in
+                   DNA. Curr. Biol., 6, 1181–1184.
+               62. Szankasi, P. and Smith, G.R. (1995) A role for exonuclease I from S. pombe in muta-
+                   tion avoidance and mismatch correction. Science, 267, 1166–1169.
+               63. Tishkoff, D.X., Boerger, A.L., Bertrand, P., Filosi, N., Gaida, G.M., Kane, M.F. and
+                   Kolodner, R.D. (1997) Identification and characterization of Saccharomyces cerevi-
+                   siae EXO1, a gene encoding an exonuclease that interacts with MSH2. Proc. Natl.
+                   Acad. Sci. U. S. A., 94, 7487–7492.
+               64. Genschel, J., Bazemore, L.R. and Modrich, P. (2002) Human exonuclease I is required
+                   for 5′ and 3′ mismatch repair. J. Biol. Chem., 277, 13302–13311.
+               65. Lin, Y.L., Shivji, M.K., Chen, C., Kolodner, R., Wood, R.D. and Dutta, A. (1998) The
+                   evolutionarily conserved zinc finger motif in the largest subunit of human replica-
+                   tion protein A is required for DNA replication and mismatch repair but not for
+                   nucleotide excision repair. J. Biol. Chem., 273, 1453–1461.
+               66. Ramilo, C., Gu, L., Guo, S., Zhang, X., Patrick, S.M., Turchi, J.J. and Li, G.M. (2002)
+                   Partial reconstitution of human DNA mismatch repair in vitro: characterization of
+                   the role of human replication protein A. Mol. Cell. Biol., 22, 2037–2046.
+               67. Umar, A., Buermeyer, A.B., Simon, J.A., Thomas, D.C., Clark, A.B., Liskay, R.M.
+                   and Kunkel, T.A. (1996) Requirement for PCNA in DNA mismatch repair at a step
+                   preceding DNA resynthesis. Cell, 87, 65–73.
+               68. Dzantiev, L., Constantin, N., Genschel, J., Iyer, R.R., Burgers, P.M. and Modrich,
+                   P. (2004) A defined human system that supports bidirectional mismatch-provoked
+                   excision. Mol. Cell, 15, 31–41.
+
+
+
+
+ook.indb 120                                                                                                   5/12/16 1:52 PM
+
+
+               Mechanisms in E. coli and Human Mismatch Repair121
+
+
+               69. Longley, M.J., Pierce, A.J. and Modrich, P. (1997) DNA polymerase delta is required
+                    for human mismatch repair in vitro. J. Biol. Chem., 272, 10917–10921.
+               70. Constantin, N., Dzantiev, L., Kadyrov, F.A. and Modrich, P. (2005) Human mismatch
+                    repair: Reconstitution of a nick-directed bidirectional reaction. J. Biol. Chem., 280,
+                    39752–39761.
+               71. Genschel, J. and Modrich, P. (2003) Mechanism of 5′-directed excision in human
+                    mismatch repair. Mol. Cell, 12, 1077–1086.
+               72. Zhang, Y., Yuan, F., Presnell, S.R., Tian, K., Gao, Y., Tomkinson, A.E., Gu, L. and
+                    Li, G.M. (2005) Reconstitution of 5′-directed human mismatch repair in a purified
+                    system. Cell, 122, 693–705.
+               73. Genschel, J. and Modrich, P. (2009) Functions of MutL{alpha}, RPA, and HMGB1 in
+                    5′-directed mismatch repair. J. Biol. Chem., 284, 21536–21544.
+               74. Liu, Y., Kadyrov, F.A. and Modrich, P. (2011) PARP-1 enhances the mismatch-depen-
+                    dence of 5′-directed excision in human mismatch repair in vitro. DNA Repair (Amst),
+                    10, 1145–1153.
+               75. Kadyrov, F.A., Dzantiev, L., Constantin, N. and Modrich, P. (2006) Endonucleolytic
+                    function of MutLalpha in human mismatch repair. Cell, 126, 297–308.
+               75a. Kadyrov, F.A., Genschel, J., Fang, Y., Penland, E., Edelmann, W. and Modrich, P.
+                    (2009) A possible mechanism for exonuclease 1-independent eukaryotic mismatch
+                    repair. Proc. Natl. Acad. Sci. USA, 106, 8495–8500.
+               76. Kadyrov, F.A., Holmes, S.F., Arana, M.E., Lukianova, O.A., O’Donnell, M., Kunkel,
+                    T.A. and Modrich, P. (2007) Saccharomyces cerevisiae MutLα is a mismatch repair
+                    endonuclease. J. Biol. Chem., 282, 37181–37190.
+               77. van Oers, J.M., Roa, S., Werling, U., Liu, Y., Genschel, J., Hou, H., Jr., Sellers, R.S.,
+                    Modrich, P., Scharff, M.D. and Edelmann, W. (2010) PMS2 endonuclease activity
+                    has distinct biological functions and is essential for genome maintenance. Proc. Natl.
+                    Acad. Sci. U. S. A., 107, 13384–13389.
+               78. Lenhart, J.S., Pillon, M.C., Guarne, A., Biteen, J.S. and Simmons, L.A. (2016)
+                    Mismatch repair in Gram-positive bacteria. Res. Microbiol., in press.
+               79. Pluciennik, A., Dzantiev, L., Iyer, R.R., Constantin, N., Kadyrov, F.A. and Modrich,
+                    P. (2010) PCNA function in the activation and strand direction of MutLalpha endo-
+                    nuclease in mismatch repair. Proc. Natl. Acad. Sci. U. S. A., 107, 16066–16071.
+               80. Kleczkowska, H.E., Marra, G., Lettieri, T. and Jiricny, J. (2001) hMSH3 and hMSH6
+                    interact with PCNA and colocalize with it to replication foci. Genes Dev., 15, 724–736.
+               81. Hombauer, H., Campbell, C.S., Smith, C.E., Desai, A. and Kolodner, R.D. (2011)
+                    Visualization of eukaryotic DNA mismatch repair reveals distinct recognition and
+                    repair intermediates. Cell, 147, 1040–1053.
+               82. Hedglin, M., Kumar, R. and Benkovic, S.J. (2013) Replication clamps and clamp
+                    loaders. Cold Spring Harbor perspectives in biology, 5, a010165.
+               83. Claverys, J.-P. and Lacks, S.A. (1986) Heteroduplex deoxyribonucleic acid base mis-
+                    match repair in bacteria. Microbiol. Rev., 50, 133–165.
+               84. Liberti, S.E., Larrea, A.A. and Kunkel, T.A. (2013) Exonuclease 1 preferentially repairs
+                    mismatches generated by DNA polymerase alpha. DNA Repair (Amst), 12, 92–96.
+
+
+
+
+ook.indb 121                                                                                                   5/12/16 1:52 PM
+

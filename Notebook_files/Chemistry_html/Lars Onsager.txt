@@ -1,0 +1,573 @@
+                              LARS O NSAGER
+
+
+       The motion of ions: principles and concepts
+                       Nobel Lecture, December 11, 1968
+
+
+
+Today I shall try to help you grasp the significance of a fairly general principle
+which applies to diverse types of irreversible processes. After last night it will
+be just as well if we do not go into all fine points of definitions or survey all
+possible applications. Rather, I want to talk about progress over a period of
+time in one field of research where much has happened (some of this relevant
+to the principle I mentioned) and intriguing problems still remain. Before we
+survey the progress in our understanding of electrolytes since the days of
+Arrhenius, let us take a quick look at what went before.        .
+   Gay-Lussac’s rule of combining volumes (1808) led Avogadro to surmise
+that under corresponding conditions of temperature and pressure equal vol-
+umes of different gases contain equal numbers of molecules (1811). This prin-
+ciple was to become the chemist’s primary means to determine molecular
+weights, but it was long debated and not in general use until after 1860. By
+that time Cannizzaro could muster enough evidence for a strong argument at
+the first international congress in Karlsruhe, and within a few years Avoga-
+dro’s principle gained wide acceptance.
+   We may at least speculate that contemporary developments in the kinetic
+theory of gases encouraged the chemists’ change of attitude, although they
+rarely if ever admitted that; they preferred to maintain an inductive point of
+view in their publications. In 1860, Maxwell obtained his distribution law for
+molecular velocities, which implies equipartition of kinetic energy; Avoga-
+dro’s principle is an automatic consequence. In the following year Boltzmann
+founded a more general theory of specific heats, explaining the empirical rule
+of Dulong and Petit; those results had to be exploited with semi-empirical
+modifications until the quantum theory accounted for the discrepancies much
+later. Guldberg and Waage (1864) formulated the mass-action law and sup-
+ported it by experiments. After a while (I 885) Van ‘t Hoff recognized a close
+analogy between solutions and gases, so that measurements of osmotic pres-
+sure or changes in vapor pressure or freezing point depression could substitute
+for vapor densities. Strangely, however, the observations on solutions of salts,
+acids and bases in water indicated the presence of more solute particles than
+
+
+                          THE MOTION OF IONS                                  273
+ there could be molecules by any reasonable interpretation ofchemistry known
+then or now. Arrheniusr1,2 (1884) recognized that these electrolytes dissociate
+largely into free ions, and he could point to a pretty good correspondence
+between the Van ‘t Hoff "anomalies" and the degrees of ionization inferred
+from the electrical conductivity.
+   A greatly simplified picture of electrolyte solutions loomed. At fairly low
+but readily attainable concentrations solutions of readily dissociating com-
+pounds like hydrochloric acid, potassium hydroxide and a great many salts
+like sodium chloride would be completely dissociated and the properties of a
+solution would be additive, not just over molecules, but even over the con-
+stituent ions. At higher concentrations, admittedly, one would have to allow
+for combination to form molecules or compound ions according to the mass-
+action law, as suggested by Ostwalds (1888). Nernst developed appropriate
+simple theories for the diffusion of electrolytes and for the variation of an
+electrode potential with the concentration of the ion discharged.
+   Such was the simple picture presented to me as a freshman chemist in 1920.
+In spite of some idealization it sufficed for a great many purposes; it eased
+many tasks no end and we were eternally grateful for that. However, very
+soon the journals rather than the textbooks taught me about numerous obser-
+vations which did not quite fit into the picture and of tentative explanations
+for the discrepancies. Whether the experimenters studied the electrical con-
+ductivities or the equilibrium properties like freezing point depressions and
+electromotive forces, significant deviations from the ideal additive behavior
+persisted to much lower concentrations than had been predicted according to
+the mass-action law from the measurements performed on more concen-
+trated solutions. These phenomena became known as the "anomalies" of
+strong electrolytes. In many ways the anomalies displayed conspicuous regu-
+larities; if one compared salts of the same valence type like NaCl and KNO 3,
+the differences were typically small even at concentrations as high as 0.1 mole/
+liter. Suspicion centered on the long-range electrostatic forces between the
+ions.
+   Debye and Hückel4 finally succeeded in predicting the effects of the electro-
+static interaction from the general principles of kinetic theory. They pointed
+out that the electrostatic field around an ion must be screened by an average
+density of compensating charge. As had been found previously by Gouy
+(1913) in somewhat different context, the screening distance is given by the
+ionic strength (sum of concentrations multiplied by squares of charges), the
+dielectric constant of the solvent and the temperature; it varies inversely as the
+
+
+274                          1968 LARS ONSAGER
+
+ square root of the ionic strength. The resulting effects on the chemical poten-
+ tials of electrolytes are proportional to the square root of the ionic strength; to
+ compute the coefficient one has to know the magnitude of an elementary
+charge, and the measurements of Millikans had already supplied that infor-
+ mation (1917). These predictions agreed well enough with previous experi-
+ments, and the improved techniques of subsequent decades have only con-
+firmed the agreement. The theory of Debye and Hückel was soon routinely
+exploited to great advantage. Those stubborn deviations from the laws of
+Van ‘t Hoff and Arrhenius and Guldberg and Waage became harmless be-
+cause we could compute them, make proper allowance and extrapolate in
+comfort to exploit additive relations. To make matters even easier, many
+electrolytes turned out to be completely dissociated or nearly so.
+    Debye and Hückel also considered the conductivity of electrolytes, a most
+important source of information because the measurement is almost always
+feasible, and it takes only reasonable care to get accurate results. Kohlrausch
+had shown long since that the conductivities of strong electrolytes in water
+ decrease linearly with the square root of the concentration. Debye and Hückel
+recognized that two effects contribute to this decrease. For one, while the ex-
+ternal electric field exerts a force on the ion, an opposing force of equal
+magnitude is distributed over the screening cloud of compensating charge. As
+a result, every ion is driven against a countercurrent; the speed of this current
+is proportional to the charge of the central ion and independent of its own
+mobility. This is called the electrophoretic effect, and the theory is closely
+related to that of the effect so profitably utilized by Tiselius 6; but there is a
+significant difference between small and large particles, and the meaning of
+the word "electrophoresis" varies according to context. The so-called "relax-
+ation effect" depends on distortions of the screening clouds produced by the
+systematic motion of the ions in the external field. As it happened, Debye
+and Hückel overestimated that effect and concluded that in computing the
+"electrophoretic force" they had extrapolated the macroscopic hydrodynam-
+ics too far.
+    Fortunately, my own efforts in the summer of 1923 had produced a modest
+but firm result. The relaxation effect ought to reduce the mobilities of anion
+and cation in equal proportion. Much to my surprise, the results of Debye and
+Hückel did not satisfy that relation, nor the requirement that whenever an ion
+of type A is 10 Å West of a B, there is a B 10 Å East of that A. Clearly, some-
+thing essential had been left out in the derivation of such unsymmetrical re-
+sults. The model used was this: one particular ion is constrained to move at a
+
+
+                            THE MOTION OF IONS                                  275
+ constant speed along a straight line in the solution; neighboring ions respond
+ to the fields in the distorted screening cloud, and in addition they mill around
+ in random fashion according to the laws of Brownian motion. Recipe: Remove
+ restraints on the central ion but retain an external force on it, let it execute its
+ own thermal motion and respond to the fields of its neighbors, and recognize
+ whatever external forces act on them. That done, the result for binary electro-
+lytes became very simple: the relaxation effect reduces the migration velocity
+ of every ion by a fraction which depends neither on its own mobility nor on
+that of the partner species (of opposite, numerically equal charge). Otherwise
+ the effect is charge-dependent and proportional to the square root of the
+ concentration - just like the corrections to the equilibrium properties, but
+with a different coefficient. As to the electrophoretic effect, it was easy to
+show that plausible variations of the hydrodynamics near the center of the
+countercurrent system driven by a widely distributed force could not matter
+enough to affect the limiting law; Debye and Hückel had unjustly impugned
+their own result.
+    As seen from Fig. 1, the general variation of conductivities with the con-
+centration for 1-1 electrolytes was quite well explained; the divergence and
+individual variation at higher concentrations was foreseeable, but the theory
+was not so far developed that the significance of those features could be
+evaluated in detail.
+   Fig. 2 displays the difference between a strong acid (HCl) and a weaker
+one (HIO3). Clearly, the concept of a dissociation equilibrium was still in-
+dispensable.
+   In Fig. 3 we see the conductivities of a few ternary electrolytes compared
+with the theoretical limiting formulas.
+   In Fig. 4 the curves with appropriate limiting tangents are extrapolated ac-
+cording to the theory; previous empirical extrapolations are indicated too.
+The point was that the new extrapolation for MgSO 4 agreed with the limiting
+value expected from the additivity rule while the old one did not. It became
+clear that MgSO4 was incompletely dissociated (as well as CdSO 4), a con-
+clusion confirmed by later studies of the chemical reaction kinetics (Eigen9).
+   In Fig. 5 we see some deviations from Kohlrausch’s rule of independent
+mobilities, first computed by Bennewitz, Wagner and Küchler10 (1929), then
+demonstrated by Longsworth (1930). Solutions containing HCl and KCl in
+varying proportion are compared at constant total concentration. The fast
+hydrogen ions are delayed as they overtake the slower potassium ions and de-
+tour around them; the potassium ions are speeded up by the same interaction.
+
+
+276                         1968 LARS ONSAGER
+
+
+
+
+Fig. 1. Conductivities of I-I electrolytes in water. equivalent conductivity; con-
+centration in equiv./I. From Physik.Z., 28 (1927) 277. Reproduced by permission of
+                            S.Hirzel Verlag K.G., Stuttgart.
+
+
+The resultant net decrease of the total conductivity had been observed in a
+similar case before (Bray and Hunt, 1912) and pronounced a baffling mystery.
+   Going back to the time when I revised the theory of Debye and Hückel,
+the task was by no means easy. The key was a principle of superposition ap-
+plied to the ion cloud around a pair. To begin with, it was a bit confusing that
+the force exerted by the external field on an ion as well as the interaction
+between the ions were proportional to the charge. In order to gain perspective
+I decided to ignore the relation between the charge and the driving force, and
+took a look at a more general problem. One constant field of force is acting on
+each kind of ion; what are the effects of the Coulomb interaction? The prob-
+lem is in fact equivalent to that which arises in the most general case of diffu-
+
+
+                           THE MOTION OF IONS                                   277
+
+
+
+
+Fig. 2. Conductivities of hydrochloric acid and iodic acids in water. Same notation
+as Fig. 1. From Physik.Z., 28 (1927) 277. Reproduced by permission of S.Hirzel K.G.,
+                                       Stuttgart.
+
+
+sion and electrical conduction combined; the gradients of chemical potentials
+are equivalents of forces :
+
+
+
+where         k,... stand for                . for chemical "potentials of ions",
+    . . for charges and for the electrostatic potential. A measure of ambiguity
+in the definition         induces a corresponding ambiguity in             . but the
+combination                known as the "electrochemical potential", is uniquely
+defined for the purpose in hand. If the result of the computation was written
+in terms of transport J 1,J2,...
+
+
+
+the coefficients LJI were invariably symmetrical. It was soon evident that this
+did not depend on any mathematical approximations. For the relaxation effect
+I could depend on Newton’s principle of action and reaction; for all the com-
+plications of hydrodynamics a "principle of least dissipation" derived by
+Helmholtz assured the symmetry. Admittedly, I did assume some consistent
+scheme of Brownian motion kinetics; but even that seemed not essential. The
+symmetry relation itself was equivalent to a principle of least dissipation; in -
+verting the equations:
+
+
+278                           1968 LARS ONSAGER
+
+
+
+
+Fig. 3. Conductivities of 1-2 electrolytes in water. Same notation as Fig. I. From Physik.
+    Z., 28 (1927) 277. Reproduced by permission of S.Hirzel Verlag K. G., Stuttgart.
+
+
+
+then
+
+
+
+
+equals the degradation of free energy, and it is a minimum in a case of station -
+ary flow.
+   An unusual problem in chemical kinetics attracted my attention at the same
+time. C. N. Riiber was studying the mutarotation of various sugars by several
+precise methods: optical rotation, refractive index (interferometer) and vol-
+ume changes (dilatometer). He discovered that there were (at least) three
+
+
+                             THE MOTION OF IONS                                       279
+modifications of galactose, and the possibility that any one of these might
+transform into either of the others gave rise to a little problem in mathematics.
+In analyzing it I assumed, as any sensible chemist would, that in the state of
+equilibrium the reaction         would occur just as often as        I, etc., even
+
+
+
+
+Fig. 4. Conductivities of 2-2 electrolytes in water. Same notation as Fig. 1. From Physik.
+   Z., 28(1927)277. Reproduced with permission of S.Hirzel Verlag K. G., Stuttgart.
+
+
+
+
+Fig. 5. The variation of cation mobilities with mixing ratio for aqueous solutions con-
+taining varying proportions of HCl and KC1 at constant total concentration of 0.1 mole/
+liter. Measurements by Bennewitz, Wagner and Küchler10 (1929). Figure from H.S.
+Harned and B.B. Owen, The Physical Chemistry of Electrolyte Solutions, ACS Monograph
+No.95, Reinhold, New York, 1943, p.143. Reproduced by permission of the authors and
+                        of Van Nostrand/Reinhold, New York
+
+
+280                         1968 LARS ONSAGER
+
+ though this is not a necessary condition for equilibrium, which might be
+ maintained by a cyclic reaction - as far as the mathematics goes; the physics
+ did not seem reasonable. Now if we look at the condition of detailed balan-
+ cing from the thermodynamic point of view, it is quite analogous to the
+ principle of least dissipation.
+    I developed a strong faith in the principle of least dissipation, and recognized
+ that it had been used somehow by Helmholtz in his theory of galvanic diffu-
+ sion cells and by Kelvin in his theory of thermoelectric phenomena. Some
+years later in Zürich in a conversation with P. Scherrer, I found that he had
+ been strongly impressed by the ideas of G. N. Lewis about detailed balancing.
+ This made me put the cart behind the horse. Now I looked for a way to apply
+ the condition of microscopic reversibility to transport processes, and after a
+while I found a handle on the problem: the natural fluctuations in the distri-
+bution of molecules and energy due to the random thermal motion. Accord-
+ing to a principle formulated by Boltzmann, the nature of thermal (and
+chemical) equilibrium is statistical, and the statistics of spontaneous deviations
+is determined by the associated changes of the thermodynamic master func-
+tion; that is the entropy - or at constant temperature, equally well the free
+energy. Here was a firm connection with the thermodynamics, and we con-
+nect with the laws of transport as soon as we may assume that a spontaneous
+deviation from the equilibrium decays according to the same laws as one that
+has been produced artificially. When this reasoning was exploited by appro-
+priate mathematics, the long-suspected reciprocal relations did indeed appear
+among the results, which were first announced in 1929. In view of the very
+general claims I felt that concepts and conditions ought to be defined with
+great care, and a complete exposition11,12 did not appear until 1931.
+   One consequence of the principle is that the removal of a constraint will
+never decrease the rate of dissipation of energy. For example, closing an elec-
+tric contact allows a current to flow; that is one way to remove a constraint.
+In this sense the principle was applied as a hypothesis by Kelvin in his theory of
+thermoelectric phenomena. By the same route Helmholtz arrived at a relation
+between streaming potentials and electrophoresis in capillaries (an inside-
+out variation of the effect utilized by Tiselius) ; he also derived a formula for
+the electromotive force of a concentration cell, which was later generalized by
+MacInnes and Beattie13 (1920). The most important application of the dis-
+sipation principle not yet suggested in 1931 was a general relation between the
+cross-coefficients for diffusion of different solutes. This was announced for
+electrolytes in a joint paper with Fuoss14 (1932), where of course the relation
+
+
+                         THE MOTION OF IONS                                 281
+
+of MacInnes and Beattie was implied as well. By now there is a fairly extensive
+literature on the subject. A comprehensive review of varied applications and
+significant experimental tests was given some years ago (1960) by D. C. Mil-
+ler’s; he concluded that the relations are generally confirmed within the limits
+of error of the measurements.
+   Possibly the most important as a tool of research is the relation of Helm-
+holtz, MacInnes and Beattie. The thermodynamic properties of electrolyte
+solutions can be determined from the measurements of the voltage between
+electrodes reversible to both ions. Largely through the efforts of H. S. Har-
+ned, methods of preparing reversible electrodes for several kinds of anions
+(halide, sulfate) and cations (hydrogen, silver, alkali metals and some others)
+have been perfected; but for a great many ions this has not been achieved and
+the prospects look poor.
+   Following MacInnes and Brown16 (1936), the voltage of a concentration cell
+is measured between electrodes reversible to the same ion; and when in addi-
+tion the transference number (fraction of the current carried by one ion) is
+known, the free energy of dilution can be computed. MacInnes and Longs-
+worth17 had shown (1932) how the transference numbers can be determined
+quite accurately by observing the displacement of a boundary between two
+solutions (with one common ion) by the passage of an electric current.
+   In 1932 Fuoss and I14 computed the effects of the interaction between the
+ions on transport processes (conduction and diffusion, even viscosity) in mix-
+tures of general composition. The algebraic techniques which enabled us to
+cope with a complicated system of equations were improved many years later
+(Onsager and Kim18, 1957). Precision methods for the study of diffusion were
+not developed until the decade 1940-50. Then Kegeles and Gosting19 (1947)
+showed that Gouy’s optical fringe method gives excellent results when the
+principles of physical optics are properly applied; meanwhile Harned and co-
+workers 20,21 developed a relaxation method which depends on measurements
+of electrical conductivity for analysis in situ. The two methods supplement
+each other very nicely: at low concentrations of electrolytes, where Gouy’s
+method fails for lack of fringes, the resistivities of the solutions suffice for
+easy measurement. Thus at long last Nernst’s relation between the coefficient
+of diffusion and the electrolytic mobilities was verified to about 0.1%.
+   I have indicated already that the theory of long-range interaction by no
+means eliminated the need to consider a mass-action equilibrium with un-
+dissociated species. As was pointed out by Bjerrum22 (1927), when the ions are
+highly charged or very small, or where the dielectric constant is not 80 but
+
+
+282                           1968 LARS ONSAGER
+
+just 20 or less, the electrostatic interaction at close range will be so strong that
+ pairs of ions will stay together for a long time and act pretty much like ordi-
+ nary molecules. For that matter, recent kinetic studies have revealed (Eigen9,
+ 1967) that replacements in the innermost shell of solvent molecules and anions
+ around a cation may be fairly infrequent - once in a microsecond, say, or even
+ longer - so that molecules are reasonably well defined in the sense of chemical
+ kinetics. However, even when the recombination kinetics is too fast for a
+ sharp definition, it is often convenient to distinguish between "free ions" and
+ "associated pairs" by some arbitrary but reasonable convention. Bjerrum 21
+ suggested (1927) that we draw the line at a distance where the work of sepa-
+ ration against the coulomb force is twice the thermal energy (kT) per mole-
+ cule; in water that distance is 3.5 Å for KCl, 7 Å for MgCl2, 14 Å for MgSO4,
+ etc., and in a solvent of dielectric constant 20 at room temperature the "Bjer-
+ rum distance" is 14 Å for KCl. In solvents of very low dielectric constant only
+ the salts of big complex ions dissolve and exhibit appreciable conductivity.
+ Fig. 6 exhibits the effect of the dielectric constant. Fuoss 23 (with Kraus, 1933)
+
+
+
+
+                      0.0
+
+
+
+
+Fig. 6. The equivalent conductivity of tetraisoamylammonium nitrate in mixtures of
+water and dioxane, as a function of the salt concentration c. From C. A. Klaus and R. M.
+Fuoss, J. Am. Soc., 55(1933)21. Reproduced by permission of the surviving author and
+                           of the American Chemical Society.
+
+
+                           THE MOTION OF IONS                                  283
+measured the conductivities of solutions of tetraisoamyl ammonium nitrate
+over a wide range of concentrations in mixtures of water and dioxane, cover-
+ing a range of dielectric constants from 78 to 2.25.
+   The descending branches of the curves represent a mass-action equilibrium
+between neutral pairs and individual ions. The minima and the increasing
+branches indicate that at higher concentrations the current is carried mostly
+by charged aggregates of several ions in mass-action equilibrium with smal-
+ler neutral aggregates and simple pairs, inflexions in the rising branches sug-
+gest ring-shaped neutral aggregates. Tentative estimates indicated that the
+coulomb forces could be held largely responsible for the variations of the
+various equilibrium constants. The long-range effects entail relatively small
+corrections compared to the enormous range of variation displayed in Fig. 6.
+Similar results are found quite often in solvents of low dielectric constants, but
+by no means always; we know a good many examples where strong specific
+interactions of the ions with each other or with the solvents are indicated. The
+accumulation of more and better data have motivated efforts to refine our
+original computations. Fuoss and I undertook such a computation24 (1955);
+in Fig. 7 the predictions are compared with Shedlovsky’s excellent measure-
+ments25 (1932). In form our computed results agreed substantially with those
+of Pitts26 (1953); but certain differences in the models entail differences of
+interpretation in terms of short-range interactions. In this context we might
+seek at least a partial answer to the question how closely the effects of short-
+range interactions on the conductivity may correspond to the effects on the
+thermodynamic properties in the sense of Arrhenius. That task begins to look
+feasible.
+   The theoretical developments of the nineteen twenties inspired a search for
+additional symptoms of long-range interaction, and several were found. For
+example, in a rapidly alternating field the ion can be caused to change its
+direction of motion before the relaxation force is fully developed. As a result
+the conductivity increases somewhat through a range of frequencies which
+corresponds to the (Maxwell) relaxation time, and the phase of the voltage
+lags a little behind that of the current. Alternatively, a very strong field causes
+an ion to move so fast that a screening cloud of the normal type has no time
+to form; in the limit of high speeds the screening is performed by a deficiency
+of other ions moving with the same speed (M. Wien; Onsager 29, 1934; Wil-
+sonso, 1936; Eckstrom and Schmelzer31, 1939). Attempts to exploit this effect
+as a means to eliminate the complications of long-range interactions for weak
+electrolytes met with a surprise (Schiele32, 1932).
+
+
+284                         1968 LARS ONSAGER
+
+
+
+
+Fig. 7. Conductivities of chlorides in water. Measured points by Shedlovsky25 (1932);
+computed curves by Onsager and Fuoss24 (1955). Reproduced by concurrence of co-
+                                        author.
+
+
+                           THE MOTION OF IONS                                  285
+
+
+
+
+Fig. 8. Deviations from Ohm’s law in aqueous solutions of weak acids. Points from
+                                    Schiele 32.
+
+Fig. 8 actually displays the excess field effects for two weak acids over the
+field effect for a strong one (HCl). The straight lines represent my own com-
+putations 29 (1934). The field disturbs the dissociation equilibrium because it
+helps pairs of ions to separate for good once they have reached the fringes of
+the coulomb field. The assistance is nearly proportional to the absolute value
+of the field. The negative intercepts represent mainly a decrease in the rate of
+recombination by the screening clouds of ions, effective in the absence of a
+strong external field. In the light of such analysis, the Wien effect seemed to
+hold promise as a good tool for the study of fast recombination kinetics;
+recent work-particularly by Eigen and DeMaeyer - has shown that this was
+not a vain hope (Eigen9).
+   Many solids exhibit electrolytic conduction, and symptoms of reaction
+kinetics, Wien effect and so forth have been observed. Impurities and other
+defects often play a decisive role, and these factors are none too readily con-
+trolled, so that the standard of precision has to be rather modest; but it is often
+possible to divine the mechanism. Arrhenius had to fight for his faith; but
+those days are long past. We now realize quite clearly that it takes excess
+charges moving somewhere to produce an electrolytic conductor. In a salt
+crystal such an excess charge can be an additional ion in an abnormal "inter-
+stitial" position (Frenkel defect) or a vacancy (Schottky defect) at a place
+normally occupied by an ion. The position of the vacancy is changed when-
+ever a neighboring ion moves in to fill it. In KCl, for example, Schottky de-
+fects predominate as "ions" of both signs; but in AgCl some silver ions leave
+their normal sites for interstitial positions to produce positive Frenkel and
+negative Schottky defects. Schottky defects of opposite signs can combine to
+
+
+286                         1968 LARS ONSAGER
+
+form neutral vacancy pairs, and various complications which involve more
+extensive defects can occur too. In any event, in well-ordered crystals we
+generally expect that the ions will carry undivided elementary charges.
+   Nevertheless, we have come to realize that in certain disordered crystals
+elementary charges can be transported in installments by point defects. We
+don’t have to go far. Ice is a good example! In that solid almost all current is
+carried by mobile protons - excess or defect. First, let me explain the essentials
+of the structure. Each molecule is surrounded by four neighbors at a distance
+of 2.76 Å. Each hydrogen is placed near the line through the centers of two
+oxygens and closer to one than to the other; the distances are about 1 Å and
+1.76 Å. Two neutrality rules are normally satisfied: each oxygen carries two
+near hydrogens, so that the water molecules are intact and neutral. The other
+neutrality rule requires that one and only one hydrogen connects any two
+neighboring oxygens : the hydrogen bonds are intact. Any violation of either
+neutrality rule produces an electrically active defect.
+
+(Animated cartoon)
+
+A chance rotation of a molecule produces a pair of bonding defects; these
+separate and move through the crystal by successive rotations of the partic-
+ipating molecules. Other bonding defects enter the picture and wander
+through it. A chance transfer of a proton from one molecule to its neighbor
+produces a pair of ionic defects: positive hydronium H3O+, negative hydrox-
+yl OH-. The positive ion moves by donating a proton, the negative by steal-
+ing one. The motion of the ions leave molecules oriented against the field; the
+drift of the bonding defects turns them into the field again.
+
+(End of cartoon)
+
+Estimates of the ionic mobilities vary over a considerable range; but in any
+event the positive ionic defect is much more mobile in the solid than in the
+liquid, and its mobility varies very little with the temperature. The mobilities
+of the bonding defects are more like those of ordinary ions in the liquid, and
+the temperature coefficients are similar. Nevertheless, the bonding defects
+determine the direction of polarization in pure ice, because they are much
+more numerous, possibly several pairs for each million molecules. As to the
+task of transporting a direct current, that is about equally distributed between
+bonding and ionic defects; each type carries about half an elementary charge.
+One kind of current may get out of step with the other for a short time; but
+this produces a polarization which equalizes the number currents.
+
+
+                   Fig. 9. H-Bond chains and electrically active defects.
+
+   If you apply the principle of least dissipation to this hind of coupling you
+may be stretching some thermodynamic concepts just a little bit; but it is a
+good safeguard against greater errors, Jaccard33 (1964) found it quite helpful.
+   Many of the things I have told you have a bearing on problems in biology.
+For example, how do ions get through in cell membrane? Observations on
+poisoning suggest fixed facilities for such transport. Let me just toss on the
+screen what I think might be an essential element of such a facility (Onsager 34,
+1967; Fig. 9).
+   This is a speculation, but one which is not yet refuted by observations and
+seems generally compatible with physical principles. The hope that it might
+be right adds interests to the exploration of ice and other protonic semi-
+conductors.
+
+
+
+
+ 1.   S. Arrhenius, Svenska Vetensk.Akad.Handl.Bih., 8(1884)13-14.
+ 2.   S.Arrhenius, Z.Physik.Chem.(Leipzig), 1(1587)631.
+ 3.   W.Ostwald, Z.Physik.Chem.(Leipzig), (1888).
+ 4.   P.Debye and E.Hückel, Physik.Z., 24(1923)185,305.
+ 5.   R.A.Milikan, Nobel Lectures, Physics 1922-1941, Elsevier, Amsterdam, 1965, p. 54.
+
+
+288                         1968 LARS ONSAGER
+
+ 6. A.W.K.Tiselius, Nobel Lectures, Chemistry, 1942-1962, Elsevier, Amsterdam, 1964,
+     p. 195.
+ 7. L. Onsager, Physik.Z., 27 (1926) 382.
+ 8. L. Onsager, Physik.Z., 28 (1927) 227.
+ 9. M.Eigen, Nobel Lectures, Chemistry, 1963-1970, Elsevier, Amsterdam, 1972, p.170.
+10. K.Bennewitz, C.Wagner and K.Küchler, Physik.Z., 30(1929)623.
+11. L. Onsager, Beret. 18e Skand. Naturforskermode, Copenhagen, 1929, pp. 440-441.
+12. L.Onsager, Phys.Rev., 37(1931)405; 38(1931)2265.
+13. D.A.MacInnes and J.A.Beattie, J.Am.Chem.Soc., 42(1920)1117.
+14. L.Onsager and R.M.Fuoss, J.Phys.Chem., 36(1932)2689.
+15. D.G.Miller, Chem.Rev., 60(1960)15.
+16. D.A.MacInnes and A.S.Brown, Chem.Rev., 18(1936)335.
+17. D.A.MacInnes and L.G.Longswortb, Chem.Rev., 9(1932) 171.
+18. L.Onsager and S.K.Kim, J.Phys.Chem., 61(1957)215.
+19. G.Kegeles and L.J.Gosting, J.Am.Chem.Soc., 69(1947)2516.
+20. H.S.Harned and R.L.Nuttall, J.Am.Chem.Soc., 69(1947)736.
+21. H.S.Harned, Chem.Rev., 40(1947)461.
+22. N.Bjerrum, Kgl.Danske Videnskab. Selskab, Mat.-Fys. Medd., 7(1927)9.
+23. C.A.Krausa and R.M.Fuoss, J.Am.Chem.Soc., 55(1933)21.
+24. L.Onsager and R.M.Fuoss, Proc. Natl.Acad.Sci. (U.S.), 41(1955)274.
+25. T.Shedlovsky, J.Am.Chem.Soc., 54(1932)1411.
+26. E.Pitts, Proc.Roy.Soc.(London), Ser.A, 217(1953)43.
+27. P.Debye and H.Falkenbagen, Physik.Z., 29(1928)401.
+28. H.Falkenhagen, Rev.Mod.Phys., 3(1931)412.
+29. L.Onsager, J.Chem.Phys., 2(1934)599.
+30. W. S. Wilson, Dissertation, Yale, 1936.
+31. H.Eckstrom and C.Schmelzer, Chem.Rev., 24(1939)367.
+32. J.Schiele, Ann.Physik, [5]13(1932)811.
+3 3. C.Jaccard, Physik. Kond.Materie, 3(1964)99.
+34. L.Onsager, The Neurosciences, Rockefeller University Press, New York, 1967, p. 78.
+

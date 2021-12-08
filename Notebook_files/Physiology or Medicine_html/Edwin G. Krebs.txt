@@ -1,0 +1,844 @@
+72
+
+
+PROTEIN PHOSPHORYLATION AND CELLULAR
+REGULATION, I
+Nobel Lecture, December 8, 1992
+
+by
+E DWIN G. K R E B S
+Departments of Pharmacology and Biochemistry, School of Medicine, SL-15,
+University of Washington, Seattle, WA 98195, USA.
+
+
+
+
+INTRODUCTION
+This presentation and the one to be given immediately thereafter will be
+ concerned with the reversible phosphorylation of proteins and the role of
+ this process in biological regulation. In addition to discussing our own early
+ contributions to this field, Ed Fischer and I will describe some of the
+ developments that have occurred subsequently. These developments have
+ led to the realization that protein phosphorylation constitutes a major
+ mechanism by which cellular processes are controlled. My own remarks will
+ review the historical background that provided the setting in which our
+joint work was carried out in the 1950s and early 1960s. Then I’ll turn to a
+ discussion of this work itself, to be followed by comments on the cyclic
+ AMP-dependent protein kinase. Finally I will talk about the intracellular
+ transmission of hormone and growth factor signals through protein kinase
+ cascades.
+
+
+BACKGROUND
+By 1940, which is the year in which I entered medical school at Washington
+University in St Louis, it was well established that the breakdown of glyco-
+gen in skeletal muscle and other types of cells occurs by the process of
+phosphorolysis, catalyzed by the enzyme phosphorylase (for review, see ref.
+1). Carl Cori was Professor and Chairman of the Department of Pharmacol-
+ogy at Washington University, when I started my training there, but he was
+soon to take over the Department of Biological Chemistry. I gradually came
+to know him, at first distantly, the way medical students usually know their
+professors, but later on somewhat better after I had become a teaching
+assistant in biochemistry. In this latter role I also became acquainted with
+Arda Green, who, together with Carl and Gerty Cori, was purifying rabbit
+muscle phosphorylase . It was not long until I began to hear about the
+unusual properties of this remarkable enzyme, which they had foun d exist-
+
+
+                                 Edwin G. Krebs                              73
+
+
+ed in skeletal muscle in two different forms that they designated a s phos-
+phorylase b and phosphorylase a (2,3). The a form was purified and ob-
+tained as a crystalline enzyme. Kinetically, it was shown that phosphorylas  e b
+required high concentrations of 5’-AMP for activity whereas phosphorylase
+a was active in the absence of this nucleotide. Since the concentration of
+5’-AMP required for the activity of phosphorylase b was considerably higher
+than that found in muscle, this form was considered to be physiologically
+inactive. Phosphorylas e a was thought of as the physiologically active spe-
+cies. Evidence was obtained that the two forms are interconvertible within
+the cell, and it was postulated by the Coris that interconversion of the forms
+of phosphorylase constitutes a physiologically significant regulatory mecha-
+nism. Resting muscle was reported to contain phosphorylase predominantly
+in the a form, whereas electrically stimulated muscle contained th e b form
+(4). As will be discussed later (see below) the reverse is actually true.
+Regardless of this latter point, however, the finding that an enzyme might
+shuttle back and forth between two forms within the cell was a remarkable
+advance, which set the stage for important later developments.
+   The Coris were unaware of the chemical nature of the interconversion
+reactions of phosphorylase, but they did discover an enzyme that would
+convert phosphorylas e a to phosphorylas e b in vitro. This enzyme was called
+the “PR enzyme” based on th e assumption that it acted by removing a
+prosthetic group from phosphorylas e a, which was thought of as a holoen-
+zyme form (2); phosphorylase 6, lacking the putative group, was considered
+to be the apoenzyme form. Based on the fact that phosphorylas e b could be
+activated b y 5’-AMP, this nucleotide bound to the enzyme was thought of as
+the likely candidate for the prosthetic group of phosphorylase a. However,
+all attempts to identify 5’-AMP as a product formed when phosphorylase a
+was converted to phosphorylase b by the PR enzyme were unsuccessfu l (2,3).
+Because trypsin treatment of phosphorylase a led to the formation of a
+phosphorylase b-like form , i.e. an enzyme that could be activated by
+5’-AMP (3), it was believed that the PR enzyme might be a protease. No
+enzyme that could convert phosphorylas e b to a in vitro in the presence of
+5’AMP, or under any other condition that these workers tried, could be
+demonstrated. This did not seem unreasonable, however, if it were sup-
+posed that such a conversion might require            peptide bond biosynthesis,
+because at that time the likelihood that such a reaction could be shown to
+occur in vitro was considered unlikely. These early concepts with respect to
+the interconversion reactions of phosphorylase are illustrated in Fig. 1.
+   Although as a medical student I heard about the research o n phosphory-
+lase, particularly as a result of my friendship with Arda Green, my first
+ “hands on” experience with this enzyme came after World War II had
+ended, when I started postdoctoral work in the Coris’ laboratory (My
+ residency training in internal medicine had been interrupted by the war,
+ and, although at that time I expected to return to clinical medicine in due
+ course, I had decided to work in a basic science department for a year or
+ two before resuming hospital-based training.) The problem that was given
+
+
+74                                     Physiology or Medicine 1992
+
+
+
+                                            +AMP
+Phosphorylase                                                           Active Enzyme
+     ( inactive)
+
+
+Phosphorylase                                                         Phosphorylase
+      ( active ))                                                          (requires AMP
+                                                                              for activity)
+
+
+
+             AMP
+                                    Prosthetic Group”
+                                  Removing enzyme
+                                                                                            + AMP
+Phosphorylase                                                                Phosphorylase
+
+Fig. I. Early concepts of the interconversion reactions of muscle phosphorylase . Inactive phosphorylase
+b becomes an active enzym e in the presence of 5’-AMP. Phosphorytase a, the physiologically
+active form of the enzyme, is inactivated by the prosthetic group removing (PR) enzyme. It was
+thought likely that 5’-AMP would be product of this reaction, but this could not be demonstrat-
+cd.
+
+
+
+to me by the Coris involved solubility measurements on phosphorylase, and
+I also studied the effect of protamine and polylysine on the two forms of the
+enzyme. It was of interest that in the presence of these polyanionic sub-
+stances, inosinic acid, as well o n 5’-AMP, was very effective as an activator of
+phosphorylase b. All of these studies on the effects of nucleotides on
+phosphorylase were carried out before the revelations of Jacob and Monod
+concerning allosterism and protein conformation and at that time were
+viewed simply as unexplained phenomenology. Indeed for several years
+Carl Cori advised against my publishing these findings unless I could
+explain them. Eventually, after Neil Madsen found that protamine could
+physically bind to phosphorylase, which was at least a step in the direction of
+how it might affect the activity of the enzyme, Cori let me send in my paper.
+   Although, as I have pointed out, knowledge with respect to the properties
+of phosphorylase as an enzyme increased significantly during th e 1940s, it
+was often difficult to explain their physiological importance. This can be
+understood if one considers what was known about glycogen metabolism at
+that time. The epochal work of Leloir on the mechanism of glycogen
+synthesis was still to come, i.e. the role of UDG in polysaccharide synthesis
+and the existence of the enzyme, glycogen synthase, were completely un-
+known. Hence, it was believed that phosphorylase was involved in glycogen
+synthesis as well as in glycogenolysis (Fig. 2). It was assumed that the
+direction of the phosphorylase reaction would be determined by the con-
+centrations of the components of the reaction, particularly by the concen-
+tration of inorganic phosphate. This situation obviously made it difficult to
+interpret findings relating to the interconversion reactions o f phosphory-
+
+
+                                          Edwin G. Krebs                                           75
+
+
+
+
+                                                 Glucose-            P
+                                                              Mutose
+
+                                                    Glucose-6-P
+
+
+
+Fig. 2. Glycogen metabolism as depicted circa 1945. The stippled portion of the metabolic scheme
+was unknown. It was assumed that glycogen synthesis and degradation were catalyzed by
+phosphorylase, the direction of the reaction being determined by the concentration of reaction
+components. Within the cell, phosphorylase was believed to shuttle back and forth between
+forms a and b, but the chemical nature of the interconversion reaction was unknown. Conversion
+of phosphorylase a t o b had been demonstrated in vitro.
+
+
+
+lase b and a. Nonetheless, in the late 1940s and the early 1950’s a clear story
+was beginning to emerge with respect to the action of the glycogenolytic
+hormones, glucagon, and epinephrine and their effects on interconversion
+of the forms phosphorylase as studied in liver cells. Earl Sutherland, work-
+ing initially in the Coris’ laboratory and later independently at Western
+Reserve University, found that epinephrine and glucagon caused the rapid
+conversion of liver phosphorylase a to phosphorylas e b (5), and it was also
+shown that epinephrine caused the same change in the muscle diaphragm
+(6). Inasmuch as epinephrine and glucagon were known to b e glycogenoly-
+tic hormones, Sutherland’s findings clearly supported the concept that the
+activation of phosphorylase is associated with glycogen degradation. Why
+then, should electrical stimulation and muscle contraction, which were also
+known to result in glycogenolysis, be associated with the conversion of
+phosphorylase a to the inactive form, phosphorylase b (4).
+
+
+76                         Physiology or Medicine 1992
+
+
+CONVERSION OF RABBIT SKELETAL MUSCLE PHOSPHORYLAS                            E b
+TO PHOSPHORYLASE a IN VITRO
+In Fall 1953, Ed Fischer joined the Department of Biochemistry at the
+University of Washington , where I was already a faculty member. As a
+graduate student in Geneva, Ed had worked on potato phosphorylase, and
+we thus shared a common interest in this particular enzyme. We discussed
+some of the puzzling features of phosphorylase and were particularly intri-
+gued by the still unsolved nature of th e 5’-AMP effect, i.e. how 5’AMP
+activates phosphorylas e b but is seemingly unnecessary for phosphorylase a.
+It seemed worthwhile, purely as a secondary undertaking for each of us,
+since we both had problems that we considered as our major areas of
+concentration, to pool our efforts to see whether or not we could obtain
+information on this point. The initial experiment that we undertook togeth-
+er was simply to prepare pure crystalline phosphorylase a by the Coris’
+procedure (7). However , our initial attempts to do this were woefully
+unsuccessful. The enzyme would not crystallize, a step that was essential in
+order to obtain pure protein. More puzzling was the fact that the partially
+pure enzyme, which we did obtain, was always in th e b form rather than the
+a form. Insofar as we could determine we had followed the Coris’ proce-
+dure exactly except that we had clarified the original muscle extract by
+centrifugation rather than by filtration through paper. Although this
+seemed like a trivial change, we nonetheless included the filtration step in
+our next preparation. To our surprise, this time we obtained phosphorylase
+a, which crystallized readily as it was supposed to do. Two conclusions could
+be drawn that would explain these results. First, “resting” rabbit muscle
+extracts must contain phosphorylase predominantly in th e b form rather
+than the a form as had been postulated by the Cori          s (4,8), and second,
+filtration of muscle extracts through paper must trigger conversion of
+phosphorylase b to a in vitro (9). Subsequently we found that thorough
+washing of the filter paper before use eliminated conversion            of b to a,
+implying that some component in the paper must have been extracted to
+account for the effect. It was also found that this conversion failed to occur
+if the muscle extract were aged prior to filtration. The critical component
+from the filter paper that was required in th e b to a step was shown to be
+calcium, and the essential component in the extract that was lost on aging
+was found to be ATP.
+   Armed with the knowledge that there is an ATP requirement for conver-
+sion of phosphorylas e b to phosphorylase a, we thought it likely that we were
+dealing with a phosphotransferase reaction in which the termina           l phos-
+phoryl group of ATP was being transferred either to the protein itself or
+possibly to a nonprotein component bound to the enzyme. It soon became
+apparent that a “converting enzyme” , which could be separated from
+phosphorylase b, was required in the reaction (10). After it had been
+determined that ADP, as well as phosphorylase a were products of the
+reaction (1 l), we spoke of this enzyme as phosphorylase b kinase, or simply
+
+
+                                  Edwin G. Krebs                              77
+
+
+phosphorylase kinase, rather than converting enzyme (11). The nature of
+the Ca2+ requirement for the b to a reaction was not apparent immediately,
+but eventually it was determined by one of our graduate students, William
+L. Meyer, that the effect of this metal was two-fold. On the one han d Ca2+
+was needed for the activation of a kinase activating factor, (RAF), but in
+addition it was also required for the activity of phosphorylase kinase itself
+(12). RAF was later shown to be      a Ca2+-dependent protease by another
+student, R. Bruce Huston (13). (The current name for thi        s protease is
+calpain.) We determined the stoichiometry of the phosphoryla se b to phos-
+phorylase a reaction (11) and also obtained the amino acid sequence sur-
+rounding the phosphorylated serine in phosphorylase a (14). It was demon-
+strated that inorganic phosphate is released in the muscle phosphorylase a
+to b reaction catalyzed by the PR enzyme, which could now be termed
+phosphorylase phosphatase. Thus, by the lat e 1950’s, it was possible to write
+specific equations for the interconversion reactions of muscl e phosphory-
+lase as follows:
+
+                                phosphorylase
+                                   kinase
+phosphorylase b + 2ATP                             phosphorylase a + 2ADP
+  (dimer)                                          (d i mer)
+                                phosphorylase
+                                 phosphatase
+phosphorylase a + 2H2O                             phosphorylase b + 2Pi
+  (dimer)                                            (dimer)
+
+
+
+
+   During the same period that our work on the muscle phosphorylase
+system was being carried out, very similar studies relating to live  r phosphor-
+ylase were being conducted independently in the laboratory of Earl Suther-
+land at Western Reserve University. Sutherland’s major coworkers in this
+effort were Walter D. Wosilait and Theodore W. Rall. In an early study (15)
+these investigators obtained evidence that inorganic phosphate was released
+when partially purified active liver phosphorylase was incubated with what
+they referred to as inactivating enzyme, and they also determined that
+phosphate was incorporated into phosphorylase when liver slices were
+incubated in the presence o f 32P-phosphate. Later they showed that both of
+the interconversion reactions of liver phosphorylase could be demonstrated
+in cell free system s (16,17). A monumental “ancillary finding” that grew out
+of the work on liver phosphorylase by the Sutherland laboratory was, of
+course, the discovery of cyclic AMP, the first identified “second messenger”
+of hormone action (18).
+   It is of interest to consider whether there had been any indications that
+the phosphorylation and dephosphorylation of proteins might be of regula-
+tory significance prior to elucidation of the muscle and liver phosphorylase
+
+
+78                          Physioloa or Medicine 1992
+
+
+systems. The existence of phosphoproteins had, of course, been known for
+many years before 1950. Phosphoproteins were classified as “conjugated
+proteins” and for the most part consisted of proteins of nutritional signifi-
+cance associated with the feeding of the young, e.g     . casein of milk and
+several phosphoproteins found in egg yolk. Interestingly, it was also appre-
+ciated that pepsinogen contained one mole of firmly bound phosphate per
+mole of enzyme, but the significance of this wasn’t (and still isn’t) known. It
+was also known that nonspecific phosphatases could catalyze the release of
+phosphate from phosphoproteins. In an important study that was carried
+out at about the same time as the work on phosphorylase was underway,
+Burnett and Kennedy described an enzyme that catalyzed th e phosphoryla-
+tion of casein (19). These workers were aware of the high rate of turnover of
+phosphate in proteins and were the first to describe a protein kinase. In
+general, however, a realization that protein phosphorylation- dephosphory-
+lation is a dynamic process affecting enzymes and important in the control
+of metabolism had not bee n forseen.
+
+
+PROTEIN PHOSPHORYLATION AND THE TRANSMISSION
+OF EXTRACELLULAR SIGNALS
+As we have seen, an interest in the mechanisms of action of epinephrine and
+glucagon had an important part in work on the interconversion reactions of
+phosphorylase (5,6) which in turn led to discovery of the dynamic           phos-
+phorylation and dephosphorylation of proteins. Going back even further,
+however, it can be noted that the original studies of the Coris, which led to
+the finding of phosphorylase itself, grew out of the longstanding interest of
+these investigators on the role of epinephrine in the regulation of glycogen
+metabolism (20). That an interest in hormone action would contribute
+importantly to the development of the field of protein phosphorylation-
+dephosphorylation was no accident, since we now know that one of the
+major functions of protein phosphorylation as a regulatory process is in the
+transmission of signals that impinge on cells. This is true not only with
+respect to the transduction of hormone and growth factor signals but for
+other types of stimuli as well. For example, as mentioned earlier, electrical
+stimulation of muscle leads to changes in protein phosphorylation within
+the cell. It is probably more than coincidental that the extent of protein
+phosphorylation is much greater in eukaryotic cells than it is prokaryotes,
+particularly in eukaryotic cells of higher animals that are subject to complex
+forms of external regulation.
+   It was apparent very early that the relative amounts of phosphorylase b
+and a that would be present within the cell at any particularly time would
+depend on the relative rates of the phosphorylase kinase and phosphatase
+reactions, and it was anticipated that one or both of these enzymes must be
+subject to regulation. Furthermore, two factors capable of influencing the
+balance between the two forms of phosphorylase had been found. As noted,
+these were calcium ions, identified as the metal ion that caused phosphory-
+
+
+                                              Edwin G. Krebs                              79
+
+
+lase a formation in muscle extracts (9) and cyclic AMP, which promoted
+phosphorylase a formation in liver cells and homogenates (reviewed in ref.
+21). We subsequently showed that cyclic AMP would also cause phosphory-
+lase a formation in muscle extracts (22). In the muscle system it was
+determined that the effects of Ca2+ and cyclic AMP in stimulating phos-
+phorylase activation in vitro were a result of phosphorylase kinase activation
+rather than phosphorylase phosphatase inhibition (11).
+   The coupling of muscle contraction to glycogenolysis: The finding that the
+major form of phosphorylase present in resting muscle is phosphorylas e b
+(8) rather than phosphorylase a (4,7), together with a realization that
+phosphorylase b can be converted to phosphorylas e a if Ca2+ is introduced
+into muscle extracts containing AT P (9), made it possible to arrive at a
+rational position with respect to the effect of electrical stimulation on
+phosphorylase. In 1956 (23) Cori was able to demonstrate that muscle
+contraction causes conversion of phosphorylas e b to a, rather than the other
+way around; this was in keeping with the known effect of contraction on
+glycogen breakdown. The effect of Ca2+ on the activation of phosphorylase
+kinase now fits well into a scheme (Fig. 3) whereby this metal, acting as a
+messenger substance associated with muscle contraction, could be responsi-
+ble for the coupling of glycogenolysis (an energy-yielding process) to con-
+traction (an energy-utilizing process). Of the two different mechanisms by
+which Ca 2+ could regulate phosphorylase kinase, i.e. through limited pro-
+teolysis involving KAF, or as a result of the requirement of phosphorylase
+kinase for Ca2+ per se (12), only the latter was considered to be physiologi-
+cally significant. The work of Ozaw a et al. (24), who quantified the effect of
+Ca 2+ on the phosphorylase kinase reaction, was critical with respect to our
+understanding of this process. Many years later the actual mechanism by
+
+
+Nerve Stimulation
+                                 +
+
+               Releose of Ca2+ f r o m
+               Sarcoplasmic reticulum
+
+
+
+                                              Phosphorylase
+                                                  Kinase
+
+
+
+                         Phosphorylase                             P hosphorylase
+
+
+
+                                                        Glycogen                Glucose-l- P
+
+
+
+Fig. 3 The role of   calcium ions in regulating glycogenolysis (circa 1962).
+
+
+80                                         P h y si ol o g y or   M e di ci n e 1 9 9 2
+
+
+w hi c h C a 2 + sti m ul at e s p h o s p h or yl a s e ki n a s e s b e c a m e a p p ar e nt w h e n it w a s
+f o u n d t h at c al m o d uli n i s a s u b u nit of p h o s p h or yl a s e ki n a s e ( 2 5).
+     T he me c h a nis m of a cti o n of c y cli c A M P a n d t he c y cli c A M P- de pe n de nt pr otei n
+ki n ase : T h e m e c h a ni s m b y w hi c h c y cli c A M P c a u s e s a n i n cr e a s e i              n p h o s-
+p h or yl a s e ki n a s e a cti vit y t ur n e d o ut t o b e m or e c o m pl e x t h a n t h at o f C a 2 +.
+W h er e a s C a 2 + i s a n e s s e nti al a cti v ati n g c o m p o n e nt i n t h e p h o s p h or yl a s e b t o
+a r e a cti o n it s elf, c y cli c A M P c a u s e s a cti v ati o n of p h o s p h or yl a s e ki n a s e b y
+pr o m oti n g it s p h o s p h or yl ati o n. T h e fir st cl u e t h at p h o s p h or yl ati o n mi g ht
+b e i n v ol v e d i n t h e a cti v ati o n of t h e ki n a s e c a m e wit h t h e fi n di n g t h at A T P i s
+r e q uir e d i n or d er t o o b s er v e t h e a cti v ati o n r e a cti o n a n d t h e c y cli c A M P
+eff e ct i n r a b bit s k el et al m u s cl e e xtr a ct s ( 2 2). A k e y c o w or k er w h o c arri e d
+o ut t h e i niti al e x p eri m e nt t h at r e v e al e d t hi s r e q uir e m e nt w a s a gr a d u at e
+st u d e nt, D o n al d A. Gr a v e s. A cti v ati o n of m u s cl e p h o s p h or yl a s e ki n a s e w a s
+c h ar a ct eri z e d b y m ar k e d e n h a n c e m e nt of it s a cti vit y a s m e a s ur e d at p H 7 or
+b el o w, a n d o nl y m o d er at e i n cr e a s e s i n a cti vit y w er e s e e n w h e n t h e b t o a
+r e a cti o n w a s c arri e d o ut at hi g h e r p H v al u e s. T h e r ati o of a cti vit y a t p H 6. 8
+t o a cti vit y at p H 8. 2 w a s f o u n d t o s er v e a s a u s ef ul i n d e x of t h e st at e of
+p h o s p h or yl a s e ki n a s e a cti v ati o n ( 2 6). Si g nifi c a ntl y, o n c e p h o s p h or yl a s e
+ki n a s e h a d b e e n a cti v at e d b y pr ei n c u b ati o n wit h A T P, t h e pr e s e n c e of c y cli c
+A M P w a s n o l o n g er e s s e nti al- a s mi g ht b e a nti ci p at e d if t h e ki n a s e w er e
+b ei n g m o difi e d c o v al e ntl y i n a n a cti v ati o n pr o c e s s sti m ul at e d b y c y cli c A M P
+( 2 2).
+    P h o s p h or yl a s e ki n a s e w a s p urifi e d e xt e n si v el y a n d o bt ai n e d a s a n e arl y
+h o m o g e n e o u s hi g h m ol e c ul ar w ei g ht pr ot ei n, ( Mr = 1. 2 X 1 0 6 ), w hi c h still
+r et ai n e d t h e a bilit y t o b e a cti v at e d b y pr ei n c u b ati o n wit                h Mg ATP in a
+r e a cti o n t h at w a s str o n gl y sti m ul at e d b y c y cli c A M P. Alt h o u g h t h er e w er e
+i n di c ati o n s t h at a s e c o n d pr ot ei n ki n a s e mi g ht b e i n v ol v e d i n t h e a cti v ati o n
+pr o c e s s ( 2 7), t h e ki n eti c s of t h e r e a cti o n w er e c o m pl e x a n d t h e w or k of
+D e L a n g e et al. ( 2 8) s u g g e st e d i n st e a d t h at a n a ut o c at al yti c r e a cti o n w a s
+o c c urri n g. H o w e v er, t h e e xi st e n c e of a s e p ar at e “ c y cli c A M P- d e p e n d e nt
+p h o s p h or yl a s e ki n a s e ki n a s e ” , w hi c h a c c o m p a ni e d p h o s p h or yl a s e ki n a s e
+ki n a s e d uri n g it s p urifi c ati o n, w a s e v e nt u all y e st a bli s h e d b     y D o n al A. W al s h
+a n d J o h n P. P er ki n s, p o st d o ct or al f ell o w s i n m y l a b or at or y ( 2 9). T h e y
+s u c c e e d e d i n p urif yi n g t h e n e w ki n a s e a b o ut 2 0 0-f ol d fr o m r a b bit m u s cl e
+e xtr a ct a n d s e p ar at e d it c o m pl et el y fr o m p h o s p h or yl a s e ki n a s e. T h e ki n a s e
+w a s r ef err e d t o a s t h e “ c y cli c A M P- d e p e n d e nt pr ot ei n ki n a s e ” r at h er t h a n
+p h o s p h or yl a s e ki n a s e ki n a s e, b e c a u s e it w a s f o u n d ( 2 9) t o h a v e a br o a d er
+s p e cifi cit y t h a n w o ul d h a v e b e e n i m pli e d b y u s e of t h e m or e r e stri cti v e
+n a m e. I n r etr o s p e ct, t h e c y cli c A M P- d e p e n d e nt pr ot ei n ki n a s e pr o b a bl y
+r e pr e s e nt s t h e s a m e a cti vit y r e p ort e d b y H uiji n g a n d L ar n er ( 3 0) t o b e
+i n v ol v e d i n c y cli c A M P- sti m ul at e d gl y c o g e n s y nt h a s e p h o s p h or yl ati o n. T h e
+fi n di n g of a c y cli c A M P- d e p e n d e nt pr ot ei n ki n a s e s e p ar a bl e fr o               m p h o s-
+p h or yl a s e ki n a s e m a d e it p o s si bl e t o c o n str u ct a c o m pl et e c a s c a d e m e c h a-
+ni s m s h o wi n g t h e eff e ct of e pi n e p hri n e o n gl y c o g e n ol y si s ( Fi g. 4). T hi s
+r e pr e s e nt e d t h e fir st e x a m pl e of a pr ot ei n ki n a s e c a s c a d e i n w hi c h o n e
+pr ot ei n ki n a s e i s p h o s p h or yl at e d a n d a cti v at e d b y a n ot h er. D e s pit e t h e
+
+
+                                                Edwin G. Krebs                                 81
+
+
+                 Adrenaline
+
+
+                          i
+
+
+
+
+       ATP                          cyclic AMP
+
+
+
+
+                              Cyclic AMP-dep PK
+
+
+            Nonactivated                                   Activated
+            phosphorylase                                  phosphorylase
+            kinase                                         kinase
+
+
+
+                                             Phosphorylase                Phosphorylase
+
+
+
+                                                                  Glycogen            Glucose -I- P
+
+
+
+Fig. 4 The regulation   of glycogenolysis   by epinephrine (adrenaline)
+
+
+
+potential usefulness of a cascade device (amplification of the signal, provi-
+sion of branch points etc.) very few other examples have been reported.
+Recently, however, a complicated multi-step protein kinase cascade related
+to the action of numerous growth factors has been detected; this will be
+discussed at the end of this lecture.
+  The cyclic AMP-dependent protein kinase has served as a prototype for
+studies on protein kinases in general. This kinase is made up of regulatory
+(R) and catalytic (C) subunits and has the general structure , R2C2. In the
+next lecture Ed Fischer will speak about the mechanism by which cyclic
+AMP regulates the activity of the kinase. The catalytic subunit of this
+enzyme was the first protein kinase for which the complete amino acid
+sequence was determine d (31), and it was also the first protein kinase to
+have had its X-ray crystallographic structure elucidated (32). The cyclic
+AMP-dependent protein kinase also played a very significant part in our
+understanding of protein kinase specificity, which has become increasingly
+important as the number of known kinases has sky rocketed. Although it will
+not be possible to do more than touch on this latter topic here, it can be
+noted that the cyclic AMP-dependent protein kinase was the first kinase for
+which a “consensus” phosphorylation site sequence was clearly recognized
+(33-37). This sequence, Arg-Arg-X-Ser-X, is found in many, but not all,
+
+
+82                           Physiology or Medicine I992
+
+substrates for the cyclic AMP-dependent protein kinase. In connection with
+the specificty studies that were carried out within my own laboratory, I
+would like to call particular attention to the work of David B . Bylund and
+Bruce E. Kemp.
+   A protein serine/threonine kinase cascade activated in response to insulin and
+related growth factors: One of the enduring problems in endocrinology has
+been the question of the mechanism of action of insulin. Indeed, investiga-
+tors have been interested in this area for decades, and over the years
+information on this subject gradually accumulated through the application
+of whatever tools became available. At first, experiments were carried out
+with intact animals, later with perfused organs, eventually with isolated
+tissues such as the muscle diaphragm, and finally with cells in culture. Until
+comparatively recently it had not been possible, however, to demonstrate a
+meaningful insulin response in homogenates or other types of cell-free
+system. Approximately ten years ago, however, it was found that the EGF
+receptor is a protein tyrosine kinase, and shortly after that it was deter-
+mined that this is also true for the insulin recepto r (38,39). Now it is known
+that eight or nine different growth factor receptors are protein tyrosine
+kinases. These findings ushered in a new era of research with respect to
+insulin and related hormones or growth factors. However, although most
+workers in the field felt that it would now be a simple matter to identify
+meaningful substrates for thes e receptor/kinases, and to elucidate the
+complete intracellular signal transduction pathway involved, this did not
+occur. Several tyrosine-phosphorylated proteins were found in cells treated
+with insulin or the other growth factors, but none of these proteins could at
+first be readily connected with the known cellular actions of the growth
+factors involved. Nonetheless, it was clearly demonstrated that the protein
+tyrosine kinase activity of these receptors was essential for their action, and
+there was little if any doubt that initiation of their signals must involve
+ligand-stimulated tyrosine phosphorylation.
+   An investigator who is interested in determining the steps of a signal
+transduction pathway can either wor k “downstream” from a receptor in
+order to identify components of the pathway, or he can work “upstream”
+toward the receptor starting with a well established cellular effect of the
+growth factor in question. A number of laboratories, including my own,
+which are interested in signaling from the insulin or related receptors, have
+used the latter strategy in their approach. The particular cellular effect that
+these groups have chosen as their starting point has been the activation of
+protein serine and threonine kinases, which results from the simulation of
+tyrosine kinases. It has long been known that the stimulation of protein
+tyrosine kinases in cells results in changes in serine/threonine phosphoryla-
+tion as well as in changes in tyrosine phosphorylation, but the mechanism
+involved in the coupling of the two types of protein phosphorylation has
+been unknown (40).
+   One of the cellular proteins that is readily phosphorylated on serine
+residues in response to the stimulation of receptors having protein tyrosine
+
+
+                                  Edwin G. Krebs                              83
+
+
+kinase activity is ribosomal protein S6, although the role of this phosphory-
+lation insofar as the regulation of protein synthesis is not clear. This
+phenomenon had been discovered a number of years ago, prior to the
+involvement of my own laboratory in the problem, and a good start had
+already been made in identifying components involved in regulating S6
+phosphorylation. For example, it had been shown that in adipocytes or
+Swiss 3T3 cells stimulated by insulin an S6 kinase becomes activated (41,42)
+and there was good evidence that the activation was due to covalent modifi-
+cation, i.e. phosphorylation. It was determined that the protei        n serine/
+threonine phosphatases would inactivate the activate d (43,44). Maller and
+coworkers had shown that an S6 Kinase (S6 Kinase II), purified to homo-
+geneity from Xenopus laevis eggs, could also be inactivated by protein
+phosphatases (45) . I mportantly, this latter S6 kinase could be reactivated by
+a different protein serine/threonine kinase, microtubule-associated protein
+2 kinase (MAP kinase), which was known to be stimulated by insulin treat-
+ment of 3T3 L1 cells (46). These results strongly suggested the existence of a
+protein serine/threonine kinase cascade in which one growth factor-activat-
+ed protein kinase phosphorylated and activated a second protein kinase.
+Gregory el al. (47) confirmed these findings using a phosphatase-treated S6
+kinase from rabbit liver and MAP kinase from insulin-stimulated Rat 1
+HIRc B cells. Then in this laboratory we showed that an EGF          or insulin-
+stimulated MAP kinase from Swis s 3T3 cells could phosphorylate and
+activate an S6 kinase obtained from this same cell type (48). MAP kinase, in
+its active form, appeared to have been activated as a result o f serine/threo-
+nine phosphotylation, since it could be inactivated by protein phosphatase
+2A. This suggested the existence of even a third protein serine/threonine
+kinase in this growth factor-stimulated process.
+   A finding of major significance from Sturgill’s laboratory was the fact that
+MAP kinase in its active form contains phosphotyrosine as well a s phos-
+phothreonine, and that in addition to being inactivated by protein phospha-
+tase 2A, it can also be inactivated by CD45, a protein tyrosine phosphatase
+(49). These investigators went on to show that phosphorylation of MAP
+kinase on tyrosine and threonine is essential for its activity, and it seemed
+likely that two different types of protein kinase, i.e. a protei n serine/threo-
+nine kinase and a protein tyrosine kinase, would be involved as upstream
+components involved in its activation. There was no evidence, however, that
+a receptor-type protein tyrosine kinase could serve as either one of these
+kinases. It was thus of great interest to search for an enzyme or enzymes,
+ MAP kinase kinases, that would catalyze MAP kinase phosphorylation and
+ activation.
+    In this laboratory Natalie Ahn et al. (50) discovered two separable activa-
+ ting factors from Swiss 3T3 cells that catalyzed the activation of an inactive
+form of MAP kinase in vitro. Each of these factors required the presence of
+ MgATP in order to bring about activation of MAP kinase, and it did not
+ matter whether the latter had first been inactivated by a protei       n serine/
+ threonine phosphatase or by a protein tyrosine phosphatase. This made it
+
+
+84                                Physiology or Medicine 1992
+
+
+appear probable that the factors wer e “dual specificity” kinases capable of
+phosphorylating proteins or serine and threonine residues as well a s tyro-
+sine residues. The existence of dual specificity had, in fact, been found in
+yeast. At first we hesitated to call the activating factors “MAP kinase
+kinases”, because in work carried out by Rony Seger           et al. (51) we had
+determined that MAP kinase can undergo a slow but distinc             t autophos-
+phorylation reaction, i.e. that it can catalyze its own phosphorylation, and
+that in this reaction threonine and tyrosine residues are phosphorylated.
+Moreover, autophosphorylation resulted in activation of the kinase. This
+result made it appear possible that a MAP kinase kinase as such might be
+unnecessary and that the next upstream component could be a protein
+factor that simulated autophosphorylation. Eventually it was shown, howev-
+er, that the MAP kinase activating factors were, in fact, protein kinases
+capable of phosphorylating a mutant form of MAP kinase that lacked
+enzymic activit y (52,53). Moreover, amino acid sequence data obtained in
+our laboratory and elsewhere, showed that the activating factors contain
+protein kinase amino acid sequence motifs. Later, similar “activators”, i.e.
+MAP kinase kinases, were found in PC1 2 cell stimulated by nerve growth
+factor or bradykinin (54,55). Gomez and Cohen showed that activated MAP
+kinase kinase could be inactivated by a protein serine/threonine phospha-
+
+
+                           EGF
+
+                       +
+
+                     EGF
+
+                                           Mechanism (?)
+
+
+     MAPKK                                     MAPKK-P
+     (Inactive)                                 (active)
+
+
+                  MAPK                                     MAPK-P
+                (inactive)                                  (active)
+
+
+                                                                       S6K-P
+                                         S6K
+                                                                       (active)
+                                     (inactive)
+
+
+                                                                S6                S6-P
+Fig. 5 Th e MAP kinase cascade.
+
+
+                                 Edwin G. Krebs                             85
+
+
+tase but was not affected by protein tyrosine phosphatases (54). This latter
+result indicated that an additional upstream protein serine/threonin e kin-
+ase, i.e. a MAP kinase kinase kinase, was probably a component of the
+pathway. The present status of the MAP kinase cascade, without the puta-
+tive MAP kinase kinase kinase, is shown in Fig. 5.
+   Intense effort on the part of many different laboratories is currently
+centered on the question of the identity of MAP kinase kinase kinase and
+the mechanism by which such an enzyme might be regulated. It was report-
+ed by Kyriakis et al. that Raf-1 activates MAP kinase kinase and thus might
+itself be a candidate for the kinase kinase kinase (56). This result was
+confirmed by Dent et al. (57). Other studies have implicated the possibility
+that cdc2 might be an upstream component of the MAP kinase cascade but
+not an immediate kinase kinase kinase itself (58). Finally, there is consider-
+able evidence that p21 ras is a component acting at some site between the
+receptor and the components of the cascade as currently identified (59-
+62). A somewhat neglected area of study with respect to the MAP kinase
+cascade relates to the question of its precise function and the reasons for
+the existence of such a complicated scheme. It is probable that numerous
+substrates may exist for each of the protein kinases in the cascade, and in
+this connection it is noteworthy that a number of transcription factors
+appear to be targeted by MAP kinase and by the S6 kinase. The different
+kinases may also have specific metabolic enzyme targets that have not as yet
+been identified. Finally, some of the kinases may branch off and regulate
+still other kinases (63).
+
+
+CONCLUSION
+In this talk I have reviewed the early work on the interconversion reactions
+of the two forms of glycogen phosphorylase and phosphorylase kinase. A
+third enzyme that played an important part in early work on protein
+phosphorylation-dephosphorylation was glycogen synthase. Much of the
+original research on that enzyme was carried out by Joseph Larner and his
+associates during the early 1960s. These investigators found that, in con-
+trast to the effect of phosphorylation on phosphorylase and phosphorylase
+kinase, phosphorylation caused a decrease in the activity of the synthase.
+Because the “field” of protein phosphorylation during the first ten years
+was dominated by those interested in glycogen metabolism, some even
+expressed the idea that perhaps regulation of enzymes by phosphorylation-
+dephosphorylation might be restricted to this area. However, the finding of
+a multifunctional cyclic AMP-dependent protein kinase, which was almost
+immediately shown by Kuo and Greengard (64) to be very widespread in
+nature, served to change this concept. Another important finding that
+dispelled the idea that protein phosphorylation was very limited in scope
+was the report that pyruvate dehydrogenase is regulated by phosphorylation
+(65). As can be noted in Fig. 6, the number of enzymes reported to undergo
+regulation as a result of this being phosphorylated started growin g precipi-
+
+
+
+
+                                      Edwin G. Krebs                                     87
+
+
+very important contributions made by numerous talented unnamed stu-
+dents and postdoctoral fellows,.some but not all of whom I have mentioned
+in this article, who carried out the actual experiments reported here and in
+addition helped to provide direction for many of the studies that are
+reported.
+
+
+
+REFERENCES
+ 1. Cori, C.(1939) Cold Spring Harbor Symposia on Quantitative Biology ol. VII, p.
+    260 - 268.
+ 2. Cori, G. T. and Green, A. A. (1945) J. Biol. Chem. 158, 32 1 - 332.
+ 3. Cori, G. T. and Cori, C F. (1943) J. Biol. Chem., 151, 31-38.
+ 4. Cori, G. T. (1945)J. Biol. Chem., 158, 333-339.
+ 5. Sutherland, E. W. and Cori, C. F. (1951) J. Biol. Chem., 188, 531-543.
+ 6. Sutherland, E. W. (1950) Recent Progress in Hormone Research, Proceedings of
+    the I.aurentian Hormone Conference, Vol. 5, Academic Press, New York, p.
+    441463.
+ 7. Green, A. A. and Cori, G. T. (1943) J. Biol. Chem., 151, 21-29.
+ 8. Krebs, E. G. and Fischer, E. H. (1955) J. Biol. Chem., 216 , 113 - 120.
+ 9. Fischer, E. H . and Krebs, E . G. (1955) J. Biol. Chem., 216, 121 - 132.
+10. Krebs, E. G. and Fischer, E. H. (1956) J. Biochim. Biophys. Acta, 20, 150 -157.
+11. Krebs, E. G., Kent, A. B. and Fischer, E. H. (1958) J. Biol. Chem., 231,        78-83.
+12. Meyer, W. L., Fischer, E. H. and Krebs, E. G: (1964 ) Biochemistry, 3, 1033 -
+    1039.
+13. Huston, R. B. and Krebs, E. G. (1968) Biochemistry, 7, 2116-2122.
+14. Fischer, E. H., Graves , D. J., Crittenden, E. R. S. and Krebs, E. G. (1959) J. Biol.
+    Chem., 234 , I698 - 1704.
+15. Sutherland, E. W. and Wosilait, W. D. (1955) Nature, 175, 169.
+16. Rall, T. W., Sutherland, E. W. and Wosilait, W. D. (1956) J. Biol. Chem., 218,
+17. Wosilait, W . D. (1958) J. Biol. Chem. 233, 597.
+18. Sutherland, E. W. and Rall, T. W. (1958) J. Biol. Chem., 233, 1077-1091.
+19. Burnett, G. and Kennedy, E. P. (1954) J. Biol. Chem., 211, 969 -988.
+20. Cori, C. F. and Cori, G. T. (1928) J. Biol. Chem., 79, 309 -355.
+21. Sutherland, E. W. (1962) The Harvey Lectures, Series 57, Academic Press, New
+    York, p. 17-33.
+22. Krebs, E. G., Graves, D. J. and Fischer, E. H. (1959) J. Biol. Chem. 234:2867-
+    2873.
+23. Cori, C. F. in O. H. Gaebler, ed., Enzymes: Units of Biological Structure and
+    Function, Academic Press, New York, 1956, p. 573.
+24. Ozawa, E., Hosoi, K., and Ebashi, S. (1967) J. Biochem. 61, 531-533.
+25. Grand, R. J. A., Shenolikar, S. and Cohen, P. (1981) Eur. J. Biochem. 113, 359 -
+    367.
+26. Posner, J. B., Stern, R. and Krebs, E. G. (1965) J. Biol. Chem., 240,   982 - 985.
+27. Krebs, E. G., DeLange, R. J., Kemp, R. G. and Riley, W. D. (1966) Pharmacol.
+    Rev., 18, 163-171.
+28. DeLange, R. J., Kemp, R. G., Riley, W. D., Cooper, R. A. and Krebs, E. G.
+    (1968) J. Biol. Chem., 243, 2200-2208.
+29. Walsh, D. A., Perkins, J. P. and Krebs, E. G. (1968) J. Biol. Chem., 243, 376 3-
+    3765.
+30. Huijing, F. and Larner, J. (1966) Biochem. and Riophs Res. Commun., 23, 259-
+    263.
+
+
+88                                 Physiology or Medicine 1992
+
+31. Shoji, S., Parmelee,    D. C., Wade, R. D., Kumar, S., Ericsson, L H., Walsh, K.
+     A., Neurath, H., Long , G. L., DeMaille, J. G., Fischer, E. H. and Titani, K.
+     (1981) Proc. Natl. Acad. Sci. USA, 78 , 848-851.
+32. Knighton, D. R., Zheng, J., Eyck, L. F. T., Ashford, V. A., Xuong, N.-H.,
+     Taylor, S. S. and Sowadski, J. M. (1991) Science, 253, 407-414.
+33. Kemp, B. E., Bylund, D. B., Huang, T. S. and Krebs, E. G. (1975 ) Proc. Natl.
+     Acad. Sci. USA, 72, 344 8 -3452.
+34. Humble, E., Berglund, L., Titanji, V., Ljungstrom, O. Edlund, B., Zetterquist , 0.
+     and Engstrom, L. (1975) Biochem. Biophys. Res. Commun. 66, 614 - 62 1.
+35. Daile, P., Carnegie, P. R. and Young, J. D. (1975) Nature, 257 , 416-418.
+36. Zetterquist, O., Ragnarsson, U., Humble, E., Berglund, L. and Engstrom, L.
+     (1976) Biochem. Biophys. Res. Commun. 70, 696-     - 703.
+37. Kemp, B. E., Graves, D. J., Benjamini, E. and Krebs, E. G. (1977) J. Biol. Chem.,
+    252, 4888 - 4894.
+38. Cohen, Carpenter, G. and King, L. E., Jr. (1980) J. iol. Chem., 255, 4834 -
+    4842.
+39. Kasuga, M., Zick, Y., Blithe, D. L., Karlsson, F. A., Haring, H. U., and Kahn, C.
+     R. (1982) J. Biol . Chem., 257, 9891-9894.
+40. Denton, R. M. (1986 ) Advances in Cyclic Nucleotide and Protein Phosphorylation
+     Research (P. Crecngard and G. A. Robinson , Eds.) Raven Press, New York, p.
+     293-341.
+41. Cobb, M. H. and Rosen, 0. M. (1982) J. Biol. Chem., 258, 12472-12481.
+42. Novak-Hofer, I., and Thomas, G. (1984) J. io . Chem., 259, 5995-6000.
+43. Ballou, L. M., Jeno, P. and Thomas, G. (1988) J. Biol. Chem., 263, 1188- 1194.
+44. Ballou , L. M., Siegmann, M. and Thomas, G. (1988) Prac. Natl. Acad. Sci. USA,
+     85,7154-7158.
+45. Andres, J. L. and Mallet-, J. L. (1989) J. io. Chem., 264, 151 - 156.
+46. Sturgill, T. W., Ray, I,. B., Erickson, E. and Mallet-, J. I.. (1988) Nature, 334,
+     715-718.
+47. Gregory, J. S., Boulton, T. G., Sang, B.-C., and Cobb, M. H. (1989) J. Biol.
+     Chem., 264 , 18, 397- 18, 401.
+48. Ahn, N . G. and Krebs, E. G. (1990) J. io. Chem., 265, 11495- 11501.
+49. Anderson, N. G., Maller, J. L., Tonks, N. K., and Sturgill, T. W. (1990) Nature,
+    343, 651-653.
+50. Ahn, N . G., Seger, R., Bratlien, R. L., Diltz, C. D., Tonks, N.K. and Krebs, E. G.
+    (1991) J. Biol. Chem., 266, 4220 - 4227.
+51. Seger, R., Ahn, N. G., Boulton, T. G., Yancopoulos, G. D., Panayotatos, N.,
+      Radziqjewska, E., Ericsson, I,., Bratlien, R. L., Cobb, M. H. and Krebs, E. G.
+      (1991) Proc. Natl. Acad. Sci. USA, 88, 6142-6146,
+52. Posada, J. and Cooper, J. A. (1992), Science, 255, 212-215.
+53.. Seger, R., Ahn, N. G., Posada, J., Munar, E. S., Jensen, A. M., Cooper, J. A.,
+      Cobb, M. H., and Krebs, E. G. (1992 ) J. Biol. Chem., 267, 14373 - 14381.
+54. Gomez, N. and Cohen, P. (1991) Nature, 351, 69-72.
+55. Ahn, N. C. , Robbins, D. J., Haycock, J. W., Seger, R., Cobb, M. H., and Krebs,
+      E. G. (1992 ) J. Neurochemistry, 147- 156.
+56. Kyriakis, J. M., App, H., Zhang, X., Banerjee, P., Brautigan, D. L., Rapp, U. R.,
+      Avruch, J. (1992) Nature, 358,417-421.
+57. Dent, P., Haser, W., Haystead, T. A. J., Vincent, L. A., Roberts, T. M., Sturgill,
+      T. W. (1992) Science, 257, 1404- 1406.
+58. Matsuda, S., Kosako, H., Takenaka, K., Moriyama, K., Sakai, H., Akiyama, T.,
+      Cotoh, Y., Nishida, E. (1992) EMBO J., 11, 973- 982 .
+59. Thomas, S. M., DeMarco, M., D’Arcangelo, G., Halegoua, S., Brugge, J. S.
+      (1992) Cell, 68, 1031-1040.
+60. Wood, K. W., Sarnecki, C., Roberts, T. M., Blenis, J. (1992) Cell, 68, 1041-
+      1050.
+
+
+                                     Edwin G. Krebs                                  89
+
+61. deVries-Smits, A. M. M., Burgering, B. M. T., Leevers, S. J., Marshall, C. J.,
+    Bos, J. L. (1992) Nature, 357, 602-604.
+62. Robbins, D. J., Cheng, M., Zhen, E., Vanderbilt, C. A., Feig, L. A., Cobb, M. H.
+     (1992) Proc. Natl. Acad. Sci. USA, 89, 6924-6928.
+63. Stokoe, D., Campbell, D. G., Nakielny, S., Hidaka, H., Leevers, S. J., Marshall,
+     C. and Cohen, P. (1992) EMBOJ., 11,3985-3994.
+64. Kuo, J. F. and Greengard, P. (1969) J. Biol. Chem., 244, 3417-3419.
+65. Linn, T. C., Pettit, F. H., Hucho, F. and Reed, L. J. (1969a) Proc. Natl. Acad. Sci.
+    USA, 64,227 - 234.
+

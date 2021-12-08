@@ -1,0 +1,642 @@
+LONG JOURNEY INTO TUNNELING
+Nobel Lecture, December 12, 1973
+
+by
+L EO E S A K I
+
+IBM Thomas J. Watson Research Center, Yorktown Heights, N.Y., USA
+
+
+I. H I S T O R I C A L B A C K G R O U N D
+In 1923, during the infancy of the quantum theory, de Broglie (1) intro-
+duced a new fundamental hypothesis that matter may be endowed with a
+dualistic nature - particles may also have the characteristics of waves. This
+hypothesis, in the hands of Schrodinger (2) found expression in the definite
+form now known as the Schrödinger wave equation, whereby an electron or a
+particle is assumed to be represented by a solution to this equation. The
+continuous nonzero nature of such solutions, even in classically forbidden
+regions of negative kinetic energy, implies an ability to penetrate such for-
+bidden regions and a probability of tunneling from one classically allowed
+region to another. The concept of tunneling, indeed, arises from this quan-
+tum-mechanical result. The subsequent experimental manifestations of this
+concept can be regarded as one of the early triumphs of the quantum theory.
+   In 1928, theoretical physicists believed that tunneling could occur by the
+distortion, lowering or thinning, of a potential barrier under an externally
+applied high electric field. Oppenheimer (3) attributed the autoionization of
+excited states of atomic hydrogen to the tunnel effect: The coulombic poten-
+tial well which binds an atomic electron could be distorted by a strong electric
+field so that the electron would see a finite potential barrier through which
+it could tunnel.
+   Fowler and Nordheim (4) explained, on the basis of electron tunneling, the
+main features of the phenomenon of electron emission from cold metals by
+high external electric fields, which had been unexplained since its observa-
+tion by Lilienfeld (5) in 1922. They proposed a one-dimensional model.
+Metal electrons are confined by a potential wall whose height is determined
+by the work function ψ plus the fermi energy E f, and the wall thickness is
+substantillay decreased with an externally applied high electric field, allowing
+electrons to tunnel through the potential wall, as shown in Fig. 1. They
+successfully derived the well-known Fowler-Nordheim formula for the current
+as a function of electric field F:
+
+
+
+
+  An application of these ideas which followed almost immediately came in
+the model for a decay as a tunneling process put forth by Gamow (6) and
+Gurney and Condon. (7) Subsequently, Rice (8) extended this theory to the
+description of molecular dissociation.
+
+
+                                                                             117
+
+
+
+
+  The next important development was an attempt to invoke tunneling in or-
+der to understand transport properties of electrical contacts between two sol-
+id conductors. The problems of metal-to-metal and semiconductor-to-metal
+contacts are important technically, because they are directly related to electri-
+cal switches and rectifiers or detectors.
+   In 1930, Frenkel (9) proposed that the anomalous temperature indepen-
+dence of contact resistance between metals could be explained in terms of
+tunneling across a narrow vacuum separation. Holm and Meissner (10)
+then did careful measurements of contact resistances and showed that the
+magnitude and temperature independence of the resistance of insulating sur-
+face layers were in agreement with an explanation based on tunneling through
+a vacuum-like space. These measurements probably constitute the first cor-
+rectly interpreted observations of tunneling currents in solids, (11) since the
+vacuum-like space was a solid insulating oxide layer.
+   In 1932, Wilson, (12) Frenkel and Joffe, (13) and Nordheim (14) applied
+quantum mechanical tunneling to the interpretation of metal-semiconductor
+contacts - rectifiers such as those made from selenium or cuprous oxide. From
+a most simplified energy diagram, shown in Fig. 2, the following well-known
+current-voltage relationship was derived:
+
+
+
+Apparently, this theory was accepted for a number of years until it was finally
+discarded after it was realized that it predicted rectification in the wrong di-
+rection for the ordinary practical diodes. It is now clear that, in the usual
+circumstance, the surface barriers found by the semiconductors in contact
+with metals, as illustrated in Fig. 2, are much too thick to observe tunneling
+current. There existed a general tendency in those early days of quantum
+mechanics to try to explain any unusual effects in terms of tunneling. In
+many cases, however, conclusive experimental evidence of tunneling was lack-
+ing, primarily because of the rudimentary stage of material science.
+   In 1934, the development of the energy-band theory of solids prompted
+Zener (15) to propose interband tunneling, or internal field emission, as an
+explanation for dielectric breakdown. He calculated the rate of transitions
+
+
+118                                 Physics 1973
+
+
+
+
+                            semiconductor
+
+
+
+
+                                                   Fig. 2. Early model of metal-semicon-
+                                                   ductor rectifiers.
+
+
+from a filled band to a next-higher unfilled band by the application of an
+electric field. In effect, he showed that an energy gap could be treated in the
+manner of a potential barrier. This approach was refined by Houston (16)
+in 1940. The Zener mechanism in dielectric breakdown, however, has never
+been proved to be important in reality. If a high electric field is applied to
+the bulk crystal of a dielectric or a semiconductor, avalanche breakdown
+ (electron-hole pair generation) generally precedes tunneling, and thus the
+field never reaches a critical value for tunneling.
+
+
+II. T U N N E L D I O D E
+   Around 1950, the technology of Ge p-n junction diodes, being basic to
+transistors, was developed, and efforts were made to understand the junction
+properties. In explaining the reverse-bias characteristic, McAfee et al. (17)
+applied a modified Zener theory and asserted that low-voltage breakdown in,
+Ge diodes (specifically, they showed a 10-V breakdown) resulted from inter-
+band tunneling from the valence band in the p-type region to the empty con-
+duction band in the n-type region. The work of McAfee et al. inspired a
+number of other investigations of breakdown in p-n junctions. Results of those
+later studies (18) indicated that most Ge junctions broke down by avalanche,
+but by that time the name “Zener diodes” had already been given to the
+low-breakdown Si diodes., Actually, these diodes are almost always avalanche
+diodes. In 1957, Chynoweth and McKay (19) examined Si junctions of
+low-voltage breakdown and claimed that they had finally observed tunneling.
+In this circumstance, in 1956, I initiated the investigation of interband tunnel-
+ing or internal field emission in semiconductor diodes primarily to scrutinize
+the elctronic structure of narrow (width) p-n junctions. This information,
+at the time, was also important from a technological point of view.
+   The built-in field distribution in p-n junctions is determined by the profile
+of impurities - donors and acceptors. If both the impurity distributions are
+
+
+
+
+120                                Physics 1973
+
+
+
+
+Fig. 4. Semilog plots of current-voltage characteristics in a tunnel diode, where
+N ~ 5 x 1019c m-3 and N D ~ 1.8 x 1019c m-3.
+  A
+
+
+
+are degenerate, that is, the fermi energies are located well inside the conduc-
+tion or valence band.
+   In this study, we first obtained a backward diode which was more conduc-
+tive in the reverse direction than in the forward direction. In this respect it
+agreed with the rectification direction predicted by the previously-mentioned
+old tunneling rectifier theory. The calculated junction width at zero bias was
+approximately 200Å, which was confirmed by capacitance measurements. In
+this junction, the possiblity of an avalanche was completely excluded because
+the breakdown occurs at much less than the threshold voltage for electron-
+hole pair production. The current-voltage characteristic at room temperature
+indicated not only that the major current-flow mechanism was convincingly
+tunneling in the reverse direction but also that tunneling might be responsible
+for current flow even in the low-voltage range of the forward direction. When
+the unit was cooled, we saw, for the first time, a negative resistance, appear-
+ing, as shown in Fig. 3. By further narrowing the junction width (thereby
+further decreasing the tunneling path), through a further increase in the
+doping level, the negative resistance was clearly seen at all temperatures, as
+shown in Fig. 4. (20)
+   The characteristic was analyzed in terms of interband tunneling. In the
+tunneling process, if it is elastic, the electron energy will be conserved. Figures
+5 (a), (b), (c), and (d) show the energy diagrams of the tunnel diode at
+zero bias and with applied voltages, V I, E’s, and V 3, respectively. As the bias
+is increased up to the voltage Vi, the interband tunnel current continues to
+increase, as shown by an arrow in Fig. 5 (b). However, as the conduction
+band in the n-type side becomes uncrossed with the valence band in the p-type
+side, with further increase in applied voltages, as shown in Fig. 5 (c), the
+current decreases because of the lack of allowed states of corresponding ener-
+
+
+                                                                                     121
+
+
+
+
+Fig. 5. Energy diagrams at varying bias-conditions in the tunnel diode.
+
+
+
+
+Fig. 6. Current-voltage characteristics in a Si tunnel diode at 4.2, 80 and 298 K.
+
+
+122                                          Physics 1973
+
+
+gies for tunneling. When the voltage reaches V 2, or higher, the normal diffu-
+sion (or thermal) current will dominate as in the case of the usual p-n diode.
+Semiconductor materials other than Ge were quickly explored to obtain tun-
+nel diodes: Si, InSb, GaAs, InAs, PbTe, GaSb, SiC, etc.
+   In our early study of the Si tunnel diode, (21) a surprisingly fine structure
+was found in the current-voltage curve at 4.2 K, indicating the existence of
+inelastic tunneling, as shown in Fig. 6. We were impressed with the fact that
+four voltages at the singularities shown in the figure agreed almost exactly
+with four characteristic energies due to acoustic and optical phonons, obtained
+from the optical absorption spectra (22) and also derived from the analysis
+of intrinsic recombination radiation (23) in pure silicon. The analysis of
+tunneling current in detail reveals not only the electronic states in the systems
+involved, but also the interactions of tunneling electrons with phonons, pho-
+tons, plasmons, or even vibrational modes of molecular species in barriers.
+ (24) As a result of the rich amount of information which can be obtained
+from a study of tunneling processes, a field called tunneling spectroscopy has
+emerged.
+
+
+
+III. N E G A T I V E R ESISTANCE   IN   M E T A L- OX I D E - SE M I C O N D U C T O R J U N C T I O N S
+
+This talk, however, is not intended as a comprehensive review of the many
+theoretical and experimental investigations of tunneling, which is available
+elsewhere. (25) Instead, I would like to focus on only one aspect for the rest
+of the talk: negative resistance phenomena in semiconductors which can be
+observed in novel tunnel structures.
+   Differential negative resistance occurs only in particular circumstances,
+where the total number of tunneling electrons transmitted across a barrier
+structure per second decreases, rather than increases as in the usual case,
+with an increase in applied voltage. The negative resistance phenomena them-
+selves are not only important in solid-state electronics because of possible
+signal amplification, but also shed light on some fundamental aspects of tun-
+neling.
+   Before proceeding to the main subject, I would like to briefly outline the
+independent-electron theory of tunneling. (26) In tunneling, we usually deal
+with a one-dimensional potential barrier V(x). The transmission coefficient
+D for such a barrier is defined as the ratio of the intensity of the transmitted
+electron wave to that of the incident wave. The most common approximation
+for D is the use of the semiclassical WKB form
+
+
+
+
+where E x is the kinetic energy in the direction normal to the barrier, and
+the quantities x1 and x2 are the classical turning points of an electron of energy
+E x at the edges of the potential barrier. If the boundary regions are sharp,
+we first construct wave functions by matching values of functions as well as
+
+
+Fig. 7. Current-voltage characteristics in SnTe and GeTe tunnel junctions at 4.2 K.
+
+
+
+
+their derivatives at each boundary, then calculate the transmission coefficient
+D.
+   The tunneling expression should include two basic conservation laws:
+1) Conservation of the total electron energy; and 2) Conservation of the com-
+ponent of the electron wave vector parallel to the plane of the junction. The
+velocity of an incident electron associated with a state of wave number k x
+is given by l/h           in a one-particle approximation. Then, the tunnel-
+ing current per unit area is written by
+
+
+
+
+where f is the fermi distribution function or occupation probability, and E and
+E’ are the energy of the incident electron and that of the transmitted one,
+respectively. The front factor 2/(2π) 3 comes from the fact that the volume
+of a state occupied by two electrons of the opposite spin is (2π) 3 in the wave-
+vector space for a unit volume crystal.
+   The previously-mentioned tunnel diode is probably the first structure in
+which the negative resistance effect was observed. But, now, I will demon-
+strate that a similar characteristic can be obtained in a metal-oxide-semi-
+conductor tunnel junction, (27) where the origin of the negative resistance
+is quite different from that in the tunnel diode. The semiconductors involved
+here (SnTe and GeTe) are rather unusual-more metallic than semicon-
+ducting; both of them are nonstoichiometric and higly p-type owing to high
+concentrations of Sn or Ge vacancies with typical carrier concentrations about
+8 x 1020 and 2 x 1020c m-3, respectively. The tunnel junctions were prepared
+by evaporating SnTe or GeTe onto an oxidized evaporated stripe of Al on
+quartz or sapphire substrates. In contrast to the p-n junction diodes, all ma-
+
+
+124                                   Physics 1973
+
+
+semi-
+conductor                     metal
+
+
+
+
+Fig, 8. Energy diagrams at varying bias-conditions in Al-Al O )SnTe or-GeTe tunnel
+                                                           2   3
+
+junctions.
+
+
+
+
+terials involved in these junctions are polycrystalline, although the Al oxide
+is possibly amorphous.
+   Figure 7 illustrates the current-voltage curves at 4.2 K of typical SnTe and
+GeTe junctions and Fig. 8 shows their energy diagrams at zero bias, and at
+applied voltages V I and V 2 from the left to the right. As is the case in the
+tunnel diode, until the bias voltage is increased such that the fermi level in
+the metal side coincides with the top of the valence band in the semiconduc-
+tor side (Fig. 8 (b) ), the tunnel current continues to increase. When the bias
+voltage is further increased (Fig. 8 (c) ), however, the total number of empty
+allowed states or holes in the degenerate p-type semiconductor is unchanged,
+whereas the tunneling barrier height is raised, for instance from E B V 1 t o
+EB V, 2
+          resulting in a decrease in tunneling probability determined by the
+exponential term,         , where      2d (              and E BV and d are the
+barrier height and width, respectively. Thus a negative resistance is ex-
+hibited in the current-voltage curve. When the bias voltage becomes higher
+than the level corresponding to the bottom of the conduction band in the
+semiconductor, a new tunneling path from the metal to the conduction band
+is opened and one sees the current again increasing with the voltage. The
+rectification direction in this junction is again backward as is the case in the
+tunnel diode.
+   We might add that, in this treatment, the tunneling exponent is assumed to
+be determined only by the energy difference between the bottom of the con-
+duction band in the oxide and the metal fermi energy. This assumption should
+be valid because this energy difference is probably much smaller than that
+between the top of the valence band in the oxide and the metal fermi energy.
+
+
+Fig. 9. Energy diagrams at varying bias-conditions in a double-barrier tunnel junction,
+indicating the resonant transmission in (b) and (d).
+
+
+
+
+IV. N E G A T I V E   RESISTANCE DUE TO   R ESONANT T RANSMISSION
+
+It has been known that there is a phenomenon called the resonant trans-
+mission. Historically, resonant transmission was first demonstrated in the scat-
+tering of electrons by atoms of noble gases and is known as the Ramsauer
+effect. In many textbooks (28) on quantum mechanics, the resonant trans-
+mission in tunneling or scattering is one of the more favored topics. In a
+one-dimensional double potential barrier, (29) the narrow central potential
+well has weakly-quantized (or quasi-stationary) bound states, of which the
+energies are denoted by E 1 and E 2 in Fig. 9 (a). If the energy of incident
+electrons coincides with these energies, the electrons may tunnel through both
+barriers without any attenuation. As seen in Fig. 10 (two curves at V = 0),
+the transmission coefficient reaches unity at the electron energy E = El o r
+E 2. Since E 1 is a more strongly quantized state than E 2, the resonance peak
+at E 1 is much sharper than that at E 2. Although this sharpness depends upon
+the barrier thickness, one can achieve at some energy a resonance condition
+of 100% transmission, whatever thickness is given to the two barriers.
+   This effect is quite intriguing because the transmission coefficient (or the
+attenuation factor) for two barriers is usually thought of as the product of
+two transmission coefficients, one for each barrier, resulting in a very small
+value for overall transmission. The situation, however, is somewhat analogous
+to the Fabry-Perot type interference filter in optics. The high transmissivity
+arises because, for certain wavelengths, the reflected waves from inside inter-
+fere destructively with the incident waves, so that only a transmitted wave
+remains.
+
+
+126                               Physics 1973
+
+
+   This resonating condition can be extended to a periodic barrier structure.
+In the Kronig-Penney model of a one-dimensional crystal which consists of a
+series of equally-spaced potential barriers, it is well known that allowed bands
+of perfect transmission are separated by forbidden bands of attenuation. These
+one-dimensional mathematical problems can often be elegantly treated, lead-
+ing to exact analytical solutions in textbooks of quantum mechanics. Many
+of these problems, however, are considered to be pure mathematical fantasy,
+Ear from reality.
+   We, recently, initiated an experimental project to materialize one-dimen-
+sional potential barriers in monocrystalline semiconductors in order to ob-
+serve the predicted quantum-mechanical effects. (30) We choose n-type GaAs
+as a host semiconductor or a matrix in which potential barriers with the
+height of a fraction of one electron volt are made by inserting thin layers of
+G a1-r        or        Because of the similar properties of the chemical
+bond of Ga and Al together with their almost equal ion size, the introduction
+of AlAs into GaAs makes the least disturbance to the quality of single crystals.
+And yet the difference in the electronic structure between the two materials
+makes a sharp potential barrier inside the host semiconductor. We prepare
+the multi-layer structure with the technique of molecular beam epitaxy in
+ultra-high vacuum environment. Precise control of thickness and composition
+has been achieved by using a process control computer. (31)
+   With this facility, a double potential barrier structure has been prepared,
+ (32) in which the barrier height and width are about 0.4 eV and a few tens
+of angstroms, respectively, and the width of the central well is as narrow
+as 40-50Å. From these data, the first two energies, E 1 and E 2, of the weakly-
+quantized states in the well are estimated to be 0.08 and 0.30 eV.
+   We have measured the current-voltage characteristic as well as the conduc-
+tance dI/dV as a function of applied voltages in this double tunnel junction.
+The results at 77 K are shown in Fig. 11, and they clearly indicate two singu-
+larities in each polarity and even show a negative resistance around +0.8 volt
+or -0.55 volt. The applied voltages at the singularities, averaged in both
+polarities, are roughly twice as much as the calculated bound-state energies.
+This general feature is not much different a 4.2 K, although no structure is
+seen at room temperature.
+   The energy diagrams at zero bias and at applied voltages V 1, V2 and V 3
+are shown in Fig. 9. The electron densities on both the left and right GaAs
+sides are about 10 18 c m-3 which gives a fermi energy of 0.04 eV at zero
+temperature. These electrons are considered to be classical free carriers with
+the effective mass,      of which the kinetic energy E is given by
+
+
+
+
+On the other hand, the electrons in the central well have the weakly-quantized
+levels, E l, E2, . . ., for motion in the x direction perpendicular to the walls
+with a continuum for motion in the y-z plane parallel to the walls. These
+
+
+                                          L. Esaki
+
+
+
+                                     I         I        I
+
+
+
+
+   0.8
+
+
+
+
+Fig. 10. Transmission coefficient versus electron energy, indicating the resonant transmis-
+sion.
+
+
+electrons are nearly two-dimensional, which is to say the kinetic energy E is
+given by
+
+
+
+
+  An approximation is made that the same electron effective mass, m*, exists
+throughout the structure. Then an expression for the tunneling current in this
+structure (33) can be derived in the framework of the previously-described
+tunneling formalism in Eq. 2. Using              =                   =
+and T (temperature) = 0, the current is given by
+
+
+
+
+                                                                                        (3)
+
+
+Fig. 11. Current, I, and conductance, dI/dV, versus voltage curves in a double barrier
+tunnel junction.
+
+
+where V is the applied voltage, on which the transmission coefficient D(E x)
+depends. The above expression can be integrated over the transverse wave
+number kt, giving
+
+
+
+
+In both Eqs. 3 and 4, the second term is nonzero only for eV <E f = 0.04
+eV.
+   Now, the transmission coefficient D v ( Ex) can be derived for each ap-
+plied voltage from wave functions which are constructed by matching their
+values as well as derivatives at each boundary. Figure 10 shows one example
+of calculated D as a function of the electron energy for applied voltages
+
+
+Fig. 12. Construction of shadows of energy surfaces on two ky-k z planes corresponding
+to two barriers.
+
+
+
+
+between zero and 0.5 volt. The energy zero is taken at the bottom of the con-
+duction band on the left as shown in Fig. 9. In this example, the well width
+is taken to be 45Å and the barrier height 0.4 eV at zero bias. The square
+shape for barriers and well is assumed for simplicity of calculation, although
+they are actually trapezoidal at any applied voltage.
+   Referring to Figs. 9 and 10, both the absolute values and the positions in
+energy for the maxima of the transmission coefficient decrease with increasing
+applied voltages, the origin of energy being the conduction band edge for
+the left outer GaAs layer. The current maxima occur at applied voltages such
+that the electron energies on the left coincide with the bound-state energies,
+as illustrated in Figs. 9 (b) and (d). This resonant transmission has been
+experimentally verified as shown in Fig. 11. The transmission coefficient it-
+self at this resonance, however, is appreciably less than unity as indicated in
+
+
+Fig. 10, primarily because of the asymmetric nature of the potential profile
+at applied voltages.
+   To gain an insight into this tunneling problem, particularly in view of the
+transverse wave-vector conservation (specular tunneling), a representation in
+the wave-vector space is useful and is shown in Fig. 12. Two k y- kz, planes
+are shown parallel to the junction plane, corresponding to the two barriers.
+Figures 12 (a) and (b) show two different bias-voltage conditions. First, the
+Fermi sphere on the left is projected on the first screen, making a circle. A
+similar projection, of the two-dimensional electrons in the central well which
+have the same total energies as electrons in the Fermi sphere on the left at the
+particular applied voltage, will form a circle (Fig. 12 (a) ), or a ring (Fig.
+12 (b) ), depending upon the value of applied voltage. If the two projected
+patterns have no overlap, there will be no specular tunneling current. The
+situation on the right screen is slightly different, since an energy sphere on
+the right, in which electrons have the same total energies as electrons in the
+Fermi sphere on the left, is rather large; mereover, its size will be increased
+as the applied voltage increases. Thus in this case the two projected patterns
+always overlap. Figures 12 (a) and (b) correspond to the bias conditions
+in Figs. 9 (b) and (c), respectively. With an increase in applied voltage from
+V 1 to V 2, the current will decrease because of a disappearance of overlapping
+regions, thereby causing a negative resistance. Since the current density is
+dependent upon the half-width of the resonant peaks shown in Fig. 10, we
+have observed a clear negative resistance associated with the second bound-
+state which is not swamped by possible excess currents arising for a variety
+of reasons.
+
+
+V. P ERIODIC S TRUCTURE -S UPERLATTICE
+The natural extension of double barriers will be to construct a series of tunnel
+junctions by a periodic variation of alloy composition. (30) By using the same
+facilities for computer-controlled molecular beam epitaxy, we tried to pre-
+pare a Kronig-Penney type one-dimensional periodic structure-a man-made
+superlattice with a period of 100Å. (31) The materials used here are again
+GaAs and AlAs or
+   The composition profile of such a structure (34) has been verified by the
+simultaneous use of ion sputter-etching of the specimen surface and Auger
+electron spectroscopy and is shown in Fig. 13. The amplitudes of the Al
+Auger signals serve as a measure of Al concentration near the surface within
+a sampling depth of only 10Å or so. The damping of the oscillatory behavior
+evident in the experimental data is not due to thermal diffusion or other
+reasons but due to a surface-roughening effect or non-uniformity in the sput-
+ter-etching process. The actual profile, therefore, is believed to be one which
+is illustrated by the solid line in Fig. 13. This is certainly one of the highest
+resolution structures ever built in monocrystalline semiconductors.
+   It should be recognized that the period of this superlattice is ~ 100Å--still
+large in comparison with the crystal lattice constant. If this period       how-
+
+
+                                       I.. Esaki                                 131
+
+
+
+
+Fig. 13. Composition profile of a superlattice structure measured by a combination of
+ion sputter-etching and Auger electron spectroscopy.
+
+
+
+
+Fig. 14. Current-voltage characteristic at room temperature of a 70Å-period, GaAs-
+Ga0,5Al0,5 As superlattice.
+
+
+ever, is still shorter than the electron mean free path, a series of narrow
+allowed and forbidden bands is expected, due to the subdivision of the original
+Brillouin zone into a series of minizones. If the electron scattering time τ,
+and an applied electric field F, meet a threshold condition:                  > 1,
+the combined effect of the narrow energy band and the narrow wave-vector
+zone makes it possible for electrons to be excited beyond an inflection point
+in the energy-wave vector relation. This would result in a negative resistance
+for electrical transport in the direction of the superlattice. This can be seen in
+another way. The de Broglie wavelength of conduction electrons having an
+energy of, for instance, 0.03 eV in n-type GaAs (the effective mass ~ 0.1 m).
+is of the order of 200Å. Therefore, an interaction of these electron waves with
+the Kronig-Penney type potential with a period of 100Å can be expected, and
+will give rise to a nonlinear transport property.
+   We have begun to observe such current-voltage characteristic as shown in
+Fig. 14. The observed negative resistance may be interesting not only from
+the scientific aspect but also from a practical viewpoint because one can ex-
+pect, at least theoretically, that the upper limit of operating frequencies would
+be higher than that for any known semiconductor devices.
+
+
+VI. C O N C L U S I O N
+I am, of course, deeply aware of important contributions made by many col-
+leagues and my friends throughout this long journey. The subject of Section
+II was carried out when I was in Japan and all the rest (35) has been per-
+formed in the United States of America. Since my journey into tunneling is
+still continuing, I do not come to any conclusions in this talk. However, I
+would like to point out that many high barriers exist in this world: Barriers
+between nations, races and creeds. Unfortunately, some barriers are thick
+and strong. But I hope, with determination, we will find a way to tunnel
+through these barriers easily and freely, to bring the world together so that
+everyone can share in the legacy of Alfred Nobel.
+
+
+REFERENCES
+
+ 1. de Broglie, L., Nature 112, 540 (1923) ; Ann. de Physique (10 Ser.) 3, 22 (1925).
+ 2. Schrödinger, E., Ann. d. Physik (4. Folge) 79, 361, 489 (1926).
+ 3. Oppenheimer, J. R., Phys. Rev. 31, 66 (1928); Proc. Nat’l. Acad. Sci. U.S. 14,
+     363 (1928).
+ 4. Fowler, R. H. and Nordheim, L., Proc. Roy. Soc. (London) A 119, 173 (1928).
+ 5. Lilienfeld, J. E. Physik. Z. 23, 506 (1922).
+ 6. Gamow, G., Physik, Z., 51, 204 (1928).
+ 7. Gurney, R.W. and Condon, E. U., Nature 222,439 (1928).
+ 8. Rice, O. K. Phys. Rev. 34, 1451 (1929).
+ 9. Frenkel, J., Phys. Rev. 36, 1604 (1930).
+10. Helm, R. and Meissner, W., Z. Physik 74, 715 (1932), 86, 787 (1933).
+11. Holm, R., Electric Contacts, Springer-Verlag, New York, 1967 p.118.
+12. Wilson, A. H., Proc. Roy. Soc. (London) A 136, 487 (1932).
+13. Frenkel, J. and Joffe, A., Physik. Z. Sowjetunion I, 60 (1932).
+14. Nordheim, L., Z. Physik 7.5, 434 (1932).
+
+
+                                                                                       133
+
+
+15. Zener, C., Proc. Roy. Soc. (London) 14.5, 523 (1934).
+16. Houston, W. V., Phys. Rev. 57, 184 (1940).
+17. McAfee, K. B., Ryder, E. J., Shockley, W. and Sparks, M., Phys. Rev. 83, 650
+     (1951).
+18. McKay, K. G. and McAfee, K. B. Phys. Rev. 91, 1079 (1953);
+     McKay, K. G., Phys. Rev. 94,877 (1954) ;
+     Miller, S. L., Phys. 99, 1234 (1955).
+19. Chynoweth, A. G. and McKay., K. G. Phys., Rev. 106,418 (1957).
+20. Esaki, L., Phys. Rev. 109, 603 (1958);
+     Esaki, L., Solid State Physics in Electronics and Telecommunications, Proc. of Int.
+     Conf. Brussels, 1958 (Desirant, M. and Michels, J. L., ed.), Vol. 1, Semiconduc-
+     tors, Part I, Academic Press, New York, 1960, p. 514.
+21. Esaki, L. and Miyahara, Y., unpublished;
+     Esaki, L. and Miyahara, Y., Solid-State Electron. 1, 13 (1960) ;
+     Holonyak, N., Lesk, I. A., Hall, R. N., Tiemann, J. J. and Ehrenreich, H., Phys.
+     Rev. Letters 3, 167 (1959).
+22. Macfarlane, G. G., McLean, T. P., Quarrington, J. E. and Roberts, V., J. Phys.
+     Chem. Solids 8, 388 ( 1959).
+23. Haynes, J, R., Lax, M. and Flood, W. F., J. Phys. Chem. Solids 8, 392 (1959).
+24. See, for instance, Tunneling Phenomena in Solids edited by Burstein, E. and Lund-
+     qvist, S., Plenum Press, New York, 1969.
+25. Duke, C. B., Tunneling in Solids, Academic Press, New York, 1969.
+26. Harrison, W. A., Phys, Rev. 123, 85 (1961).
+27. Esaki, L. and Stiles, P. J., Phys. Rev. Letters 16, 1108 (1966) ; Chang, L. L., Stiles,
+     P. J. and Esaki, L., J. Appl. Phys. 38, 4440 (1967) ; Esaki, L., J. Phys. Soc. Japan,
+     Suppl. 21,589 (1966).
+28. See, for instance, Bohm, D., Quantum Theory, Prentice-Hall, New Jersey, 1951.
+29. Kane, E. O., page 9-l 1 in reference 24.
+30. Esaki, L. and Tsu, R., IBM J. Res. Develop. 24, 61 ( 1970); Esaki, L., Chang, L. L.,
+     Howard, W. E. and Rideout, V. L., Proc. 11th Int. Conf. Phys. Semicond., Warsaw,
+     Poland, 1972, p. 431.
+31. Chang, L. L., Esaki, L., Howard, W. E. and Ludeke, R., J. Vac. Sci. Technol. 10,
+     11 (1973);
+     Chang, L. L., Esaki, L., Howard, W. E., Ludeke, R. and Schul, G., J. Vac. Sci.
+     Technol. 10, 655 (1973).
+32. Chang, L. L., Esaki, L. and Tsu, R., to be published.
+33. Tsu, R. and Esaki, L., Appl. Phys. Letters 22, 562 (1973).
+34. Ludeke, R., Esaki, L. and Chang, L. L., to be published.
+35. Partly supported by Army Research Office, Durham, N. C.
+

@@ -1,0 +1,1271 @@
+         GRAPHENE: MATERIALS IN THE FLATLAND
+
+         Nobel Lecture, December 8, 2010
+         by
+         KONSTANTIN S. NOVOSELOV
+         School of Physics and Astronomy, The University of Manchester, Oxford
+         Road, Manchester M13 9PL, UK.
+
+
+
+
+                                                               “I call our world Flatland…”
+                               Edwin Abbott Abbott, Flatland. A Romance of Many Dimensions
+
+
+         Much like the world described in Abbott’s Flatland, graphene is a two-dimensional
+         object. And, as ‘Flatland’ is “a romance of many dimensions”, graphene is much
+         more than just a ﬂat crystal. It possesses a number of unusual properties which
+         are often unique or superior to those in other materials. In this brief lecture I would
+         like to explain the reason for my (and many other people’s) fascination with
+         this material, and invite the reader to share some of the excitement I have
+         experienced while researching it.
+
+
+
+         GRAPHENE AND ITS UNUSUAL PROPERTIES
+         Graphene is a two-dimensional (2D) atomic crystal which consists of carbon
+         atoms arranged in a hexagonal lattice (Fig. 1). Although sporadic attempts
+         to study it can be traced back to 1859 [1], active and focused investigation
+         of this material started only a few years ago, after a simple and effective way
+         to produce relatively large isolated graphene samples was found [2–3]. The
+         original ‘Scotch tape method’ [2–3] appeared to be so simple and effective
+         that this area of science grew extremely quickly, and now hundreds of labo-
+         ratories around the world deal with different aspects of graphene research.
+         Also known as the micromechanical cleavage technique, the Scotch tape
+         method has a low barrier to entry in that it does not require large investments
+         or complicated equipment, which has helped considerably to broaden the
+         geography of graphene science.
+
+
+
+
+         106
+
+
+
+
+voselov_lect_s106_131.indd 2                                                                       2011-09-01 08:17:41
+
+
+                        Figure 1. The crystal structure of graphene – carbon atoms arranged in a honeycomb
+                        lattice.
+
+
+
+
+                        Another source of graphene’s widespread popularity is that it appeals to
+                        researchers from a myriad of different backgrounds. It is the ﬁrst example
+                        of 2D atomic crystals, whose properties from the thermodynamics point of
+                        view are signiﬁcantly different from those of 3D objects. It is also a novel
+                        electronic system with unprecedented characteristics [4]. It can be thought
+                        of as a giant molecule which is available for chemical modiﬁcation [5-6]
+                        and is promising for applications [7–8] ranging from electronics [7–9] to
+                        composite materials [8, 10–11]. These factors allow for true multi- and
+                        cross-disciplinary research. Thanks to these attributes, within seven years
+                        of the ﬁrst isolation of graphene we have accumulated as many results and
+                        approached the problem from as many different perspectives as other areas
+                        of science would more commonly achieve over several decades.
+                           The major draw to people in the ﬁeld, though, is graphene’s unique
+                        properties, each of which seems to be superior to its rivals. This material
+                        is the ﬁrst 2D atomic crystal ever known to us [3]; the thinnest object ever
+                        obtained; the world’s strongest material [12]; its charge carriers are massless
+                        Dirac fermions [7, 13–14]; it is extremely electrically [15] and thermally [16]
+                        conductive; very elastic; and impermeable to any molecules [17] – the list
+                        goes on. Even a simple inventory of graphene’s superlative qualities would
+                        require several pages, and new entries are being added on a monthly basis.
+                           As it is not possible to give a comprehensive overview of all of graphene’s
+                        properties in one lecture, I will limit myself to just three, which, in my opinion,
+                        give the best possible impression of graphene: (i) it is the ﬁrst example of
+                        2D atomic crystals, (ii) it demonstrates unique electronic properties, thanks
+                        to charge carriers which mimic massless relativistic particles, and (iii) it has
+                        promise for a number of applications.
+
+                                                                                                       107
+
+
+
+
+voselov_lect_s106_131.indd 3                                                                           2011-09-01 08:17:59
+
+
+         I) TWO-DIMENSIONAL CRYSTALS
+
+
+         Stability of 2D crystals
+         Intuitively one can easily discern the difference between two- and three-
+         dimensional objects: restrict the size or motion of an object to its width
+         and length and forget (or reduce to zero) its height and you will arrive in
+         ‘ﬂatland’. The consequences of subtracting one (or more) dimensions from
+         our 3D world are often severe and dramatic. To give just a few examples:
+         there are no knots in 2D space; the probability of reaching any point in
+         d-dimensional space by random walking is exactly unity, for d=1 and d=2
+         and smaller than 1 in higher dimensions [18]; the problem of bosons with
+         repulsive potential in 1D is exactly equivalent to that of fermions, since
+         particles cannot penetrate each other and cannot be swapped [19–20] (the
+         Tonks–Girardeau gas and fermionisation of bosons in 1D problem); and it is
+         impossible to have thermodynamic equilibrium between different phases in
+         1D systems [21].
+            Many of the peculiar properties that one can expect in 2D systems are
+         present due to so-called ‘logarithmic divergences’, with the most well-known
+         example being the weak localisation quantum corrections to the conductivity
+         in 2D. In particular, a series of works by Peierls [22–23], Landau [21, 24],
+         Mermin [25] and Wagner [26] demonstrated the theoretical impossibility
+         of long-range ordering (crystallographic or magnetic) in 2D at any ﬁnite
+         temperatures. The stability of 2D crystals (here the theory has to be expanded
+         to take ﬂexural phonons or out-of-plane displacements into account
+         [27–29]) is a simple consequence of divergences at low k-vectors, when the
+         integration of the atomic displacements is taken over the whole 2D k-space.
+            It is important to mention that such instabilities are the result of thermal
+         ﬂuctuations and disappear at T = 0. Also, strictly speaking, at any ﬁnite tem-
+         perature the ﬂuctuations diverge only for inﬁnitely large 2D crystals (k o 0);
+         as the divergences are weak (logarithmic), crystals of limited sizes might
+         exhibit inﬁnitely small ﬂuctuations at least at low temperatures.
+            These ﬂuctuations place a fundamental restriction on the existence and
+         synthesis of low-dimensional crystals. Growth or synthesis generally requires
+         elevated temperatures – at which only crystallites of very limited size can be
+         stable in the ﬂat form – and, as the bending rigidity of such crystals is usually
+         low, they would generally crumple and fold easily and form 3D structures
+         (which might also help in reducing the energy of unsaturated dangling
+         bonds at the perimeter). Therefore the largest ﬂat molecule synthesised to
+         date is C222 [30], and the method used to create it is the low (room) temperature
+         cyclodehydrogenation of a 3D precursor molecule.
+            A possible way around the problem of 2D crystals’ instability is synthesis
+         as part of a 3D structure, with subsequent extraction of the 2D part of the
+         system at low temperatures (in fact, such a strategy is the basis of all methods
+         of graphene synthesising available to date) [7]. The ﬂuctuations, which
+         might diverge at high temperatures, are quenched during the synthesis due
+
+         108
+
+
+
+
+voselov_lect_s106_131.indd 4                                                                 2011-09-01 10:51:10
+
+
+                        to the interaction with the 3D matrix (substrate) whenever the extraction
+                        of 2D crystals can be done at low temperatures where the ﬂuctuations are
+                        suppressed.
+
+                        Graphene creation
+                        The simplest implementation of this method for graphitic materials is to use
+                        bulk graphite and exfoliate it into individual planes. Graphite is a layered
+                        material and can be considered as a stack of individual graphene layers.
+                        High-quality graphite typically requires growth temperatures of above 3000K,
+                        but exfoliation can be done at room temperatures – an order of magnitude
+                        lower than the growth temperatures. In fact, many of us have performed this
+                        procedure numerous times while using pencils, as drawing with a pencil
+                        relies on exfoliation of graphite (though not up to the monolayer limit,
+                        which would be practically invisible to the naked eye).
+
+
+
+
+                        Figure 2. The micromechanical cleavage technique (‘Scotch tape’ method) for producing
+                        graphene. Top row: Adhesive tape is used to cleave the top few layers of graphite from
+                        a bulk crystal of the material. Bottom left: The tape with graphitic ﬂakes is then pressed
+                        against the substrate of choice. Bottom right: Some ﬂakes stay on the substrate, even on
+                        removal of the tape.
+
+
+                        Graphite exfoliation techniques slightly more elaborate than writing with
+                        a pencil have been attempted by several groups [31–37] and thin graphitic
+                        ﬁlms obtained. But even graphitic ﬁlms only 20 layers thick would generally
+                        behave similarly to bulk graphite, so the real breakthrough came when
+                        monolayer ﬁlms of graphene, large enough to be studied by conventional
+                        techniques, were obtained [2–3]. The technique used in those cases is known
+                        as the micromechanical cleavage or ‘Scotch-tape’ method (Fig. 2). The top
+                        layer of the high-quality graphite crystal is removed by a piece of adhesive tape,
+                        which – with its graphitic crystallites – is then pressed against the substrate
+                        of choice. If the adhesion of the bottom graphene layer to the substrate is
+
+                                                                                                             109
+
+
+
+
+voselov_lect_s106_131.indd 5                                                                                 2011-08-29 09:25:03
+
+
+         stronger than that between the layers of graphene, a layer of graphene can
+         be transferred onto the surface of the substrate, producing extremely high-
+         quality graphene crystallites via an amazingly simple procedure. In principle,
+         this technique works with practically any surface which has reasonable
+         adhesion to graphene.
+
+
+
+
+         Figure 3. Thin graphitic ﬂakes on a surface of Si/SiO2 wafer (300 nm of SiO2, purple
+         colour). The different colours correspond to ﬂakes of differing thicknesses, from a100 nm
+         (the pale yellow ones) to a few nanometres (a few graphene layers – the most purple ones).
+         The scale is given by the distance between the lithography marks (200 μm).
+
+
+
+
+         However, especially in the ﬁrst experiments, the yield of the process was
+         extremely low, and one would have to scan macroscopically large areas to
+         ﬁnd a micrometer-sized graphene ﬂake (Fig. 3). Needless to say, this search
+         is a practically impossible task for conventional microscopy methods like
+         Atomic Force Microscopy or Scanning Electron Microscopy; realistically only
+         optical microscopy, which relies on the high-sensitivity, speed and processing
+         power of the human eye and brain, can do the job. So it came as a pleasant
+         surprise that monolayers of graphite on some substrates (Si/SiO2 with a
+         300 nm SiO2 layer, for instance) can produce an optical contrast of up to
+         15% for some wavelengths of incoming light. The phenomenon is now well
+         understood [38–39] and made Si/SiO2 with an oxide layer either 100 nm
+         or 300 nm thick the substrate of choice for a number of years for most
+         experimental groups relying on the micromechanical cleavage method of
+         graphene production.
+
+         110
+
+
+
+
+voselov_lect_s106_131.indd 6                                                                          2011-08-29 09:25:03
+
+
+                           Similar techniques (growth at high temperatures as a part of 3D system,
+                        with subsequent extraction of the 2D part at low temperatures) have been
+                        used in other graphene preparation methods. Probably the closest to the
+                        micromechanical exfoliation method is chemical exfoliation, which can be
+                        traced back to the original work of Professor Brodie[1] who treated graphite
+                        with acids and arrived at ‘Graphon’ (or graphite oxide as we now know
+                        it). Graphite oxide can be thought of as graphite intercalated with oxygen
+                        and hydroxyl groups, which makes it a hydrophilic material and easily
+                        dispersible in water. This technique produces extremely thin, sometimes
+                        even monolayer, ﬂakes of this material [40–44], which can then subsequently
+                        be reduced, producing low quality graphene [5, 10, 45–47].
+                           One can imagine an even simpler path for chemical exfoliation. Although
+                        graphene is hydrophobic, it can be dispersed in other, mostly organic,
+                        solvents [48–49]. By repeating the exfoliation and puriﬁcation (centrifugation)
+                        process several times one can obtain 50% and higher fractions of graphene
+                        in suspension.
+                           There are also well-known graphene-growing recipes from surface science.
+                        Catalytic cracking of hydrocarbons, or precipitation of dissolved carbon on
+                        a metal surface with subsequent graphitisation, has long been known to
+                        produce high-quality graphene layers [50–57]. A similar process is the
+                        graphitisation of excess carbon atoms after sublimation of silicon from
+                        the surface of silicon carbide [58–59]. One should note that it is also true
+                        in these cases that graphene must be a part of the 3D structure, as the
+                        underlying substrate aids in quenching the diverging ﬂuctuations at high
+                        temperatures.
+
+                        Other 2D crystals
+                        Thus far we have been talking mainly about graphene, but the 2D materials
+                        family is of course not limited to carbonic crystals, although similar problems
+                        are faced when attempts are made to synthesise other 2D materials. At least
+                        two possible methods of obtaining other 2D crystals come immediately to
+                        mind.
+                          One possibility is to apply the same recipes we saw working for graphene to
+                        other chemical compounds.
+
+
+
+
+                                                                                                   111
+
+
+
+
+voselov_lect_s106_131.indd 7                                                                       2011-08-29 09:25:03
+
+
+         Figure 4. Optical micrographs of various 2D crystals (top) and their crystal structures
+         (bottom). Left: Flakes of boron-nitride on top of an oxidised Si wafer (290 nm of SiO2, the
+         image taken using narrow band yellow ﬁlter, O =590 nm). The central crystal is a monolayer.
+         Centre: A device prepared from mono- and bi-layer NbSe2 crystals on an oxidised Si wafer
+         (290 nm of SiO2). Right: Flakes of MoS2 on top of an oxidised Si wafer (90 nm of SiO2).
+         The piece at the bottom-right corner is a monolayer. Colour coding for the crystal structures at
+         the bottom: yellow spheres = boron, purple = nitrogen; large white spheres = niobium, red =
+         selenide, blue = molybdenum, small white spheres = sulfur.
+
+
+
+
+         Micromechanical or chemical exfoliation can be successfully applied to
+         other layered materials (Fig. 4) such as Bi2Sr2CaCu2Ox [3], NbSe2 [3], BN
+         [3], MoS2 [3, 60], Bi2Te3 [61] and other dichalcogenides, and epitaxial growth
+         has been applied to grow monolayers of boron-nitride [62–63]. As with
+         graphene, the crystal quality of the obtained monolayer samples is very high.
+         Many of the 2D materials conduct and even demonstrate ﬁeld effects (changes
+         of the resistance with gating). The properties of the obtained 2D materials
+         might be very different from those of their 3D precursors. For example,
+         the overlapping between the valence and conduction bands in graphene is
+         exactly zero while it is ﬁnite in graphite [2], and a monolayer of molybdenum
+         disulphide is a direct band semiconductor while the bulk material has got an
+         indirect band gap [60].
+            A second approach is to start with an existing 2D crystal and modify
+         it chemically to obtain a new material. One can think of graphene, for
+         instance, as a giant molecule. All the atoms of this molecule are, in principle,
+         accessible for chemical reaction (as opposed to the 3D case, where atoms in
+         the interior of the crystal cannot participate in such reactions).
+            Graphene, due to the versatility of carbon atoms, is a particularly good
+         candidate for such modiﬁcation. Depending on the environment, the
+         electron conﬁguration of a carbon atom (which has four electrons in the
+         outer shell) might change dramatically, allowing it to bond to two, three or
+         four other atoms. Bonding between the carbon atoms is exceptionally strong
+         (the strongest materials on Earth are all carbon-based), whereas bonding to
+         other species, though stable, can be changed by chemical reactions. To give
+         an example of such versatility: a backbone of two carbon atoms each can
+         accept one, two or three hydrogen atoms, forming ethyne (also known as
+         acetylene), ethene (a.k.a. ethylene) or ethane respectively. It is possible to
+
+         112
+
+
+
+
+voselov_lect_s106_131.indd 8                                                                                2011-09-01 10:50:07
+
+
+                        convert any one of those into another by adding or removing hydrogen, thus
+                        changing the electron conﬁguration of carbon atoms between so-called sp,
+                        sp2 and sp3 hybridisations.
+                          Carbon atoms in graphene are sp2-hybridised, meaning that only three
+                        electrons form the strong V-bonds and the fourth has a communal use forming
+                        the so-called S-bonds. So, graphene is a zero-overlap semimetal and conducts
+                        electricity very well (in contrast to diamond, where each carbon atom is in
+                        sp3-hybridisation and therefore has four neighbours. In that case all four
+                        electrons in the outer shell are involved in forming V-bonds, so a huge gap
+                        appears in the electronic band structure, making diamond an insulator). The
+                        versatility of carbon atoms, then, gives us an idea of how to create novel 2D
+                        crystals: one can attach something to carbon atoms, creating a new material
+                        with a different chemical composition and exciting properties.
+
+
+
+
+                        Figure 5. Chemically modiﬁed graphene. One can add different species (like hydrogen or
+                        ﬂuorine) to graphene scaffolding. Carbon atoms are represented by blue spheres.
+
+
+
+                        A wide variety of chemicals can be attached to graphene. So far only two
+                        crystallographically-ordered chemical modiﬁcations of graphene have been
+                        predicted and achieved: graphane (when one hydrogen atom is attached to
+                        each of the carbon atoms) [64–65] and ﬂuorographene (Fig. 5) [66–69].
+                        Both derivatives are insulators (exhibiting large band-gaps) of very high
+                        crystallographic quality and very stable at ambient temperatures (though it
+                        should be mentioned that ﬂuorographene generally exhibits more robust
+                        properties, probably due to stronger C-F bonding in comparison to C-H).
+                        Graphane and ﬂuorographene open the ﬂoodgates for the chemical modiﬁ-
+                        cation of graphene and for the appearance of novel two-dimensional atomic
+                        crystals with predetermined properties. It would be interesting to see other
+                        derivatives, probably ﬁlling the gap between graphene and graphane in
+                        terms of electrical conductance (the size of the band gap).
+                           Clearly then, the importance of graphene is not only that it has unique
+                        properties but also that it has paved the way for, and promoted interest in,
+                        the isolation and synthesis of many other 2D materials. We can now talk
+                        about a whole new class of materials, 2D atomic crystals, and already have
+                        examples with a large variety of properties (from large band-gap insulators
+                        to the very best conductors, the extremely mechanically strong to the soft
+                        and fragile, and the chemically active to the very inert). Further, many of the
+                        properties of these 2D materials are very different from those of their 3D
+                        counterparts. Given that, even after seven years’ intensive research, graphene
+                        still regularly delivers surprises, it seems reasonable to expect a huge inﬂux
+                        of breathtakingly interesting results from the ﬁeld of 2D atomic crystals.
+
+                                                                                                         113
+
+
+
+
+voselov_lect_s106_131.indd 9                                                                              2011-08-29 09:25:04
+
+
+         Out to Spaceland: 2D-based heterostructures
+         As mentioned earlier, the properties of 2D crystals can be very different from
+         their 3D counterparts. Even bilayer graphene [70–71] (two graphene layers
+         stacked on top of each other in special, so-called Bernal- or A–B, stacking),
+         is remarkably different from graphene. The latter is a zero-overlap semi-
+         metal, with linear dispersion relations whenever the bands are parabolic in
+         bilayer graphene, and a gap can be opened in the spectrum if the symmetry
+         between the layers is broken (say, by applying electric ﬁeld between the
+         layers) [72–75]. However, the properties of multilayered materials depend
+         not only on the number of layers [2, 76] but also on how those layers are
+         stacked. For instance, in the case of graphite, consider Bernal stacking versus
+         rhombohedral versus hexagonal versus turbostratic, and, in bilayer, a small
+         rotation between the individual layers leads to the appearance of van Hove
+         singularities at low energies [77–80].
+            As we have full control over the 2D crystals, we can also create stacks
+         of these crystals according to our requirements. Here, we are not merely
+         talking about stacks of the same material: we can combine several different
+         2D crystals in one stack. Insulating, conducting, probably superconducting
+         and magnetic layers can all be combined in one layered material as we wish,
+         the properties of such heterostructures depending on the stacking order and
+         easily tuneable.
+            Thus a completely new world of ‘materials on demand’ is opening up to
+         us. Because the pool of the original 2D crystals is very rich, the properties
+         of such heterostructures can cover a huge parameter space, combining
+         characteristics which previously we would not even dare to think of being
+         found together in one material.
+
+
+
+
+         Figure 6. 2D-based heterostructures. Blue spheres = carbon atoms, yellow = boron, purple =
+         nitrogen, white = niobium, and red = selenide.
+
+
+         The ﬁrst members of this huge family are already there. By combining
+         (alternating) monolayers of insulating boron-nitride and graphene, one
+         can get weakly coupled graphene layers whose coupling would depend on
+         the number of BN layers between the graphene planes (Fig. 6). The level of
+         interaction between the graphene planes ranges from tunnelling (for single
+         or double BN layers in between) to purely Coulomb (for thicker BN spacers).
+
+         114
+
+
+
+
+voselov_lect_s106_131.indd 10                                                                         2011-08-29 09:25:05
+
+
+                        Figure 7. The low-energy band structure of graphene.
+
+
+                        II) CHIRAL QUASIPARTICLES AND THE ELECTRONIC PROPERTIES
+                        OF GRAPHENE
+
+
+                        Linear dispersion relation and chirality
+                        What really makes graphene special is its electronic properties. Graphene
+                        is a zero-overlap semimetal, with valence and conduction bands touching at
+                        two points (K and K’) of the Brillouin zone [81–83] (Fig. 7). This is a conse-
+                        quence of the hexagonal symmetry of graphene’s lattice (which is not one of
+                        the Bravais lattices): it has two atoms per unit cell and can be conceptualised
+                        as two interpenetrating triangular lattices. The pz-orbitals from the carbon
+                        atoms hybridise to form S and S* bands, whose crossing at the K and K’
+                        points guarantees a gapless spectrum with linear dispersion relation. Thus,
+                        the absence of a gap between the valence and the conduction bands in
+                        graphene makes for a very robust phenomenon and is a consequence of the
+                        symmetry between the sub-lattices [83] (in boron-nitride, where the symmetry
+                        between the sub-lattices is broken [one consists of boron, another of nitro-
+                        gen], a large gap is opened in the electronic spectrum [84]).
+                           Linear dispersion relation already makes graphene special, but there is
+                        more to it than that. States in the valence and conduction bands are essentially
+                        described by the same spinor wave function, so electrons and holes are linked
+                        via charge conjugation. This link implies that quasiparticles in graphene
+                        obey chiral symmetry, similar to that which exists between particles and
+                        antiparticles in quantum electrodynamics (QED). This analogy between
+                        relativistic particles and quasiparticles in graphene is extremely useful and
+                        often leads to interesting interpretations of many phenomena observed in
+                        experiments [85].
+
+                        The Klein paradox
+                        Probably the most striking result of the quasiparticles’ chiral symmetry is the
+                        prediction [86] and observation [87–88] of the Klein paradox in graphene
+
+                                                                                                    115
+
+
+
+
+voselov_lect_s106_131.indd 11                                                                       2011-08-29 09:25:06
+
+
+         (to explore it, the p-n junction is a natural venue [89]). The paradox refers
+         [90–91] to the enhanced tunnelling probability of a relativistic particle,
+         which approaches unity as the height of the potential barrier exceeds 2m0c2
+         (where m0 is the rest mass of the particle and c is the speed of light) and is
+         exactly 1 for massless particles. It can be seen as a result of suppressed back-
+         scattering (massless relativistic particles, like photons, always move with
+         constant velocity – the speed of light – whereas backscattering requires velocity
+         to become zero at the turning point) or as particle-antiparticle pair produc-
+         tion and annihilation due to the Schwinger [92] mechanism in the areas of
+         high electric ﬁeld.
+            The Klein paradox for chiral quasiparticles in graphene leads to perfect
+         electron-to-hole conversion at a potential barrier, and an equal to unity prob-
+         ability of tunnelling through such a barrier at least for the normal incidence
+         [86, 89, 93–94]. This guarantees the absence of localisation [95–96] and
+         ﬁnite minimum conductivity [7], even in relatively disordered graphene,
+         which – in the limit of nominally zero carrier concentration – splits into
+         electron-hole puddles [97]. The absence of backscattering, which leads to
+         the Klein paradox, also ensures that quantum (interference) corrections to
+         the conductivity are positive (at least if we neglect the inter-valley scattering
+         and the effect of trigonal warping) [4, 98], resulting in weak anti-localisation
+         which has indeed been observed experimentally [99–100].
+
+         Half-integer quantum Hall effect
+         The charge conjugation symmetry between electrons and holes also guarantees
+         that there should always be an energy level exactly at E = 0. In the magnetic
+         ﬁeld this symmetry results in a sequence of the Landau levels as
+                    2
+         En r 2e!v B(n  12 r 12 ) (here e is an electron charge, ʄ the Planck constant, B
+         the magnetic ﬁeld, v the Fermi velocity and n = 0,1,2…), rather different from
+         that for normal massive particles. The ± 1/2 term is related to the chirality
+         of the quasiparticles and ensures the existence of two energy levels (one
+         electron- and one hole-like) at exactly zero energy, each with degeneracy
+         two times smaller than that of all the other Landau levels [101–107].
+
+
+
+
+                                                      Figure 8. Hall conductivity as a function
+                                                      of the carrier concentration.
+
+
+
+
+         116
+
+
+
+
+voselov_lect_s106_131.indd 12                                                                     2011-08-29 09:25:08
+
+
+                        Experimentally such a ladder of Landau levels exhibits itself in the observa-
+                        tion of a ‘half-integer’ quantum Hall effect [13–14] (Fig. 8). The two times
+                        smaller degeneracy of the zero Landau level is revealed by the ± ½(4e2/h)
+                        plateaus in Hall conductivity at ﬁlling factors ± 2. Furthermore, due to the
+                        linear dispersion relation and the relatively high value of the Fermi velocity
+                        (v | 106 m/s), the separation between the zero and ﬁrst Landau levels is
+                        unusually large (it exceeds the room temperature even in a modest magnetic
+                        ﬁeld of 1T). This, in conjunction with the low broadening of the zero Landau
+                        level [108], makes it possible to observe the quantum Hall effect even at
+                        room temperatures [109]. This is rather exciting news for people working in
+                        metrology, as it should allow much simpler realisation of quantum resistance
+                        standard (no need for ultra-low temperatures), an idea which has recently
+                        been supported by several experiments [110–111].
+
+                        Effect of mechanical deformation
+                        It is important to remember that graphene is not just another 2D electronic sys-
+                        tem, similar to electrons on the surface of silicon MOSFET or in 2D quantum
+                        wells in GaAs/AlGaAs heterostructures. Graphene is a truly 2D atomic crystal
+                        as well as having electronic properties as in 2D. Essentially the thinnest
+                        possible fabric, it can be easily deformed mechanically and can be stretched
+                        [12, 17, 112–116], compressed [117], folded [80, 118], rippled [119] – even
+                        torn into pieces [120]. Needless to say, each of these mechanical manipula-
+                        tions would result in strong changes to the electronic structure [121–123].
+                            Furthermore, it can be demonstrated that strain is equivalent to the
+                        local magnetic ﬁeld (of opposite directions for quasiparticles in the K and
+                        K’ valleys, to preserve the time-reversal symmetry) – a phenomenon used
+                        to explain the suppression of the weak localisation [99, 124] and addi-
+                        tional broadening of all but zeroth Landau levels [108]. In principle, one can
+                        imagine engineering strain distribution of a special geometry so that the
+                        electronic band-structure would be modiﬁed as if a constant magnetic
+                        ﬁeld was being applied to a particular area of the sample [125–126]. Since
+                        graphene is mechanically strong and very elastic [12], the strains applied
+                        (and thus the pseudomagnetic ﬁelds which would be generated) can
+                        be extremely large, resulting in the opening of sizeable gaps in the elec-
+                        tronic spectrum [127]. This allows us to talk about a completely new and
+                        unexplored direction in electronics: strain engineering of electronic
+                        structure [123] and valleytronics [128–130].
+
+                        Graphene optics
+                        Can one expect anything interesting from the optical properties of graphene?
+                        Rather counterintuitively, despite being only one atom thick, graphene
+                        absorbs quite a large fraction of light. In the infrared limit the absorption
+                        coefﬁcient is exactly Pa | 2.3% (where a = e2/ʄc is the ﬁne structure constant),
+                        and the corrections to this number in the visible range of the spectrum are
+                        less than 3% [131–134]. Such a signiﬁcant absorption coefﬁcient makes
+                        it possible to see graphene without the use of a microscope; thus, one can
+
+                                                                                                    117
+
+
+
+
+voselov_lect_s106_131.indd 13                                                                       2011-08-29 09:25:08
+
+
+         observe (literally) the most fundamental constant of this universe with the
+         naked eye. At higher frequencies the absorption becomes even larger, reach-
+         ing 10% due to the presence of the van Hove singularities at the zone edge
+         [135–136].
+            By changing the carrier concentration, one can shift the position of the
+         Fermi level and change graphene’s optical absorption due to Pauli blocking
+         [133]. Since the density of states in graphene is relatively low (at least in the
+         vicinity of the Dirac point), even electrostatic gating can be enough to shift
+         the Fermi level as high as few hundred meV [137], so Pauli blocking happens
+         in the visible range of the spectrum. By executing such strong gating on
+         several tens of graphene layers in series, it would be possible to control the
+         light transmission in such structures to a large extent, an observation which
+         might be promising for novel photonic devices.
+
+
+
+
+         Figure 9. Crystal structure of bilayer graphene.
+
+
+
+         Bilayer graphene
+         Although the addition of one layer on top of graphene is all that is needed
+         to arrive at bilayer graphene, the properties of the latter are not simply twice
+         those of the monolayer crystal; this is one of those cases where ‘one plus one
+         is greater than two’. Bilayer graphene is remarkably different – sometimes
+         even richer in its properties than its monolayer cousin – and fully deserves to
+         be called a different material in its own right.
+            Two graphene layers, when placed together, do not like to lie exactly one
+         on top of each other with each atom having a couterpart in the adjacent layer
+         (unlike boron-nitride, which does exactly that). Instead, bilayer graphene is
+         mostly found [78] in so-called A–B or Bernal stacking [138] (named after the
+         famous British scientist John Desmond Bernal, one of the founders of X-ray
+         crystallography, who determined the structure of graphite in 1924). In such
+         an arrangement, only half of the carbon atoms have a neighbour in another
+         layer and the other half do not (and so are projected right into the middle of
+         the hexagon) (Fig. 9). The quantum-mechanical hopping integral between
+         the interacting atoms (generally called J1) is in the order of 300 meV, which
+
+         118
+
+
+
+
+voselov_lect_s106_131.indd 14                                                                2011-08-29 09:25:09
+
+
+                        gives rise to a pair of high-energy electronic sub-bands [70–71, 139]. The offset
+                        from the zero energy (the position of the Fermi level in undoped bilayer gra-
+                        phene) is exactly J1, so these sub-bands do not contribute to electronic trans-
+                        port unless a very high level of doping is achieved (though these sub-bands
+                        can be easily observed in optical experiments [140–141]) (Fig. 10).
+
+
+
+
+                        Figure 10. The band structure of bilayer graphene in the vicinity of the K point.
+
+
+
+
+                        The non-interacting atoms give rise to low-energy bands which are still
+                        crossing at zero energy (as in graphene), but are parabolic, Fig. 10. The
+                        symmetry between the layers is analogous to the sub-lattice symmetry in
+                        monolayer graphene, and it guarantees the chiral symmetry between
+                        electrons and holes. Thus we have a new type of quasiparticle in graphene –
+                        massive chiral fermions – which does not have an analogy in QED [70–71].
+                        Similarly to graphene, the chirality reveals itself in the unusual quantum
+                        Hall effect. The sequence of the Landau levels in the magnetic ﬁeld is now
+                        EN r!Z c N(N  1) ; here Wc = eB/m* is the cyclotron frequency and m* = G1/2v2
+                        is the cyclotron mass. It is easy to see that two Landau levels exist at zero en-
+                        ergy (N = 0 and N = 1), which again ensures a peculiar sequence of the Hall
+                        plateaus and metallic behaviour in the limit of zero ﬁlling factor (at least if
+                        we neglect the many-body effects) [70–71].
+
+                                                                                                            119
+
+
+
+
+voselov_lect_s106_131.indd 15                                                                               2011-08-29 09:25:11
+
+
+            As has been said, the chiral symmetry in mono- and bi-layer graphene is
+         protected by the symmetry between the sub-lattices. In the case of graphene
+         it is rather difﬁcult to break this symmetry – one would have to diligently
+         apply a certain potential to atoms which belong to one sub-lattice only, while
+         applying different potential to another sub-lattice – but in bilayer graphene it
+         is possible to do just that. By applying a gate voltage or by chemically doping
+         from only one side, we can discriminate between the layers and thus between
+         the sub-lattices (breaking the inversion symmetry). This results in lifting the
+         chiral symmetry and opening a gap in the spectrum. Both strategies have
+         been implemented in experiments and yielded a rather striking result: a gap
+         as large as 0.5 eV could be opened [72–74, 140–143]. Thus bilayer graphene
+         is a rare case of a material where the band-gap can be directly controlled
+         by (and its size directly propotional to) the electric ﬁeld applied across the
+         layers.
+            As the quality of bilayer graphene samples improves [144–146], we will
+         see more and more interesting properties in them. Topological transitions
+         at low electron energies [146], excitonic effects [147] and topological one-
+         dimensional states [130] are among those which can be expected.
+
+
+         III) GRAPHENE APPLICATIONS
+         Fans of the American sitcom The Big Bang Theory (splendidly produced
+         by Chuck Lorre) might recall the episode ‘The Einstein Approximation’
+         in which string theorist Sheldon Cooper tries to resolve ‘the graphene problem’:
+         why do quasiparticles in graphene behave like massless Dirac fermions?
+         (Fig. 11) The whole crew is great as usual, particularly actor Jim Parsons’
+         grotesquely brilliant depiction of the tough but enjoyable process of searching
+         for a solution to a scientiﬁc problem. It is also probably the best episode
+         from a physics point of view (thanks to Chuck Lorre, other writers and the
+         scientiﬁc advisor David Saltzberg), as – unusually – the whole plot hinges
+         on the scientiﬁc problem, rather than this serving merely to link its parts
+         (the only other example I can recall of such an episode is the one about the
+         paper on supersolids). I’d like to think that the reason for this is the simple
+         and appealing physics of graphene, which is Sheldon sophisticated, Penny
+         beautiful, Raj exotic, Leonard practical and Howard intrusive. On the day
+         the episode was shot, Professor Saltzberg wrote in his blog, “…graphene has
+         captured the imagination of physicists with its potential applications,” and, in
+         fact, graphene applications are already here.
+            The point of this paragraph is not to advertise The Big Bang Theory but
+         to demonstrate the kind of applications we are expecting from graphene.
+         The fact that one of the ﬁrst practical uses of this material was not in a high-
+         expectation, predictable ﬁeld like transistors or photonics, but instead in the
+         entertainment industry indicates its great potential and versatility. Indeed, in
+         graphene we have a unique combination of properties, which are not seen
+         together anywhere else: conductivity and transparency, mechanical strength
+         and elasticity. Graphene can successfully replace many materials in a great
+
+         120
+
+
+
+
+voselov_lect_s106_131.indd 16                                                               2011-08-29 09:25:12
+
+
+                        Figure 11. Dr Sheldon Cooper (Jim Parsons) “…either isolating the terms of his formula
+                        and examining them individually or looking for the alligator that swallowed his hand
+                        after Peter Pan cut it off.” From The Big Bang Theory, series 3, episode 14 ‘The Einstein
+                        Approximation’. Photo: Sonja Flemming/CBS ©2010 CBS Broadcasting Inc.
+
+
+
+
+                        number of existing applications, but I would also like to see things going
+                        in the other direction, with the unique combination of properties found in
+                        graphene inspiring completely new applications.
+
+                        Graphene support
+                        I would like to start by talking about relatively simple graphene devices for
+                        quite a minute market: graphene support to study biological and other samples
+                        in transmission electron microscopy (TEM) [148–150]. It is appealing for the
+                        simple reason that graphene membranes are already available on the market
+                        and are sold by several companies in both Europe and the US.
+                           Graphene is an ultimately thin, ultimately conductive, ultimately mechani-
+                        cally strong and crystallographically ordered material, and it would be strong-
+                        ly beneﬁcial to use it as a support for nano-objects when observing them in
+                        TEM. Its mechanical strength provides rigidity and ease in sample prepara-
+                        tion, and it has a very high radiation damage threshold (in the order of
+                        80 keV). High conductivity eliminates the problem of charging of the support.
+                        As it is only one atom thick (and also made of a very light element),
+                        graphene ensures the highest possible contrast (one can only go higher in
+                        contrast if suspending the object). Finally, because it is highly crystallographi-
+
+                                                                                                            121
+
+
+
+
+voselov_lect_s106_131.indd 17                                                                                2011-08-29 09:25:13
+
+
+         cally ordered, graphene produces few diffraction spots, and those that do
+         appear can be easily ﬁltered out, leaving the image completely unperturbed
+         by the presence of support. Although graphene is already quite compatible
+         with biomolecules, it could also be functionalised to achieve a certain surface
+         potential (for example, changed from being hydrophobic to hydrophilic).
+         Chemical modiﬁcation of graphene is already well developed, but there are
+         still a large number of opportunities available in this area [5–6].
+
+
+
+
+         Figure 12. Production of graphene membranes for TEM support application. Graphene,
+         grown on metal (a) is covered with a layer of plastic (b). The sacriﬁcial metal layer is
+         etched away and graphene on plastic is ﬁshed on a standard TEM grid (c). Upon the
+         removal of the plastic layer (d) the graphene membrane can be exposed to a solution of
+         biomolecules (e) which adsorb on the surface of graphene (f) and can be studied in a
+         TEM.
+
+
+
+
+         Initially, free-standing graphene membranes were produced from exfoliated
+         graphene [151–152] and required several lithography steps during their
+         manufacture. With the availability of chemical vapor deposition (CVD) –
+         grown graphene [153–154], the technique became dramatically simpler,
+         enabling production on an industrial scale. Graphene, epitaxially grown on
+         the surface of a metal (either by precipitation of the dissolved carbon upon
+         cooling or by direct catalytic cracking of the hydrocarbons on the hot sur-
+         face of the metal, with subsequent graphitisation), is covered by a sacriﬁcial
+         layer of plastic. The underlying metal is then removed by etching and the
+         plastic ﬁlm (with graphene attached) can be transferred onto practically any
+         surface. It can be placed, for example, on a metal grid with holes typically
+         the size of few microns, where – upon the removal of the sacriﬁcial plastic
+         ﬁlm – a free standing graphene membrane is formed (Fig. 12). This entire
+         process is very reproducible and can result in a large total area of graphene
+         membranes.
+
+         122
+
+
+
+
+voselov_lect_s106_131.indd 18                                                                       2011-08-29 09:25:14
+
+
+                        Transparent conductive coating
+
+                        Another area, which should beneﬁt signiﬁcantly from the availability of CVD-
+                        grown graphene, is transparent conductive coating. Graphene is unusually
+                        optically active [131–133, 135] and for a monolayer absorbs a rather large
+                        fraction of incoming light (2.3%), but this is still signiﬁcantly smaller than
+                        the typical absorption coefﬁcient which could be achieved with a more
+                        traditional transparent conductive coating materials [155]. In conjunction
+                        with its low electrical resistivity, high chemical stability and mechanical
+                        strength, this absorption coefﬁcient makes graphene an attractive material
+                        for optoelectronic devices.
+                           Transparent conductors are an essential part of many optical devices, from
+                        solar cells to liquid crystal displays and touch screens. Traditionally metal
+                        oxides or thin metallic ﬁlms have been used for these purposes [155], but
+                        with existing technologies often complicated (thin metallic ﬁlms require
+                        anti-reﬂection coating for example) and expensive (often using noble or
+                        rare metals), there has been an ongoing search for new types of conductive
+                        thin ﬁlms. Furthermore, many of the widely used metal oxides exhibit non-
+                        uniform absorption across the visible spectrum and are chemically unstable;
+                        the commonly used indium tin oxide (ITO, In2O3:Sn), for instance, is known
+                        to inject oxygen and indium ions into the active media of a device.
+                           Graphene avoids all of these disadvantages. Moreover, it has recently been
+                        demonstrated that large areas of graphene can be grown by the CVD method
+                        [115, 153–154] and transferred onto practically any surface. Initial prototype
+                        devices (solar cells and liquid crystal displays), which use graphene as a
+                        transparent conductive coating have already been created [48, 156].
+
+                        Graphene transistors
+                        Even the very ﬁrst graphene ﬁeld effect transistors demonstrated remark-
+                        able quality: prepared using rather humble methods in poorly controlled
+                        environments, they still showed reasonably high quasiparticle mobility (up
+                        to 20,000 cm2/Vs) [2–3] (Fig. 13). Although the role of different scattering
+                        mechanisms is still debated [95, 107, 157–168] the careful elimination of
+                        Coulomb and resonant scatterers, as well as ripples, has allowed the achieve-
+                        ment of mobilities of over 106 cm2/Vs at low temperatures [169] in free-
+                        standing devices [144–145], and offers hope that values above 105 cm2/Vs
+                        can be achieved even at ambient temperatures [170].
+
+
+
+
+                                                                                                  123
+
+
+
+
+voselov_lect_s106_131.indd 19                                                                     2011-08-29 09:25:14
+
+
+         Figure 13. Ambipolar ﬁeld effect in graphene.
+
+
+
+
+         Such characteristics make graphene ﬁeld effect transistors extremely promis-
+         ing for high-frequency applications [171–172]. Additional beneﬁts are also
+         emerging from very favourable electrostatics of 2D ﬁlms and high Fermi
+         velocity (which is important in ballistic regimes). Even when using graphene
+         with rather modest mobility (a103 cm2/Vs) current gain has been achieved
+         at frequencies as high as 100 GHz for 240 nm gate length transistors (power
+         gain for similar devices was achieved below 14 GHz) [173], which is better
+         than for Si metal–oxide-semiconductor FETs of the same gate length.
+            The situation is not as bright for integrated circuits. The Klein paradox
+         ensures a ﬁnite minimum conductivity for graphene (of the order of
+         4 e2/h) even within the limit of nominally zero carrier concentration. This
+         is deﬁnitely too high for applications in logic elements, as it leads to high
+         ‘leakage’ current in the ‘off’ state and limits the possible on/off ratio of such
+         transistors to about 103 even in very favourable circumstances.
+            There are several possible tricks one can play to increase the on/off ratio
+         of graphene transistors, however. One is to utilise low-dimensional graphene
+         nanostructures such as graphene nanoribbons [174], quantum dots [175]
+         and single electron transistors [175–176] where a band gap can be engi-
+         neered due to quantum conﬁnement or Coulomb blockade. The smallest
+         quantum dots (a few nanometres in size) demonstrate a signiﬁcant gap in the
+         order of few hundred meV, which is enough for such transistors to achieve
+
+         124
+
+
+
+
+voselov_lect_s106_131.indd 20                                                                2011-08-29 09:25:15
+
+
+                        an on/off ratio in the order of 105 even at room temperatures [175]. The
+                        strong carbon-carbon bonds ensure the mechanical and chemical stability
+                        of such devices, which also can pass a signiﬁcant current without diminishing
+                        their properties. Basically, we can think of it as top-down molecular electronics
+                        – one nanometre-sized graphene quantum dot contains only a102 atoms.
+                        The major problem with implementing such quantum dots would be the
+                        limits of modern lithographic techniques, which do not currently allow
+                        true nanometre resolution. Also, one would have to control the roughness
+                        and chemistry of the edges with atomic precision, which is also beyond the
+                        capabilities of modern technology.
+                           Although modern microelectronics relies on lithographic techniques, one
+                        can imagine using other approaches to form nanostructures, which would
+                        eventually allow reproduction of ﬁne details far beyond the resolution of
+                        lithography. One promising method would be the use of the self-organisation
+                        properties of chemical reactions. Graphene nanostructures could be formed,
+                        for instance, by ﬂuorination of the supposed-to-be-insulating parts. Partial
+                        ﬂuorination or hydrogenation can result in the formation of self-organised
+                        structures on a graphene surface [177–178], which, in principle, could be
+                        used to modify its transport and optical properties.
+                           The other possible way to open a gap in the spectrum of quasiparticles
+                        in graphene is to use chemically modiﬁed graphene [65–69], where the
+                        S-electrons are participating in the covalent bond with foreign atoms
+                        attached to the carbon scaffolding. One could also use bilayer graphene, as a
+                        gap can be opened by applying a potential difference between the two layers
+                        [72–74, 140–143]. An on/off ratio of 2000 has recently been achieved in
+                        dual-gated devices at low temperatures [179].
+
+                        Graphene composites
+                        The unique combination of graphene’s electronic, chemical, mechanical
+                        and optical properties can be utilised in full in composite materials. It is also
+                        relatively easy to prepare graphene for such an application: one can either
+                        use the direct chemical exfoliation of graphene [48–49], which allows a
+                        rather high yield of graphene ﬂakes in a number of organic solvents or go
+                        through an oxidation process to prepare graphite oxide – which can be easily
+                        exfoliated in water – with subsequent reduction in a number of reducing
+                        media [10].
+                          The strongest and simultaneously one of the stiffest known materials,
+                        with a Young’s modulus of 1 TPa, graphene is an ideal candidate for use
+                        as a reinforcement in high-performance composites [11]. There is a huge
+                        advantage in its being exactly one atom thick: it cannot cleave, giving it the
+                        maximum possible strength in the out-of-plane direction. Its high aspect
+                        ratio also allows graphene to act as an ideal stopper for crack propagation.
+                        As for interaction with the matrix – the central issue for all nanocomposite
+                        ﬁllers like carbon ﬁbre or carbon nanotubes – chemical modiﬁcation of
+                        the surface or edges may signiﬁcantly strengthen the interface between the
+                        graphene and a polymer.
+
+                                                                                                     125
+
+
+
+
+voselov_lect_s106_131.indd 21                                                                        2011-08-29 09:25:15
+
+
+            Using chemical derivatives of graphene would not only broaden the range of
+         possible matrices but also widen the functionality of the possible composites.
+         Given that the mechanical strength of ﬂuorographene is only slightly smaller
+         than that of pristine graphene [66], one can obtain composites with similar
+         mechanical properties but a range of other characteristics, from optically
+         transparent to opaque, and from electrically conductive to insulating.
+            We should also beneﬁt strongly from the possibility of optically monitoring
+         the strain in graphene [11, 112–114]. The Raman spectrum of graphene
+         [180–182] changes signiﬁcantly with strain, so even mechanical distortions of
+         a fraction of a percent can be easily detected. As the stress transfer between
+         graphene and polymer is reasonably good[11], and graphene’s Raman signal
+         is very strong (the strongest peaks in the Raman spectrum of graphene are
+         due to either single or double resonant processes), one can easily detect
+         stress build-up in the composite material under investigation by monitoring
+         the position of the Raman peaks.
+
+         Other applications
+         It is impossible to review all the potential applications of graphene in one
+         lecture: with practically all the properties of this 2D crystal superior to those
+         in other materials, and the combination of these properties unique, we are
+         limited only by our own imaginations. In terms of electronic properties it
+         is worth mentioning ultimately-sensitive gas detectors [183] (graphene,
+         being surface without bulk, can detect a single foreign molecule attached
+         to it) and variable quantum capacitors [184–185]. In photonics, ultrafast
+         photodetectors [186] (utilising the high mobility and high Fermi velocity of
+         quasiparticles in graphene) and extremely efﬁcient mode lockers [187] must
+         be noted. Additionally, its unprecedented mechanical strength and high
+         crystallographic quality allow one to use graphene to provide the perfect gas
+         barrier [17] and strain gauges [115].
+
+
+         ACKNOWLEDGEMENTS
+         The huge diversity of graphene properties researched and experiments
+         undertaken was only possible thanks to a large and friendly community,
+         which is still growing day by day. I would really like to thank each and every
+         member for their interaction, for teaching me new techniques and for
+         the excitement I feel every morning opening cond-mat (often tinged with
+         disappointment, admittedly, that I haven’t done it ﬁrst!). Unfortunately
+         it is impossible to name everybody, so I will limit myself to just my closest
+         collaborators and the leaders of the groups.
+            I am most grateful to Andre Geim, who has been a teacher, colleague and
+         friend to me over the years. Universities teach us physics, maths, chemistry
+         and tens of other disciplines, but each of us has to work out for himself how
+         to do science. I feel extremely lucky to have worked for all these years along-
+         side such a fantastic and dedicated scientist and researcher.
+            I have also learned a lot from my colleagues in the condensed matter
+
+         126
+
+
+
+
+voselov_lect_s106_131.indd 22                                                                2011-08-29 09:25:15
+
+
+                        group, the Centre of Mesoscience & Nanotechnology and Chernogolovka:
+                        Irina Grigorieva, Ernie Hill, Sasha Grigorenko, Fred Schedin, Alexander
+                        Zhukov, Yuan Zhang, Cinzia Casiraghi, Ursel Bangert, Ian Kinloch, Bob
+                        Young, Helen Gleeson, Stan Gillot, Mark Sellers, Oleg Shkliarevskii, Yurij
+                        Dubrovskii, Zhenia Vdovin, Yurii Khanin, Sergey Dubonos and Vsevolod
+                        Gantmacher. Special appreciation goes to Sergey Morozov, one of the key
+                        ﬁgures in graphene research and a fantastic friend.
+                           It is impossible to overstate the contribution of our research students
+                        and postdocs: their ingenious, creative, and active research often opening
+                        new directions of study. I would like to mention Peter Blake, Rahul Nair,
+                        Da Jiang, Leonid Ponomarenko, Daniel Elias, Roman Gorbachev, Sasha
+                        Mayorov, Tolik Firsov, Soeren Neubeck, Irina Barbolina, Zhenhua Ni, Ibtsam
+                        Riaz, Rahul Jalil, Tariq Mohiuddin, Rui Yang, Tim Booth, Liam Britnell,
+                        Sveta Anissimova, Frank Freitag, Vasil Kravets, Paul Brimicombe, Margherita
+                        Sepioni and Thanasis Georgiou.
+                           The theoretical support provided by a number of condensed matter theorists
+                        around the globe was most valuable, and I only hope that the process was
+                        reciprocal and that we guided (and misguided) each other equally. The
+                        long list of theorists who contributed strongly to our research includes (but
+                        is not limited to): Misha Katsnelson, Antonio Castro Neto, Paco Guinea,
+                        Nuno Peres, Volodia Falko, Ed McCann, Leonid Levitov, Dima Abanin, Tim
+                        Wehling, Allan MacDonald, Sasha Mirlin, Sankar Das Sarma.
+                           Finally, as I have mentioned already, we beneﬁted enormously from
+                        collaboration and competition with and information from the other experi-
+                        mental groups. Primarily I must mention Philip Kim – a great physicist and
+                        a very good collaborator. Other experimentalists whose results inﬂuenced us
+                        include (unfortunately only partial list) Andrea Ferrari, Eva Andrei, Jannik
+                        Meyer, Alexey Kuzmenko, Uli Zeitler, Jan Kees Maan, Jos Giesbers, Robin
+                        Nicholas, Michal Fuhrer, Tatiana Latychevskaia, Mildred Dresselhaus, Alberto
+                        Morpurgo, Lieven Vandersypen, Klaus Ensslin and Jonathan Coleman.
+
+
+
+
+                                                                                                 127
+
+
+
+
+voselov_lect_s106_131.indd 23                                                                    2011-09-01 08:53:51
+
+
+         REFERENCES
+          1.    B. C. Brodie, Philos. T. Roy. Soc. 149, 249 (1859).
+          2.    K. S. Novoselov et al., Science 306, 666 (2004).
+          3.    K. S. Novoselov et al., P. Natl. Acad. Sci. USA 102, 10451 (2005).
+          4.    A. H. Castro Neto et al., Rev. Mod. Phys. 81, 109 (2009).
+          5.    R. Ruoff, Nature Nanotechnology 3, 10 (2008).
+          6.    K. P. Loh et al., J. Mater. Chem. 20, 2277 (2010).
+          7.    A. K. Geim, and K. S. Novoselov, Nature Mater. 6, 183 (2007).
+          8.    A. K. Geim, Science 324, 1530 (2009).
+          9.    F. Schwierz, Nature Nanotech. 5, 487 (2010).
+         10.    S. Stankovich et al., Nature 442, 282 (2006).
+         11.    L. Gong et al., Adv. Mater. 22, 2694 (2010).
+         12.    C. Lee et al., Science 321, 385 (2008).
+         13.    K. S. Novoselov et al., Nature 438, 197 (2005).
+         14.    Y. B. Zhang et al., Nature 438, 201 (2005).
+         15.    I. Meric et al., Nature Nanotech. 3, 654 (2008).
+         16.    A. A. Balandin et al., Nano Lett. 8, 902 (2008).
+         17.    J. S. Bunch et al., Nano Lett. 8, 2458 (2008).
+         18.    G. Pólya, Mat. Ann. 84, 149 (1921).
+         19.    M. Girardeau, Journal of Mathematical Physics 1, 516 (1960).
+         20.    E. H. Lieb, and W. Liniger, Phys. Rev. 130, 1605 (1963).
+         21.    L. D. Landau, and E. M. Lifshitz, Statistical Physics, Part I (Pergamon, Oxford, UK,
+                1980), Vol. 1.
+         22.    R. E. Peierls, Helv. Phys. Acta 7, 81 (1934).
+         23.    R. E. Peierls, Ann. I. H. Poincare 5, 177 (1935).
+         24.    L. D. Landau, Phys. Z. Sowjetunion 11, 26 (1937).
+         25.    N. D. Mermin, Phys. Rev. 176, 250 (1968).
+         26.    N. D. Mermin, and H. Wagner, Phys. Rev. Lett. 17, 1133 (1966).
+         27.    P. Chaikin, and T. C. Lubensky, Introduction to Condensed Matter Physics (Cambridge
+                University Press, Cambridge, 1995).
+         28.    D. Nelson, D. R. Piran, and S. Weinberg, Statistical Mechanics of Membranes and Surfaces
+                (World Scientiﬁc, Singapore, 2004).
+         29.    A. Fasolino, J. H. Los, and M. I. Katsnelson, Nature Mater. 6, 858 (2007).
+         30.    C. D. Simpson et al., Chem.- Eur. J. 8, 1424 (2002).
+         31.    S. Mizushima, Y. Fujibayashi, and K. Shiiki, J. Phys. Soc. Jpn. 30, 299 (1971).
+         32.    Y. Fujibayashi, J. Phys. Soc. Jpn. 34, 989 (1973).
+         33.    Y. Fujibayashi, and S. Mizushima, J. Phys. Soc. Jpn. 34, 281 (1973).
+         34.    T. W. Ebbesen, and H. Hiura, Adv. Mater. 7, 582 (1995).
+         35.    Y. Ohashi et al., Tanso 180, 235 (1997).
+         36.    X. K. Lu et al., Appl. Phys. Lett. 75, 193 (1999).
+         37.    Y. Gan, W. Y. Chu, and L. J. Qiao, Surf. Sci. 539, 120 (2003).
+         38.    P. Blake et al., Appl. Phys. Lett. 91, 063124 (2007).
+         39.    D. S. L. Abergel, A. Russell, and V. I. Fal’ko, Appl. Phys. Lett. 91, 063125 (2007).
+         40.    G. Ruess, and F. Vogt, Monatsh. Chem. 78, 222 (1948).
+         41.    H. P. Boehm, A. Clauss, and U. Hofmann, J. Chim. Phys. PCB 58, 141 (1961).
+         42.    H. P. Boehm et al., Z. Naturforsch. Pt. B B 17, 150 (1962).
+         43.    H. P. Boehm et al., Z. Anorg. Allg. Chem. 316, 119 (1962).
+         44.    S. Horiuchi et al., Appl. Phys. Lett. 84, 2403 (2004).
+         45.    D. A. Dikin et al., Nature 448, 457 (2007).
+         46.    S. Park, and R. S. Ruoff, Nature Nanotech. 4, 217 (2009).
+         47.    C. Gomez-Navarro et al., Nano Lett. 7, 3499 (2007).
+         48.    P. Blake et al., Nano Lett. 8, 1704 (2008).
+         49.    Y. Hernandez et al., Nature Nanotech. 3, 563 (2008).
+         50.    J. T. Grant, and T. W. Haas, Surf. Sci. 21, 76 (1970).
+
+
+         128
+
+
+
+
+voselov_lect_s106_131.indd 24                                                                              2011-08-29 09:25:15
+
+
+                        51.     N. R. Gall et al., Fiz. Tverd. Tela 27, 2351 (1985).
+                        52.     N. R. Gall et al., Surf. Sci. 191, 185 (1987).
+                        53.     N. R. Gall, E. V. Rutkov, and A. Y. Tontegode, Int. J. Mod. Phys. B 11, 1865 (1997).
+                        54.     A. Nagashima et al., Surf. Sci. 291, 93 (1993).
+                        55.     I. Forbeaux et al., Surf. Rev. Lett. 5, 193 (1998).
+                        56.     A. M. Affoune et al., Chem. Phys. Lett. 348, 17 (2001).
+                        57.     K. Harigaya, and T. Enoki, Chem. Phys. Lett. 351, 128 (2002).
+                        58.     A. J. van Bommel, J. E. Crombeen, and A. van Tooren, Surf. Sci. 48, 463 (1975).
+                        59.     C. Berger et al., J. Phys. Chem. B 108, 19912 (2004).
+                        60.     K. F. Mak et al., Phys. Rev. Lett. 105, 136805 (2010).
+                        61.     D. Teweldebrhan, V. Goyal, and A. A. Balandin, Nano Lett. 10, 1209 (2010).
+                        62.     A. Nagashima et al., Phys. Rev. Lett. 75, 3918 (1995).
+                        63.     A. Nagashima et al., Surf. Sci. 357, 307 (1996).
+                        64.     J. O. Sofo, A. S. Chaudhari, and G. D. Barber, Phys. Rev. B 75, 153401 (2007).
+                        65.     D. C. Elias et al., Science 323, 610 (2009).
+                        66.     R. R. Nair et al., Small 6, 2877 (2010).
+                        67.     K. A. Worsley et al., Chem. Phys. Lett. 445, 51 (2007).
+                        68.     S. H. Cheng et al., Phys. Rev. B 81, 205435 (2010).
+                        69.     F. Withers, M. Dubois, and A. K. Savchenko, Phys. Rev. B 82, 073403 (2010).
+                        70.     K. S. Novoselov et al., Nature Phys. 2, 177 (2006).
+                        71.     E. McCann, and V. I. Fal’ko, Phys. Rev. Lett. 96, 086805 (2006).
+                        72.     E. V. Castro et al., Phys. Rev. Lett. 99, 216802 (2007).
+                        73.     J. B. Oostinga et al., Nature Mater. 7, 151 (2008).
+                        74.     T. Ohta et al., Science 313, 951 (2006).
+                        75.     E. McCann, Phys. Rev. B 74, 161403 (2006).
+                        76.     S. V. Morozov et al., Phys. Rev. B 72, 201401 (2005).
+                        77.     M. Aoki, and H. Amawashi, Solid State Commun. 142, 123 (2007).
+                        78.     K. F. Mak, J. Shan, and T. F. Heinz, Phys. Rev. Lett. 104, 176404 (2010).
+                        79.     J. dos Santos, N. M. R. Peres, and A. H. Castro, Phys. Rev. Lett. 99, 256802 (2007).
+                        80.     G. H. Li et al., Nature Phys. 6, 109 (2010).
+                        81.     P. R. Wallace, Phys. Rev. 71, 622 (1947).
+                        82.     J. W. McClure, Phys. Rev. 108, 612 (1957).
+                        83.     J. C. Slonczewski, and P. R. Weiss, Phys. Rev. 109, 272 (1958).
+                        84.     K. Novoselov, Nature Mater. 6, 720 (2007).
+                        85.     A. C. Neto, F. Guinea, and N. M. R. Peres, Physics World 19, 33 (2006).
+                        86.     M. I. Katsnelson, K. S. Novoselov, and A. K. Geim, Nature Phys. 2, 620 (2006).
+                        87.     A. F. Young, and P. Kim, Nature Phys. 5, 222 (2009).
+                        88.     R. V. Gorbachev et al., Nano Lett. 8, 1995 (2008).
+                        89.     V. V. Cheianov, and V. I. Fal’ko, Phys. Rev. B 74, 041403 (2006).
+                        90.     O. Klein, Z. Phys. A – Hadron Nucl. 53, 157 (1929).
+                        91.     F. Sauter, Z. Phys. A – Handron Nucl. 73, 547 (1932).
+                        92.     J. Schwinger, Phys. Rev. 82, 664 (1951).
+                        93.     V. V. Cheianov, V. Fal’ko, and B. L. Altshuler, Science 315, 1252 (2007).
+                        94.     C. W. J. Beenakker, Rev. Mod. Phys. 80, 1337 (2008).
+                        95.     P. M. Ostrovsky, I. V. Gornyi, and A. D. Mirlin, Phys. Rev. B 74, 235443 (2006).
+                        96.     J. H. Bardarson et al., Phys. Rev. Lett. 99, 106801 (2007).
+                        97.     J. Martin et al., Nature Phys. 4, 144 (2008).
+                        98.     E. McCann et al., Phys. Rev. Lett. 97, 146805 (2006).
+                        99.     S. V. Morozov et al., Phys. Rev. Lett. 97, 016801 (2006).
+                        100.    F. V. Tikhonenko et al., Phys. Rev. Lett. 100, 056802 (2008).
+                        101.    J. W. McClure, Phys. Rev. 119, 606 (1960).
+                        102.    G. W. Semenoff, Phys. Rev. Lett. 53, 2449 (1984).
+                        103.    N. H. Shon, and T. Ando, J. Phys. Soc. Jpn. 67, 2421 (1998).
+                        104.    F. D. M. Haldane, Phys. Rev. Lett. 61, 2015 (1988).
+
+
+
+                                                                                                                   129
+
+
+
+
+voselov_lect_s106_131.indd 25                                                                                      2011-08-29 09:25:15
+
+
+         105.   Y. Zheng, and T. Ando, Phys. Rev. B 65, 245420 (2002).
+         106.   V. P. Gusynin, and S. G. Sharapov, Phys. Rev. B 71, 125124 (2005).
+         107.   N. M. R. Peres, F. Guinea, and A. H. C. Neto, Phys. Rev. B 73, 125411 (2006).
+         108.   A. J. M. Giesbers et al., Phys. Rev. Lett. 99, 206803 (2007).
+         109.   K. S. Novoselov et al., Science 315, 1379 (2007).
+         110.   A. J. M. Giesbers et al., Appl. Phys. Lett. 93, 222109 (2008).
+         111.   A. Tzalenchuk et al., Nature Nanotech. 5, 186 (2010).
+         112.   Z. H. Ni et al., ACS Nano 2, 2301 (2008).
+         113.   T. M. G. Mohiuddin et al., Phys. Rev. B 79, 205433 (2009).
+         114.   M. Y. Huang et al., P. Natl. Acad. Sci. USA 106, 7304 (2009).
+         115.   K. S. Kim et al., Nature 457, 706 (2009).
+         116.   J. S. Bunch et al., Science 315, 490 (2007).
+         117.   G. Tsoukleri et al., Small 5, 2397 (2009).
+         118.   H. Hiura et al., Nature 367, 148 (1994).
+         119.   W. Z. Bao et al., Nature Nanotech. 4, 562 (2009).
+         120.   D. Sen et al., Small 6, 1108 (2010).
+         121.   E. A. Kim, and A. H. C. Neto, Europhys. Lett. 84, 57007 (2008).
+         122.   V. M. Pereira, A. H. C. Neto, and N. M. R. Peres, Phys. Rev. B 80, 045401 (2009).
+         123.   V. M. Pereira, and A. H. C. Neto, Phys. Rev. Lett. 103, 046801 (2009).
+         124.   A. F. Morpurgo, and F. Guinea, Phys. Rev. Lett. 97, 196804 (2006).
+         125.   F. Guinea, M. I. Katsnelson, and A. K. Geim, Nature Phys. 6, 30 (2010).
+         126.   F. Guinea et al., Phys. Rev. B 81, 035408 (2010).
+         127.   N. Levy et al., Science 329, 544 (2010).
+         128.   T. Low, and F. Guinea, Nano Lett. 10, 3551 (2010).
+         129.   A. Rycerz, J. Tworzydlo, and C. W. J. Beenakker, Nature Phys. 3, 172 (2007).
+         130.   I. Martin, Y. M. Blanter, and A. F. Morpurgo, Phys. Rev. Lett. 100, 196804 (2008).
+         131.   A. B. Kuzmenko et al., Phys. Rev. Lett. 100, 117401 (2008).
+         132.   R. R. Nair et al., Science 320, 1308 (2008).
+         133.   Z. Q. Li et al., Nature Phys. 4, 532 (2008).
+         134.   K. F. Mak et al., Phys. Rev. Lett. 101, 196405 (2008).
+         135.   V. G. Kravets et al., Phys. Rev. B 81, 155413 (2010).
+         136.   L. Yang et al., Phys. Rev. Lett. 103, 186802 (2009).
+         137.   A. Pachoud et al., Europhys. Lett. 92, 27001 (2010).
+         138.   J. D. Bernal, P. Roy. Soc. A 106, 749 (1924).
+         139.   M. S. Dresselhaus, and G. Dresselhaus, Adv. Phys. 51, 1 (2002).
+         140.   A. B. Kuzmenko et al., Phys. Rev. B 80, 165406 (2009).
+         141.   A. B. Kuzmenko et al., Phys. Rev. B 79, 115441 (2009).
+         142.   E. V. Castro et al., J. Phys. – Condens. Mat. 22, 175503 (2010).
+         143.   Y. B. Zhang et al., Nature 459, 820 (2009).
+         144.   X. Du et al., Nature Nanotech. 3, 491 (2008).
+         145.   K. I. Bolotin et al., Solid State Commun. 146, 351 (2008).
+         146.   B. E. Feldman, J. Martin, and A. Yacoby, Nature Phys. 5, 889 (2009).
+         147.   H. K. Min et al., Phys. Rev. B 78, 121401 (2008).
+         148.   R. S. Pantelic et al., J. Struct. Biol. 170, 152 (2010).
+         149.   N. R. Wilson et al., ACS Nano 3, 2547 (2009).
+         150.   R. R. Nair et al., Appl. Phys. Lett. 97, 153102 (2010).
+         151.   J. C. Meyer et al., Nature 446, 60 (2007).
+         152.   J. C. Meyer et al., Solid State Commun. 143, 101 (2007).
+         153.   A. Reina et al., Nano Lett. 9, 30 (2009).
+         154.   X. S. Li et al., Science 324, 1312 (2009).
+         155.   C. G. Granqvist, Solar Energy Materials and Solar Cells 91, 1529 (2007).
+         156.   X. Wang, L. J. Zhi, and K. Mullen, Nano Lett. 8, 323 (2008).
+         157.   T. Ando, J. Phys. Soc. Jpn. 75, 074716 (2006).
+         158.   T. Ando, and T. Nakanishi, J. Phys. Soc. Jpn. 67, 1704 (1998).
+
+
+
+         130
+
+
+
+
+voselov_lect_s106_131.indd 26                                                                        2011-08-29 09:25:15
+
+
+                        159.    S. V. Morozov et al., Phys. Rev. Lett. 100, 016602 (2008).
+                        160.    L. A. Ponomarenko et al., Phys. Rev. Lett. 102, 206603 (2009).
+                        161.    J. H. Chen et al., Nature Phys. 4, 377 (2008).
+                        162.    Z. H. Ni et al., Nano Lett. 10, 3868 (2010).
+                        163.    T. Stauber, N. M. R. Peres, and F. Guinea, Phys. Rev. B 76, 205423 (2007).
+                        164.    V. V. Cheianov, and V. I. Fal’ko, Phys. Rev. Lett. 97, 226801 (2006).
+                        165.    K. Nomura, and A. H. MacDonald, Phys. Rev. Lett. 96, 256602 (2006).
+                        166.    K. Nomura, and A. H. MacDonald, Phys. Rev. Lett. 98, 076602 (2007).
+                        167.    S. Adam et al., P. Natl. Acad. Sci. USA 104, 18392 (2007).
+                        168.    M. I. Katsnelson, and A. K. Geim, Philos. Trans. R. Soc. A – Math. Phys. Eng. Sci. 366,
+                                195 (2008).
+                        169.    E. V. Castro et al., arxiv.org, arXiv:1008.2522v1 (2010).
+                        170.    C. R. Dean et al., Nature Nanotech. 5, 722 (2010).
+                        171.    J. S. Moon et al., IEEE Electron Device Letters 30, 650 (2009).
+                        172.    Y. M. Lin et al., Nano Lett. 9, 422 (2009).
+                        173.    Y. M. Lin et al., Science 327, 662 (2010).
+                        174.    M. Y. Han et al., Phys. Rev. Lett. 98, 206805 (2007).
+                        175.    L. A. Ponomarenko et al., Science 320, 356 (2008).
+                        176.    C. Stampfer et al., Appl. Phys. Lett. 92, 012102 (2008).
+                        177.    L. A. Chernozatonskii, P. B. Sorokin, and J. W. Bruning, Appl. Phys. Lett. 91, 183103
+                                (2007).
+                        178.    A. V. Shytov, D. A. Abanin, and L. S. Levitov, Phys. Rev. Lett. 103, 016806 (2009).
+                        179.    F. N. Xia et al., Nano Lett. 10, 715 (2010).
+                        180.    A. C. Ferrari et al., Phys. Rev. Lett. 97, 187401 (2006).
+                        181.    A. C. Ferrari, Solid State Commun. 143, 47 (2007).
+                        182.    L. M. Malard et al., Physics Reports-Review Section of Physics Letters 473, 51 (2009).
+                        183.    F. Schedin et al., Nature Mater. 6, 652 (2007).
+                        184.    Z. Chen, and J. Appenzeller, in Ieee International Electron Devices Meeting 2008, Technical
+                                Digest (2008), pp. 509.
+                        185.    L. A. Ponomarenko et al., Phys. Rev. Lett. 105, 136801 (2010).
+                        186.    F. N. Xia et al., Nature Nanotech. 4, 839 (2009).
+                        187.    H. Zhang et al., Optics Express 17, 17630 (2009).
+
+                        Portrait photo of Professor Novoselov by photographer Ulla Montan.
+
+
+
+
+                                                                                                                      131
+
+
+
+
+voselov_lect_s106_131.indd 27                                                                                         2011-08-29 09:25:15
+

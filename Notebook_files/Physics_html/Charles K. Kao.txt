@@ -1,0 +1,481 @@
+SAND FROM CENTURIES PAST: SEND FUTURE
+VOICES FAST*
+
+Nobel Lecture, December 8, 2009
+by
+Charles K. Kao
+The Chinese University of Hong Kong, Hong Kong, China.
+
+
+
+
+Introduction
+First of all I would like to express my gratitude to the Royal Swedish Academy
+of Sciences and its Nobel Committee for Physics for awarding me the 2009
+Nobel Prize in Physics. It is not often that the award is given for work in
+applied science. The practical nature of that work, and the time that has
+since elapsed, means that much has been done over the years, by many
+people, and the collective result has had a significant impact on society.
+Therefore this lecture will be about both the research leading up to the key
+discoveries, and some of the succeeding developments since.
+   In the 43 years since the publication of my paper with Hockham on
+glass fiber cables in 1966 [1], the world of telephony has changed vastly.
+The skepticism of the early years has gradually been subdued by the steady
+advance of the optical fiber revolution. In the 1970s, while I was working on
+the pre-production stage research on optical fibers at the ITT Corporation
+in Roanoke, Virginia, U.S.A., I received two letters: one contained a threa-
+tening message accusing me of releasing an evil genie from its bottle; the
+other, from a farmer in China, asked for a means to allow him to pass a
+message to his distant wife to bring his lunch. Both letter writers saw a future
+that has since become history.
+
+
+The early days1
+In 1960, I joined Standard Telecommunications Laboratories Ltd. (STL), a
+subsidiary of ITT Corporation in the U.K., after having worked as a graduate
+engineer at Standard Telephones and Cables in Woolwich for some time.
+Much of the work at STL was devoted to improving the capabilities of the
+existing communication infrastructure, with a focus on the use of millimeter
+wave transmission systems.
+
+
+* This lecture was prepared for Charles Kao by Gwen Kao, with the help of Lian Kuan Chen, Kwok Wai
+Cheung, Melody Lee, Wing Shing Wong and Kenneth Young. The Lecture was delivered on December 8, 2009
+by Gwen Kao on behalf of Charles Kao.
+1 The following paragraphs are taken essentially verbatim from Ref. [2, 3]
+
+
+
+                                                                                                71
+
+
+   Millimeter waves at 35 to 70 GHz could have a much higher transmission
+capacity. But the waters were uncharted and the challenges enormous, since
+radio waves at such frequencies could not be beamed over long distances
+due to beam divergence and atmospheric absorption. The waves had to be
+guided by a waveguide. And in the 1950s, research and development work on
+low-loss circular waveguides in the HE11 mode was started. A trial system was
+deployed in the 1960s. Huge sums were invested, and more were planned, to
+move this system into the pre-production stage. Public expectations for new
+telecommunication services such as the video phone had heightened.
+   I joined the long-haul waveguide group led by Dr. Karbowiak at STL. I was
+excited to see an actual circular waveguide [4] (Figure 1). I was assigned to
+look for new methods for microwave and optical transmission. Ray optics and
+wave theory were used together to gain a better understanding of waveguide
+problems – then a novel idea. Later, Dr. Karbowiak encouraged me to pur-
+sue a doctorate while working at STL. So I registered at University College
+London and completed the dissertation “Quasi-Optical Waveguides” in two
+years.
+
+
+
+
+Figure 1. A circular waveguide (after Ref [4]). © [1954] IEEE
+
+   The development of the laser in the 1960s gave the telecom community
+a great dose of optimism that optical communication could be just around
+the corner. Coherent light was to be the new information carrier with capa-
+city 105 times higher than point-to-point microwaves – based on the simple
+comparison of frequencies: 3×1015 Hz (3000 THz) for light versus 3×109 Hz
+(3 GHz) for microwaves.
+
+   The race between circular microwave waveguides and optical communica-
+tion was on, with the odds heavily in favor of the former. In 1960, optical lasers
+were in their infancy, demonstrated at only a few research laboratories, and
+performing much below the needed specifications. Optical systems seemed a
+non-starter. But I still thought the laser had potential. I said to myself: “How
+can we dismiss the laser so readily? Optical communication is too good to be
+left on the theoretical shelf.” I asked myself two obvious questions:
+
+1. Is the ruby laser a suitable source for optical communication?
+2. What material has sufficiently high transparency at such wavelengths?
+
+72
+
+
+   At that time only two groups in the world were starting to look at the
+transmission aspect of optical communication, while several other groups
+were working on solid-state and semiconductor lasers. Lasers emit coherent
+radiation at optical frequencies, but using such radiation for communication
+appeared to be very difficult, if not impossible. For optical communication to
+fulfill its promises, many serious problems remained to be solved.
+
+
+The key discovery2
+In 1963 I was already involved in free-space propagation experiments: The
+rapid progress of semiconductor and laser technology had opened up a
+broader scope to explore optical communication realistically. With a HeNe
+laser beam directed to a spot some distance away, the STL team quickly
+discovered that the distant laser light flickered. The beam danced around
+several beam diameters because of atmospheric fluctuations. The team also
+tried to repeat experiments done by other research laboratories around the
+world. For example, we set up con-focal lens experiments similar to those at
+Bell Laboratories: a series of convex lenses were lined up at intervals equal
+to the focal length. But even in the dead of night when the air was still and
+even with refocusing every 100 meters, the beam refused to stay within the
+lens aperture.
+   Bell Laboratories’ experiments using gas lenses were abandoned due
+to the difficulty of providing satisfactory insulation while maintaining the
+profiles of the gas lenses. These experiments were struggles in desperation,
+to control light traveling over long distances.
+                                                   At STL the thinking shifted
+                                                towards dielectric waveguides.
+                                                Dielectric means a non-
+                                                conductor of electricity; a
+                                                dielectric waveguide is a wave-
+                                                guide consisting of a dielectric
+                                                cylinder surrounded by air.
+                                                Dr. Karbowiak suggested that
+                                                I and three others should
+                                                work on his idea of a thin
+                                                film waveguide [5–6] (Figure
+                                                2). But thin film waveguides
+                                                failed: the confinement was
+                                                not strong enough and light
+                                                would escape as it negotiates
+                                                a bend.
+
+Figure 2. Thin film waveguide (after Ref [6]). © [1965] IEEE
+
+
+
+
+2   The following paragraphs are also taken essentially verbatim from Ref. [2, 3]
+
+
+                                                                                    73
+
+
+   When Dr. Karbowiak decided to emigrate to Australia, I took over as the
+project leader and recommended that the team should investigate the loss
+mechanism of dielectric materials for optical fibers. A small group worked
+on methods for measuring material loss of low-loss transparent materials.
+George Hockham joined me to work on the characteristics of dielectric wave-
+guides. With his interest in waveguide theory, he focused on the tolerance
+requirements for an optical fiber waveguide, in particular, the dimensional
+tolerance and joint losses. We proceeded to systematically study the physical
+and waveguide requirements in glass fibers.
+   In addition, I was also pushing my colleagues in the laser group to work
+towards a semiconductor laser in the near infrared, with emission character-
+istics matching the diameter of a single-mode fiber. A single-mode fiber is
+an optical fiber that is designed for the transmission of a single ray or mode
+of light as a carrier. The laser had to be made durable and to work at room
+temperatures without liquid nitrogen cooling. So there were many obstacles.
+But in the early 1960s, esoteric research was tolerated so long as it was not
+too costly.
+   Over the next two years, the team worked towards its goals. We were all
+novices in the physics and chemistry of materials and in tackling new electro-
+magnetic wave problems. But we made very credible progress in considered
+steps. We searched the literature, talked to experts, and collected material
+samples from various glass and polymer companies. We also worked on the
+theories and developed measurement techniques to carry out a host of ex-
+periments. We developed an instrument to measure the spectral loss of very
+low-loss material, as well as one for scaled simulation experiments to measure
+fiber loss due to mechanical imperfections.
+   I zeroed in on glass as a possible transparent material. Glass is made from
+silica – sand from centuries past – which is plentiful and cheap. The optical
+loss in transparent materials is due to three mechanisms: (a) intrinsic absorp-
+tion, (b) extrinsic absorption, and (c) Rayleigh scattering. The intrinsic loss
+is caused by the infrared absorption of the material structure itself, which
+determines the wavelength of the transparency regions. The extrinsic loss is
+due to impurity ions left in the material and the Rayleigh loss is due to the
+scattering of photons by the structural non-uniformity of the material. For
+most practical applications such as windows, the transparency of glass was en-
+tirely adequate, and no one had studied absorption down to such levels. After
+talking with many people, I eventually formed the following conclusions.
+
+1. Impurities, particularly transition elements such as Fe, Cu, and Mn, have
+   to be reduced to parts per million (ppm) or even parts per billion (ppb).
+   However, can impurity concentrations be reduced to such low levels?
+2. High-temperature glasses are frozen rapidly and should have smaller
+   micro-structures and more even distribution of non-homogeneities than
+   low-temperature glasses such as polymers, and therefore a lower
+   scattering loss.
+
+
+
+74
+
+
+   Our ongoing microwave simulation experiments were also completed.
+The characteristics of the dielectric waveguide were fully defined in terms of
+its modes, its dimensional tolerance both for end-to-end mismatch and for
+its diameter fluctuation along the fiber lengths. Both theory and simulated
+experiments supported our approach.
+   Hockham and I wrote a paper entitled “Dielectric-Fibre Surface
+Waveguides for Optical Frequencies” and submitted it to the Proceedings of
+the Institute of Electrical Engineers (IEE). After the usual review and revision, it
+appeared in July 1966 – the date now regarded as the birth of optical fiber
+communication.
+
+
+
+
+Figure 3. The 1966 paper. © [1966] IEEE
+
+
+
+                                                                                 75
+
+
+The paper
+The paper started with a brief discussion of the mode properties in a fiber of
+circular cross section. It then quickly zeroed in on the material aspects, which
+were recognized to be the major stumbling block. At the time, the most
+transparent glass had a loss of 200 dB/km, which would limit transmission
+to about a few meters – this is very obvious to anyone who has ever peered
+through a thick piece of glass: nothing can be seen. But our paper pointed
+out that the intrinsic loss due to scattering could be as low as 1 dB/km, which
+would have allowed propagation over practical distances. The culprit is the
+impurities: mainly ferrous and ferric ions at these wavelengths. Quoting from
+the paper:
+         “It is foreseeable that glasses with a bulk loss of about
+         20 dB/km at around 0.6 micron will be obtained, as the
+         iron-impurity concentration may be reduced to 1 part per
+         million.”
+  In layman terms, if one has a sufficiently “clean” type of glass, one should
+be able to see through a slab as thick as several hundred meters. That key
+insight opened up the field of optical communications.
+
+  The paper considered many other issues:
+• The loss can be reduced if the mode is chosen so that most of the energy
+  is actually outside the fiber.
+• The fiber should be surrounded by a cladding of lower index (which later
+  became the standard technology).
+• The loss of energy due to bends in the fiber is negligible for bends larger
+  than 1 mm.
+• The losses due to non-uniform cross sections were estimated.
+• The properties of a single-mode fibre (now the mainstream especially for
+  long-distance and high-speed transmission) were analyzed. It was ex-
+  plained how dispersion limits bandwidth; an example was worked out for
+  a 10 km route – a very bold scenario in 1966.
+
+  The paper concluded with the following [1]:
+         “The realization of a successful fiber waveguide depends,
+         at present, on the availability of suitable low-loss dielectric
+         material. The crucial material problem appears to be one
+         which is difficult but not impossible to solve. Certainly, the
+         required loss figure of around 20 dB/km is much higher
+         than the lower limit of loss figure imposed by fundamental
+         mechanisms.”
+  Basically all of the predictions pointed accurately to the path of develop-
+ment, and we now have 10–2 of the loss and 105 times the bandwidth then
+forecast – the revolutionary proposal in the 1966 paper was in hindsight too
+conservative.
+
+76
+
+
+Convincing the world
+The substance of the paper was presented at an IEE meeting on January 27,
+1966 [7]. Most of the world did not take notice – except for the British Post
+Office (BPO) and the U.K. Ministry of Defence, who immediately launched
+major research programs [8, 9]. By the end of 1966, three groups in the U.K.
+were studying the various issues involved: I myself at STL; Roberts at BPO;
+Gambling at Southampton in collaboration with Williams at the Ministry of
+Defence Laboratory [10].
+
+   In the next few years, I traveled the globe to push my idea: to Japan, where
+enduring friendships were made dating from those early days; to research
+labs in Germany, in the Netherlands and elsewhere to spread the news. It
+was obvious to me that until more and more jumped on the bandwagon, the
+use of glass fibers would not take off. There was widespread skepticism, but
+I remained steadfast. The global telephony industry is huge, too large to be
+changed by a single person or even a single country, but I was stubborn and I
+remained optimistic; slowly others were converted into believers.
+   The experts at first proclaimed that the materials were the most severe
+of the intrinsic insurmountable problems. Gambling [9] wrote that British
+Telecom had been “somewhat scathing” about the proposal earlier, and Bell
+Laboratories, which could have led the field, took notice only much later.
+Approaches were made to many glass manufacturers to persuade them to
+produce the clear glass required. There was eventually a response from
+Corning, where Bob Maurer led the first group that later produced the glass
+rods and developed the techniques to make the glass fibers to the required
+specifications.
+
+
+
+
+Figure 4. Glass fiber.
+
+
+  Meanwhile, I continued to work on proving the feasibility of glass fibers as
+the medium for long-haul optical transmission. There were a number of for-
+midable challenges. The first was the measurement techniques for low-loss
+
+                                                                            77
+
+
+samples that were obtainable only in lengths of around 20 cm. The problem
+of assuring surface perfection was also formidable. Another problem is end-
+surface reflection loss, caused by the polishing process. There was a measure-
+ment impasse that demanded the detection of a loss difference between two
+samples of less than 0.1%, when the total loss of the entire 20 cm sample is
+only 0.1%. An inexact measurement would have been meaningless.
+   In 1968 and 1969, I and my colleagues at STL, T. W. Davies, M. W. Jones
+and C. R. Wright, published a series of papers [11–13] on the attenuation
+measurements of glass that addressed the above problems. At that time,
+the measuring instruments called spectrophotometers had a rather limited
+sensitivity – in the range of 43 dB/km. The measurement was very difficult:
+even a minute contamination could have caused a loss comparable to the
+attenuation itself, while surface effects could easily be ten times worse. We
+assembled a homemade single-beam spectrophotometer that achieved a
+sensitivity of 21.7 dB/km. Later improvements with a double-beam spectro-
+photometer yielded a sensitivity down to 4.3 dB/km.
+
+
+
+
+Figure 5. Double-beam spectrophotometer (after Ref [12]).
+
+
+   The reflection effect was measured with a homemade ellipsom-
+eter. Measurements were made with fused quartz samples made by plasma
+deposition, in which the high temperature evaporated the impurity ions.
+With the sensitive instrument, the attenuation of a number of glass samples
+was measured and, eureka, the Infrasil sample from Schott Glass showed an
+attenuation as low as 5 dB/km at a window around 0.85 µm (Figure 6) – at
+last proving that the removal of impurity would lower the absorption loss to
+useful levels.
+
+78
+
+
+Figure 6. Glass attenuation vs. wavelength (after Ref [12]).
+
+
+   This was really exciting because the low-loss region is right at the GaAs
+laser emission band. The measurements clearly pointed the way to optical
+communication – compact GaAs semiconductor lasers as the source, low-
+cost cladded glass fibers as the transmission medium, and Si or Ge semi-
+conductors for detection [12]. The dream no longer seemed remote. These
+measurements apparently turned the sentiments of the research community
+around. The race to develop the first low-loss glass fiber waveguide was on.
+   In 1967, at Corning, Maurer’s chemist colleague P. Schultz helped purify
+the glass. In 1968, his colleagues D. Keck and F. Zimar helped draw the fibers.
+By 1970, Corning had produced a fiber waveguide with a loss of 17 dB/km
+at 0.633 µm using a Ti-diffused core with silica cladding, using the Outside
+Vapor Deposition (OVD) method [15]. Two years later, they reduced the
+loss to 4 dB/km for a multimode fiber by replacing the Ti-doped core with a
+Ge-doped core.
+   Bell Laboratories finally created a program in optical fiber research in
+1969. Their work on hollow light pipes was finally stopped in 1972. Their
+millimeter wave research program was wound down and eventually
+abandoned in 1975.
+
+
+Impact on the world
+Since the deployment of the first-generation, 45 Mb/s fiber optic communi-
+cation system in 1976, the transmission capacity in a single fiber has rapidly
+increased: we now talk about terabits per second. In order to understand the
+fundamental limits of fiber-optic communication, the Terabit per Second
+Optoelectronic Project was launched [16] during 1982–85, involving ten
+research organizations. The target technology, three orders of magnitude
+higher than the then state-of-the-art, was considered impossible at the time.
+
+                                                                            79
+
+
+But the transmission capacity has gradually increased a millionfold from the
+tens of Mb/s in the early days to many tens of Tb/s in recent years. Data can
+be carried over millions of km of fibers without going through repeaters,
+thanks to the invention of the optical fiber amplifier and wavelength division
+multiplexing. So that is how the industry grew and grew.
+   The world has been totally transformed because of optical fiber communi-
+cation. The telephone system has been overhauled and international long
+distance calls have become easily affordable. Brand new mega-industries in
+fiber optics including cable manufacturing and equipment, optical devices,
+network systems and equipment have been created. Hundreds of millions
+of kilometers of glass fiber cables have been laid, in the ground and in the
+ocean, creating an intricate web of connectivity that is the foundation of the
+World Wide Web. The Internet is now more pervasive than the telephone
+used to be. We browse, we search, we hold net conferences, we blog, we
+watch videos, we shop, we socialize online. The information revolution that
+started in the 1990s could not have happened without optical fibers. Over
+the last few years, fibers have been laid all the way to our homes. All-optical
+networks that are environmentally green are being contemplated. The
+revolution in optical fiber communication has not ended – it might still just
+be at the beginning.
+
+
+Conclusion
+The world-wide communication network based on optical fibers has truly
+shrunk the world and brought human beings closer together. I hardly need
+to cite technical figures to drive this point home. The news of the Nobel
+Prize reached me in the middle of the night at 3 am in California, through
+a telephone call from Stockholm (then in their morning) no doubt carried
+on optical fibers; congratulations came literally minutes later from friends in
+Asia (for whom it was evening), again through messages carried on optical
+fibers. Too much information is not always a good thing: we had to take the
+phone off the hook that night in order to get some sleep.
+   In the last twenty years, creative minds have added many ingenious ways
+to make use of the added bandwidth that has resulted from the use of
+optical fibers. Optical communication is by now not just a technical advance,
+but has also caused major changes in society. It will continue to change the
+way people learn, the way they live and relate to each other, as well as the
+way they work. For example, manufacturing of all the bits and pieces of a
+single product can now take place over a dozen locations around the world,
+providing huge opportunities for people worldwide. The ready accessibility
+of information has obviously led to more equality and wider participation
+in public affairs. The evolution continues. Who knows what other forward
+thinkers will dream of in the future. The unused amount of bandwidth
+beckons and tempts. Many words, indeed many books have been
+written about the information society, and I do not wish to add to them
+here – except to say that it is beyond the dreams of the first serious
+
+80
+
+
+concept of optical communication in 1966, when even 1 GHz was only a
+hope.
+  I would like to thank ITT Corporation, where I developed my career for
+30 years, and all those who climbed on to the bandwagon with me in the
+early days, since without the legions of believers the industry would not
+have evolved as it did. I planted the seed; Bob Maurer watered it and John
+MacChesney grew its roots.
+
+
+References
+[1] K. C. Kao and G. A. Hockham, “Dielectric-fibre surface waveguides for optical
+     frequencies,” Proc. IEE, Vol. 113, pp. 1151–1158, 1966. (Republished in Proc. IEE,
+     Vol. 133, Pt. J, pp. 191–198, 1986.)
+[2] K. C. Kao, Autobiography of Charles K. Kao 《潮平岸闊——高錕自述》(translated by
+     許迪鏘) Joint Publishing, 2005.
+[3] K. C. Kao, “Optical Communication Systems,” pp. 3–100, in K. Young (ed),
+     Opto-electronics, Lectures at the 1982 International Summer School at The Chinese
+      University of Hong Kong, 26 July – 6 August 1982, The Chinese University of Hong
+     Kong Press, 1982.
+[4] H. E. Barlow and A. E. Karbowiak, “An experimental investigation of the properties
+     of corrugated cylindrical surface waveguides,” Proc. IEE, Vol. 101, Part III,
+     pp. 182–188, 1954.
+[5] K. C. Kao, “Electromagnetic wave propagation on a double-layer dielectric film,”
+     Elect. Lett., Vol. 1, No. 2, pp. 35–37, 1965.
+[6] A. E. Karbowiak, “New type of waveguide for light and infrared waves,” Elect. Lett.,
+     Vol. 1, No. 2, pp. 47–48, 1965.
+[7] R. Dyott, “Some memories of the early years with optical fibres at the British Post
+     Office: a personal account,” Proc. IEE, Vol.133, pp. 199–201, 1986.
+[8] W. A. Gambling, “Optical fibres: the Southampton scene,” Proc. IEE., Vol. 133,
+     pp. 205–210, 1986.
+[9] STC Press Office, “STL develops techniques aimed at communication by guided
+     light. British team’s work described at IEE Meeting in London”, January 1966.
+[10] D. Williams and K. C. Kao, “Pulse communication along glass fibers,” Proc. of IEEE.,
+     Vol. 56, No. 2, pp. 197–198, 1968.
+[11] K. C. Kao and T. W. Davies, “Spectrophotometric studies of ultra low loss optical
+     glasses I,” J. Sci. Instrum. (J. Phys. E), Vol. 1, pp. 1063–8, 1968.
+[12] M. W. Jones and K. C. Kao, “Spectrophotometric studies of ultra low loss optical
+     glasses II,” J. Sci. Instrum. (J. Phys. E), Vol. 2, pp. 331–5, 1969.
+[13] C. R. Wright and K. C. Kao, “Spectrophotometric studies of ultra low loss optical
+     glasses III,” J. Sci. Instrum. (J. Phys. E), Vol. 2, pp. 331–5, 1969.
+[14] J. Lytollis, C. K. Kao and G. I. Turner, “Infra-red optical communication systems,”
+     Infrared Physics, Vol. 8, No. 1, pp. 123–130, 1968.
+[15] F. P. Kapron, D. B. Keck and R. D. Maurer, “Radiation losses in glass optical
+     waveguides,” Appl. Phys. Lett., Vol. 17, pp. 423–5, 1970.
+[16] C. K. Kao, “1012 bit/s optoelectronics technology,” Proc. IEE., Vol. 133, pp. 230–236,
+     1986.
+Portrait photo of Professor Kao by photographer Ulla Montan.
+
+
+
+
+                                                                                        81
+

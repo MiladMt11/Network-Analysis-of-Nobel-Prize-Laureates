@@ -1,0 +1,968 @@
+From Chemical Topology to
+Molecular Machines
+Nobel Lecture, December 8, 2016
+
+by Jean-Pierre Sauvage
+University of Strasbourg, Strasbourg, France.
+
+
+
+
+T    o a large extent, the field of “molecular machines” started after several groups
+     were able to prepare reasonably easily interlocking ring compounds (named
+catenanes for compounds consisting of interlocking rings and rotaxanes for
+rings threaded by molecular filaments or axes). Important families of molecular
+machines not belonging to the interlocking world were also designed, prepared
+and studied but, for most of them, their elaboration was more recent than that
+of catenanes or rotaxanes. Since the creation of interlocking ring molecules is
+so important in relation to the molecular machinery area, we will start with this
+aspect of our work. The second part will naturally be devoted to the dynamic
+properties of such systems and to the compounds for which motions can be
+directed in a controlled manner from the outside, i.e., molecular machines. We
+will restrict our discussion to a very limited number of examples which we con-
+sider particularly representative of the field.
+
+
+CHEMICAL TOPOLOGY
+
+Generally speaking, chemical topology refers to molecules whose graph (i.e.,
+their representation based on atoms and bonds) is non-planar [1–2]. A planar
+graph cannot be represented in a plane or on a sheet of paper without crossing
+points. In topology, the object can be distorted as much as one likes but its topo-
+logical properties are not modified as long as no cleavage occurs [3]. In other
+
+                                                                                 111
+
+
+112                                                                    The Nobel Prizes
+
+
+words, a circle and an ellipse are topologically identical. The most representative
+examples of topologically non-planar, and thus non-trivial, molecules are inter-
+locking ring molecules or knotted cycles such as the trefoil knot. Interestingly,
+topology and chemistry were not at all connected till 1961 when two chem-
+ists working at Bell Telephone Laboratories, Frisch and Wasserman, published
+an important discussion simply entitled “Chemical Topology” [1]. For the first
+time, chemists were exposed to topology thanks to this seminal paper. It con-
+tains a very clear account of most of the ideas that constitute the background of
+chemical topology. For example, the idea of topological isomers (also named
+“stereoisomers”) is introduced by comparing a [2]catenane (drawing III, two
+interlocked rings) to the set of the two separate cyclic molecules (object IV) as
+shown in Figure 1. Another example is provided by considering a single closed
+curve, which can be a normal cycle such as I (topologically trivial or planar)
+or the knotted cycle, the simplest example being the trefoil knot II. Hypothetic
+compounds I and II of Figure 1 are topological stereoisomers: although they may
+consist of exactly the same atoms in the same sequence, and the same chemical
+bonds between them, they cannot be interconverted by any type of continuous
+deformation in three-dimensional space.
+
+
+
+
+FIGURE 1. The historical publication introducing the notion of chemical topology in the
+chemical literature. Trefoil knot II and catenane III are topologically non-planar in the
+sense that their graphs, once projected on a plane, will always require crossings in order
+to be represented.
+
+
+From Chemical Topology to Molecular Machines                                        113
+
+
+     Schill’s book Catenanes, Rotaxanes and Knots, written in 1971, is indispens-
+able for the topologist [4]. In addition to interesting theoretical considerations
+regarding interlocked rings and knots, it contains much information on the
+experimental approaches used by Lüttringhaus, Schill and their co-workers to
+prepare such topologically novel systems. One of the first [2]catenanes to be
+reported in the literature was prepared by Schill and Lüttringhaus more than
+50 years ago [5]. This remarkable piece of work was greeted by the scientific
+community due to the elegance of the procedure and also due to the impressive
+synthetic work it represented at the time. Unfortunately, the complete synthesis
+required a large number of steps and, as a consequence, the overall yield was lim-
+ited. In spite of the novelty of the work, there were very few follow-up contribu-
+tions from other organic chemists, mostly because of the extreme difficulty that
+a gram scale synthesis of such compounds would represent following a purely
+organic chemistry approach similar to that of Schill and Lüttringhaus.
+     Before our group started in the field of catenanes, we were interested in
+markedly different topics. We contributed to various research areas such as
+homogeneous catalysis of the water-gas shift reaction using iridium complexes
+[6], electrochemical reduction of carbon dioxide [7] and inorganic photochemis-
+try [8] in relation to solar energy conversion to chemical energy. Like a relatively
+
+
+
+
+FIGURE 2. A [2]catenane and a [2]rotaxane. The number in square brackets (2 in this
+case) indicates the number of components incorporated in the interlocking structure. A
+[2]catenane is considered as the prototype of molecules having a non planar graph. In
+mathematics, the object consisting of two interlocking rings is called “Hopf link.” Heinz
+Hopf was a German topologist.
+
+
+114                                                               The Nobel Prizes
+
+
+large number of other research teams, we were fascinated by the “grand project”
+known by the community as “water splitting,” i.e., photochemical splitting of
+the water molecule into oxygen and hydrogen, supposedly the ideal fuel for the
+future. Since the Nobel Foundation recommended that the laureates tell as hon-
+estly as possible “the story behind the discovery,” I would like to explain how we
+moved from inorganic photosensitizers to catenanes and related species. At the
+end of the 70s, there was considerable interest for ruthenium complexes of the
+Ru(bipy)32+ family (bipy : 2,2’-bipyridine) [9]. Several prestigious photochemistry
+groups had shown that this compound displays promising properties in terms
+of ability to transfer electrons, positive holes or electronic energy. Even more
+spectacular, several approaches to the “water splitting” reactions had already
+been reported [10]. A particularly interesting project was to replace the second
+raw ruthenium metal, notoriously know to be rare and expensive, by common
+first raw transition metals. Along this line of research, very few candidates appear
+as reasonable. The only one was copper(I) since this metal was known to form
+highly coloured complexes with aromatic diimine ligands of the bipy family. The
+absorption band responsible for the colour in the visible spectrum was shown
+long ago to be a Metal-to-Ligand Charge Transfer band. An American photo-
+chemist, David R. McMillin (Purdue University) had already published seminal
+work on the photochemical properties of copper(I) complexes in 1978 [11]. At
+the beginning of the 80s, our group prepared 2,9-diphenyl-1,10-phenanthroline
+(dpp) for various reasons, mostly in relation to sterically hindering ligands able
+to favour coordination unsaturation once complexed to rhodium or iridium cen-
+tres [6]. David spent some time in Strasbourg when he was on sabbatical leave.
+He visited our group and, after several discussions, we embarked in a common
+project dealing with Cu(dpp)2+ and related complexes containing two intertwined
+ligands disposed more or less orthogonally to one another once coordinated to
+the central Cu(I). At that time Cu(dpp)2+ was unknown since dpp itself seemed to
+be a new compound. The beginning of this collaboration coincided with another
+major event which was the arrival of Christiane Dietrich-Buchecker in our team.
+Christiane had a superb organic chemistry background and we knew that she
+had all the necessary expertise for making novel ligands either by herself or
+associated to the PhD students she would co-supervise with me. Coming back
+to Cu(dpp)2+, by looking carefully at its three-dimensional representation [8] as
+shown on Figure 3, it was relatively easy to figure out that this compound, with
+its two intertwined ligands, was the ideal precursor to a [2]catenane.
+     There is perhaps an important factor in the fact that we recognised the link
+between Cu(dpp)2+ and catenanes: the molecules were drawn manually using
+Indian ink since this period corresponded to the “pre-ChemDraw era.” We thus
+
+
+From Chemical Topology to Molecular Machines                                   115
+
+
+
+
+FIGURE 3. The simple coordination chemistry reaction leading to Cu(dpp)2+ and its
+3-dimensional representation.
+
+
+
+had time to completely “digest” the molecular structures of the compounds we
+were making and, first, that we had to draw. From the drawing of Figure 2, it is
+clear that by connecting the two para-positions of the phenyl nuclei attached to
+the same 1,10-phenanthroline group, one should obtain a ring. Furthermore, by
+doing this operation simultaneously on both dpp sub-units within the complex,
+formation of a [2]catenane appeared to be almost certain.
+    With Christiane, we thus embarked in the new field of catenanes. After a few
+months, we obtained the first positive results and about one year after the begin-
+ning of the project, the first communication on our new strategy for making
+interlocking rings was published [12] (Figure 4).
+    We described this new strategy as a 3-dimensional template synthesis around
+a transition-metal centre by reference to classical template effects so efficiently
+used for making macrocycles by several groups such as Busch and his team in
+particular [13]. The work seemed to be the first practical synthesis of a [2]cat-
+enane in the sense that, for a good chemist, 500 milligrams could be obtained
+within a few weeks. After the preparative work performed by Christiane, what
+remained was to characterise the compound and convince ourselves that the
+molecule obtained was indeed a [2]catenane. 1H NMR studies demonstrated
+
+
+116                                                                   The Nobel Prizes
+
+
+
+
+FIGURE 4. The title and the abstract of the first publication on catenanes from our group
+with the picture of the late Dr C.O. Dietrich-Buchecker (1942–2008).
+
+
+
+that the two dpp coordinating fragments were intertwined, thus indicating that
+the rings were interlocking with one another. The general strategy is depicted
+in Figure 5.
+    Strategy A is both very general and simple. Both coordinating fragments
+have to bind to the metal centre so as to be mutually perpendicular. By an appro-
+priate choice of metal, chelates, linkers (g-g), and functional groups (f and g),
+the system consisting of two intertwined organic fragments interacting with the
+central metal will react in the expected fashion with formation of two inter-
+locked rings. The only apparent weakness of strategy A is that a total of eight
+reacting points have to find one another in the double-cyclisation reaction. The
+second approach, strategy B, reduces this problem since it involves only four
+reacting groups to be interconnected in a single cyclisation (twice g-f) leading
+to the catenane. The only requirement is that the starting macrocycle has to be
+pre-synthesised before the template reaction is performed. This ring contains a
+coordinating fragment (f-f) and a non-coordinating linker (g-g), and it is also
+likely to be formed as an intermediate in strategy A. It is noteworthy that, pro-
+vided the threaded bis-chelate complex (bottom left) is stable enough, it must
+form quantitatively from a 1:1:1 mixture of the macrocycle, the metal ion, and the
+
+
+From Chemical Topology to Molecular Machines                                         117
+
+
+
+
+FIGURE 5. Synthesis of interlocking ring systems. The strategy is based on a 3D-template
+effect induced by a transition metal centre, copper(I) in the present case. The arcs of a
+circle and the rings contain coordinating fragments f-f able to interact with a transition
+metal centre (black disk). The f and g letters represent chemical functions able to react
+with one another and form an f-g chemical bond.
+
+
+open-chain fragment. A statistical mixture of complexes, as would arise if two
+different open-chain ligands were reacted with a metal ion, cannot occur because
+it is impossible for two of the macrocyclic ligands to attach to the same metal ion.
+      Since it was less risky, we started with strategy B, which led to an interlocked
+system in good yield (1983) [12]. Later on, we used strategy A since it is slightly
+shorter than strategy B in terms of number of steps from commercially available
+compounds (1984) [14]. The actual reactions carried out are shown in Figures
+6 and 7. It is noteworthy that strategy B is more general than strategy A since
+it opens the way to asymmetric [2]catenanes, i.e., compounds containing two
+different rings. In addition, the threaded intermediate is close to a [2]rotaxane:
+it suffices to end-functionalise the threaded fragment of the compound using
+bulky groups to generate such a [2]rotaxane. We have used this synthesis route
+extensively for making porphyrin-containing catenanes and rotaxanes as well as
+variously substituted compounds of the same family.
+      The copper-complexed catenane of Figure 7 could be quantitatively demeta-
+lated using a cyanide salt. The back reaction leading to the starting copper(I)
+
+
+118                                                                    The Nobel Prizes
+
+
+
+
+FIGURE 6. The starting compound represented on the left is formed from commercially
+available 1,10-phenanthroline in two steps. It can be made at the 10-gram scale within
+one or two weeks. In the presence of copper(I), the entwined compound represented on
+the right is formed quantitatively.
+
+
+
+
+FIGURE 7. The double cyclisation reaction leading to the catenane is relatively low-
+yielding. Nevertheless, it was possible to prepare batches of 0.5 g within a few weeks. By
+slightly modifying the structure of the starting molecules and by applying the ring-closing
+methodology brilliantly proposed by Grubbs, we substantially improved the yield (up to
+92%) [15].
+
+
+From Chemical Topology to Molecular Machines                                     119
+
+
+
+
+FIGURE 8. The demetalation-remetalation reaction and the X-rays structures of the
+copper(I) catenate and the catenand.
+
+
+complex from the metal-free compound was perfectly reversible as shown on
+Figure 8. X-ray quality crystals of both forms could be grown and their crystallo-
+graphic structures were obtained by Pascard and co-workers [16]. We coined the
+terms “catenates” and “catenands” for complexes whose ligands are interlocking
+rings and for the corresponding metal free-compounds, respectively.
+    The X-ray structures are represented below the corresponding chemical
+drawings of the copper-complexed and metal-free [2]catenanes. As far as the
+copper complex is concerned, the similarity between the drawing and the X-ray
+structure is striking. By contrast, the shape of the solid state free catenane is sig-
+nificantly different from the drawing. In any case, demetalation of the complex
+or complexation of the free form results in a complete rearrangement of the
+organic backbone. This metamorphosis can clearly be connected to the molecu-
+lar machinery field although it is still relatively far from movements taking place
+in real molecular machines.
+    The Strasbourg approach to catenanes represented significant progress in
+the catenane and rotaxane field. All of a sudden, the transition metal templated
+approach developed by our team opened the way to novel topologies and to
+rotaxanes. In fact, the potential of transition metal in relation to catenanes,
+
+
+120                                                               The Nobel Prizes
+
+
+rotaxanes and even knotted rings appeared to be limitless. Although the con-
+tribution of Lüttringhaus and Schill was conceptually important, the template
+approach completely modified the way molecular chemists looked at catenanes.
+Within a few years, they changed status from very exotic and almost impos-
+sible-to-make species, at least at a macroscopic scale, to normal and reason-
+ably accessible compounds. A few pioneering contributions based on organic
+templates were successfully explored by other groups. In 1989 Stoddart and his
+group reported a particularly efficient and attractive synthesis of a [2]catenane
+[17]. They took advantage of acceptor-donor interactions between an electron
+deficient 4,4’-bipyridinium derivative and an aromatic electron donor, combined
+to favourable hydrogen bonds, to predispose the various groups implied in a
+very favourable situation before a cyclisation reaction leading to the desired
+[2]catenane. This seminal piece of work was followed by two reports based on
+hydrogen bonding only, published in 1994 by Hunter and his group [18] and
+Voegtle and co-workers [19]. Both teams reported almost simultaneously very
+similar data although they were working far away from one another. These two
+pioneering hydrogen bonding-based approaches were followed by remarkable
+work performed by Fujita and co-workers [20]. It was based on kinetically labile
+Pd-N bonds and hydrophobic interactions. Fujita introduced the concept of
+“magic rings” since the [2]catenane could be reversibly dissociated to the set of
+two non-interlocking rings by just changing the nature of the medium in which
+the catenane was dissolved or the concentration of its constitutive components.
+      As far as rotaxanes are concerned, cyclodextrins turned out to be particularly
+interesting. These natural rings were used as the cyclic components of a large
+variety of rotaxanes. In the presence of appropriate string-like organic fragments,
+threading through the cyclodextrin was shown to take place thanks to hydro-
+phobic forces. The first convincing example of a cyclodextrin-based [2]rotaxane
+was reported by Ogino in 1981 [21]. This pioneering publication was followed
+by remarkable work from various groups and, in particular, from Harada and
+co-workers [22].
+      Figure 9 gathers a few remarkable topologies which could be obtained at the
+molecular level by our group using a generalised transition metal-based strategy,
+i.e., by assembling two or more transition metal centres and molecular threads
+containing two or more coordinating fragments: a [3]catenane [23], the trefoil
+knot [24] and a doubly interlocking [2]catenane also known as the Solomon
+rings [25]. Other groups have also been interested in chemical topology. Impres-
+sive topologies at the molecular level have been reported by the research teams
+of Stoddart, Leigh and Siegel, just to cite a few [26, 27, 28].
+
+
+From Chemical Topology to Molecular Machines                                   121
+
+
+
+
+FIGURE 9. From a simple [2]catenane to more complex topologies. The examples repre-
+sented on Figure 9 are those made in Strasbourg.
+
+
+
+MOLECULAR MACHINES
+
+The field of molecular machines, mostly initiated by Stoddart, Balzani and their
+co-workers [29–30], was to a large extent an extension of that of interlocking ring
+molecules, at least at the beginning. The structures of catenanes and rotaxanes
+seem to be ideally suited to the making of molecular switches and machines,
+i.e., compounds which can undergo large amplitude motions in a controlled and
+reversible way.
+
+Electrochemically-driven swinging motion of a copper-complexed catenane
+The very first system made by our group for which a large amplitude motion can
+deliberately be triggered by an external signal was reported in 1994 [31]. A ring
+could be forced to rotate inside the other ring by playing with the copper(I)/
+copper(II) redox couple which led us to name the compound a “swinging cat-
+enane.” Since that time, molecular machinery has blown up in a very impressive
+
+
+122                                                              The Nobel Prizes
+
+
+
+
+FIGURE 10. Catenanes and rotaxanes in motion: towards molecular machines.
+
+
+
+way thanks to the great contributions of various groups, either working with
+catenanes or rotaxanes, or using non-interlocking compounds. Stoddart, Kaifer
+and co-workers reported their first molecular “shuttle” in the same year [30]. The
+compound made and studied in Strasbourg is a copper-complexed [2]catenane,
+displaying two very distinct coordination modes corresponding to two extremely
+different geometries. Having taken advantage of the roughly tetrahedral arrange-
+ment of the copper(I) centre in bis-diimide complexes to construct catenanes
+and molecular knots, the electrochemical properties of related copper complexes
+have later been used in our group to design and prepare a large variety of cat-
+enanes and rotaxanes and for investigating their controlled dynamic properties,
+playing on the two classical oxidation states of copper, +1 and +2. As far as the
+first “swinging catenane” is concerned, the interconversion between both forms
+of the complex is electrochemically triggered and corresponds to the sliding
+motion of one ring within the other. It leads to a profound rearrangement of
+the compound and can thus be regarded as a complete metamorphosis of the
+molecule. The principle of the process is explained in Figure 11.
+     The key feature of the transformation is the difference in preferred coor-
+dination number (CN) for the two different redox states of the metal: CN = 4
+for copper(I) and CN = 5 (or 6) for copper(II). The organic backbone of the
+
+
+From Chemical Topology to Molecular Machines                                            123
+
+
+
+
+FIGURE 11. Principle of electrochemically induced molecular motions in a copper-com-
+plexed [2]catenane. The stable 4-coordinate monovalent complex (top left, the black circle
+represents Cu(I)) is oxidised to an intermediate tetrahedral divalent species (top right,
+the white circle represents Cu(II)). This compound undergoes a complete reorganisation
+process to afford the stable 5-coordinate Cu(II) complex (bottom right). Upon reduction,
+the 5-coordinate monovalent state is formed as a transient (bottom left). Finally, the latter
+undergoes the conformational change that regenerates the starting complex. The biden-
+tate coordinating fragment is phen (1,10-phenanthroline), part of the dpp ligand, and the
+tridentate ligand is terpy (2,2’:6’,2”-terpyridine).
+
+
+
+
+asymmetric catenate consists of a dpp bidentate chelate included in one cycle
+and, interlocked to it, a ring containing two different subunits: a dpp moiety and
+a terpy ligand. Depending upon the mutual arrangement of both interlocking
+rings, the central metal copper can be tetrahedrally complexed (two dpp units)
+or 5-coordinate (dpp + terpy). Interconversion between these two complexing
+modes results from a complete pirouetting of the two-site ring in one given
+direction or the other. It can easily be induced electrochemically, by means of
+a chemical reductant or oxidant or even photochemically [32]. From the stable
+tetrahedral monovalent complex, oxidation leads to a 4-coordinate Cu(II) state,
+which rearranges to the more stable 5-coordinate compound. The process can
+be reversed by reducing the divalent state to the 5-coordinate Cu(I) complex,
+obtained as a transient species before a changeover process takes place to afford
+back the starting tetrahedral monovalent state.
+
+
+124                                                                 The Nobel Prizes
+
+
+
+
+FIGURE 12. Square scheme corresponding to the process whose principle is depicted in
+Figure 11, with the chemical structures of the compounds. The dpp-containing cycle is a
+30-membered ring whereas the dpp+terpy incorporating one is a 31-membered ring. It
+could be shown that the 5-coordinate Cu(II) complex has a square pyramidal geometry
+and not a trigonal bipyramid one. [33]
+
+
+
+     The real molecules are represented in Figure 12 as well as the square scheme
+interconverting the 4-and the 5-coordinate species.
+     Interestingly, the transformations of Figure 11 and Figure 12 is accompanied
+by a change in the electrochemical properties of the complex as well as spec-
+troscopic changes. As expected, the tetrahedral copper complex has a relatively
+high redox potential: Eo = +0.63 V vs. SCE in CH3CN, whereas the 5-coordinate
+species has a slightly negative potential, pointing to greater stabilisation of the
+divalent copper than in the 4-coordinate species: Eo = –0.07 V.
+     The obvious weak point of the swinging catenane of Figures 11 and 12 is
+its kinetic inertness. It should be noted that this first system was dramatically
+improved by modifying structural parameters of the compounds and, in par-
+ticular in replacing the [2]catenane organic backbone by a [2]rotaxane, either
+acting as a pirouetting species or as a two- or three-station molecular shuttle. The
+rearrangement process was also markedly sped up by modifying the structure of
+the bidentate chelate incorporated in the rings. By replacing the highly sterically
+
+
+From Chemical Topology to Molecular Machines                                          125
+
+
+hindering dpp fragment by an endocyclic but non-sterically hindering chelating
+group of the 8,8’-diaryl-3,3’-biisoquinoline family, fast moving rotaxanes were
+obtained [34–35]. Finally, it should be noted that the motion taking place in the
+swinging [2]catenane is by no means a rotation motion. The ring that incorpo-
+rates both a bidentate and a tridentate chelating group undergoes a “pirouetting”
+motion corresponding to a 180° rotation in a given direction or in the other. Real
+rotary machines were reported much later. Feringa’s contribution to the field of
+rotary motions was indeed crucial [36].
+
+
+TOWARDS SYNTHETIC MOLECULAR MUSCLES: CONTRACTION AND STRETCHING OF A
+LINEAR ROTAXANE DIMER
+
+The topic of this paragraph is dealing with a special type of molecular machine
+related to contraction and extension of switchable species reminiscent of muscles
+[37–38]. Rotaxane dimers as represented in Figure 13, can be regarded as syn-
+thetic analogues of natural muscles. Since real muscles mostly consist of fila-
+ments able to glide along one another, a molecular assembly in which two string-
+like molecular fragments can glide along one another was designed. This is the
+process taking place in the sarcomere, in which the thick filament (containing
+
+
+
+
+FIGURE 13. The molecular structure of a rotaxane dimer or pseudo-[2]rotaxane dimer
+(i.e., without bulky stoppers at the ends of the threaded filaments) is adapted to the con-
+traction/extension motion mimicking the dynamic properties of a muscle.
+
+
+126                                                              The Nobel Prizes
+
+
+myosin) moves along the thin filament (actin polymer) in one direction or the
+other so as to induce contraction or elongation. The actin-myosin complex as
+well as other motor proteins are fascinating biological systems which represent
+an inexhaustible source of inspiration for synthetic chemists.
+     After careful design mostly based on space-filling model, we started the syn-
+thesis work. It turned out to be particularly delicate and time consuming. In the
+present discussion, we will skip the preparation of the ring-and-lateral thread
+conjugate although the synthesis of this compound was far from trivial.
+     A 31-membered ring incorporating a dap fragment (dap: 2,9-diaryl-
+1,10-phenanthroline), prepared in several steps from commercially avail-
+able compounds, was covalently linked to a linear fragment incorporating a
+2,9-dimethyl-3,8-bis-(p-hydroxyphenyl)-1,10-phenanthroline so as to afford
+the bis-chelating target consisting of a coordinating ring attached to a lateral
+arm containing another bidentate chelating group. The reaction of the ring-and-
+string conjugate with a stoichiometric amount of [Cu(CH3CN)4]PF6 in CH3CN/
+CH2Cl2 at room temperature led to the doubly threaded species whose structure
+is represented in Figure 15. The success of this latter reaction was certainly far
+from being certain, considering the number of Cu(I) complexes which could be
+formed by coordinating the two different chelating fragments (endocyclic and
+
+
+
+
+FIGURE 14. Cu(I)-induced double threading process leading to a dicopper(I) rotaxane
+dimer. The reaction is quantitative. The structure of the doubly threaded compound
+obtained is shown in Figure 15.
+
+
+From Chemical Topology to Molecular Machines                                      127
+
+
+lateral coordination sites) of the ligand to metal centres. Nevertheless, we were
+happy to observe that formation of the doubly threaded complex was quantita-
+tive. In fact, the complexity of the reaction leading to the doubly threaded spe-
+cies is reflected by the slowness of the reaction leading to the desired product
+(several days at room temperature). Many coordination/de-coordination steps
+have to occur before the system finds its thermodynamic well. The desired [2]
+pseudorotaxane was formed under thermodynamic equilibrium and thus it was
+obtained pure as a deep red crystalline solid without further purification. X-ray
+quality crystals were grown from acetone/diethyl ether by diffusion. The crystal-
+lographic structure of the dicopper(I) [2]rotaxane dimer is represented in Figure
+15. The most striking feature of the structure is its linear extended arrangement,
+which results in a distance between the two terminal phenolic oxygen atoms
+of 36.3 Å. The two copper atoms are 18.3 Å apart and occupy similar environ-
+ments. The coordination tetrahedron around both copper(I) atom are strongly
+distorted.
+    In order to complete the synthesis of the switchable dimer rotaxane we had
+to introduce additional function. In particular, the project involved two potential
+
+
+
+
+FIGURE 15. X-ray structure of the dicopper(I) rotaxane dimer. The pale grey ring-and-
+string component and the black subunit are identical. The carbon atoms are pale grey or
+black. The two copper(I) centres are green. The nitrogen and oxygen atoms are deep blue
+and red, respectively.
+
+
+128                                                                 The Nobel Prizes
+
+
+
+
+FIGURE 16. Functionalisation of the [2]pseudorotaxane dimer, precursor to the “muscle,”
+by attaching a terpy-bulky stopper conjugate to its both ends. The “muscle” represented
+at the bottom of the figure is in its extended situation.
+
+
+binding modes to a transition metal centre for the organic backbone: 4-coordi-
+nate or 5-coordinate. Tridentate ligands of the terpy family were thus introduced
+simultaneously to the stoppers, whose function was simply to prevent unthread-
+ing of the molecular filament from the rings they were threaded through. The last
+organic reaction of the synthesis sequence is shown in Figure 16. The function-
+alised terpy represented on the upper part of Figure 16 incorporates a tridentate
+chelating group and is attached to a bulky stopper. It was prepared separately and
+subsequently it was attached to both ends of the dicopper(I) precursor of Figure
+15. This last reaction afforded the muscle-like compound depicted on Figure 16
+(bottom) as a dark red solid in 60% yield. The last coupling step not only allowed
+the introduction of terdentate sites on both sides of the molecular assembly but
+also afforded a real rotaxane which cannot undergo any unthreading reaction.
+    As usual in our group, Cu(I) was used as a gathering and templating metal.
+The movement was induced by a chemical reaction, namely a metal exchange. As
+shown in Figure 17 in a very schematic fashion, the doubly threaded compound
+can interact simultaneously with two metal centres, either in a four- or in a five-
+coordinate geometry each.
+    Due to the synthesis procedure, each Cu(I) centre was coordinated to two
+1,10-phenanthroline units, resulting in a four-coordinate situation. This binding
+
+
+From Chemical Topology to Molecular Machines                                       129
+
+
+
+
+FIGURE 17. Principle—Contraction/extension of a [2]rotaxane dimer by gliding one
+strand along the other one. The W-shaped fragment represents a terdentate chelating
+group such as terpy whereas the U-shaped species is a bidentate ligands of the dpp type.
+
+
+
+mode corresponds to an extended geometry (upper part of Figure 17), whereas
+coordination of a divalent metal ion such as Zn2+ affords a five coordinate situ-
+ation corresponding to interaction of each metal centre with one 1,10-phen-
+anthroline or dpp unit and one terpy. It corresponds to a contracted geometry
+(bottom of Figure 17).
+     As shown on Figure 18, by treating the dicopper(I) pseudorotaxane dimer
+with KCN, the metal-free ligand was obtained in quantitative yield (not shown
+on the figure). After remetalation using Zn(NO3)2, the colourless di-zinc com-
+plex (bottom) was obtained quantitatively. It is now in the contracted form. The
+extended dicopper(I) dimer could be regenerated by the reaction of the di-zinc
+complex with an excess of [Cu(CH3CN)4]PF6 at room temperature. Using a metal
+exchange reaction, the muscle-like compound is thus set in motion. The Cu(I)
+complex corresponds to the extended form and the Zn(II)-complexed species
+is the contracted state. A metal exchange reaction was utilised to set the muscle
+in motion due to the fact that the electrochemical method turned out to be inef-
+ficient. The copper(I) complex was oxidised with the purpose of contracting the
+system to a dicopper(II) complex with two 5-coordinate Cu(II) centres but the
+motion was very slow which led us to use a chemical signal. The kinetic barrier
+
+
+130                                                                    The Nobel Prizes
+
+
+to the rearrangement is very large due to the fact that the gliding motion of a
+given thread is strongly coupled to that of the other thread. The tight connection
+between the two subunits makes it impossible for the [2]rotaxane dimer to move
+in a stepwise manner.
+     The two rotaxane dimers of Figure 18 represent one of the first examples of a
+unimolecular linear array able to elongate and contract at will under the action
+of a given stimulus. From Corey–Pauling–Koltun (CPK) model, one can estimate
+that the length of the compound changes from 83 to 65 Å between both situa-
+tions (Figure 18). This corresponds roughly to the same relative amount as what
+is found in natural muscles (~27 %).
+     It is noteworthy that several muscle-like compounds have been proposed in
+recent years. In most cases, they were set in motion using principles which were
+somewhat different from ours. It is not the place in this article to review in detail
+
+
+
+
+FIGURE 18. The two forms of the muscle-like [2]rotaxane dimer. Whereas the interconver-
+sion between both forms is easily induced by metal exchange, oxidation of copper(I) to
+copper(II) (upper form of the figure) was unfortunately not followed by rearrangement of
+the complex to the extended situation, at least on a reasonable timescale. Due to the rigid
+structure of the molecule, the gliding motions of both threads along one another have to
+take place simultaneously and in a concerted manner. The kinetic barrier to the global
+motion is thus very high which explains why the motion is so slow when no demetalation
+step is involved.
+
+
+From Chemical Topology to Molecular Machines                                 131
+
+
+the work done by other groups in this area but we would like to mention some of
+the most significant contributions. Several groups prepared dynamic [2]rotaxane
+dimers based on cyclodextrins which, under the action of a given signal, could
+be contracted or elongated [39–40]. Reversible molecular motions mimicking
+natural muscles proceed through hydrophobic forces, size constraints, solvents
+polarity changes or photochemical isomerization of azobenzene or stilbene
+derivatives.
+     Another family of muscle-like compounds was developed based on other
+types of interlocking architectures. These systems contain two types of recogni-
+tions sites, one of them being based on hydrogen bonding (and thus pH sensi-
+tive) and the other one operating via acceptor-donor interactions. A few years
+ago, Stoddart and co-workers showed that a contraction and expansion motion
+was triggered by changing the pH of the solution containing the rotaxane [41].
+They described a new bistable rotaxane dimer architecture in 2008, namely a
+two-component [c2]daisy chain topology. This system consists of two self-com-
+plementary interlocking molecular fragments in which a secondary ammonium
+ion-containing lateral arm is attached to a crown ether. The end of each arm is
+connected to a bulky stopper. Each crown ether glides between the two spe-
+cific binding sites incorporated in the thread, the motion being triggered by
+modifying the pH. The gliding motions result in contracting or elongating the
+rotaxane dimer.
+     Simultaneously with the former piece of work, Coutrot et al. published
+another example of pH-switchable molecular muscle [42] based on a related
+principle. The system incorporates a cyclic rotaxane dimer consisting of two
+interlocking monomers. Again, each monomer incorporates a crown ether
+attached to a linear fragment. This fragment contains two different stations and
+the system can be switched from a contracted state to an elongated situation by
+modifying the pH. A remarkable extension of Coutrot’s work was published in
+2012 [43]. Giuseppone and co-workers designed and synthetised a pH-driven
+muscle-like system similar to Coutrot’s “muscle” in which [2]rotaxane dimers
+are linked together linearly by taking advantage of a very efficient coordination
+chemistry-based polymerisation process. A remarkably high degree of poly-
+merisation was obtained (~3,000 units) for both the contracted and extended
+forms. As in Coutrot’s work, at low pH, a doubly-threaded dimer adopts an
+extended geometry. At basic pH, the compound adopts a contracted form. These
+two states were very convincingly characterized by dynamic light-scattering and
+small angle neutron scattering experiments. This remarkable piece of work is
+probably one the first examples of molecular muscle operating at a microscopic
+scale and thus functioning as a real device.
+
+
+132                                                              The Nobel Prizes
+
+
+CONCLUSION
+
+The main field of research of our group since the beginning of the 80s has clearly
+been that of transition metal chemistry. In relation to the molecular machine
+area, it should be stressed that the metals had a dual function:
+
+      1. Interlocking and knotted ring compounds were obtained by using transi-
+         tion metals such as Cu(I) in particular for gathering and disposing in a
+         precisely defined geometry various organic fragments before they were
+         incorporated in the target molecule.
+      2. The presence of transition metals provided the molecular systems
+         with electrochemical or photochemical properties which allowed to set
+         given fragments of the molecule in motion and thus to obtain molecu-
+         lar machines.
+
+     Generally speaking, motivation for doing research in the field of controlled
+dynamic systems of the muscle-like family is manifold. The most important one
+is related to the scientific challenge that the synthesis and the study of complex
+and functional molecular systems that can be set in motion in a controlled way
+represents. Making contractile and extensible molecules of the rotaxane dimer
+type was probably not even envisioned a few decades ago due to expected syn-
+thetic and analytical difficulties. Preparing and studying linear or rotary motors
+or artificial muscles is related to the fascination that biology exerts on chemists
+and engineers. It is very challenging for a synthetic chemist to make a molecule
+or molecular system whose function and mode of action are reminiscent of those
+of biological systems. The few examples discussed in the present chapter are cer-
+tainly very remote from natural muscles and they are undoubtedly very primi-
+tive compared to their natural analogues. Nevertheless, it was a great challenge
+to elaborate these compounds and to show that they can be set in motion in a
+well-controlled fashion.
+     The field of molecular machines in general, still a basic science area of
+research, has been acknowledged by the Royal Swedish Academy of Science and
+the Nobel Committee. I would like to thank these prestigious organisations for
+this recognition. This field is nowadays more than 20 years old and it is cer-
+tainly time to address the question of applications, either in a general fashion
+for machine-like compounds or more precisely for contractile and extensible
+molecular species. In which field of application will the area of molecular mus-
+cles be the most important in the future? It is today very risky to give an answer
+to this question. Presently, one of the most impressive extension of molecular
+machines towards applications is concerned with “molecular computing” and
+
+
+From Chemical Topology to Molecular Machines                                   133
+
+
+the molecular approach to electronic memory devices. The Stoddart and Heath
+groups reported promising work in this area [44].
+    Many types of nanodevices and nanomachines can be envisaged in relation
+to chemical applications (for example, sorting and transport of molecules in
+solution or through membranes) but also to purely mechanical applications. In
+the future, nano- and microrobots able to fulfil a large variety of functions (from
+medicine to everyday life) will have to be articulated. The use of molecular com-
+ponents to control their movements is certainly a promising possibility. In a rela-
+tively long term prospective, artificial muscles of various length (from microns
+to millimetres or even centimetres) might be needed for various applications
+such as humanoid robots, actuators for microfluidic science and technology or
+prosthetic organs. However, in spite of all the possibilities offered by molecular
+machines in terms of potential applications for the future, it should be stressed
+that basic research is still of utmost importance and is or has been at the origin
+of the many technologies which are nowadays part of our daily life.
+    Finally, I would like to stress that the recent book written by Bruns and Stod-
+dart represents a monumental piece of work which, today, gathers all the impor-
+tant data obtained by hundreds if not thousands of researchers since the begin-
+ning of catenanes, rotaxanes and molecular machines. Any interested reader
+must of course have a copy of this book.
+
+
+ACKNOWLEDGMENTS
+
+The work on molecular machines performed in Strasbourg was financially sup-
+ported by the University of Strasbourg (formally Université Louis Pasteur), the
+CNRS (Centre National de la Recherche Scientifique), the European Commis-
+sion and the International Center for Frontier Research in Chemistry (ICFRC).
+We would like to thank these organisations. I also acknowledge the important
+contribution of Dr Christiane O. Dietrich-Buchecker (deceased in 2008). Her
+contribution to the early work performed in Strasbourg on molecular catenanes
+and molecular machine prototypes has really been crucial.
+    I would also like to thank my mentor, Professor Jean-Marie Lehn. Jean-
+Marie has represented a model for me since I worked with him as a PhD stu-
+dent. I am grateful to two teachers who had a strong influence on me: Professor
+Guy Ourisson (organic chemistry) and Raymond Weiss (inorganic and physi-
+cal chemistry). I would also like to express my gratitude to Professor Malcolm
+L.H. Green. As a postdoctoral fellow in his team, I learnt transition metal and
+organometallic chemistry, which also had a strong impact on the future projects
+of my group.
+
+
+134                                                                           The Nobel Prizes
+
+
+
+                          Laboratoire de Chimie Organo-Minérale
+
+                  1. Members of the University. of Strasbourg or of CNRS
+   Marc Beley, Christiane Dietrich-Buchecker †, Jean-Claude Chambron, Jean-Paul Collin,
+     Valerie Heitz, Jean-Marc Kern †, Stéphanie Durot, Angélique Sour, Valérie Sartor
+
+                                       2. Ph D students
+      Pascal Marnot, Romain Ruppert, Jean Weiss, Jean-Claude Chambron, André Edel,
+      Abdelaziz Jouaiti, Sylvie Chardon-Noblat, Catherine Hemmert, Stéphane Guillerez,
+     Christophe Coudret, Valerie Heitz, Abdelhakim Bailal, Angélique Sour, Jean-François
+             Nierengarten, Fabrice Odobel, Sandrine Chodorowski, Aude Livoreil,
+     Nathalie Solladié, Jean-Luc Weidmann, Gwénaël Rapenne, Myriam Linke, Laurence
+    Raehm, Isabelle Dixon, Anne Chantal Laemmel-Gouget, Didier Pommeranc, Christine
+   Hamann-Schaffner, Etienne Baranoff, Pierre Mobian, Benoit Colasson, Damien Jouvenot,
+  Nicolas Belfrekh, Sylvestre Bonnet, Benoit Champin, Christian Tock,Julien Frey, Fabien Durola,
+           Jacques Lux, Julie Voignier, Yann Trolez, Maryline Beyler, Cécile Roche
+
+
+
+FIGURE 19. 1. Permanent researchers of the “Laboratoire de Chimie Organo-Minérale”
+(LCOM): University members and CNRS researchers including the late Dr Christiane
+Dietrich-Buchecker (1942–2008) and the late Prof. Jean-Marc Kern (1944–2004). 2. PhD
+students listed by chronological order. The two first students, Pascal Marnot and Romain
+Ruppert, started their PhD work in 1980.
+
+
+    Many researchers have been associated to the work of our team, “Laboratoire
+de Chimie Organo-Minérale.” In spite of the expected and unexpected difficul-
+ties they frequently had to face in the course of their work, these researchers
+have always been very enthusiastic and efficient. I owe them the success of our
+research team. The names of our CNRS researchers or University members (from
+assistant to full professors), of our PhD students and post-doctoral researchers
+as well as those of other visitors who contributed to our research are listed in
+Figure 19 and 20.
+
+
+
+                          Laboratoire de Chimie Organo-Minérale
+
+                         Post-doctoral researchers and other visitors
+
+  David Amabilino, Audrey Auffrant, Christine Beemelmanns, Martial Billon, Maria-Jesus
+   Blanco-Pillado, James I. Bruce, Diego J. Cardenas, Ricardo Carina, John D. Crane,
+      Christian S. Diercks, Vincent Duplan, Jonathan A. Faiz, Yoshio Furusho, Pablo
+     Gaviña, Christine Goze, David Hanss, Neri Geum Hwang, Akiko Hori, Elisabetta
+    Iengo, Fumiaki Ibukuro, Stuart James, Maria Consuelo Jimenez, Antoine Joosten,
+  Robert Kayhanian, Jérome Kieffer, Abdel Khemiss, Masatoshi Koizumi, Tomáš Kraus,
+  Ulla Létinois-Halbes, Jacques Lux, Alexander G. Martynov, Dennis Mitchell, Bernhard
+      Mohr, Cécile Moucheron, Frédéric Niess, Laure-Emmanuelle Perret-Aebi, Ingo
+     Poleschak, Alexander I. Prikhod’ko, Felipe Reviriego, Zeinab Saad, Efstathia G.
+    Sakellariou, Xavier J. Salom-Roig, Emma Schofield, Hideki Sugihara, Pierre Louis
+      Vidal, Michael D. Ward, Noémie Weber, Oliver Wenger, J. A. Gareth Williams
+
+
+
+FIGURE 20. Post-doctoral researchers and other visitors.
+
+
+From Chemical Topology to Molecular Machines                                              135
+
+
+    Finally, I thank my parents, my wife, Carmen, and my son, Julien, for
+their continuous support and for their forgiveness regarding my pace of work
+and travel.
+
+
+REFERENCES
+ 1. Frisch, H.L., Wasserman, E. (1961) Chemical Topology. Journal of the American
+    Chemical Society, 83, 3789–3795.
+ 2. Walba, D.M. (1985) Topological Stereochemistry. Tetrahedron, 41, 3161–3212.
+ 3. Adams, C.C. (1994) The Knot Book. W.H. Freeman and Company, New York.
+ 4. Schill, G. (1971) Catenanes, Rotaxanes and Knots. Academic Press, New York/London.
+ 5. Schill, G., Lüttringhaus, A. (1964) The Preparation of Catena Compounds by
+    Directed Synthesis. Angewandte Chemie International Edition, 3, 546–547.
+ 6. Marnot, P.A., Ruppert, R., Sauvage, J.-P. (1981) Catalysis of the water gas shift reac-
+    tion by complexes of rhodium and iridium with 2,2’-bipyridine and similar ligands.
+    Nouveau Journal de Chimie, 5, 543–548.
+ 7. Beley, M., Collin, J.-P., Ruppert, R. (1984) Nickel(II)-cyclam: An extremely selec-
+    tive electrocatalyst for reduction of CO2 in water. Chemical Communications,
+    1315–51316.
+ 8. Dietrich-Buchecker, C.O., Marnot, P.A., Sauvage, J.-P., Kirchhoff, J.R., McMillin,
+    D.R. (1983) Bis(2,9-diphenyl-1,10-phenanthroline) copper(I): a copper complex
+    with a long-lived charge-transfer excited state, Chemical Communications, 513–514.
+ 9. Juris, A., Balzani, V., Barigelletti, F., Campagna, S., Belser, P., Von Zelewsky, A. (1988)
+    Ru(II) polypyridine complexes: photophysics, photochemistry, electrochemistry and
+    chemiluminescence, Coordination Chemistry Reviews, 84, 85–277 and references.
+10. Lehn, J.-M., Sauvage, J.-P. (1977) Chemical storage of light energy: Catalytic genera-
+    tion of hydrogen by visible light or sunlight irradiation of neutral aqueous solutions.
+    Nouveau Journal de Chimie, 1, 449–457. Kirch, M., Lehn, J.-M., Sauvage, J.-P. (1979)
+    Hydrogen generation by visible light irradiation of aqueous solutions of metal com-
+    plexes. An approach to the photochemical conversion and storage of solar energy.
+    Helvetica Chimica Acta, 62, 1345–1384 and references.
+11. Buckner, M.T., McMillin, D.R. (1978) Photoluminescence from copper( I) com-
+    plexes with low-lying metal-to-ligand charge transfer excited states, Chemical
+    Communications, 759–761.
+12. Dietrich-Buchecker, C.O., Sauvage, J.-P., Kintzinger, J.-P. (1983) Une nouvelle famille
+    de molécules: les métallo-caténanes, Tetrahedron Letters, 24, 5095.
+13. Thompson, M.C., Busch, D.H. (1964) Reactions of coordinated ligands. IX.
+    Utilization of the template hypothesis to synthesize macrocyclic ligands in Situ,
+    Journal of the American Chemical Society, 86, 3651–3656
+14. Dietrich-Buchecker, C.O., Sauvage, J.-P., Kern, J.-M. (1984) Templated synthesis of
+    interlocked macrocyclic ligands: The catenands, Journal of the American Chemical
+    Society, 106, 3043–3045.
+15. Mohr, B., Sauvage, J.-P., Grubbs, R. H., Weck, M. (1997) High-Yield Synthesis of
+    [2] catenanes by intramolecular ring-closing metathesis, Angewandte Chemie
+    International Edition, 36, 1308–1310.
+
+
+136                                                                         The Nobel Prizes
+
+
+16. Cesario, M., Dietrich-Buchecker, C.O., Guilhem, C., Pascard, C., Sauvage, J.-P.
+    (1985) Molecular structure of a catenand and its copper(I) catenate: complete
+    rearrangement of the interlocked macrocyclic ligands by complexation, Chemical
+    Communications, 244–247.
+17. Ashton, P.R., Goodnow, T.T., Kaifer, A.E., Reddington, M.V., Slawin, A.M.Z.,
+    Spencer, N., Stoddart, J.F., Vicent, C., Williams, D.J. (1989) A [2]Catenane made to
+    order, Angewandte Chemie International Edition, 28, 1396–1399.
+18. Hunter, C.A. (1992) Synthesis and structure elucidation of a new [2]catenane.
+    Journal of the American Chemical Society, 114, 5303–5311.
+19. Vögtle, F.; Meier, S.; Hoss, R. (1992) One-step synthesis of a fourfold functionalized
+    catenane, Angewandte Chemie International Edition, 31, 1619–1622.
+20. Fujita, M., Ibukuro, F., Hagihara, H., Ogura, K. (1994) Quantitative Self-Assembly of
+    a [2]Catenane from Two Preformed Molecular Rings. Nature, 367, 720.
+21. Ogino, H. (1981) Relatively high-yield syntheses of rotaxanes. Syntheses and prop-
+    erties of compounds consisting of cyclodextrins threaded by α,ω-diaminoalkanes
+    coordinated to cobalt(III) complexes. Journal of the American Chemical Society, 103,
+    1303–1304.
+22. Harada, A. (2001) cyclodextrin-based molecular machines. Accounts of Chemical
+    Research, 34, 456 and references therein.
+23. Dietrich-Buchecker, C.O., Sauvage, J.-P., Khemiss, A. (1986) High-yield synthe-
+    sis of multiring copper(I) catenates by acetylenic oxidative coupling. Chemical
+    Communications, 1376–1377.
+24. Dietrich-Buchecker, C.O., Sauvage, J.-P. (1989) A synthetic molecular trefoil knot.
+    Angewandte Chemie International Edition, 28, 189–192.
+25. Nierengarten, J.-F., Dietrich-Buchecker, C.O., Sauvage, J.-P. (1994) Synthesis of
+    a doubly interlocked [2]-catenane. Journal of the American Chemical Society,
+    116, 375–376.
+26. Forgan, R.S., Sauvage, J.-P., Stoddart, J.F. (2001) Chemical topology: complex
+    molecular knots, links, and entanglements. Chemical Reviews, 111, 5434–5464 and
+    references.
+27. Gil-Ramirez, G., Leigh, D., A., Stephens, A. J. (2015) Catenanes: fifty years of molec-
+    ular links. Angewandte Chemie International Edition, 54, 6110–6150.
+28. Arias, K. I., Zysman-Colman, E., Loren, J.C., Linden, A., Siegel, J. S. (2011) Synthesis
+    of a D3-symmetric “trefoil” knotted cyclophane. Chemical Communications, 47,
+    9588–9590.
+29. Ballardini, R., Balzani, V., Gandolfi, M. T., Prodi, L., Venturi, M., Philp, D., Ricketts, H.
+    G., Stoddart, J. F. (1993) A photochemically driven molecular machine. Angewandte
+    Chemie International Edition, 32, 1301–1303.
+30. Bissel, R. A., Cordova, E., Kaifer, A.E., Stoddart, J.F. (1994) A chemically and elec-
+    trochemically switchable molecular shuttle. Nature, 369, 133–137.
+31. Livoreil, A., Dietrich-Buchecker, C.O., Sauvage, J.-P. (1994) Electrochemically trig-
+    gered swinging of a [2]-catenate. Journal of the American Chemical Society, 116, 9399.
+32. Livoreil, A., Sauvage, J.-P., Armaroli, N., Balzani, V., Flamigni, L. Ventura, B. (1997)
+    Electrochemically and photochemically driven ring motions in a dissymmetrical
+    copper [2]catenate. Journal of the American Chemical Society, 119, 12114–12124.
+
+
+From Chemical Topology to Molecular Machines                                            137
+
+
+33. Baumann, F., Livoreil, A., Kaim, W., Sauvage, J.-P. (1997) Changeover in a mul-
+    timodal copper(II) catenate as monitored by EPR spectroscopy. Chemical
+    Communications, 35–36.
+34. Durola, F., Sauvage, J.-P. (2007) Fast Electrochemically Induced Translation of the
+    Ring in a Copper-Complexed [2]Rotaxane: The Biisoquinoline Effect. Angewandte
+    Chemie International Edition, 46, 3537–3540.
+35. Collin, J.-P., Durola, F., Lux, J., Sauvage, J.-P. (2009) A Rapidly Shuttling Copper-
+    Complexed [2]Rotaxane with Three Different Chelating Groups in Its Axis.
+    Angewandte Chemie International Edition, 48, 8532–8535.
+36. Koumura, N., Zijistra, R.W.J., van Delden, R.A., Harada, N., Feringa, B.L. (1999)
+    Light-driven monodirectional molecular rotor. Nature, 401, 152–155.
+37. Jiménez-Molero, M.C., Dietrich-Buchecker, C., Sauvage, J.-P. (2000) Towards syn-
+    thetic molecular muscles: contraction and stretching of a linear rotaxane dimer.
+    Angewandte Chemie International Edition, 39, 3284–3287.
+38. Jiménez-Molero, M.C., Dietrich-Buchecker, C., Sauvage, J.-P. (2002) Chemically
+    induced contraction and stretching of a linear rotaxane dimer. Chemistry: A
+    European Journal, 8, 1456–1466.
+39. Dawson, R. E., Lincoln, S. F., Easton, C. J. (2008) The foundation of a light driven
+    molecular muscle based on stilbene and α-cyclodextrin. Chemical Communications,
+    34, 3980–3983.
+40. Tsukagoshi, S., Miyawaki, A., Takashima, Y., Yamaguchi, H., Harada, A. (2007)
+    Contraction of Supramolecular Double-Threaded Dimer Formed by α-Cyclodextrin
+    with a Long Alkyl Chain. Organic Letters, 9, 1053–1055.
+41. Wu, J., Leung, K.-F., Benítez, D., Han, J.-H., Cantrill, S.J., Fang, L., Stoddart, J.F.
+    et al (2008) An Acid–Base-Controllable [c2]Daisy Chain. Angewandte Chemie
+    International Edition, 47, 7470–7474.
+42. Coutrot, F., Romuald, C., Busseron, E. (2008) A New pH-Switchable Dimannosyl[c2]
+    Daisy Chain Molecular Machine. Organic Letters, 10, 3741–3744.
+43. Du, G., Moulin, E., Jouault, N. et al (2012) Muscle-like Supramolecular Polymers:
+    Integrated Motion from Thousands of Molecular Machines. Angewandte Chemie
+    International Edition, 51, 12504–12508.
+44. Bruns, C.J., Stoddart, J.F. The nature of the mechanical bond: from molecules to
+    machines, Wiley Ed., 2016.
+45. Green, J.E., Choi, J.W., Boukai, A., Bunimovich, Y., Johnston-Halperin, E., Delonno,
+    E., Luo, Y., Sheriff, B.A., Xu, K., Shin, Y.S., Tseng, H.-R., Stoddart, J.F., Heath, J.R.
+    (2007) A 160-kilobit molecular electronic memory patterned at 1011 bits per square
+    centimetre. Nature, 445, 414–417.
+

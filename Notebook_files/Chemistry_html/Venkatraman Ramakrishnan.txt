@@ -1,0 +1,1397 @@
+Unraveling the structure of
+the ribosome
+
+Nobel Lecture, December 8, 2009
+by
+V. Ramakrishnan
+MRC Laboratory of Molecular Biology, Hills Road, Cambridge CB2 0QH,
+United Kingdom.
+
+
+
+Introduction
+During the decade following the discovery of the double-helical structure of
+DNA, the problem of translation, namely how genetic information is used to
+synthesize proteins, was a central topic in molecular biology. A crucial idea,
+proposed by Crick (1955), was that a small intermediary molecule containing
+a tri-nucleotide that base-paired with the genetic template would bring along
+a covalently linked amino acid for addition to the polypeptide chain. This
+idea, called the “adapter hypothesis,” was soon confirmed when a “soluble”
+or “s” RNA was discovered that had covalently linked amino acids (Hoagland
+et al., 1958; for a retrospective, see Hoagland, 2004). It is sad to note that
+two of the key scientists involved in this work, Hoagland and Zamecnik,
+both died in the fall of 2009 around the time when the Nobel Prize for the
+ribosome was announced. The sRNA, renamed tRNA, is a central player in
+the process of translation. Unlike the trinucleotide originally envisioned,
+it actually consists of about 76 nucleotides (Holley et al., 1965), with the
+anticodon end that recognizes the triplet codon on mRNA about 75 Å away
+from the 3′ end that has the covalently linked amino acid (Robertus et al.,
+1974; Kim et al., 1974).
+   At the same time, scientists studying the ultrastructure of the cell noticed
+that newly synthesized proteins were localized in particles on the endoplas-
+mic reticulum (Palade and Siekevitz, 1956), suggesting that a large complex
+assembly was involved in the process of translation. These particles could be
+isolated and were originally called the “ribonucleoprotein particles of the
+microsomal fraction.” Fortunately, at an early meeting, Howard Dintzis pro-
+posed that the particle be called the “ribosome” and the name has been used
+ever since (Dintzis, 2006).
+   Decades of subsequent work established a number of salient facts such
+as the shape of ribosomes, their composition, the number of tRNA binding
+sites, the main roles of the two subunits and the involvement of protein fac-
+tors, many of them GTPases, at specific stages of translation (for background,
+see the volume edited by Nomura et al., 1974). Ribosomes from all species
+consist of two subunits that dissociate reversibly (Chao, 1957; Tissières and
+
+                                                                           135
+
+
+Watson, 1958). The subunits of the 70S bacterial ribosome are designated
+30S and 50S, whereas those of the 80S eukaryotic ribosome are designated
+40S and 60S after their respective sedimentation coefficients. The small
+subunit binds mRNA and the anticodon stem loops of tRNA. The large
+subunit contains the peptidyl transferase center where catalysis of the
+peptide bond formation occurs. In both bacteria and eukaryotes, the
+ribosome is about 2/3rds RNA and 1/3rd protein by mass, although in mammalian
+mitochondria, this ratio is reversed (Hamilton and O’Brien, 1974).
+   I began studying ribosomes as a postdoctoral fellow in Peter Moore’s
+laboratory in 1978. There I participated in a project to determine the spatial
+location of the 30S proteins by neutron scattering, which culminated in the
+so-called “neutron map” (Capel et al., 1987). In 1983, I joined the Biology
+Department at Brookhaven National Laboratory as a staff scientist, and just
+two years later, Stephen White, who had moved from Wittmann’s depart-
+ment at the Max Planck Institute for Molecular Genetics in Berlin joined me
+as a colleague. He had brought with him several crystallization projects of
+individual ribosomal proteins. I decided to use the then new more highly
+regulated version of the T7 expression system (Studier et al., 1990), which
+allowed us to clone the genes for and overexpress many of these proteins
+(Ramakrishnan and Gerchman, 1991). We used this system to make large
+quantities of almost any desired ribosomal protein, and to label them with
+cysteines (for mercury derivatives) or with selenomethionine. The result was
+that after a long hiatus, the pace of determination of structures of ribosomal
+proteins increased quickly (Ramakrishnan and White, 1998). However, it
+gradually became clear that these structures by themselves would not be ulti-
+mately useful in understanding ribosome function, even when used as label-
+ing markers for footprinting studies or in modeling into electron microscopy
+(EM) maps of the ribosome. Only the high-resolution structures of entire
+ribosomal subunits or the whole ribosome would suffice.
+   The first indication that ribosomes were identical molecules that could
+be packed into a crystalline lattice came from the observation of naturally
+occurring two-dimensional crystalline arrays (Unwin and Taddei, 1977).
+However, a major breakthrough was achieved when Yonath, Wittmann
+and their coworkers produced the first three-dimensional crystals of the
+50S subunit from Bacillus stearothermophilus (Yonath et al., 1980). After
+nearly a decade of work and the exploration of other species, in another
+landmark, Yonath and coworkers obtained crystals of the 50S from Haloarcula
+marismortuii that diffracted to 3 Å resolution (von Böhlen et al., 1991),
+suggesting that an atomic structure of the subunit would be possible if the
+crystallographic difficulties could be overcome. Another major contribu-
+tion was made by the group of Marina Garber in the Institute for Protein
+Research in Puschino, Russia. They reported the first single crystals of both
+the 30S subunit and the 70S ribosome from Thermus thermophilus (Trakhanov
+et al., 1987; Yusupov et al., 1987). Similar crystals of the 30S subunit from the
+same species were subsequently obtained by Yonath and coworkers (Yonath et
+al., 1988). Finally, in a crucial technical advance, Hope had shown that data
+
+136
+
+
+collection at 100 K minimized radiation damage for several proteins (Hope,
+1988) and he and Yonath collaborated to show that this method allowed data
+collection from crystals of ribosomal subunits (Hope et al., 1989).
+
+
+Determining the structure of the 30S subunit
+Thus in 1995, when I moved to the University of Utah, well-diffracting
+crystals of the 50S subunit had existed for some time, but with limited
+progress on determining its structure. However, there were no crystals of
+the 30S subunit that diffracted to high resolution. Given my longstanding
+interest in ribosomes and in the 30S subunit in particular, I therefore
+decided to try and obtain good crystals of it with the goal of determining its
+structure. At about this time, Joachim Frank and coworkers had helped to
+develop the use of single particle reconstruction methods in conjunction
+with cryoelectron microscopy (cryoEM). In their studies, they found that
+the conformation of the 30S subunit was different in inactive, active and
+50S-bound states (Lata et al., 1996). This suggested that the difficulty in
+obtaining well-diffracting crystals might be due to the conformational
+variability of the 30S subunit. We had recently solved the isolated structure of
+initiation factor IF3, which was thought to bind one of the regions of the 30S
+subunit that was conformationally variable (Biou et al., 1995). Accordingly,
+we started with the idea that the binding of IF3 to the 30S subunit might fix
+the latter in a single conformation suitable for producing better crystals. We
+began by initiating a collaboration with Joachim Frank and Raj Aggrawal
+to determine a cryoEM structure of the complex of IF3 with the 30S sub-
+unit (McCutcheon et al., 1999). Although later studies showed that our
+interpretation of the density in terms of the domains of IF3 was only partly
+correct (Dallas and Noller, 2001; Allen et al., 2005), the difference density
+nevertheless clearly showed that IF3 bound to the conformationally variable
+platform region of the 30S subunit. We therefore set about trying to crystal-
+lize the 30S subunit in complex with IF3. It is just as well that we did not
+need a complex with IF3 to determine the structure of the 30S subunit or we
+would still be waiting.
+   To begin with, we decided to reproduce the low-resolution crystals from
+Thermus thermophilus obtained earlier by the Puschino group (Trakhanov
+et al., 1987; Yusupov et al., 1987) because that would tell us whether our
+ribosome preparations were good enough to crystallize. Marina Garber,
+who led the group that crystallized the 30S subunit and 70S ribosomes
+in Puschino, told us that the use of hydrophobic chromatography was
+useful to get ribosomes that were good enough to produce 70S crystals. I
+had some previous experience in the use of this method to make ribosomes
+(Ramakrishnan et al., 1986), so with the help of Bob Dutnall, a postdoc
+working on histone acetyltransferases, I tested a number of different
+hydrophobic resins before settling on the Poros-ET column made by Biocad
+(Clemons et al., 2001).
+
+
+
+                                                                            137
+
+
+   We obtained initial crystals of the 30S subunit within a few months. These
+crystals lacked ribosomal protein S1 (Fig. 1A), which is present in variable
+stoichiometry in preparations of the 30S subunit. Although we could get
+large crystals even from this heterogeneous preparation, the reproducibility
+and size improved significantly when we systematically removed S1 quantita-
+tively prior to crystallization (Fig. 1B), and these crystals diffracted to beyond
+3 Å resolution (Fig. 1C) (Clemons et al., 1999; Clemons et al., 2001). Thus
+we had in hand crystals that were in principle capable of yielding an atomic
+structure of the 30S subunit provided we could collect complete data to the
+resolution limit and solve the phase problem.
+
+        crystal   solution
+A
+                                                                              3.0A
+
+
+                             C
+
+
+ +S1
+
+ -S1
+
+
+ B
+
+
+
+
+Figure 1. A. An agarose-acrylamide non-denaturing gel of redissolved crystal of the 30S
+ribosomal subunit (showing they lack protein S1) and the input sample that contained
+a mixture of 30S subunits with and without protein S1. B. Crystals of 30S subunits. C.
+Diffraction from the crystals in B, showing spots to about 3 Å resolution.
+
+   When we began, the difficulties of obtaining good phases for ribosome-
+sized molecules had been apparent for some time, and it was clear that the
+field could use fresh ideas. Only a few years earlier, I had used the technique
+of multiwavelength anomalous diffraction (MAD) pioneered by Wayne
+Hendrickson and Keith Hodgson (Phillips and Hodgson, 1980; Hendrickson
+et al., 1988) in conjunction with the use of incorporated selenomethionine
+as an anomalous scatterer (Hendrickson et al., 1990) to solve the structure
+of the globular domain of histone GH5 (Ramakrishnan et al., 1993). In the
+process of solving that structure, following an initial suggestion by Eleanor
+Dodson, I had shown that the treatment of MAD data as a special case of
+multiple isomorphous replacement with anomalous scattering produced ex-
+cellent maps, which was surprising considering the very low anomalous and
+
+
+138
+
+
+dispersive signal of a few electrons from a selenium atom (Ramakrishnan et
+al., 1993; Ramakrishnan and Biou, 1997). The reason for this is that although
+both the anomalous and dispersive signals from selenium are only a few
+electrons rather than the ~80 electrons of a “heavy” atom like gold or mer-
+cury, there is far less noise from scaling or nonisomorphism in MAD, so that
+the signal to noise is actually much better than that of a typical solution using
+isomorphous replacement.
+   This naturally led me to ask what it would take to have sufficient
+anomalous scattering to produce a measurable signal from crystals of a
+30S subunit. A back of the envelope calculation in conjunction with Ethan
+Merritt’s web site that calculates the expected signal (http://skuld.bmsc.
+washington.edu/scatter/AS_signal.html) showed that there were too few
+methionines in the 30S subunit to provide a measurable signal. At the
+IUCr meeting in Seattle in 1996, Wayne Hendrickson described the enor-
+mous signals from the M4 or M5 edges of uranium (Liu et al., 2001), whose
+anomalous scattering could be as much as 100 electrons. However, a
+conversation with Craig Ogata, who had carried out these experiments, made
+me realize that the technical difficulties of carrying out such an experiment
+would be enormous because of the wavelengths required and the consequent
+radiation damage. A reasonable compromise was the use of the LIII edges
+of lanthanides that had produced spectacular maps (Weis et al., 1991). A
+calculation showed that as few as 10–20 well-bound lanthanide sites would
+yield a sufficiently strong anomalous signal to derive phase information
+from the 30S subunit. A paper on the cleavage of ribosomal RNA by lan-
+thanides in alkaline pH suggested that there were indeed a number of well
+defined sites for lanthanides in the 30S subunit (Dorner and Barta, 1999).
+We therefore decided to embark on trying to phase the 30S subunit using
+anomalous scattering from the LIII edges of lanthanides. I believed that
+we would probably be able to locate the anomalous scatterers using direct
+methods, and tests done after the fact suggested that indeed this would have
+been the case.
+   As we embarked on this, two developments occurred that influenced our
+course of action. The first, in 1996 was the publication of the P4-P6 domain
+of the group I intron (Cate et al., 1996) which was solved using MAD from
+an LIII anomalous edge. The compound that contributed most to phasing
+of this large RNA was osmium hexamine. It was clear from the characteris-
+tics of its binding site (Cate and Doudna, 1996) that this compound would
+probably bind to many more sites in the 30S subunit than most lanthanides.
+However, it was not commercially available, and since Henry Taube, who had
+provided the compound to the authors of the P4-P6 study, no longer had any
+of it to spare, I asked my friend and former colleague at Brookhaven, Bruce
+Brunschwig (now at Caltech), if he could make it for me. He very kindly
+agreed and with his associate Mei Chou made enough for our studies.
+   The other development was the publication of the 9 Å structure of the 50S
+subunit from Yale (Ban et al., 1998), which for the first time showed right-
+handed helices for double-stranded RNA, which was a major breakthrough.
+
+                                                                             139
+
+
+To obtain this, they had used heavy atom tungsten clusters, previously sug-
+gested by Yonath and coworkers (Thygesen et al., 1996). However, they had
+also obtained starting phases from molecular replacement using a cryoEM
+reconstruction of the 50S subunit done by Joachim Frank and his col-
+leagues as a starting model. The W18 cluster was directly visible in difference
+Patterson maps, so it is not clear that molecular replacement phases from a
+cryoEM model was actually required, but they were able to confirm the loca-
+tion of the W18 clusters using difference Fourier maps from those phases.
+Accordingly, we decided to try both molecular replacement using cryoEM
+and use heavy atom clusters as a way of obtaining starting phases from which
+we could locate our anomalous scatterers at LIII edges by difference Fourier
+methods. We obtained a set of tungsten clusters ranging from 11 to 26 atoms
+from Michael Pope of Georgetown University, who generously sent them to
+us, as he had previously to Yonath and Steitz. A different cluster, tantalum
+bromide, was kindly provided by Gunther Schneider of Stockholm University
+and from Jan Löwe, whom I joined as a colleague at the MRC Laboratory of
+Molecular Biology in Cambridge soon after collecting the data described in
+the following paragraph.
+                   A                                                        B           C
+                                             peak                               u           u
+f” (electrons)
+
+
+
+
+                  20
+                                                                        v           v
+                               rising edge            falling edge
+                  10
+
+
+                   0
+f’ (electrons)
+
+
+
+
+                 Ð10
+
+
+                 Ð20
+
+
+                 Ð30
+                  1018 7   1019 5   1020 3   1021 0   1021 8    10226
+                                    Energy (eV)
+
+
+
+
+Figure 2. A. Spectrum of the LIII edge of tungsten, courtesy of S. Myers and D. Schneider,
+Brookhaven National Laboratory. Data were initially collected at the peak of f” where
+the anomalous differences are maximized, and subsequently at the two wavelengths that
+                                                                          of anomalous
+correspond to the minimum and local maximum of f’. B. Harker sectionRamakrishnan, Figure 2 dif-
+ference Patterson map of a W17 derivative of the 30S crystals, generated from the data at
+the peak of f” showing peaks corresponding to the W17 clusters in the structure. C. Harker
+section of Patterson maps of the isomorphous (dispersive) difference between the data
+collected at the minimum and local maximum of f’, showing peaks at identical locations
+as in B.
+
+
+Attempts at molecular replacement using cryoEM reconstructions of the
+30S subunit at ~25 Å resolution provided by Joachim Frank as a starting
+model did not yield a solution in our hands. However, during a single trip
+to the NSLS at Brookhaven, we collected data at the peak of the fluores-
+cence spectrum at the LIII edges for the various tungsten clusters, tantalum
+bromide, and lanthanides as well as osmium hexamine. The peak corre-
+sponds to the maximum of f” (Fig. 2A), resulting in maximizing anomalous
+
+
+140
+
+
+differences between Bijvoet pairs. Even while at the beamline, we could see
+clear anomalous difference Patterson peaks for the W17 cluster (Fig. 2B). We
+accordingly collected two more wavelengths on this derivative to maximize
+the dispersive signal by collecting at the “rising edge” and “falling edge” of
+the fluorescence spectrum. These very close wavelengths correspond to the
+minimum and local maximum of the real part f’ of the anomalous scattering
+factor, and by choosing them, we maximized the dispersive or “isomorphous”
+difference in f’ between the two wavelengths, which resulted in strong peaks
+for the difference Patterson at the same positions as those for the anomalous
+difference (Fig. 2C). Using both the dispersive and anomalous differences in
+MAD phasing yielded us initial phases to about 9 Å resolution. We used these
+phases to locate all of the other derivatives. Because the various derivatives
+were not isomorphous with one another, we grouped together those deriva-
+tives that were isomorphous to medium resolution to solve the structure of
+the 30S to 5.5 Å resolution (Clemons et al., 1999).
+ A                        B                                    C
+
+
+
+
+Figure 3. The 5.5 Å structure of the 30S subunit. A. Density for right-handed     double helical
+                                                                        Ramakrishnan Figure 3
+RNA showing the two strands and bumps for the phosphate groups. B. Density for ribos-
+omal protein S6, showing the fit of the isolated protein structure (Lindahl et al., 1994).
+C. A partial model of the 30S subunit in which the fold of the central domain has been
+traced, and all proteins of previously known structure as well as S20 had been placed in the
+electron density. Reproduced from Clemons et al. (1999).
+
+
+This structure represented a breakthrough in several respects. It showed that
+reliable phases could be obtained with our 30S subunit crystals. We could
+clearly see double-helical density for RNA and recognize the long penulti-
+mate helix 44 of 16S RNA at the interface (Fig. 3A). Because the resolution
+was sufficiently high to recognize individual proteins of known structure
+(Fig. 3B), we were able to place all of the 30S proteins whose structure was
+previously known, as well as protein S20, which was a three-helical bundle at
+the “bottom” of the subunit. Finally, in conjunction with biochemical data,
+especially footprinting data from Noller and coworkers (Stern et al., 1989;
+Powers and Noller, 1995), we were able to identify stretches of RNA adjacent
+
+
+                                                                                           141
+
+
+to specific proteins and thereby trace the fold of most of the central domain,
+resulting in a partial model for the 30S subunit (Fig. 3C). Since the crystals
+diffracted to ~3 Å, the way to an eventual atomic structure seemed clear.
+   Unfortunately, the progress to high resolution was beset by several
+problems. Because the diffraction at high resolution was quite weak, it
+became necessary to take much longer exposures in order to obtain
+sufficiently accurate data to the resolution limit. However, the crystals
+suffered from sensitivity to radiation damage at these higher exposures,
+requiring multiple crystals for a complete data set. At the same time, they
+showed variability in cell dimensions resulting in non-isomorphism which
+made it impossible to scale data together from multiple crystals. These two
+mutually incompatible problems made it difficult for us to make progress for
+several months. The problem was solved partly by brute force in which we
+screened hundreds of crystals and grouped them into sets that had similar
+cell dimensions. We also noticed that crystals soaked in osmium hexamine
+seemed to have consistent cell dimensions, and decided to soak all crystals
+in the isostructural cobalt hexamine, which greatly reduced crystal-to-crystal
+non-isomorphism. The structure was solved using mainly anomalous scat-
+tering from a variety of lanthanides and osmium hexamine at their respec-
+tive LIII edges. In hindsight, we found that anomalous scattering from just
+the osmium hexamine derivative in conjunction with density modification
+would have given us equally good phases. Given his prior work on the P4-P6
+domain, it is not surprising that Cate independently adopted an essentially
+identical strategy of anomalous scattering from osmium or iridium hex-
+amine for the solution of the 5.5 Å structure of the 70S ribosome in the
+Noller laboratory (Cate et al., 1999; Yusupov et al., 2001), and it was also
+essential for solving the 50S subunit to high resolution (Ban et al., 2000).
+
+
+The structure of the 30S subunit
+We finally succeeded in solving the atomic structure of the 30S subunit from
+Thermus thermophilus and an essentially complete atomic model that included
+all the RNA and proteins present was refined to 3 Å resolution (Wimberly et
+al., 2000) (Fig. 4). At about the same time, the Yonath group, using slightly
+different methods and using crystals that required the binding of heavy atom
+clusters to diffract well, independently solved a structure of the 30S subunit
+to 3.3 Å (Schluenzen et al., 2000). This structure, besides being less complete,
+had a number of discrepancies with our structure (detailed in Brodersen et
+al., 2002), but a subsequent structure published by that group the following
+year (Pioletti et al., 2001) at 3.2 Å agreed well with our original structure.
+
+
+
+
+142
+
+
+        Head
+
+
+
+                                          Platform
+
+ Beak
+
+        Shoulder
+
+
+
+
+                                   Body
+
+
+
+
+                   Spur
+
+
+
+
+              Intersubunit interface side                            Back side
+Figure 4. The atomic structure of the 30S subunit refined to 3 Å resolution. A. The “front”
+or intersubunit interface side which is relatively free of proteins, with the various
+                                                                      Ramakrishnan    features
+                                                                                    Figure 4
+of the subunit 30S labeled by their usual name. B. The “back” or solvent side, which is cov-
+ered extensively by ribosomal proteins.
+
+
+The structure of the 30S subunit provided a firm basis for the interpretation
+of decades of biochemical and genetic data (Wimberly et al., 2000; Carter et
+al., 2000; Brodersen et al., 2002). The superposition of the mRNA and tRNA
+located in a 7.8 Å structure of the whole ribosome (Cate et al., 1999), allowed
+us to analyze the interactions of these ligands with the 30S subunit. We were
+able to do this in nearly atomic detail for the P site, for a fortuitous reason:
+A particular feature of this crystal form was that a stem loop of 16S RNA (the
+“spur”; see Fig. 4) of a neighboring molecule was inserted into the P site of
+the 30S subunit, where it mimicked the anticodon stem loop of P-site tRNA
+and interacts with the 3′ end of 16S RNA which had folded back into the P
+site, in an analogous manner to how the tRNA anticodon interacts with the
+mRNA codon (Carter et al., 2000).
+   In addition to details of the ligand binding sites, the structure revealed
+some very general principles. The functional sites that bound RNA ligands
+and the subunit interface side that formed contacts with the 50S subunit
+consisted almost entirely of RNA, with the exception of protein S12 near
+the decoding center. The active sites were highly conserved, including ter-
+tiary interactions. Many of the proteins had long extended tails at the N- or
+C-termini that snaked through 16S RNA and made intimate contacts with it.
+These features were also observed in the 50S subunit (Ban et al., 2000; Nissen
+et al., 2000). The protein-RNA interactions in the 30S subunit have been
+analyzed in detail (Brodersen et al., 2002).
+
+
+
+
+                                                                                         143
+
+
+Use of the 30S structure for the study of
+antibiotic binding
+With a refined structure of the 30S subunit, it became straightforward
+directly to locate several antibiotics bound to the 30S subunit from differ-
+ence Fourier maps using data collected on antibiotic complexes. Indeed,
+back-to-back with the 30S structure itself, we also published the structure
+of its complex with three different antibiotics bound simultaneously: strep-
+tomycin, spectinomycin and paromomycin (Carter et al., 2000). These were
+followed soon afterwards by three more, tetracycline, pactamycin and hygro-
+mycin B (Brodersen et al., 2000) (Fig. 5). These represented the first reports
+of the detailed structure of antibiotics bound to entire ribosomal subunits,
+although the structure of paromomycin bound to a fragment of 16S RNA
+containing its target had been determined previously by NMR (Fourmy et al.,
+1996). Each of these antibiotic structures yielded insights into their respec-
+tive mechanisms of action. Moreover, the detailed structure of antibiotics
+bound to ribosomal subunits is leading to the development of new and more
+effective antibiotics that may prove useful against resistant strains of patho-
+genic bacteria. One antibiotic, paromomycin, has also led to useful insights
+into decoding as discussed below.
+
+
+                              Spectinomycin
+
+                                Streptomycin
+                                                                               Paromomycin
+
+
+
+
+                                                                               Pactamycin
+
+                                 Tetracyclin
+                                Hygromycin B
+
+
+
+
+Figure 5. Antibiotics bound to the 30S subunit. The box on the left is the region of the 30S
+subunit where the mRNA and tRNA ligands bind, and as can be seen in the expansions
+of the box on the right, it is also where key antibiotics bind to key sites and cause loss of
+ribosome function in various ways.
+
+
+The problem of decoding of the genetic message
+
+                                                 Ramakrishnan
+The accuracy of translation depends on several independent               5
+                                                                 Figurethat
+                                                              processes
+individually need to be at least as accurate as the overall accuracy. These
+processes include the recognition of the appropriate tRNA by the aminoacyl
+
+144
+
+
+synthetase that charges it with the correct amino acid, and maintenance of
+the mRNA reading frame during translation. An equally important process
+is decoding, which is the codon-dependent selection of the appropriate
+aminoacyl tRNA during protein synthesis and involves base pairing of the
+codon on mRNA with the anticodon on the tRNA (reviewed in Ogle and
+Ramakrishnan, 2005). The structure of the 30S subunit and later the entire
+ribosome have shed much light on decoding.
+   Ever since the discovery of the genetic code, it has been known that the
+code is highly degenerate: many codons that differ at the third position code
+for the same amino acid. The fact that there are fewer tRNAs than there are
+codons led to the wobble hypothesis in which certain kinds of mismatches
+are tolerated at the third or “wobble” position, whereas strict Watson-Crick
+pairing is required at the first two positions of the codon (Crick, 1966).
+   The free energy difference due to a mismatch in base pairing is not
+sufficient to account for the accuracy of translation. The earliest evidence
+that the ribosome was involved in the accuracy of tRNA selection came when
+the antibiotic streptomycin, which binds to the 30S subunit, was found to
+increase the error rate of protein synthesis (Davies et al., 1964). This led
+to the proposal that the 30S subunit had a decoding center in which it
+“inspects” the pairing of a codon with an anticodon in much the same way
+that an enzyme senses the precise pairing of its substrate. However, this view
+of direct inspection ran into difficulties when a fidelity mutation, the Hirsh
+suppressor, was discovered at a location far from the tRNA anticodon (Hirsh,
+1971), which led to the following alternative view.
+   Aminoacyl tRNA is initially brought into the ribosome as a complex
+with EF-Tu and GTP. In a view of decoding termed kinetic proofreading
+(Hopfield, 1974; Ninio, 1975), incorrect tRNAs can dissociate before or after
+GTP hydrolysis by EF-Tu. The overall selectivity can thus be as high as the
+product of both selection steps because they are separated by the essentially
+irreversible step of GTP hydrolysis. Experimental evidence for proof-reading
+came when it was shown that the incorporation of an amino acid by a near-
+cognate tRNA (which contain a single subtle mismatch between codon
+and anticodon) require more the hydrolysis of many more GTPs than the
+cognate case (Thompson and Stone, 1977; Ruusala et al., 1982). In this
+view, both the ribosome and tRNA were passive participants in translation,
+with mutations altering accuracy by modulating the rate at which GTP was
+hydrolyzed by EF-Tu. In principle, this could explain how mutations distant
+from the codon-anticodon pairing could affect accuracy.
+   This view has required significant revision. Careful studies on the stabil-
+ity of RNA helices show that the free energy differences from a base-pairing
+mismatch can account for a factor of 5–10 in selectivity (Sugimoto et al.,
+1986) rather than the factor of 100 assumed previously. Therefore, even with
+proofreading, the overall accuracy of the ribosome could not be accounted
+for by base-pairing alone. Pre-steady state kinetic experiments that dissected
+the various steps in tRNA selection showed that the forward rates of GTPase
+activation and accommodation (movement of tRNA into the peptidyl
+
+                                                                          145
+
+
+transferase center) were dramatically higher for cognate compared to near-
+cognate tRNA (Pape et al., 1999). This suggested that cognate tRNA more
+efficiently induced conformational changes in the ribosome into a produc-
+tive form that accelerated GTPase activation or accommodation, consistent
+with earlier suggestions from NMR studies on a portion of the decoding site
+(Fourmy et al., 1998). Several aminoglycoside antibiotics bind to the decod-
+ing center and increase the error rate of translation. Kinetic studies showed
+that a main effect of one such antibiotic, paromomycin, was less to increase
+the affinity of incorrect near-cognate tRNAs but rather to allow such tRNAs
+to accelerate GTPase activation (Pape et al., 2000). Presumably, paromomy-
+cin induced conformational changes similar to those induced by cognate
+tRNAs even without the antibiotic. Subsequent equilibrium binding studies
+also showed that the increase in stabilization of near-cognate tRNAs due to
+paromomycin was minimal (Ogle et al., 2002).
+
+
+Insights into decoding from structures of the ribosome
+Possibly one of the most interesting functional insights from the structure of
+the 30S subunit has come from studies on codon-anticodon interactions at its
+decoding center. The structure has allowed a molecular explanation for the
+biochemical observations described above. Importantly, the structure of the
+30S subunit bound to paromomycin showed that the antibiotic stabilized the
+conformation of two key bases, A1492 and A1493, in an orientation which
+suggested that they would be able to directly inspect the minor groove of the
+codon-anticodon helix (Carter et al., 2000) (Fig. 6A and B).
+A                              B                               C
+
+    C1054
+                                                                            tRNA
+
+      G530            mRNA
+              A1493
+            A1492
+         S12                                       Par             mRNA             Mg 2+
+
+
+
+
+Figure 6. The decoding center of the ribosome where the mRNA codon and tRNA anti-
+codon interact. A. The decoding center in the empty 30S subunit. B. The binding of the
+antibiotic paromomycin induces a conformational change in the bases A1492 and A1493,
+so that they are in a position to interact with the codon-anticodon base pairs. C. The base
+pairing between the anticodon of tRNA (whose anticodon stem-loop is shown as ASL) with
+the codon induces a change not only in A1492 and A1493 but also in G530 so all three
+bases interact with the minor groove of the codon-anticodon                   Adapted
+                                                                  minihelix.Figure
+                                                                Ramakrishnan,      6  from
+Ogle et al. (2001).
+
+
+Testing the idea that ribosomal bases directly and specifically inspect codon-
+anticodon base pairing seemed difficult, because crystals would not grow
+
+146
+
+
+in the presence of mRNA. However we noticed that the A site of the 30S
+subunit where decoding occurs seemed to be exposed to large solvent chan-
+nels in the crystal, suggesting that small macromolecules that bound to the A
+site could be soaked directly into the crystals. We tested this idea initially by
+soaking in the small protein initiation factor IF1, which was known to bind to
+the A site. We could see density for the factor in difference Fourier maps and
+thereby determine the structure of its complex with the 30S subunit (Carter
+et al., 2001).
+   Once we knew that the A site was accessible to large ligands in the
+crystal, we could begin structural studies on decoding by soaking RNA
+oligonucleotides that mimicked the A-site mRNA codon and the tRNA
+anticodon stem-loop (ASL) into crystals of the 30S subunit. The data showed
+that the binding of cognate tRNA to the 30S subunit induced a change in the
+conformation not only of A1492 and A1493 but also of G530, which is part of
+the “530 pseudoknot” of 16S RNA (Ogle et al., 2001) (Fig. 6C). These three
+universally conserved bases lined the minor groove of the codon-anticodon
+helix in such a way that the geometry of the base pair was monitored at the
+first two positions but not at the wobble position (Fig. 7). The structure
+provided a rationale for the wobble hypothesis (Crick, 1966) and the degen-
+eracy of the code, in which strict Watson-Crick complementarity between the
+codon and anticodon is required at the first two positions but not the third.
+
+ A                            B                              C
+
+
+
+
+Figure 7. Interaction of conserved ribosomal bases with the three codon-anticodon base
+pairs showing a specific recognition of Watson-Crick geometry at the first two positions (A
+and B) and a tolerance of a GU wobble pair at the third position (C). Adapted from Ogle
+et al. (2001).
+
+  The binding of cognate tRNA also induced global conformational
+                                                         Ramakrishnan, Figure 7
+                                                                                changes
+in the 30S subunit, in particular a movement of the shoulder of the 30S sub-
+unit relative to the rest of the body (Ogle et al., 2001; Ogle et al., 2002). This
+conformational change was not observed with near-cognate tRNA unless the
+antibiotic paromomycin was also present. This suggested that the confor-
+mational change induced by cognate tRNA could also be induced by near-
+cognate tRNA in the presence of paromomycin. Together, these structures
+complemented kinetic data that suggested that cognate but not near-cognate
+tRNA induced a conformational change that accelerated the rate of GTP hy-
+drolysis by EF-Tu (Pape et al., 1999), while paromomycin accelerated the rate
+of GTP hydrolysis even for near-cognate tRNA (Pape et al., 2000).
+
+                                                                                      147
+
+
+  A further examination of the conformational change showed that many
+mutations in the 30S that affected accuracy were at or near an interface
+between two domains of the subunit (Fig. 8). These two domains moved
+relative to one another upon tRNA binding in a transition from an open
+to a closed form of the 30S subunit. Mutations or antibiotics that made this
+domain closure easier lowered the accuracy of tRNA selection and those that
+made it more difficult to reach the closed form increased the accuracy of
+tRNA selection (Ogle et al., 2002). The conformational changes during de-
+coding allowed the rationalization and integration of disparate genetic and
+biochemical data in terms of a common mechanism (Ogle et al., 2002; Ogle
+and Ramakrishnan, 2005).
+
+
+                                                                ram mutations
+
+
+
+
+                         Restrictive
+                         mutations
+
+
+                                        A site
+
+
+
+
+Figure 8. How conformational changes and a domain closure in the 30S ribosomal subunit
+can explain the effect of antibiotics or mutations on accuracy. On the right is a schematic
+cross-section of the 30S subunit (as shown by the plane cutting the 30S Ramakrishnan,
+                                                                           subunit on    the8
+                                                                                      Figure
+left), in the region of the decoding center and proteins S4 (violet), S5 (blue) and S12
+(orange). G530 and A1492/3 are represented by red bars; helices H44, H27 and H18 (with
+the G530-loop) are cyan, yellow and turquoise, respectively. The rotation of the shoulder
+domain (red arrows) during the transition to the closed 30S conformation disrupts an
+interface between S4 and S5, while the H18/530-loop/S12 region forms new contacts to
+H27 and H44. Mutations in these regions either increase or decrease mRNA misreading.
+Paromomycin (dark green rings) and streptomycin (dark pink rings) induce translational
+errors by facilitating domain closure. Reproduced from Ogle et al.(2003).
+
+
+The work on the 30S subunit suggested that the domain closure from an
+open to a closed form was required for GTPase activation and thereby
+tRNA selection (Ogle et al., 2002). Why should this be the case? The answer
+was suggested by considering domain closure in the context of cryoEM
+
+148
+
+
+structures of the complex of EF-Tu and tRNA bound to the ribosome
+(Stark et al., 1997). The domain closure, in particular the movement of the
+shoulder of the 30S subunit, would bring the 30S closer to the EF-Tu and
+tRNA. We suggested that the domain closure would thereby help trigger
+GTP hydrolysis by EF-Tu, leading to its release and accommodation of the
+tRNA in the A site of the peptidyl transferase center. Subsequent cryoEM
+studies showed that the tRNA in complex with EF-Tu was distorted when
+bound to the ribosome (Valle et al., 2002; Stark et al., 2002). This led us to
+suggest a model for decoding in which the additional binding energy from
+the minor-groove recognition of codon-anticodon base pairing is used to
+induce a domain closure in the 30S subunit. This domain closure would in
+turn stabilize the transition state needed for GTP hydrolysis by EF-Tu, which
+is characterized by a distorted tRNA (Ogle et al., 2002). Such a model could
+rationalize not only mutations in the ribosome but also those in the tRNA
+that affected fidelity. After GTP hydrolysis, the strong interactions at the
+decoding center would hold the anticodon loop in place while the release
+of EF-Tu would allow the highly distorted tRNA to relax into the peptidyl
+transferase center (Ogle et al., 2002). The idea of a distorted tRNA relaxing
+into the peptidyl transferase center was also characterized as a “molecular
+spring” (Valle et al., 2003), and echoes earlier ideas by Yarus and coworkers
+that the dynamics of tRNA were important for fidelity (Yarus and Smith,
+1995).
+   Although the resolution of cryoEM has been steadily improving,
+producing structures of the 70S ribosome in complex with EF-Tu at previously
+unimaginable resolutions of 6–7 Å (Villa et al., 2009; Schuette et al., 2009), it
+was clear that molecular details of the interactions of EF-Tu and aminoacyl
+tRNA with the ribosome, and thus a further understanding of decoding,
+would require a higher-resolution structure. However, achieving this was slow
+for the reasons outlined below.
+
+
+A high-resolution structure of the 70S ribosome
+The crystallization of the 70S ribosome that began in the mid-1980s in
+Puschino (Trakhanov et al., 1987) eventually culminated in the structure of
+the entire 70S ribosome with mRNA and tRNA at 5.5 Å resolution (Yusupov
+et al., 2001). This work represented a major step forward because it was
+the first molecular interpretation of the inter-subunit interface and the
+interactions of the mRNA and tRNA ligands with the ribosome. However,
+at that resolution, it relied on the atomic structures of the 30S and 50S sub-
+units solved previously (Ban et al., 2000; Wimberly et al., 2000) to interpret
+the electron density in molecular terms. Indeed, those regions interpreted
+ab initio such as the L1 or L7/L12 stalks that were disordered in the 50S
+subunit structure proved to be incompatible with subsequent high-resolution
+structures of those components (Nikulin et al., 2003; Diaconu et al., 2005).
+   A second major landmark was the crystallization and structure determina-
+tion of the E. coli ribosome at 3.5 Å resolution (Schuwirth et al., 2005). This
+
+                                                                             149
+
+
+was the first 70S ribosome structure at a resolution high enough for proper
+refinement of an atomic model, and among other things, resulted in a clari-
+fication of the nature of the intersubunit bridges. Moreover, because E. coli
+was the standard organism for the biochemical and genetic study of the ribo-
+some, it was an important reference structure. Nevertheless, the crystal form
+was incompatible with the binding of full-length tRNAs, limiting its useful-
+ness for functional studies. Thus it was clear that the field still needed new
+crystal forms of the ribosome that diffracted to high resolution in various
+functional states of translation.
+   We thus embarked on an effort to identify completely new crystal forms
+that would diffract well. To purify ribosomes, we again used hydropho-
+bic chromatography as we had for the 30S subunit, but this time we used
+Toyopearl butyl-650S, which was suggested by Marina Garber. We found that
+the profile was temperature sensitive, and at 4 ˚C but not at room tempera-
+ture, it was possible to separate 70S ribosomes from excess 50S subunits as
+well as from a fraction that contained an active ribonuclease that copurified
+with ribosomes. Ribosomes using our protocol also lacked any endogenously
+bound tRNA that might lead to heterogeneity, and were so pure that the
+individual charge states of whole ribosomes could be resolved by mass spec-
+trometry (Ilag et al., 2005). This led to an initial breakthrough in which
+we obtained a tetragonal form of the 70S ribosome, which yielded crystal
+structures to about 6 Å resolution of the release factors RF1 and RF2 bound
+to their respective stop codons on mRNA (Petry et al., 2005). While these
+structures were a step forward, they were ultimately unsatisfying because the
+resolution prevented us from obtaining definitive details of the interactions
+of the factors with the stop codon or with the peptidyl transferase center.
+
+
+
+                            50S
+
+
+
+
+                                                             A-site tRNA
+                  E-site tRNA
+
+                    P-site tRNA
+
+                                                                    30S
+
+
+
+Figure 9. The entire 70S ribosome with mRNA and tRNAs, drawn     from a Figure
+                                                              Ramakrishnan,     9
+                                                                            structure at 2.8 Å
+(Selmer et al., 2006). The short section of mRNA in this structure is barely visible in ma-
+genta because it is buried in a cleft in the 30S subunit.
+
+
+150
+
+
+   In the course of trying to crystallize a complex of elongation factor G
+(EF-G) trapped on the ribosome by fusidic acid in the post-translocational
+state after GTP hydrolysis, we obtained a new orthorhombic crystal form of the
+ribosome that initially diffracted to about 4.5 Å resolution. However, an
+initial electron density map showed no evidence for EF-G in the structure,
+and indeed, bound EF-G would clash with a neighboring ribosome in the
+crystal lattice. Nevertheless, we felt this new form was sufficiently promising to
+continue improving, and eventually obtained a structure of the whole ribo-
+some with mRNA and tRNA ligands at the surprisingly high resolution of
+2.8 Å (Selmer et al., 2006) (Figure 9). This structure provided a wealth of
+information about the interaction of the mRNA and tRNA ligands with the
+ribosome, the nature of the inter-subunit interface and the role of magne-
+sium ions in the structure. But perhaps as important as the structure itself
+was the fact that this new crystal form provided a route to determine the
+structure of the ribosome in complex with various factors. We initially used
+it to solve a structure of its complex with the ribosome recycling factor RRF
+(Weixlbaumer et al., 2007), and intermediates of the peptidyl transferase
+reaction (Voorhees et al., 2009). Both we and the Noller laboratory used this
+crystal form to determine the structure of the ribosome in complex with
+release factors RF1 and RF2 (Laurberg et al., 2008; Weixlbaumer et al., 2008;
+Korostelev et al., 2008), which shed light on translational termination. The
+same form has also been used in the study of elongation factor EF-P (Blaha
+et al., 2009) and the antibiotics viomycin and capreomycin (Stanley et al.,
+2010). Despite its general usefulness, this crystal form was not suitable for
+the study of GTPase factors bound to the ribosome, such as EF-G or EF-Tu
+because of the particular packing in the crystal lattice.
+
+
+The structure of the ribosome with GTPase factors
+A characteristic of every crystal form of the ribosome previously studied was
+that regardless of the space group or species, protein L9 from a neighbor-
+ing molecule in the lattice bound to the 30S subunit in such a way as to
+occlude the GTPase factor binding site. In the course of obtaining the high-
+resolution crystal form of the 70S ribosome described above, we learned
+that even with a stable complex like that of EF-G and fusidic acid with the
+ribosome, the L9 interaction was strong enough to displace the factor from
+the ribosome during crystallization. Thus over a period of many years, we
+were unable to obtain new crystal forms that were compatible with GTPase
+factor complexes of the ribosome as long as protein L9 was present. It
+was known that L9 was dispensable in E. coli (Lieberman et al., 2000), so it
+was reasonable to assume this would also be true for Thermus thermophilus.
+Accordingly, we used genetic methods for Thermus (Suh et al., 2005) to
+delete the gene for the portion of L9 that protruded out of the ribosome.
+Subsequently we found that not even the remaining portion of L9 was not
+present in ribosomes, so it was as though we had deleted the entire gene for
+the protein.
+
+                                                                              151
+
+
+   Our initial hope was that this mutant ribosome would still crystallize in the
+same form as our high-resolution crystals (Selmer et al., 2006) but be able to
+accommodate GTPase factors. Unfortunately, the absence of L9 prevented
+crystallization in this form. A broad screen to search for new conditions
+resulted in some hits for an EF-Tu complex with the ribosome, but these were
+not followed up because the people involved (Frank Murphy and John Weir)
+both left the laboratory.
+   Subsequently, after new crystallization trials from scratch, we obtained a
+new crystal form of the EF-G fusidic acid complex with the ribosome which
+turned out to be in very similar conditions to the original hits for the EF-Tu
+complex. These crystals diffracted to about 3.5 Å resolution and resulted in a
+structure of the post-translational complex with EF-G (Gao et al., 2009). This
+structure revealed many details about the interaction of EF-G with the ribo-
+some as well as the codon and anticodon. Because fusidic acid has very low
+affinity for isolated EF-G, the structure also directly showed how fusidic acid
+binds to EF-G and locks it in a conformation that prevents its release from
+the ribosome.
+
+
+The structure of the ribosome with EF-Tu and
+aminoacyl tRNA
+The crystallization of the EF-G-fusidic acid complex with the ribosome
+provided the incentive to pursue the original hits with the EF-Tu-tRNA-
+ribosome complex. A considerable effort at optimization of these initial
+conditions resulted in crystals of the ternary complex bound to the ribo-
+some stalled with kirromycin after GTP hydrolysis and the determination
+of its structure (Schmeing et al., 2009). The overall structures of EF-G and
+EF-Tu bound to the ribosome are shown in Figure 10. The conformation of
+the factors is similar to what had been seen previously at lower resolution by
+cryoEM.
+
+  A                    PTC
+                                                   B                            PTC
+                               50S
+                                                   50S                                L10
+                             L10-L12
+  P                                                     P                                 A/T
+ E                                                                                         EF-Tu
+                                                  E
+                                                   L1
+ L1                            EF-G
+
+
+      30S                    mRNA                       30S
+                       DC                                                           mRNA
+                                                                             DC
+
+Figure 10. The structures of the GTPases EF-G (left) and EF-Tu (right) bound to the 70S
+ribosome (Gao et al., 2009; Schmeing et al., 2009). The labels refer to the peptidyl trans-
+ferase center (PTC) and the decoding center (DC), E-site tRNA (E), P-site tRNA (P) and
+the distorted tRNA in complex with EF-Tu in the A site (A/T). The L1 and L10–L12 stalks
+are also indicated.
+                                                                 Ramakrishnan Figure 10
+
+
+152
+
+
+   The EF-Tu-tRNA complex, in conjunction with earlier studies on the 30S
+subunit, provides a more complete view of the structural basis of decoding.
+The data suggest a sequence of events by which codon recognition eventu-
+ally leads to GTP hydrolysis by EF-Tu and acceptance of the tRNA (Figure
+11) (Schmeing et al., 2009), that can be correlated with kinetic data ( Pape
+et al., 1998; Pape et al., 1999). Recognition of the codon leads to an induced
+change in the three bases A1493, A1493 and G530 (Fig. 11C), which rec-
+ognize the minor groove of the codon-anticodon helix as seen previously
+(Ogle et al., 2001) This minor groove recognition stabilizes the bent form
+of the tRNA in the complex by helping to hold the anticodon loop tightly
+in the decoding center. It also induces a closing movement of the shoulder
+towards EF-Tu, where it interacts with a highly conserved loop of EF-Tu and
+thus stabilizes the factor in an altered conformation (Fig. 11D). At the same
+time, a base stacking interaction between the shoulder and C75 on tRNA
+stabilizes an altered conformation of the aminoacyl 3′ end of the tRNA. The
+displacement of the 3′ end of tRNA disrupts its stabilizing interactions with
+the crucial switch I helix of EF-Tu, which then becomes disordered, exposing
+the GTP to hydrolysis. Upon GTP hydrolysis, EF-Tu changes conformation to
+its GDP form (Jurnak, 1985; Kjeldgaard and Nyborg, 1992; Berchtold et al.,
+1993; Kjeldgaard et al., 1993). In the GDP form, it can make very few interac-
+tions with the ribosome and also has lower affinity for the tRNA, resulting in
+its dissociation from the ribosome and the movement of the distorted tRNA
+into the peptidyl transferase center (Fig. 11E).
+        A                 50S           B       Codon Sampling        C   Codon Recognition &
+                                                                           GTPase Activation  GTP
+                                A/T tRNA                   Switch I                      Switch I H84
+                                    L7/L12
+                                             P-tRNA
+                                                                           A/T                    5
+                                                                          tRNA                        P-loop
+       P-tRNA                      EF-Tu                                                                  4
+                                                                                                        β-turn
+                                                                                                          3
+                                                      Unstrained
+        E-tRNA                                          tRNA                      A1493
+                                 mRNA             A/T tRNA
+                                                                                                      2
+             30S                                                                 A1492          16S rRNA
+                                                                                                shoulder
+                                                                          G530    1
+        D        EF-Tu Domain 1 Shift   E        Accommodation        F                     50S
+                                                                                                        L7/L12
+                                                                      P-tRNA
+
+                                                                                                      A-tRNA
+
+                                 GDP
+
+                                                                      E-tRNA
+                                                                                                      mRNA
+                                                                               30S
+
+
+Figure 11. The decoding pathway leading to tRNA selection by the ribosome. (A) The L7/
+L12 stalk recruits the complex of EF-Tu-GTP and aminoacyltRNA to a ribosome with dea-
+cylated tRNA in the E site and peptidyl-tRNA in the P site. The black frame represents the
+enlarged area in panels (B)–(E). (B) The tRNA samples codon:anticodon pairing until a
+                                               Ramakrishnan,
+match (C) is sensed, by decoding center nucleotides 530 and 1492-3Figure  11 recognition
+                                                                    . Codon
+triggers domain closure of the 30S subunit , bringing the shoulder domain into contact
+with EF-Tu, and shifting the β-loop at 230–237 of domain 2 . This changes the conforma-
+tion of the acceptor end of tRNA , disrupting its contacts with switch I, which becomes
+disordered , opening the hydrophobic gate to allow His84 to catalyze GTP hydrolysis.
+(D) GTP hydrolysis and Pi release cause domain rearrangement of EF-Tu, leading to its
+release from the ribosome and (E-F) accommodation of aminoacyl-tRNA. Reproduced
+from Schmeing et al. (2009).
+
+
+                                                                                                                 153
+
+
+Future prospects
+The success in the determination of the high-resolution structures of
+ribosomal subunits and eventually the whole ribosome was the culmination
+of decades of effort. It was done in the context of a large body of important
+work using biochemistry and genetics that provided the intellectual frame-
+work for understanding the problem. It was made possible by many technical
+developments, not least the development of synchrotron radiation sources,
+better and faster computers, better software for crystallography, and better
+hardware and software for visualization and interpretation of the structures.
+The initial structures paved the way for the structures of a number of impor-
+tant functional states which have shed light on the mechanisms of various
+aspects of translation. They have also made possible increasingly sophisti-
+cated biochemical and genetic experiments, as well as molecular dynamics
+studies.
+   Nevertheless, many important structural questions remain. In bacterial
+translation, a detailed visualization of the steps in initiation remains to be
+determined, as well as the nature of intersubunit movements that are involved
+in translocation (Moazed and Noller, 1989) and recycling. Understanding
+the interactions of the ribosome and the nascent chain with the signal
+recognition particle and the translocon will also be important. Beyond
+bacterial translation, ribosomes from eukaryotes or mitochondria remain
+more mysterious. In particular, understanding translational initiation in
+eukaryotes will benefit greatly from high-resolution structural information.
+In conjunction with other current work using a variety of techniques, these
+efforts will reveal fundamental insights into the regulation and mechanism
+of gene expression.
+
+
+Acknowledgements
+I am very grateful for the dedicated work and intellectual contributions of
+generations of talented postdocs, students and research assistants without
+whom none of the work from my laboratory would have been possible. I am
+also grateful for the supportive environment and great colleagues I have
+had at the various institutions where I have worked, including Brookhaven
+National Laboratory, the University of Utah and the MRC Laboratory of
+Molecular Biology in Cambridge. Finally, for the work described here, I
+am grateful for longstanding support from the U.S. National Institutes
+of Health and the U.K. Medical Research Council, as well as more recent
+support from the Wellcome Trust, the Agouron Institute and the Louis-
+Jeantet Foundation.
+
+
+
+
+154
+
+
+References
+1.	Allen, G. S., Zavialov, A., Gursky, R., Ehrenberg, M., and Frank, J. (2005), “The cryo-EM
+    structure of a translation initiation complex from Escherichia coli,” Cell 121,
+    703–712.
+2.	Ban, N., Freeborn, B., Nissen, P., Penczek, P., Grassucci, R. A., Sweet, R., Frank, J., Moore,
+    P. B., and Steitz, T. A. (1998), “A 9 Å resolution x-ray crystallographic map of the large
+    ribosomal subunit,” Cell 93, 1105–1115.
+3.	Ban, N., Nissen, P., Hansen, J., Moore, P. B., and Steitz, T. A. (2000), “The complete atomic
+    structure of the large ribosomal subunit at 2.4 Å resolution,” Science 289, 905–920.
+4.	Berchtold, H., Reshetnikova, L., Reiser, C. O., Schirmer, N. K., Sprinzl, M., and Hilgenfeld,
+	R. (1993), “Crystal structure of active elongation factor Tu reveals major domain
+    rearrangements,” Nature 365, 126–132.
+5.	Biou, V., Shu, F., and Ramakrishnan, V. (1995), “X-ray crystallography shows that
+    translational initiation factor IF3 consists of two compact alpha/beta domains linked
+    by an alpha-helix,” Embo J 14, 4056–4064.
+6.	Blaha, G., Stanley, R. E., and Steitz, T. A. (2009), “Formation of the first peptide bond: the
+    structure of EF-P bound to the 70S ribosome,” Science 325, 966–970.
+7.	Brodersen, D. E., Clemons, W. M., Jr., Carter, A. P., Morgan-Warren, R. J., Wimberly, B. T.,
+    and Ramakrishnan, V. (2000), “The structural basis for the action of the
+    antibiotics tetracycline, pactamycin, and hygromycin B on the 30S ribosomal
+    subunit,” Cell 103, 1143–1154.
+8.	Brodersen, D. E., Clemons, W. M., Jr., Carter, A. P., Wimberly, B. T., and Ramakrishnan,
+	V. (2002), “Crystal structure of the 30S ribosomal subunit from Thermus thermophilus:
+	Structure of the proteins and their interactions with 16S RNA,” J Mol Biol 316,
+    725–768.
+9.	Capel, M. S., Engelman, D. M., Freeborn, B. R., Kjeldgaard, M., Langer, J. A.,
+    Ramakrishnan, V., Schindler, D. G., Schneider, D. K., Schoenborn, B. P., Sillers, I.-Y.,
+    Yabuki, S., and Moore, P. B. (1987), “A complete mapping of the proteins in the small
+    ribosomal subunit of Escherichia coli,” Science 238, 1403–1406.
+10.	Carter, A. P., Clemons, W. M., Jr., Brodersen, D. E., Morgan-Warren, R. J., Hartsch,
+	T., Wimberly, B. T., and Ramakrishnan, V. (2001), “Crystal structure of an initiation
+    factor bound to the 30S ribosomal subunit,” Science 291, 498–501.
+11.	Carter, A. P., Clemons, W. M., Jr., Brodersen, D. E., Morgan-Warren, R. J., Wimberly,
+	B. T., and Ramakrishnan, V. (2000), “Functional insights from the structure of the
+    30S ribosomal subunit and its interactions with antibiotics,” Nature 407, 340–348.
+12.	Cate, J. H., Gooding, A. R., Podell, E., Zhou, K., Golden, B. L., Kundrot, C. E., Cech,
+	T. R., and Doudna, J. A. (1996), “Crystal structure of a group I ribozyme domain:
+    principles of RNA packing,” Science 273, 1678–1685.
+13.	Cate, J. H., Yusupov, M. M., Yusupova, G. Z., Earnest, T. N., and Noller, H. F. (1999),
+    “X-ray crystal structures of 70S ribosome functional complexes,” Science 285,
+    2095–2104.
+14.	Cate, J. H., and Doudna, J. A. (1996), “Metal-binding sites in the major groove of a
+    large ribozyme domain,” Structure 4, 1221–1229.
+15.	Chao, F. C. (1957), “Dissociation of macromolecular ribonucleoprotein of yeast,”
+    Arch Biochem Biophys 70, 426–431.
+16.	Clemons, W. M., Jr., Brodersen, D. E., McCutcheon, J. P., May, J. L., Carter, A. P.,
+	Morgan-Warren, R. J., Wimberly, B. T., and Ramakrishnan, V. (2001), “Crystal
+    structure of the 30S ribosomal subunit from Thermus thermophilus: purification,
+    crystallization and structure determination,” J Mol Biol 310, 827–843.
+17.	Clemons, W. M., Jr., May, J. L., Wimberly, B. T., McCutcheon, J. P., Capel, M. S., and
+	Ramakrishnan, V. (1999), “Structure of a bacterial 30S ribosomal subunit at 5.5 Å
+    resolution,” Nature 400, 833–840.
+18.	Crick, F. H. C. (1955), “On degenerate templates and the adaptor hypothesis: a note
+    for the RNA Tie Club” (unpublished).
+
+
+
+                                                                                            155
+
+
+19.	Crick, F. H. C. (1966), “Codon-anticodon pairing: the wobble hypothesis,” J Mol Biol
+    19, 548–555.
+20. Dallas, A., and Noller, H. F. (2001), “Interaction of translation initiation factor 3 with
+    the 30S ribosomal subunit,” Molecular Cell 8, 855–864.
+21. Davies, J., Gilbert, W., and Gorini, L. (1964), “Streptomycin, suppression, and the
+    code,” Proc Natl Acad Sci 51, 883–890.
+22. Diaconu, M., Kothe, U., Schlunzen, F., Fischer, N., Harms, J. M., Tonevitsky, A. G.,
+	Stark, H., Rodnina, M. V., and Wahl, M. C. (2005), “Structural basis for the
+    function of the ribosomal L7/12 stalk in factor binding and GTPase activation,”
+    Cell 121, 991–1004.
+23. Dintzis, H. M. (2006), “The wandering pathway to determining the N to C synthesis
+    of proteins,” BAMBED 34, 241–246.
+24. Dorner, S., and Barta, A. (1999), “Probing ribosome structure by europium-induced
+	RNA cleavage,” Biol Chem 380, 243–251.
+25.	Fourmy, D., Recht, M. I., Blanchard, S. C., and Puglisi, J. D. (1996), “Structure of the
+	A site of Escherichia coli 16S ribosomal RNA complexed with an aminoglycoside
+    antibiotic,” Science 274, 1367–1371.
+26.	Fourmy, D., Yoshizawa, S., and Puglisi, J. D. (1998), “Paromomycin binding induces a
+    local conformational change in the A-site of 16S rRNA,” J Mol Biol 277, 333–345.
+27.	Gao, Y. G., Selmer, M., Dunham, C. M., Weixlbaumer, A., Kelley, A. C., and
+	Ramakrishnan, V. (2009), “The structure of the ribosome with elongation factor G
+    trapped in the posttranslocational state,” Science 326, 694–699.
+28.	Hamilton, M. G., and O’Brien, T. W. (1974), “Ultracentrifugal characterization of
+    the mitochondrial ribosome and subribosomal particles of bovine liver: molecular
+    size and composition,” Biochemistry 13, 5400–5403.
+29.	Hendrickson, W. A., Horton, J. R., and LeMaster, D. M. (1990), “Selenomethionyl
+    proteins produced for analysis by multiwavelength anomalous diffraction (MAD): a
+    vehicle for direct determination of three-dimensional structure,” Embo J 9,
+    1665–1672.
+30.	Hendrickson, W. A., Smith, J. L., Phizackerley, R. P., and Merritt, E. A. (1988),
+    “Crystallographic structure analysis of lamprey hemoglobin from anomalous
+    dispersion of synchrotron radiation,” Proteins 4, 77–88.
+31.	Hirsh, D. (1971), “Tryptophan transfer RNA as the UGA suppressor,” J Mol Biol 58,
+    439–458.
+32.	Hoagland, M. (2004), “Enter transfer RNA,” Nature 431, 249.
+33.	Hoagland, M. B., Stephenson, M. L., Scott, H. F., Hecht, L. I., and Zamecnik, P. C.
+    (1958), “A soluble ribonucleic acid intermediate in protein synthesis,” J Biol Chem
+    231, 241–257.
+34.	Holley, R. W., Apgar, J., Everett, G. A., Madison, J. T., Marquisee, M., Merrill, S. H.,
+    Penswick, J. R., and Zamir, A. (1965), “Structure of a Ribonucleic Acid,” Science 147,
+    1462–1465.
+35.	Hope, H. (1988), “Cryocrystallography of biological macromolecules: A generally
+    applicable method,” Acta Crystallogr B 44, 22–26.
+36.	Hope, H., Frolow, F., von Böhlen, K., Makowski, I., Kratky, C., Halfon, Y., Danz, H.,
+    Webster, P., Bartels, K. S., Wittmann, H. G., and Yonath, A. (1989),
+    “Cryocrystallography of ribosomal particles,” Acta Crystallogr B 45, 190–199.
+37.	Hopfield, J. J. (1974), “Kinetic proofreading: a new mechanism for reducing errors in
+    biosynthetic processes requiring high specificity,” Proc Natl Acad Sci 71, 4135–4139.
+38.	Ilag, L. L., Videler, H., McKay, A. R., Sobott, F., Fucini, P., Nierhaus, K. H., and
+	Robinson, C. V. (2005), “Heptameric (L12)6/L10 rather than canonical pentameric
+    complexes are found by tandem MS of intact ribosomes from thermophilic bacteria,”
+    Proc Natl Acad Sci U S A 102, 8192–8197.
+39. Jurnak, F. (1985), “Structure of the GDP domain of EF-Tu and location of the amino
+    acids homologous to ras oncogene proteins,” Science 230, 32–36.
+40. Kim, S. H., Suddath, F. L., Quigley, G. J., McPherson, A., Sussman, J. L., Wang, A. H.,
+
+
+156
+
+
+	Seeman, N. C., and Rich, A. (1974), “Three-dimensional tertiary structure of yeast
+    phenylalanine transfer RNA,” Science 185, 435–440.
+41. Kjeldgaard, M., Nissen, P., Thirup, S., and Nyborg, J. (1993), “The crystal structure
+    of elongation factor EF-Tu from Thermus aquaticus in the GTP conformation,”
+    Structure 1, 35–50.
+42. Kjeldgaard, M., and Nyborg, J. (1992), “Refined structure of elongation factor EF-Tu
+    from Escherichia coli,” J Mol Biol 223, 721–742.
+43. Korostelev, A., Asahara, H., Lancaster, L., Laurberg, M., Hirschi, A., Zhu, J.,
+	Trakhanov, S., Scott, W. G., and Noller, H. F. (2008), “Crystal structure of a translation
+    termination complex formed with release factor RF2,” Proc Natl Acad Sci U S A 105,
+    19684–19689.
+44.	Lata, K. R., Agrawal, R. K., Penczek, P., Grassucci, R., Zhu, J., and Frank, J. (1996),
+    “Three-dimensional reconstruction of the Escherichia coli 30S ribosomal subunit in
+    ice,” J Mol Biol 262, 43–52.
+45.	Laurberg, M., Asahara, H., Korostelev, A., Zhu, J., Trakhanov, S., and Noller, H. F.
+    (2008), “Structural basis for translation termination on the 70S ribosome,” Nature
+    454, 852–857.
+46.	Lieberman, K. R., Firpo, M. A., Herr, A. J., Nguyenle, T., Atkins, J. F., Gesteland, R. F.,
+    and Noller, H. F. (2000), “The 23 S rRNA environment of ribosomal protein L9 in the
+    50 S ribosomal subunit,” J Mol Biol 297, 1129–1143.
+47.	Lindahl, M., Svensson, L. A., Liljas, A., Sedelnikova, S. E., Eliseikina, I. A.,
+	Fomenkova, N. P., Nevskaya, N., Nikonov, S. V., Garber, M. B., Muranova, T. A.,
+	Rykonova, A. I., and Amons, R. (1994), “Crystal structure of the ribosomal protein S6
+    from Thermus thermophilus,” Embo J 13, 1249–1254.
+48.	Liu, Y., Ogata, C. M., and Hendrickson, W. A. (2001), “Multiwavelength anomalous
+    diffraction analysis at the M absorption edges of uranium,” Proc Natl Acad Sci U S A 98,
+    10648–10653.
+49.	McCutcheon, J. P., Agrawal, R. K., Philips, S. M., Grassucci, R. A., Gerchman, S. E.,
+	Clemons, W. M., Jr., Ramakrishnan, V., and Frank, J. (1999), “Location of translation
+    al initiation factor IF3 on the small ribosomal subunit,” Proc Natl Acad Sci 96, 4301–
+    4306.
+50.	Moazed, D., and Noller, H. F. (1989), “Intermediate states in the movement of transfer
+	RNA in the ribosome,” Nature 342, 142–148.
+51.	Nikulin, A., Eliseikina, I., Tishchenko, S., Nevskaya, N., Davydova, N., Platonova, O.,
+    Piendl, W., Selmer, M., Liljas, A., Drygin, D., Zimmermann, R., Garber, M., and
+	Nikonov, S. (2003), “Structure of the L1 protuberance in the ribosome,” Nat Struct
+    Biol. 10, 104–108.
+52.	Ninio, J. (1975), “Kinetic amplification of enzyme discrimination,” Biochimie 57,
+    587–595.
+53.	Nissen, P., Hansen, J., Ban, N., Moore, P. B., and Steitz, T. A. (2000), “The structural
+    basis of ribosome activity in peptide bond synthesis,” Science 289, 920–930.
+54.	Nomura, M., Tissières, A., and Lengyel, P. (1974), Ribosomes (New York: Cold Spring
+	Harbor Monograph Series).
+55.	Ogle, J. M., Brodersen, D. E., Clemons, W. M., Jr., Tarry, M. J., Carter, A. P., and
+	Ramakrishnan, V. (2001), “Recognition of cognate transfer RNA by the 30S
+    ribosomal subunit,” Science 292, 897–902.
+56.	Ogle, J. M., Carter, A. P., and Ramakrishnan, V. (2003), “Insights into the decoding
+    mechanism from recent ribosome structures,” Trends Biochem Sci 28, 259–266.
+57.	Ogle, J. M., Murphy, F. V., Tarry, M. J., and Ramakrishnan, V. (2002), “Selection of
+    tRNA by the ribosome requires a transition from an open to a closed form,” Cell 111,
+    721–732.
+58.	Ogle, J. M., and Ramakrishnan, V. (2005), “Structural Insights into Translational
+	Fidelity,” Ann Rev Biochem 74, 129–177.
+59. Palade, G. E., and Siekevitz, P. (1956), “Pancreatic microsomes; an integrated
+    morphological and biochemical study,” J Biophys Biochem Cytol 2, 671–690.
+
+
+                                                                                          157
+
+
+60. Pape, T., Wintermeyer, W., and Rodnina, M. (1999), “Induced fit in initial selection
+    and proofreading of aminoacyl-tRNA on the ribosome,” Embo J 18, 3800–3807.
+61. Pape, T., Wintermeyer, W., and Rodnina, M. V. (1998), “Complete kinetic mechanism
+    of elongation factor Tu-dependent binding of aminoacyl-tRNA to the A site of the E.
+    coli ribosome,” Embo J 17, 7490–7497.
+62. Pape, T., Wintermeyer, W., and Rodnina, M. V. (2000), “Conformational switch in
+    the decoding region of 16S rRNA during aminoacyl-tRNA selection on the
+    ribosome,” Nat Struct Biol 7, 104–107.
+63. Petry, S., Brodersen, D. E., Murphy, F. V. t., Dunham, C. M., Selmer, M., Tarry, M. J.,
+    Kelley, A. C., and Ramakrishnan, V. (2005), “Crystal structures of the ribosome in
+    complex with release factors RF1 and RF2 bound to a cognate stop codon,” Cell 123,
+    1255–1266.
+64. Phillips, J. C., and Hodgson, K. O. (1980), “The use of anomalous scattering effects to
+    phase diffraction patterns from macromolecules,” Acta Cryst A36, 856–864.
+65. Pioletti, M., Schlunzen, F., Harms, J., Zarivach, R., Gluhmann, M., Avila, H., Bashan,
+	A., Bartels, H., Auerbach, T., Jacobi, C., Hartsch, T., Yonath, A., and Franceschi,
+	F. (2001), “Crystal structures of complexes of the small ribosomal subunit with
+    tetracycline, edeine and IF3,” Embo J 20, 1829–1839.
+66. Powers, T., and Noller, H. F. (1995), “Hydroxyl radical footprinting of ribosomal
+    proteins on 16S rRNA,” RNA 1, 194–209.
+67.	Ramakrishnan, V., and Biou, V. (1997), “Treatment of multiwavelength anomalous
+    diffraction data as a special case of multiple isomorphous replacement,” In Meth
+    Enzymol, Carter, C. W., Jr., and R. M. Sweet, eds. (New York: Academic Press),
+    pp. 538–557.
+68.	Ramakrishnan, V., Finch, J. T., Graziano, V., Lee, P. L., and Sweet, R. M. (1993),
+    “Crystal structure of globular domain of histone H5 and its implications for
+    nucleosome binding,” Nature 362, 219–223.
+69.	Ramakrishnan, V., and Gerchman, S. E. (1991), “Cloning, sequencing and
+    overexpression of genes for ribosomal proteins from Bacillus stearothermophilus,” J Biol
+    Chem 266, 880–885.
+70. Ramakrishnan, V., Graziano, V., and Capel, M. S. (1986), “A role for proteins S3 and
+	S14 in the 30S ribosomal subunit,” J Biol Chem 261, 15049–15052.
+71.	Ramakrishnan, V., and White, S. W. (1998), “Ribosomal protein structures: insights
+    into the architecture, machinery and evolution of the ribosome,” Trends Biochem Sci
+    23, 208–212.
+72.	Robertus, J. D., Ladner, J. E., Finch, J. T., Rhodes, D., Brown, R. S., Clark, B. F., and
+    Klug, A. (1974), “Structure of yeast phenylalanine tRNA at 3 Å resolution,” Nature
+    250, 546–551.
+73.	Ruusala, T., Ehrenberg, M., and Kurland, C. G. (1982), “Is there proofreading during
+    polypeptide synthesis?” Embo J 1, 741–745.
+74.	Schluenzen, F., Tocilj, A., Zarivach, R., Harms, J., Gluehmann, M., Janell, D., Bashan,
+	A., Bartels, H., Agmon, I., Franceschi, F., and Yonath, A. (2000), “Structure of
+    functionally activated small ribosomal subunit at 3.3 angstroms resolution,” Cell 102,
+    615–623.
+75.	Schmeing, T. M., Voorhees, R. M., Kelley, A. C., Gao, Y. G., Murphy, F. V. t., Weir, J. R.,
+    and Ramakrishnan, V. (2009), “The crystal structure of the ribosome bound to EF-Tu
+    and aminoacyl-tRNA,” Science 326, 688–694.
+76.	Schuette, J. C., Murphy, F. V. t., Kelley, A. C., Weir, J. R., Giesebrecht, J., Connell, S.
+	R., Loerke, J., Mielke, T., Zhang, W., Penczek, P. A., Ramakrishnan, V., and Spahn, C.
+	M. (2009), “GTPase activation of elongation factor EF-Tu by the ribosome during
+    decoding,” Embo J 28, 755–765.
+77.	Schuwirth, B. S., Borovinskaya, M. A., Hau, C. W., Zhang, W., Vila-Sanjurjo, A.,
+	Holton, J. M., and Cate, J. H. (2005), “Structures of the bacterial ribosome at 3.5 A
+    resolution,” Science 310, 827–834.
+78.	Selmer, M., Dunham, C. M., Murphy, F. V. t., Weixlbaumer, A., Petry, S., Kelley, A. C.,
+
+
+158
+
+
+    Weir, J. R., and Ramakrishnan, V. (2006), “Structure of the 70S ribosome complexed
+    with mRNA and tRNA,” Science 313, 1935–1942.
+79.	Stanley, R. E., Blaha, G., Grodzicki, R. L., Strickler, M. D., and Steitz, T. A. (2010),
+    “The structures of the anti-tuberculosis antibiotics viomycin and capreomycin bound
+    to the 70S ribosome,” Nat Struct Mol Biol
+80.	Stark, H., Rodnina, M. V., Rinke-Appel, J., Brimacombe, R., Wintermeyer, W., and van
+	Heel, M. (1997), “Visualization of elongation factor Tu on the Escherichia coli
+    ribosome,” Nature 389, 403–406.
+81.	Stark, H., Rodnina, M. V., Wieden, H. J., Zemlin, F., Wintermeyer, W., and Van Heel,
+	M. (2002), “Ribosome interactions of aminoacyl-tRNA and elongation factor Tu in
+    the codon-recognition complex,” Nat Struct Biol 9, 849–854.
+82.	Stern, S., Powers, T., Changchien, L. M., and Noller, H. F. (1989), “RNA-protein
+    interactions in 30S ribosomal subunits: folding and function of 16S rRNA,” Science
+    244, 783–790.
+83.	Studier, F. W., Rosenberg, A. H., Dunn, J. J., and Dubendorff, J. W. (1990), “Use of T7
+	RNA polymerase to direct expression of cloned genes,” Meth Enzymol 185, 61–89.
+84.	Sugimoto, N., Kierzek, R., Freier, S. M., and Turner, D. H. (1986), “Energetics of
+    internal GU mismatches in ribooligonucleotide helixes,” Biochemistry 25, 5755–5759.
+85.	Suh, M. J., Hamburg, D. M., Gregory, S. T., Dahlberg, A. E., and Limbach, P. A.
+    (2005), “Extending ribosomal protein identifications to unsequenced bacterial
+    strains using matrix-assisted laser desorption/ionization mass spectrometry,”
+    Proteomics 5, 4818–4831.
+86.	Thompson, R. C., and Stone, P. J. (1977),” Proofreading of the codon-anticodon
+    interaction on ribosomes,” Proc Natl Acad Sci 74, 198–202.
+87.	Thygesen, J., Weinstein, S., Franceschi, F., and Yonath, A. (1996), “The suitability of
+    multi-metal clusters for phasing in crystallography of large macromolecular
+    assemblies,” Structure 4, 513–518.
+88.	Tissières, A., and Watson, J. D. (1958), “Ribonucleoprotein particles from Escherichia
+    coli,” Nature 182, 778–780.
+89.	Trakhanov, S. D., Yusupov, M. M., Agalarov, S. C., Garber, M. B., Ryazantsev, S. N.,
+	Tischenko, S. V., and Shirokov, V. A. (1987), “Crystallization of 70 S ribosomes and
+    30S ribosomal subunits from Thermus thermophilus,” FEBS Lett 220, 319–322.
+90. Unwin, P. N., and Taddei, C. (1977), “Packing of ribosomes in crystals from the lizard
+	Lacerta sicula,” J Mol Biol 114, 491–506.
+91.	Valle, M., Sengupta, J., Swami, N. K., Grassucci, R. A., Burkhardt, N., Nierhaus, K. H.,
+	Agrawal, R. K., and Frank, J. (2002), “Cryo-EM reveals an active role for
+    aminoacyl-tRNA in the accommodation process,” Embo J 21, 3557–3567.
+92.	Valle, M., Zavialov, A., Li, W., Stagg, S. M., Sengupta, J., Nielsen, R. C., Nissen, P.,
+	Harvey, S. C., Ehrenberg, M., and Frank, J. (2003), “Incorporation of aminoa-
+    cyltRNA into the ribosome as seen by cryo-electron microscopy,” Nat Struct Biol 10,
+    899–906.
+93.	Villa, E., Sengupta, J., Trabuco, L. G., LeBarron, J., Baxter, W. T., Shaikh, T. R.,
+	Grassucci, R. A., Nissen, P., Ehrenberg, M., Schulten, K., and Frank, J. (2009),
+    “Ribosome-induced changes in elongation factor Tu conformation control GTP
+    hydrolysis,” Proc Natl Acad Sci U S A 106, 1063–1068.
+94. von Böhlen, K., Makowski, I., Hansen, H. A. S., Bartels, H., Berkovitch-Yellin,
+    Z., Zaytzev-Bashan, A., Meyer, S., Paulke, C., Franceschi, F., and Yonath, A. (1991),
+    “Characterization and preliminary attempts for derivatization of crystals of large
+    ribosomal subunits from Haloarcula marismortui diffracting to 3 Å resolution,” J Mol
+    Biol 222, 11–15.
+95.	Voorhees, R. M., Weixlbaumer, A., Loakes, D., Kelley, A. C., and Ramakrishnan,
+	V. (2009), “Insights into substrate stabilization from snapshots of the peptidyl
+    transferase center of the intact 70S ribosome,” Nat Struct Mol Biol 16, 528–533.
+96. Weis, W. I., Kahn, R., Fourme, R., Drickamer, K., and Hendrickson, W. A. (1991),
+
+
+                                                                                       159
+
+
+     “Structure of the calcium-dependent lectin domain from a rat mannose-binding
+     protein determined by MAD phasing,” Science 254, 1608–1615.
+97. Weixlbaumer, A., Jin, H., Neubauer, C., Voorhees, R. M., Petry, S., Kelley, A. C., and
+	Ramakrishnan, V. (2008), “Insights into translational termination from the structure
+     of RF2 bound to the ribosome,” Science 322, 953–956.
+98. Weixlbaumer, A., Petry, S., Dunham, C. M., Selmer, M., Kelley, A. C., and
+	Ramakrishnan, V. (2007), “Crystal structure of the ribosome recycling factor bound
+     to the ribosome,” Nat Struct Mol Biol 14, 733–737.
+99. Wimberly, B. T., Brodersen, D. E., Clemons, W. M., Jr., Morgan-Warren, R. J., Carter,
+	A. P., Vonrhein, C., Hartsch, T., and Ramakrishnan, V. (2000), “Structure of the 30S
+     ribosomal subunit,” Nature 407, 327–339.
+100. Yarus, M., and Smith, D. (1995), “tRNA on the ribosome: a waggle theory,” in
+     tRNA: Structure, biosynthesis and function, Söll, D., and U. RajBhandary, eds.
+     (Washington: American Society for Microbiology Press), pp. 443–468.
+101. Yonath, A., Glotz, C., Gewitz, H. S., Bartels, K. S., von Böhlen, K., Makowski, L., and
+     Wittmann, H. G. (1988), “Characterization of crystals of small ribosomal subunits,” J
+     Mol Biol 203, 831–834.
+102. Yonath, A., Mussig, J., Tesche, B., Lorenz, S., Erdmann, V. A., and Wittmann, H. G.
+     (1980), “Crystallization of the large ribosomal subunits from Bacillus stearothermophilus,”
+     Biochem Int 1, 428–435.
+103. Yusupov, M. M., Trakhanov, S. D., Barynin, V. V., Borovyagin, V. L., Garber, M. B.,
+	Sedelnikova, O. M., Tishchenko, S. V., and Shirokov, V. A. (1987), “Crystallization of
+     30S ribosomal subunits from T. thermophilus,” Dokl Akad Nauk USSR 292, 1271–1274.
+104. Yusupov, M. M., Yusupova, G. Z., Baucom, A., Lieberman, K., Earnest, T. N., Cate, J.
+	H., and Noller, H. F. (2001), “Crystal structure of the ribosome at 5.5 A resolution,”
+     Science 292, 883–896.
+Portrait photo of Dr. Ramakrishnan by photographer Ulla Montan.
+
+
+
+
+160
+

@@ -1,0 +1,1528 @@
+RECOVERING PHASE INFORMATION FROM
+INTENSITY DATA
+
+Nobel lecture, 9 December, 1985
+
+by
+JEROME KARLE
+
+Laboratory for the Structure of Matter, Naval Research Laboratory, Washing-
+ton, D. C. 20375-5000, U.S.A.
+
+
+
+
+The concept of a crystal is that of a solid body in which the atomic or molecular
+units are so arranged as to form an array having three dimensional periodicity.
+Because of the periodicity, it is possible to describe the arrangements of the
+atomic composition by means of Fourier series. The type of Fourier series that
+is used in crystal structure analysis represents the electron density distribution
+in a crystal. This is indeed equivalent to representing the structure of a crystal
+since the atomic locations are represented by the regions of highest electron
+density in the electron distributions.
+   The experimental technique used for examining the structure of crystals is
+called diffraction. In a diffraction experiment, rays are made to impinge on a
+crystalline substance of interest and, given the proper geometric conditions, the
+rays are scattered as if they were bouncing off large numbers of different planes
+imagined to be cutting through the crystal. The collected intensities of scatter-
+ing (often 5000-10000 in number) are called a scattering pattern or diffraction
+pattern and comprise the experimental data from which the structure of the
+crystal of interest is to be elucidated. The most commonly used rays are
+Roentgen rays or X-rays, as they are usually called. Other rays, composed of
+neutrons or electrons, also have their purposes.
+   It is possible to obtain an insight into the character and sense of a diffraction
+experiment by imagining some experimental circumstances on the macroscopic
+scale. Let us suppose that we would like to probe the shape of some large
+object, hidden from view, by using balls that are hurled in a precise way at the
+object of interest and interact with the surface with essentially perfect restitu-
+tion. Let us also suppose that it is possible to minimize and correct for the
+gravitational effects on the impinging balls. We assume that we can observe the
+results of the bouncing of the balls from the surface of the object. If a large area
+were scanned perpendicular to the direction in which the balls were hurled and
+each time the bouncing pattern were essentially parallel but in the opposite
+direction to that of the impinging balls, we would conclude that the object had
+a face with a high degree of flatness that was perpendicular to the direction of
+the impinging balls. Evidently, by varying the orientation of an arbitrarily
+
+
+                                      J.Karle                                    219
+
+
+shaped object and observing the patterns of the bouncing balls or, equivalently,
+the scattering pattern, knowledge of the shape of the object could be developed
+in quite some detail. On the submicroscopic scale, the situation is somewhat
+different. Crystals are quite porous to X-rays and the interactions between the
+rays and the atomic composition of the crystal are different than that of a bail
+bouncing off a surface such that, as noted, certain geometric conditions need to
+be fulfilled before it appears that reflection of the rays has taken place. The
+nature of the interactions is understood, however, and the relevance of the
+comparison with the macroscopic thought experiment involving bouncing balls
+maintains. In the case of X-rays and a crystal, the X-rays replace the bouncing
+balls and the way the X-rays interact with electron density distributions within
+the crystal gives rise to a scattering pattern unique to each crystalline sub-
+stance. The problem that the analyst faces is to be able to take the diffraction
+pattern and from it determine the atomic architecture of the crystal which
+cannot be observed directly.
+    There is a special problem in taking the intensity information from a diffrac-
+tion pattern and calculating from it the electron density distribution of a crystal
+by use of the Fourier series. The coefficients in the Fourier series are, in general,
+complex numbers. Only the magnitudes of the complex numbers appear to be
+available from the measured intensities of scattering. The required phases of
+ the complex numbers seem to be lost in an ordinary X-ray diffraction experi-
+ ment. It was therefore generally thought that it was not possible to go directly
+from a diffraction pattern to a determination of a crystal structure. The impasse
+ was overcome in a series of steps that involved recognition that the required
+ phase information was contained in the experimental intensity information, the
+derivation of a foundation mathematics that displayed relationships between
+ phases and magnitudes and even among phases alone and, finally, the develop-
+ ment of practical procedures for structure determination, strategies that
+ brought together in a more or less optimal fashion the mathematical relation-
+ ships with suitably adjusted and refined experimental data.
+    The results of structure determinations have been playing a valuable role in
+ a number of areas of scientific endeavor. Crystallization, for example, is a very
+ common phenomenon and many types of substances form crystals ranging
+ from metals and minerals to huge macromolecules such as viruses. Knowledge
+ of structure allows one to relate structure to function, i.e., understand physical,
+ chemical or biological properties and activities, provides the chemist with
+ useful information for syntheses, modifications and reaction mechanisms and
+ can also be used to identify very small quantities of scarce material. It often
+ provides the theoretical chemist with a starting point for his calculations.
+ Structural research provides a conceptual basis for many associated scientific
+ disciplines and it is the opportunity to interact with a variety of such disciplines
+ that has made structural research particularly appealing to me.
+    As this article proceeds, it will elaborate on a number of the items discussed
+ in this introductory part, describe some interesting applications and discuss
+ briefly some research paths and opportunities for the future.
+
+
+220                                      Chemistry 1985
+
+
+ELECTRON DENSITY DISTRIBUTION
+The electron density distribution,                 is expressed in terms of the three-
+dimensional Fourier series
+
+
+
+
+where V is the volume of the unit cell of the crystal, the basic structural unit
+from which, through three-dimensional periodicity, the crystal is formed. The
+coefficients
+
+
+
+
+are the crystal structure factors associated with the planes labeled with the
+vectors h. The h have integer components, h, k, and 1, the Miller indices, whose
+values are inversely proportional to the intercepts on the x, y and z axes,
+respectively, of planes cutting through the crystal. The angle          is the phase
+associated with Fh and r labels the position of any point in the unit cell. FhE is
+the amplitude of the scattered wave associated with the plane labeled by h ,
+where E is the electric field vector of the incident beam. The measured
+intensities of X-ray scattering are proportional to |Fh| 2 . If the values of the
+were also obtained directly from experiment, structures could be immediately
+calculated from (1). The seeming absence of this information gave rise to the
+so-called “phase problem”.
+
+
+
+
+where f jh represents the amplitude of scattering of the jth atom in the unit cell
+and rj is its position vector.
+
+OVERDETERMINACY
+A system of simultaneous equations is formed by the definition of the crystal
+structure factors given by (3) since the values of the scattered intensities are
+measured for a large number of h. The unknown quantities in (3) are the
+phases       and the atomic positions rj. T h e k n o w n q u a n t i t i e s a r e t h e | Fh|
+obtained from the measured intensities and the f jh which differ little from the
+theoretically calculated atomic scattering factors for free atoms. Since each
+equation in (3) involves complex quantities, there are really two equations, one
+for the real and one for the imaginary part. In order to determine the overdeter-
+minacy, a comparison is made of the number of unknown quantities with the
+number of independent data available. With the use of                        radiation, the
+overdeterminacy can be as great as a factor of about 50 for crystals that have a
+
+
+center of symmetry and about 25 for those that do not. In practice, somewhat
+fewer than the maximum available data are measured, but the overdetermin-
+acy is still quite high.
+
+SOME ATTEMPTS, SOME SUCCESSES
+There were some early attempts to obtain structural information or phase
+information from the structure factor equations. Ott [1] made use of the
+structure factor equations (3) to derive relationships among the structure
+factors and atomic positions and he showed that in some simple cases atomic
+coordinates could be obtained directly from the relationships. Banerjee [2]
+devised a trial and error self-consistency routine based on Ott’s results for
+finding the phases of structure factors that are centric and therefore with phases
+that have values that are limited to zero or π. The number of trials increased
+rapidly with complexity limiting applications to rather simple structures. Av-
+rami [3] worked with equations that relate intensities to interatomic vectors
+(4). Solutions to these equations were given in terms of the roots of a polyno-
+minal equation whose degree increases rapidly as the complexity of the crystal
+increases. In all these approaches, the increase in computational demands with
+complexity, sensitivity to experimental errors, and inherent ambiguities in the
+results prevented their application to any but the simplest structures. Even
+though present day computational facility is enormously greater than when this
+work was done originally, the limitations cannot be suitably overcome even
+now.
+   A significant advance in the attempt to obtain structural information from
+the measured intensities was made in 1934 by A. L. Patterson. He developed a
+Fourier series which has as its coefficients the magnitude of the square of the
+structure factors rather than the structure factors themselves. The phases may
+be eliminated from (3) by multiplying by the corresponding complex conju-
+gates to obtain
+
+
+                                                                               (4)
+
+
+The Fourier transform of (4) is known as the Patterson function [4,5]
+
+
+
+
+The maxima of a Patterson function represent the interatomic vectors in a
+structure. Evidently the values of the coefficients are directly obtainable from
+the measured intensities of scattering. This function has been very useful in
+locating the heavier atoms in a structure, if they are not too numerous, since the
+interatomic vectors associated with them would predominate in a map comput-
+ed from (5) and the atomic positions for them could then be readily deduced.
+The coordinates for the heavy atoms may be used with (3) to compute an initial
+set of approximate phases. Depending upon the scattering power of the heavy
+
+
+222                                 Chemistry 1985
+
+
+atoms, such a computation may be suitable for structures containing up to a
+few hundred atoms. There are numerous procedures for developing a complete
+structure from the initial phase information obtained from the heavy atoms.
+The use of the Patterson function with structures containing heavy atoms has
+found widespread application and remains one of the major methods of crystal
+structure determination.
+   The difficulty with using the Patterson function with experimental data in a
+general way in the absence of heavy atoms arises from the lack of resolution
+that occurs for the N(N-1) interatomic vectors as well as inaccuracies. The
+Patterson function becomes somewhat accessible when it is used in combina-
+tion with known atomic groupings [6-8].
+   The fact that the Patterson function could be used to solve simple structures
+made a positive contribution to the background atmosphere in which progress
+in phase determination was made. Once a structure was solved, it was possible
+to use (3) to calculate values for the phases. In effect then, phase values were
+determined from the measured intensities. In the case of the Patterson function,
+this happened through the intermediary step of first determining the structure.
+It was, however, conceivable that the process could be reversed, namely, to
+obtain phase information directly from the intensities and from that compute
+the structure by use of (1). This is indeed what happened. So far, except for
+special cases involving heavy atoms, it has turned out to be easier to obtain
+phase values directly from the measured intensities and then compute the
+structure than to obtain the structure directly from the intensities without the
+use of phases.
+   Relationships between phases and magnitudes that anticipated the later
+developments were the inequalities of Harker and Kasper [9]. They derived a
+number of inequalities by application of the Schwarz and Cauchy inequalities
+to the structure factor equations (3) in the presence of crystallographic symme-
+try. The Harker-Kasper inequalities have provided valuable insights. For
+example, the simple inequality formulas can provide useful phase information
+as shown by Kasper, Lucht and Harker [10] in their solution of the structure of
+decaborane. In addition, work with the inequalities indicated that they may
+have probabilistic characteristics. Gillis [11], for example, noted that the
+implication of an inequality was probably correct even when the magnitudes of
+the structure factors were too small to permit a definitive conclusion to be
+drawn. Gillis speculated that the smallness of the structure factor magnitudes
+may have been due to thermal effects and employed an appropriate function to
+increase the values of the structure factor magnitudes so that the inequalities
+could be applied. The probabilistic interpretation, however, remained a possi-
+ble alternative, namely, that although an inequality does not quite determine
+the value of a phase definitively, it still does so with a high probability that the
+value is correct. This could be important because it would imply that the
+inequalities have probabilistic implications that could extend their range of
+usefulness.
+
+
+                                              J. Karle                                            223
+
+
+
+
+                                                           A C-F,
+
+
+
+
+Fig. 2. The essentially non-negative radial distribution function (solid curve) for           comput-
+ed from the experimental molecular intensity data extracted by use of a properly formed back-
+ground intensity curve. The solid curve is a probability density that gives the probability of finding
+interatomic distances in some distance interval along the horizontal axis. The dashed lines
+represent the decomposition of the main peaks into their component individual interatomic
+distances. The individual peaks have a definite width related to the internal vibrations in the
+molecule.
+
+
+
+
+NON-NEGATIVITY AND GENERAL INEQUALITIES
+The initial motivation to investigate the mathematics of crystal structure
+determination arose from experiences in the development of an analytical
+procedure for obtaining accurate radial distribution functions for determining
+the structures of gaseous molecules by electron diffraction. A problem arose,
+namely, to find an accurate background intensity so that the molecular interfer-
+ence intensity could be accurately extracted from the total intensity of scatter-
+ing. The Fourier transform of the molecular intensity can be interpreted as
+representing the probability of finding interatomic distances in a molecule.
+Therefore, this transform must be non-negative and the non-negativity im-
+posed a very useful constraint on the shape of the background intensity [12,13].
+Figure 1 shows a radial distribution function for             [14] derived from
+application of the non-negativity constraint and the component distances in the
+molecule. The attendant accuracy of the result permitted not only equilibrium
+interatomic distances to be determined but also estimates of the root-mean-
+square amplitudes of vibration associated with the interatomic distances.
+   At about the time this work in gas electron diffraction was proceeding,
+Herbert Hauptman joined our group at the Naval Research Laboratory and, in
+view of the success of the non-negativity criterion, we decided to explore the
+
+
+224                                Chemistry 1985
+
+
+possibility that this criterion might be useful in other areas of structural
+research. This led us to investigate the determination of electron density
+distributions around free atoms [15] which found a very tine application in the
+determination of the electron distribution about argon by Bartell and Brock-
+way [16].
+   We were also quite interested in seeing what the consequences of the applica-
+tion of non-negativity would be for crystal structure analysis since the electron
+density distribution defined in (1) is constrained not to be negative. This
+brought in the work of Toeplitz [17] early in this century on non-negative
+Fourier series and subsequent development by others. We discussed the theory
+in three-dimensions and wrote it in a form that would have particular relevance
+to crystallographic data.
+
+
+                                                                                                   225
+
+
+
+
+Fig. 2. The determinantal inequalities can be written in the general form                  r. This means
+that Fh is bounded by a circle of radius r in the complex plane centered at 6. If |Fh| is known, then Fh
+is confined to a line within the circle.
+
+
+
+
+One evident conclusion from (9) is
+
+
+
+
+This states that for large structure factor magnitudes, the value of      may be
+defined in terms of the values of two other phases. This may also be seen from a
+construction based on (8), Fig. 2, in which                  and r is equal to the
+right side of (8). The form for (8) is then
+
+                                                                                                   (11)
+
+It can be readily shown [18] that all determinants (6) can be written in the
+form (11). As the order of the determinants increases, there is a tendency for r
+to decrease in size, making the determination of       rather definitive.
+   Formula (10) has found wide application beyond the range of usefulness of
+(8). This is because of the probabilistic characteristics of the inequalities [19]
+which imply that the most likely value of            is that of           and the
+probability decreases the farther the value of    deviates from that of
+Therefore, even when the radius, r, of the bounding circle is large, the most
+likely value of    is
+   The structure factors in (6) can be replaced by quasi-normalized structure
+
+
+226                               Chemistry 1985
+
+
+factors,   that represent point atoms (to an approximation when atoms of
+unequal atomic number are present) rather than atoms with electron distribu-
+tions,
+
+
+
+
+Structure factors representing point atoms are the type of quantity normally
+used in phase-determining procedures. Instead of (9), we have
+
+
+
+
+For centrosymmetric crystals, we have
+
+
+
+
+where s means "sign of" a plus sign implying that the phase is equal to zero and
+a minus sign that it is equal to π. A one-term tangent formula also follows from
+(13),
+
+                                                                            (15)
+
+
+
+The tangent formula composed of the sum of terms over k both in the numera-.
+tor and the denominator is another formula that has played a major role in the
+practical applications of the theory for structure determination.
+   After the set of determinantal inequalities (6) were obtained on the basis of
+the non-negativity of the electron density distribution in a crystal, it was of
+interest to investigate their relationship to the inequalities derived by Harker
+and Kasper [10] from use of the Schwarz and Cauchy inequalities. It was
+shown [18] that, when the appropriate symmetry was introduced into the third
+order determinantal inequality by means of certain relationships among the
+structure factors, the Harker-Kasper inequalities could be derived. Examina-
+tion of the derivation of the Harker-Kasper inequalities shows, as would be
+expected, that the non-negativity of the electron density distribution is a
+requirement for their validity.
+   The variety of phase determining formulas contained within the determinan-
+tal inequalities (6) have their counterpart in probability theory, i.e., similar
+formulas can be derived with the use of probability theory. Their virtue is that
+measures of reliability can be attached to them and the judicious use of such
+measures was an important feature in bridging the gap between mathematical
+theory and practical application.
+   It had been pointed out that the determinants have inherent probabilistic
+characteristics [19] that can, in fact, be directly read out from the form (11).
+T h i s was not, however, how the first probability formulas were derived. The
+pursuit of such formulas was motivated by the expectation that the usefulness
+
+
+                                      J.Karle                                     227
+
+
+of the formulas from the inequalities could be extended because of the great
+overdeterminancy of the structure problem, the expectation that the points
+within the bounding circle of radius r and center δ, Fig. 2, would not be
+uniformly probable and the experience of Gillis [11] with structure factor
+magnitudes that were too small to elicit definitive conclusions from the inequal-
+ities but which, when made larger artificially, led to correct conclusions.
+   In order to characterize the probabilistic aspects of this subject, we initially
+decided to develop a facility in the use of the random walk [20], but subse-
+quently changed to the joint probability distribution [21,22] which culminated
+in a monograph [23] that contained, for the first time, a set of probabilistic
+formulas and measures for attacking the phase problem, in this case limited to
+crystals that have a center of symmetry. It was in the monograph [23] also that
+the theory of invariants and semi-invariants was introduced for the purpose of
+solving the problem concerning how many and what types of phases to specify
+to fix the origin in a crystal and what values are permitted. The practical
+aspects of solving crystals that lack a center of symmetry were developed later
+on and it was not until 1964 that the structure of the first crystal lacking a
+center of symmetry was solved [24] by the “direct method” for obtaining phase
+information by direct use of the measured intensities of scattering. It is interest-
+ing that fairly recent developments in the mathematics of the random walk
+have made this technique quite accurate, stimulating revived interest in its
+application to the probabilistic aspects of phase determining formulas [25].
+
+FORMULAS FOR PHASE DETERMINATION
+The main formulas for phase determination are now listed. They will suffice to
+characterize the nature of the phase determining procedures. There are addi-
+tional formulas that play a variety of helpful roles and may be found in the
+referenced literature of this article.
+
+Centrosymmetric crystals
+The      formula is [23],
+
+
+
+
+where s means the "sign of" and k r, represents restricted values of k for which
+the corresponding |E k| and |E h-k |( values are large. A plus sign refers to a phase
+of zero and a minus sign to a phase of π, the only two values possible for a
+centrosymmetric crystal when an origin in the crystal is properly chosen. The
+quantities, E, are normalized structure factors which arise as appropriate
+quantities to use with probability theory and are the same as the quasi-
+normalized structure factors, ε, except for a reweighting [26] of certain subsets
+of the E. The treatment of the intensity data to obtain normalized structure
+factors [27] arises from the work of Wilson’ [28,29], the earliest application of
+probability methods to crystal structure analysis. Formula (16) is the probabil-
+ity equivalent of the set of inequalities (8) as k varies over the set k r. T h e
+appropriate probability function, P+(h), which represents the probability that
+
+
+228                                Chemistry 1985
+
+
+the sign of Eh be positive, was given in the monograph [23]. It is conveniently
+applied in the form derived by use of the central limit theorem by Woolfson
+[30] and Cochran and Woolfson [31]
+
+
+
+
+where
+
+                                                                            (18)
+
+
+and Zj is the atomic number of the jth atom in the unit cell containing N atoms.
+
+Noncentrosymmetric crystals
+The sum of angles and tangent formulas are, respectively,
+
+
+
+
+                                                                             (20)
+
+
+Formulas (19) and (20) are comparable to (10) and (15), respectively, and
+result from combining a number of individual terms as k varies over some
+chosen set. An appropriate measure of the reliability of (19) and (20) is a
+variance, V, [32] given by
+
+
+
+
+                                                                            (21)
+
+
+
+
+where In is a Bessel function of imaginary argument [33]
+
+
+
+
+                                                                             (22)
+
+
+                                                                             (23)
+
+Expression (21) gives the variance of   as determined from a given set of   +
+     This variance formula has its origin in a probabilility distribution (in
+somewhat different notation) of Cochran [34] for        given a particular  +
+     and the accompanying |E| values. The tangent formula (20) can be derived
+
+
+                                       J. Karle                                   229
+
+
+in many ways. It has arisen, for example, in theoretical investigations of
+noncentrosymmetric space groups by use of the joint probability distribution
+[35] and can be shown to occur [32] in a generalization of the Cochran formula
+[34] for a particular        to take into consideration a set consisting of several or
+          +       rath er t han just one [32,34]. The average in (19) is to be taken
+in the context of maximum clustering i.e. a minimum deviation of the contribu-
+tions of individual addition pairs,                from the average value. All φ a r e
+kept in a range                 and maximum clustering requires the addition of 0,
+2π, or −2π to each addition pair. A practical method for effecting appropriate
+clustering has been described [32].
+
+PRACTICAL PHASE DETERMINATION
+In this part, the various aspects of practical phase determination will be
+outlined in terms of the first procedure that had broad practical applications to
+both centrosymmetric and noncentrosymmetric crystals, the symbolic addition
+procedure [24,32,36,37]. It arose mainly from the efforts of my wife, Dr.
+Isabella Karle, to bridge the gap between the mathematics of phase determina-
+tion and the world of experimental data and practical application. At about
+1956, we acquired apparatus for carrying out X-ray diffraction experiments
+with crystals and Isabella Karle taught herself with the aid of a book written by
+Martin Buerger how to collect and interpret diffraction photographs. Working
+with crystal diffraction data was quite different then than now; computer-aided
+collection of diffraction data was essentially nonexistent and, by present stan-
+dards, computers were very primitive. The thousands of diffraction data col-
+lected in the the experiments were measured by eye with the use of a calibrated
+comparison strip. At the present time, data are collected by automatic diffrac-
+tometers that measure and record the data after some modest, preliminary
+human intervention and the largest computers are many orders of magnitude
+superior in speed and capacity than thirty years ago. Technical advances in the
+recent past, as exemplified by synchrotron sources of X-radiation and area
+detectors, promise even greater advances in the near future in terms of the
+speed and facility with which data can be collected. They provide experimental
+opportunities that otherwise could not be contemplated.
+   Once the intensity data are collected, they are transformed into normalized
+structure factor magnitudes defined by,
+
+
+
+
+where ε reweights certain subsets of the data [26]. A procedure for doing this is
+described in International Tables for X-ray Crystallography [38].
+   It is apparent on examining (16) (19) and (20) that it is necessary to know
+the values of some phases before additional ones can be evaluated. There are
+several sources of such information, from certain phase specifications associat-
+ed with establishing an origin in the crystal [38], the assignment of symbols to
+some phases for later evaluation, and the use on occasion of auxiliary formulas,
+such as      and     that define individual phases in terms of structure factor
+
+
+230                                Chemistry 1985
+
+
+magnitudes alone [38]. The number and types of phases to be used for
+specifying the origin in a crystal has been determined by use of the theory of
+invariants and semi-invariants that was developed for this purpose. Depending
+upon the type of space group involved, the number can vary from none at all to
+as many as three. Suitable tables [38] are available for carrying out this task.
+    The phase determining procedure is a stepwise one with few contributors to
+(16) or (19) at the start. Use at the start of phases associated with the largest
+possible values of the normalized structure factor magnitudes, |E|, will assure
+that the probability measures, (17) and (21), will be as large as possible. The
+large overdeterminacy of the problem helps to ensure that initial probabilities
+will be large enough to proceed in a stepwise fashion to build up a sufficiently
+reliable set of phase values to effect a solution to the structure problem. Because
+the nature of phase determination is inherently probabilistic and contingent in
+a stepwise and interdependent fashion, the problem of establishing optimal
+procedures based on experimental data was not at all straightforward. There
+are a very large number of paths through a phase determination. Among many
+of them are pitfalls in which there arise, for example, temptations to take a path
+in which the interconnections between phase evaluations flow easily at the
+expense somewhat of the probability measures. Such paths are more likely to
+lead to missteps and cumulative errors that could damage or defeat a phase
+determination than ones that are based only on the highest values of the
+probability measures.
+    There is also an ambiguousness inherent in procedures for phase determina-
+tion which is controlled by the use of symbols. The symbols can assume more
+than one value. For centrosymmetric crystals, they can have only two phase
+values, zero or π. For noncentrosymmetric crystals, experience has shown that
+whereas phase values for the general reflections can have any value in the range
+f r o m −π to π, it is usually sufficient to use only four possible values for the
+symbols spaced π/2 apart. One of the virtues of using symbols is that, as the
+phase determination develops, relationships develop among the symbols reduc-
+ing the number to be assigned values. Here again, one must proceed with
+caution so that reliable relationships are distinguished from those that are not.
+With centrosymmetric crystals, the entire phase determination is carried
+through before the remaining symbols are given alternative numerical values
+and tested to see which set yields a Fourier series that makes good chemical
+sense and reproduces the measured intensities well. For noncentrosymmetric
+crystals the symbolic addition procedure initially makes use only of (19). After
+about 100 phases have been evaluated, the remaining symbols are given
+alternative numerical values after which (20) is applied to further extend the
+ phase set. Again, the correct phase set is the one whose Fourier series makes
+good chemical sense and yields a structure that is in line agreement with the
+ measured intensities. When a satisfactory result is not obtained, it is appropri-
+ ate to try an alternative path through the phase determination.
+     An additional specification, whose character also derives from the theory of
+ invariants and semi-invariants, is required for most noncentrosymmetric space
+ groups. In making the specification, a choice is made of enantiomorph or axis
+
+
+                                              J. Karle                                           231
+
+
+direction or both. A good way in which this specification is achieved in the
+symbolic addition procedure is to find that a symbolic representation of a phase
+value most likely has a magnitude that differs significantly from 0 and π. T h e
+specification is accomplished by assigning a plus or minus sign arbitrarily to
+the magnitude of the phase. The enantiomorph ambiguity for noncentrosym-
+metric crystals arises from the fact that such a crystal gives the same diffraction
+pattern as its mirror image in the absence of detectable anomalous dispersion
+effects.
+    In the course of phase determinations, particularly in the case of noncentro-
+symmetric crystals, it may turn out that only a partial structure will appear in a
+Fourier map based on the determined phase values. This occurs because the
+phase determination went somewhat awry but not altogether so. The partial
+structure would be recognized as possibly being a correct fragment because it
+would make chemical sense, i.e., the fragment would have connectedness and
+acceptable interatomic distances and angles. A method has been developed for
+deriving a complete structure from a partial structure [39] that is based on the
+use of the tangent formula (20) and has been used in many applications. It may
+happen that a partial structure is not placed correctly with respect to a proper
+origin in the unit cell of a crystal. Under such circumstances, the use of a
+translation function [40-43] to place the fragment properly may be helpful.
+    The symbolic addition procedure [24,32,36,37] was developed as an out-
+growth of the experiences in applying the procedure for phase determination
+for centrosymmetric crystals described in the 1953 monograph [23]. In the
+monograph, the procedures proposed for sign determination involved the ini-
+tial use of auxiliary phase formulas such as                           and    [23]. The application of
+preliminary phase information obtained from these formulas along with pro-
+bability measures associated with individual indications from the phase-deter-
+mining formulas facilitated the use of the                           formula (16). The combination of
+auxiliary formulas and probability theory greatly reduced to a practicable level
+t h e a m b i g u o u s n e s s t h a t w o u l d b e o b t a i n e d in the employment of the
+relation by itself along with some rather insensitive and often misleading
+criterion such as internal consistency.
+    In the course of applying the procedures of the monograph [23], two impor-
+tant features were found that ultimately played an important role in the
+symbolic addition procedure. The first feature was that if probability measures
+were carefully employed at each step of a phase determination, it was possible
+to carry out the procedure with a small set of starting phases. It was also
+apparent that the use of symbols could greatly increase the efficiency of the
+procedure by carrying along in their alternative values a residual ambiguity
+that could not be easily overcome. A sufficient number of reliable relationships
+among the symbols usually developed in the course of a phase determination to
+reduce the alternative possible sets of phases to consider to just a few. A further
+reduction could be obtained, if desired, by applying auxiliary phase determin-
+ing formulas at the end of a phase determination to help evaluate the remaining
+symbols. If an evaluation were incorrect, as occasionally happened with the
+auxiliary formulas, no great harm would be done. The alternative value could
+
+
+232                                Chemistry 1985
+
+
+be tried without the necessity of repeating the phase determination. The
+symbolic addition procedure for centrosymmetric crystals is thus the procedure
+of the monograph [23] facilitated by the use of symbols and the application of
+auxiliary formulas at the end, if needed, instead of at the beginning of a phase
+determination.
+   The symbolic addition procedure for centrosymmetric crystals has several
+features in common with the procedure of Zachariasen [44]. The main distinc-
+tion from the latter procedure was the application of probability measures to
+guide each step of the phase determination, especially in the beginning, the
+consequent use of a minimal number of symbols and the resulting minimization
+of the ambiguousness of the determination and the optimization of the reliabil-
+ity of the result. There were efforts by others in the 1950’s, e.g. Rumanova [45]
+and Cochran and Douglas [46] that met with some success. Rumanova devel-
+oped a systematic method for using symmetry relations in centrosymmetric
+space groups with (16). She used it in connection with Zachariasen’s procedure
+[44]. Cochran and Douglas used a variant of (16) based on a formula derived
+by Sayre [47] in a procedure that generated a very large number of sets of signs
+from which the correct one had to be selected under highly ambiguous circum-
+stances.
+   The procedural features of the symbolic addition procedure for centrosym-
+metric crystals were extended, in the main by the efforts of Isabella Karle, to
+noncentrosymmetric crystals [24] with the use of (19), (20), and (21). Several
+problems arose in developing the technique for phase determination for non-
+centrosymmetric crystals concerning, for example, the assignment and hand-
+ling of symbols, the use of the probability measure (21), the number of possible
+values to assign to the symbols that represent phase values that range continu-
+ously from −π to π, the combined use of (19) and (20) for phase determination,
+the proper use of the tangent formula for the processes of phase refinement and
+phase extension, the development of techniques for specifying an enantiomorph
+or axis directions or both, and special considerations such as the avoidance of
+certain troublesome triplet phase invariants involving one and two-dimension-
+al centric reflections. These various aspects of the symbolic addition procedure
+are to be found in references 32 and 38 and in the papers concerning the
+applications described further on.
+   A considerable virtue of the symbolic addition procedure is that, because of
+its efficiency, a main part of the procedure for phase determination can be
+carried through by hand. For many years, the procedure for centrosymmetric
+crystals was carried out in our laboratory completely by hand. In the case of
+noncentrosymmetric crystals, the first stage, which involved the use of formula
+ (19), was performed by hand until about 100 phases were evaluated and useful
+relationships developed among the symbols. Only after selected numerical
+values were assigned to the few remaining symbols was the tangent formula
+ (20) applied with the aid of a computer. The benefits of this aspect of the
+efficiency of symbolic addition have been the opportunity for those with modest
+computing facilities to carry out structure determinations, the possibility of
+close interaction with the phase determination as it progresses, and the educa-
+
+
+                                     J. Karle                                233
+
+
+tional value for those newly learning about phase determination to be able to
+witness and carry through the procedure by hand.
+    As the application of direct phase determination began to increase during the
+1960’s and structure determination became more and more a part of research
+programs, there began to be developed at the end of the 1960’s “program
+packages”, software for determining structures from X-ray diffraction data.
+Among the ones that are widely used, alternative numerical values have been
+used instead of symbolic phases in the case of noncentrosymmetric crystals,
+although there are some programs that retain the use of symbols for such types
+of crystals. For those programs that use alternative numerical values for
+phases, large numbers of alternative phase sets are generated by use of the
+tangent formula (20) and the selection of the most likely solutions is dependent
+upon the use of an elaborate set of probability formulas, auxiliary formulas and
+acceptance criteria. Other computational techniques have also evolved. For
+example, random sets of phases have been used as starting sets to be refined by
+application of the tangent formula (20). By considering large numbers of
+alternative starting sets it is often practicable to obtain a correct answer,
+although a large amount of computing is involved. There are also special
+programs for specific purposes such as the development of a structural frag-
+ment into a complete structure.
+    The computer programs are quite successful with centrosymmetric crystals
+and also do fairly well with noncentrosymmetric crystals having up to 100
+independent (nonhydrogen) atoms to be placed in the unit cell. On occasion an
+answer will not be forthcoming from the use of a program package. In that
+case, crystallographers may pursue the problem with special techniques and
+the application of insights and acumen that have been too special to be found in
+current programs.
+    Some names that have been associated with the preparation and dissemina-
+ tion of computer programs for various aspects of automated, direct structure
+determination are Ahmed, Andrianov, Beurskens, Germain, Gilmore, Hall,
+ Main, Schenk, Sheldrick, Stewart, Viterbo and Woolfson. Among them, some
+of their programs have enjoyed a broader range of popularity than others.
+ Insight into the contents and philosophy of the programs can be obtained from
+ several publications of the Commission on Crystallographic Computing of the
+ International Union of Crystallography [48,49,50,51,52].
+
+APPLICATIONS
+This section will be devoted to illustrating the broad range of applications that
+have been made accessible by the development of direct structure determina-
+tion. The examples will be mainly taken from my laboratory but will be seen to
+be representative of activities that now produce thousands of structural investi-
+gations each year.
+   The earliest applications after the publication of the monograph (23) were
+collaborations with colleagues at the U.S. Geological Survey on colemanite
+[53] and meyerhofferite [54]. This was followed by the initial investigations
+based on the experimental work of Isabella Karle, for example, on p,p’-
+
+
+234
+
+
+
+
+Fig. 3. The four cocrystallizing conformers of cyclohexaglycyl. The conformer at the upper left
+occurs four times in the unit cell, the one at the lower left occurs twice and the other two occur once.
+
+
+
+
+dimethoxybenzophenone [55] and N-benzyl-1,4-dihydronicotinamide                                   [56]
+that, in time, led to the symbolic addition procedure.
+
+Early applications of the symbolic addition procedure
+The first application of the symbolic addition procedure concerned cyclohexa-
+glycyl, a synthetic polypeptide in which six glycine residues form an eighteen-
+membered ring. The polypeptide crystallizes as a hemihydrate in the triclinic
+space group        with eight molecules in the unit cell [36], Fig. 3. An interesting
+characteristic of this structure is that the eighteen-membered ring occurs in the
+unit cell in four different conformations. Another feature is that all hydrogen
+atoms capable of forming hydrogen bonds are so involved.
+   Noncentrosymmetric crystals are quite common among substances of bio-
+chemical interest. The determination of the structure of the amino acid L-
+arginine dihydrate [24], which crystallizes in space group                    is the first
+noncentrosymmetric structure determined by the direct method. As seen in the
+diagram of the contents of the unit cell, Fig. 4, the hydrogen-bonding indicated
+by the dotted lines is extensive. As a consequence of this hydrogen-bonding the
+molecules of arginine form an infinite chain. In addition, water molecules also
+form hydrogen bonded infinite chains which are perpendicular to the plane of
+the figure.
+   The stereochemistry of reserpine, a d r u g t h a t h a s b e e n u s e d t o c o n t r o l
+hypertension and nervous disorders, had been determined by chemical means.
+It was of interest, however, to establish the spatial arrangement of the atoms in
+the molecule. Reserpine was found to crystallize in the noncentrosymmetric
+
+
+                                                                                            235
+
+
+
+
+Fig. 4. The structure of L-arginine dihydrate viewed along the a axis. Hydrogen bonding is shown
+by the dashed lines.
+
+
+
+
+space group, P2 1 [57]. In this investigation, the symbolic addition procedure
+yielded a partial structure which was developed into a complete structure, Fig.
+5, by use of the recycling procedure [39] involving the tangent formula. Fig. 5
+shows sections from an electron density map projected down the b-axis. The
+trimethoxybenzoxy group at the bottom is nearly perpendicular to the rest of
+the molecule. The indole group at the top of the diagram is planar and the
+dihedral angle between least-squares planes for the indole group and the
+benzoxy group is 82°.
+
+Identification and stereoconfiguration
+The problems concerning the determination of molecular formula and stereo-
+configuration can become especially acute when the amount of sample avail-
+able is very small, when the chemical linkages are new and unusual or when the
+number of asymmetric centers is large. Under such circumstances, the use of
+crystal structure analysis can be not only quite helpful but also essential. An
+example of this is provided by batrachotoxin, a powerful neurotoxin that can be
+
+
+236                                       Chemistry 1985
+
+
+
+
+Fig. 5. Sections from a three-dimensional electron density map for the alkaloid reserpine projected
+down the b axis. The electron density contours are equally spaced at       starting with the
+contour
+
+
+
+
+extracted from the skin of frogs, Phyllobates aurotaenia, from tropical America. It
+is used by native Indians to tip blow darts for hunting. Purified congeners were
+obtained from ethanol extracts of the skins of about 8000 frogs. The amounts
+were insufficient to permit the determination of the structural formulae by
+standard methods. A few, very small crystals of the 0-p-bromobenzoate deriva-
+tive of batrachotoxinin A, one of the congeners, were grown and one crystal was
+
+
+                                         J. Karle                                      237
+
+
+
+
+Fig. 6. The molecular formula and absolute stereoconfiguration for batrachotoxinin A (R=H)
+(heavy solid lines are above plane of paper and dashed ones behind).
+
+
+
+
+selected for structure analysis. It was found to crystallize in space group
+P 212 12 1. The specialized position of the Br atom (at 1/5, 0,0) and the restricted
+amount of data available limited the amount of information derivable from
+knowledge of the location of the Br atom. The structure was determined by use
+of the tangent formula to develop partial structural information into a complete
+structure. It showed that batrachotoxinin A was a steroidal alkaloid with
+several novel features [58], Fig. 6. Other information obtained was the stero-
+configuration at the nine asymmetric centers, the conformations of the six rings
+including the seven-membered ring containing the alkaloid function, values of
+bond lengths, bond angles and torsional angles, the location of intermolecular
+hydrogen bonds, and the packing of the models in the unit cell. The absolute
+configuration was established by measurement of the anomalous scattering of
+the Br atom [59]. From the information obtained from the structural analysis,
+the structure and absolute configuration of batrachotoxin and many other
+congeners were readily deduced [60].
+   Another small frog, Dendrobates aurotaenia, occurring in Columbia and Ecua-
+dor, secretes from its skin defensive substances among which are two major
+toxic alkaloids, histrionicotoxin and dihydroisohistrionicotoxin. These alka-
+loids are quite unique having a spiropiperidine system with acetylenic and
+allenic moieties, Fig. 7. The molecular structures, stereoconfigurations and
+absolute configurations were established by crystal structure analyses of a
+hydrochloride and hydrobromide of the histrionicotoxin and a hydrochloride of
+the dihydroiso compound [61,62]. Space groups C2 and P2 12 12 1 were involved
+in the analyses. The histrionicotoxins appear to offer the first examples of the
+occurrence of acetylene and allene moieties in the animal kingdom. Other
+congeners that occur in smaller quantities were shown, subsequently, by means
+of mass and NMR spectra to differ only in the saturation of the two side chains
+[63 and references therein]. The Spiro ring system, with the internal NH...O
+hydrogen bond, remained unchanged.
+
+
+238                                      Chemistry 1985
+
+
+
+
+Fig. 7. Histrionicotoxin is shown on the left top and in the corresponding stereodiagram on the
+bottom. Dihydroisohistrionicotoxin is shown on the right top and in the stereodiagram in the
+middle.
+
+
+
+
+   Another example of the application of X-ray crystal structure analysis to the
+determination of structural formula and stereoconfiguration of an unknown
+substance is illustrated by the investigation of an alkaloid derived from an
+Ormosia plant, jamine, which crystallizes in the triclinic space group, PI [64].
+The configuration determined for the molecule is shown in Fig. 8. The connec-
+tivity was found to comprise six six-membered rings, five of which were in the
+chair configuration and one in the boat configuration. There were six asymmet-
+ric carbon atoms and the stereoconfiguration about each was, evidently, readily
+
+
+                                                                             239
+
+
+
+
+Fig. 8. The stereoconfiguration ofjamine.
+
+
+
+
+apparent. The identification of the nitrogen atoms was also readily made in the
+course of the structure determination.
+   Brassinolide [65-67] is a very potent plant growth promoter. It is active in
+very small amounts, 1-10 ng/plant. Brassinolide generates cell enlargement
+and stimulates cell division in many food plants and plants grown in arid
+regions that yield oil and other energy related materials. The yield from
+extraction from plant pollen is very low and therefore large-scale testing
+awaited chemical synthesis. Evidently, chemical synthesis would be facilitated
+by structural information. A few crystals of brassinolide became available for
+crystal structure determination. The crystallization took place in space group
+P 21 and the analysis [66] established that the steroid nucleus of the molecule
+had a seven atom B-ring lactone, an unprecedented feature for a natural
+steroid, Fig. 9. The presence of the lactone appears to be responsible for
+promoting the plant growth. Subsequent synthesis has shown that compounds
+analogous to brassinolide are easier to prepare in large quantities and have
+adequate plant-growth regulating properties. Field evaluations of these regula-
+tors are currently underway.
+   There are very large numbers of examples that could be discussed under the
+heading of this section. It is noteworthy, however, that the implications of only
+a small number of definitive structure determinations can be extended far
+beyond the immediate results of the particular determinations. An outstanding
+
+
+240                                      Chemistry 1985
+
+
+
+
+Fig. 9. The molecular formula and stereoconfiguration of brassinolide. Note that the B ring is a
+seven-membered lactone ring
+
+
+
+
+example is given by some fundmental structural investigations on frog toxins
+which have provided the information on which was based the subsequent
+establishment of molecular formulas and stereoconfigurations of over 200 relat-
+ed frog toxins [68,69].
+
+REARRANGEMENTS
+In the case of rearrangement reactions, crystal structure determination can
+again play a particularly useful role because many rearrangement reactions
+give products that are the result of vast and unanticipated changes in the
+starting materials. The following examples provide illustrations of such
+changes.
+   A photorearrangement reaction in which a major rearrangement takes place
+is illustrated by the reaction shown in Fig. 10. A crystal structure investigation
+of a single optically active crystal, selected from a racemic conglomerate
+established the structural formula and configuration of the photoproduct
+[70,71]. The substance crystallized in space group P2 1 2 1 2 1 . The structure
+
+
+                                       J. Karle                                    241
+
+
+
+
+analysis showed that the photoproduct consisted of four ring systems, two five-
+membered and two four-membered rings.
+   Ultraviolet irradiation of N-chloracetyltyramine, where there is a hydroxyl
+group on the phenyl ring in contrast to the two methoxy groups in the previous
+example, yields entirely different photorearrangement products. HCl was
+eliminated and two unusual photodimers, shown in Fig. 11, were produced.
+Their molecular formulas and stereoconfigurations have been identified by use
+of crystal structure analysis [72]. It is interesting to note that dimer (II) is the
+more stable since it is produced from dimer (I) by use of additional ultraviolet
+radiation. Dimer (I) crystallizes in space group P2 1 /c and dimer (II) crystal-
+lizes in space group Pbca. Dimer (I) is seen to have a central cage bounded by
+four six-membered rings and two four-membered rings. Each four-membered
+ring is puckered, with the torsion angles around the ring bonds having values of
+about 20°. The six-membered rings assume distorted boat conformations.
+Dimer (II) is seen to have a more complex, partially open, cage bounded by
+one three-, two five-, two six-, and one seven-membered ring. The six-mem-
+bered rings are again in a distorted boat conformation. Once the structural
+characteristics of the photoproducts are known, it is possible to consider
+possible reaction mechanisms that describe the intermediate changes that
+occur in the rearrangements of the initial materials resulting in the final
+products. Postulated mechanisms for the formation ofdimers (I) and (II) have
+been presented [73].
+   Irradiation with ultraviolet light of a solution containing 3-methyl-5,6-diaza-
+2,4-cyclohexadien-1-one and 2-propenol (I)              produces a cyclobutane addition
+compound (II) which, upon further irradiation, opens and switches bonds to
+form a tricyclic molecule (III), Fig. 12. Crystal structure analysis [74] of the
+material which crystallizes in space group PI established that the final photo-
+product was composed of a fused ring system, one three-membered ring and
+two live-membered rings.
+
+CONFORMATION
+The conformations of molecules can be importantly related to their chemical
+and physiological behavior. Crystal structure investigations can be helpful in
+
+
+242                                        Chemistry 1985
+
+
+
+
+           2
+
+
+
+
+  Fig. 11. The configurations of two dimers formed by photorearrangement from N-chloroacetyltyra-
+  mine. Dimer (II) is seen to be formed from dimer (I) by continued irradiation with ultraviolet light.
+
+
+                                             J.Karle                                            243
+
+
+
+
+Fig. 12. Irradiation with ultraviolet light of a solution of 3-methyl-5,6-diaza-2,4-cyclohexadien-l-
+one (I) and 2-propenol leads to a cyclobutane addition product (II). On further irradiation, (II)
+rearranges to a tricyclic product (III).
+
+
+
+
+providing conformational information. It may be argued, and rightly so, that
+biologically active materials may assume conformations in the crystalline state
+that they would not assume in solution. There are, however, numerous in-
+stances of conformational studies in which the results of crystal structure
+analyses are either highly suggestive or rather definitive. The following exam-
+ples are such instances.
+   One way in which the crystalline state can imitate the cirumstances found in
+solution is to include in the crystallization relatively large amounts of solvent.
+Such a crystal is formed by [Leu 5 ]enkephalin (Tyr-Gly-Gly-Phe-Leu) grown
+from N,N-dimethylformamide (DMFA)/water. Endogenous enkephalin is a
+linear pentapeptide that occurs in the brain as [Leu 5 ]enkephalin and [Met 5 ] -
+enkephalin in varying proportions depending upon the species [75]. Both are
+quite flexible and the structural study of [leu 5 ]enkephalin was undertaken in
+the hop: that insight into probable conformations would be so derived. The
+crystallization took place in space group P2 1 and it turned out that there were
+four molecules of the peptide in the asymmetric unit of the unit cell, each
+having a different conformation [76], Fig. 13. The large amount of solvent
+surrounding the molecules suggests that the conformations may be relevant to
+the circumstances in solution. The four conformers with extended backbones
+form an infinite antiparallel B-sheet. p-sheets related by the twofold screw axis
+are separated by a 12 Å spacing. Side groups protrude above and below the β −
+sheets and are entirely immersed in a thick layer of solvent that fills the volume
+
+
+244                                       Chemistry 1985
+
+
+
+
+          A                        B                       C                       D
+Fig. 13. Four conformations of [Leu ]enkephalin that occurred in N,Ndimethylformamide/water.
+                                    5
+
+
+
+Note the similarities in the backbone conformations and the differences in the shaded side chains.
+
+
+
+
+between the β-sheets. The crystal was stable only in contact with the mother
+liquor. Structurally, it consisted of rather rigid sheets of peptide molecules
+separated by spaces tilled with mobile solvent. Many of the solvent molecules
+appeared from the X-ray analysis to be completely disordered. An asymmetric
+unit of the unit cell contained four enkephalin molecules, eight water mole-
+cules, eight DMFA molecules and an unknown number of disordered solvent
+molecules.
+   The crystal of enkephalin contains more than 210 independent C, N and O
+atoms and is of a size that lies between what is normally considered small-
+structure crystallography (up to 100 nonhydrogen atoms or so) and protein
+crystallography (about 500 nonhydrogen atoms or more).
+   The visual chromophores, 11-cis and all-trans retinal are present in both rod
+and cone cells of vertebrate retinas and in the corresponding organs of insects
+and crustacea [77]. The photochemical isomerization of the 11-cis isomer to the
+trans form is an important step in the visual process with the 11-cis isomer
+acting as a photochemical sensor. In the dark, 11-cis retinal is covalently linked
+to proteins in the retina known as opsins. They differ in different species and
+may differ in different cells of the retina. The details of the geometry of the
+retinals had not been determined and, in view of their importance to biological
+function, a crystal structure investigation was undertaken on the 11-cis and all-
+trans forms. Special precautions had to be observed with the 11-cis retinal. It is
+unstable to light and oxygen and its stability is favored by lower temperatures.
+In solution, the cis isomer isomerizes to the trans form very readily at 20°C.
+Fortunately, crystals of the cis isomer are more stable than its solution. The
+
+
+                                               J. Karle                          245
+
+
+
+
+Fig. 14. Two isomers of retinal, the 11-cis and all-trans forms
+
+
+
+diffraction data for the cis form were collected in a light-tight container that was
+continuously purged with dry nitrogen and held at 16-17°C. Crystal structure
+analyses [78,79] of the 11-cis and all-trans forms revealed the detailed geometry
+of both, Fig. 14. An additional, independent structure analysis of all-trans
+retinal was also reported [80]. Of particular interest was the conformation of
+the cis form as there had been much speculation and theoretical work concern-
+ing its conformation. The 11-cis retinal crystallized in space group P2 1 /c and
+the trans isomer in space group P2 1/n. The all-trans retinal chain is planar with
+the six-membered ring inclined to the plane of the chain. The inclination is
+given by the torsional angle of the 5-6-7-8 segment which is found to be 59º.
+The torsion angle of a planar trans conformation is 180º and that of a planar cis
+conformation is 0º. The conformation for the all-trans isomer is typical of
+
+
+
+
+                                           TRANS RETINAL
+
+
+246                                       Chemistry 1985
+
+
+
+
+Fig. 26. Phenyl rings folded up around the backbone of a biologically active antamanide complex
+with Li+ or Na+ providing a lipophilic surface (top pair). In the inactive analogue, Li + perhydro-
+antamanide, the cyclohexyl groups are folded down, thus exposing the peptide backbone to the
+environment (bottom pair).
+
+
+carotenoids. In forming the 11-cis retinal from the all-trans form, there is not
+only a rotation of 180º about the C(11) =C(12) double bond, but also a rather
+unexpected rotation of 141º about the C(12)-C(13) single bond. This additional
+rotation relieves the difficulty of too close a contact in the absence of the
+additional rotation between the hydrogen atom on C(10) and the hydrogen
+atoms of the methyl group attached to C(13) (see the diagram in Fig. 15). At
+the time that the manuscript concerning the crystal structure determination of
+11-cis retinal was being prepared, a theoretical calculation was published by
+Honig and Karplus [81] in which a ground-state configuration for 11-cis retinal
+was proposed that closely resembled the result of the crystal structure determi-
+nation.
+   The cyclic decapaptide antamanide acts as an antidote to the toxin phalloi-
+din found in the deadly poisonous mushroom Amanita phalloides. Antamanide
+can also be isolated from the same mushroom but occurs in much smaller
+quantities. The synthetic analog of antamanide in which all four phenylalanyl
+residues are hydrogenated to cyclohexylalanyl residues (Cha), cyclic(ValPro-
+ProAlaChaChaProProChaCha), has no antitoxic potency despite its ability to
+form ion complexes in the same manner as antamanide. A conformational
+analysis of the hydrogenated antamanide was carried out by means of a crystal
+structure analysis of Li + . perhydroantamanide which crystallizes in space
+group P2 1 2 1 2 1 [82], Fig. 16. The backbone encapsulates a Li + ion in quite the
+
+
+                                     J.Karle                                   247
+
+
+same fashion as in Li + .antamanide. In the Li+ .antamanide, however, the four
+phenyl groups are folded against the backbone, thus providing a hydrophobic
+surface for the complex, whereas in Li + .perhydroantamanide the four cyclo-
+hexyl moieties are extended away from the folded backbone, with the conse-
+quent exposure of large portions of the polar backbone to the surrounding
+environment. As a result, elements of the backbone that would be otherwise
+shielded from the environment were found to make hydrogen bonds and
+ligands that would not occur in the Li + .antamanide complex. It would appear
+                                         .
+
+
+
+that the large change of hydrophobicity around the backbone in the per-
+hydroantamanide complex is related to the loss of biological activity.
+   These few applications represent only a minuscule portion of the broad range
+of topics and individual studies represented by the thousands of structural
+investigations performed each year. They do illustrate, however, how structure
+determination can play a useful and often indispensable role in the progress of
+many research disciplines.
+
+ANALYSIS OF MACROMOLECULAR STRUCTURE:
+RECENT INTERESTS
+The analysis of structures of macromolecules, molecules that consist of at least
+about 500 nonhydrogen atoms and more, is facilitated by use of specialized
+heavy-atom techniques that have the titles anomalous dispersion and isomor-
+phous replacement. Heavy atoms can often be soaked into a macromolecular
+crystal without seriously disturbing the structure. As a consequence, the tech-
+niques of anomalous dispersion and isomorphous replacement have enjoyed
+considerable success in the determination of the structure of native (unsubsti-
+tuted) macromolecules.
+   Anomalous dispersion effects arise from the fact that the atomic scattering
+factors, f, as would be used in (3), are in general complex numbers defined by
+
+
+
+
+where f' and f'' are the real and imaginary parts, respectively, of the correction
+to f''and are considered the contributions of anomalous dispersion. The scatter-
+ing factor f'' is obtained from computations in which it is assumed that the
+frequency of the radiation is much larger than the absorption frequencies for
+the constituent atoms. The consequence of having atomic scattering factors
+with a significant imaginary part, as occurs with the heavier atoms at common-
+ly used wavelengths, is that the intensity measured for an acentric reflection h
+is, in general, different than that for -h. The fact that         been the basis of
+a technique that has broad applications [83] in the field of structure research.
+   Crystals that have the same unit cell geometry but differ in chemical compo-
+sition are called isomorphous. Since it is often possible to substitute heavy
+atoms into macromolecules with relatively minor perturbations on the struc-
+ture, the criterion for isomorphicity can be fairly readily achieved to good
+approximation for such molecules. The method of phase determination based
+on one substituted isomorphous structure is called the single isomorphous
+
+
+248                                  Chemistry 1985
+
+
+replacement method (SIR) and if several isomorphous structures are available
+it is called the multiple isomorphous replacement method (MIR). If two
+isomorphous structures are centrosymmetric, the signs of the structure factors
+for both crystals can be determined. In practice, some signs would remain
+indeterminate because of experimental errors and the presence of structure
+factors of small magnitude. When two noncentrosymmetric crystals form an
+isomorphous pair, analysis shows that a twofold ambiguity occurs in the
+evaluation of the phases. It can be readily shown, however, that in the case of
+noncentrosymmetric crystals many individual phases can be unambiguously
+evaluated when the structure of the substituted atoms is known [84]. Such
+phases are either close to the value of the corresponding phases for the substi-
+tuted atoms or π away from those values. There are a number of ways to
+resolve the ambiguity from isomorphous replacement. They involve, for exam-
+ple, the use of a second isomorphous substitution or, instead, the additional use
+of anomalous dispersion data.
+     Multiple isomorphous substitution with the occasional additional use of
+anomalous dispersion data has been the technique that has led to the enormous
+progress in macromolecular structure research of biological importance for the
+past 25 years. The early theoretical work that supported the advances in this
+field is that of Patterson [4,5] and Bijvoet [85]. With the types of heavy atoms
+that are usually substituted into macromolecular structures, there can be
+significant effects from anomalous dispersion, so that data collection for both
+anomalous dispersion and isomorphous replacement can be, in effect, com-
+bined.
+     My interest in the techniques of anomalous dispersion and isomorphous
+replacement was rekindled by a development in my laboratory that demon-
+strated the considerable potential of the anomalous dispersion technique in
+structure determination. In an application of the anomalous dispersion tech-
+nique to the structure determination of the protein, crambin, Hendrickson and
+Teeter [86] solved the structure by use of the anomalous scattering from six
+sulfur atoms occurring in three disulfide bridges. The experiment was per-
+formed as a single wavelength experiment with                radiation which is far
+from the absorption edge for S at 5.02 Å. The success with the use of the
+relatively weak anomalous scattering from the S atoms coupled with the great
+span in wavelength between that of the absorption edge and the wavelength of
+          radiation stimulated me to initiate a program to investigate various
+theoretical aspects of the single and multiple wavelength anomalous dispersion
+techniques and also, in time, isomorphous replacement.
+     One investigation concerned an exact algebraic analysis of single and multi-
+ple wavelength anomalous dispersion [87] by use of the structure factor equa-
+ tions (3) in which the atomic scattering factors are complex according to (25).
+The appropriate structure factor equations are treated as simultaneous equa-
+ tions and the key to obtaining the final form in which the equations were
+ expressed was the separation of the contributions from the normal atomic
+ scattering factors f'' from those of the real and imaginary corrections to f n, f' and
+ f'', respectively.
+
+
+                                     J. Karle                                  249
+
+
+   A simple result of the algebraic analysis that concerns the case when a
+structure is composed of atoms that scatter normally and one type of atom that
+scatters anomalously is as follows,
+
+
+
+
+                                                                              (26)
+
+
+
+
+where          is the measured magnitude squared of the structure factor at the
+wavelength              is the magnitude squared of the structure factor for the
+nonanomalously scattering atoms and             is the magnitude squared of the
+structure factor for the anomalously scattering atoms, but scattering as if they
+were doing so normally. The measured          are corrected for vibrational effects
+and the latter are also absent from         and         The quantities         and
+      are defined for a particular λ ,
+
+
+                                                                               (27)
+
+and
+
+
+
+
+The f' and f'' are tabulated in International Tables [88]. The phase angles
+and        are the angles associated with      and        respectively.
+   Four equations can be formed from (26) by performing anomalous dispersion
+experiments at two different wavelengths and making measurements of the
+intensities of relections associated with h and -h. The equations are linear if
+the four quantities,                                           h )
+
+sin               are chosen as the unknowns. It is worthwhile to add the qua-
+dratic relationship,         +       = 1, and treat the defining equations in a
+least-squares fashion.
+   A general analysis [87] has also been carried out which is appropriate for any
+number and type of anomalous scatterers. This general formulation has a
+number of favorable characteristics that are illustrated by the simple set of
+simultaneous equations formed from (26) by using multiple wavelengths and
+measuring the intensities at h and -h. The unknown quantities are intensities of
+scattering and phase differences, all associated with the nonanomalous scatter-
+ing. The intensities are those that would be obtained from individual types of
+atoms as if each type were present in isolation from all the rest. Knowledge of
+the intensities for the structure of an individual type of atom can facilitate the
+determination of the structure associated with this type of atom. Once this is
+
+
+250                                Chemistry 1985
+
+
+known, the entire structure can be readily determined. The anomalous scatter-
+ing enters the simultaneous equations as separate factors in terms of known,
+tabulated quantities. With appropriate definitions of unknown quantities, the
+simultaneous equations are linear. It is useful to introduce also quadratic
+relationships that exist among the unknown phase differences. The systems of
+simultaneous equations involve no approximations and remain exact for any
+number or type of anomalous scatterers.
+   There are some additional features of the equations (26). One concerns the
+fact that the usual analysis of single wavelength anomalous scattering leads to
+the conclusion that there would be a twofold ambiguity in the evaluation of
+certain phase differences. It has been recently shown [89] that information that
+is inherent in the measured intensities           and        that gives approximate
+information concerning            and          can be used with (26) for h and -h
+to obtain unique or essentially unique values for the phase differences that occur
+in (26) with potentially useful accuracy. This was specifically shown for a one-
+wavelength experiment for the case of one type or one predominant type of ano-
+malously scattering atoms in the presence ofessentially nonanomalously scatter-
+ing atoms. It should be more generally true. Hauptman [90] showed earlier the
+uniqueness of a one-wavelength anomalous dispersion experiment in terms of
+unique values for triplet phase invariants.
+   A second feature of equations (26) and their generalization to many kinds of
+anomalous scatterers concerns the fact that anomalous scatterers in the form of
+heavy atoms are often substituted into a native substance that scatters essenti-
+ally nonanomalously. In that case, intensity data for the native material corre-
+sponds to         in (26), thus reducing the number of unknown quantities.
+   Another type of theoretical study designed to elicit phase information from
+anomalous dispersion and isomorphous replacement concerns the development
+of formulas for evaluating the so-called triplet phase invariants. Triplet phase
+invariants are sums of three phases whose subscripts add to zero, e.g.
+           In general, the sum of subscripts is carried out by attaching the sign
+associated with the corresponding phase to each subscript, e.g.,
+is also an invariant. Note that there are triplet phase invariants in (10) and (19)
+forming the “sum of angles” formula.
+    There have been recently two main approaches to the evaluation of triplet
+ phase invariants from isomorphous replacement and anomalous dispersion
+ data. One involves the use of the mathematics of the joint probability distribu-
+ tion by Hauptman for isomorphous replacement [91] and for anomalous
+ dispersion [90], a similar theory for anomalous dispersion by Giacovazzo [92]
+ and a theory for both techniques by Pontenagel, Krabbendam, Peerdeman and
+ Kroon [93]. A recent investigation by Fortier, Moore and Fraser [94] of the
+ evaluation of triplet phase invariants for isomorphous replacement when the
+ heavy-atom structure is known indicates the potential of this approach for good
+ accuracy.
+    A second approach to the evaluation of triplet phase invariants from isomor-
+ phous replacement and anomalous dispersion data has interested me for the
+ past few years. It involved initially the development of formulas by use of
+
+
+approximate but simple algebraic manipulations that were based on certain
+mathematical and physical characteristics of the two techniques [95-96]. This
+was followed by algebraic analyses [84,97,98] that indicated a potential for
+good accuracy for many of a large number of formulas proposed.
+   The development of optimal strategies for the use of triplet phase invariants
+awaits practical experience. If the heavy-atom (anomalously scattering) sub-
+structure is known, there are a number of techniques for obtaining values for
+individual phases [84,87,89]. In that case, it is quite possible that the triplet
+phase invariants would be used mainly for phase extension and refinement. In
+those circumstances when the heavy-atom (anomalously scattering) substruc-
+ture is not known and resists analysis, the triplet phase invariants may be able
+to play a primary role in reaching a solution to the structure since the triplet
+phase invariants can be evaluated without knowledge of the substructure.
+   The enhanced opportunities to carry out multiple wavelength anomalous
+dispersion experiments with high intensity and tunable synchrotron X-ray
+sources should facilitate the development of applications of the new theoretical
+formulations. Coupled with the major advances in computing, the new theories
+have the potential to improve the facility with which macromolecular structure
+research is performed.
+
+
+252                                          Chemistry 1985
+
+
+REFERENCES
+ I. Ott, H. (1928) Z. für Krist. 66, 136- 153.
+ 2. Banerjee, K. (1933) Proc. Roy. Soc. A 141, 188-193.
+ 3. Avrami, M. (1938) Phys. Rev. 54 300-303.
+ 4. Patterson, A. L. (1934) Phys. Rev. 46, 372-376.
+ 5. Patterson, A. L. (1935) Z. für Krist. 90, 517-542.
+ 6. Hoppe, W. (1957) Z. Elektrochemie 61, 1076-1083.
+ 7. Nordman, C. E. and Nakatsu, K. (1963) J. Am. Chem. Soc. 85, 353-354.
+ 8. Huber, R. and Hoppe, W. (1965) Chem. Ber. 98, 2403-2424.
+ 9. Harker, D. and Kasper, J. S. (1948) Acta Cryst. 1, 70-75.
+10. Kasper, J, S., Lucht, C. M. and Harker, D. (1950) Acta Cryst. 3, 436-455.
+11. Gillis, J. (1948) Acta Cryst. 1, 174-179.
+12. Karle, I. L. and Karle, J, (1949) J. Chem. Phys. 17, 1052-1058.
+13. Karle, J. and Karle, I. L. (1950) J. Chem. Phys. 18, 957-962.
+14. Karle, I. L. and Karle, J. (1950) J. Chem. Phys. 18, 963-971.
+15. Hauptman, H. and Karle, J. (1950) Phys. Rev. 77, 491-499.
+16. Bartell, L. S. and Brockway, L. O. (1953) Phys. Rev. 90, 833-838.
+17. Toeplitz, O. (1911) Rend. Circ. Mat. Palermo, 191-192.
+18. Karle, J. and Hauptman, H. (1950) Acta Cryst. 3, 181-187.
+19. Karle, J. (1971) Acta Cryst. B27, 2063-2065.
+20. Hauptman, H. and Karle, J. (1952) Acta Cryst. 5, 48-59.
+21. Karle, J. and Hauptman, H. (1953) Acta Cryst. 6, 131-135.
+22. Hauptman, H. and Karle, J, (1953) Acta Cryst. 6, 136-141.
+23. Hauptman, H. and Karle, J. (1953) A merican Crystallographic Association Monograph No. 3 (Poly-
+     crystal Book Service, Western Springs).
+24. Karle, I. L. and Karle, J. (1964) Acta Cryst. 17, 835-841.
+25. Shmueli, U., Weiss, G. H., Kiefer, J. E. and Wilson, A. J. C. (1984) Acta Cryst. A40, 651-660.
+26. Stewart, J. M. and Karle, J, (1976) Acta Cryst. A32, 1005-1007.
+27. Karle, J., Hauptman, H. and Christ, C. L. (1958) Acta Cryst. 11, 757-761.
+28. Wilson, A. J. C. (1942) Nature 150, 151-152.
+29. Wilson, A. J. C. (1949) Acta Cryst. 2, 318-321.
+30. Woolfson, M. M. (1954) Acta Cryst. 7, 61-64.
+31. Cochran, W. and Woolfson, M. M. (1955) Acta Cryst. 8, 1-12.
+32. Karle, J. and Karle, I. L. (1966) Acta Cryst. 21, 849-859.
+33. Watson, G. N. (1945) Theory of Bessel Functions. Cambridge Univ. Press.
+34. Cochran, W. (1955) Acta Cryst. 8, 473-478.
+35. Karle, J. and Hauptman, H. (1956) Acta Cryst. 9, 635-651.
+36. Karle, I. L. and Karle, J, (1963) Acta Cryst. 16, 969-975.
+37. Karle, I. L., Dragonette, K. S. and Brenner, S. A. (1965) Acta Cryst. 19, 713-716.
+38. International Tables for X-ray Crystallography (1974) Vol. IV, Section 6, editors, J. A. Ibers and W.
+     Hamilton, The Kynoch Press, Birmingham.
+39. Karle, J, (1968) Acta Cryst. B24, 182- 186.
+40. Tollin, P. (1966) Acta Cryst. 21, 613-614.
+41. Crowther, R. A. and Blow, D. M. (1967) Acta Cryst. 23, 544-548.
+42. Karle, J. (1972) Acta Cryst. B28, 820-824.
+43. Langs, D. A. (1985) Acta Cryst A41, 578-582.
+44. Zachariasen, W. H. (1952) Acta Cryst. 5, 68-73.
+45. Rumanova, I. M. (1954) Doklady Acad. Nauk. U.S.S.R. 98, 399-402.
+46. Cochran, W. and Douglas, A. S. (1955) Proc. Roy. Soc. A 227, 486-500.
+47. Sayre, D. (1952) Acta Cryst. 5, 60-65.
+48. Crystallographic Computing (1970) editors, F. R. Ahmed, S. R. Hall and C. P. Huber, Munks-
+     gaard, Copenhagen.
+49. Crystallographic Computing Techniques (1976) editors, F. R. Ahmed, K. Huml and B. Sedlacek,
+     Munksgaard, Copenhagen.
+
+
+                                            J. Karle                                          253
+
+
+50. Computing in Crystallography (1980) editors, R. Diamond, S. Ramaseshan and K. Venkatesan,
+     Indian Academy of Sciences, Bangalore.
+51. Computational Crystallography (1982) editor, D. Sayre, Clarendon Press, Oxford.
+52. Methods and Applications in Crystallopphic Computing (1984) editors, S. R. Hall and T. Ashida,
+    Clarendon Press, Oxford.
+53. Christ, C. L., Clark, J. R. and Evans, H. T. Jr. (1954) Acta Cryst. 7, 453.
+54. Christ, C. L. and Clark, J. R. (1956) Acta Cryst 9, 830.
+55. Karle, I. L., Hauptman, H., Karle, J. and Wing, A. B. (1958) Acta Cryst 11, 257-263.
+56. Karle, I. L. (1961) Acta Cryst. 14, 497-502.
+57. Karle, I. L. and Karle, J. (1968) Acta Cryst. B24, 81-91.
+58. Karle, I. L. and Karle, J. (1969) Acta Cryst. B25, 428-434.
+59. Gilardi, R. D. (1970) Acta Cryst. B26, 440-441.
+60. Tokuyama, T., Daly, J. and Witkop, B. (1969) J, Am. Chem. Soc. 91, 3931-3938.
+61. Daly,J. W., Karle, I., Myers, C. W., Tokuyama, T., Waters, J. A. and Witkop, B. (1971) Proc.
+     Nat. Acad. Sci. USA 68, 1870- 875.
+62. Karle, I. L. (1973) J. Am. Chem. Soc. 95, 4036-4040.
+63. Tokuyama, T., Uenoyama, K., Brown, G., Daly, J. W. and Witkop, B. (1974) Helv. Chim.
+    Acta 57, 2597-2604.
+64. Karle, I. L. and Karle, J. (1964) Acta Cryst. 17, 1356-1360.
+65. Mitchell, J. W., Mandava, N., Worley, J. F., Plimmer, J. R. and Smith, N. V. (1970) Nature
+    225, 1065-1066.
+66. Mandava, N., Kozcmpel, M., Worley, J. F., Matthews, D., Warthen, J. D. Jr., Jacobson, N.,
+    Steffens, G. L., Kenny, H. and Grove, M. D. (1978) Ind. Eng. Chem., Prod. Res. Dev. 17,
+    351-354.
+67. Grove M. D., Spencer, G. F., Rohweddcr, W. K., Mandava, N., Worley, J. F., Warthen, J. D.
+    Jr., Steffens, G. I.., Flippen-Anderson, J. I,. and Cook, J. C. Jr. (1979) Nature 281, 216-217.
+68. Witkop, B. and Gössinger, E. (1983) The Alkaloids, Vol. XXI, editor, A. Brossi, Academic
+    Press, New York, 139-254.
+69. Daly, J. W. (1982) Progress in the Chemistry of Organic Natural Products, Vol. 41, editors, W.
+    Herz, H. Grisebach and G. W. Kirby, Springer-Verlag, New York, 206-340.
+70. Yonemitsu, O., Okuno, Y., Kanaoka, Y., Karle, and I. L. Witkop, B. (1968) J. Am. Chem.
+    Soc. 90,6522-6523.
+71. Karle, I. L. Gibson, J. W. and Karle, J. (1969) Acta Cryst. B25, 2034-2039.
+72. Jones, D. S. and Karle, I. L. (1974) Acta Cryst. B30, 617-623.
+73. Iwakuma, T., Nakai, H., Yonemitsu, O., Jones, D. S., Karle, I. L. Witkop, B. (1972) J. Am.
+    Chem. Soc. 94, 5136-5139.
+74. Karle, I. L. (1982) Acta Cryst. B38, 1022- 1024.
+75. Hughes, J., Smith, T. W., Kosterlitz, H. W., Fothergill, L. A., Morgan, B. A. and Morris, H.
+    R. (1975) Nature 2.58, 577-579.
+76. Karle, I. L., Karle, J., Mastropaolo, D., Camerman, A. and Camerman, N. (1983) Acta Cryst.
+    B39, 625-637.
+77. Wald, G. (1968) Nature 219, 800-807.
+78. Gilardi, R., Sperling, W., and Karle, I. L., Karle, J, (1971) Nature 232, 187-188.
+79. Gilardi, R. D., Karle, I. L. and Karle, J. (1972) Acta Cryst. B28, 2605-2612.
+80. Hamanaka, T., Mitsui, T., Ashida, T. and Kakudo, M. (1972) Acta Cryst. B28, 214-222.
+81. Honig, B. and Karplus, M. (1971) Nature 229, 558-560.
+82. Karle, I. L. (1985) Proc. Natl. Acad. Sci. USA 82, 7155-7159.
+83. Ramaseshan, S. and Abrahams, S. C. (1975) editors, AnomalousScattering, Munksgaard, Copcn-
+     hagen.
+84. Karle, J. (1986) Acta Cryst, A42 (in press).
+85. Bijvoet, J. M. (1954) Nature 173, 888-891.
+86. Hendrickson, W. A. and Teeter, M. (1981) Nature 290, 107-l13.
+87. Karle, J. (1980) Int. J. Quantum Chem. Symp. 7, 357-367.
+88. Cromer, D. T. (1974) in International Tables for X-Ray Crystallography, Vol. IV, editors, J. A.
+     Ibers and W. Hamilton, The Kynoch Press, Birmingham, pp. 148-151.
+
+
+254                                     Chemistry 1985
+
+
+89.   Karle, J. (1985) Acta Cryst. A41, 387-394.
+90.   Hauptman, H. (1982) Acta Cryst. A38, 632-641.
+91.   Hauptman, H. (1982) Acta Cryst. A38, 289-294.
+92.   Giacovazzo, C. (1983) Acta Cryst. A39, 585-592.
+93.   Pontenagel, W. M. G. F., Krabbendam, H., Peerdeman, A. F. and Kroon J. (1983) Eighth
+      Eur. Crystallogr. Meet., 8-12 Aug., Abstract 4.01P, p. 257.
+94.   Fortier, S., Moore, N. J. and Fraser, M. E. (1985) Acta Cryst. A41, 571-577.
+95.   Karle, J. (1983) Acta Cryst. A39, 800-805.
+96.   Karle, J. (1984) Acta Cryst. A40, 374-379.
+97.   Karle, J. (1984) Acta Cryst. A40, 526-531.
+98.   Karle, J. (1985) Acta Cryst. A41, 182-189.
+
