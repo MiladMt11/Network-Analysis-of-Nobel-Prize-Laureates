@@ -1,3 +1,9 @@
+---
+layout: page
+---
+
+{% include toc.html %}
+
 # The network of Nobel Prize laureates 
 
 ## Introduction
