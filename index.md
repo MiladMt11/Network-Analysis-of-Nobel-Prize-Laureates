@@ -1,5 +1,4 @@
 
-
 {% include toc.html %}
 
 # The network of Nobel Prize Laureates 
