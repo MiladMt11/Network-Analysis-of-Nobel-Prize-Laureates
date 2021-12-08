@@ -3,6 +3,7 @@
 
 # The network of Nobel Prize Laureates 
 Link to the explainer notebook on [Nbviewer](https://nbviewer.org/github/fontaluc/Nobel/blob/aef3b28e14977c49086cffe1d6f919d37bb15dd1/explainer_notebook.ipynb).
+
 Link to the needed folders and files [github](https://github.com/fontaluc/Nobel/tree/gh-pages/Notebook_files)
 ## Introduction
 
