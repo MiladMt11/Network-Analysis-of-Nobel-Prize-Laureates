@@ -4,11 +4,11 @@ layout: page
 
 {% include toc.html %}
 
-# The network of Nobel Prize laureates 
+# The network of Nobel Prize Laureates 
 
 ## Introduction
 
-We chose to build the network of Nobel Prize laureates, using a list of Nobel laureates found on [Wikipedia](https://en.wikipedia.org/wiki/List_of_Nobel_laureates#List_of_laureates), in which there is an edge between two laureates if one of the laureate's Wikipedia page contains a link to the other laureate's page. The network consists in 969 nodes and 3220 edges. We decide to add the attributes year, prize, age, country of birth and gender, retrieved from the laureates' Wikipedia pages, to the nodes of the network. 
+We chose to build the network of Nobel Prize Laureates, using a list of Nobel laureates found on [Wikipedia](https://en.wikipedia.org/wiki/List_of_Nobel_laureates#List_of_laureates), in which there is an edge between two laureates if one of the laureate's Wikipedia page contains a link to the other laureate's page. The network consists in 969 nodes and 3220 edges. We decide to add the attributes year, prize, age, country of birth and gender, retrieved from the laureates' Wikipedia pages, to the nodes of the network. 
 
 Through our analysis of the network, we would like to better understand Nobel Prize laureates and the prizes themselves. In particular, we would like to know what characterizes Nobel laureates in terms of age, gender and nationality, how they are connected to each other and what are the communities of laureates. Finally, we will analyze the Nobel lectures of the laureates, that we extracted from nobelprize.org, to understand their sentiments and how they evolve through time. 
 
@@ -38,15 +38,15 @@ You can explore yourself the network with the interactive visualization below an
 
 To know more about the network of laureates, we will compute basic statistics about the number of laureates in each prize, the age of laureates, their gender, country of birth and connectivity. The most interesting results have been summarized below, and more statistics can be found in the explainer notebook which you can find in the GitHub repository of the webpage.
 
-### Number of laureates in each Nobel Prize
+### Number of Laureates in each Nobel Prize
 
-Before studying the attributes of laureates, let's look at how they are distributed in the different Nobel prizes.
+Before studying the attributes of Laureates, let's look at how they are distributed in the different Nobel prizes.
 
 <p align="center">
   <img src="images/prize_distribution.png?raw=true">
 </p>
 
-The scientific prizes have the most laureates because it is common that they are jointly awarded to several laureates at the same time, whereas the Literature Nobel Prize usually awards only one laureate every year. It shows that science relies on the multiple perspectives of different researchers on the same topic, unlike literature which is more centered on the individual perspective of a single writer.
+The scientific prizes have the most Laureates because it is common that they are jointly awarded to several Laureates at the same time, whereas the Literature Nobel Prize usually awards only one Laureate every year. It shows that science relies on the multiple perspectives of different researchers on the same topic, unlike Literature which is more centered on the individual perspective of a single writer.
 
 <p align="center">
   <img src="images/prize_distribution_evolution.png?raw=true">
@@ -171,7 +171,7 @@ In this section we used word clouds to show the most frequent words in each of t
 Below you can find the word clouds for each category.
 
 <p align="center">
-  <img src="images/Category WordCloud.png">
+  <img src="images/Category WordCloud.png alt="drawing" width="600"">
 </p>
 
 As it can be seen in the picture, words like "Particle", "Neutrino", "Gravitational", "Supernova" and etc. have appeared the most in the Physics category. This represents, most of the content of laureates Wikipedia pages is about the main concepts of physics like gravity, subatomic particles, astronomy and etc. It is interesting to note that the word "Protein" appeared in both Chemistry and Physiology or Medicine categories. As was expected, there is a lot of economy-related phrases shown in the Economics category word cloud. Words like "poem", "poetry", "screenplay" and "playwright" are the most frequent ones in the Literature category which refer to different contexts of literature. Most of the words appeard in the word cloud of Peace category are abberivations for peace related or political organizations.
@@ -180,7 +180,7 @@ As it can be seen in the picture, words like "Particle", "Neutrino", "Gravitatio
 According to the picture below, We found 15 communities in our network and added the name of top 5 laureates (degree wise!) in each community on top of the word clouds. Going further to the details, this is evident that some of the communities are representive of different fields of science like physics, chemistry and medicine. Also, some categories of Nobel Prize can be found in word clouds, such as community number 14 which represents economics and community number 5 which represents peace. Other communities, depict the words related to the field of work of laureates written on top of them.
 
 <p align="center">
-  <img src="images/Community WordCloud.png">
+  <img src="images/Community WordCloud.png alt="drawing" width="600"">
 </p>
 
 
