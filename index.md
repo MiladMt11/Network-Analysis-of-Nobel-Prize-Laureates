@@ -2,7 +2,8 @@
 {% include toc.html %}
 
 # The network of Nobel Prize Laureates 
-Link to the explainer notebook on [Nbviewer](https://nbviewer.org/github/fontaluc/Nobel/blob/gh-pages/explainer_notebook.ipynb).
+Link to the explainer notebook on [Nbviewer](https://nbviewer.org/github/fontaluc/Nobel/blob/aef3b28e14977c49086cffe1d6f919d37bb15dd1/explainer_notebook.ipynb).
+Link to the needed folders and files [github](https://github.com/fontaluc/Nobel/tree/gh-pages/Notebook_files)
 ## Introduction
 
 We chose to build the network of Nobel Prize Laureates, using a list of Nobel laureates found on [Wikipedia](https://en.wikipedia.org/wiki/List_of_Nobel_laureates#List_of_laureates), in which there is an edge between two laureates if one of the laureate's Wikipedia page contains a link to the other laureate's page. The network consists in 969 nodes and 3220 edges. We decide to add the attributes year, prize, age, country of birth and gender, retrieved from the laureates' Wikipedia pages, to the nodes of the network. 
