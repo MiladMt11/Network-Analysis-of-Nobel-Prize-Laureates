@@ -40,13 +40,13 @@ To know more about the network of laureates, we will compute basic statistics ab
 Before studying the attributes of Laureates, let's look at how they are distributed in the different Nobel prizes.
 
 <p align="center">
-  <img src="images/prize_distribution.png?raw=true" alt="drawing" width="600">
+  <img src="images/prize_distribution.png?raw=true" alt="drawing" width="800">
 </p>
 
 The scientific prizes have the most Laureates because it is common that they are jointly awarded to several Laureates at the same time, whereas the Literature Nobel Prize usually awards only one Laureate every year. It shows that science relies on the multiple perspectives of different researchers on the same topic, unlike Literature which is more centered on the individual perspective of a single writer.
 
 <p align="center">
-  <img src="images/prize_distribution_evolution.png?raw=true" alt="drawing" width="600">
+  <img src="images/prize_distribution_evolution.png?raw=true" alt="drawing" width="800">
 </p>
 
 According to this plot, the total number of laureates has increased with the years, due to the increase in laureates in almost all of the prizes (except Litterature, with one laureate almost every year) and the introduction of the Economics Nobel Prize in 1969, until 2000 when it begins to stabilize. In addition, we can see two noticeable holes in the plot at the time of the two world wars.
@@ -58,7 +58,7 @@ Moreover, this plot explains the distribution of laureates in the different priz
 Let's find out at what age you can expect to be awarded a Nobel Prize. 
 
 <p align="center">
-  <img src="images/age.png?raw=true" alt="drawing" width="600">
+  <img src="images/age.png?raw=true" alt="drawing" width="400">
 </p>
 
 The age to receive a Nobel Prize seems normally distributed around 60, with a mimimum of 17 and a maximum of 97. Let's look at how it differs according to the prize.
@@ -72,7 +72,7 @@ All the prizes seem to have roughly a normal distribution for age, with a mean a
 Nobel Prizes are awarded to individuals but also organizations, in the case of the Peace Nobel Prize. By looking at the gender of individual laureates, we will be able to assess the Nobel Prize gender gap. 
 
 <p align="center">
-  <img src="images/gender_proportion.png?raw=true" alt="drawing" width="600">
+  <img src="images/gender_proportion.png?raw=true" alt="drawing" width="400">
 </p>
 
 Females account for less than 10% of all the individual laureates. 
@@ -87,13 +87,13 @@ According to this plot, 30% of all female laureates were awarded the Peace Nobel
 Finally, we would like to know if the Nobel Prize gender gap has been reduced over time.
 
 <p align="center">
-  <img src="images/gender_gap_evolution.png?raw=true" alt="drawing" width="600">
+  <img src="images/gender_gap_evolution.png?raw=true" alt="drawing" width="400">
 </p>
 
 This figure suggests that the Nobel Prize gender gap is reducing in recent years. Indeed, according to the plot, the frequency and yearly number of female laureates has increased since 1960-1970 and reaches a significant proportion of all individual laureates since 2000. But has it improved in all Nobel prizes, including the most masculine field, Physics?
 
 <p align="center">
-  <img src="images/prize_gender_gap_evolution.png?raw=true" alt="drawing" width="600">
+  <img src="images/prize_gender_gap_evolution.png?raw=true" alt="drawing" width="700">
 </p>
 
 There is indeed a recent increase in the frequency and number of female laureates in all Nobel prizes. But this increase is unequal according to the prize. In particular, Physics and Economics Nobel Prizes are still not much awarded to female laureates even nowadays.
@@ -103,13 +103,13 @@ There is indeed a recent increase in the frequency and number of female laureate
 Are there countries from which most of the laureates come from?
 
 <p align="center">
-  <img src="images/top_countries.png?raw=true" alt="drawing" width="600">
+  <img src="images/top_countries.png?raw=true" alt="drawing" width="800">
 </p>
 
 The Unites States clearly has by far the most laureates: by counting only the laureates whose country attribute is not 'Unknown', more than 25% of all laureates were born in the United States. Many of the laureates were also born in Germany and France, with respectively more than 10% and 5% of all laureates. More surprising is the fact that Austria, Russia and Poland are in the top 10 countries even though today they are not considered among the most advanced countries in the world, but this could be explained by their past contribution to science. On the contrary, China, which is today one of the most powerful countries in the world, and competes wih the United States on the international stage, is not in the top 10 countries, because it is still an emergent country. To confirm these hypotheses, we investigated the evolution of the number of laureates from these 4 countries.
 
 <p align="center">
-  <img src="images/odd_countries.png?raw=true" alt="drawing" width="600">
+  <img src="images/odd_countries.png?raw=true" alt="drawing" width="700">
 </p>
 
 Laureates from Austria, Russia and Poland were indeed mostly awarded in the past. According to the plots, laureates from Austria and Poland frequently received Nobel Prizes in the past but the frequency seems to decrease with time, especially for Poland. On the other hand, Russia had a high frequency of Nobel Prizes during the Cold War. On the contrary, Nobel Prizes were not much awarded to Chinese laureates in the past, but it has become more frequent since 1990, which makes sense given that China is an emergent country.
@@ -117,7 +117,7 @@ Laureates from Austria, Russia and Poland were indeed mostly awarded in the past
 Finally, we would like to know if the top countries are the same for all Nobel Prizes, and if any country is especially strong in one field.
 
 <p align="center">
-  <img src="images/prize_top_countries_small.png?raw=true" alt="drawing" width="600">
+  <img src="images/prize_top_countries_small.png?raw=true" alt="drawing" width="800">
 </p>
 
 According to the plots, the United States is the first country for all Nobel Prizes. It is especially good in Economics, for which almost 50% of the laureates come from the United States, but less in Literature, for which France has almost the same number of laureates (10%). Germany follows the United States in all scientific prizes, but is outcompeted by France for Peace.
@@ -168,7 +168,7 @@ In this section, we used word clouds to show the most frequent words in each of 
 Below you can find the word clouds for each category.
 
 <p align="center">
-  <img src="images/Category WordCloud.png" alt="drawing" width="600">
+  <img src="images/Category WordCloud.png" alt="drawing" width="800">
 </p>
 
 As it can be seen in the picture, words like "Particle", "Neutrino", "Gravitational", "Supernova" etc. have appeared the most in the Physics category. This represents, most of the content of laureates Wikipedia pages is about the main concepts of physics like gravity, subatomic particles, astronomy and etc. It is interesting to note that the word "Protein" appeared in both Chemistry and Physiology or Medicine categories. As was expected, there is a lot of economy-related phrases shown in the Economics category word cloud. Words like "poem", "poetry", "screenplay" and "playwright" are the most frequent ones in the Literature category which refer to different contexts of literature. Most of the words that appeared in the word cloud of Peace category are abbreivations for peace-related or political organizations.
@@ -177,7 +177,7 @@ As it can be seen in the picture, words like "Particle", "Neutrino", "Gravitatio
 According to the picture below, We found 15 communities in our network and added the name of the top 5 laureates (degree wise!) in each community on top of the word clouds. Going further to the details, this is evident that some of the communities are representative of different fields of science like physics, chemistry, and medicine. Also, some categories of Nobel Prize can be found in word clouds, such as community number 14 which represents economics, and community number 5 which represents peace. Other communities depict the words related to the field of work of laureates written on top of them.
 
 <p align="center">
-  <img src="images/Community WordCloud.png" alt="drawing" width="600">
+  <img src="images/Community WordCloud.png" alt="drawing" width="800">
 </p>
 
 
@@ -197,13 +197,17 @@ Now, let's see some results!
 
 First of all let's see the histogram of the sentiment between Nobel Prize Laureates.
 
+<p align="center">
 <img src="images/sent_hist.png" alt="drawing" width="800"/>
+</p>
 
 As we can see from the figure above the sentiments of the Laureates are concentrated around the value $0.1$. This means that the texts of their Nobel lectures are not much emotional, but are at least positive in most cases.
 
 We can also find  who have the most positively, or negatively emotional Lectures among the laureates. The results for this experiment are depicted in the figures below.
 
+<p align="center">
 <img src="images/happiest_lau.png" alt="drawing" width="500"/> <img src="images/saddest_lau.png" alt="drawing" width="500"/>
+</p>
 
 As we can see, the most negative emotionally Lectures, were given by organizations that received the Peace award, and not individuals. This pattern is very interesting, and we wonder why is that happening. The answer may be that these Organizations fight against something negative happening in the globe, and this is what they talk about in their lecture. 
 Something that also needs to be commented is themost positive Laureate *John B. Goodenough*, even though he is a chemist, and his lecture was mostly about figures and mathematical formulas, he holds the most positive score. This is because he refers to technologies that are going to have very positive results to the world.
@@ -211,11 +215,16 @@ Also, the most negative sentimented Laureate, is a *Élie Ducommun*, even though
 
 Last but not least we created the bar plot of the average sentiment per year for the different categories. The category that is mostly interesting totalk about is the sentiment of Laureates awarded the Literature Nobel Prize. In the figure below we can see why.
 
-<img src="images/literature_years_sen2.png" alt="drawing" width="600"/>
+<p align="center">
+<img src="images/literature_years_sen2.png" alt="drawing" width="400"/>
+</p>
 
 As we observe above, the sentiment in Literature Lectures between 1901 and 2020, changes between periods. We can see that there is a clear reduction of sentiment as the years passed. We can also distinct three periods in that plot. From 1901-1940, the sentiment started rising and reached a peak around 1920 and remained relatively high the consecutive years. Then from 1940-1980, the scores started declining fast and reached the first negative scores. Finally, from 1980-2019 the sentiment started growing in the beginning but, declining again at the second half. We can somehow distinct different generations (or eras) by observing this plot.
 
 Last but not least, after looking at the results above about the negative sentiments among Organization Lectures, we decided to find also how the sentiment is distributed between the genders. 
-<img src="images/sent_gender.png" alt="drawing" width="600"/>
+
+<p align="center">
+<img src="images/sent_gender.png" alt="drawing" width="400"/>
+</p>
 
 The figure above is a bar plot, that shows us an interesting result. We are presenting the mean score of sentiment in Peace and Literature categories, by gender. Even though some research [link](https://www.researchgate.net/publication/321405914_Gender_Bias_in_Sentiment_Analysis) shows that there is a bias in sentiment scores, and females tend to have higher sentiment scores, our plot show that this is not the case in our experiment.
