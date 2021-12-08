@@ -33,7 +33,7 @@ You can explore yourself the network with the interactive visualization below an
     
 ## Statistics
 
-To know more about the network of laureates, we will compute basic statistics about the number of laureates in each prize, the age of laureates, their gender, country of birth and connectivity. The most interesting results have been summarized below, and more statistics can be found in the explainer notebook which you can find in the GitHub repository of the webpage.
+To know more about the network of laureates, we will compute basic statistics about the number of laureates in each prize, the age of laureates, their gender, country of birth and connectivity. The most interesting results have been summarized below, and more statistics can be found in the [explainer notebook](https://github.com/fontaluc/Nobel/blob/ed12eff4fb6a41c37809a23a0f23ae1aa6d6ae03/explainer_notebook.ipynb) which you can find in the GitHub repository of the webpage, where we provided the datasets we used for the project.
 
 ### Number of Laureates in each Nobel Prize
 
