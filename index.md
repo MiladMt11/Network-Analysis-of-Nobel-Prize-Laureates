@@ -1,6 +1,11 @@
 
 {% include toc.html %}
 
+<head>
+    <link rel="shortcut icon" type="image/png" href="images/favicon.png">
+</head>
+
+
 # The network of Nobel Prize Laureates 
 
 ## Introduction
