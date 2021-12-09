@@ -1,10 +1,12 @@
 
 {% include toc.html %}
 
-# The network of Nobel Prize Laureates 
-Link to the explainer notebook on [Nbviewer](https://nbviewer.org/github/fontaluc/Nobel/blob/aef3b28e14977c49086cffe1d6f919d37bb15dd1/explainer_notebook.ipynb).
+Additional files:
+* Explainer notebook on [Nbviewer](https://nbviewer.org/github.com/fontaluc/Nobel/blob/8eac6aa8ca6e538a3c11f55845b164534adb32cd/Notebook_files/Nobel_Prize_Laureates_Network_Final.ipynb)
+* Datasets on [github](https://github.com/fontaluc/Nobel/tree/gh-pages/Notebook_files)
 
-Link to the needed folders and files [github](https://github.com/fontaluc/Nobel/tree/gh-pages/Notebook_files)
+# The network of Nobel Prize Laureates 
+
 ## Introduction
 
 We chose to build the network of Nobel Prize Laureates, using a list of Nobel laureates found on [Wikipedia](https://en.wikipedia.org/wiki/List_of_Nobel_laureates#List_of_laureates), in which there is an edge between two laureates if one of the laureate's Wikipedia page contains a link to the other laureate's page. The network consists in 969 nodes and 3220 edges. We decide to add the attributes year, prize, age, country of birth and gender, retrieved from the laureates' Wikipedia pages, to the nodes of the network. 
@@ -35,7 +37,7 @@ You can explore yourself the network with the interactive visualization below an
     
 ## Statistics
 
-To know more about the network of laureates, we will compute basic statistics about the number of laureates in each prize, the age of laureates, their gender, country of birth and connectivity. The most interesting results have been summarized below, and more statistics can be found in the [explainer notebook](https://github.com/fontaluc/Nobel/blob/004cab9ba7b6e8fa526705ac9625b397bf86f250/explainer_notebook.ipynb) which you can find in the GitHub repository of the webpage, where we provided the datasets we used for the project.
+To know more about the network of laureates, we will compute basic statistics about the number of laureates in each prize, the age of laureates, their gender, country of birth and connectivity. The most interesting results have been summarized below, and more statistics can be found in the [explainer notebook](https://nbviewer.org/github.com/fontaluc/Nobel/blob/8eac6aa8ca6e538a3c11f55845b164534adb32cd/Notebook_files/Nobel_Prize_Laureates_Network_Final.ipynb) which you can find in the GitHub repository of the webpage, where we provided the datasets we used for the project.
 
 ### Number of Laureates in each Nobel Prize
 
@@ -135,27 +137,27 @@ First, let's take a look at who are the most influential laureates in our networ
   <img src="images/Top10 Influential.png" alt="drawing" width="600">
 </p>
 
-As it can be seen in the plot, almost all of the laureates shown in the plot, have won the award in one of the scientific categories. "United Nations" is also on the top ten list which is most likely because many laureates in the peace category are somehow related to this organization due to their activities, thus the number of connections of this node is relatively high. Additionally, an organization such as United Nations could potentially have links to laureates in other categories as well.
+As it can be seen in the plot, almost all of the laureates shown in the plot have won the award in one of the scientific categories. "United Nations" is also on the top ten list which is most likely because many laureates in the peace category are somehow related to this organization due to their activities, thus the number of connections of this node is relatively high. Additionally, an organization such as United Nations could potentially have links to laureates in other categories as well.
 
 #### Connectivity Through Time
 The goal of this part is to discuss the connectivity of the network for each year. The following plots are provided in this regard.
 
-The first plot below represents the average degree for each year. Based on the plot, it's clear that four periods of time have the highest average degrees. In the first period, the prize was only awarded in two categories, Physics and Chemistry, which clarifies the noticeable high average degree in the year 1918. Additionally, The laureates in these categories were "Max Planck" and "Fritz Haber" who are both located in our network with a great amount of connectivity. The other three periods were 1962, 1954, and 1944. In each of these years, there was a laureate who is also listed among our top 10 most influential laureates with the highest degree, people like "Otto Hahn", "Linus Pauling" and "Max Born". Therefore, the average degree in the mentioned years is almost higher than the other years.
+The first plot below represents the average degree for each year. Based on the plot, it's clear that four years have the highest average degrees. In 1918, the Nobel Prize was only awarded to two laureates "Max Planck" and "Fritz Haber" in Physics and Chemistry, who both have a big amount of links, which clarifies the noticeable high average degree in the year 1918.The other three years were 1962, 1954, and 1944. In each of these years, there was a laureate who is also listed among our top 10 most connected laureates, people like "Otto Hahn", "Linus Pauling" and "Max Born". Therefore, the average degree in the mentioned years is higher than the other years.
 
 <p align="center">
   <img src="images/Average Connectivity Through Time.png" alt="drawing" width="600">
 </p>
 
-Using the second plot, we attempted to represent the maximum degree over time. There is a noticeable difference in the maximum degree for each year before 1965 compared to the years after 1965. The reason behind this might be that as we move forward in time, references (links) to laureates who won the award in the past increase. This may be caused by the citations or references made by recent laureate's to previous laureates work. consequently, the average degree in the years before 1965 is higher than in recent years.
+Taking the average degree might hide the presence of high-degree laureates which are surrounded by many other low-degree laureates awarded the same year. That is why, using the second plot, we attempted to represent the maximum degree over time. There is a noticeable difference in the maximum degree for each year before 1965 compared to the years after 1965. The reason behind this might be that as we move forward in time, references (links) to laureates who won the award in the past increase. This may be caused by the citations or references made by recent laureate's to previous laureates work. Another reason might be that the years between 1918 and 1965 were a period rich in groundbreaking contributions to science, as suggested by the names of the top 10 laureates. 
 
 <p align="center">
   <img src="images/Max Connectivity Through Time.png" alt="drawing" width="600">
 </p>
 
 #### Connectivity for Each Category
-We can also examine connectivity from another aspect by investigating the maximum degree of connection among the winners of each category.
+We can also examine connectivity from another aspect by investigating the maximum degree of connections among the winners of each category.
 According to the following plot, the Physics category is the one with the highest connectivity. Why is this so?
-This can be explained by the fact that laureates in the Physics category tend to have more collaboration in their research fields and other scientific areas, also it may be possible that they have shared the prize with one or two other laureates. As well as that, It is possible to consider references and citations in this regard. On the other hand, the lowest maximum degree belongs to the literature category. Perhaps this is because literature laureates may not collaborate as much as other categories. Moreover, there is no significant relation between laureates in literature and laureates in other categories.
+This can be explained by the fact that laureates in the Physics category tend to have more collaboration in their research fields and other scientific areas, also it may be possible that they have shared the prize with one or two other laureates. As well as that, it is possible to consider references and citations in this regard. On the other hand, the lowest maximum degree belongs to the literature category. Perhaps this is because literature laureates may not collaborate as much as other categories. Moreover, there is no significant relation between laureates in literature and laureates in other categories.
 
 <p align="center">
   <img src="images/Max Connectivity Each Category.png" alt="drawing" width="600">
@@ -164,7 +166,7 @@ This can be explained by the fact that laureates in the Physics category tend to
 ## Word Clouds
 What words appeared the most in laureates pages?
 How does the word or words relate to the category in which the laureate was awarded?
-In this section, we used word clouds to show the most frequent words in each of the prize categories as well as in each community (which we obtained by implementing [Louvain Method](https://en.wikipedia.org/wiki/Louvain_method)).
+In this section, we used word clouds to show the most frequent words that characterize each of the prize categories as well as each of the communities (which we obtained by implementing [Louvain Method](https://en.wikipedia.org/wiki/Louvain_method)).
 
 ### Category Word Cloud
 Below you can find the word clouds for each category.
@@ -173,10 +175,10 @@ Below you can find the word clouds for each category.
   <img src="images/Category WordCloud.png" alt="drawing" width="800">
 </p>
 
-As it can be seen in the picture, words like "Particle", "Neutrino", "Gravitational", "Supernova" etc. have appeared the most in the Physics category. This represents, most of the content of laureates Wikipedia pages is about the main concepts of physics like gravity, subatomic particles, astronomy and etc. It is interesting to note that the word "Protein" appeared in both Chemistry and Physiology or Medicine categories. As was expected, there is a lot of economy-related phrases shown in the Economics category word cloud. Words like "poem", "poetry", "screenplay" and "playwright" are the most frequent ones in the Literature category which refer to different contexts of literature. Most of the words that appeared in the word cloud of Peace category are abbreivations for peace-related or political organizations.
+As it can be seen in the picture, words like "Particle", "Neutrino", "Gravitational", "Supernova" etc. have appeared the most in the Physics category. This represents, most of the content of laureates Wikipedia pages is about the main concepts of physics like gravity, subatomic particles, astronomy and etc. It is interesting to note that the word "Protein" appeared in both Chemistry and Physiology or Medicine categories. As was expected, there is a lot of economy-related phrases shown in the Economics category word cloud. Words like "poem", "poetry", "screenplay" and "playwright" are the most frequent ones in the Literature category which refer to different contexts of literature. Most of the words that appeared in the word cloud of Peace category are abbreviations for peace-related or political organizations.
 
 ### Communities Word Cloud
-According to the picture below, We found 15 communities in our network and added the name of the top 5 laureates (degree wise!) in each community on top of the word clouds. Going further to the details, this is evident that some of the communities are representative of different fields of science like physics, chemistry, and medicine. Also, some categories of Nobel Prize can be found in word clouds, such as community number 14 which represents economics, and community number 5 which represents peace. Other communities depict the words related to the field of work of laureates written on top of them.
+According to the picture below, we found 15 communities in our network and added the name of the top 5 laureates (degree wise!) in each community on top of the word clouds. Some communities correspond simply to Nobel Prize categories: Literature, Peace and Economics. However, the big science cluster that we identified earlier by visualizing the network colored according to the prize is acutally divided into several smaller communities that are not exactly Physics, Chemistry and Physiology or Medicine. These clusters are either communities inside one prize, like Community 1 which includes Albert Einstein and which is mostly about physics and more specifically, radioactivity, or at the intersection between different prizes, like Community 12, which is a surprising mix of astrophysics (Physics) and biology (Physiology or Medicine). This result confirms our previous comment on the fact that the science prizes look much more interconnected than the other three prizes.
 
 <p align="center">
   <img src="images/Community WordCloud.png" alt="drawing" width="800">
@@ -193,7 +195,7 @@ Yes you guessed correctly! The answer is their Nobel Prize Lectures. The Nobel L
 
 The Nobel Lectures though do not exist in an opensource library that we can just download. So we had to create a webcrawler, using the *selenium* library in python and crawl through the different pages of the official website for Nobel Prizes (nobelprize.org). This website, contains the information we need in most cases, but the format between different webpages differ a lot, so we found much information but not for all the Laureates.
 
-As now we have a dataset, that we can extract sentiment, we now need to find a tool to do that. Thankfully, there is a very good and sophisticated library called VADER for this job. Th VADER lexicon calculates the sentiment of whole sentences and contains evaluations for symbols and emojis, so its results are better than other methods in many cases. The scores created by the VADER methods, lie in the interval [-1,1], with -1 indicating very negative sentiment, 1 indicating very positive sentiment, while 0 accounts for neutral sentiment.
+As now we have a dataset, that we can extract sentiment, we now need to find a tool to do that. Thankfully, there is a very good and sophisticated library called VADER for this job. The VADER lexicon calculates the sentiment of whole sentences and takes into account rule-based enhancements like degree modifiers (adverbs like 'really') or negation that switch the polarity of a sentence, so its results are better than other methods in many cases. The scores created by the VADER methods, lie in the interval [-1,1], with -1 indicating very negative sentiment, 1 indicating very positive sentiment, while 0 accounts for neutral sentiment.
 
 Now, let's see some results!
 
@@ -203,7 +205,7 @@ First of all let's see the histogram of the sentiment between Nobel Prize Laurea
 <img src="images/sent_hist.png" alt="drawing" width="800"/>
 </p>
 
-As we can see from the figure above the sentiments of the Laureates are concentrated around the value $0.1$. This means that the texts of their Nobel lectures are not much emotional, but are at least positive in most cases.
+As we can see from the figure above the sentiments of the Laureates are concentrated around the value 0.1. This means that the texts of their Nobel lectures are not much emotional, but are at least positive in most cases.
 
 We can also find  who have the most positively, or negatively emotional Lectures among the laureates. The results for this experiment are depicted in the figures below.
 
@@ -213,15 +215,15 @@ We can also find  who have the most positively, or negatively emotional Lectures
 
 As we can see, the most negative emotionally Lectures, were given by organizations that received the Peace award, and not individuals. This pattern is very interesting, and we wonder why is that happening. The answer may be that these Organizations fight against something negative happening in the globe, and this is what they talk about in their lecture. 
 Something that also needs to be commented is themost positive Laureate *John B. Goodenough*, even though he is a chemist, and his lecture was mostly about figures and mathematical formulas, he holds the most positive score. This is because he refers to technologies that are going to have very positive results to the world.
-Also, the most negative sentimented Laureate, is a *Élie Ducommun*, even though he won the nobel Peace Prize, in his Lecture, he is talking about "The Futility of War Demonstrated by History", and that is the reason of the very negative score. 
+Also, the Laureate that has the most negative lecture is *Élie Ducommun*: in his Peace Nobel Prize Lecture, he is talking about "The Futility of War Demonstrated by History", and that is the reason of the very negative score. 
 
-Last but not least we created the bar plot of the average sentiment per year for the different categories. The category that is mostly interesting totalk about is the sentiment of Laureates awarded the Literature Nobel Prize. In the figure below we can see why.
+Last but not least we created the bar plot of the average sentiment per year for the different categories. The category that is mostly interesting to talk about is the sentiment of Laureates awarded the Literature Nobel Prize. In the figure below we can see why.
 
 <p align="center">
 <img src="images/literature_years_sen2.png" alt="drawing" width="400"/>
 </p>
 
-As we observe above, the sentiment in Literature Lectures between 1901 and 2020, changes between periods. We can see that there is a clear reduction of sentiment as the years passed. We can also distinct three periods in that plot. From 1901-1940, the sentiment started rising and reached a peak around 1920 and remained relatively high the consecutive years. Then from 1940-1980, the scores started declining fast and reached the first negative scores. Finally, from 1980-2019 the sentiment started growing in the beginning but, declining again at the second half. We can somehow distinct different generations (or eras) by observing this plot.
+As we observe above, the sentiment in Literature Lectures between 1901 and 2020 changes between periods. We can see that there is a clear reduction of sentiment as the years passed. We can also distinguish three periods in that plot. From 1901-1940, the sentiment started rising and reached a peak around 1920 and remained relatively high the consecutive years. Then from 1940-1980, the scores started declining fast and reached the first negative scores. Finally, from 1980-2019 the sentiment started growing in the beginning but, declining again at the second half. We can somehow distinct different generations (or eras) by observing this plot.
 
 Last but not least, after looking at the results above about the negative sentiments among Organization Lectures, we decided to find also how the sentiment is distributed between the genders. 
 
@@ -229,4 +231,4 @@ Last but not least, after looking at the results above about the negative sentim
 <img src="images/sent_gender.png" alt="drawing" width="400"/>
 </p>
 
-The figure above is a bar plot, that shows us an interesting result. We are presenting the mean score of sentiment in Peace and Literature categories, by gender. Even though some research [link](https://www.researchgate.net/publication/321405914_Gender_Bias_in_Sentiment_Analysis) shows that there is a bias in sentiment scores, and females tend to have higher sentiment scores, our plot show that this is not the case in our experiment.
+The figure above is a bar plot, that shows us an interesting result. We are presenting the mean score of sentiment in Peace and Literature categories, by gender. Even though some research [link](https://www.researchgate.net/publication/321405914_Gender_Bias_in_Sentiment_Analysis) shows that there is a bias in sentiment scores, and females tend to have higher sentiment scores, our plot show that this is not the case for Nobel lectures.
