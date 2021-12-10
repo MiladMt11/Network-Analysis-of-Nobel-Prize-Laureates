@@ -4,7 +4,7 @@
 # The network of Nobel Prize Laureates 
 
 Supplementary material:
-* Explainer notebook on [Nbviewer](https://nbviewer.org/github/fontaluc/Nobel/blob/8eac6aa8ca6e538a3c11f55845b164534adb32cd/Notebook_files/Nobel_Prize_Laureates_Network_Final.ipynb)
+* Explainer notebook on [Nbviewer](https://nbviewer.org/github/fontaluc/Nobel/blob/734c8e35bd1131ff46eaa7f08c07c4325299d601/Notebook_files/Nobel_Prize_Laureates_Network_Final.ipynb)
 * Datasets on [github](https://github.com/fontaluc/Nobel/tree/gh-pages/Notebook_files)
 
 ## Introduction
@@ -37,7 +37,7 @@ You can explore yourself the network with the interactive visualization below an
     
 ## Statistics
 
-To know more about the network of laureates, we will compute basic statistics about the number of laureates in each prize, the age of laureates, their gender, country of birth and connectivity. The most interesting results have been summarized below, and more statistics can be found in the [explainer notebook](https://nbviewer.org/github/fontaluc/Nobel/blob/8eac6aa8ca6e538a3c11f55845b164534adb32cd/Notebook_files/Nobel_Prize_Laureates_Network_Final.ipynb) which you can find in the GitHub repository of the webpage, where we provided the datasets we used for the project.
+To know more about the network of laureates, we will compute basic statistics about the number of laureates in each prize, the age of laureates, their gender, country of birth and connectivity. The most interesting results have been summarized below, and more statistics can be found in the [explainer notebook](https://nbviewer.org/github/fontaluc/Nobel/blob/734c8e35bd1131ff46eaa7f08c07c4325299d601/Notebook_files/Nobel_Prize_Laureates_Network_Final.ipynb) which you can find in the GitHub repository of the webpage, where we provided the datasets we used for the project.
 
 ### Number of Laureates in each Nobel Prize
 
