@@ -31,7 +31,7 @@ The primary goal of this project is to explore and analyze the network to gain i
 3. **Statistical Analysis:** Applying statistical techniques to explore relationships and trends in laureates' demographics and prize categories, including correlation analysis, hypothesis testing, and identifying significant variations over time or across different groups.
 4. **Exploratory Data Analysis (EDA):** Exploring the dataset of laureates to uncover patterns and insights related to their demographics, such as distributions of age, gender, country of birth, and prize categories. This stage includes data visualization to understand the overall structure and characteristics of the laureates.
 5. [**Community Detection:**](https://en.wikipedia.org/wiki/Community_structure) Applying community detection algorithms (e.g., Louvain, Girvan-Newman) to the laureate network to identify groups or clusters of laureates who are more interconnected. These communities can provide insights into collaborations or thematic groupings of prize winners.
-6. [**TF-IDF (Term Frequency-Inverse Document Frequency) Analysis:**](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+6. [**TF-IDF (Term Frequency-Inverse Document Frequency) Analysis:**](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) Using TF-IDF to extract important terms from Nobel lectures and identify key topics or unique terminology used by different laureates. This technique highlights the distinctive language and focus areas across different prize categories or time periods.
 7. **Sentiment and Textual Analysis:** Performing sentiment analysis on Nobel lectures to evaluate the emotional tone over time. Creating word clouds to visually represent the most frequently used words and recurring themes in laureates' speeches. This combined analysis uncovers both the topics and sentiments shaping their thoughts across different periods.
 
 ## Data:
@@ -46,13 +46,12 @@ The primary goal of this project is to explore and analyze the network to gain i
 * [ForceAtlas](https://pypi.org/project/ForceAtlas2/)
 
 ## Installation:
-If you want to run the notebookremember to Install the required Python packages using `pip`:
+If you want to run the notebook, remember to first Install the required Python packages using `pip`:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+```
 
-  
 ## References
 [^1] https://www.nobelprize.org/
 
